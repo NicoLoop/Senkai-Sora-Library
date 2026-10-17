@@ -1,0 +1,1349 @@
+{
+  "id": "series/vampire-dormitory",
+  "series_name": "Vampire Dormitory",
+  "title": "Vampire Dormitory",
+  "banner": "https://image.tmdb.org/t/p/w1280/wrSbw5nb5ep9tHJvR1qewKk0Iit.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/y4HvRKul54BSRFBeY5uaA3354Bz.jpg",
+  "genra": [
+    "Romance",
+    "Supernatural"
+  ],
+  "genres": [
+    "Romance",
+    "Supernatural"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Japanese"
+  ],
+  "synopsis": "After Mito loses her parents and is fired from her job, she must fend for herself on the streets disguised as a boy. She comes across a stranger named Ruka and learns his dark secret—he's a vampire! Ruka invites Mito, still in disguise, to live in an all-boys dorm. Mito exchanges her blood for a place to stay, but a budding romance and her true identity threaten all that hangs in the balance.",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Vampire Dormitory 1x1",
+          "id": "episode/vampire-dormitory-1x1",
+          "image": "https://img.watchanimeworld.one/image/1276/1/1.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "Vampire Dormitory 1x2",
+          "id": "episode/vampire-dormitory-1x2",
+          "image": "https://img.watchanimeworld.one/image/1276/1/2.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "Vampire Dormitory 1x3",
+          "id": "episode/vampire-dormitory-1x3",
+          "image": "https://img.watchanimeworld.one/image/1276/1/3.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "Vampire Dormitory 1x4",
+          "id": "episode/vampire-dormitory-1x4",
+          "image": "https://img.watchanimeworld.one/image/1276/1/4.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "Vampire Dormitory 1x5",
+          "id": "episode/vampire-dormitory-1x5",
+          "image": "https://img.watchanimeworld.one/image/1276/1/5.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "Vampire Dormitory 1x6",
+          "id": "episode/vampire-dormitory-1x6",
+          "image": "https://img.watchanimeworld.one/image/1276/1/6.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "Vampire Dormitory 1x7",
+          "id": "episode/vampire-dormitory-1x7",
+          "image": "https://img.watchanimeworld.one/image/1276/1/7.webp",
+          "season": 1
+        },
+        {
+          "episode": 8,
+          "title": "Vampire Dormitory 1x8",
+          "id": "episode/vampire-dormitory-1x8",
+          "image": "https://img.watchanimeworld.one/image/1276/1/8.webp",
+          "season": 1
+        },
+        {
+          "episode": 9,
+          "title": "Vampire Dormitory 1x9",
+          "id": "episode/vampire-dormitory-1x9",
+          "image": "https://img.watchanimeworld.one/image/1276/1/9.webp",
+          "season": 1
+        },
+        {
+          "episode": 10,
+          "title": "Vampire Dormitory 1x10",
+          "id": "episode/vampire-dormitory-1x10",
+          "image": "https://img.watchanimeworld.one/image/1276/1/10.webp",
+          "season": 1
+        },
+        {
+          "episode": 11,
+          "title": "Vampire Dormitory 1x11",
+          "id": "episode/vampire-dormitory-1x11",
+          "image": "https://img.watchanimeworld.one/image/1276/1/11.webp",
+          "season": 1
+        },
+        {
+          "episode": 12,
+          "title": "Vampire Dormitory 1x12",
+          "id": "episode/vampire-dormitory-1x12",
+          "image": "https://img.watchanimeworld.one/image/1276/1/12.webp",
+          "season": 1
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/vampire-dormitory-1x2",
+      "episode_id": "episode/vampire-dormitory-1x2",
+      "title": "Vampire Dormitory 1x1",
+      "episode_name": "Vampire Dormitory 1x1",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1276/1/2.webp",
+      "abyssid": "12845",
+      "abyssId": "12845",
+      "playxid": "46a4378f835dc8040c8057beb6a2da52",
+      "playXID": "46a4378f835dc8040c8057beb6a2da52",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12845",
+        "playXID": "46a4378f835dc8040c8057beb6a2da52",
+        "streamId": "12845",
+        "dubPlayerSrc": "/dub-player/t/12845/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=46a4378f835dc8040c8057beb6a2da52&abyssId=12845"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12845",
+        "playXID": "46a4378f835dc8040c8057beb6a2da52",
+        "streamId": "12845",
+        "dubPlayerSrc": "/dub-player/t/12845/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=46a4378f835dc8040c8057beb6a2da52&abyssId=12845"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/46a4378f835dc8040c8057beb6a2da52",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/46a4378f835dc8040c8057beb6a2da52"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12845",
+        "abyssId": "12845",
+        "playXID": "46a4378f835dc8040c8057beb6a2da52",
+        "title": "Vampire Dormitory",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "Ump6H4bDh"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "2NBoQNb9r"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "5ZZr0oeah"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/47b1d1246e3957fd23973dc88d364343/master.m3u8?md5=44OC5C8aCCOzHz-_OeNaWw&expires=1792166906",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/47b1d1246e3957fd23973dc88d364343/master.m3u8?md5=44OC5C8aCCOzHz-_OeNaWw&expires=1792166906",
+            "videoSource": "https://ravok.buzz/cdn/hls/47b1d1246e3957fd23973dc88d364343/master.m3u8?md5=44OC5C8aCCOzHz-_OeNaWw&expires=1792166906",
+            "videoImage": "https://as-cdn27.top/p/6f1M5uEEF7lt5pSHVYWCLz_vEF6CXUJsr7MIqyEJXUdyh1kAL74yvtk-Q8CpXBajTWUkR4UtwxiIYkqSlu3tlQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "46a4378f835dc8040c8057beb6a2da52",
+                "streamUrl": "https://ravok.buzz/cdn/hls/47b1d1246e3957fd23973dc88d364343/master.m3u8?md5=44OC5C8aCCOzHz-_OeNaWw&expires=1792166906",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/47b1d1246e3957fd23973dc88d364343/master.m3u8?md5=44OC5C8aCCOzHz-_OeNaWw&expires=1792166906",
+                "videoSource": "https://ravok.buzz/cdn/hls/47b1d1246e3957fd23973dc88d364343/master.m3u8?md5=44OC5C8aCCOzHz-_OeNaWw&expires=1792166906",
+                "link": "https://ravok.buzz/cdn/hls/47b1d1246e3957fd23973dc88d364343/master.m3u8?md5=44OC5C8aCCOzHz-_OeNaWw&expires=1792166906",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/6f1M5uEEF7lt5pSHVYWCLz_vEF6CXUJsr7MIqyEJXUdyh1kAL74yvtk-Q8CpXBajTWUkR4UtwxiIYkqSlu3tlQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "Ump6H4bDh"
+        }
+      },
+      "fetched_at": "2026-10-16T14:08:36Z"
+    },
+    {
+      "id": "episode/vampire-dormitory-1x5",
+      "episode_id": "episode/vampire-dormitory-1x5",
+      "title": "Vampire Dormitory 1x1",
+      "episode_name": "Vampire Dormitory 1x1",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1276/1/5.webp",
+      "abyssid": "12848",
+      "abyssId": "12848",
+      "playxid": "d1d5923fc822531bbfd9d87d4760914b",
+      "playXID": "d1d5923fc822531bbfd9d87d4760914b",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12848",
+        "playXID": "d1d5923fc822531bbfd9d87d4760914b",
+        "streamId": "12848",
+        "dubPlayerSrc": "/dub-player/t/12848/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d1d5923fc822531bbfd9d87d4760914b&abyssId=12848"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12848",
+        "playXID": "d1d5923fc822531bbfd9d87d4760914b",
+        "streamId": "12848",
+        "dubPlayerSrc": "/dub-player/t/12848/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d1d5923fc822531bbfd9d87d4760914b&abyssId=12848"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/d1d5923fc822531bbfd9d87d4760914b",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/d1d5923fc822531bbfd9d87d4760914b"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12848",
+        "abyssId": "12848",
+        "playXID": "d1d5923fc822531bbfd9d87d4760914b",
+        "title": "Vampire Dormitory",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "NZvUqqXAm"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "PiKPe6_i-A"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "ReG55QZZM"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/e2b79a2743d8fac6377241fa43ca1896/master.m3u8?md5=wp3nKJfAQ9-AKVq13jpMXA&expires=1792166906",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/e2b79a2743d8fac6377241fa43ca1896/master.m3u8?md5=wp3nKJfAQ9-AKVq13jpMXA&expires=1792166906",
+            "videoSource": "https://ravok.buzz/cdn/hls/e2b79a2743d8fac6377241fa43ca1896/master.m3u8?md5=wp3nKJfAQ9-AKVq13jpMXA&expires=1792166906",
+            "videoImage": "https://as-cdn27.top/p/LKwTfesRXXj2fOOiNRDYdlgkmn5MJ2iqsy5eORxC32J5MmxptQoacjl14cO2R5v9jDOgE26Z13dDh0XYD3wvPA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "d1d5923fc822531bbfd9d87d4760914b",
+                "streamUrl": "https://ravok.buzz/cdn/hls/e2b79a2743d8fac6377241fa43ca1896/master.m3u8?md5=wp3nKJfAQ9-AKVq13jpMXA&expires=1792166906",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/e2b79a2743d8fac6377241fa43ca1896/master.m3u8?md5=wp3nKJfAQ9-AKVq13jpMXA&expires=1792166906",
+                "videoSource": "https://ravok.buzz/cdn/hls/e2b79a2743d8fac6377241fa43ca1896/master.m3u8?md5=wp3nKJfAQ9-AKVq13jpMXA&expires=1792166906",
+                "link": "https://ravok.buzz/cdn/hls/e2b79a2743d8fac6377241fa43ca1896/master.m3u8?md5=wp3nKJfAQ9-AKVq13jpMXA&expires=1792166906",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/LKwTfesRXXj2fOOiNRDYdlgkmn5MJ2iqsy5eORxC32J5MmxptQoacjl14cO2R5v9jDOgE26Z13dDh0XYD3wvPA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "NZvUqqXAm"
+        }
+      },
+      "fetched_at": "2026-10-16T14:08:36Z"
+    },
+    {
+      "id": "episode/vampire-dormitory-1x1",
+      "episode_id": "episode/vampire-dormitory-1x1",
+      "title": "Vampire Dormitory 1x1",
+      "episode_name": "Vampire Dormitory 1x1",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1276/1/1.webp",
+      "abyssid": "12844",
+      "abyssId": "12844",
+      "playxid": "e5e580bb7e6f5e01ecf1be2c21a834e7",
+      "playXID": "e5e580bb7e6f5e01ecf1be2c21a834e7",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12844",
+        "playXID": "e5e580bb7e6f5e01ecf1be2c21a834e7",
+        "streamId": "12844",
+        "dubPlayerSrc": "/dub-player/t/12844/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e5e580bb7e6f5e01ecf1be2c21a834e7&abyssId=12844"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12844",
+        "playXID": "e5e580bb7e6f5e01ecf1be2c21a834e7",
+        "streamId": "12844",
+        "dubPlayerSrc": "/dub-player/t/12844/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e5e580bb7e6f5e01ecf1be2c21a834e7&abyssId=12844"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/e5e580bb7e6f5e01ecf1be2c21a834e7",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/e5e580bb7e6f5e01ecf1be2c21a834e7"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12844",
+        "abyssId": "12844",
+        "playXID": "e5e580bb7e6f5e01ecf1be2c21a834e7",
+        "title": "Vampire Dormitory",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "71cN98XZR"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "q_YGs8CVp"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "7hCmi_s7g"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/e47a36efbdfc43dbee42872b47c1ec50/master.m3u8?md5=90hs0J70oVyK9zZIEhTrTQ&expires=1792166906",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/e47a36efbdfc43dbee42872b47c1ec50/master.m3u8?md5=90hs0J70oVyK9zZIEhTrTQ&expires=1792166906",
+            "videoSource": "https://ravok.buzz/cdn/hls/e47a36efbdfc43dbee42872b47c1ec50/master.m3u8?md5=90hs0J70oVyK9zZIEhTrTQ&expires=1792166906",
+            "videoImage": "https://as-cdn30.top/p/OAUf2JZDYOKFDCz6fsY0_pNmkSOOIDxlhXXd2uoYtaj8nUWJLNG-lQ8ZULWDFcdOX1YrzXTfOPQKwRPwevIPJg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "e5e580bb7e6f5e01ecf1be2c21a834e7",
+                "streamUrl": "https://ravok.buzz/cdn/hls/e47a36efbdfc43dbee42872b47c1ec50/master.m3u8?md5=90hs0J70oVyK9zZIEhTrTQ&expires=1792166906",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/e47a36efbdfc43dbee42872b47c1ec50/master.m3u8?md5=90hs0J70oVyK9zZIEhTrTQ&expires=1792166906",
+                "videoSource": "https://ravok.buzz/cdn/hls/e47a36efbdfc43dbee42872b47c1ec50/master.m3u8?md5=90hs0J70oVyK9zZIEhTrTQ&expires=1792166906",
+                "link": "https://ravok.buzz/cdn/hls/e47a36efbdfc43dbee42872b47c1ec50/master.m3u8?md5=90hs0J70oVyK9zZIEhTrTQ&expires=1792166906",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/OAUf2JZDYOKFDCz6fsY0_pNmkSOOIDxlhXXd2uoYtaj8nUWJLNG-lQ8ZULWDFcdOX1YrzXTfOPQKwRPwevIPJg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "71cN98XZR"
+        }
+      },
+      "fetched_at": "2026-10-16T14:08:36Z"
+    },
+    {
+      "id": "episode/vampire-dormitory-1x3",
+      "episode_id": "episode/vampire-dormitory-1x3",
+      "title": "Vampire Dormitory 1x1",
+      "episode_name": "Vampire Dormitory 1x1",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1276/1/3.webp",
+      "abyssid": "12846",
+      "abyssId": "12846",
+      "playxid": "5fd513e89cc656d9c7ab2bca4168a4f2",
+      "playXID": "5fd513e89cc656d9c7ab2bca4168a4f2",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12846",
+        "playXID": "5fd513e89cc656d9c7ab2bca4168a4f2",
+        "streamId": "12846",
+        "dubPlayerSrc": "/dub-player/t/12846/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=5fd513e89cc656d9c7ab2bca4168a4f2&abyssId=12846"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12846",
+        "playXID": "5fd513e89cc656d9c7ab2bca4168a4f2",
+        "streamId": "12846",
+        "dubPlayerSrc": "/dub-player/t/12846/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=5fd513e89cc656d9c7ab2bca4168a4f2&abyssId=12846"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/5fd513e89cc656d9c7ab2bca4168a4f2",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/5fd513e89cc656d9c7ab2bca4168a4f2"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12846",
+        "abyssId": "12846",
+        "playXID": "5fd513e89cc656d9c7ab2bca4168a4f2",
+        "title": "Vampire Dormitory",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "krIvjCFs1"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "2IOR8Quri"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "rzmUr2qgd"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/0da866d0d41f5a906cd39ac786ebb7a1/master.m3u8?md5=MaJcVbeXdK6NF_sJcuB0Iw&expires=1792166906",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/0da866d0d41f5a906cd39ac786ebb7a1/master.m3u8?md5=MaJcVbeXdK6NF_sJcuB0Iw&expires=1792166906",
+            "videoSource": "https://ravok.buzz/cdn/hls/0da866d0d41f5a906cd39ac786ebb7a1/master.m3u8?md5=MaJcVbeXdK6NF_sJcuB0Iw&expires=1792166906",
+            "videoImage": "https://as-cdn28.top/p/UUykW0AVTpJ8c8JZQmjc7yDJHRQ885fNNi6_l107Q2TiJ7yNBSkZhqvBXxezeAyQIVlVHqWipXWORlaCaP-mXw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "5fd513e89cc656d9c7ab2bca4168a4f2",
+                "streamUrl": "https://ravok.buzz/cdn/hls/0da866d0d41f5a906cd39ac786ebb7a1/master.m3u8?md5=MaJcVbeXdK6NF_sJcuB0Iw&expires=1792166906",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/0da866d0d41f5a906cd39ac786ebb7a1/master.m3u8?md5=MaJcVbeXdK6NF_sJcuB0Iw&expires=1792166906",
+                "videoSource": "https://ravok.buzz/cdn/hls/0da866d0d41f5a906cd39ac786ebb7a1/master.m3u8?md5=MaJcVbeXdK6NF_sJcuB0Iw&expires=1792166906",
+                "link": "https://ravok.buzz/cdn/hls/0da866d0d41f5a906cd39ac786ebb7a1/master.m3u8?md5=MaJcVbeXdK6NF_sJcuB0Iw&expires=1792166906",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/UUykW0AVTpJ8c8JZQmjc7yDJHRQ885fNNi6_l107Q2TiJ7yNBSkZhqvBXxezeAyQIVlVHqWipXWORlaCaP-mXw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "krIvjCFs1"
+        }
+      },
+      "fetched_at": "2026-10-16T14:08:36Z"
+    },
+    {
+      "id": "episode/vampire-dormitory-1x6",
+      "episode_id": "episode/vampire-dormitory-1x6",
+      "title": "Vampire Dormitory 1x1",
+      "episode_name": "Vampire Dormitory 1x1",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1276/1/6.webp",
+      "abyssid": "12849",
+      "abyssId": "12849",
+      "playxid": "f4beeba0dd6c190c6ac02f85e7b3691c",
+      "playXID": "f4beeba0dd6c190c6ac02f85e7b3691c",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12849",
+        "playXID": "f4beeba0dd6c190c6ac02f85e7b3691c",
+        "streamId": "12849",
+        "dubPlayerSrc": "/dub-player/t/12849/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f4beeba0dd6c190c6ac02f85e7b3691c&abyssId=12849"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12849",
+        "playXID": "f4beeba0dd6c190c6ac02f85e7b3691c",
+        "streamId": "12849",
+        "dubPlayerSrc": "/dub-player/t/12849/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f4beeba0dd6c190c6ac02f85e7b3691c&abyssId=12849"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/f4beeba0dd6c190c6ac02f85e7b3691c",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/f4beeba0dd6c190c6ac02f85e7b3691c"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12849",
+        "abyssId": "12849",
+        "playXID": "f4beeba0dd6c190c6ac02f85e7b3691c",
+        "title": "Vampire Dormitory",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "QiAoThMU5"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "VlxX7ugqt"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "LZUqN0W9X"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/008cef29a5dd1f47fd9e875d2caf5770/master.m3u8?md5=QAzd-uE8uX_kdtYs8xcTSQ&expires=1792166908",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/008cef29a5dd1f47fd9e875d2caf5770/master.m3u8?md5=QAzd-uE8uX_kdtYs8xcTSQ&expires=1792166908",
+            "videoSource": "https://ravok.buzz/cdn/hls/008cef29a5dd1f47fd9e875d2caf5770/master.m3u8?md5=QAzd-uE8uX_kdtYs8xcTSQ&expires=1792166908",
+            "videoImage": "https://as-cdn31.top/p/neCBagDKmrvfEV6j39383_8SE8NzJusFmPNnP6L4iHWyAsDjuc4CmoueItmydbNvV6bu1k949rcDJwSn6lbMxg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "f4beeba0dd6c190c6ac02f85e7b3691c",
+                "streamUrl": "https://ravok.buzz/cdn/hls/008cef29a5dd1f47fd9e875d2caf5770/master.m3u8?md5=QAzd-uE8uX_kdtYs8xcTSQ&expires=1792166908",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/008cef29a5dd1f47fd9e875d2caf5770/master.m3u8?md5=QAzd-uE8uX_kdtYs8xcTSQ&expires=1792166908",
+                "videoSource": "https://ravok.buzz/cdn/hls/008cef29a5dd1f47fd9e875d2caf5770/master.m3u8?md5=QAzd-uE8uX_kdtYs8xcTSQ&expires=1792166908",
+                "link": "https://ravok.buzz/cdn/hls/008cef29a5dd1f47fd9e875d2caf5770/master.m3u8?md5=QAzd-uE8uX_kdtYs8xcTSQ&expires=1792166908",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/neCBagDKmrvfEV6j39383_8SE8NzJusFmPNnP6L4iHWyAsDjuc4CmoueItmydbNvV6bu1k949rcDJwSn6lbMxg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "QiAoThMU5"
+        }
+      },
+      "fetched_at": "2026-10-16T14:08:38Z"
+    },
+    {
+      "id": "episode/vampire-dormitory-1x7",
+      "episode_id": "episode/vampire-dormitory-1x7",
+      "title": "Vampire Dormitory 1x1",
+      "episode_name": "Vampire Dormitory 1x1",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1276/1/7.webp",
+      "abyssid": "12850",
+      "abyssId": "12850",
+      "playxid": "8462a7c229aea03dde69da754c3bbcc4",
+      "playXID": "8462a7c229aea03dde69da754c3bbcc4",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12850",
+        "playXID": "8462a7c229aea03dde69da754c3bbcc4",
+        "streamId": "12850",
+        "dubPlayerSrc": "/dub-player/t/12850/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8462a7c229aea03dde69da754c3bbcc4&abyssId=12850"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12850",
+        "playXID": "8462a7c229aea03dde69da754c3bbcc4",
+        "streamId": "12850",
+        "dubPlayerSrc": "/dub-player/t/12850/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8462a7c229aea03dde69da754c3bbcc4&abyssId=12850"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/8462a7c229aea03dde69da754c3bbcc4",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/8462a7c229aea03dde69da754c3bbcc4"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12850",
+        "abyssId": "12850",
+        "playXID": "8462a7c229aea03dde69da754c3bbcc4",
+        "title": "Vampire Dormitory",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "Be0HIbfTC"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "5OiHgOSVJ"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "2kFBwxV2K"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/57a1265327d3e652d2440a18e4cc9831/master.m3u8?md5=MGlXG0gM0B5Y_O4Ftc0YHA&expires=1792166908",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/57a1265327d3e652d2440a18e4cc9831/master.m3u8?md5=MGlXG0gM0B5Y_O4Ftc0YHA&expires=1792166908",
+            "videoSource": "https://ravok.buzz/cdn/hls/57a1265327d3e652d2440a18e4cc9831/master.m3u8?md5=MGlXG0gM0B5Y_O4Ftc0YHA&expires=1792166908",
+            "videoImage": "https://as-cdn31.top/p/A2EbPHzTBqGY_rwO5_c2eVkd-Fb072mGBwcuhmqcBnbD9WRQr6Un5n1YYR_ocPr8xNFMNMtYOsVRgmnQXhjVbg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "8462a7c229aea03dde69da754c3bbcc4",
+                "streamUrl": "https://ravok.buzz/cdn/hls/57a1265327d3e652d2440a18e4cc9831/master.m3u8?md5=MGlXG0gM0B5Y_O4Ftc0YHA&expires=1792166908",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/57a1265327d3e652d2440a18e4cc9831/master.m3u8?md5=MGlXG0gM0B5Y_O4Ftc0YHA&expires=1792166908",
+                "videoSource": "https://ravok.buzz/cdn/hls/57a1265327d3e652d2440a18e4cc9831/master.m3u8?md5=MGlXG0gM0B5Y_O4Ftc0YHA&expires=1792166908",
+                "link": "https://ravok.buzz/cdn/hls/57a1265327d3e652d2440a18e4cc9831/master.m3u8?md5=MGlXG0gM0B5Y_O4Ftc0YHA&expires=1792166908",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/A2EbPHzTBqGY_rwO5_c2eVkd-Fb072mGBwcuhmqcBnbD9WRQr6Un5n1YYR_ocPr8xNFMNMtYOsVRgmnQXhjVbg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "Be0HIbfTC"
+        }
+      },
+      "fetched_at": "2026-10-16T14:08:38Z"
+    },
+    {
+      "id": "episode/vampire-dormitory-1x8",
+      "episode_id": "episode/vampire-dormitory-1x8",
+      "title": "Vampire Dormitory 1x1",
+      "episode_name": "Vampire Dormitory 1x1",
+      "episode_number": 8,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1276/1/8.webp",
+      "abyssid": "12851",
+      "abyssId": "12851",
+      "playxid": "3d773b5ce67533d1b5b52d9b57936860",
+      "playXID": "3d773b5ce67533d1b5b52d9b57936860",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12851",
+        "playXID": "3d773b5ce67533d1b5b52d9b57936860",
+        "streamId": "12851",
+        "dubPlayerSrc": "/dub-player/t/12851/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=3d773b5ce67533d1b5b52d9b57936860&abyssId=12851"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12851",
+        "playXID": "3d773b5ce67533d1b5b52d9b57936860",
+        "streamId": "12851",
+        "dubPlayerSrc": "/dub-player/t/12851/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=3d773b5ce67533d1b5b52d9b57936860&abyssId=12851"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/3d773b5ce67533d1b5b52d9b57936860",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/3d773b5ce67533d1b5b52d9b57936860"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12851",
+        "abyssId": "12851",
+        "playXID": "3d773b5ce67533d1b5b52d9b57936860",
+        "title": "Vampire Dormitory",
+        "season": 1,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "2pr5GPQEW"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "JYT5MyRqf"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "ARrr0LoBDU"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/50435b1ed6d19e2b0ecd04f67c30c902/master.m3u8?md5=le_fmN4JNuOrdoyXKC3bww&expires=1792166908",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/50435b1ed6d19e2b0ecd04f67c30c902/master.m3u8?md5=le_fmN4JNuOrdoyXKC3bww&expires=1792166908",
+            "videoSource": "https://ravok.buzz/cdn/hls/50435b1ed6d19e2b0ecd04f67c30c902/master.m3u8?md5=le_fmN4JNuOrdoyXKC3bww&expires=1792166908",
+            "videoImage": "https://as-cdn30.top/p/ipU4dofjDUzVPZBrZ6TENY-sxrLbcqpJAOUYKPaIugz2ADSpivymA6ZltscHivmFvs0nh8ZZAdzjcmDa2o0sSw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "3d773b5ce67533d1b5b52d9b57936860",
+                "streamUrl": "https://ravok.buzz/cdn/hls/50435b1ed6d19e2b0ecd04f67c30c902/master.m3u8?md5=le_fmN4JNuOrdoyXKC3bww&expires=1792166908",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/50435b1ed6d19e2b0ecd04f67c30c902/master.m3u8?md5=le_fmN4JNuOrdoyXKC3bww&expires=1792166908",
+                "videoSource": "https://ravok.buzz/cdn/hls/50435b1ed6d19e2b0ecd04f67c30c902/master.m3u8?md5=le_fmN4JNuOrdoyXKC3bww&expires=1792166908",
+                "link": "https://ravok.buzz/cdn/hls/50435b1ed6d19e2b0ecd04f67c30c902/master.m3u8?md5=le_fmN4JNuOrdoyXKC3bww&expires=1792166908",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/ipU4dofjDUzVPZBrZ6TENY-sxrLbcqpJAOUYKPaIugz2ADSpivymA6ZltscHivmFvs0nh8ZZAdzjcmDa2o0sSw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "2pr5GPQEW"
+        }
+      },
+      "fetched_at": "2026-10-16T14:08:38Z"
+    },
+    {
+      "id": "episode/vampire-dormitory-1x9",
+      "episode_id": "episode/vampire-dormitory-1x9",
+      "title": "Vampire Dormitory 1x1",
+      "episode_name": "Vampire Dormitory 1x1",
+      "episode_number": 9,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1276/1/9.webp",
+      "abyssid": "12852",
+      "abyssId": "12852",
+      "playxid": "1543ceff58b1606182e9b7cf357712b3",
+      "playXID": "1543ceff58b1606182e9b7cf357712b3",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12852",
+        "playXID": "1543ceff58b1606182e9b7cf357712b3",
+        "streamId": "12852",
+        "dubPlayerSrc": "/dub-player/t/12852/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=1543ceff58b1606182e9b7cf357712b3&abyssId=12852"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12852",
+        "playXID": "1543ceff58b1606182e9b7cf357712b3",
+        "streamId": "12852",
+        "dubPlayerSrc": "/dub-player/t/12852/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=1543ceff58b1606182e9b7cf357712b3&abyssId=12852"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/1543ceff58b1606182e9b7cf357712b3",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/1543ceff58b1606182e9b7cf357712b3"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12852",
+        "abyssId": "12852",
+        "playXID": "1543ceff58b1606182e9b7cf357712b3",
+        "title": "Vampire Dormitory",
+        "season": 1,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "UkFu7Wo_O"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "B_qNlRWZ9"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "4pbrgZVbm"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/b40d36cd64e4398b0a57a15826191a32/master.m3u8?md5=Rnx6iGL0Trz7vg3BtH0FiQ&expires=1792166908",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/b40d36cd64e4398b0a57a15826191a32/master.m3u8?md5=Rnx6iGL0Trz7vg3BtH0FiQ&expires=1792166908",
+            "videoSource": "https://ravok.buzz/cdn/hls/b40d36cd64e4398b0a57a15826191a32/master.m3u8?md5=Rnx6iGL0Trz7vg3BtH0FiQ&expires=1792166908",
+            "videoImage": "https://as-cdn28.top/p/IJ6wky4pjSC0B03kIkcTJQzy3gH_xWoGgMtgxPZpxVGvo0Ikp2LtT_8FUFvIbqw3zhyKFJJtgTaPB4YV9YQztA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "1543ceff58b1606182e9b7cf357712b3",
+                "streamUrl": "https://ravok.buzz/cdn/hls/b40d36cd64e4398b0a57a15826191a32/master.m3u8?md5=Rnx6iGL0Trz7vg3BtH0FiQ&expires=1792166908",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/b40d36cd64e4398b0a57a15826191a32/master.m3u8?md5=Rnx6iGL0Trz7vg3BtH0FiQ&expires=1792166908",
+                "videoSource": "https://ravok.buzz/cdn/hls/b40d36cd64e4398b0a57a15826191a32/master.m3u8?md5=Rnx6iGL0Trz7vg3BtH0FiQ&expires=1792166908",
+                "link": "https://ravok.buzz/cdn/hls/b40d36cd64e4398b0a57a15826191a32/master.m3u8?md5=Rnx6iGL0Trz7vg3BtH0FiQ&expires=1792166908",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/IJ6wky4pjSC0B03kIkcTJQzy3gH_xWoGgMtgxPZpxVGvo0Ikp2LtT_8FUFvIbqw3zhyKFJJtgTaPB4YV9YQztA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "UkFu7Wo_O"
+        }
+      },
+      "fetched_at": "2026-10-16T14:08:38Z"
+    },
+    {
+      "id": "episode/vampire-dormitory-1x10",
+      "episode_id": "episode/vampire-dormitory-1x10",
+      "title": "Vampire Dormitory 1x1",
+      "episode_name": "Vampire Dormitory 1x1",
+      "episode_number": 10,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1276/1/10.webp",
+      "abyssid": "12853",
+      "abyssId": "12853",
+      "playxid": "10cc088a48f313ab3b1f4e6e76353dd4",
+      "playXID": "10cc088a48f313ab3b1f4e6e76353dd4",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12853",
+        "playXID": "10cc088a48f313ab3b1f4e6e76353dd4",
+        "streamId": "12853",
+        "dubPlayerSrc": "/dub-player/t/12853/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=10cc088a48f313ab3b1f4e6e76353dd4&abyssId=12853"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12853",
+        "playXID": "10cc088a48f313ab3b1f4e6e76353dd4",
+        "streamId": "12853",
+        "dubPlayerSrc": "/dub-player/t/12853/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=10cc088a48f313ab3b1f4e6e76353dd4&abyssId=12853"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/10cc088a48f313ab3b1f4e6e76353dd4",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/10cc088a48f313ab3b1f4e6e76353dd4"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12853",
+        "abyssId": "12853",
+        "playXID": "10cc088a48f313ab3b1f4e6e76353dd4",
+        "title": "Vampire Dormitory",
+        "season": 1,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "R89Nf1CG9"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "-DzKX9k_t"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "_R0ihaXIB"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/3e8284503eeef9a3d1e3fb34bca25157/master.m3u8?md5=kYrJYgaliQkFcxB4-Rxtqg&expires=1792166910",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/3e8284503eeef9a3d1e3fb34bca25157/master.m3u8?md5=kYrJYgaliQkFcxB4-Rxtqg&expires=1792166910",
+            "videoSource": "https://ravok.buzz/cdn/hls/3e8284503eeef9a3d1e3fb34bca25157/master.m3u8?md5=kYrJYgaliQkFcxB4-Rxtqg&expires=1792166910",
+            "videoImage": "https://as-cdn28.top/p/hXNltJzTlSkS3ru_8oU8eNM8MPaA2f80--SM-ek8FS1zuEEOBnYBbdrAtPfVT8fhjVVusYaDDB6-myMJxSd7nQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "10cc088a48f313ab3b1f4e6e76353dd4",
+                "streamUrl": "https://ravok.buzz/cdn/hls/3e8284503eeef9a3d1e3fb34bca25157/master.m3u8?md5=kYrJYgaliQkFcxB4-Rxtqg&expires=1792166910",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/3e8284503eeef9a3d1e3fb34bca25157/master.m3u8?md5=kYrJYgaliQkFcxB4-Rxtqg&expires=1792166910",
+                "videoSource": "https://ravok.buzz/cdn/hls/3e8284503eeef9a3d1e3fb34bca25157/master.m3u8?md5=kYrJYgaliQkFcxB4-Rxtqg&expires=1792166910",
+                "link": "https://ravok.buzz/cdn/hls/3e8284503eeef9a3d1e3fb34bca25157/master.m3u8?md5=kYrJYgaliQkFcxB4-Rxtqg&expires=1792166910",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/hXNltJzTlSkS3ru_8oU8eNM8MPaA2f80--SM-ek8FS1zuEEOBnYBbdrAtPfVT8fhjVVusYaDDB6-myMJxSd7nQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "R89Nf1CG9"
+        }
+      },
+      "fetched_at": "2026-10-16T14:08:40Z"
+    },
+    {
+      "id": "episode/vampire-dormitory-1x11",
+      "episode_id": "episode/vampire-dormitory-1x11",
+      "title": "Vampire Dormitory 1x1",
+      "episode_name": "Vampire Dormitory 1x1",
+      "episode_number": 11,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1276/1/11.webp",
+      "abyssid": "12854",
+      "abyssId": "12854",
+      "playxid": "4a46fbfca3f1465a27b210f4bdfe6ab3",
+      "playXID": "4a46fbfca3f1465a27b210f4bdfe6ab3",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12854",
+        "playXID": "4a46fbfca3f1465a27b210f4bdfe6ab3",
+        "streamId": "12854",
+        "dubPlayerSrc": "/dub-player/t/12854/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=4a46fbfca3f1465a27b210f4bdfe6ab3&abyssId=12854"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12854",
+        "playXID": "4a46fbfca3f1465a27b210f4bdfe6ab3",
+        "streamId": "12854",
+        "dubPlayerSrc": "/dub-player/t/12854/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=4a46fbfca3f1465a27b210f4bdfe6ab3&abyssId=12854"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/4a46fbfca3f1465a27b210f4bdfe6ab3",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/4a46fbfca3f1465a27b210f4bdfe6ab3"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12854",
+        "abyssId": "12854",
+        "playXID": "4a46fbfca3f1465a27b210f4bdfe6ab3",
+        "title": "Vampire Dormitory",
+        "season": 1,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "jSASrgfzP"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "ap9SbdCxr"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "TQ4Cdg51Y"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/5c6b7b55cce589f6aa973e0c73bd8d52/master.m3u8?md5=NHnYmKvYT3pnEz9sRdzOWw&expires=1792166910",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/5c6b7b55cce589f6aa973e0c73bd8d52/master.m3u8?md5=NHnYmKvYT3pnEz9sRdzOWw&expires=1792166910",
+            "videoSource": "https://ravok.buzz/cdn/hls/5c6b7b55cce589f6aa973e0c73bd8d52/master.m3u8?md5=NHnYmKvYT3pnEz9sRdzOWw&expires=1792166910",
+            "videoImage": "https://as-cdn30.top/p/nioeysEfySA49ckDRk5RXvwR267Q-hKBhPVJNs6HbtH8fqA-sgSl6WRCfpNMAh5__bbedwaj3tQSm0R4OdTCZA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "4a46fbfca3f1465a27b210f4bdfe6ab3",
+                "streamUrl": "https://ravok.buzz/cdn/hls/5c6b7b55cce589f6aa973e0c73bd8d52/master.m3u8?md5=NHnYmKvYT3pnEz9sRdzOWw&expires=1792166910",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/5c6b7b55cce589f6aa973e0c73bd8d52/master.m3u8?md5=NHnYmKvYT3pnEz9sRdzOWw&expires=1792166910",
+                "videoSource": "https://ravok.buzz/cdn/hls/5c6b7b55cce589f6aa973e0c73bd8d52/master.m3u8?md5=NHnYmKvYT3pnEz9sRdzOWw&expires=1792166910",
+                "link": "https://ravok.buzz/cdn/hls/5c6b7b55cce589f6aa973e0c73bd8d52/master.m3u8?md5=NHnYmKvYT3pnEz9sRdzOWw&expires=1792166910",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/nioeysEfySA49ckDRk5RXvwR267Q-hKBhPVJNs6HbtH8fqA-sgSl6WRCfpNMAh5__bbedwaj3tQSm0R4OdTCZA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "jSASrgfzP"
+        }
+      },
+      "fetched_at": "2026-10-16T14:08:40Z"
+    },
+    {
+      "id": "episode/vampire-dormitory-1x12",
+      "episode_id": "episode/vampire-dormitory-1x12",
+      "title": "Vampire Dormitory 1x1",
+      "episode_name": "Vampire Dormitory 1x1",
+      "episode_number": 12,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1276/1/12.webp",
+      "abyssid": "12855",
+      "abyssId": "12855",
+      "playxid": "0a3b5a7a477d359746061d41c3a04fd6",
+      "playXID": "0a3b5a7a477d359746061d41c3a04fd6",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12855",
+        "playXID": "0a3b5a7a477d359746061d41c3a04fd6",
+        "streamId": "12855",
+        "dubPlayerSrc": "/dub-player/t/12855/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=0a3b5a7a477d359746061d41c3a04fd6&abyssId=12855"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12855",
+        "playXID": "0a3b5a7a477d359746061d41c3a04fd6",
+        "streamId": "12855",
+        "dubPlayerSrc": "/dub-player/t/12855/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=0a3b5a7a477d359746061d41c3a04fd6&abyssId=12855"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/0a3b5a7a477d359746061d41c3a04fd6",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/0a3b5a7a477d359746061d41c3a04fd6"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12855",
+        "abyssId": "12855",
+        "playXID": "0a3b5a7a477d359746061d41c3a04fd6",
+        "title": "Vampire Dormitory",
+        "season": 1,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "ieuX21ZeS"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "V5Y-YVNRC"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "WIjKhzK92"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/892d437ef37dadd3dc507bea1ddecd4f/master.m3u8?md5=EIglx0PUn86jUzXfLAtZZw&expires=1792166910",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/892d437ef37dadd3dc507bea1ddecd4f/master.m3u8?md5=EIglx0PUn86jUzXfLAtZZw&expires=1792166910",
+            "videoSource": "https://ravok.buzz/cdn/hls/892d437ef37dadd3dc507bea1ddecd4f/master.m3u8?md5=EIglx0PUn86jUzXfLAtZZw&expires=1792166910",
+            "videoImage": "https://as-cdn27.top/p/uwDHRsOD8G6vvt31dAXJO3ienREOa8wVnTlZo_0N-vpcxy_qCZolvu6mTIikV-dVCkqYkJvGVRRgU9QgybYTgg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "0a3b5a7a477d359746061d41c3a04fd6",
+                "streamUrl": "https://ravok.buzz/cdn/hls/892d437ef37dadd3dc507bea1ddecd4f/master.m3u8?md5=EIglx0PUn86jUzXfLAtZZw&expires=1792166910",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/892d437ef37dadd3dc507bea1ddecd4f/master.m3u8?md5=EIglx0PUn86jUzXfLAtZZw&expires=1792166910",
+                "videoSource": "https://ravok.buzz/cdn/hls/892d437ef37dadd3dc507bea1ddecd4f/master.m3u8?md5=EIglx0PUn86jUzXfLAtZZw&expires=1792166910",
+                "link": "https://ravok.buzz/cdn/hls/892d437ef37dadd3dc507bea1ddecd4f/master.m3u8?md5=EIglx0PUn86jUzXfLAtZZw&expires=1792166910",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/uwDHRsOD8G6vvt31dAXJO3ienREOa8wVnTlZo_0N-vpcxy_qCZolvu6mTIikV-dVCkqYkJvGVRRgU9QgybYTgg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "ieuX21ZeS"
+        }
+      },
+      "fetched_at": "2026-10-16T14:08:40Z"
+    },
+    {
+      "id": "episode/vampire-dormitory-1x4",
+      "episode_id": "episode/vampire-dormitory-1x4",
+      "title": "Vampire Dormitory 1x1",
+      "episode_name": "Vampire Dormitory 1x1",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1276/1/4.webp",
+      "abyssid": "12847",
+      "abyssId": "12847",
+      "playxid": "1b486d7a5189ebe8d8c46afc64b0d1b4",
+      "playXID": "1b486d7a5189ebe8d8c46afc64b0d1b4",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12847",
+        "playXID": "1b486d7a5189ebe8d8c46afc64b0d1b4",
+        "streamId": "12847",
+        "dubPlayerSrc": "/dub-player/t/12847/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=1b486d7a5189ebe8d8c46afc64b0d1b4&abyssId=12847"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12847",
+        "playXID": "1b486d7a5189ebe8d8c46afc64b0d1b4",
+        "streamId": "12847",
+        "dubPlayerSrc": "/dub-player/t/12847/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=1b486d7a5189ebe8d8c46afc64b0d1b4&abyssId=12847"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/1b486d7a5189ebe8d8c46afc64b0d1b4",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/1b486d7a5189ebe8d8c46afc64b0d1b4"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12847",
+        "abyssId": "12847",
+        "playXID": "1b486d7a5189ebe8d8c46afc64b0d1b4",
+        "title": "Vampire Dormitory",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "1bHdoEuRX"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "64tD0mzQe"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "8JMAMceK-"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/c1fe61d4cc3b7a914eb8c44048d78eb9/master.m3u8?md5=z4CLmbg5iflbtCZd92NmkA&expires=1792166910",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/c1fe61d4cc3b7a914eb8c44048d78eb9/master.m3u8?md5=z4CLmbg5iflbtCZd92NmkA&expires=1792166910",
+            "videoSource": "https://ravok.buzz/cdn/hls/c1fe61d4cc3b7a914eb8c44048d78eb9/master.m3u8?md5=z4CLmbg5iflbtCZd92NmkA&expires=1792166910",
+            "videoImage": "https://as-cdn31.top/p/615pesiDaIK49dshothsFPOYTLRqcGuBEqVxDlW_l75qOd4KNz1OFQnggC3yEMSvD-8KtJj9xiDleDbsdrsW7Q.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "1b486d7a5189ebe8d8c46afc64b0d1b4",
+                "streamUrl": "https://ravok.buzz/cdn/hls/c1fe61d4cc3b7a914eb8c44048d78eb9/master.m3u8?md5=z4CLmbg5iflbtCZd92NmkA&expires=1792166910",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/c1fe61d4cc3b7a914eb8c44048d78eb9/master.m3u8?md5=z4CLmbg5iflbtCZd92NmkA&expires=1792166910",
+                "videoSource": "https://ravok.buzz/cdn/hls/c1fe61d4cc3b7a914eb8c44048d78eb9/master.m3u8?md5=z4CLmbg5iflbtCZd92NmkA&expires=1792166910",
+                "link": "https://ravok.buzz/cdn/hls/c1fe61d4cc3b7a914eb8c44048d78eb9/master.m3u8?md5=z4CLmbg5iflbtCZd92NmkA&expires=1792166910",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/615pesiDaIK49dshothsFPOYTLRqcGuBEqVxDlW_l75qOd4KNz1OFQnggC3yEMSvD-8KtJj9xiDleDbsdrsW7Q.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "1bHdoEuRX"
+        }
+      },
+      "fetched_at": "2026-10-16T14:08:40Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T14:08:34Z",
+  "updated_at": "2026-10-16T14:08:40Z"
+}

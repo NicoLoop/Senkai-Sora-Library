@@ -1,0 +1,758 @@
+{
+  "id": "series/thunder-3",
+  "series_name": "Thunder 3",
+  "title": "Thunder 3",
+  "banner": "https://image.tmdb.org/t/p/w1280/ho6FHjF1JlzAJ8YGdbqwuxaElDj.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/EwgegTmDUuf71tjZCswhJGo79F.jpg",
+  "genra": [
+    "Adventure",
+    "Drama",
+    "Mystery",
+    "Sci-Fi",
+    "Shounen",
+    "Supernatural"
+  ],
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Mystery",
+    "Sci-Fi",
+    "Shounen",
+    "Supernatural"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Japanese",
+    "Tamil",
+    "Telugu"
+  ],
+  "synopsis": "Unremarkably ordinary middle schoolers, Pyontaro, Hiroshi and Tsubame, wander into an extraordinary adventure when Pyontaro's little sister goes missing.",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 7,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 7,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Thunder 3 1x1",
+          "id": "episode/thunder-3-1x1",
+          "image": "https://img.watchanimeworld.one/img/thumb_2086_s1e1.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "Thunder 3 1x2",
+          "id": "episode/thunder-3-1x2",
+          "image": "https://img.watchanimeworld.one/img/thumb_2086_s1e2.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "Thunder 3 1x3",
+          "id": "episode/thunder-3-1x3",
+          "image": "https://img.watchanimeworld.one/img/thumb_2086_s1e3.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "Thunder 3 1x4",
+          "id": "episode/thunder-3-1x4",
+          "image": "https://img.watchanimeworld.one/img/thumb_2086_s1e4.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "Thunder 3 1x5",
+          "id": "episode/thunder-3-1x5",
+          "image": "https://img.watchanimeworld.one/img/thumb_2086_s1e5.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "Thunder 3 1x6",
+          "id": "episode/thunder-3-1x6",
+          "image": "https://img.watchanimeworld.one/img/thumb_2086_s1e6.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "Thunder 3 1x7",
+          "id": "episode/thunder-3-1x7",
+          "image": "https://img.watchanimeworld.one/img/thumb_2086_s1e7.webp",
+          "season": 1
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/thunder-3-1x2",
+      "episode_id": "episode/thunder-3-1x2",
+      "title": "Thunder 3 1x1",
+      "episode_name": "Thunder 3 1x1",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2086_s1e2.webp",
+      "abyssid": "18647",
+      "abyssId": "18647",
+      "playxid": "e5cebc6f1325b090a06621c52e0f4e91",
+      "playXID": "e5cebc6f1325b090a06621c52e0f4e91",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18647",
+        "playXID": "e5cebc6f1325b090a06621c52e0f4e91",
+        "streamId": "18647",
+        "dubPlayerSrc": "/dub-player/t/18647/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e5cebc6f1325b090a06621c52e0f4e91&abyssId=18647"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18647",
+        "playXID": "e5cebc6f1325b090a06621c52e0f4e91",
+        "streamId": "18647",
+        "dubPlayerSrc": "/dub-player/t/18647/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e5cebc6f1325b090a06621c52e0f4e91&abyssId=18647"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/5bdf44ad388f37f844f38d32761c8ae1",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/5bdf44ad388f37f844f38d32761c8ae1"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18647",
+        "abyssId": "18647",
+        "playXID": "e5cebc6f1325b090a06621c52e0f4e91",
+        "title": "Thunder 3",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "OlVIMXYXe"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "5jAYTZQqr"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "bUmOhe7oF"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "vxCwUW8cL"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "iQqLVVMBU"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/465fb88903350b58fccab555da51e71c/master.m3u8?md5=jRzg-yl_p_iQXR5Dx8yhAg&expires=1792165864",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/465fb88903350b58fccab555da51e71c/master.m3u8?md5=jRzg-yl_p_iQXR5Dx8yhAg&expires=1792165864",
+            "videoSource": "https://ravok.buzz/cdn/hls/465fb88903350b58fccab555da51e71c/master.m3u8?md5=jRzg-yl_p_iQXR5Dx8yhAg&expires=1792165864",
+            "videoImage": "https://as-cdn29.top/p/DESS-6XO2-FB6loA1A9a8_6UxcrwfSI99FwJJljLdv1gQ_tt1sr48pzK_QabjnVAYQhyHoItf7Q7XjUpzyrJcw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "e5cebc6f1325b090a06621c52e0f4e91",
+                "streamUrl": "https://ravok.buzz/cdn/hls/465fb88903350b58fccab555da51e71c/master.m3u8?md5=jRzg-yl_p_iQXR5Dx8yhAg&expires=1792165864",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/465fb88903350b58fccab555da51e71c/master.m3u8?md5=jRzg-yl_p_iQXR5Dx8yhAg&expires=1792165864",
+                "videoSource": "https://ravok.buzz/cdn/hls/465fb88903350b58fccab555da51e71c/master.m3u8?md5=jRzg-yl_p_iQXR5Dx8yhAg&expires=1792165864",
+                "link": "https://ravok.buzz/cdn/hls/465fb88903350b58fccab555da51e71c/master.m3u8?md5=jRzg-yl_p_iQXR5Dx8yhAg&expires=1792165864",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/DESS-6XO2-FB6loA1A9a8_6UxcrwfSI99FwJJljLdv1gQ_tt1sr48pzK_QabjnVAYQhyHoItf7Q7XjUpzyrJcw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "OlVIMXYXe"
+        }
+      },
+      "fetched_at": "2026-10-16T13:51:14Z"
+    },
+    {
+      "id": "episode/thunder-3-1x3",
+      "episode_id": "episode/thunder-3-1x3",
+      "title": "Thunder 3 1x1",
+      "episode_name": "Thunder 3 1x1",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2086_s1e3.webp",
+      "abyssid": "18739",
+      "abyssId": "18739",
+      "playxid": "e0070f4adceee3ac92c8eb8b95ad84a7",
+      "playXID": "e0070f4adceee3ac92c8eb8b95ad84a7",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18739",
+        "playXID": "e0070f4adceee3ac92c8eb8b95ad84a7",
+        "streamId": "18739",
+        "dubPlayerSrc": "/dub-player/t/18739/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e0070f4adceee3ac92c8eb8b95ad84a7&abyssId=18739"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18739",
+        "playXID": "e0070f4adceee3ac92c8eb8b95ad84a7",
+        "streamId": "18739",
+        "dubPlayerSrc": "/dub-player/t/18739/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e0070f4adceee3ac92c8eb8b95ad84a7&abyssId=18739"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/1a01b448690083588db6c9dbc171031a",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/1a01b448690083588db6c9dbc171031a"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18739",
+        "abyssId": "18739",
+        "playXID": "e0070f4adceee3ac92c8eb8b95ad84a7",
+        "title": "Thunder 3",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "C8fJCeCA1"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "UQ2-AbHas"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "4gRq9L7HX"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "RqeX4zarP"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "GHqAvQO_1"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/bfadbca0b988a3fdb6ec9a6c30e62174/master.m3u8?md5=x4iSbFZlKRlKJ2e2OZ46Yw&expires=1792165864",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/bfadbca0b988a3fdb6ec9a6c30e62174/master.m3u8?md5=x4iSbFZlKRlKJ2e2OZ46Yw&expires=1792165864",
+            "videoSource": "https://ravok.buzz/cdn/hls/bfadbca0b988a3fdb6ec9a6c30e62174/master.m3u8?md5=x4iSbFZlKRlKJ2e2OZ46Yw&expires=1792165864",
+            "videoImage": "https://as-cdn27.top/p/EZ8e5o_DJfQkYgNk64iDns6I78gmJnFvgXgfDITuvnNYwVb_zxzn6pNZj14guAE5gtTFiFJnSPF9IjkpeHPtHg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "e0070f4adceee3ac92c8eb8b95ad84a7",
+                "streamUrl": "https://ravok.buzz/cdn/hls/bfadbca0b988a3fdb6ec9a6c30e62174/master.m3u8?md5=x4iSbFZlKRlKJ2e2OZ46Yw&expires=1792165864",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/bfadbca0b988a3fdb6ec9a6c30e62174/master.m3u8?md5=x4iSbFZlKRlKJ2e2OZ46Yw&expires=1792165864",
+                "videoSource": "https://ravok.buzz/cdn/hls/bfadbca0b988a3fdb6ec9a6c30e62174/master.m3u8?md5=x4iSbFZlKRlKJ2e2OZ46Yw&expires=1792165864",
+                "link": "https://ravok.buzz/cdn/hls/bfadbca0b988a3fdb6ec9a6c30e62174/master.m3u8?md5=x4iSbFZlKRlKJ2e2OZ46Yw&expires=1792165864",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/EZ8e5o_DJfQkYgNk64iDns6I78gmJnFvgXgfDITuvnNYwVb_zxzn6pNZj14guAE5gtTFiFJnSPF9IjkpeHPtHg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "C8fJCeCA1"
+        }
+      },
+      "fetched_at": "2026-10-16T13:51:14Z"
+    },
+    {
+      "id": "episode/thunder-3-1x1",
+      "episode_id": "episode/thunder-3-1x1",
+      "title": "Thunder 3 1x1",
+      "episode_name": "Thunder 3 1x1",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2086_s1e1.webp",
+      "abyssid": "18532",
+      "abyssId": "18532",
+      "playxid": "4aec9b9c38fe30d8411f2a18e6324c9d",
+      "playXID": "4aec9b9c38fe30d8411f2a18e6324c9d",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18532",
+        "playXID": "4aec9b9c38fe30d8411f2a18e6324c9d",
+        "streamId": "18532",
+        "dubPlayerSrc": "/dub-player/t/18532/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=4aec9b9c38fe30d8411f2a18e6324c9d&abyssId=18532"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18532",
+        "playXID": "4aec9b9c38fe30d8411f2a18e6324c9d",
+        "streamId": "18532",
+        "dubPlayerSrc": "/dub-player/t/18532/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=4aec9b9c38fe30d8411f2a18e6324c9d&abyssId=18532"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/f08ddeeefd0099a226d98ab014e6e3ca",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/f08ddeeefd0099a226d98ab014e6e3ca"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18532",
+        "abyssId": "18532",
+        "playXID": "4aec9b9c38fe30d8411f2a18e6324c9d",
+        "title": "Thunder 3",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "9XOvdKWrR3"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "gno_2aBBd9"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "TYbOOmVkV"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "lqyLGzWw7"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "w2MLS1OpC"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/9dbdfdee495b762367f8ceb4bd12d1bc/master.m3u8?md5=HVaRL2IAohbNqf7mFtYlTA&expires=1792165864",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/9dbdfdee495b762367f8ceb4bd12d1bc/master.m3u8?md5=HVaRL2IAohbNqf7mFtYlTA&expires=1792165864",
+            "videoSource": "https://ravok.buzz/cdn/hls/9dbdfdee495b762367f8ceb4bd12d1bc/master.m3u8?md5=HVaRL2IAohbNqf7mFtYlTA&expires=1792165864",
+            "videoImage": "https://as-cdn30.top/p/7taHIWpj7imjAI2G-afDw39Ndlms7Ry57R01fcA52Z25aHlwOOHGVnZOtc3DyWJcJgootPNbcALfrd1xzKnvMg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "4aec9b9c38fe30d8411f2a18e6324c9d",
+                "streamUrl": "https://ravok.buzz/cdn/hls/9dbdfdee495b762367f8ceb4bd12d1bc/master.m3u8?md5=HVaRL2IAohbNqf7mFtYlTA&expires=1792165864",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/9dbdfdee495b762367f8ceb4bd12d1bc/master.m3u8?md5=HVaRL2IAohbNqf7mFtYlTA&expires=1792165864",
+                "videoSource": "https://ravok.buzz/cdn/hls/9dbdfdee495b762367f8ceb4bd12d1bc/master.m3u8?md5=HVaRL2IAohbNqf7mFtYlTA&expires=1792165864",
+                "link": "https://ravok.buzz/cdn/hls/9dbdfdee495b762367f8ceb4bd12d1bc/master.m3u8?md5=HVaRL2IAohbNqf7mFtYlTA&expires=1792165864",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/7taHIWpj7imjAI2G-afDw39Ndlms7Ry57R01fcA52Z25aHlwOOHGVnZOtc3DyWJcJgootPNbcALfrd1xzKnvMg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "9XOvdKWrR3"
+        }
+      },
+      "fetched_at": "2026-10-16T13:51:14Z"
+    },
+    {
+      "id": "episode/thunder-3-1x5",
+      "episode_id": "episode/thunder-3-1x5",
+      "title": "Thunder 3 1x1",
+      "episode_name": "Thunder 3 1x1",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2086_s1e5.webp",
+      "abyssid": null,
+      "abyssId": null,
+      "playxid": "e913bfa37964c7073c81c32a6d750b99",
+      "playXID": "e913bfa37964c7073c81c32a6d750b99",
+      "stream_info": {
+        "hasDubPlayer": false,
+        "abyssId": null,
+        "playXID": "e913bfa37964c7073c81c32a6d750b99",
+        "streamId": null,
+        "dubPlayerSrc": null,
+        "message": "No episode sources found",
+        "serversEndpoint": "/stream/servers/?playXID=e913bfa37964c7073c81c32a6d750b99"
+      },
+      "streamInfo": {
+        "hasDubPlayer": false,
+        "abyssId": null,
+        "playXID": "e913bfa37964c7073c81c32a6d750b99",
+        "streamId": null,
+        "dubPlayerSrc": null,
+        "message": "No episode sources found",
+        "serversEndpoint": "/stream/servers/?playXID=e913bfa37964c7073c81c32a6d750b99"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/fbdbfda408198bbfbae637420759f90c",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/fbdbfda408198bbfbae637420759f90c"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "e913bfa37964c7073c81c32a6d750b99",
+        "abyssId": null,
+        "playXID": "e913bfa37964c7073c81c32a6d750b99",
+        "title": "Episode Stream",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/2726ac9815f7cfecc3c1fe518da8a9eb/master.m3u8?md5=VzAy6A_XLmVgU_I8bLwGAQ&expires=1792165864",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/2726ac9815f7cfecc3c1fe518da8a9eb/master.m3u8?md5=VzAy6A_XLmVgU_I8bLwGAQ&expires=1792165864",
+            "videoSource": "https://ravok.buzz/cdn/hls/2726ac9815f7cfecc3c1fe518da8a9eb/master.m3u8?md5=VzAy6A_XLmVgU_I8bLwGAQ&expires=1792165864",
+            "videoImage": "https://as-cdn27.top/p/nV48jTCmBzfEBWqdQeyEdIevhMiyTfsx4-CJpOld7yLm58WlICMjo3OmFJ2SgkSDaSdLuko0iI3WIn9x8WERbA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "e913bfa37964c7073c81c32a6d750b99",
+                "streamUrl": "https://ravok.buzz/cdn/hls/2726ac9815f7cfecc3c1fe518da8a9eb/master.m3u8?md5=VzAy6A_XLmVgU_I8bLwGAQ&expires=1792165864",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/2726ac9815f7cfecc3c1fe518da8a9eb/master.m3u8?md5=VzAy6A_XLmVgU_I8bLwGAQ&expires=1792165864",
+                "videoSource": "https://ravok.buzz/cdn/hls/2726ac9815f7cfecc3c1fe518da8a9eb/master.m3u8?md5=VzAy6A_XLmVgU_I8bLwGAQ&expires=1792165864",
+                "link": "https://ravok.buzz/cdn/hls/2726ac9815f7cfecc3c1fe518da8a9eb/master.m3u8?md5=VzAy6A_XLmVgU_I8bLwGAQ&expires=1792165864",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/nV48jTCmBzfEBWqdQeyEdIevhMiyTfsx4-CJpOld7yLm58WlICMjo3OmFJ2SgkSDaSdLuko0iI3WIn9x8WERbA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "playx",
+          "language": "multi",
+          "video_id": "e913bfa37964c7073c81c32a6d750b99",
+          "streamUrl": "https://ravok.buzz/cdn/hls/2726ac9815f7cfecc3c1fe518da8a9eb/master.m3u8?md5=VzAy6A_XLmVgU_I8bLwGAQ&expires=1792165864"
+        }
+      },
+      "fetched_at": "2026-10-16T13:51:14Z"
+    },
+    {
+      "id": "episode/thunder-3-1x4",
+      "episode_id": "episode/thunder-3-1x4",
+      "title": "Thunder 3 1x1",
+      "episode_name": "Thunder 3 1x1",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2086_s1e4.webp",
+      "abyssid": null,
+      "abyssId": null,
+      "playxid": "d38d719f68f335deb774cc5ff8682ced",
+      "playXID": "d38d719f68f335deb774cc5ff8682ced",
+      "stream_info": {
+        "hasDubPlayer": false,
+        "abyssId": null,
+        "playXID": "d38d719f68f335deb774cc5ff8682ced",
+        "streamId": null,
+        "dubPlayerSrc": null,
+        "message": "No episode sources found",
+        "serversEndpoint": "/stream/servers/?playXID=d38d719f68f335deb774cc5ff8682ced"
+      },
+      "streamInfo": {
+        "hasDubPlayer": false,
+        "abyssId": null,
+        "playXID": "d38d719f68f335deb774cc5ff8682ced",
+        "streamId": null,
+        "dubPlayerSrc": null,
+        "message": "No episode sources found",
+        "serversEndpoint": "/stream/servers/?playXID=d38d719f68f335deb774cc5ff8682ced"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/b83972e1aa62776ab9d15abf7ef6f387",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/b83972e1aa62776ab9d15abf7ef6f387"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "d38d719f68f335deb774cc5ff8682ced",
+        "abyssId": null,
+        "playXID": "d38d719f68f335deb774cc5ff8682ced",
+        "title": "Episode Stream",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/b55c7c2c56e152065fedd6a3d0b6b600/master.m3u8?md5=tmu824LYhWreptRumAiDvw&expires=1792165865",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/b55c7c2c56e152065fedd6a3d0b6b600/master.m3u8?md5=tmu824LYhWreptRumAiDvw&expires=1792165865",
+            "videoSource": "https://ravok.buzz/cdn/hls/b55c7c2c56e152065fedd6a3d0b6b600/master.m3u8?md5=tmu824LYhWreptRumAiDvw&expires=1792165865",
+            "videoImage": "https://as-cdn30.top/p/TZvdAuloYpZMNl0PJPEEt5fM-TUWigZtdsOKcHtR8A4w-g-NTFTB6ou0qRT-dX9j6wNDlYk_eM5fvdcC86QGwg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "d38d719f68f335deb774cc5ff8682ced",
+                "streamUrl": "https://ravok.buzz/cdn/hls/b55c7c2c56e152065fedd6a3d0b6b600/master.m3u8?md5=tmu824LYhWreptRumAiDvw&expires=1792165865",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/b55c7c2c56e152065fedd6a3d0b6b600/master.m3u8?md5=tmu824LYhWreptRumAiDvw&expires=1792165865",
+                "videoSource": "https://ravok.buzz/cdn/hls/b55c7c2c56e152065fedd6a3d0b6b600/master.m3u8?md5=tmu824LYhWreptRumAiDvw&expires=1792165865",
+                "link": "https://ravok.buzz/cdn/hls/b55c7c2c56e152065fedd6a3d0b6b600/master.m3u8?md5=tmu824LYhWreptRumAiDvw&expires=1792165865",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/TZvdAuloYpZMNl0PJPEEt5fM-TUWigZtdsOKcHtR8A4w-g-NTFTB6ou0qRT-dX9j6wNDlYk_eM5fvdcC86QGwg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "playx",
+          "language": "multi",
+          "video_id": "d38d719f68f335deb774cc5ff8682ced",
+          "streamUrl": "https://ravok.buzz/cdn/hls/b55c7c2c56e152065fedd6a3d0b6b600/master.m3u8?md5=tmu824LYhWreptRumAiDvw&expires=1792165865"
+        }
+      },
+      "fetched_at": "2026-10-16T13:51:15Z"
+    },
+    {
+      "id": "episode/thunder-3-1x6",
+      "episode_id": "episode/thunder-3-1x6",
+      "title": "Thunder 3 1x1",
+      "episode_name": "Thunder 3 1x1",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2086_s1e6.webp",
+      "abyssid": null,
+      "abyssId": null,
+      "playxid": "9dd5b938ee55c873017b525aaf333882",
+      "playXID": "9dd5b938ee55c873017b525aaf333882",
+      "stream_info": {
+        "hasDubPlayer": false,
+        "abyssId": null,
+        "playXID": "9dd5b938ee55c873017b525aaf333882",
+        "streamId": null,
+        "dubPlayerSrc": null,
+        "message": "No episode sources found",
+        "serversEndpoint": "/stream/servers/?playXID=9dd5b938ee55c873017b525aaf333882"
+      },
+      "streamInfo": {
+        "hasDubPlayer": false,
+        "abyssId": null,
+        "playXID": "9dd5b938ee55c873017b525aaf333882",
+        "streamId": null,
+        "dubPlayerSrc": null,
+        "message": "No episode sources found",
+        "serversEndpoint": "/stream/servers/?playXID=9dd5b938ee55c873017b525aaf333882"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/07275a4e94ca08b4bbda0f4dac01871e",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/07275a4e94ca08b4bbda0f4dac01871e"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "9dd5b938ee55c873017b525aaf333882",
+        "abyssId": null,
+        "playXID": "9dd5b938ee55c873017b525aaf333882",
+        "title": "Episode Stream",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/fd7861650a39d7b5c5f3aa7d21a51df0/master.m3u8?md5=k05AmdgtZU8gXIT4T4sPQA&expires=1792165865",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/fd7861650a39d7b5c5f3aa7d21a51df0/master.m3u8?md5=k05AmdgtZU8gXIT4T4sPQA&expires=1792165865",
+            "videoSource": "https://ravok.buzz/cdn/hls/fd7861650a39d7b5c5f3aa7d21a51df0/master.m3u8?md5=k05AmdgtZU8gXIT4T4sPQA&expires=1792165865",
+            "videoImage": "https://as-cdn28.top/p/6-MIr0FC_z2ogYxPw2NErRHEuchcz3XCS_jEqDsogMdbdVFY0F7xOxbx7XqO1d0X5Pm8qEcx-daZujOho-bkdg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "9dd5b938ee55c873017b525aaf333882",
+                "streamUrl": "https://ravok.buzz/cdn/hls/fd7861650a39d7b5c5f3aa7d21a51df0/master.m3u8?md5=k05AmdgtZU8gXIT4T4sPQA&expires=1792165865",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/fd7861650a39d7b5c5f3aa7d21a51df0/master.m3u8?md5=k05AmdgtZU8gXIT4T4sPQA&expires=1792165865",
+                "videoSource": "https://ravok.buzz/cdn/hls/fd7861650a39d7b5c5f3aa7d21a51df0/master.m3u8?md5=k05AmdgtZU8gXIT4T4sPQA&expires=1792165865",
+                "link": "https://ravok.buzz/cdn/hls/fd7861650a39d7b5c5f3aa7d21a51df0/master.m3u8?md5=k05AmdgtZU8gXIT4T4sPQA&expires=1792165865",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/6-MIr0FC_z2ogYxPw2NErRHEuchcz3XCS_jEqDsogMdbdVFY0F7xOxbx7XqO1d0X5Pm8qEcx-daZujOho-bkdg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "playx",
+          "language": "multi",
+          "video_id": "9dd5b938ee55c873017b525aaf333882",
+          "streamUrl": "https://ravok.buzz/cdn/hls/fd7861650a39d7b5c5f3aa7d21a51df0/master.m3u8?md5=k05AmdgtZU8gXIT4T4sPQA&expires=1792165865"
+        }
+      },
+      "fetched_at": "2026-10-16T13:51:15Z"
+    },
+    {
+      "id": "episode/thunder-3-1x7",
+      "episode_id": "episode/thunder-3-1x7",
+      "title": "Thunder 3 1x1",
+      "episode_name": "Thunder 3 1x1",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2086_s1e7.webp",
+      "abyssid": null,
+      "abyssId": null,
+      "playxid": "6ece1478634d078f9483620b74fb05f9",
+      "playXID": "6ece1478634d078f9483620b74fb05f9",
+      "stream_info": {
+        "hasDubPlayer": false,
+        "abyssId": null,
+        "playXID": "6ece1478634d078f9483620b74fb05f9",
+        "streamId": null,
+        "dubPlayerSrc": null,
+        "message": "No episode sources found",
+        "serversEndpoint": "/stream/servers/?playXID=6ece1478634d078f9483620b74fb05f9"
+      },
+      "streamInfo": {
+        "hasDubPlayer": false,
+        "abyssId": null,
+        "playXID": "6ece1478634d078f9483620b74fb05f9",
+        "streamId": null,
+        "dubPlayerSrc": null,
+        "message": "No episode sources found",
+        "serversEndpoint": "/stream/servers/?playXID=6ece1478634d078f9483620b74fb05f9"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/ed1dac006b5ef6170e646d7eb9ee2d1a",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/ed1dac006b5ef6170e646d7eb9ee2d1a"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "6ece1478634d078f9483620b74fb05f9",
+        "abyssId": null,
+        "playXID": "6ece1478634d078f9483620b74fb05f9",
+        "title": "Episode Stream",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/3760a345cf704d6d409178c209a83944/master.m3u8?md5=UIpigX-U5YYHC7OtqyISew&expires=1792165866",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/3760a345cf704d6d409178c209a83944/master.m3u8?md5=UIpigX-U5YYHC7OtqyISew&expires=1792165866",
+            "videoSource": "https://ravok.buzz/cdn/hls/3760a345cf704d6d409178c209a83944/master.m3u8?md5=UIpigX-U5YYHC7OtqyISew&expires=1792165866",
+            "videoImage": "https://as-cdn31.top/p/bvGutAHi76uMqf5g-NpCU_l4hUfj_KYjzLPPGB64JsqCv_0Qu_R57sCMEe8UqQVaxWdK84nGm9WXldKpBFAYXA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "6ece1478634d078f9483620b74fb05f9",
+                "streamUrl": "https://ravok.buzz/cdn/hls/3760a345cf704d6d409178c209a83944/master.m3u8?md5=UIpigX-U5YYHC7OtqyISew&expires=1792165866",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/3760a345cf704d6d409178c209a83944/master.m3u8?md5=UIpigX-U5YYHC7OtqyISew&expires=1792165866",
+                "videoSource": "https://ravok.buzz/cdn/hls/3760a345cf704d6d409178c209a83944/master.m3u8?md5=UIpigX-U5YYHC7OtqyISew&expires=1792165866",
+                "link": "https://ravok.buzz/cdn/hls/3760a345cf704d6d409178c209a83944/master.m3u8?md5=UIpigX-U5YYHC7OtqyISew&expires=1792165866",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/bvGutAHi76uMqf5g-NpCU_l4hUfj_KYjzLPPGB64JsqCv_0Qu_R57sCMEe8UqQVaxWdK84nGm9WXldKpBFAYXA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "playx",
+          "language": "multi",
+          "video_id": "6ece1478634d078f9483620b74fb05f9",
+          "streamUrl": "https://ravok.buzz/cdn/hls/3760a345cf704d6d409178c209a83944/master.m3u8?md5=UIpigX-U5YYHC7OtqyISew&expires=1792165866"
+        }
+      },
+      "fetched_at": "2026-10-16T13:51:16Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T13:51:11Z",
+  "updated_at": "2026-10-16T13:51:16Z"
+}

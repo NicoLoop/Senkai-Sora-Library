@@ -1,0 +1,479 @@
+{
+  "id": "series/the-exiled-heavy-knight-knows-how-to-game-the-system",
+  "series_name": "The Exiled Heavy Knight Knows How to Game the System",
+  "title": "The Exiled Heavy Knight Knows How to Game the System",
+  "banner": "https://image.tmdb.org/t/p/w1280/rQmzx7qyoK5YiXJHnv0jdgVlKyl.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/bADzMfofNWYdxLnlqNuMkO6du34.jpg",
+  "genra": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Isekai",
+    "Reincarnation"
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Isekai",
+    "Reincarnation"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Japanese",
+    "Tamil",
+    "Telugu"
+  ],
+  "synopsis": "Born into a prestigious family of master swordsmen, Elymas Edvaughn's future shatters when he awakens the so-called \"defective\" Heavy Knight class. Disowned and cast out, he regains memories of another life—and realizes this world mirrors a VR game he once mastered. Armed with knowledge no one else possesses, he sets out to rewrite his fate and prove the strength of the \"weakest\" class.",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 5,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 5,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "The Exiled Heavy Knight Knows How to Game the System 1x1",
+          "id": "episode/the-exiled-heavy-knight-knows-how-to-game-the-system-1x1",
+          "image": "https://img.watchanimeworld.one/img/thumb_2511_s1e1.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "The Exiled Heavy Knight Knows How to Game the System 1x2",
+          "id": "episode/the-exiled-heavy-knight-knows-how-to-game-the-system-1x2",
+          "image": "https://img.watchanimeworld.one/img/thumb_2511_s1e2.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "The Exiled Heavy Knight Knows How to Game the System 1x3",
+          "id": "episode/the-exiled-heavy-knight-knows-how-to-game-the-system-1x3",
+          "image": "https://img.watchanimeworld.one/img/thumb_2511_s1e3.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "The Exiled Heavy Knight Knows How to Game the System 1x4",
+          "id": "episode/the-exiled-heavy-knight-knows-how-to-game-the-system-1x4",
+          "image": "https://img.watchanimeworld.one/img/thumb_2511_s1e4.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "The Exiled Heavy Knight Knows How to Game the System 1x5",
+          "id": "episode/the-exiled-heavy-knight-knows-how-to-game-the-system-1x5",
+          "image": "https://img.watchanimeworld.one/img/thumb_2511_s1e5.webp",
+          "season": 1
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/the-exiled-heavy-knight-knows-how-to-game-the-system-1x1",
+      "episode_id": "episode/the-exiled-heavy-knight-knows-how-to-game-the-system-1x1",
+      "title": "The Exiled Heavy Knight Knows How to Game the System 1x1",
+      "episode_name": "The Exiled Heavy Knight Knows How to Game the System 1x1",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2511_s1e1.webp",
+      "abyssid": null,
+      "abyssId": null,
+      "playxid": "31bc5644ae198ad96dd9f2438bfdae3a",
+      "playXID": "31bc5644ae198ad96dd9f2438bfdae3a",
+      "stream_info": {
+        "hasDubPlayer": false,
+        "abyssId": null,
+        "playXID": "31bc5644ae198ad96dd9f2438bfdae3a",
+        "streamId": null,
+        "dubPlayerSrc": null,
+        "message": "No episode sources found",
+        "serversEndpoint": "/stream/servers/?playXID=31bc5644ae198ad96dd9f2438bfdae3a"
+      },
+      "streamInfo": {
+        "hasDubPlayer": false,
+        "abyssId": null,
+        "playXID": "31bc5644ae198ad96dd9f2438bfdae3a",
+        "streamId": null,
+        "dubPlayerSrc": null,
+        "message": "No episode sources found",
+        "serversEndpoint": "/stream/servers/?playXID=31bc5644ae198ad96dd9f2438bfdae3a"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/7496bfb74b0737a432d357c6de4b50d0",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/7496bfb74b0737a432d357c6de4b50d0"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "31bc5644ae198ad96dd9f2438bfdae3a",
+        "abyssId": null,
+        "playXID": "31bc5644ae198ad96dd9f2438bfdae3a",
+        "title": "Episode Stream",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/4ec4ebdbbd4e4326299c1ca96964de87/master.m3u8?md5=jOOFrpKY1C_UuFVSXv-mBQ&expires=1792165586",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/4ec4ebdbbd4e4326299c1ca96964de87/master.m3u8?md5=jOOFrpKY1C_UuFVSXv-mBQ&expires=1792165586",
+            "videoSource": "https://ravok.buzz/cdn/hls/4ec4ebdbbd4e4326299c1ca96964de87/master.m3u8?md5=jOOFrpKY1C_UuFVSXv-mBQ&expires=1792165586",
+            "videoImage": "https://as-cdn28.top/p/I3K6RQxpAiNvCM1dgB0W3oAUh3rh5PpUmHutRqqd1FDfeoO_2_Z3Lo-7DLy3fStYgy_YmKS9jVNRkjLA961qCA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "31bc5644ae198ad96dd9f2438bfdae3a",
+                "streamUrl": "https://ravok.buzz/cdn/hls/4ec4ebdbbd4e4326299c1ca96964de87/master.m3u8?md5=jOOFrpKY1C_UuFVSXv-mBQ&expires=1792165586",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/4ec4ebdbbd4e4326299c1ca96964de87/master.m3u8?md5=jOOFrpKY1C_UuFVSXv-mBQ&expires=1792165586",
+                "videoSource": "https://ravok.buzz/cdn/hls/4ec4ebdbbd4e4326299c1ca96964de87/master.m3u8?md5=jOOFrpKY1C_UuFVSXv-mBQ&expires=1792165586",
+                "link": "https://ravok.buzz/cdn/hls/4ec4ebdbbd4e4326299c1ca96964de87/master.m3u8?md5=jOOFrpKY1C_UuFVSXv-mBQ&expires=1792165586",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/I3K6RQxpAiNvCM1dgB0W3oAUh3rh5PpUmHutRqqd1FDfeoO_2_Z3Lo-7DLy3fStYgy_YmKS9jVNRkjLA961qCA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "playx",
+          "language": "multi",
+          "video_id": "31bc5644ae198ad96dd9f2438bfdae3a",
+          "streamUrl": "https://ravok.buzz/cdn/hls/4ec4ebdbbd4e4326299c1ca96964de87/master.m3u8?md5=jOOFrpKY1C_UuFVSXv-mBQ&expires=1792165586"
+        }
+      },
+      "fetched_at": "2026-10-16T13:46:36Z"
+    },
+    {
+      "id": "episode/the-exiled-heavy-knight-knows-how-to-game-the-system-1x2",
+      "episode_id": "episode/the-exiled-heavy-knight-knows-how-to-game-the-system-1x2",
+      "title": "The Exiled Heavy Knight Knows How to Game the System 1x1",
+      "episode_name": "The Exiled Heavy Knight Knows How to Game the System 1x1",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2511_s1e2.webp",
+      "abyssid": null,
+      "abyssId": null,
+      "playxid": "099e842af821e68c6b90d20ddcfc0fc8",
+      "playXID": "099e842af821e68c6b90d20ddcfc0fc8",
+      "stream_info": {
+        "hasDubPlayer": false,
+        "abyssId": null,
+        "playXID": "099e842af821e68c6b90d20ddcfc0fc8",
+        "streamId": null,
+        "dubPlayerSrc": null,
+        "message": "No episode sources found",
+        "serversEndpoint": "/stream/servers/?playXID=099e842af821e68c6b90d20ddcfc0fc8"
+      },
+      "streamInfo": {
+        "hasDubPlayer": false,
+        "abyssId": null,
+        "playXID": "099e842af821e68c6b90d20ddcfc0fc8",
+        "streamId": null,
+        "dubPlayerSrc": null,
+        "message": "No episode sources found",
+        "serversEndpoint": "/stream/servers/?playXID=099e842af821e68c6b90d20ddcfc0fc8"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/4f31e209e022bbda5d0246b3e5ab6c38",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/4f31e209e022bbda5d0246b3e5ab6c38"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "099e842af821e68c6b90d20ddcfc0fc8",
+        "abyssId": null,
+        "playXID": "099e842af821e68c6b90d20ddcfc0fc8",
+        "title": "Episode Stream",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/0f7bf0914e220cf88b6a192d04f5afd8/master.m3u8?md5=f6KGNhFvfFofYB9FEfVk6Q&expires=1792165588",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/0f7bf0914e220cf88b6a192d04f5afd8/master.m3u8?md5=f6KGNhFvfFofYB9FEfVk6Q&expires=1792165588",
+            "videoSource": "https://ravok.buzz/cdn/hls/0f7bf0914e220cf88b6a192d04f5afd8/master.m3u8?md5=f6KGNhFvfFofYB9FEfVk6Q&expires=1792165588",
+            "videoImage": "https://as-cdn29.top/p/NBqxHMcEoBk03nX3BLeyjSU6Fwyyn6wxrMhznld9mwdjlYaQ_S7b0AJ4zkiWqFQlP_6mrqU-EfOXq2XEODcDVA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "099e842af821e68c6b90d20ddcfc0fc8",
+                "streamUrl": "https://ravok.buzz/cdn/hls/0f7bf0914e220cf88b6a192d04f5afd8/master.m3u8?md5=f6KGNhFvfFofYB9FEfVk6Q&expires=1792165588",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/0f7bf0914e220cf88b6a192d04f5afd8/master.m3u8?md5=f6KGNhFvfFofYB9FEfVk6Q&expires=1792165588",
+                "videoSource": "https://ravok.buzz/cdn/hls/0f7bf0914e220cf88b6a192d04f5afd8/master.m3u8?md5=f6KGNhFvfFofYB9FEfVk6Q&expires=1792165588",
+                "link": "https://ravok.buzz/cdn/hls/0f7bf0914e220cf88b6a192d04f5afd8/master.m3u8?md5=f6KGNhFvfFofYB9FEfVk6Q&expires=1792165588",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/NBqxHMcEoBk03nX3BLeyjSU6Fwyyn6wxrMhznld9mwdjlYaQ_S7b0AJ4zkiWqFQlP_6mrqU-EfOXq2XEODcDVA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "playx",
+          "language": "multi",
+          "video_id": "099e842af821e68c6b90d20ddcfc0fc8",
+          "streamUrl": "https://ravok.buzz/cdn/hls/0f7bf0914e220cf88b6a192d04f5afd8/master.m3u8?md5=f6KGNhFvfFofYB9FEfVk6Q&expires=1792165588"
+        }
+      },
+      "fetched_at": "2026-10-16T13:46:38Z"
+    },
+    {
+      "id": "episode/the-exiled-heavy-knight-knows-how-to-game-the-system-1x3",
+      "episode_id": "episode/the-exiled-heavy-knight-knows-how-to-game-the-system-1x3",
+      "title": "The Exiled Heavy Knight Knows How to Game the System 1x1",
+      "episode_name": "The Exiled Heavy Knight Knows How to Game the System 1x1",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2511_s1e3.webp",
+      "abyssid": null,
+      "abyssId": null,
+      "playxid": "1d73ce2a7a702db385aa9056c7a0ff13",
+      "playXID": "1d73ce2a7a702db385aa9056c7a0ff13",
+      "stream_info": {
+        "hasDubPlayer": false,
+        "abyssId": null,
+        "playXID": "1d73ce2a7a702db385aa9056c7a0ff13",
+        "streamId": null,
+        "dubPlayerSrc": null,
+        "message": "No episode sources found",
+        "serversEndpoint": "/stream/servers/?playXID=1d73ce2a7a702db385aa9056c7a0ff13"
+      },
+      "streamInfo": {
+        "hasDubPlayer": false,
+        "abyssId": null,
+        "playXID": "1d73ce2a7a702db385aa9056c7a0ff13",
+        "streamId": null,
+        "dubPlayerSrc": null,
+        "message": "No episode sources found",
+        "serversEndpoint": "/stream/servers/?playXID=1d73ce2a7a702db385aa9056c7a0ff13"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/1d73ce2a7a702db385aa9056c7a0ff13",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/1d73ce2a7a702db385aa9056c7a0ff13"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "1d73ce2a7a702db385aa9056c7a0ff13",
+        "abyssId": null,
+        "playXID": "1d73ce2a7a702db385aa9056c7a0ff13",
+        "title": "Episode Stream",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/48b0ea44560971ea723d89b5d13a6644/master.m3u8?md5=atM2p-FGig6sqSlQCcLxAA&expires=1792165596",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/48b0ea44560971ea723d89b5d13a6644/master.m3u8?md5=atM2p-FGig6sqSlQCcLxAA&expires=1792165596",
+            "videoSource": "https://ravok.buzz/cdn/hls/48b0ea44560971ea723d89b5d13a6644/master.m3u8?md5=atM2p-FGig6sqSlQCcLxAA&expires=1792165596",
+            "videoImage": "https://as-cdn31.top/p/6JzopkQjStGXxRLAXBA5i-A6NcgAaqItUw9rOQ-6d3rBr2a-Azf0CEF5vQP_hlnzs70PI4kJ9HB13J0eiFlLDQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "1d73ce2a7a702db385aa9056c7a0ff13",
+                "streamUrl": "https://ravok.buzz/cdn/hls/48b0ea44560971ea723d89b5d13a6644/master.m3u8?md5=atM2p-FGig6sqSlQCcLxAA&expires=1792165596",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/48b0ea44560971ea723d89b5d13a6644/master.m3u8?md5=atM2p-FGig6sqSlQCcLxAA&expires=1792165596",
+                "videoSource": "https://ravok.buzz/cdn/hls/48b0ea44560971ea723d89b5d13a6644/master.m3u8?md5=atM2p-FGig6sqSlQCcLxAA&expires=1792165596",
+                "link": "https://ravok.buzz/cdn/hls/48b0ea44560971ea723d89b5d13a6644/master.m3u8?md5=atM2p-FGig6sqSlQCcLxAA&expires=1792165596",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/6JzopkQjStGXxRLAXBA5i-A6NcgAaqItUw9rOQ-6d3rBr2a-Azf0CEF5vQP_hlnzs70PI4kJ9HB13J0eiFlLDQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "playx",
+          "language": "multi",
+          "video_id": "1d73ce2a7a702db385aa9056c7a0ff13",
+          "streamUrl": "https://ravok.buzz/cdn/hls/48b0ea44560971ea723d89b5d13a6644/master.m3u8?md5=atM2p-FGig6sqSlQCcLxAA&expires=1792165596"
+        }
+      },
+      "fetched_at": "2026-10-16T13:46:46Z"
+    },
+    {
+      "id": "episode/the-exiled-heavy-knight-knows-how-to-game-the-system-1x4",
+      "episode_id": "episode/the-exiled-heavy-knight-knows-how-to-game-the-system-1x4",
+      "title": "The Exiled Heavy Knight Knows How to Game the System 1x1",
+      "episode_name": "The Exiled Heavy Knight Knows How to Game the System 1x1",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2511_s1e4.webp",
+      "abyssid": null,
+      "abyssId": null,
+      "playxid": "c5c3478127f5e50e49b50a3846afe884",
+      "playXID": "c5c3478127f5e50e49b50a3846afe884",
+      "stream_info": {
+        "hasDubPlayer": false,
+        "abyssId": null,
+        "playXID": "c5c3478127f5e50e49b50a3846afe884",
+        "streamId": null,
+        "dubPlayerSrc": null,
+        "message": "No episode sources found",
+        "serversEndpoint": "/stream/servers/?playXID=c5c3478127f5e50e49b50a3846afe884"
+      },
+      "streamInfo": {
+        "hasDubPlayer": false,
+        "abyssId": null,
+        "playXID": "c5c3478127f5e50e49b50a3846afe884",
+        "streamId": null,
+        "dubPlayerSrc": null,
+        "message": "No episode sources found",
+        "serversEndpoint": "/stream/servers/?playXID=c5c3478127f5e50e49b50a3846afe884"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/690db34e0d336cce376b5b73b7d39f3d",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/690db34e0d336cce376b5b73b7d39f3d"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "c5c3478127f5e50e49b50a3846afe884",
+        "abyssId": null,
+        "playXID": "c5c3478127f5e50e49b50a3846afe884",
+        "title": "Episode Stream",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/16a97778dc6d6a57728dc693f7843c70/master.m3u8?md5=WihyizInT0JwyZSEjuV8HA&expires=1792165598",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/16a97778dc6d6a57728dc693f7843c70/master.m3u8?md5=WihyizInT0JwyZSEjuV8HA&expires=1792165598",
+            "videoSource": "https://ravok.buzz/cdn/hls/16a97778dc6d6a57728dc693f7843c70/master.m3u8?md5=WihyizInT0JwyZSEjuV8HA&expires=1792165598",
+            "videoImage": "https://as-cdn29.top/p/Gf3GJ0MA32vs9beCrStQ6U1vZk6dpXjGBdJJt7yNkcK83kAYCkfXDPcKavnXbB0HqvEwjkSlIISNpTTPi4zaDg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "c5c3478127f5e50e49b50a3846afe884",
+                "streamUrl": "https://ravok.buzz/cdn/hls/16a97778dc6d6a57728dc693f7843c70/master.m3u8?md5=WihyizInT0JwyZSEjuV8HA&expires=1792165598",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/16a97778dc6d6a57728dc693f7843c70/master.m3u8?md5=WihyizInT0JwyZSEjuV8HA&expires=1792165598",
+                "videoSource": "https://ravok.buzz/cdn/hls/16a97778dc6d6a57728dc693f7843c70/master.m3u8?md5=WihyizInT0JwyZSEjuV8HA&expires=1792165598",
+                "link": "https://ravok.buzz/cdn/hls/16a97778dc6d6a57728dc693f7843c70/master.m3u8?md5=WihyizInT0JwyZSEjuV8HA&expires=1792165598",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/Gf3GJ0MA32vs9beCrStQ6U1vZk6dpXjGBdJJt7yNkcK83kAYCkfXDPcKavnXbB0HqvEwjkSlIISNpTTPi4zaDg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "playx",
+          "language": "multi",
+          "video_id": "c5c3478127f5e50e49b50a3846afe884",
+          "streamUrl": "https://ravok.buzz/cdn/hls/16a97778dc6d6a57728dc693f7843c70/master.m3u8?md5=WihyizInT0JwyZSEjuV8HA&expires=1792165598"
+        }
+      },
+      "fetched_at": "2026-10-16T13:46:48Z"
+    },
+    {
+      "id": "episode/the-exiled-heavy-knight-knows-how-to-game-the-system-1x5",
+      "episode_id": "episode/the-exiled-heavy-knight-knows-how-to-game-the-system-1x5",
+      "title": "The Exiled Heavy Knight Knows How to Game the System 1x1",
+      "episode_name": "The Exiled Heavy Knight Knows How to Game the System 1x1",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2511_s1e5.webp",
+      "abyssid": null,
+      "abyssId": null,
+      "playxid": "42cf125df2e054b2a12810263cda40b0",
+      "playXID": "42cf125df2e054b2a12810263cda40b0",
+      "stream_info": {
+        "hasDubPlayer": false,
+        "abyssId": null,
+        "playXID": "42cf125df2e054b2a12810263cda40b0",
+        "streamId": null,
+        "dubPlayerSrc": null,
+        "message": "No episode sources found",
+        "serversEndpoint": "/stream/servers/?playXID=42cf125df2e054b2a12810263cda40b0"
+      },
+      "streamInfo": {
+        "hasDubPlayer": false,
+        "abyssId": null,
+        "playXID": "42cf125df2e054b2a12810263cda40b0",
+        "streamId": null,
+        "dubPlayerSrc": null,
+        "message": "No episode sources found",
+        "serversEndpoint": "/stream/servers/?playXID=42cf125df2e054b2a12810263cda40b0"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/6a1cf9ff786388fe8796c57ec63d1075",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/6a1cf9ff786388fe8796c57ec63d1075"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "42cf125df2e054b2a12810263cda40b0",
+        "abyssId": null,
+        "playXID": "42cf125df2e054b2a12810263cda40b0",
+        "title": "Episode Stream",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/b8cc6aa883f9b5f6a7e9bd896fc6cdd2/master.m3u8?md5=H-6Io4NObP4s13eXlEo3mg&expires=1792165601",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/b8cc6aa883f9b5f6a7e9bd896fc6cdd2/master.m3u8?md5=H-6Io4NObP4s13eXlEo3mg&expires=1792165601",
+            "videoSource": "https://ravok.buzz/cdn/hls/b8cc6aa883f9b5f6a7e9bd896fc6cdd2/master.m3u8?md5=H-6Io4NObP4s13eXlEo3mg&expires=1792165601",
+            "videoImage": "https://as-cdn29.top/p/9rC-Y0Pvl7XVNtdOkcGaZtW1eY8L6N3YmomStRaWhlCL0KvMkgPiKQD8rOjSh4vf8Ic6p25P8A-HbFphxxes9A.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "42cf125df2e054b2a12810263cda40b0",
+                "streamUrl": "https://ravok.buzz/cdn/hls/b8cc6aa883f9b5f6a7e9bd896fc6cdd2/master.m3u8?md5=H-6Io4NObP4s13eXlEo3mg&expires=1792165601",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/b8cc6aa883f9b5f6a7e9bd896fc6cdd2/master.m3u8?md5=H-6Io4NObP4s13eXlEo3mg&expires=1792165601",
+                "videoSource": "https://ravok.buzz/cdn/hls/b8cc6aa883f9b5f6a7e9bd896fc6cdd2/master.m3u8?md5=H-6Io4NObP4s13eXlEo3mg&expires=1792165601",
+                "link": "https://ravok.buzz/cdn/hls/b8cc6aa883f9b5f6a7e9bd896fc6cdd2/master.m3u8?md5=H-6Io4NObP4s13eXlEo3mg&expires=1792165601",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/9rC-Y0Pvl7XVNtdOkcGaZtW1eY8L6N3YmomStRaWhlCL0KvMkgPiKQD8rOjSh4vf8Ic6p25P8A-HbFphxxes9A.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "playx",
+          "language": "multi",
+          "video_id": "42cf125df2e054b2a12810263cda40b0",
+          "streamUrl": "https://ravok.buzz/cdn/hls/b8cc6aa883f9b5f6a7e9bd896fc6cdd2/master.m3u8?md5=H-6Io4NObP4s13eXlEo3mg&expires=1792165601"
+        }
+      },
+      "fetched_at": "2026-10-16T13:46:51Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T13:46:33Z",
+  "updated_at": "2026-10-16T13:46:51Z"
+}

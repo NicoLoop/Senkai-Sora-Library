@@ -1,0 +1,591 @@
+{
+  "id": "series/pokemon-horizons-the-series",
+  "series_name": "Pokémon Horizons: The Series",
+  "title": "Pokémon Horizons: The Series",
+  "banner": "https://image.tmdb.org/t/p/w1280/d0axpGojOqDag5lDa0eNSEtw11l.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/amemXW39lMbNBJFRMJ5W7q9mLP2.jpg",
+  "genra": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Fantasy",
+    "Kids",
+    "Sci-Fi"
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Fantasy",
+    "Kids",
+    "Sci-Fi"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Tamil",
+    "Telugu"
+  ],
+  "synopsis": "Follow Liko and Roy as they unravel the mysteries that surround them and encounter Friede, Captain Pikachu, Amethio, and others during their exciting adventures!",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 2,
+  "totalEpisodes": 6,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 3,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "The Pendant That Starts It All: Part One",
+          "id": "episode/pokemon-horizons-the-series-1x1",
+          "image": "https://img.watchanimeworld.one/images/12747/01.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "The Pendant That Starts It All: Part Two",
+          "id": "episode/pokemon-horizons-the-series-1x2",
+          "image": "https://img.watchanimeworld.one/images/12747/02.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "For Sure! 'Cause Sprigatito's with Me!",
+          "id": "episode/pokemon-horizons-the-series-1x3",
+          "image": "https://img.watchanimeworld.one/images/12747/03.webp",
+          "season": 1
+        }
+      ]
+    },
+    {
+      "season": 26,
+      "name": "Season 26",
+      "episodesCount": 3,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Pokémon Horizons: The Series 26x1",
+          "id": "episode/pokemon-horizons-the-series-26x1",
+          "image": "https://img.watchanimeworld.one/image/479/26/1.webp",
+          "season": 26
+        },
+        {
+          "episode": 2,
+          "title": "Pokémon Horizons: The Series 26x2",
+          "id": "episode/pokemon-horizons-the-series-26x2",
+          "image": "https://img.watchanimeworld.one/image/479/26/2.webp",
+          "season": 26
+        },
+        {
+          "episode": 3,
+          "title": "Pokémon Horizons: The Series 26x3",
+          "id": "episode/pokemon-horizons-the-series-26x3",
+          "image": "https://img.watchanimeworld.one/image/479/26/3.webp",
+          "season": 26
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/pokemon-horizons-the-series-1x1",
+      "episode_id": "episode/pokemon-horizons-the-series-1x1",
+      "title": "The Pendant That Starts It All: Part One",
+      "episode_name": "The Pendant That Starts It All: Part One",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/12747/01.webp",
+      "abyssid": "8318",
+      "abyssId": "8318",
+      "playxid": null,
+      "playXID": null,
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "8318",
+        "playXID": null,
+        "streamId": "8318",
+        "dubPlayerSrc": "/dub-player/t/8318/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/8318"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "8318",
+        "playXID": null,
+        "streamId": "8318",
+        "dubPlayerSrc": "/dub-player/t/8318/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/8318"
+      },
+      "players": [],
+      "stream_servers": {
+        "streamId": "8318",
+        "abyssId": "8318",
+        "playXID": null,
+        "title": "Pokémon Horizons: The Series",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "GVx3pq7UYU"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "wgTOFd7O_"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "LqNp4_HDZ"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "i5UcisqHy"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "GVx3pq7UYU"
+        }
+      },
+      "fetched_at": "2026-10-16T14:14:55Z"
+    },
+    {
+      "id": "episode/pokemon-horizons-the-series-1x3",
+      "episode_id": "episode/pokemon-horizons-the-series-1x3",
+      "title": "The Pendant That Starts It All: Part One",
+      "episode_name": "The Pendant That Starts It All: Part One",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/12747/03.webp",
+      "abyssid": "11064",
+      "abyssId": "11064",
+      "playxid": null,
+      "playXID": null,
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "11064",
+        "playXID": null,
+        "streamId": "11064",
+        "dubPlayerSrc": "/dub-player/t/11064/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/11064"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "11064",
+        "playXID": null,
+        "streamId": "11064",
+        "dubPlayerSrc": "/dub-player/t/11064/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/11064"
+      },
+      "players": [],
+      "stream_servers": {
+        "streamId": "11064",
+        "abyssId": "11064",
+        "playXID": null,
+        "title": "Pokémon Horizons: The Series",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "cw_yRqV9lb"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "jf0AVey1l"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "mFJWxGh1u"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "bAOWt6j9A"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "cw_yRqV9lb"
+        }
+      },
+      "fetched_at": "2026-10-16T14:14:55Z"
+    },
+    {
+      "id": "episode/pokemon-horizons-the-series-26x2",
+      "episode_id": "episode/pokemon-horizons-the-series-26x2",
+      "title": "Pokémon Horizons: The Series 26x1",
+      "episode_name": "Pokémon Horizons: The Series 26x1",
+      "episode_number": 2,
+      "season": 26,
+      "image": "https://img.watchanimeworld.one/image/479/26/2.webp",
+      "abyssid": "13544",
+      "abyssId": "13544",
+      "playxid": null,
+      "playXID": null,
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13544",
+        "playXID": null,
+        "streamId": "13544",
+        "dubPlayerSrc": "/dub-player/t/13544/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/13544"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13544",
+        "playXID": null,
+        "streamId": "13544",
+        "dubPlayerSrc": "/dub-player/t/13544/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/13544"
+      },
+      "players": [
+        {
+          "name": "Server 1",
+          "embedUrl": "https://bysewihe.com/e/o1orgn6blpj7",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://bysewihe.com/e/o1orgn6blpj7"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13544",
+        "abyssId": "13544",
+        "playXID": null,
+        "title": "Pokémon Horizons: The Series",
+        "season": 26,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "l3scpS4hE"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "x0rT8hQ7f"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "zdjVs0Jdh"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "UxcIY2276"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "l3scpS4hE"
+        }
+      },
+      "fetched_at": "2026-10-16T14:14:55Z"
+    },
+    {
+      "id": "episode/pokemon-horizons-the-series-1x2",
+      "episode_id": "episode/pokemon-horizons-the-series-1x2",
+      "title": "The Pendant That Starts It All: Part One",
+      "episode_name": "The Pendant That Starts It All: Part One",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/12747/02.webp",
+      "abyssid": "8319",
+      "abyssId": "8319",
+      "playxid": null,
+      "playXID": null,
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "8319",
+        "playXID": null,
+        "streamId": "8319",
+        "dubPlayerSrc": "/dub-player/t/8319/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/8319"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "8319",
+        "playXID": null,
+        "streamId": "8319",
+        "dubPlayerSrc": "/dub-player/t/8319/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/8319"
+      },
+      "players": [],
+      "stream_servers": {
+        "streamId": "8319",
+        "abyssId": "8319",
+        "playXID": null,
+        "title": "Pokémon Horizons: The Series",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "SGalpNX7y"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "xFzBMeUI_"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "SozyuSloz"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "dSGfqZO4y1"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "SGalpNX7y"
+        }
+      },
+      "fetched_at": "2026-10-16T14:14:55Z"
+    },
+    {
+      "id": "episode/pokemon-horizons-the-series-26x1",
+      "episode_id": "episode/pokemon-horizons-the-series-26x1",
+      "title": "Pokémon Horizons: The Series 26x1",
+      "episode_name": "Pokémon Horizons: The Series 26x1",
+      "episode_number": 1,
+      "season": 26,
+      "image": "https://img.watchanimeworld.one/image/479/26/1.webp",
+      "abyssid": "13543",
+      "abyssId": "13543",
+      "playxid": null,
+      "playXID": null,
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13543",
+        "playXID": null,
+        "streamId": "13543",
+        "dubPlayerSrc": "/dub-player/t/13543/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/13543"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13543",
+        "playXID": null,
+        "streamId": "13543",
+        "dubPlayerSrc": "/dub-player/t/13543/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/13543"
+      },
+      "players": [
+        {
+          "name": "Server 1",
+          "embedUrl": "https://bysewihe.com/e/h9gqjwigk6d4",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://bysewihe.com/e/h9gqjwigk6d4"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13543",
+        "abyssId": "13543",
+        "playXID": null,
+        "title": "Pokémon Horizons: The Series",
+        "season": 26,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "IZ1GeIqBa"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "WfYCMu3Nd"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "fG6cnhlpY"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "6VNrk8Wri"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "IZ1GeIqBa"
+        }
+      },
+      "fetched_at": "2026-10-16T14:14:55Z"
+    },
+    {
+      "id": "episode/pokemon-horizons-the-series-26x3",
+      "episode_id": "episode/pokemon-horizons-the-series-26x3",
+      "title": "Pokémon Horizons: The Series 26x1",
+      "episode_name": "Pokémon Horizons: The Series 26x1",
+      "episode_number": 3,
+      "season": 26,
+      "image": "https://img.watchanimeworld.one/image/479/26/3.webp",
+      "abyssid": "13545",
+      "abyssId": "13545",
+      "playxid": null,
+      "playXID": null,
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13545",
+        "playXID": null,
+        "streamId": "13545",
+        "dubPlayerSrc": "/dub-player/t/13545/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/13545"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13545",
+        "playXID": null,
+        "streamId": "13545",
+        "dubPlayerSrc": "/dub-player/t/13545/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/13545"
+      },
+      "players": [
+        {
+          "name": "Server 1",
+          "embedUrl": "https://bysewihe.com/e/sxutggsquap8",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://bysewihe.com/e/sxutggsquap8"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13545",
+        "abyssId": "13545",
+        "playXID": null,
+        "title": "Pokémon Horizons: The Series",
+        "season": 26,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "wSfgvcLdr"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "Z05C41jvB"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "GP122yrx_"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "y310wV1io"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "wSfgvcLdr"
+        }
+      },
+      "fetched_at": "2026-10-16T14:14:57Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T14:14:52Z",
+  "updated_at": "2026-10-16T14:14:57Z"
+}

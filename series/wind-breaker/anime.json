@@ -1,0 +1,3081 @@
+{
+  "id": "series/wind-breaker",
+  "series_name": "Wind Breaker",
+  "title": "Wind Breaker",
+  "banner": "https://image.tmdb.org/t/p/w1280/czrAvoN103RYYX8lhkZPs2zgnkl.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/3kTFL3PAeTyS8gGZAh0iYG6NNjt.jpg",
+  "genra": [
+    "Action",
+    "Comedy",
+    "Delinquents",
+    "Drama",
+    "School"
+  ],
+  "genres": [
+    "Action",
+    "Comedy",
+    "Delinquents",
+    "Drama",
+    "School"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Japanese",
+    "Tamil",
+    "Telugu"
+  ],
+  "synopsis": "Haruka Sakura wants nothing to do with weaklings—he's only interested in the strongest of the strong. He's just started at Furin High School, a school of degenerates known only for their brawling strength—strength they use to protect their town from anyone who wishes it ill. But Haruka's not interested in being a hero or being part of any sort of team—he just wants to fight his way to the top!",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 2,
+  "totalEpisodes": 25,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 13,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Wind Breaker 1x1",
+          "id": "episode/private-wind-breaker-1x1",
+          "image": "https://img.watchanimeworld.one/img/thumb_1147_s1e1.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "Wind Breaker 1x2",
+          "id": "episode/private-wind-breaker-1x2",
+          "image": "https://img.watchanimeworld.one/img/thumb_1147_s1e2.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "Wind Breaker 1x3",
+          "id": "episode/private-wind-breaker-1x3",
+          "image": "https://img.watchanimeworld.one/img/thumb_1147_s1e3.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "Wind Breaker 1x4",
+          "id": "episode/private-wind-breaker-1x4",
+          "image": "https://img.watchanimeworld.one/img/thumb_1147_s1e4.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "Wind Breaker 1x5",
+          "id": "episode/private-wind-breaker-1x5",
+          "image": "https://img.watchanimeworld.one/img/thumb_1147_s1e5.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "Wind Breaker 1x6",
+          "id": "episode/private-wind-breaker-1x6",
+          "image": "https://img.watchanimeworld.one/img/thumb_1147_s1e6.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "Wind Breaker 1x7",
+          "id": "episode/private-wind-breaker-1x7",
+          "image": "https://img.watchanimeworld.one/img/thumb_1147_s1e7.webp",
+          "season": 1
+        },
+        {
+          "episode": 8,
+          "title": "Wind Breaker 1x8",
+          "id": "episode/private-wind-breaker-1x8",
+          "image": "https://img.watchanimeworld.one/img/thumb_1147_s1e8.webp",
+          "season": 1
+        },
+        {
+          "episode": 9,
+          "title": "Wind Breaker 1x9",
+          "id": "episode/private-wind-breaker-1x9",
+          "image": "https://img.watchanimeworld.one/img/thumb_1147_s1e9.webp",
+          "season": 1
+        },
+        {
+          "episode": 10,
+          "title": "Wind Breaker 1x10",
+          "id": "episode/private-wind-breaker-1x10",
+          "image": "https://img.watchanimeworld.one/img/thumb_1147_s1e10.webp",
+          "season": 1
+        },
+        {
+          "episode": 11,
+          "title": "Wind Breaker 1x11",
+          "id": "episode/private-wind-breaker-1x11",
+          "image": "https://img.watchanimeworld.one/img/thumb_1147_s1e11.webp",
+          "season": 1
+        },
+        {
+          "episode": 12,
+          "title": "Wind Breaker 1x12",
+          "id": "episode/private-wind-breaker-1x12",
+          "image": "https://img.watchanimeworld.one/img/thumb_1147_s1e12.webp",
+          "season": 1
+        },
+        {
+          "episode": 13,
+          "title": "Wind Breaker 1x13",
+          "id": "episode/private-wind-breaker-1x13",
+          "image": "https://img.watchanimeworld.one/img/thumb_1147_s1e13.webp",
+          "season": 1
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "name": "Season 2",
+      "episodesCount": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Wind Breaker 2x1",
+          "id": "episode/wind-breaker-2x1",
+          "image": "https://img.watchanimeworld.one/img/thumb_1147_s2e1.webp",
+          "season": 2
+        },
+        {
+          "episode": 2,
+          "title": "Wind Breaker 2x2",
+          "id": "episode/wind-breaker-2x2",
+          "image": "https://img.watchanimeworld.one/img/thumb_1147_s2e2.webp",
+          "season": 2
+        },
+        {
+          "episode": 3,
+          "title": "Wind Breaker 2x3",
+          "id": "episode/wind-breaker-2x3",
+          "image": "https://img.watchanimeworld.one/img/thumb_1147_s2e3.webp",
+          "season": 2
+        },
+        {
+          "episode": 4,
+          "title": "Wind Breaker 2x4",
+          "id": "episode/wind-breaker-2x4",
+          "image": "https://img.watchanimeworld.one/img/thumb_1147_s2e4.webp",
+          "season": 2
+        },
+        {
+          "episode": 5,
+          "title": "Wind Breaker 2x5",
+          "id": "episode/wind-breaker-2x5",
+          "image": "https://img.watchanimeworld.one/img/thumb_1147_s2e5.webp",
+          "season": 2
+        },
+        {
+          "episode": 6,
+          "title": "Wind Breaker 2x6",
+          "id": "episode/wind-breaker-2x6",
+          "image": "https://img.watchanimeworld.one/img/thumb_1147_s2e6.webp",
+          "season": 2
+        },
+        {
+          "episode": 7,
+          "title": "Wind Breaker 2x7",
+          "id": "episode/wind-breaker-2x7",
+          "image": "https://img.watchanimeworld.one/img/thumb_1147_s2e7.webp",
+          "season": 2
+        },
+        {
+          "episode": 8,
+          "title": "Wind Breaker 2x8",
+          "id": "episode/wind-breaker-2x8",
+          "image": "https://img.watchanimeworld.one/img/thumb_1147_s2e8.webp",
+          "season": 2
+        },
+        {
+          "episode": 9,
+          "title": "Wind Breaker 2x9",
+          "id": "episode/wind-breaker-2x9",
+          "image": "https://img.watchanimeworld.one/img/thumb_1147_s2e9.webp",
+          "season": 2
+        },
+        {
+          "episode": 10,
+          "title": "Wind Breaker 2x10",
+          "id": "episode/wind-breaker-2x10",
+          "image": "https://img.watchanimeworld.one/img/thumb_1147_s2e10.webp",
+          "season": 2
+        },
+        {
+          "episode": 11,
+          "title": "After the Storm",
+          "id": "episode/wind-breaker-2x11",
+          "image": "https://img.watchanimeworld.one/img/thumb_1147_s2e11.webp",
+          "season": 2
+        },
+        {
+          "episode": 12,
+          "title": "Wind Breaker 2x12",
+          "id": "episode/wind-breaker-2x12",
+          "image": "https://img.watchanimeworld.one/img/thumb_1147_s2e12.webp",
+          "season": 2
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/private-wind-breaker-1x2",
+      "episode_id": "episode/private-wind-breaker-1x2",
+      "title": "Wind Breaker 1x1",
+      "episode_name": "Wind Breaker 1x1",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1147_s1e2.webp",
+      "abyssid": "11996",
+      "abyssId": "11996",
+      "playxid": "2053ea869f5c78d1a98b73ae63133ea1",
+      "playXID": "2053ea869f5c78d1a98b73ae63133ea1",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "11996",
+        "playXID": "2053ea869f5c78d1a98b73ae63133ea1",
+        "streamId": "11996",
+        "dubPlayerSrc": "/dub-player/t/11996/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2053ea869f5c78d1a98b73ae63133ea1&abyssId=11996"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "11996",
+        "playXID": "2053ea869f5c78d1a98b73ae63133ea1",
+        "streamId": "11996",
+        "dubPlayerSrc": "/dub-player/t/11996/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2053ea869f5c78d1a98b73ae63133ea1&abyssId=11996"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/2053ea869f5c78d1a98b73ae63133ea1",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/2053ea869f5c78d1a98b73ae63133ea1"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "11996",
+        "abyssId": "11996",
+        "playXID": "2053ea869f5c78d1a98b73ae63133ea1",
+        "title": "Wind Breaker",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "iqtp1bFpY"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "LCOYRApTE"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "agb7wCg6-"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "_3-KkDehA"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "5N3MZZbSE"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/806549c7c02f54713ce8ab4cc1a4e483/master.m3u8?md5=1sbyPP3BDuAqZ77VR26Fzw&expires=1792167044",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/806549c7c02f54713ce8ab4cc1a4e483/master.m3u8?md5=1sbyPP3BDuAqZ77VR26Fzw&expires=1792167044",
+            "videoSource": "https://ravok.buzz/cdn/hls/806549c7c02f54713ce8ab4cc1a4e483/master.m3u8?md5=1sbyPP3BDuAqZ77VR26Fzw&expires=1792167044",
+            "videoImage": "https://as-cdn28.top/p/_Cvf1939CcopnccSaulW2rAQK-vlONbeyEygLWaKsWKvJp5KLjPcWjCmGQpBCXn-wG7q1LiNcK7axq7HPsEWfg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "2053ea869f5c78d1a98b73ae63133ea1",
+                "streamUrl": "https://ravok.buzz/cdn/hls/806549c7c02f54713ce8ab4cc1a4e483/master.m3u8?md5=1sbyPP3BDuAqZ77VR26Fzw&expires=1792167044",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/806549c7c02f54713ce8ab4cc1a4e483/master.m3u8?md5=1sbyPP3BDuAqZ77VR26Fzw&expires=1792167044",
+                "videoSource": "https://ravok.buzz/cdn/hls/806549c7c02f54713ce8ab4cc1a4e483/master.m3u8?md5=1sbyPP3BDuAqZ77VR26Fzw&expires=1792167044",
+                "link": "https://ravok.buzz/cdn/hls/806549c7c02f54713ce8ab4cc1a4e483/master.m3u8?md5=1sbyPP3BDuAqZ77VR26Fzw&expires=1792167044",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/_Cvf1939CcopnccSaulW2rAQK-vlONbeyEygLWaKsWKvJp5KLjPcWjCmGQpBCXn-wG7q1LiNcK7axq7HPsEWfg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "iqtp1bFpY"
+        }
+      },
+      "fetched_at": "2026-10-16T14:10:54Z"
+    },
+    {
+      "id": "episode/private-wind-breaker-1x4",
+      "episode_id": "episode/private-wind-breaker-1x4",
+      "title": "Wind Breaker 1x1",
+      "episode_name": "Wind Breaker 1x1",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1147_s1e4.webp",
+      "abyssid": "11998",
+      "abyssId": "11998",
+      "playxid": "9b1cab1b93285ce58e7c1dc576ff8a14",
+      "playXID": "9b1cab1b93285ce58e7c1dc576ff8a14",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "11998",
+        "playXID": "9b1cab1b93285ce58e7c1dc576ff8a14",
+        "streamId": "11998",
+        "dubPlayerSrc": "/dub-player/t/11998/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9b1cab1b93285ce58e7c1dc576ff8a14&abyssId=11998"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "11998",
+        "playXID": "9b1cab1b93285ce58e7c1dc576ff8a14",
+        "streamId": "11998",
+        "dubPlayerSrc": "/dub-player/t/11998/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9b1cab1b93285ce58e7c1dc576ff8a14&abyssId=11998"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/9b1cab1b93285ce58e7c1dc576ff8a14",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/9b1cab1b93285ce58e7c1dc576ff8a14"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "11998",
+        "abyssId": "11998",
+        "playXID": "9b1cab1b93285ce58e7c1dc576ff8a14",
+        "title": "Wind Breaker",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "bqMgC8LCN"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "SFp1RTtpTC"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "iTH-9fzl48"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "sRA6neawY"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "jhoKHUSTS"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/7c195e52f156d6f54362cbc3aaa9a50d/master.m3u8?md5=gxKcTcI5otOT6a3GbXTgsw&expires=1792167044",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/7c195e52f156d6f54362cbc3aaa9a50d/master.m3u8?md5=gxKcTcI5otOT6a3GbXTgsw&expires=1792167044",
+            "videoSource": "https://ravok.buzz/cdn/hls/7c195e52f156d6f54362cbc3aaa9a50d/master.m3u8?md5=gxKcTcI5otOT6a3GbXTgsw&expires=1792167044",
+            "videoImage": "https://as-cdn28.top/p/8T4uVdS9obO7gyzrMW6cE8HE4s6QcwI54s2GePK1xgDr1rUWV7RnzGqUxDoStCNlrHebT57EzT8XB6NgcdOEVA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "9b1cab1b93285ce58e7c1dc576ff8a14",
+                "streamUrl": "https://ravok.buzz/cdn/hls/7c195e52f156d6f54362cbc3aaa9a50d/master.m3u8?md5=gxKcTcI5otOT6a3GbXTgsw&expires=1792167044",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/7c195e52f156d6f54362cbc3aaa9a50d/master.m3u8?md5=gxKcTcI5otOT6a3GbXTgsw&expires=1792167044",
+                "videoSource": "https://ravok.buzz/cdn/hls/7c195e52f156d6f54362cbc3aaa9a50d/master.m3u8?md5=gxKcTcI5otOT6a3GbXTgsw&expires=1792167044",
+                "link": "https://ravok.buzz/cdn/hls/7c195e52f156d6f54362cbc3aaa9a50d/master.m3u8?md5=gxKcTcI5otOT6a3GbXTgsw&expires=1792167044",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/8T4uVdS9obO7gyzrMW6cE8HE4s6QcwI54s2GePK1xgDr1rUWV7RnzGqUxDoStCNlrHebT57EzT8XB6NgcdOEVA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "bqMgC8LCN"
+        }
+      },
+      "fetched_at": "2026-10-16T14:10:54Z"
+    },
+    {
+      "id": "episode/private-wind-breaker-1x3",
+      "episode_id": "episode/private-wind-breaker-1x3",
+      "title": "Wind Breaker 1x1",
+      "episode_name": "Wind Breaker 1x1",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1147_s1e3.webp",
+      "abyssid": "11997",
+      "abyssId": "11997",
+      "playxid": "81bd84c896e453d8b6292072257c75c1",
+      "playXID": "81bd84c896e453d8b6292072257c75c1",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "11997",
+        "playXID": "81bd84c896e453d8b6292072257c75c1",
+        "streamId": "11997",
+        "dubPlayerSrc": "/dub-player/t/11997/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=81bd84c896e453d8b6292072257c75c1&abyssId=11997"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "11997",
+        "playXID": "81bd84c896e453d8b6292072257c75c1",
+        "streamId": "11997",
+        "dubPlayerSrc": "/dub-player/t/11997/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=81bd84c896e453d8b6292072257c75c1&abyssId=11997"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/81bd84c896e453d8b6292072257c75c1",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/81bd84c896e453d8b6292072257c75c1"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "11997",
+        "abyssId": "11997",
+        "playXID": "81bd84c896e453d8b6292072257c75c1",
+        "title": "Wind Breaker",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "47y3BIefl"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "-4zYwdpcE"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "6rkNF5RP3"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "CgdduotAO"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "jzJcjCjic"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/d338b5e54fc8a68ae9dbdb0acd23c3d7/master.m3u8?md5=EdTigzotQkVY0bs4iKgbMw&expires=1792167044",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/d338b5e54fc8a68ae9dbdb0acd23c3d7/master.m3u8?md5=EdTigzotQkVY0bs4iKgbMw&expires=1792167044",
+            "videoSource": "https://ravok.buzz/cdn/hls/d338b5e54fc8a68ae9dbdb0acd23c3d7/master.m3u8?md5=EdTigzotQkVY0bs4iKgbMw&expires=1792167044",
+            "videoImage": "https://as-cdn31.top/p/xNnZgM_P9SnTg5PY3oYTgiSuhOuxITfkYcG-uYBKGHuX2LozO_2meHmlCvXvSwGWGKogx5h33yjSx_Es0IZfgw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "81bd84c896e453d8b6292072257c75c1",
+                "streamUrl": "https://ravok.buzz/cdn/hls/d338b5e54fc8a68ae9dbdb0acd23c3d7/master.m3u8?md5=EdTigzotQkVY0bs4iKgbMw&expires=1792167044",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/d338b5e54fc8a68ae9dbdb0acd23c3d7/master.m3u8?md5=EdTigzotQkVY0bs4iKgbMw&expires=1792167044",
+                "videoSource": "https://ravok.buzz/cdn/hls/d338b5e54fc8a68ae9dbdb0acd23c3d7/master.m3u8?md5=EdTigzotQkVY0bs4iKgbMw&expires=1792167044",
+                "link": "https://ravok.buzz/cdn/hls/d338b5e54fc8a68ae9dbdb0acd23c3d7/master.m3u8?md5=EdTigzotQkVY0bs4iKgbMw&expires=1792167044",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/xNnZgM_P9SnTg5PY3oYTgiSuhOuxITfkYcG-uYBKGHuX2LozO_2meHmlCvXvSwGWGKogx5h33yjSx_Es0IZfgw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "47y3BIefl"
+        }
+      },
+      "fetched_at": "2026-10-16T14:10:54Z"
+    },
+    {
+      "id": "episode/private-wind-breaker-1x1",
+      "episode_id": "episode/private-wind-breaker-1x1",
+      "title": "Wind Breaker 1x1",
+      "episode_name": "Wind Breaker 1x1",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1147_s1e1.webp",
+      "abyssid": "11994",
+      "abyssId": "11994",
+      "playxid": "e1c599867ee5449a59e6c638200a3d92",
+      "playXID": "e1c599867ee5449a59e6c638200a3d92",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "11994",
+        "playXID": "e1c599867ee5449a59e6c638200a3d92",
+        "streamId": "11994",
+        "dubPlayerSrc": "/dub-player/t/11994/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e1c599867ee5449a59e6c638200a3d92&abyssId=11994"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "11994",
+        "playXID": "e1c599867ee5449a59e6c638200a3d92",
+        "streamId": "11994",
+        "dubPlayerSrc": "/dub-player/t/11994/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e1c599867ee5449a59e6c638200a3d92&abyssId=11994"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/e1c599867ee5449a59e6c638200a3d92",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/e1c599867ee5449a59e6c638200a3d92"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "11994",
+        "abyssId": "11994",
+        "playXID": "e1c599867ee5449a59e6c638200a3d92",
+        "title": "Wind Breaker",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "JUJc3CnYu"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "0EOKRF0iu"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "lQBiCYqBd"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "iSS7heimp"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "U2x3uCMnj"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/61dd2fc115f28faf60b150f0f1da7b01/master.m3u8?md5=SGunIQBGFABJHZUoK1KmyQ&expires=1792167044",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/61dd2fc115f28faf60b150f0f1da7b01/master.m3u8?md5=SGunIQBGFABJHZUoK1KmyQ&expires=1792167044",
+            "videoSource": "https://ravok.buzz/cdn/hls/61dd2fc115f28faf60b150f0f1da7b01/master.m3u8?md5=SGunIQBGFABJHZUoK1KmyQ&expires=1792167044",
+            "videoImage": "https://as-cdn30.top/p/Huwa2ntCz3ZHrJupgnWRocZAiYf2AQtMiobJ8eKU8Sw8zeA1kkGJnnXDndkFsbt1wdcfPcBzo_9Cy2j9Ny4K1A.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "e1c599867ee5449a59e6c638200a3d92",
+                "streamUrl": "https://ravok.buzz/cdn/hls/61dd2fc115f28faf60b150f0f1da7b01/master.m3u8?md5=SGunIQBGFABJHZUoK1KmyQ&expires=1792167044",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/61dd2fc115f28faf60b150f0f1da7b01/master.m3u8?md5=SGunIQBGFABJHZUoK1KmyQ&expires=1792167044",
+                "videoSource": "https://ravok.buzz/cdn/hls/61dd2fc115f28faf60b150f0f1da7b01/master.m3u8?md5=SGunIQBGFABJHZUoK1KmyQ&expires=1792167044",
+                "link": "https://ravok.buzz/cdn/hls/61dd2fc115f28faf60b150f0f1da7b01/master.m3u8?md5=SGunIQBGFABJHZUoK1KmyQ&expires=1792167044",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/Huwa2ntCz3ZHrJupgnWRocZAiYf2AQtMiobJ8eKU8Sw8zeA1kkGJnnXDndkFsbt1wdcfPcBzo_9Cy2j9Ny4K1A.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "JUJc3CnYu"
+        }
+      },
+      "fetched_at": "2026-10-16T14:10:54Z"
+    },
+    {
+      "id": "episode/private-wind-breaker-1x5",
+      "episode_id": "episode/private-wind-breaker-1x5",
+      "title": "Wind Breaker 1x1",
+      "episode_name": "Wind Breaker 1x1",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1147_s1e5.webp",
+      "abyssid": "11999",
+      "abyssId": "11999",
+      "playxid": "b594f8f8fcc3cc7910e2dcd4269a2e95",
+      "playXID": "b594f8f8fcc3cc7910e2dcd4269a2e95",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "11999",
+        "playXID": "b594f8f8fcc3cc7910e2dcd4269a2e95",
+        "streamId": "11999",
+        "dubPlayerSrc": "/dub-player/t/11999/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b594f8f8fcc3cc7910e2dcd4269a2e95&abyssId=11999"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "11999",
+        "playXID": "b594f8f8fcc3cc7910e2dcd4269a2e95",
+        "streamId": "11999",
+        "dubPlayerSrc": "/dub-player/t/11999/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b594f8f8fcc3cc7910e2dcd4269a2e95&abyssId=11999"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/b594f8f8fcc3cc7910e2dcd4269a2e95",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/b594f8f8fcc3cc7910e2dcd4269a2e95"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "11999",
+        "abyssId": "11999",
+        "playXID": "b594f8f8fcc3cc7910e2dcd4269a2e95",
+        "title": "Wind Breaker",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "dJ6qaL-vu"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "iZ-YUjTOl"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "5YdxXsWSp"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "Q_0BLRGf-"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "-S2O-snsF"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/dccfd17b67b42f1e969f624c10545a7a/master.m3u8?md5=WXRBMMd-vhdaoiclzfv_Eg&expires=1792167045",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/dccfd17b67b42f1e969f624c10545a7a/master.m3u8?md5=WXRBMMd-vhdaoiclzfv_Eg&expires=1792167045",
+            "videoSource": "https://ravok.buzz/cdn/hls/dccfd17b67b42f1e969f624c10545a7a/master.m3u8?md5=WXRBMMd-vhdaoiclzfv_Eg&expires=1792167045",
+            "videoImage": "https://as-cdn30.top/p/nfOSCmME3pLQhZRBw5m9wlIBn0P5C32pvEsNCaaY_EHr_qjZKiJLjrfMVO51tCPQYAnq3x3VX5SOuLJTe0dfbQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "b594f8f8fcc3cc7910e2dcd4269a2e95",
+                "streamUrl": "https://ravok.buzz/cdn/hls/dccfd17b67b42f1e969f624c10545a7a/master.m3u8?md5=WXRBMMd-vhdaoiclzfv_Eg&expires=1792167045",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/dccfd17b67b42f1e969f624c10545a7a/master.m3u8?md5=WXRBMMd-vhdaoiclzfv_Eg&expires=1792167045",
+                "videoSource": "https://ravok.buzz/cdn/hls/dccfd17b67b42f1e969f624c10545a7a/master.m3u8?md5=WXRBMMd-vhdaoiclzfv_Eg&expires=1792167045",
+                "link": "https://ravok.buzz/cdn/hls/dccfd17b67b42f1e969f624c10545a7a/master.m3u8?md5=WXRBMMd-vhdaoiclzfv_Eg&expires=1792167045",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/nfOSCmME3pLQhZRBw5m9wlIBn0P5C32pvEsNCaaY_EHr_qjZKiJLjrfMVO51tCPQYAnq3x3VX5SOuLJTe0dfbQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "dJ6qaL-vu"
+        }
+      },
+      "fetched_at": "2026-10-16T14:10:55Z"
+    },
+    {
+      "id": "episode/private-wind-breaker-1x6",
+      "episode_id": "episode/private-wind-breaker-1x6",
+      "title": "Wind Breaker 1x1",
+      "episode_name": "Wind Breaker 1x1",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1147_s1e6.webp",
+      "abyssid": "12000",
+      "abyssId": "12000",
+      "playxid": "096ce33c96792e289516407eb29b62bb",
+      "playXID": "096ce33c96792e289516407eb29b62bb",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12000",
+        "playXID": "096ce33c96792e289516407eb29b62bb",
+        "streamId": "12000",
+        "dubPlayerSrc": "/dub-player/t/12000/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=096ce33c96792e289516407eb29b62bb&abyssId=12000"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12000",
+        "playXID": "096ce33c96792e289516407eb29b62bb",
+        "streamId": "12000",
+        "dubPlayerSrc": "/dub-player/t/12000/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=096ce33c96792e289516407eb29b62bb&abyssId=12000"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/096ce33c96792e289516407eb29b62bb",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/096ce33c96792e289516407eb29b62bb"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12000",
+        "abyssId": "12000",
+        "playXID": "096ce33c96792e289516407eb29b62bb",
+        "title": "Wind Breaker",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "XK7h9hyRA"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "6pFJTJ0pU"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "HvGrb-iCfu"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "hnV9G0IqC"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "B9g_0yUL2"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/679d9b3ae6b0d6f5729a3ed491a1b3aa/master.m3u8?md5=i58cZLdj_AvJTwi6gJvpUg&expires=1792167046",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/679d9b3ae6b0d6f5729a3ed491a1b3aa/master.m3u8?md5=i58cZLdj_AvJTwi6gJvpUg&expires=1792167046",
+            "videoSource": "https://ravok.buzz/cdn/hls/679d9b3ae6b0d6f5729a3ed491a1b3aa/master.m3u8?md5=i58cZLdj_AvJTwi6gJvpUg&expires=1792167046",
+            "videoImage": "https://as-cdn31.top/p/7nkVgR9_lfcKhP-YiqHV8KIp7bbIySbchShx4vaPTwBAgthRxQZoC-8oBgjlaAYaTV_dtNqYKtYWptPpOM81Fw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "096ce33c96792e289516407eb29b62bb",
+                "streamUrl": "https://ravok.buzz/cdn/hls/679d9b3ae6b0d6f5729a3ed491a1b3aa/master.m3u8?md5=i58cZLdj_AvJTwi6gJvpUg&expires=1792167046",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/679d9b3ae6b0d6f5729a3ed491a1b3aa/master.m3u8?md5=i58cZLdj_AvJTwi6gJvpUg&expires=1792167046",
+                "videoSource": "https://ravok.buzz/cdn/hls/679d9b3ae6b0d6f5729a3ed491a1b3aa/master.m3u8?md5=i58cZLdj_AvJTwi6gJvpUg&expires=1792167046",
+                "link": "https://ravok.buzz/cdn/hls/679d9b3ae6b0d6f5729a3ed491a1b3aa/master.m3u8?md5=i58cZLdj_AvJTwi6gJvpUg&expires=1792167046",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/7nkVgR9_lfcKhP-YiqHV8KIp7bbIySbchShx4vaPTwBAgthRxQZoC-8oBgjlaAYaTV_dtNqYKtYWptPpOM81Fw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "XK7h9hyRA"
+        }
+      },
+      "fetched_at": "2026-10-16T14:10:56Z"
+    },
+    {
+      "id": "episode/private-wind-breaker-1x7",
+      "episode_id": "episode/private-wind-breaker-1x7",
+      "title": "Wind Breaker 1x1",
+      "episode_name": "Wind Breaker 1x1",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1147_s1e7.webp",
+      "abyssid": "12001",
+      "abyssId": "12001",
+      "playxid": "6e212075e04d1616b06a5e1398e10053",
+      "playXID": "6e212075e04d1616b06a5e1398e10053",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12001",
+        "playXID": "6e212075e04d1616b06a5e1398e10053",
+        "streamId": "12001",
+        "dubPlayerSrc": "/dub-player/t/12001/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6e212075e04d1616b06a5e1398e10053&abyssId=12001"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12001",
+        "playXID": "6e212075e04d1616b06a5e1398e10053",
+        "streamId": "12001",
+        "dubPlayerSrc": "/dub-player/t/12001/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6e212075e04d1616b06a5e1398e10053&abyssId=12001"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/6e212075e04d1616b06a5e1398e10053",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/6e212075e04d1616b06a5e1398e10053"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12001",
+        "abyssId": "12001",
+        "playXID": "6e212075e04d1616b06a5e1398e10053",
+        "title": "Wind Breaker",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "DtbTYhqXq"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "hhwjgGEjh"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "yV_aoMebV"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "g2RoUc3p9"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "YyA0tj1HQt"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/97125998639d6f838e5ddc69408e3e10/master.m3u8?md5=gBPU65wVWQIGKJXNOdKnSg&expires=1792167046",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/97125998639d6f838e5ddc69408e3e10/master.m3u8?md5=gBPU65wVWQIGKJXNOdKnSg&expires=1792167046",
+            "videoSource": "https://ravok.buzz/cdn/hls/97125998639d6f838e5ddc69408e3e10/master.m3u8?md5=gBPU65wVWQIGKJXNOdKnSg&expires=1792167046",
+            "videoImage": "https://as-cdn27.top/p/dJIP_hLHygdyd43v4Yu1DoTNUuRoxc8BoZpcNaLgTNWNFmeoTygqSMdeCCSN4pi2ngQV3mUfvmNlpfVD19tTEQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "6e212075e04d1616b06a5e1398e10053",
+                "streamUrl": "https://ravok.buzz/cdn/hls/97125998639d6f838e5ddc69408e3e10/master.m3u8?md5=gBPU65wVWQIGKJXNOdKnSg&expires=1792167046",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/97125998639d6f838e5ddc69408e3e10/master.m3u8?md5=gBPU65wVWQIGKJXNOdKnSg&expires=1792167046",
+                "videoSource": "https://ravok.buzz/cdn/hls/97125998639d6f838e5ddc69408e3e10/master.m3u8?md5=gBPU65wVWQIGKJXNOdKnSg&expires=1792167046",
+                "link": "https://ravok.buzz/cdn/hls/97125998639d6f838e5ddc69408e3e10/master.m3u8?md5=gBPU65wVWQIGKJXNOdKnSg&expires=1792167046",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/dJIP_hLHygdyd43v4Yu1DoTNUuRoxc8BoZpcNaLgTNWNFmeoTygqSMdeCCSN4pi2ngQV3mUfvmNlpfVD19tTEQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "DtbTYhqXq"
+        }
+      },
+      "fetched_at": "2026-10-16T14:10:56Z"
+    },
+    {
+      "id": "episode/private-wind-breaker-1x8",
+      "episode_id": "episode/private-wind-breaker-1x8",
+      "title": "Wind Breaker 1x1",
+      "episode_name": "Wind Breaker 1x1",
+      "episode_number": 8,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1147_s1e8.webp",
+      "abyssid": "12002",
+      "abyssId": "12002",
+      "playxid": "63c0d1be32c9c7e2dee3ac21690e490c",
+      "playXID": "63c0d1be32c9c7e2dee3ac21690e490c",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12002",
+        "playXID": "63c0d1be32c9c7e2dee3ac21690e490c",
+        "streamId": "12002",
+        "dubPlayerSrc": "/dub-player/t/12002/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=63c0d1be32c9c7e2dee3ac21690e490c&abyssId=12002"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12002",
+        "playXID": "63c0d1be32c9c7e2dee3ac21690e490c",
+        "streamId": "12002",
+        "dubPlayerSrc": "/dub-player/t/12002/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=63c0d1be32c9c7e2dee3ac21690e490c&abyssId=12002"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/63c0d1be32c9c7e2dee3ac21690e490c",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/63c0d1be32c9c7e2dee3ac21690e490c"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12002",
+        "abyssId": "12002",
+        "playXID": "63c0d1be32c9c7e2dee3ac21690e490c",
+        "title": "Wind Breaker",
+        "season": 1,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "Zn5D-Ot1e_"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "Ty-RvsuGF"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "fZL88FEJI"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "VMot27iMY"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "vsbEnderB"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/e7cad06d57be35e9e24d08512ca34a71/master.m3u8?md5=OCfAWiRttQaQcH__-EQ55g&expires=1792167046",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/e7cad06d57be35e9e24d08512ca34a71/master.m3u8?md5=OCfAWiRttQaQcH__-EQ55g&expires=1792167046",
+            "videoSource": "https://ravok.buzz/cdn/hls/e7cad06d57be35e9e24d08512ca34a71/master.m3u8?md5=OCfAWiRttQaQcH__-EQ55g&expires=1792167046",
+            "videoImage": "https://as-cdn30.top/p/jGW0txC-VFGCNd8MUI1s40zjkDQ9g_9UQN8_CLOqE3ZeyQkwVqhXThAdKiMaPwVEvfS-YuXLWdn2zSUOfIC67A.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "63c0d1be32c9c7e2dee3ac21690e490c",
+                "streamUrl": "https://ravok.buzz/cdn/hls/e7cad06d57be35e9e24d08512ca34a71/master.m3u8?md5=OCfAWiRttQaQcH__-EQ55g&expires=1792167046",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/e7cad06d57be35e9e24d08512ca34a71/master.m3u8?md5=OCfAWiRttQaQcH__-EQ55g&expires=1792167046",
+                "videoSource": "https://ravok.buzz/cdn/hls/e7cad06d57be35e9e24d08512ca34a71/master.m3u8?md5=OCfAWiRttQaQcH__-EQ55g&expires=1792167046",
+                "link": "https://ravok.buzz/cdn/hls/e7cad06d57be35e9e24d08512ca34a71/master.m3u8?md5=OCfAWiRttQaQcH__-EQ55g&expires=1792167046",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/jGW0txC-VFGCNd8MUI1s40zjkDQ9g_9UQN8_CLOqE3ZeyQkwVqhXThAdKiMaPwVEvfS-YuXLWdn2zSUOfIC67A.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "Zn5D-Ot1e_"
+        }
+      },
+      "fetched_at": "2026-10-16T14:10:56Z"
+    },
+    {
+      "id": "episode/private-wind-breaker-1x9",
+      "episode_id": "episode/private-wind-breaker-1x9",
+      "title": "Wind Breaker 1x1",
+      "episode_name": "Wind Breaker 1x1",
+      "episode_number": 9,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1147_s1e9.webp",
+      "abyssid": "12003",
+      "abyssId": "12003",
+      "playxid": "a995b410d5e76ed56523533b47e3786a",
+      "playXID": "a995b410d5e76ed56523533b47e3786a",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12003",
+        "playXID": "a995b410d5e76ed56523533b47e3786a",
+        "streamId": "12003",
+        "dubPlayerSrc": "/dub-player/t/12003/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a995b410d5e76ed56523533b47e3786a&abyssId=12003"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12003",
+        "playXID": "a995b410d5e76ed56523533b47e3786a",
+        "streamId": "12003",
+        "dubPlayerSrc": "/dub-player/t/12003/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a995b410d5e76ed56523533b47e3786a&abyssId=12003"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/a995b410d5e76ed56523533b47e3786a",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/a995b410d5e76ed56523533b47e3786a"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12003",
+        "abyssId": "12003",
+        "playXID": "a995b410d5e76ed56523533b47e3786a",
+        "title": "Wind Breaker",
+        "season": 1,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "wW3kKBZ1gM"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "VQ9X0BXDf"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "qddUmSDcX"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "S1BftyfTp"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "Cfo3JIFjJ"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/4f15e80c114c3737fcb7fe387b20d4eb/master.m3u8?md5=Am8L13TszuPxVUkab_QhPA&expires=1792167046",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/4f15e80c114c3737fcb7fe387b20d4eb/master.m3u8?md5=Am8L13TszuPxVUkab_QhPA&expires=1792167046",
+            "videoSource": "https://ravok.buzz/cdn/hls/4f15e80c114c3737fcb7fe387b20d4eb/master.m3u8?md5=Am8L13TszuPxVUkab_QhPA&expires=1792167046",
+            "videoImage": "https://as-cdn31.top/p/_7dCzthoCo6Ov91Cvy_tt2vFQFc2S0XSIyhtFYOdm8jeaf5gkifALZiCfpQ6D2lFkJLP8VNK5AdHi5TmQ3mWAw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "a995b410d5e76ed56523533b47e3786a",
+                "streamUrl": "https://ravok.buzz/cdn/hls/4f15e80c114c3737fcb7fe387b20d4eb/master.m3u8?md5=Am8L13TszuPxVUkab_QhPA&expires=1792167046",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/4f15e80c114c3737fcb7fe387b20d4eb/master.m3u8?md5=Am8L13TszuPxVUkab_QhPA&expires=1792167046",
+                "videoSource": "https://ravok.buzz/cdn/hls/4f15e80c114c3737fcb7fe387b20d4eb/master.m3u8?md5=Am8L13TszuPxVUkab_QhPA&expires=1792167046",
+                "link": "https://ravok.buzz/cdn/hls/4f15e80c114c3737fcb7fe387b20d4eb/master.m3u8?md5=Am8L13TszuPxVUkab_QhPA&expires=1792167046",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/_7dCzthoCo6Ov91Cvy_tt2vFQFc2S0XSIyhtFYOdm8jeaf5gkifALZiCfpQ6D2lFkJLP8VNK5AdHi5TmQ3mWAw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "wW3kKBZ1gM"
+        }
+      },
+      "fetched_at": "2026-10-16T14:10:56Z"
+    },
+    {
+      "id": "episode/private-wind-breaker-1x10",
+      "episode_id": "episode/private-wind-breaker-1x10",
+      "title": "Wind Breaker 1x1",
+      "episode_name": "Wind Breaker 1x1",
+      "episode_number": 10,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1147_s1e10.webp",
+      "abyssid": "12004",
+      "abyssId": "12004",
+      "playxid": "530e685ac1c17f4c13ba184841f66796",
+      "playXID": "530e685ac1c17f4c13ba184841f66796",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12004",
+        "playXID": "530e685ac1c17f4c13ba184841f66796",
+        "streamId": "12004",
+        "dubPlayerSrc": "/dub-player/t/12004/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=530e685ac1c17f4c13ba184841f66796&abyssId=12004"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12004",
+        "playXID": "530e685ac1c17f4c13ba184841f66796",
+        "streamId": "12004",
+        "dubPlayerSrc": "/dub-player/t/12004/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=530e685ac1c17f4c13ba184841f66796&abyssId=12004"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/530e685ac1c17f4c13ba184841f66796",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/530e685ac1c17f4c13ba184841f66796"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12004",
+        "abyssId": "12004",
+        "playXID": "530e685ac1c17f4c13ba184841f66796",
+        "title": "Wind Breaker",
+        "season": 1,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "cjzj1QL7r"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "3EacYWo2C"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "KRA0UdRTS"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "pfxYUfqQQ"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "n1g6TCYuh"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/8fb2a9f7ce4c95bac1050b19d8bf7a8d/master.m3u8?md5=ztbJGuMaq47BZVF4YwF9aQ&expires=1792167047",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/8fb2a9f7ce4c95bac1050b19d8bf7a8d/master.m3u8?md5=ztbJGuMaq47BZVF4YwF9aQ&expires=1792167047",
+            "videoSource": "https://ravok.buzz/cdn/hls/8fb2a9f7ce4c95bac1050b19d8bf7a8d/master.m3u8?md5=ztbJGuMaq47BZVF4YwF9aQ&expires=1792167047",
+            "videoImage": "https://as-cdn31.top/p/HHwYPe8lzkM5WTuPcThni4kuAXNxwyg7b4RHWpG4ShhKMyWuvsnKlbPIZBEF-mhdoRoQ6QTXNZAaVtvvPtXINw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "530e685ac1c17f4c13ba184841f66796",
+                "streamUrl": "https://ravok.buzz/cdn/hls/8fb2a9f7ce4c95bac1050b19d8bf7a8d/master.m3u8?md5=ztbJGuMaq47BZVF4YwF9aQ&expires=1792167047",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/8fb2a9f7ce4c95bac1050b19d8bf7a8d/master.m3u8?md5=ztbJGuMaq47BZVF4YwF9aQ&expires=1792167047",
+                "videoSource": "https://ravok.buzz/cdn/hls/8fb2a9f7ce4c95bac1050b19d8bf7a8d/master.m3u8?md5=ztbJGuMaq47BZVF4YwF9aQ&expires=1792167047",
+                "link": "https://ravok.buzz/cdn/hls/8fb2a9f7ce4c95bac1050b19d8bf7a8d/master.m3u8?md5=ztbJGuMaq47BZVF4YwF9aQ&expires=1792167047",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/HHwYPe8lzkM5WTuPcThni4kuAXNxwyg7b4RHWpG4ShhKMyWuvsnKlbPIZBEF-mhdoRoQ6QTXNZAaVtvvPtXINw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "cjzj1QL7r"
+        }
+      },
+      "fetched_at": "2026-10-16T14:10:57Z"
+    },
+    {
+      "id": "episode/private-wind-breaker-1x11",
+      "episode_id": "episode/private-wind-breaker-1x11",
+      "title": "Wind Breaker 1x1",
+      "episode_name": "Wind Breaker 1x1",
+      "episode_number": 11,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1147_s1e11.webp",
+      "abyssid": "12005",
+      "abyssId": "12005",
+      "playxid": "265e5f95d04550eb5b53ab39f4860336",
+      "playXID": "265e5f95d04550eb5b53ab39f4860336",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12005",
+        "playXID": "265e5f95d04550eb5b53ab39f4860336",
+        "streamId": "12005",
+        "dubPlayerSrc": "/dub-player/t/12005/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=265e5f95d04550eb5b53ab39f4860336&abyssId=12005"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12005",
+        "playXID": "265e5f95d04550eb5b53ab39f4860336",
+        "streamId": "12005",
+        "dubPlayerSrc": "/dub-player/t/12005/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=265e5f95d04550eb5b53ab39f4860336&abyssId=12005"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/265e5f95d04550eb5b53ab39f4860336",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/265e5f95d04550eb5b53ab39f4860336"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12005",
+        "abyssId": "12005",
+        "playXID": "265e5f95d04550eb5b53ab39f4860336",
+        "title": "Wind Breaker",
+        "season": 1,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "aCJ1MOVt_"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "OXle4mYck"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "pPLIA5b4z"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "ONu8k6XV4"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "vtfypnYNS"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/def6d18043fb536d2ca447787beef4f3/master.m3u8?md5=SEagRsaPeF1SXlypdjqz0g&expires=1792167047",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/def6d18043fb536d2ca447787beef4f3/master.m3u8?md5=SEagRsaPeF1SXlypdjqz0g&expires=1792167047",
+            "videoSource": "https://ravok.buzz/cdn/hls/def6d18043fb536d2ca447787beef4f3/master.m3u8?md5=SEagRsaPeF1SXlypdjqz0g&expires=1792167047",
+            "videoImage": "https://as-cdn27.top/p/p7PyVJsx6NrIKAy8JoGIAD0doJV7cMl_w7nK0uwcHoCYzA0iZK0xNlSYPsQAYXmi4FtUMl24rfaC7FpuJ0NSJQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "265e5f95d04550eb5b53ab39f4860336",
+                "streamUrl": "https://ravok.buzz/cdn/hls/def6d18043fb536d2ca447787beef4f3/master.m3u8?md5=SEagRsaPeF1SXlypdjqz0g&expires=1792167047",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/def6d18043fb536d2ca447787beef4f3/master.m3u8?md5=SEagRsaPeF1SXlypdjqz0g&expires=1792167047",
+                "videoSource": "https://ravok.buzz/cdn/hls/def6d18043fb536d2ca447787beef4f3/master.m3u8?md5=SEagRsaPeF1SXlypdjqz0g&expires=1792167047",
+                "link": "https://ravok.buzz/cdn/hls/def6d18043fb536d2ca447787beef4f3/master.m3u8?md5=SEagRsaPeF1SXlypdjqz0g&expires=1792167047",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/p7PyVJsx6NrIKAy8JoGIAD0doJV7cMl_w7nK0uwcHoCYzA0iZK0xNlSYPsQAYXmi4FtUMl24rfaC7FpuJ0NSJQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "aCJ1MOVt_"
+        }
+      },
+      "fetched_at": "2026-10-16T14:10:57Z"
+    },
+    {
+      "id": "episode/private-wind-breaker-1x12",
+      "episode_id": "episode/private-wind-breaker-1x12",
+      "title": "Wind Breaker 1x1",
+      "episode_name": "Wind Breaker 1x1",
+      "episode_number": 12,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1147_s1e12.webp",
+      "abyssid": "12006",
+      "abyssId": "12006",
+      "playxid": "902daf6855267276c83a639cbb25165c",
+      "playXID": "902daf6855267276c83a639cbb25165c",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12006",
+        "playXID": "902daf6855267276c83a639cbb25165c",
+        "streamId": "12006",
+        "dubPlayerSrc": "/dub-player/t/12006/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=902daf6855267276c83a639cbb25165c&abyssId=12006"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12006",
+        "playXID": "902daf6855267276c83a639cbb25165c",
+        "streamId": "12006",
+        "dubPlayerSrc": "/dub-player/t/12006/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=902daf6855267276c83a639cbb25165c&abyssId=12006"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/902daf6855267276c83a639cbb25165c",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/902daf6855267276c83a639cbb25165c"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12006",
+        "abyssId": "12006",
+        "playXID": "902daf6855267276c83a639cbb25165c",
+        "title": "Wind Breaker",
+        "season": 1,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "lNS1QC8Z1"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "DN3-7k7xZ"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "S_IQvq2SD"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "50rdOYPLa"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "o3qg6tuph"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/13dd64d6909054e2a52e647d41718cda/master.m3u8?md5=0-BAWu7hEFDsJlZljwsIvw&expires=1792167048",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/13dd64d6909054e2a52e647d41718cda/master.m3u8?md5=0-BAWu7hEFDsJlZljwsIvw&expires=1792167048",
+            "videoSource": "https://ravok.buzz/cdn/hls/13dd64d6909054e2a52e647d41718cda/master.m3u8?md5=0-BAWu7hEFDsJlZljwsIvw&expires=1792167048",
+            "videoImage": "https://as-cdn29.top/p/XChfiYCgKm0GXjUN4p580Y85c88tu_8SmmkFo7EGktFcG-8rAt-J00FdYTOmqJGos2UjO3st0yj03w-XSSB5rA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "902daf6855267276c83a639cbb25165c",
+                "streamUrl": "https://ravok.buzz/cdn/hls/13dd64d6909054e2a52e647d41718cda/master.m3u8?md5=0-BAWu7hEFDsJlZljwsIvw&expires=1792167048",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/13dd64d6909054e2a52e647d41718cda/master.m3u8?md5=0-BAWu7hEFDsJlZljwsIvw&expires=1792167048",
+                "videoSource": "https://ravok.buzz/cdn/hls/13dd64d6909054e2a52e647d41718cda/master.m3u8?md5=0-BAWu7hEFDsJlZljwsIvw&expires=1792167048",
+                "link": "https://ravok.buzz/cdn/hls/13dd64d6909054e2a52e647d41718cda/master.m3u8?md5=0-BAWu7hEFDsJlZljwsIvw&expires=1792167048",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/XChfiYCgKm0GXjUN4p580Y85c88tu_8SmmkFo7EGktFcG-8rAt-J00FdYTOmqJGos2UjO3st0yj03w-XSSB5rA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "lNS1QC8Z1"
+        }
+      },
+      "fetched_at": "2026-10-16T14:10:58Z"
+    },
+    {
+      "id": "episode/private-wind-breaker-1x13",
+      "episode_id": "episode/private-wind-breaker-1x13",
+      "title": "Wind Breaker 1x1",
+      "episode_name": "Wind Breaker 1x1",
+      "episode_number": 13,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1147_s1e13.webp",
+      "abyssid": "12007",
+      "abyssId": "12007",
+      "playxid": "88250d62de314beb6755c137ec4e4933",
+      "playXID": "88250d62de314beb6755c137ec4e4933",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12007",
+        "playXID": "88250d62de314beb6755c137ec4e4933",
+        "streamId": "12007",
+        "dubPlayerSrc": "/dub-player/t/12007/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=88250d62de314beb6755c137ec4e4933&abyssId=12007"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12007",
+        "playXID": "88250d62de314beb6755c137ec4e4933",
+        "streamId": "12007",
+        "dubPlayerSrc": "/dub-player/t/12007/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=88250d62de314beb6755c137ec4e4933&abyssId=12007"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/88250d62de314beb6755c137ec4e4933",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/88250d62de314beb6755c137ec4e4933"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12007",
+        "abyssId": "12007",
+        "playXID": "88250d62de314beb6755c137ec4e4933",
+        "title": "Wind Breaker",
+        "season": 1,
+        "episode": 13,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "iSzblA7Yw"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "vgizuPMCf"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "uYjYIuz0b"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "l3pJJL-mE"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "233RqzXwD"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/0b416f3fef58211c6f874fe7dea5c006/master.m3u8?md5=6ykDKnZNs13r7jcfRIYI7Q&expires=1792167048",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/0b416f3fef58211c6f874fe7dea5c006/master.m3u8?md5=6ykDKnZNs13r7jcfRIYI7Q&expires=1792167048",
+            "videoSource": "https://ravok.buzz/cdn/hls/0b416f3fef58211c6f874fe7dea5c006/master.m3u8?md5=6ykDKnZNs13r7jcfRIYI7Q&expires=1792167048",
+            "videoImage": "https://as-cdn27.top/p/ezqszeSkTrNzCCspX0MeFfUTSJgzS_kgRM8-m2gsJwsDJCDqgbQTjgigPRGhWdBYEeGtBxfxjpEbASlSVpmV7Q.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "88250d62de314beb6755c137ec4e4933",
+                "streamUrl": "https://ravok.buzz/cdn/hls/0b416f3fef58211c6f874fe7dea5c006/master.m3u8?md5=6ykDKnZNs13r7jcfRIYI7Q&expires=1792167048",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/0b416f3fef58211c6f874fe7dea5c006/master.m3u8?md5=6ykDKnZNs13r7jcfRIYI7Q&expires=1792167048",
+                "videoSource": "https://ravok.buzz/cdn/hls/0b416f3fef58211c6f874fe7dea5c006/master.m3u8?md5=6ykDKnZNs13r7jcfRIYI7Q&expires=1792167048",
+                "link": "https://ravok.buzz/cdn/hls/0b416f3fef58211c6f874fe7dea5c006/master.m3u8?md5=6ykDKnZNs13r7jcfRIYI7Q&expires=1792167048",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/ezqszeSkTrNzCCspX0MeFfUTSJgzS_kgRM8-m2gsJwsDJCDqgbQTjgigPRGhWdBYEeGtBxfxjpEbASlSVpmV7Q.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "iSzblA7Yw"
+        }
+      },
+      "fetched_at": "2026-10-16T14:10:58Z"
+    },
+    {
+      "id": "episode/wind-breaker-2x1",
+      "episode_id": "episode/wind-breaker-2x1",
+      "title": "Wind Breaker 2x1",
+      "episode_name": "Wind Breaker 2x1",
+      "episode_number": 1,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_1147_s2e1.webp",
+      "abyssid": "15452",
+      "abyssId": "15452",
+      "playxid": "c64c1dc40ade60a3aba8332e10260c93",
+      "playXID": "c64c1dc40ade60a3aba8332e10260c93",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15452",
+        "playXID": "c64c1dc40ade60a3aba8332e10260c93",
+        "streamId": "15452",
+        "dubPlayerSrc": "/dub-player/t/15452/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c64c1dc40ade60a3aba8332e10260c93&abyssId=15452"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15452",
+        "playXID": "c64c1dc40ade60a3aba8332e10260c93",
+        "streamId": "15452",
+        "dubPlayerSrc": "/dub-player/t/15452/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c64c1dc40ade60a3aba8332e10260c93&abyssId=15452"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/c64c1dc40ade60a3aba8332e10260c93",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/c64c1dc40ade60a3aba8332e10260c93"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15452",
+        "abyssId": "15452",
+        "playXID": "c64c1dc40ade60a3aba8332e10260c93",
+        "title": "Wind Breaker",
+        "season": 2,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "F6iGkSBbw"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "sQWy4gHZY"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "4Z2r8TGxo"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "TgsLWnE0B"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "QEWNZliUK"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/e781ca88bfecfd3775522e0b3c36d414/master.m3u8?md5=jHcLnlxfhfJJWJ6drW13fg&expires=1792167048",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/e781ca88bfecfd3775522e0b3c36d414/master.m3u8?md5=jHcLnlxfhfJJWJ6drW13fg&expires=1792167048",
+            "videoSource": "https://ravok.buzz/cdn/hls/e781ca88bfecfd3775522e0b3c36d414/master.m3u8?md5=jHcLnlxfhfJJWJ6drW13fg&expires=1792167048",
+            "videoImage": "https://as-cdn27.top/p/Zo9ZdI4NLTCZKpHKdy0I5vX98i3MEQGq8IdCGEBhiVq5wRaFtE2bW6JoMZ__32UoPaUqlBBBDqkbBhZwMA12WA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "c64c1dc40ade60a3aba8332e10260c93",
+                "streamUrl": "https://ravok.buzz/cdn/hls/e781ca88bfecfd3775522e0b3c36d414/master.m3u8?md5=jHcLnlxfhfJJWJ6drW13fg&expires=1792167048",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/e781ca88bfecfd3775522e0b3c36d414/master.m3u8?md5=jHcLnlxfhfJJWJ6drW13fg&expires=1792167048",
+                "videoSource": "https://ravok.buzz/cdn/hls/e781ca88bfecfd3775522e0b3c36d414/master.m3u8?md5=jHcLnlxfhfJJWJ6drW13fg&expires=1792167048",
+                "link": "https://ravok.buzz/cdn/hls/e781ca88bfecfd3775522e0b3c36d414/master.m3u8?md5=jHcLnlxfhfJJWJ6drW13fg&expires=1792167048",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/Zo9ZdI4NLTCZKpHKdy0I5vX98i3MEQGq8IdCGEBhiVq5wRaFtE2bW6JoMZ__32UoPaUqlBBBDqkbBhZwMA12WA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "F6iGkSBbw"
+        }
+      },
+      "fetched_at": "2026-10-16T14:10:58Z"
+    },
+    {
+      "id": "episode/wind-breaker-2x2",
+      "episode_id": "episode/wind-breaker-2x2",
+      "title": "Wind Breaker 2x1",
+      "episode_name": "Wind Breaker 2x1",
+      "episode_number": 2,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_1147_s2e2.webp",
+      "abyssid": "15475",
+      "abyssId": "15475",
+      "playxid": "7fe6f43b1fa74eaab7e0388b4c24c010",
+      "playXID": "7fe6f43b1fa74eaab7e0388b4c24c010",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15475",
+        "playXID": "7fe6f43b1fa74eaab7e0388b4c24c010",
+        "streamId": "15475",
+        "dubPlayerSrc": "/dub-player/t/15475/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=7fe6f43b1fa74eaab7e0388b4c24c010&abyssId=15475"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15475",
+        "playXID": "7fe6f43b1fa74eaab7e0388b4c24c010",
+        "streamId": "15475",
+        "dubPlayerSrc": "/dub-player/t/15475/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=7fe6f43b1fa74eaab7e0388b4c24c010&abyssId=15475"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/7fe6f43b1fa74eaab7e0388b4c24c010",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/7fe6f43b1fa74eaab7e0388b4c24c010"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15475",
+        "abyssId": "15475",
+        "playXID": "7fe6f43b1fa74eaab7e0388b4c24c010",
+        "title": "Wind Breaker",
+        "season": 2,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "er83h6HZy"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "mP17Czlff"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "NN70RWDQZz"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "cQLSrcYqJ"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "LbDpPGAhX"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/a7e39f97e90f501053044c94c97da5cb/master.m3u8?md5=E-dxUmmPEFsW_lVA8UIWxw&expires=1792167049",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/a7e39f97e90f501053044c94c97da5cb/master.m3u8?md5=E-dxUmmPEFsW_lVA8UIWxw&expires=1792167049",
+            "videoSource": "https://ravok.buzz/cdn/hls/a7e39f97e90f501053044c94c97da5cb/master.m3u8?md5=E-dxUmmPEFsW_lVA8UIWxw&expires=1792167049",
+            "videoImage": "https://as-cdn29.top/p/42P7QwhBLZN3LJdV6DKF8mLu-L-APW9XCnnofzctPiX-S2klxQa-GZThDSo7FvvkCbo01oq8zf0vCGijptLi8A.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "7fe6f43b1fa74eaab7e0388b4c24c010",
+                "streamUrl": "https://ravok.buzz/cdn/hls/a7e39f97e90f501053044c94c97da5cb/master.m3u8?md5=E-dxUmmPEFsW_lVA8UIWxw&expires=1792167049",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/a7e39f97e90f501053044c94c97da5cb/master.m3u8?md5=E-dxUmmPEFsW_lVA8UIWxw&expires=1792167049",
+                "videoSource": "https://ravok.buzz/cdn/hls/a7e39f97e90f501053044c94c97da5cb/master.m3u8?md5=E-dxUmmPEFsW_lVA8UIWxw&expires=1792167049",
+                "link": "https://ravok.buzz/cdn/hls/a7e39f97e90f501053044c94c97da5cb/master.m3u8?md5=E-dxUmmPEFsW_lVA8UIWxw&expires=1792167049",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/42P7QwhBLZN3LJdV6DKF8mLu-L-APW9XCnnofzctPiX-S2klxQa-GZThDSo7FvvkCbo01oq8zf0vCGijptLi8A.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "er83h6HZy"
+        }
+      },
+      "fetched_at": "2026-10-16T14:10:59Z"
+    },
+    {
+      "id": "episode/wind-breaker-2x3",
+      "episode_id": "episode/wind-breaker-2x3",
+      "title": "Wind Breaker 2x1",
+      "episode_name": "Wind Breaker 2x1",
+      "episode_number": 3,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_1147_s2e3.webp",
+      "abyssid": "15530",
+      "abyssId": "15530",
+      "playxid": "6d179945d495cfa31025c8a9299ec401",
+      "playXID": "6d179945d495cfa31025c8a9299ec401",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15530",
+        "playXID": "6d179945d495cfa31025c8a9299ec401",
+        "streamId": "15530",
+        "dubPlayerSrc": "/dub-player/t/15530/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6d179945d495cfa31025c8a9299ec401&abyssId=15530"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15530",
+        "playXID": "6d179945d495cfa31025c8a9299ec401",
+        "streamId": "15530",
+        "dubPlayerSrc": "/dub-player/t/15530/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6d179945d495cfa31025c8a9299ec401&abyssId=15530"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/6d179945d495cfa31025c8a9299ec401",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/6d179945d495cfa31025c8a9299ec401"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15530",
+        "abyssId": "15530",
+        "playXID": "6d179945d495cfa31025c8a9299ec401",
+        "title": "Wind Breaker",
+        "season": 2,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "hieeBnJKV"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "Hj0nnheYc"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "64tszA3l_"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "z51Ucrg-E"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "Dl5u87YUq"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/7ae4781a19141da2b0665f305ae4d95b/master.m3u8?md5=qxb9VTE1LqV8HAzFhn0gdA&expires=1792167049",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/7ae4781a19141da2b0665f305ae4d95b/master.m3u8?md5=qxb9VTE1LqV8HAzFhn0gdA&expires=1792167049",
+            "videoSource": "https://ravok.buzz/cdn/hls/7ae4781a19141da2b0665f305ae4d95b/master.m3u8?md5=qxb9VTE1LqV8HAzFhn0gdA&expires=1792167049",
+            "videoImage": "https://as-cdn29.top/p/4Ah7hhR-SO2bsCaoblGsgOKAInLlDc12_cSCDpKmtOnhmwUyAmR5q1VlNH0H-Weolx2tR6ZOJAgnKTVb1XoIOg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "6d179945d495cfa31025c8a9299ec401",
+                "streamUrl": "https://ravok.buzz/cdn/hls/7ae4781a19141da2b0665f305ae4d95b/master.m3u8?md5=qxb9VTE1LqV8HAzFhn0gdA&expires=1792167049",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/7ae4781a19141da2b0665f305ae4d95b/master.m3u8?md5=qxb9VTE1LqV8HAzFhn0gdA&expires=1792167049",
+                "videoSource": "https://ravok.buzz/cdn/hls/7ae4781a19141da2b0665f305ae4d95b/master.m3u8?md5=qxb9VTE1LqV8HAzFhn0gdA&expires=1792167049",
+                "link": "https://ravok.buzz/cdn/hls/7ae4781a19141da2b0665f305ae4d95b/master.m3u8?md5=qxb9VTE1LqV8HAzFhn0gdA&expires=1792167049",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/4Ah7hhR-SO2bsCaoblGsgOKAInLlDc12_cSCDpKmtOnhmwUyAmR5q1VlNH0H-Weolx2tR6ZOJAgnKTVb1XoIOg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "hieeBnJKV"
+        }
+      },
+      "fetched_at": "2026-10-16T14:10:59Z"
+    },
+    {
+      "id": "episode/wind-breaker-2x4",
+      "episode_id": "episode/wind-breaker-2x4",
+      "title": "Wind Breaker 2x1",
+      "episode_name": "Wind Breaker 2x1",
+      "episode_number": 4,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_1147_s2e4.webp",
+      "abyssid": "15545",
+      "abyssId": "15545",
+      "playxid": "bf9452f935bd53b41c9c7b441423d815",
+      "playXID": "bf9452f935bd53b41c9c7b441423d815",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15545",
+        "playXID": "bf9452f935bd53b41c9c7b441423d815",
+        "streamId": "15545",
+        "dubPlayerSrc": "/dub-player/t/15545/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=bf9452f935bd53b41c9c7b441423d815&abyssId=15545"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15545",
+        "playXID": "bf9452f935bd53b41c9c7b441423d815",
+        "streamId": "15545",
+        "dubPlayerSrc": "/dub-player/t/15545/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=bf9452f935bd53b41c9c7b441423d815&abyssId=15545"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/bf9452f935bd53b41c9c7b441423d815",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/bf9452f935bd53b41c9c7b441423d815"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15545",
+        "abyssId": "15545",
+        "playXID": "bf9452f935bd53b41c9c7b441423d815",
+        "title": "Wind Breaker",
+        "season": 2,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "lQD4AYzWV"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "j0-pLlphC"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "Cgp0hVZqM"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "gzgUMJZpW"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "2j5Fgl7H9N"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/9b11f38132932fa15d2e85bf83c0cc45/master.m3u8?md5=iiw2k4JSpPMSE65P_cXMiw&expires=1792167050",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/9b11f38132932fa15d2e85bf83c0cc45/master.m3u8?md5=iiw2k4JSpPMSE65P_cXMiw&expires=1792167050",
+            "videoSource": "https://ravok.buzz/cdn/hls/9b11f38132932fa15d2e85bf83c0cc45/master.m3u8?md5=iiw2k4JSpPMSE65P_cXMiw&expires=1792167050",
+            "videoImage": "https://as-cdn27.top/p/hPyJBVluLD0k_wzd_LiPJC5XnB2AFoGZpWxsejmTuUeGB6Ef3N0FFWmrWvCOftPAyOYHxQcRY9plRNszup3YaA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "bf9452f935bd53b41c9c7b441423d815",
+                "streamUrl": "https://ravok.buzz/cdn/hls/9b11f38132932fa15d2e85bf83c0cc45/master.m3u8?md5=iiw2k4JSpPMSE65P_cXMiw&expires=1792167050",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/9b11f38132932fa15d2e85bf83c0cc45/master.m3u8?md5=iiw2k4JSpPMSE65P_cXMiw&expires=1792167050",
+                "videoSource": "https://ravok.buzz/cdn/hls/9b11f38132932fa15d2e85bf83c0cc45/master.m3u8?md5=iiw2k4JSpPMSE65P_cXMiw&expires=1792167050",
+                "link": "https://ravok.buzz/cdn/hls/9b11f38132932fa15d2e85bf83c0cc45/master.m3u8?md5=iiw2k4JSpPMSE65P_cXMiw&expires=1792167050",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/hPyJBVluLD0k_wzd_LiPJC5XnB2AFoGZpWxsejmTuUeGB6Ef3N0FFWmrWvCOftPAyOYHxQcRY9plRNszup3YaA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "lQD4AYzWV"
+        }
+      },
+      "fetched_at": "2026-10-16T14:11:00Z"
+    },
+    {
+      "id": "episode/wind-breaker-2x6",
+      "episode_id": "episode/wind-breaker-2x6",
+      "title": "Wind Breaker 2x1",
+      "episode_name": "Wind Breaker 2x1",
+      "episode_number": 6,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_1147_s2e6.webp",
+      "abyssid": "15695",
+      "abyssId": "15695",
+      "playxid": "0bd791e117caac17417e27915180616f",
+      "playXID": "0bd791e117caac17417e27915180616f",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15695",
+        "playXID": "0bd791e117caac17417e27915180616f",
+        "streamId": "15695",
+        "dubPlayerSrc": "/dub-player/t/15695/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=0bd791e117caac17417e27915180616f&abyssId=15695"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15695",
+        "playXID": "0bd791e117caac17417e27915180616f",
+        "streamId": "15695",
+        "dubPlayerSrc": "/dub-player/t/15695/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=0bd791e117caac17417e27915180616f&abyssId=15695"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/0bd791e117caac17417e27915180616f",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/0bd791e117caac17417e27915180616f"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15695",
+        "abyssId": "15695",
+        "playXID": "0bd791e117caac17417e27915180616f",
+        "title": "Wind Breaker",
+        "season": 2,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "CI962BSWJ"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "J0jeDT5xC"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "fIZJ6D-WS"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "5B3htVKxA6"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "tDwRb98Vt"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/5e1596402d10d84263fb522d7cbd61ca/master.m3u8?md5=0Uz2ASA_0-4I9OPnLA4shw&expires=1792167050",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/5e1596402d10d84263fb522d7cbd61ca/master.m3u8?md5=0Uz2ASA_0-4I9OPnLA4shw&expires=1792167050",
+            "videoSource": "https://ravok.buzz/cdn/hls/5e1596402d10d84263fb522d7cbd61ca/master.m3u8?md5=0Uz2ASA_0-4I9OPnLA4shw&expires=1792167050",
+            "videoImage": "https://as-cdn30.top/p/plbV3XtsqwomYnIaLCBvovAEyEf43R-o_xQYjlrJE4f1CAu_8BwOOrJIKL3dMuWvDVcVGFUiZbd0ZY4cjcg8pg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "0bd791e117caac17417e27915180616f",
+                "streamUrl": "https://ravok.buzz/cdn/hls/5e1596402d10d84263fb522d7cbd61ca/master.m3u8?md5=0Uz2ASA_0-4I9OPnLA4shw&expires=1792167050",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/5e1596402d10d84263fb522d7cbd61ca/master.m3u8?md5=0Uz2ASA_0-4I9OPnLA4shw&expires=1792167050",
+                "videoSource": "https://ravok.buzz/cdn/hls/5e1596402d10d84263fb522d7cbd61ca/master.m3u8?md5=0Uz2ASA_0-4I9OPnLA4shw&expires=1792167050",
+                "link": "https://ravok.buzz/cdn/hls/5e1596402d10d84263fb522d7cbd61ca/master.m3u8?md5=0Uz2ASA_0-4I9OPnLA4shw&expires=1792167050",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/plbV3XtsqwomYnIaLCBvovAEyEf43R-o_xQYjlrJE4f1CAu_8BwOOrJIKL3dMuWvDVcVGFUiZbd0ZY4cjcg8pg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "CI962BSWJ"
+        }
+      },
+      "fetched_at": "2026-10-16T14:11:00Z"
+    },
+    {
+      "id": "episode/wind-breaker-2x5",
+      "episode_id": "episode/wind-breaker-2x5",
+      "title": "Wind Breaker 2x1",
+      "episode_name": "Wind Breaker 2x1",
+      "episode_number": 5,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_1147_s2e5.webp",
+      "abyssid": "15678",
+      "abyssId": "15678",
+      "playxid": "8241b23ef1376599b08f3a51c8a5a61e",
+      "playXID": "8241b23ef1376599b08f3a51c8a5a61e",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15678",
+        "playXID": "8241b23ef1376599b08f3a51c8a5a61e",
+        "streamId": "15678",
+        "dubPlayerSrc": "/dub-player/t/15678/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8241b23ef1376599b08f3a51c8a5a61e&abyssId=15678"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15678",
+        "playXID": "8241b23ef1376599b08f3a51c8a5a61e",
+        "streamId": "15678",
+        "dubPlayerSrc": "/dub-player/t/15678/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8241b23ef1376599b08f3a51c8a5a61e&abyssId=15678"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/8241b23ef1376599b08f3a51c8a5a61e",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/8241b23ef1376599b08f3a51c8a5a61e"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15678",
+        "abyssId": "15678",
+        "playXID": "8241b23ef1376599b08f3a51c8a5a61e",
+        "title": "Wind Breaker",
+        "season": 2,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "q7xZM1OD_"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "tDNbio6PV"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "0-gYDZNMY"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "AdC7Gacvw"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "-Synp14nM"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/b8bedd06fd639c476735b7175b1975dd/master.m3u8?md5=5co5dRW3sAK7t1v4ZPdv4g&expires=1792167050",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/b8bedd06fd639c476735b7175b1975dd/master.m3u8?md5=5co5dRW3sAK7t1v4ZPdv4g&expires=1792167050",
+            "videoSource": "https://ravok.buzz/cdn/hls/b8bedd06fd639c476735b7175b1975dd/master.m3u8?md5=5co5dRW3sAK7t1v4ZPdv4g&expires=1792167050",
+            "videoImage": "https://as-cdn30.top/p/ruK3UB3EGuc_8JpRhWA7cKnaHcFFymhzXiu-6WC-tVKi2x9Tfbq2mlzAGMrdV1d6Tl1Q7ab3fPSY5m3xHbHIag.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "8241b23ef1376599b08f3a51c8a5a61e",
+                "streamUrl": "https://ravok.buzz/cdn/hls/b8bedd06fd639c476735b7175b1975dd/master.m3u8?md5=5co5dRW3sAK7t1v4ZPdv4g&expires=1792167050",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/b8bedd06fd639c476735b7175b1975dd/master.m3u8?md5=5co5dRW3sAK7t1v4ZPdv4g&expires=1792167050",
+                "videoSource": "https://ravok.buzz/cdn/hls/b8bedd06fd639c476735b7175b1975dd/master.m3u8?md5=5co5dRW3sAK7t1v4ZPdv4g&expires=1792167050",
+                "link": "https://ravok.buzz/cdn/hls/b8bedd06fd639c476735b7175b1975dd/master.m3u8?md5=5co5dRW3sAK7t1v4ZPdv4g&expires=1792167050",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/ruK3UB3EGuc_8JpRhWA7cKnaHcFFymhzXiu-6WC-tVKi2x9Tfbq2mlzAGMrdV1d6Tl1Q7ab3fPSY5m3xHbHIag.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "q7xZM1OD_"
+        }
+      },
+      "fetched_at": "2026-10-16T14:11:00Z"
+    },
+    {
+      "id": "episode/wind-breaker-2x7",
+      "episode_id": "episode/wind-breaker-2x7",
+      "title": "Wind Breaker 2x1",
+      "episode_name": "Wind Breaker 2x1",
+      "episode_number": 7,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_1147_s2e7.webp",
+      "abyssid": "15753",
+      "abyssId": "15753",
+      "playxid": "9e36d5294d8f32155b8178bb26fd024c",
+      "playXID": "9e36d5294d8f32155b8178bb26fd024c",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15753",
+        "playXID": "9e36d5294d8f32155b8178bb26fd024c",
+        "streamId": "15753",
+        "dubPlayerSrc": "/dub-player/t/15753/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9e36d5294d8f32155b8178bb26fd024c&abyssId=15753"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15753",
+        "playXID": "9e36d5294d8f32155b8178bb26fd024c",
+        "streamId": "15753",
+        "dubPlayerSrc": "/dub-player/t/15753/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9e36d5294d8f32155b8178bb26fd024c&abyssId=15753"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/9e36d5294d8f32155b8178bb26fd024c",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/9e36d5294d8f32155b8178bb26fd024c"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15753",
+        "abyssId": "15753",
+        "playXID": "9e36d5294d8f32155b8178bb26fd024c",
+        "title": "Wind Breaker",
+        "season": 2,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "H8lGH3YiS"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "NzV-ltppb"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "P5xwcSQLZ"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "KILlJeJHA"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "gF5vHmQOU"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/1a1d89c867e943249bd4eaa4e3e7ea92/master.m3u8?md5=gbl0ycbItxlTUJJ4byMJhg&expires=1792167051",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/1a1d89c867e943249bd4eaa4e3e7ea92/master.m3u8?md5=gbl0ycbItxlTUJJ4byMJhg&expires=1792167051",
+            "videoSource": "https://ravok.buzz/cdn/hls/1a1d89c867e943249bd4eaa4e3e7ea92/master.m3u8?md5=gbl0ycbItxlTUJJ4byMJhg&expires=1792167051",
+            "videoImage": "https://as-cdn27.top/p/EouLiYttQTK4HbXstf1BbUJNWKCqzCdN1tiYdxKaiPk4erFGwnMmH6kQLvQgIuPbJ8WyQ2lWGj5Hmn6aeZIIDA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "9e36d5294d8f32155b8178bb26fd024c",
+                "streamUrl": "https://ravok.buzz/cdn/hls/1a1d89c867e943249bd4eaa4e3e7ea92/master.m3u8?md5=gbl0ycbItxlTUJJ4byMJhg&expires=1792167051",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/1a1d89c867e943249bd4eaa4e3e7ea92/master.m3u8?md5=gbl0ycbItxlTUJJ4byMJhg&expires=1792167051",
+                "videoSource": "https://ravok.buzz/cdn/hls/1a1d89c867e943249bd4eaa4e3e7ea92/master.m3u8?md5=gbl0ycbItxlTUJJ4byMJhg&expires=1792167051",
+                "link": "https://ravok.buzz/cdn/hls/1a1d89c867e943249bd4eaa4e3e7ea92/master.m3u8?md5=gbl0ycbItxlTUJJ4byMJhg&expires=1792167051",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/EouLiYttQTK4HbXstf1BbUJNWKCqzCdN1tiYdxKaiPk4erFGwnMmH6kQLvQgIuPbJ8WyQ2lWGj5Hmn6aeZIIDA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "H8lGH3YiS"
+        }
+      },
+      "fetched_at": "2026-10-16T14:11:01Z"
+    },
+    {
+      "id": "episode/wind-breaker-2x8",
+      "episode_id": "episode/wind-breaker-2x8",
+      "title": "Wind Breaker 2x1",
+      "episode_name": "Wind Breaker 2x1",
+      "episode_number": 8,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_1147_s2e8.webp",
+      "abyssid": "15768",
+      "abyssId": "15768",
+      "playxid": "96b8ee525c85be84c2536bd86564a585",
+      "playXID": "96b8ee525c85be84c2536bd86564a585",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15768",
+        "playXID": "96b8ee525c85be84c2536bd86564a585",
+        "streamId": "15768",
+        "dubPlayerSrc": "/dub-player/t/15768/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=96b8ee525c85be84c2536bd86564a585&abyssId=15768"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15768",
+        "playXID": "96b8ee525c85be84c2536bd86564a585",
+        "streamId": "15768",
+        "dubPlayerSrc": "/dub-player/t/15768/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=96b8ee525c85be84c2536bd86564a585&abyssId=15768"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/96b8ee525c85be84c2536bd86564a585",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/96b8ee525c85be84c2536bd86564a585"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15768",
+        "abyssId": "15768",
+        "playXID": "96b8ee525c85be84c2536bd86564a585",
+        "title": "Wind Breaker",
+        "season": 2,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "s2gQBmcWw"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "IrZeNAuhp"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "KOPd2yyFX"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "tczjrkz9-"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "HwfCdvy1E"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/e5a2ac9a883cf3f2ef2aedfeccb9ac76/master.m3u8?md5=Cx_9O98uejgo_DrG8bAYOQ&expires=1792167052",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/e5a2ac9a883cf3f2ef2aedfeccb9ac76/master.m3u8?md5=Cx_9O98uejgo_DrG8bAYOQ&expires=1792167052",
+            "videoSource": "https://ravok.buzz/cdn/hls/e5a2ac9a883cf3f2ef2aedfeccb9ac76/master.m3u8?md5=Cx_9O98uejgo_DrG8bAYOQ&expires=1792167052",
+            "videoImage": "https://as-cdn31.top/p/ibeE2ElbRAFDo7eh-q-UZ1M2d7azYxnKVZ5VS64yn_OiVqbTBz-qMQU_lsauFNye-zpz6LMIwOHzEezAUNx2Sw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "96b8ee525c85be84c2536bd86564a585",
+                "streamUrl": "https://ravok.buzz/cdn/hls/e5a2ac9a883cf3f2ef2aedfeccb9ac76/master.m3u8?md5=Cx_9O98uejgo_DrG8bAYOQ&expires=1792167052",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/e5a2ac9a883cf3f2ef2aedfeccb9ac76/master.m3u8?md5=Cx_9O98uejgo_DrG8bAYOQ&expires=1792167052",
+                "videoSource": "https://ravok.buzz/cdn/hls/e5a2ac9a883cf3f2ef2aedfeccb9ac76/master.m3u8?md5=Cx_9O98uejgo_DrG8bAYOQ&expires=1792167052",
+                "link": "https://ravok.buzz/cdn/hls/e5a2ac9a883cf3f2ef2aedfeccb9ac76/master.m3u8?md5=Cx_9O98uejgo_DrG8bAYOQ&expires=1792167052",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/ibeE2ElbRAFDo7eh-q-UZ1M2d7azYxnKVZ5VS64yn_OiVqbTBz-qMQU_lsauFNye-zpz6LMIwOHzEezAUNx2Sw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "s2gQBmcWw"
+        }
+      },
+      "fetched_at": "2026-10-16T14:11:01Z"
+    },
+    {
+      "id": "episode/wind-breaker-2x9",
+      "episode_id": "episode/wind-breaker-2x9",
+      "title": "Wind Breaker 2x1",
+      "episode_name": "Wind Breaker 2x1",
+      "episode_number": 9,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_1147_s2e9.webp",
+      "abyssid": "15821",
+      "abyssId": "15821",
+      "playxid": "674b1117ecbd3cbd34c71f328b1c49a5",
+      "playXID": "674b1117ecbd3cbd34c71f328b1c49a5",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15821",
+        "playXID": "674b1117ecbd3cbd34c71f328b1c49a5",
+        "streamId": "15821",
+        "dubPlayerSrc": "/dub-player/t/15821/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=674b1117ecbd3cbd34c71f328b1c49a5&abyssId=15821"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15821",
+        "playXID": "674b1117ecbd3cbd34c71f328b1c49a5",
+        "streamId": "15821",
+        "dubPlayerSrc": "/dub-player/t/15821/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=674b1117ecbd3cbd34c71f328b1c49a5&abyssId=15821"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/674b1117ecbd3cbd34c71f328b1c49a5",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/674b1117ecbd3cbd34c71f328b1c49a5"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15821",
+        "abyssId": "15821",
+        "playXID": "674b1117ecbd3cbd34c71f328b1c49a5",
+        "title": "Wind Breaker",
+        "season": 2,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "SXNLQ00cl"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "yrKho-Wkc"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "yLA3HfVEo"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "sl_lfyx18"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "6aNQqk_yD"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/ccc39ef951e3ebfcf0dff46962d98817/master.m3u8?md5=peqvCfeePTKD7-C5SoD4ag&expires=1792167052",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/ccc39ef951e3ebfcf0dff46962d98817/master.m3u8?md5=peqvCfeePTKD7-C5SoD4ag&expires=1792167052",
+            "videoSource": "https://ravok.buzz/cdn/hls/ccc39ef951e3ebfcf0dff46962d98817/master.m3u8?md5=peqvCfeePTKD7-C5SoD4ag&expires=1792167052",
+            "videoImage": "https://as-cdn28.top/p/YGHWLb506MA0Wa58sCDHBpffZ-ePvNIMCe3tNj8mJ_c8Qit4Un-PC1f2w9PN-zctJXd4g4fPtmsX7ZV2EBE3Kg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "674b1117ecbd3cbd34c71f328b1c49a5",
+                "streamUrl": "https://ravok.buzz/cdn/hls/ccc39ef951e3ebfcf0dff46962d98817/master.m3u8?md5=peqvCfeePTKD7-C5SoD4ag&expires=1792167052",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/ccc39ef951e3ebfcf0dff46962d98817/master.m3u8?md5=peqvCfeePTKD7-C5SoD4ag&expires=1792167052",
+                "videoSource": "https://ravok.buzz/cdn/hls/ccc39ef951e3ebfcf0dff46962d98817/master.m3u8?md5=peqvCfeePTKD7-C5SoD4ag&expires=1792167052",
+                "link": "https://ravok.buzz/cdn/hls/ccc39ef951e3ebfcf0dff46962d98817/master.m3u8?md5=peqvCfeePTKD7-C5SoD4ag&expires=1792167052",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/YGHWLb506MA0Wa58sCDHBpffZ-ePvNIMCe3tNj8mJ_c8Qit4Un-PC1f2w9PN-zctJXd4g4fPtmsX7ZV2EBE3Kg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "SXNLQ00cl"
+        }
+      },
+      "fetched_at": "2026-10-16T14:11:02Z"
+    },
+    {
+      "id": "episode/wind-breaker-2x10",
+      "episode_id": "episode/wind-breaker-2x10",
+      "title": "Wind Breaker 2x1",
+      "episode_name": "Wind Breaker 2x1",
+      "episode_number": 10,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_1147_s2e10.webp",
+      "abyssid": "15850",
+      "abyssId": "15850",
+      "playxid": "7f4b18de3cfeb9b4ac78c381ee2ad278",
+      "playXID": "7f4b18de3cfeb9b4ac78c381ee2ad278",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15850",
+        "playXID": "7f4b18de3cfeb9b4ac78c381ee2ad278",
+        "streamId": "15850",
+        "dubPlayerSrc": "/dub-player/t/15850/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=7f4b18de3cfeb9b4ac78c381ee2ad278&abyssId=15850"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15850",
+        "playXID": "7f4b18de3cfeb9b4ac78c381ee2ad278",
+        "streamId": "15850",
+        "dubPlayerSrc": "/dub-player/t/15850/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=7f4b18de3cfeb9b4ac78c381ee2ad278&abyssId=15850"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/7f4b18de3cfeb9b4ac78c381ee2ad278",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/7f4b18de3cfeb9b4ac78c381ee2ad278"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15850",
+        "abyssId": "15850",
+        "playXID": "7f4b18de3cfeb9b4ac78c381ee2ad278",
+        "title": "Wind Breaker",
+        "season": 2,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "VbgAVL6u6"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "lje0EJA1a"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "7iPBEeYG3m"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "1MEkfMpO2"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "oQ1RV8NmZ"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/1a66e54d23588fdb674a1fbb401b69fd/master.m3u8?md5=7NehWaQdRVxy1cbGLDLZrA&expires=1792167052",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/1a66e54d23588fdb674a1fbb401b69fd/master.m3u8?md5=7NehWaQdRVxy1cbGLDLZrA&expires=1792167052",
+            "videoSource": "https://ravok.buzz/cdn/hls/1a66e54d23588fdb674a1fbb401b69fd/master.m3u8?md5=7NehWaQdRVxy1cbGLDLZrA&expires=1792167052",
+            "videoImage": "https://as-cdn28.top/p/mxMp-Q2yaQEZ1nQTo7hnvxlPNjefRQRuZhaforPhOwGtvjJ9zaG8zW9ceu7GsVXUsmcGm-ZnVCOP4HLQFF35Ng.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "7f4b18de3cfeb9b4ac78c381ee2ad278",
+                "streamUrl": "https://ravok.buzz/cdn/hls/1a66e54d23588fdb674a1fbb401b69fd/master.m3u8?md5=7NehWaQdRVxy1cbGLDLZrA&expires=1792167052",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/1a66e54d23588fdb674a1fbb401b69fd/master.m3u8?md5=7NehWaQdRVxy1cbGLDLZrA&expires=1792167052",
+                "videoSource": "https://ravok.buzz/cdn/hls/1a66e54d23588fdb674a1fbb401b69fd/master.m3u8?md5=7NehWaQdRVxy1cbGLDLZrA&expires=1792167052",
+                "link": "https://ravok.buzz/cdn/hls/1a66e54d23588fdb674a1fbb401b69fd/master.m3u8?md5=7NehWaQdRVxy1cbGLDLZrA&expires=1792167052",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/mxMp-Q2yaQEZ1nQTo7hnvxlPNjefRQRuZhaforPhOwGtvjJ9zaG8zW9ceu7GsVXUsmcGm-ZnVCOP4HLQFF35Ng.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "VbgAVL6u6"
+        }
+      },
+      "fetched_at": "2026-10-16T14:11:02Z"
+    },
+    {
+      "id": "episode/wind-breaker-2x11",
+      "episode_id": "episode/wind-breaker-2x11",
+      "title": "Wind Breaker 2x1",
+      "episode_name": "Wind Breaker 2x1",
+      "episode_number": 11,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_1147_s2e11.webp",
+      "abyssid": "15886",
+      "abyssId": "15886",
+      "playxid": "97d874c5aaa9be3fa256de891418b0d7",
+      "playXID": "97d874c5aaa9be3fa256de891418b0d7",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15886",
+        "playXID": "97d874c5aaa9be3fa256de891418b0d7",
+        "streamId": "15886",
+        "dubPlayerSrc": "/dub-player/t/15886/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=97d874c5aaa9be3fa256de891418b0d7&abyssId=15886"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15886",
+        "playXID": "97d874c5aaa9be3fa256de891418b0d7",
+        "streamId": "15886",
+        "dubPlayerSrc": "/dub-player/t/15886/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=97d874c5aaa9be3fa256de891418b0d7&abyssId=15886"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/97d874c5aaa9be3fa256de891418b0d7",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/97d874c5aaa9be3fa256de891418b0d7"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15886",
+        "abyssId": "15886",
+        "playXID": "97d874c5aaa9be3fa256de891418b0d7",
+        "title": "Wind Breaker",
+        "season": 2,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "wqYEumG2X"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "GOIfN0P12d"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "pAV99We4B"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "4fXoB58ol"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "G6Tj-zw-7"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/69aa7431724dec3cd43bcf4057018ef9/master.m3u8?md5=6cm9X67LYYVZVjhBxXtJ8g&expires=1792167052",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/69aa7431724dec3cd43bcf4057018ef9/master.m3u8?md5=6cm9X67LYYVZVjhBxXtJ8g&expires=1792167052",
+            "videoSource": "https://ravok.buzz/cdn/hls/69aa7431724dec3cd43bcf4057018ef9/master.m3u8?md5=6cm9X67LYYVZVjhBxXtJ8g&expires=1792167052",
+            "videoImage": "https://as-cdn29.top/p/yyJ6VXjfYZIwcnxr-84F8HVmRRq9wFJoR3so99jCDVv6AljZySKkZ7viBrXAGL2P6zskVf-FLvleDJO5CTQBEQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "97d874c5aaa9be3fa256de891418b0d7",
+                "streamUrl": "https://ravok.buzz/cdn/hls/69aa7431724dec3cd43bcf4057018ef9/master.m3u8?md5=6cm9X67LYYVZVjhBxXtJ8g&expires=1792167052",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/69aa7431724dec3cd43bcf4057018ef9/master.m3u8?md5=6cm9X67LYYVZVjhBxXtJ8g&expires=1792167052",
+                "videoSource": "https://ravok.buzz/cdn/hls/69aa7431724dec3cd43bcf4057018ef9/master.m3u8?md5=6cm9X67LYYVZVjhBxXtJ8g&expires=1792167052",
+                "link": "https://ravok.buzz/cdn/hls/69aa7431724dec3cd43bcf4057018ef9/master.m3u8?md5=6cm9X67LYYVZVjhBxXtJ8g&expires=1792167052",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/yyJ6VXjfYZIwcnxr-84F8HVmRRq9wFJoR3so99jCDVv6AljZySKkZ7viBrXAGL2P6zskVf-FLvleDJO5CTQBEQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "wqYEumG2X"
+        }
+      },
+      "fetched_at": "2026-10-16T14:11:02Z"
+    },
+    {
+      "id": "episode/wind-breaker-2x12",
+      "episode_id": "episode/wind-breaker-2x12",
+      "title": "Wind Breaker 2x1",
+      "episode_name": "Wind Breaker 2x1",
+      "episode_number": 12,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_1147_s2e12.webp",
+      "abyssid": "15930",
+      "abyssId": "15930",
+      "playxid": "f27a4f23a9840cbee6ccaa3194e86ea0",
+      "playXID": "f27a4f23a9840cbee6ccaa3194e86ea0",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15930",
+        "playXID": "f27a4f23a9840cbee6ccaa3194e86ea0",
+        "streamId": "15930",
+        "dubPlayerSrc": "/dub-player/t/15930/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f27a4f23a9840cbee6ccaa3194e86ea0&abyssId=15930"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15930",
+        "playXID": "f27a4f23a9840cbee6ccaa3194e86ea0",
+        "streamId": "15930",
+        "dubPlayerSrc": "/dub-player/t/15930/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f27a4f23a9840cbee6ccaa3194e86ea0&abyssId=15930"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/f27a4f23a9840cbee6ccaa3194e86ea0",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/f27a4f23a9840cbee6ccaa3194e86ea0"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15930",
+        "abyssId": "15930",
+        "playXID": "f27a4f23a9840cbee6ccaa3194e86ea0",
+        "title": "Wind Breaker",
+        "season": 2,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "0BEYnyUKd"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "7W7C3jHep"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "wcyOPWsmCn"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "xc9EmxlLh"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "5UWcUsUyG"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/50def7f1b82a5433ce933dc1adafc097/master.m3u8?md5=6cuOkAvzHHFn2csaNDTDyw&expires=1792167053",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/50def7f1b82a5433ce933dc1adafc097/master.m3u8?md5=6cuOkAvzHHFn2csaNDTDyw&expires=1792167053",
+            "videoSource": "https://ravok.buzz/cdn/hls/50def7f1b82a5433ce933dc1adafc097/master.m3u8?md5=6cuOkAvzHHFn2csaNDTDyw&expires=1792167053",
+            "videoImage": "https://as-cdn30.top/p/145Yc4K9vrprpdJU5bSWCDFIeTgcl31y5VYCpcbJq482VlDQZTvGG71tqVKAD1FCKQprDgTd9Y4QG9PLY-jFXw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "f27a4f23a9840cbee6ccaa3194e86ea0",
+                "streamUrl": "https://ravok.buzz/cdn/hls/50def7f1b82a5433ce933dc1adafc097/master.m3u8?md5=6cuOkAvzHHFn2csaNDTDyw&expires=1792167053",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/50def7f1b82a5433ce933dc1adafc097/master.m3u8?md5=6cuOkAvzHHFn2csaNDTDyw&expires=1792167053",
+                "videoSource": "https://ravok.buzz/cdn/hls/50def7f1b82a5433ce933dc1adafc097/master.m3u8?md5=6cuOkAvzHHFn2csaNDTDyw&expires=1792167053",
+                "link": "https://ravok.buzz/cdn/hls/50def7f1b82a5433ce933dc1adafc097/master.m3u8?md5=6cuOkAvzHHFn2csaNDTDyw&expires=1792167053",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/145Yc4K9vrprpdJU5bSWCDFIeTgcl31y5VYCpcbJq482VlDQZTvGG71tqVKAD1FCKQprDgTd9Y4QG9PLY-jFXw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "0BEYnyUKd"
+        }
+      },
+      "fetched_at": "2026-10-16T14:11:03Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T14:10:52Z",
+  "updated_at": "2026-10-16T14:11:03Z"
+}

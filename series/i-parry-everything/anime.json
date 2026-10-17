@@ -1,0 +1,1349 @@
+{
+  "id": "series/i-parry-everything",
+  "series_name": "I Parry Everything",
+  "title": "I Parry Everything",
+  "banner": "https://image.tmdb.org/t/p/w1280/t324alfKvsj3OnLULib7jud9k8m.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/arYDvPe3MS4lgt6K4gYRlXCJhXS.jpg",
+  "genra": [
+    "Action",
+    "Adventure"
+  ],
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Japanese"
+  ],
+  "synopsis": "Noor's dead set on becoming an adventurer, even if the only skills he possesses are useless ones. Sure, he can [Parry] thousands of swords in the span of a single breath, but you need more than that if you want to be an adventurer! Right?",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Private: I Parry Everything 1x1",
+          "id": "episode/i-parry-everything-1x1",
+          "image": "https://img.watchanimeworld.one/image/1658/1/1.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "Private: I Parry Everything 1x2",
+          "id": "episode/i-parry-everything-1x2",
+          "image": "https://img.watchanimeworld.one/image/1658/1/2.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "Private: I Parry Everything 1x3",
+          "id": "episode/i-parry-everything-1x3",
+          "image": "https://img.watchanimeworld.one/image/1658/1/3.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "Private: I Parry Everything 1x4",
+          "id": "episode/i-parry-everything-1x4",
+          "image": "https://img.watchanimeworld.one/image/1658/1/4.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "Private: I Parry Everything 1x5",
+          "id": "episode/i-parry-everything-1x5",
+          "image": "https://img.watchanimeworld.one/image/1658/1/5.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "Private: I Parry Everything 1x6",
+          "id": "episode/i-parry-everything-1x6",
+          "image": "https://img.watchanimeworld.one/image/1658/1/6.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "Private: I Parry Everything 1x7",
+          "id": "episode/i-parry-everything-1x7",
+          "image": "https://img.watchanimeworld.one/image/1658/1/7.webp",
+          "season": 1
+        },
+        {
+          "episode": 8,
+          "title": "I Parry Everything 1x8",
+          "id": "episode/i-parry-everything-1x8",
+          "image": "https://img.watchanimeworld.one/image/1658/1/8.webp",
+          "season": 1
+        },
+        {
+          "episode": 9,
+          "title": "I Parry Everything 1x9",
+          "id": "episode/i-parry-everything-1x9",
+          "image": "https://img.watchanimeworld.one/image/1658/1/9.webp",
+          "season": 1
+        },
+        {
+          "episode": 10,
+          "title": "I Parry Everything 1x10",
+          "id": "episode/i-parry-everything-1x10",
+          "image": "https://img.watchanimeworld.one/image/1658/1/10.webp",
+          "season": 1
+        },
+        {
+          "episode": 11,
+          "title": "I Parry Everything 1x11",
+          "id": "episode/i-parry-everything-1x11",
+          "image": "https://img.watchanimeworld.one/image/1658/1/11.webp",
+          "season": 1
+        },
+        {
+          "episode": 12,
+          "title": "I Parry Everything 1x12",
+          "id": "episode/i-parry-everything-1x12",
+          "image": "https://img.watchanimeworld.one/image/1658/1/12.webp",
+          "season": 1
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/i-parry-everything-1x5",
+      "episode_id": "episode/i-parry-everything-1x5",
+      "title": "Private: I Parry Everything 1x1",
+      "episode_name": "Private: I Parry Everything 1x1",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1658/1/5.webp",
+      "abyssid": "15501",
+      "abyssId": "15501",
+      "playxid": "4fd5a0fcb8a3dafb72069d69e233bd7c",
+      "playXID": "4fd5a0fcb8a3dafb72069d69e233bd7c",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15501",
+        "playXID": "4fd5a0fcb8a3dafb72069d69e233bd7c",
+        "streamId": "15501",
+        "dubPlayerSrc": "/dub-player/t/15501/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=4fd5a0fcb8a3dafb72069d69e233bd7c&abyssId=15501"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15501",
+        "playXID": "4fd5a0fcb8a3dafb72069d69e233bd7c",
+        "streamId": "15501",
+        "dubPlayerSrc": "/dub-player/t/15501/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=4fd5a0fcb8a3dafb72069d69e233bd7c&abyssId=15501"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/4fd5a0fcb8a3dafb72069d69e233bd7c",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/4fd5a0fcb8a3dafb72069d69e233bd7c"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15501",
+        "abyssId": "15501",
+        "playXID": "4fd5a0fcb8a3dafb72069d69e233bd7c",
+        "title": "I Parry Everything",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "oVqWUE1Py"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "bkUVDQKn9"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "CzWvX0pBa"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/6554418491f2a0f4b74245ab1d05dad3/master.m3u8?md5=LTS4a3IX1DJ-vkX60IoKgQ&expires=1792166589",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/6554418491f2a0f4b74245ab1d05dad3/master.m3u8?md5=LTS4a3IX1DJ-vkX60IoKgQ&expires=1792166589",
+            "videoSource": "https://ravok.buzz/cdn/hls/6554418491f2a0f4b74245ab1d05dad3/master.m3u8?md5=LTS4a3IX1DJ-vkX60IoKgQ&expires=1792166589",
+            "videoImage": "https://as-cdn27.top/p/-PeXHpLwen4m6D6_TaYHYzMXzLt0BoGDEf-PUi8UwizfKLxe-66L-FqATfq19av_GykCQk65sbLGVLjQI_MuLg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "4fd5a0fcb8a3dafb72069d69e233bd7c",
+                "streamUrl": "https://ravok.buzz/cdn/hls/6554418491f2a0f4b74245ab1d05dad3/master.m3u8?md5=LTS4a3IX1DJ-vkX60IoKgQ&expires=1792166589",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/6554418491f2a0f4b74245ab1d05dad3/master.m3u8?md5=LTS4a3IX1DJ-vkX60IoKgQ&expires=1792166589",
+                "videoSource": "https://ravok.buzz/cdn/hls/6554418491f2a0f4b74245ab1d05dad3/master.m3u8?md5=LTS4a3IX1DJ-vkX60IoKgQ&expires=1792166589",
+                "link": "https://ravok.buzz/cdn/hls/6554418491f2a0f4b74245ab1d05dad3/master.m3u8?md5=LTS4a3IX1DJ-vkX60IoKgQ&expires=1792166589",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/-PeXHpLwen4m6D6_TaYHYzMXzLt0BoGDEf-PUi8UwizfKLxe-66L-FqATfq19av_GykCQk65sbLGVLjQI_MuLg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "oVqWUE1Py"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:19Z"
+    },
+    {
+      "id": "episode/i-parry-everything-1x4",
+      "episode_id": "episode/i-parry-everything-1x4",
+      "title": "Private: I Parry Everything 1x1",
+      "episode_name": "Private: I Parry Everything 1x1",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1658/1/4.webp",
+      "abyssid": "15458",
+      "abyssId": "15458",
+      "playxid": "70322d1064e4f050c636cc507a59f5a3",
+      "playXID": "70322d1064e4f050c636cc507a59f5a3",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15458",
+        "playXID": "70322d1064e4f050c636cc507a59f5a3",
+        "streamId": "15458",
+        "dubPlayerSrc": "/dub-player/t/15458/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=70322d1064e4f050c636cc507a59f5a3&abyssId=15458"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15458",
+        "playXID": "70322d1064e4f050c636cc507a59f5a3",
+        "streamId": "15458",
+        "dubPlayerSrc": "/dub-player/t/15458/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=70322d1064e4f050c636cc507a59f5a3&abyssId=15458"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/70322d1064e4f050c636cc507a59f5a3",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/70322d1064e4f050c636cc507a59f5a3"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15458",
+        "abyssId": "15458",
+        "playXID": "70322d1064e4f050c636cc507a59f5a3",
+        "title": "I Parry Everything",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "p5KRzV9An"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "dPYlOmiwN"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "1GLk3AvaX"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/a8e7edaa7a994695044bf4068ea710b5/master.m3u8?md5=XPbGoEpVgw_f7p52Kt1GQw&expires=1792166589",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/a8e7edaa7a994695044bf4068ea710b5/master.m3u8?md5=XPbGoEpVgw_f7p52Kt1GQw&expires=1792166589",
+            "videoSource": "https://ravok.buzz/cdn/hls/a8e7edaa7a994695044bf4068ea710b5/master.m3u8?md5=XPbGoEpVgw_f7p52Kt1GQw&expires=1792166589",
+            "videoImage": "https://as-cdn28.top/p/JXEzmRzn-f3vaq-lla2PcR_SvAmeMRGXBu7fVF4mL4lPckcZbhkcFFY0xRrINId_0sAS7VcM6bTZQRHKhLnUbA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "70322d1064e4f050c636cc507a59f5a3",
+                "streamUrl": "https://ravok.buzz/cdn/hls/a8e7edaa7a994695044bf4068ea710b5/master.m3u8?md5=XPbGoEpVgw_f7p52Kt1GQw&expires=1792166589",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/a8e7edaa7a994695044bf4068ea710b5/master.m3u8?md5=XPbGoEpVgw_f7p52Kt1GQw&expires=1792166589",
+                "videoSource": "https://ravok.buzz/cdn/hls/a8e7edaa7a994695044bf4068ea710b5/master.m3u8?md5=XPbGoEpVgw_f7p52Kt1GQw&expires=1792166589",
+                "link": "https://ravok.buzz/cdn/hls/a8e7edaa7a994695044bf4068ea710b5/master.m3u8?md5=XPbGoEpVgw_f7p52Kt1GQw&expires=1792166589",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/JXEzmRzn-f3vaq-lla2PcR_SvAmeMRGXBu7fVF4mL4lPckcZbhkcFFY0xRrINId_0sAS7VcM6bTZQRHKhLnUbA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "p5KRzV9An"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:19Z"
+    },
+    {
+      "id": "episode/i-parry-everything-1x3",
+      "episode_id": "episode/i-parry-everything-1x3",
+      "title": "Private: I Parry Everything 1x1",
+      "episode_name": "Private: I Parry Everything 1x1",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1658/1/3.webp",
+      "abyssid": "15430",
+      "abyssId": "15430",
+      "playxid": "9d34d86df01c81eba7b2fc4a11bf0cb8",
+      "playXID": "9d34d86df01c81eba7b2fc4a11bf0cb8",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15430",
+        "playXID": "9d34d86df01c81eba7b2fc4a11bf0cb8",
+        "streamId": "15430",
+        "dubPlayerSrc": "/dub-player/t/15430/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9d34d86df01c81eba7b2fc4a11bf0cb8&abyssId=15430"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15430",
+        "playXID": "9d34d86df01c81eba7b2fc4a11bf0cb8",
+        "streamId": "15430",
+        "dubPlayerSrc": "/dub-player/t/15430/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9d34d86df01c81eba7b2fc4a11bf0cb8&abyssId=15430"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/9d34d86df01c81eba7b2fc4a11bf0cb8",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/9d34d86df01c81eba7b2fc4a11bf0cb8"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15430",
+        "abyssId": "15430",
+        "playXID": "9d34d86df01c81eba7b2fc4a11bf0cb8",
+        "title": "I Parry Everything",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "VJw8mxISm"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "isM-1XjA2p"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "zwB46GpOe"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/4890f00f8da6c3867375c3f47d7ffdd7/master.m3u8?md5=l_lmNFOvGVMjoeA9AbFCuQ&expires=1792166589",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/4890f00f8da6c3867375c3f47d7ffdd7/master.m3u8?md5=l_lmNFOvGVMjoeA9AbFCuQ&expires=1792166589",
+            "videoSource": "https://ravok.buzz/cdn/hls/4890f00f8da6c3867375c3f47d7ffdd7/master.m3u8?md5=l_lmNFOvGVMjoeA9AbFCuQ&expires=1792166589",
+            "videoImage": "https://as-cdn31.top/p/GR9iwY6lkGMohI2aNmH8c7imS5NWUJuJL0YG-TYwY-tUUqLGeccRJccIjKp1Rum00ZI3w1t9vjp0ItK2AnMGwg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "9d34d86df01c81eba7b2fc4a11bf0cb8",
+                "streamUrl": "https://ravok.buzz/cdn/hls/4890f00f8da6c3867375c3f47d7ffdd7/master.m3u8?md5=l_lmNFOvGVMjoeA9AbFCuQ&expires=1792166589",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/4890f00f8da6c3867375c3f47d7ffdd7/master.m3u8?md5=l_lmNFOvGVMjoeA9AbFCuQ&expires=1792166589",
+                "videoSource": "https://ravok.buzz/cdn/hls/4890f00f8da6c3867375c3f47d7ffdd7/master.m3u8?md5=l_lmNFOvGVMjoeA9AbFCuQ&expires=1792166589",
+                "link": "https://ravok.buzz/cdn/hls/4890f00f8da6c3867375c3f47d7ffdd7/master.m3u8?md5=l_lmNFOvGVMjoeA9AbFCuQ&expires=1792166589",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/GR9iwY6lkGMohI2aNmH8c7imS5NWUJuJL0YG-TYwY-tUUqLGeccRJccIjKp1Rum00ZI3w1t9vjp0ItK2AnMGwg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "VJw8mxISm"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:19Z"
+    },
+    {
+      "id": "episode/i-parry-everything-1x1",
+      "episode_id": "episode/i-parry-everything-1x1",
+      "title": "Private: I Parry Everything 1x1",
+      "episode_name": "Private: I Parry Everything 1x1",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1658/1/1.webp",
+      "abyssid": "15428",
+      "abyssId": "15428",
+      "playxid": "0878e4a063af2c3c2191cf4fc560c094",
+      "playXID": "0878e4a063af2c3c2191cf4fc560c094",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15428",
+        "playXID": "0878e4a063af2c3c2191cf4fc560c094",
+        "streamId": "15428",
+        "dubPlayerSrc": "/dub-player/t/15428/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=0878e4a063af2c3c2191cf4fc560c094&abyssId=15428"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15428",
+        "playXID": "0878e4a063af2c3c2191cf4fc560c094",
+        "streamId": "15428",
+        "dubPlayerSrc": "/dub-player/t/15428/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=0878e4a063af2c3c2191cf4fc560c094&abyssId=15428"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/0878e4a063af2c3c2191cf4fc560c094",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/0878e4a063af2c3c2191cf4fc560c094"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15428",
+        "abyssId": "15428",
+        "playXID": "0878e4a063af2c3c2191cf4fc560c094",
+        "title": "I Parry Everything",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "ziS7o0V7O"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "WTQnJ3ITE"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "KvDcdM3A-"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/6007ff04d80a1ba0e9a55e6ca6023a2b/master.m3u8?md5=MrESM6E-yg8-Buxu33APww&expires=1792166589",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/6007ff04d80a1ba0e9a55e6ca6023a2b/master.m3u8?md5=MrESM6E-yg8-Buxu33APww&expires=1792166589",
+            "videoSource": "https://ravok.buzz/cdn/hls/6007ff04d80a1ba0e9a55e6ca6023a2b/master.m3u8?md5=MrESM6E-yg8-Buxu33APww&expires=1792166589",
+            "videoImage": "https://as-cdn27.top/p/bYHkpOvSntrX6RP7Ij4GwcYlBcp5K7D13hvn3yNVqa3H8kQMh1wpW4V1OZCKJG1oWH3WwnyjCUyHTkHMNAeWiQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "0878e4a063af2c3c2191cf4fc560c094",
+                "streamUrl": "https://ravok.buzz/cdn/hls/6007ff04d80a1ba0e9a55e6ca6023a2b/master.m3u8?md5=MrESM6E-yg8-Buxu33APww&expires=1792166589",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/6007ff04d80a1ba0e9a55e6ca6023a2b/master.m3u8?md5=MrESM6E-yg8-Buxu33APww&expires=1792166589",
+                "videoSource": "https://ravok.buzz/cdn/hls/6007ff04d80a1ba0e9a55e6ca6023a2b/master.m3u8?md5=MrESM6E-yg8-Buxu33APww&expires=1792166589",
+                "link": "https://ravok.buzz/cdn/hls/6007ff04d80a1ba0e9a55e6ca6023a2b/master.m3u8?md5=MrESM6E-yg8-Buxu33APww&expires=1792166589",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/bYHkpOvSntrX6RP7Ij4GwcYlBcp5K7D13hvn3yNVqa3H8kQMh1wpW4V1OZCKJG1oWH3WwnyjCUyHTkHMNAeWiQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "ziS7o0V7O"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:19Z"
+    },
+    {
+      "id": "episode/i-parry-everything-1x2",
+      "episode_id": "episode/i-parry-everything-1x2",
+      "title": "Private: I Parry Everything 1x1",
+      "episode_name": "Private: I Parry Everything 1x1",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1658/1/2.webp",
+      "abyssid": "15429",
+      "abyssId": "15429",
+      "playxid": "dae21e619b67f958c716d3c779c941d2",
+      "playXID": "dae21e619b67f958c716d3c779c941d2",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15429",
+        "playXID": "dae21e619b67f958c716d3c779c941d2",
+        "streamId": "15429",
+        "dubPlayerSrc": "/dub-player/t/15429/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=dae21e619b67f958c716d3c779c941d2&abyssId=15429"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15429",
+        "playXID": "dae21e619b67f958c716d3c779c941d2",
+        "streamId": "15429",
+        "dubPlayerSrc": "/dub-player/t/15429/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=dae21e619b67f958c716d3c779c941d2&abyssId=15429"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/dae21e619b67f958c716d3c779c941d2",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/dae21e619b67f958c716d3c779c941d2"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15429",
+        "abyssId": "15429",
+        "playXID": "dae21e619b67f958c716d3c779c941d2",
+        "title": "I Parry Everything",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "_O0gwuBAYm"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "OcAM7-hco"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "RYn8_hkMB"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/e1e5bbe4bd7b6027768bea142b798411/master.m3u8?md5=Tb8l51vl4hazDn1Aw0Co0Q&expires=1792166589",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/e1e5bbe4bd7b6027768bea142b798411/master.m3u8?md5=Tb8l51vl4hazDn1Aw0Co0Q&expires=1792166589",
+            "videoSource": "https://ravok.buzz/cdn/hls/e1e5bbe4bd7b6027768bea142b798411/master.m3u8?md5=Tb8l51vl4hazDn1Aw0Co0Q&expires=1792166589",
+            "videoImage": "https://as-cdn31.top/p/NZEftQnP8YtDan3PQmptndP16lszEA5pwQ-nicOoEWVO9pTMuWZA79UWvXygQCmZdAlD5gXKtCy4rMbn73BYSA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "dae21e619b67f958c716d3c779c941d2",
+                "streamUrl": "https://ravok.buzz/cdn/hls/e1e5bbe4bd7b6027768bea142b798411/master.m3u8?md5=Tb8l51vl4hazDn1Aw0Co0Q&expires=1792166589",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/e1e5bbe4bd7b6027768bea142b798411/master.m3u8?md5=Tb8l51vl4hazDn1Aw0Co0Q&expires=1792166589",
+                "videoSource": "https://ravok.buzz/cdn/hls/e1e5bbe4bd7b6027768bea142b798411/master.m3u8?md5=Tb8l51vl4hazDn1Aw0Co0Q&expires=1792166589",
+                "link": "https://ravok.buzz/cdn/hls/e1e5bbe4bd7b6027768bea142b798411/master.m3u8?md5=Tb8l51vl4hazDn1Aw0Co0Q&expires=1792166589",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/NZEftQnP8YtDan3PQmptndP16lszEA5pwQ-nicOoEWVO9pTMuWZA79UWvXygQCmZdAlD5gXKtCy4rMbn73BYSA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "_O0gwuBAYm"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:19Z"
+    },
+    {
+      "id": "episode/i-parry-everything-1x6",
+      "episode_id": "episode/i-parry-everything-1x6",
+      "title": "Private: I Parry Everything 1x1",
+      "episode_name": "Private: I Parry Everything 1x1",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1658/1/6.webp",
+      "abyssid": "15527",
+      "abyssId": "15527",
+      "playxid": "3f62d610adac92bbf2996bb4d8ff7657",
+      "playXID": "3f62d610adac92bbf2996bb4d8ff7657",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15527",
+        "playXID": "3f62d610adac92bbf2996bb4d8ff7657",
+        "streamId": "15527",
+        "dubPlayerSrc": "/dub-player/t/15527/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=3f62d610adac92bbf2996bb4d8ff7657&abyssId=15527"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15527",
+        "playXID": "3f62d610adac92bbf2996bb4d8ff7657",
+        "streamId": "15527",
+        "dubPlayerSrc": "/dub-player/t/15527/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=3f62d610adac92bbf2996bb4d8ff7657&abyssId=15527"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/3f62d610adac92bbf2996bb4d8ff7657",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/3f62d610adac92bbf2996bb4d8ff7657"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15527",
+        "abyssId": "15527",
+        "playXID": "3f62d610adac92bbf2996bb4d8ff7657",
+        "title": "I Parry Everything",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "YEwqL59_2"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "ESpDubo7X"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "QOR2RQaiE"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/566dda1950de41728b372f4436aa23d3/master.m3u8?md5=PSWPndyYvkyTA4Eg1TNt2Q&expires=1792166591",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/566dda1950de41728b372f4436aa23d3/master.m3u8?md5=PSWPndyYvkyTA4Eg1TNt2Q&expires=1792166591",
+            "videoSource": "https://ravok.buzz/cdn/hls/566dda1950de41728b372f4436aa23d3/master.m3u8?md5=PSWPndyYvkyTA4Eg1TNt2Q&expires=1792166591",
+            "videoImage": "https://as-cdn28.top/p/gUakrRze5-3dDhH3NWx5C4iY-KArOGh02fIArutUVSj7srT6mfoM5m77JC_xTWYNLYMuUAHMxPeCfPma2C3mbw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "3f62d610adac92bbf2996bb4d8ff7657",
+                "streamUrl": "https://ravok.buzz/cdn/hls/566dda1950de41728b372f4436aa23d3/master.m3u8?md5=PSWPndyYvkyTA4Eg1TNt2Q&expires=1792166591",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/566dda1950de41728b372f4436aa23d3/master.m3u8?md5=PSWPndyYvkyTA4Eg1TNt2Q&expires=1792166591",
+                "videoSource": "https://ravok.buzz/cdn/hls/566dda1950de41728b372f4436aa23d3/master.m3u8?md5=PSWPndyYvkyTA4Eg1TNt2Q&expires=1792166591",
+                "link": "https://ravok.buzz/cdn/hls/566dda1950de41728b372f4436aa23d3/master.m3u8?md5=PSWPndyYvkyTA4Eg1TNt2Q&expires=1792166591",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/gUakrRze5-3dDhH3NWx5C4iY-KArOGh02fIArutUVSj7srT6mfoM5m77JC_xTWYNLYMuUAHMxPeCfPma2C3mbw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "YEwqL59_2"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:20Z"
+    },
+    {
+      "id": "episode/i-parry-everything-1x7",
+      "episode_id": "episode/i-parry-everything-1x7",
+      "title": "Private: I Parry Everything 1x1",
+      "episode_name": "Private: I Parry Everything 1x1",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1658/1/7.webp",
+      "abyssid": "15625",
+      "abyssId": "15625",
+      "playxid": "8146f98d564daf7f6cc87d9edcb92705",
+      "playXID": "8146f98d564daf7f6cc87d9edcb92705",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15625",
+        "playXID": "8146f98d564daf7f6cc87d9edcb92705",
+        "streamId": "15625",
+        "dubPlayerSrc": "/dub-player/t/15625/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8146f98d564daf7f6cc87d9edcb92705&abyssId=15625"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15625",
+        "playXID": "8146f98d564daf7f6cc87d9edcb92705",
+        "streamId": "15625",
+        "dubPlayerSrc": "/dub-player/t/15625/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8146f98d564daf7f6cc87d9edcb92705&abyssId=15625"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/8146f98d564daf7f6cc87d9edcb92705",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/8146f98d564daf7f6cc87d9edcb92705"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15625",
+        "abyssId": "15625",
+        "playXID": "8146f98d564daf7f6cc87d9edcb92705",
+        "title": "I Parry Everything",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "VL7RzIO9k"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "zafQVl_F5"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "c40tIJ4LC"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/bcc814214b7ce2a169f769bcaaafd88d/master.m3u8?md5=hrrC5St1RCxE9FtL-ZVZdw&expires=1792166591",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/bcc814214b7ce2a169f769bcaaafd88d/master.m3u8?md5=hrrC5St1RCxE9FtL-ZVZdw&expires=1792166591",
+            "videoSource": "https://ravok.buzz/cdn/hls/bcc814214b7ce2a169f769bcaaafd88d/master.m3u8?md5=hrrC5St1RCxE9FtL-ZVZdw&expires=1792166591",
+            "videoImage": "https://as-cdn29.top/p/lFm0lZ6L47f_pZD0E_sXmTao61Ff-5Jdh3VYUobSqec5G4lGV0doralWj11TUvf8O7QOsNirBo8NlRR5FZzOuQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "8146f98d564daf7f6cc87d9edcb92705",
+                "streamUrl": "https://ravok.buzz/cdn/hls/bcc814214b7ce2a169f769bcaaafd88d/master.m3u8?md5=hrrC5St1RCxE9FtL-ZVZdw&expires=1792166591",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/bcc814214b7ce2a169f769bcaaafd88d/master.m3u8?md5=hrrC5St1RCxE9FtL-ZVZdw&expires=1792166591",
+                "videoSource": "https://ravok.buzz/cdn/hls/bcc814214b7ce2a169f769bcaaafd88d/master.m3u8?md5=hrrC5St1RCxE9FtL-ZVZdw&expires=1792166591",
+                "link": "https://ravok.buzz/cdn/hls/bcc814214b7ce2a169f769bcaaafd88d/master.m3u8?md5=hrrC5St1RCxE9FtL-ZVZdw&expires=1792166591",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/lFm0lZ6L47f_pZD0E_sXmTao61Ff-5Jdh3VYUobSqec5G4lGV0doralWj11TUvf8O7QOsNirBo8NlRR5FZzOuQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "VL7RzIO9k"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:21Z"
+    },
+    {
+      "id": "episode/i-parry-everything-1x8",
+      "episode_id": "episode/i-parry-everything-1x8",
+      "title": "Private: I Parry Everything 1x1",
+      "episode_name": "Private: I Parry Everything 1x1",
+      "episode_number": 8,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1658/1/8.webp",
+      "abyssid": "15684",
+      "abyssId": "15684",
+      "playxid": "b2bb9671f6bda2005155a9078b6fcd07",
+      "playXID": "b2bb9671f6bda2005155a9078b6fcd07",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15684",
+        "playXID": "b2bb9671f6bda2005155a9078b6fcd07",
+        "streamId": "15684",
+        "dubPlayerSrc": "/dub-player/t/15684/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b2bb9671f6bda2005155a9078b6fcd07&abyssId=15684"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15684",
+        "playXID": "b2bb9671f6bda2005155a9078b6fcd07",
+        "streamId": "15684",
+        "dubPlayerSrc": "/dub-player/t/15684/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b2bb9671f6bda2005155a9078b6fcd07&abyssId=15684"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/b2bb9671f6bda2005155a9078b6fcd07",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/b2bb9671f6bda2005155a9078b6fcd07"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15684",
+        "abyssId": "15684",
+        "playXID": "b2bb9671f6bda2005155a9078b6fcd07",
+        "title": "I Parry Everything",
+        "season": 1,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "TH1aX38T8"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "hoGGs2MfI"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "Qq7JsUdqE"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/6fe47ac3c2b2e6cc0ebc1dda937b79cb/master.m3u8?md5=V-6bU2w2I8aeMHsw2TcluA&expires=1792166591",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/6fe47ac3c2b2e6cc0ebc1dda937b79cb/master.m3u8?md5=V-6bU2w2I8aeMHsw2TcluA&expires=1792166591",
+            "videoSource": "https://ravok.buzz/cdn/hls/6fe47ac3c2b2e6cc0ebc1dda937b79cb/master.m3u8?md5=V-6bU2w2I8aeMHsw2TcluA&expires=1792166591",
+            "videoImage": "https://as-cdn30.top/p/fUW6ZgMTH-9iyUO4KsDCoofxErCHt_o4r0pxjO4OumZBfjzSA0SIIkbxL2I3Da6_4X8VVsmNG0fqjygHPEugsA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "b2bb9671f6bda2005155a9078b6fcd07",
+                "streamUrl": "https://ravok.buzz/cdn/hls/6fe47ac3c2b2e6cc0ebc1dda937b79cb/master.m3u8?md5=V-6bU2w2I8aeMHsw2TcluA&expires=1792166591",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/6fe47ac3c2b2e6cc0ebc1dda937b79cb/master.m3u8?md5=V-6bU2w2I8aeMHsw2TcluA&expires=1792166591",
+                "videoSource": "https://ravok.buzz/cdn/hls/6fe47ac3c2b2e6cc0ebc1dda937b79cb/master.m3u8?md5=V-6bU2w2I8aeMHsw2TcluA&expires=1792166591",
+                "link": "https://ravok.buzz/cdn/hls/6fe47ac3c2b2e6cc0ebc1dda937b79cb/master.m3u8?md5=V-6bU2w2I8aeMHsw2TcluA&expires=1792166591",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/fUW6ZgMTH-9iyUO4KsDCoofxErCHt_o4r0pxjO4OumZBfjzSA0SIIkbxL2I3Da6_4X8VVsmNG0fqjygHPEugsA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "TH1aX38T8"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:21Z"
+    },
+    {
+      "id": "episode/i-parry-everything-1x9",
+      "episode_id": "episode/i-parry-everything-1x9",
+      "title": "Private: I Parry Everything 1x1",
+      "episode_name": "Private: I Parry Everything 1x1",
+      "episode_number": 9,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1658/1/9.webp",
+      "abyssid": "15704",
+      "abyssId": "15704",
+      "playxid": "e4f037a7b0481cac2b28293cd99a559f",
+      "playXID": "e4f037a7b0481cac2b28293cd99a559f",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15704",
+        "playXID": "e4f037a7b0481cac2b28293cd99a559f",
+        "streamId": "15704",
+        "dubPlayerSrc": "/dub-player/t/15704/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e4f037a7b0481cac2b28293cd99a559f&abyssId=15704"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15704",
+        "playXID": "e4f037a7b0481cac2b28293cd99a559f",
+        "streamId": "15704",
+        "dubPlayerSrc": "/dub-player/t/15704/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e4f037a7b0481cac2b28293cd99a559f&abyssId=15704"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/e4f037a7b0481cac2b28293cd99a559f",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/e4f037a7b0481cac2b28293cd99a559f"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15704",
+        "abyssId": "15704",
+        "playXID": "e4f037a7b0481cac2b28293cd99a559f",
+        "title": "I Parry Everything",
+        "season": 1,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "bX8vFVWAx"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "GDOIT92KR"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "Av792RmCB"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/98b879454a7c4caba1a47fd38d285d21/master.m3u8?md5=yDLpXobEEPWu_e9TNN2zRQ&expires=1792166591",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/98b879454a7c4caba1a47fd38d285d21/master.m3u8?md5=yDLpXobEEPWu_e9TNN2zRQ&expires=1792166591",
+            "videoSource": "https://ravok.buzz/cdn/hls/98b879454a7c4caba1a47fd38d285d21/master.m3u8?md5=yDLpXobEEPWu_e9TNN2zRQ&expires=1792166591",
+            "videoImage": "https://as-cdn31.top/p/BjBnEvRTt0Z2FKUU0Z6fARkHkjxPtLLmRdhtsw65SLHmbylPT9pOMXhxHEyxgtJQBg6VknuaNbGswyZxv4ipsA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "e4f037a7b0481cac2b28293cd99a559f",
+                "streamUrl": "https://ravok.buzz/cdn/hls/98b879454a7c4caba1a47fd38d285d21/master.m3u8?md5=yDLpXobEEPWu_e9TNN2zRQ&expires=1792166591",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/98b879454a7c4caba1a47fd38d285d21/master.m3u8?md5=yDLpXobEEPWu_e9TNN2zRQ&expires=1792166591",
+                "videoSource": "https://ravok.buzz/cdn/hls/98b879454a7c4caba1a47fd38d285d21/master.m3u8?md5=yDLpXobEEPWu_e9TNN2zRQ&expires=1792166591",
+                "link": "https://ravok.buzz/cdn/hls/98b879454a7c4caba1a47fd38d285d21/master.m3u8?md5=yDLpXobEEPWu_e9TNN2zRQ&expires=1792166591",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/BjBnEvRTt0Z2FKUU0Z6fARkHkjxPtLLmRdhtsw65SLHmbylPT9pOMXhxHEyxgtJQBg6VknuaNbGswyZxv4ipsA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "bX8vFVWAx"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:21Z"
+    },
+    {
+      "id": "episode/i-parry-everything-1x10",
+      "episode_id": "episode/i-parry-everything-1x10",
+      "title": "Private: I Parry Everything 1x1",
+      "episode_name": "Private: I Parry Everything 1x1",
+      "episode_number": 10,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1658/1/10.webp",
+      "abyssid": "15760",
+      "abyssId": "15760",
+      "playxid": "a7cd33d1194ce48a10c5b2dce99a3cfc",
+      "playXID": "a7cd33d1194ce48a10c5b2dce99a3cfc",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15760",
+        "playXID": "a7cd33d1194ce48a10c5b2dce99a3cfc",
+        "streamId": "15760",
+        "dubPlayerSrc": "/dub-player/t/15760/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a7cd33d1194ce48a10c5b2dce99a3cfc&abyssId=15760"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15760",
+        "playXID": "a7cd33d1194ce48a10c5b2dce99a3cfc",
+        "streamId": "15760",
+        "dubPlayerSrc": "/dub-player/t/15760/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a7cd33d1194ce48a10c5b2dce99a3cfc&abyssId=15760"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/a7cd33d1194ce48a10c5b2dce99a3cfc",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/a7cd33d1194ce48a10c5b2dce99a3cfc"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15760",
+        "abyssId": "15760",
+        "playXID": "a7cd33d1194ce48a10c5b2dce99a3cfc",
+        "title": "I Parry Everything",
+        "season": 1,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "2g0Xn6QqM"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "d3N-TRCWA"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "ZR8lgPgDS"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/ee162cbe4442a9b577cffe7c58193d10/master.m3u8?md5=ppukzb88Rc1kzIiCdv-hOg&expires=1792166591",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/ee162cbe4442a9b577cffe7c58193d10/master.m3u8?md5=ppukzb88Rc1kzIiCdv-hOg&expires=1792166591",
+            "videoSource": "https://ravok.buzz/cdn/hls/ee162cbe4442a9b577cffe7c58193d10/master.m3u8?md5=ppukzb88Rc1kzIiCdv-hOg&expires=1792166591",
+            "videoImage": "https://as-cdn29.top/p/jCghyRcEf4-Y5WLeIDwr0uGqALLhQLkR_IrSYC1v7qp6u3Yfkz41aDpfQyh3hIzOv4MWmvTvVbbVrCcizOJOpQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "a7cd33d1194ce48a10c5b2dce99a3cfc",
+                "streamUrl": "https://ravok.buzz/cdn/hls/ee162cbe4442a9b577cffe7c58193d10/master.m3u8?md5=ppukzb88Rc1kzIiCdv-hOg&expires=1792166591",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/ee162cbe4442a9b577cffe7c58193d10/master.m3u8?md5=ppukzb88Rc1kzIiCdv-hOg&expires=1792166591",
+                "videoSource": "https://ravok.buzz/cdn/hls/ee162cbe4442a9b577cffe7c58193d10/master.m3u8?md5=ppukzb88Rc1kzIiCdv-hOg&expires=1792166591",
+                "link": "https://ravok.buzz/cdn/hls/ee162cbe4442a9b577cffe7c58193d10/master.m3u8?md5=ppukzb88Rc1kzIiCdv-hOg&expires=1792166591",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/jCghyRcEf4-Y5WLeIDwr0uGqALLhQLkR_IrSYC1v7qp6u3Yfkz41aDpfQyh3hIzOv4MWmvTvVbbVrCcizOJOpQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "2g0Xn6QqM"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:21Z"
+    },
+    {
+      "id": "episode/i-parry-everything-1x11",
+      "episode_id": "episode/i-parry-everything-1x11",
+      "title": "Private: I Parry Everything 1x1",
+      "episode_name": "Private: I Parry Everything 1x1",
+      "episode_number": 11,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1658/1/11.webp",
+      "abyssid": "15806",
+      "abyssId": "15806",
+      "playxid": "e350113047e82ceecb455c33c21ef32a",
+      "playXID": "e350113047e82ceecb455c33c21ef32a",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15806",
+        "playXID": "e350113047e82ceecb455c33c21ef32a",
+        "streamId": "15806",
+        "dubPlayerSrc": "/dub-player/t/15806/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e350113047e82ceecb455c33c21ef32a&abyssId=15806"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15806",
+        "playXID": "e350113047e82ceecb455c33c21ef32a",
+        "streamId": "15806",
+        "dubPlayerSrc": "/dub-player/t/15806/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e350113047e82ceecb455c33c21ef32a&abyssId=15806"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/e350113047e82ceecb455c33c21ef32a",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/e350113047e82ceecb455c33c21ef32a"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15806",
+        "abyssId": "15806",
+        "playXID": "e350113047e82ceecb455c33c21ef32a",
+        "title": "I Parry Everything",
+        "season": 1,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "xw0Y62p7z"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "XdseJ4-VT"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "h2Ua9Fmb4"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/e5d71431c98d4b9de7f4a45236b1b380/master.m3u8?md5=8oXjsiLWm3dfYmptbSHnNw&expires=1792166592",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/e5d71431c98d4b9de7f4a45236b1b380/master.m3u8?md5=8oXjsiLWm3dfYmptbSHnNw&expires=1792166592",
+            "videoSource": "https://ravok.buzz/cdn/hls/e5d71431c98d4b9de7f4a45236b1b380/master.m3u8?md5=8oXjsiLWm3dfYmptbSHnNw&expires=1792166592",
+            "videoImage": "https://as-cdn27.top/p/BfAWS8j3Oke1mjyzun94zj8bREYq4Dzdo1fosjh1qg2yZU5Uxyy9ISEA0ASar3hxAesIwAvG1p9iOBNhg-EsXg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "e350113047e82ceecb455c33c21ef32a",
+                "streamUrl": "https://ravok.buzz/cdn/hls/e5d71431c98d4b9de7f4a45236b1b380/master.m3u8?md5=8oXjsiLWm3dfYmptbSHnNw&expires=1792166592",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/e5d71431c98d4b9de7f4a45236b1b380/master.m3u8?md5=8oXjsiLWm3dfYmptbSHnNw&expires=1792166592",
+                "videoSource": "https://ravok.buzz/cdn/hls/e5d71431c98d4b9de7f4a45236b1b380/master.m3u8?md5=8oXjsiLWm3dfYmptbSHnNw&expires=1792166592",
+                "link": "https://ravok.buzz/cdn/hls/e5d71431c98d4b9de7f4a45236b1b380/master.m3u8?md5=8oXjsiLWm3dfYmptbSHnNw&expires=1792166592",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/BfAWS8j3Oke1mjyzun94zj8bREYq4Dzdo1fosjh1qg2yZU5Uxyy9ISEA0ASar3hxAesIwAvG1p9iOBNhg-EsXg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "xw0Y62p7z"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:22Z"
+    },
+    {
+      "id": "episode/i-parry-everything-1x12",
+      "episode_id": "episode/i-parry-everything-1x12",
+      "title": "Private: I Parry Everything 1x1",
+      "episode_name": "Private: I Parry Everything 1x1",
+      "episode_number": 12,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1658/1/12.webp",
+      "abyssid": "15826",
+      "abyssId": "15826",
+      "playxid": "32523734b46f1f62ea0994ed1a521b16",
+      "playXID": "32523734b46f1f62ea0994ed1a521b16",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15826",
+        "playXID": "32523734b46f1f62ea0994ed1a521b16",
+        "streamId": "15826",
+        "dubPlayerSrc": "/dub-player/t/15826/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=32523734b46f1f62ea0994ed1a521b16&abyssId=15826"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15826",
+        "playXID": "32523734b46f1f62ea0994ed1a521b16",
+        "streamId": "15826",
+        "dubPlayerSrc": "/dub-player/t/15826/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=32523734b46f1f62ea0994ed1a521b16&abyssId=15826"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/32523734b46f1f62ea0994ed1a521b16",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/32523734b46f1f62ea0994ed1a521b16"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15826",
+        "abyssId": "15826",
+        "playXID": "32523734b46f1f62ea0994ed1a521b16",
+        "title": "I Parry Everything",
+        "season": 1,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "wpdjxJeHP"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "ivu1xmOeU"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "JJVIPMNSY"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/dcfd54e7dfd557a5352bd1ee3dd10115/master.m3u8?md5=ZHSQddfO9YFSK8LZE-_Nig&expires=1792166593",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/dcfd54e7dfd557a5352bd1ee3dd10115/master.m3u8?md5=ZHSQddfO9YFSK8LZE-_Nig&expires=1792166593",
+            "videoSource": "https://ravok.buzz/cdn/hls/dcfd54e7dfd557a5352bd1ee3dd10115/master.m3u8?md5=ZHSQddfO9YFSK8LZE-_Nig&expires=1792166593",
+            "videoImage": "https://as-cdn30.top/p/O7EVgj-a2RIvd6fVUgf_yqWgbdNoQIq_oDrWxomsA0QSj6uLPh709KyOXvgFrOuke8JgLJd-vB-Emsr3X5luCA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "32523734b46f1f62ea0994ed1a521b16",
+                "streamUrl": "https://ravok.buzz/cdn/hls/dcfd54e7dfd557a5352bd1ee3dd10115/master.m3u8?md5=ZHSQddfO9YFSK8LZE-_Nig&expires=1792166593",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/dcfd54e7dfd557a5352bd1ee3dd10115/master.m3u8?md5=ZHSQddfO9YFSK8LZE-_Nig&expires=1792166593",
+                "videoSource": "https://ravok.buzz/cdn/hls/dcfd54e7dfd557a5352bd1ee3dd10115/master.m3u8?md5=ZHSQddfO9YFSK8LZE-_Nig&expires=1792166593",
+                "link": "https://ravok.buzz/cdn/hls/dcfd54e7dfd557a5352bd1ee3dd10115/master.m3u8?md5=ZHSQddfO9YFSK8LZE-_Nig&expires=1792166593",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/O7EVgj-a2RIvd6fVUgf_yqWgbdNoQIq_oDrWxomsA0QSj6uLPh709KyOXvgFrOuke8JgLJd-vB-Emsr3X5luCA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "wpdjxJeHP"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:22Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T14:03:17Z",
+  "updated_at": "2026-10-16T14:03:23Z"
+}

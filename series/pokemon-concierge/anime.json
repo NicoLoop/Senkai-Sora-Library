@@ -1,0 +1,1012 @@
+{
+  "id": "series/pokemon-concierge",
+  "series_name": "Pokémon Concierge",
+  "title": "Pokémon Concierge",
+  "banner": "https://image.tmdb.org/t/p/w1280/mfalSGLVwkpupN7Zmj0m3x4xUlr.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/2LnImoYwynnbqrXBiRzdxEUspo8.jpg",
+  "genra": [
+    "Fantasy",
+    "Kids",
+    "Slice of Life"
+  ],
+  "genres": [
+    "Fantasy",
+    "Kids",
+    "Slice of Life"
+  ],
+  "languages": [
+    "Hindi",
+    "Japanese",
+    "Tamil",
+    "Telugu"
+  ],
+  "synopsis": "After a series of misfortunes, the stressed-out Haru quits her corporate job in favor of working as a concierge at the Pokémon Resort. Managed by the cheerful Watanabe, the Pokémon Resort is a place where both people and Pokémon come to unwind. While Haru finds it difficult to abandon the priorities of her past life, this new job is just right for learning to relax and focus on what matters the most in life: companionship.",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 8,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 8,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Pokémon Concierge 1x1",
+          "id": "episode/pokemon-concierge-1x1",
+          "image": "https://img.watchanimeworld.one/img/thumb_2039_s1e1.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "Pokémon Concierge 1x2",
+          "id": "episode/pokemon-concierge-1x2",
+          "image": "https://img.watchanimeworld.one/img/thumb_2039_s1e2.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "Pokémon Concierge 1x3",
+          "id": "episode/pokemon-concierge-1x3",
+          "image": "https://img.watchanimeworld.one/img/thumb_2039_s1e3.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "Pokémon Concierge 1x4",
+          "id": "episode/pokemon-concierge-1x4",
+          "image": "https://img.watchanimeworld.one/img/thumb_2039_s1e4.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "Pokémon Concierge 1x5",
+          "id": "episode/pokemon-concierge-1x5",
+          "image": "https://img.watchanimeworld.one/img/thumb_2039_s1e5.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "Pokémon Concierge 1x6",
+          "id": "episode/pokemon-concierge-1x6",
+          "image": "https://img.watchanimeworld.one/img/thumb_2039_s1e6.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "Pokémon Concierge 1x7",
+          "id": "episode/pokemon-concierge-1x7",
+          "image": "https://img.watchanimeworld.one/img/thumb_2039_s1e7.webp",
+          "season": 1
+        },
+        {
+          "episode": 8,
+          "title": "Pokémon Concierge 1x8",
+          "id": "episode/pokemon-concierge-1x8",
+          "image": "https://img.watchanimeworld.one/img/thumb_2039_s1e8.webp",
+          "season": 1
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/pokemon-concierge-1x2",
+      "episode_id": "episode/pokemon-concierge-1x2",
+      "title": "Pokémon Concierge 1x1",
+      "episode_name": "Pokémon Concierge 1x1",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2039_s1e2.webp",
+      "abyssid": "16648",
+      "abyssId": "16648",
+      "playxid": "d59ef67657f22ae77246d592fe4f6d7b",
+      "playXID": "d59ef67657f22ae77246d592fe4f6d7b",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16648",
+        "playXID": "d59ef67657f22ae77246d592fe4f6d7b",
+        "streamId": "16648",
+        "dubPlayerSrc": "/dub-player/t/16648/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d59ef67657f22ae77246d592fe4f6d7b&abyssId=16648"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16648",
+        "playXID": "d59ef67657f22ae77246d592fe4f6d7b",
+        "streamId": "16648",
+        "dubPlayerSrc": "/dub-player/t/16648/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d59ef67657f22ae77246d592fe4f6d7b&abyssId=16648"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/d59ef67657f22ae77246d592fe4f6d7b",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/d59ef67657f22ae77246d592fe4f6d7b"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16648",
+        "abyssId": "16648",
+        "playXID": "d59ef67657f22ae77246d592fe4f6d7b",
+        "title": "Pokémon Concierge",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "GszewZhdm"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "YshS0VpYi"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "YJyhxmUo4"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "jKfGs_mfR"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "vnTHFSmbjt"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/91c156c2397b4ae7a743775d3e4c2524/master.m3u8?md5=W6JWoHtOY85_dhjFKMI5pw&expires=1792166211",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/91c156c2397b4ae7a743775d3e4c2524/master.m3u8?md5=W6JWoHtOY85_dhjFKMI5pw&expires=1792166211",
+            "videoSource": "https://ravok.buzz/cdn/hls/91c156c2397b4ae7a743775d3e4c2524/master.m3u8?md5=W6JWoHtOY85_dhjFKMI5pw&expires=1792166211",
+            "videoImage": "https://as-cdn30.top/p/_KGpkkgTmwq9E4XNfV6CyVPmixbDHWB1brDIaM6QrsLGQXxnMzzJ34aCDXB4pH0cJuaguZ9Oql9hj0Q9L6bV6g.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "d59ef67657f22ae77246d592fe4f6d7b",
+                "streamUrl": "https://ravok.buzz/cdn/hls/91c156c2397b4ae7a743775d3e4c2524/master.m3u8?md5=W6JWoHtOY85_dhjFKMI5pw&expires=1792166211",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/91c156c2397b4ae7a743775d3e4c2524/master.m3u8?md5=W6JWoHtOY85_dhjFKMI5pw&expires=1792166211",
+                "videoSource": "https://ravok.buzz/cdn/hls/91c156c2397b4ae7a743775d3e4c2524/master.m3u8?md5=W6JWoHtOY85_dhjFKMI5pw&expires=1792166211",
+                "link": "https://ravok.buzz/cdn/hls/91c156c2397b4ae7a743775d3e4c2524/master.m3u8?md5=W6JWoHtOY85_dhjFKMI5pw&expires=1792166211",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/_KGpkkgTmwq9E4XNfV6CyVPmixbDHWB1brDIaM6QrsLGQXxnMzzJ34aCDXB4pH0cJuaguZ9Oql9hj0Q9L6bV6g.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "GszewZhdm"
+        }
+      },
+      "fetched_at": "2026-10-16T13:57:01Z"
+    },
+    {
+      "id": "episode/pokemon-concierge-1x1",
+      "episode_id": "episode/pokemon-concierge-1x1",
+      "title": "Pokémon Concierge 1x1",
+      "episode_name": "Pokémon Concierge 1x1",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2039_s1e1.webp",
+      "abyssid": "16647",
+      "abyssId": "16647",
+      "playxid": "afef6111d7e66b8fe9be8a7fe2ee0069",
+      "playXID": "afef6111d7e66b8fe9be8a7fe2ee0069",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16647",
+        "playXID": "afef6111d7e66b8fe9be8a7fe2ee0069",
+        "streamId": "16647",
+        "dubPlayerSrc": "/dub-player/t/16647/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=afef6111d7e66b8fe9be8a7fe2ee0069&abyssId=16647"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16647",
+        "playXID": "afef6111d7e66b8fe9be8a7fe2ee0069",
+        "streamId": "16647",
+        "dubPlayerSrc": "/dub-player/t/16647/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=afef6111d7e66b8fe9be8a7fe2ee0069&abyssId=16647"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/afef6111d7e66b8fe9be8a7fe2ee0069",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/afef6111d7e66b8fe9be8a7fe2ee0069"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16647",
+        "abyssId": "16647",
+        "playXID": "afef6111d7e66b8fe9be8a7fe2ee0069",
+        "title": "Pokémon Concierge",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "a9YiF7A-m"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "63fzXnjQl"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "jMvaXU0a4"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "rHlgti5Ae"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "w1XZd6yyx"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/8183c1eb624508718dbb3783374a54f8/master.m3u8?md5=dM8YyHAqNPnbgQNwSrtWAQ&expires=1792166211",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/8183c1eb624508718dbb3783374a54f8/master.m3u8?md5=dM8YyHAqNPnbgQNwSrtWAQ&expires=1792166211",
+            "videoSource": "https://ravok.buzz/cdn/hls/8183c1eb624508718dbb3783374a54f8/master.m3u8?md5=dM8YyHAqNPnbgQNwSrtWAQ&expires=1792166211",
+            "videoImage": "https://as-cdn28.top/p/SUQnX4YjTZaDo43vCT0TXucB-ylk5E-nRstNsmpr2d15TA3yWunEuty7cxka5NnAcGpTV9q6XPa21lg-f3NdRw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "afef6111d7e66b8fe9be8a7fe2ee0069",
+                "streamUrl": "https://ravok.buzz/cdn/hls/8183c1eb624508718dbb3783374a54f8/master.m3u8?md5=dM8YyHAqNPnbgQNwSrtWAQ&expires=1792166211",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/8183c1eb624508718dbb3783374a54f8/master.m3u8?md5=dM8YyHAqNPnbgQNwSrtWAQ&expires=1792166211",
+                "videoSource": "https://ravok.buzz/cdn/hls/8183c1eb624508718dbb3783374a54f8/master.m3u8?md5=dM8YyHAqNPnbgQNwSrtWAQ&expires=1792166211",
+                "link": "https://ravok.buzz/cdn/hls/8183c1eb624508718dbb3783374a54f8/master.m3u8?md5=dM8YyHAqNPnbgQNwSrtWAQ&expires=1792166211",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/SUQnX4YjTZaDo43vCT0TXucB-ylk5E-nRstNsmpr2d15TA3yWunEuty7cxka5NnAcGpTV9q6XPa21lg-f3NdRw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "a9YiF7A-m"
+        }
+      },
+      "fetched_at": "2026-10-16T13:57:01Z"
+    },
+    {
+      "id": "episode/pokemon-concierge-1x5",
+      "episode_id": "episode/pokemon-concierge-1x5",
+      "title": "Pokémon Concierge 1x1",
+      "episode_name": "Pokémon Concierge 1x1",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2039_s1e5.webp",
+      "abyssid": "16651",
+      "abyssId": "16651",
+      "playxid": "754b8fde508be74748bb02907c2409d9",
+      "playXID": "754b8fde508be74748bb02907c2409d9",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16651",
+        "playXID": "754b8fde508be74748bb02907c2409d9",
+        "streamId": "16651",
+        "dubPlayerSrc": "/dub-player/t/16651/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=754b8fde508be74748bb02907c2409d9&abyssId=16651"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16651",
+        "playXID": "754b8fde508be74748bb02907c2409d9",
+        "streamId": "16651",
+        "dubPlayerSrc": "/dub-player/t/16651/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=754b8fde508be74748bb02907c2409d9&abyssId=16651"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/754b8fde508be74748bb02907c2409d9",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/754b8fde508be74748bb02907c2409d9"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16651",
+        "abyssId": "16651",
+        "playXID": "754b8fde508be74748bb02907c2409d9",
+        "title": "Pokémon Concierge",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "LAnGdUSuK"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "nArbbS3Wq"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "d2KFtaOuCv"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "tE0tTAtNk"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "Ypi4YLo3o"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/e2ece7924aec5ee9a85e8a2a0b275f08/master.m3u8?md5=GliBuQtfTa-FPydh0UgSNQ&expires=1792166211",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/e2ece7924aec5ee9a85e8a2a0b275f08/master.m3u8?md5=GliBuQtfTa-FPydh0UgSNQ&expires=1792166211",
+            "videoSource": "https://ravok.buzz/cdn/hls/e2ece7924aec5ee9a85e8a2a0b275f08/master.m3u8?md5=GliBuQtfTa-FPydh0UgSNQ&expires=1792166211",
+            "videoImage": "https://as-cdn27.top/p/TfLqZaDVoLKPEBlkPTe98aNIDiS7ei6f9BaotXwJp3Zp2AnWyye-7u4E2pL5vzqtJVgP33g_C_4vdfDZpz1NhA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "754b8fde508be74748bb02907c2409d9",
+                "streamUrl": "https://ravok.buzz/cdn/hls/e2ece7924aec5ee9a85e8a2a0b275f08/master.m3u8?md5=GliBuQtfTa-FPydh0UgSNQ&expires=1792166211",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/e2ece7924aec5ee9a85e8a2a0b275f08/master.m3u8?md5=GliBuQtfTa-FPydh0UgSNQ&expires=1792166211",
+                "videoSource": "https://ravok.buzz/cdn/hls/e2ece7924aec5ee9a85e8a2a0b275f08/master.m3u8?md5=GliBuQtfTa-FPydh0UgSNQ&expires=1792166211",
+                "link": "https://ravok.buzz/cdn/hls/e2ece7924aec5ee9a85e8a2a0b275f08/master.m3u8?md5=GliBuQtfTa-FPydh0UgSNQ&expires=1792166211",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/TfLqZaDVoLKPEBlkPTe98aNIDiS7ei6f9BaotXwJp3Zp2AnWyye-7u4E2pL5vzqtJVgP33g_C_4vdfDZpz1NhA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "LAnGdUSuK"
+        }
+      },
+      "fetched_at": "2026-10-16T13:57:01Z"
+    },
+    {
+      "id": "episode/pokemon-concierge-1x3",
+      "episode_id": "episode/pokemon-concierge-1x3",
+      "title": "Pokémon Concierge 1x1",
+      "episode_name": "Pokémon Concierge 1x1",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2039_s1e3.webp",
+      "abyssid": "16649",
+      "abyssId": "16649",
+      "playxid": "665ff68447af51236240372e4ce5a774",
+      "playXID": "665ff68447af51236240372e4ce5a774",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16649",
+        "playXID": "665ff68447af51236240372e4ce5a774",
+        "streamId": "16649",
+        "dubPlayerSrc": "/dub-player/t/16649/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=665ff68447af51236240372e4ce5a774&abyssId=16649"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16649",
+        "playXID": "665ff68447af51236240372e4ce5a774",
+        "streamId": "16649",
+        "dubPlayerSrc": "/dub-player/t/16649/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=665ff68447af51236240372e4ce5a774&abyssId=16649"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/665ff68447af51236240372e4ce5a774",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/665ff68447af51236240372e4ce5a774"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16649",
+        "abyssId": "16649",
+        "playXID": "665ff68447af51236240372e4ce5a774",
+        "title": "Pokémon Concierge",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "C7nKn1PMj"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "DOsqs5ugm"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "axM-eV0tL"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "gzsQfk-z0"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "TCAKxXwb2"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/01b5a92025caff27fc750fa99339c949/master.m3u8?md5=bl5RVsHX002b5lemaG3hkA&expires=1792166212",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/01b5a92025caff27fc750fa99339c949/master.m3u8?md5=bl5RVsHX002b5lemaG3hkA&expires=1792166212",
+            "videoSource": "https://ravok.buzz/cdn/hls/01b5a92025caff27fc750fa99339c949/master.m3u8?md5=bl5RVsHX002b5lemaG3hkA&expires=1792166212",
+            "videoImage": "https://as-cdn28.top/p/xoTB1CCKAo45GxsbWwEdrA8pGVE0LgSr8OFTQ8y3wAwjZSFiVw7RKUNx2UJQgfyinxh1zqYnxCd5tNmwOKhaBQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "665ff68447af51236240372e4ce5a774",
+                "streamUrl": "https://ravok.buzz/cdn/hls/01b5a92025caff27fc750fa99339c949/master.m3u8?md5=bl5RVsHX002b5lemaG3hkA&expires=1792166212",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/01b5a92025caff27fc750fa99339c949/master.m3u8?md5=bl5RVsHX002b5lemaG3hkA&expires=1792166212",
+                "videoSource": "https://ravok.buzz/cdn/hls/01b5a92025caff27fc750fa99339c949/master.m3u8?md5=bl5RVsHX002b5lemaG3hkA&expires=1792166212",
+                "link": "https://ravok.buzz/cdn/hls/01b5a92025caff27fc750fa99339c949/master.m3u8?md5=bl5RVsHX002b5lemaG3hkA&expires=1792166212",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/xoTB1CCKAo45GxsbWwEdrA8pGVE0LgSr8OFTQ8y3wAwjZSFiVw7RKUNx2UJQgfyinxh1zqYnxCd5tNmwOKhaBQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "C7nKn1PMj"
+        }
+      },
+      "fetched_at": "2026-10-16T13:57:02Z"
+    },
+    {
+      "id": "episode/pokemon-concierge-1x6",
+      "episode_id": "episode/pokemon-concierge-1x6",
+      "title": "Pokémon Concierge 1x1",
+      "episode_name": "Pokémon Concierge 1x1",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2039_s1e6.webp",
+      "abyssid": "16652",
+      "abyssId": "16652",
+      "playxid": "86ce8ec21743175297a7093dbb8d35dd",
+      "playXID": "86ce8ec21743175297a7093dbb8d35dd",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16652",
+        "playXID": "86ce8ec21743175297a7093dbb8d35dd",
+        "streamId": "16652",
+        "dubPlayerSrc": "/dub-player/t/16652/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=86ce8ec21743175297a7093dbb8d35dd&abyssId=16652"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16652",
+        "playXID": "86ce8ec21743175297a7093dbb8d35dd",
+        "streamId": "16652",
+        "dubPlayerSrc": "/dub-player/t/16652/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=86ce8ec21743175297a7093dbb8d35dd&abyssId=16652"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/86ce8ec21743175297a7093dbb8d35dd",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/86ce8ec21743175297a7093dbb8d35dd"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16652",
+        "abyssId": "16652",
+        "playXID": "86ce8ec21743175297a7093dbb8d35dd",
+        "title": "Pokémon Concierge",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "v0D4XsSAOS"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "NFTa8y_i6"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "r0CPO7ljt"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "Y8RuD2UyYZ"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "argDJE_z5"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/c23e88944dfd3643697c8995b29cb182/master.m3u8?md5=HYM9Tlcy44WBldkMBkPzbQ&expires=1792166213",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/c23e88944dfd3643697c8995b29cb182/master.m3u8?md5=HYM9Tlcy44WBldkMBkPzbQ&expires=1792166213",
+            "videoSource": "https://ravok.buzz/cdn/hls/c23e88944dfd3643697c8995b29cb182/master.m3u8?md5=HYM9Tlcy44WBldkMBkPzbQ&expires=1792166213",
+            "videoImage": "https://as-cdn28.top/p/4wjenrm24VQBzBL_-ATqnElTLKyI0NsYvD-9fajYfQzyXzvGBCF6PHU7z-0u14csn0fAjmqj0rs9UAvHnSKYzQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "86ce8ec21743175297a7093dbb8d35dd",
+                "streamUrl": "https://ravok.buzz/cdn/hls/c23e88944dfd3643697c8995b29cb182/master.m3u8?md5=HYM9Tlcy44WBldkMBkPzbQ&expires=1792166213",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/c23e88944dfd3643697c8995b29cb182/master.m3u8?md5=HYM9Tlcy44WBldkMBkPzbQ&expires=1792166213",
+                "videoSource": "https://ravok.buzz/cdn/hls/c23e88944dfd3643697c8995b29cb182/master.m3u8?md5=HYM9Tlcy44WBldkMBkPzbQ&expires=1792166213",
+                "link": "https://ravok.buzz/cdn/hls/c23e88944dfd3643697c8995b29cb182/master.m3u8?md5=HYM9Tlcy44WBldkMBkPzbQ&expires=1792166213",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/4wjenrm24VQBzBL_-ATqnElTLKyI0NsYvD-9fajYfQzyXzvGBCF6PHU7z-0u14csn0fAjmqj0rs9UAvHnSKYzQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "v0D4XsSAOS"
+        }
+      },
+      "fetched_at": "2026-10-16T13:57:03Z"
+    },
+    {
+      "id": "episode/pokemon-concierge-1x7",
+      "episode_id": "episode/pokemon-concierge-1x7",
+      "title": "Pokémon Concierge 1x1",
+      "episode_name": "Pokémon Concierge 1x1",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2039_s1e7.webp",
+      "abyssid": "16653",
+      "abyssId": "16653",
+      "playxid": "e11e328234b5eeffca4362f9e364da0f",
+      "playXID": "e11e328234b5eeffca4362f9e364da0f",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16653",
+        "playXID": "e11e328234b5eeffca4362f9e364da0f",
+        "streamId": "16653",
+        "dubPlayerSrc": "/dub-player/t/16653/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e11e328234b5eeffca4362f9e364da0f&abyssId=16653"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16653",
+        "playXID": "e11e328234b5eeffca4362f9e364da0f",
+        "streamId": "16653",
+        "dubPlayerSrc": "/dub-player/t/16653/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e11e328234b5eeffca4362f9e364da0f&abyssId=16653"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/e11e328234b5eeffca4362f9e364da0f",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/e11e328234b5eeffca4362f9e364da0f"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16653",
+        "abyssId": "16653",
+        "playXID": "e11e328234b5eeffca4362f9e364da0f",
+        "title": "Pokémon Concierge",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "l2xQIzmj4"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "ScFxDo1bc"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "EPHX8g2cR"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "2SdZmczO6"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "tz4WpL5MN"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/71f9d1d75dc5c91d4b5f05a38d0cd2e0/master.m3u8?md5=JkJNS3sO3aLBWGCeDaNJ8A&expires=1792166214",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/71f9d1d75dc5c91d4b5f05a38d0cd2e0/master.m3u8?md5=JkJNS3sO3aLBWGCeDaNJ8A&expires=1792166214",
+            "videoSource": "https://ravok.buzz/cdn/hls/71f9d1d75dc5c91d4b5f05a38d0cd2e0/master.m3u8?md5=JkJNS3sO3aLBWGCeDaNJ8A&expires=1792166214",
+            "videoImage": "https://as-cdn30.top/p/9HTT2e7uTmttOkY1WLhhSgnYbk_l6VPa1UZJBlTQw8VfpKsRtNsqyjzgfWK1IUNEqmqDCWfuKQYG3mHsq5fBUA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "e11e328234b5eeffca4362f9e364da0f",
+                "streamUrl": "https://ravok.buzz/cdn/hls/71f9d1d75dc5c91d4b5f05a38d0cd2e0/master.m3u8?md5=JkJNS3sO3aLBWGCeDaNJ8A&expires=1792166214",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/71f9d1d75dc5c91d4b5f05a38d0cd2e0/master.m3u8?md5=JkJNS3sO3aLBWGCeDaNJ8A&expires=1792166214",
+                "videoSource": "https://ravok.buzz/cdn/hls/71f9d1d75dc5c91d4b5f05a38d0cd2e0/master.m3u8?md5=JkJNS3sO3aLBWGCeDaNJ8A&expires=1792166214",
+                "link": "https://ravok.buzz/cdn/hls/71f9d1d75dc5c91d4b5f05a38d0cd2e0/master.m3u8?md5=JkJNS3sO3aLBWGCeDaNJ8A&expires=1792166214",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/9HTT2e7uTmttOkY1WLhhSgnYbk_l6VPa1UZJBlTQw8VfpKsRtNsqyjzgfWK1IUNEqmqDCWfuKQYG3mHsq5fBUA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "l2xQIzmj4"
+        }
+      },
+      "fetched_at": "2026-10-16T13:57:04Z"
+    },
+    {
+      "id": "episode/pokemon-concierge-1x8",
+      "episode_id": "episode/pokemon-concierge-1x8",
+      "title": "Pokémon Concierge 1x1",
+      "episode_name": "Pokémon Concierge 1x1",
+      "episode_number": 8,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2039_s1e8.webp",
+      "abyssid": "16654",
+      "abyssId": "16654",
+      "playxid": "2d3bd60a2d899b49827efa1d74476809",
+      "playXID": "2d3bd60a2d899b49827efa1d74476809",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16654",
+        "playXID": "2d3bd60a2d899b49827efa1d74476809",
+        "streamId": "16654",
+        "dubPlayerSrc": "/dub-player/t/16654/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2d3bd60a2d899b49827efa1d74476809&abyssId=16654"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16654",
+        "playXID": "2d3bd60a2d899b49827efa1d74476809",
+        "streamId": "16654",
+        "dubPlayerSrc": "/dub-player/t/16654/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2d3bd60a2d899b49827efa1d74476809&abyssId=16654"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/2d3bd60a2d899b49827efa1d74476809",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/2d3bd60a2d899b49827efa1d74476809"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16654",
+        "abyssId": "16654",
+        "playXID": "2d3bd60a2d899b49827efa1d74476809",
+        "title": "Pokémon Concierge",
+        "season": 1,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "W0K5QAdvZ"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "1XmY1XPMJ"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "QoHK2XZHz"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "vEhZ1hvYc"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "pFFz61cqj"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/80f9f335c408b2d34941269fa04d36aa/master.m3u8?md5=mMLNB-izTcjxltF0l-FwRA&expires=1792166214",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/80f9f335c408b2d34941269fa04d36aa/master.m3u8?md5=mMLNB-izTcjxltF0l-FwRA&expires=1792166214",
+            "videoSource": "https://ravok.buzz/cdn/hls/80f9f335c408b2d34941269fa04d36aa/master.m3u8?md5=mMLNB-izTcjxltF0l-FwRA&expires=1792166214",
+            "videoImage": "https://as-cdn27.top/p/y3TGdlGXkOE5q5lG1RsHcJ_0M_IfVVswLB0Piw0x-prSB38pe-c8hvcapHVa2BIa5of7TzC-8pfNYnIHiRqxRg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "2d3bd60a2d899b49827efa1d74476809",
+                "streamUrl": "https://ravok.buzz/cdn/hls/80f9f335c408b2d34941269fa04d36aa/master.m3u8?md5=mMLNB-izTcjxltF0l-FwRA&expires=1792166214",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/80f9f335c408b2d34941269fa04d36aa/master.m3u8?md5=mMLNB-izTcjxltF0l-FwRA&expires=1792166214",
+                "videoSource": "https://ravok.buzz/cdn/hls/80f9f335c408b2d34941269fa04d36aa/master.m3u8?md5=mMLNB-izTcjxltF0l-FwRA&expires=1792166214",
+                "link": "https://ravok.buzz/cdn/hls/80f9f335c408b2d34941269fa04d36aa/master.m3u8?md5=mMLNB-izTcjxltF0l-FwRA&expires=1792166214",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/y3TGdlGXkOE5q5lG1RsHcJ_0M_IfVVswLB0Piw0x-prSB38pe-c8hvcapHVa2BIa5of7TzC-8pfNYnIHiRqxRg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "W0K5QAdvZ"
+        }
+      },
+      "fetched_at": "2026-10-16T13:57:04Z"
+    },
+    {
+      "id": "episode/pokemon-concierge-1x4",
+      "episode_id": "episode/pokemon-concierge-1x4",
+      "title": "Pokémon Concierge 1x1",
+      "episode_name": "Pokémon Concierge 1x1",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2039_s1e4.webp",
+      "abyssid": "16650",
+      "abyssId": "16650",
+      "playxid": "dff224f2f1f589649628af6869b44c82",
+      "playXID": "dff224f2f1f589649628af6869b44c82",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16650",
+        "playXID": "dff224f2f1f589649628af6869b44c82",
+        "streamId": "16650",
+        "dubPlayerSrc": "/dub-player/t/16650/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=dff224f2f1f589649628af6869b44c82&abyssId=16650"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16650",
+        "playXID": "dff224f2f1f589649628af6869b44c82",
+        "streamId": "16650",
+        "dubPlayerSrc": "/dub-player/t/16650/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=dff224f2f1f589649628af6869b44c82&abyssId=16650"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/dff224f2f1f589649628af6869b44c82",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/dff224f2f1f589649628af6869b44c82"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16650",
+        "abyssId": "16650",
+        "playXID": "dff224f2f1f589649628af6869b44c82",
+        "title": "Pokémon Concierge",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "JyWrPKgbp"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "hd8vDwgDd"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "jb9woUxBi"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "nw8WYZmWV"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "yhoh2kU_X"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/fd9144695252651584d5b45b3761849b/master.m3u8?md5=3x3UnCvgFiZwcyUhtNWX7A&expires=1792166215",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/fd9144695252651584d5b45b3761849b/master.m3u8?md5=3x3UnCvgFiZwcyUhtNWX7A&expires=1792166215",
+            "videoSource": "https://ravok.buzz/cdn/hls/fd9144695252651584d5b45b3761849b/master.m3u8?md5=3x3UnCvgFiZwcyUhtNWX7A&expires=1792166215",
+            "videoImage": "https://as-cdn31.top/p/ulboblPuzuGHoumOZrzPWJ7WJbrZ8KsVrtT3N6YHfaHaLEhn0wl5TLSxuEcFCJxlN_MI9hpTu8y3ggeeVCiRvQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "dff224f2f1f589649628af6869b44c82",
+                "streamUrl": "https://ravok.buzz/cdn/hls/fd9144695252651584d5b45b3761849b/master.m3u8?md5=3x3UnCvgFiZwcyUhtNWX7A&expires=1792166215",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/fd9144695252651584d5b45b3761849b/master.m3u8?md5=3x3UnCvgFiZwcyUhtNWX7A&expires=1792166215",
+                "videoSource": "https://ravok.buzz/cdn/hls/fd9144695252651584d5b45b3761849b/master.m3u8?md5=3x3UnCvgFiZwcyUhtNWX7A&expires=1792166215",
+                "link": "https://ravok.buzz/cdn/hls/fd9144695252651584d5b45b3761849b/master.m3u8?md5=3x3UnCvgFiZwcyUhtNWX7A&expires=1792166215",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/ulboblPuzuGHoumOZrzPWJ7WJbrZ8KsVrtT3N6YHfaHaLEhn0wl5TLSxuEcFCJxlN_MI9hpTu8y3ggeeVCiRvQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "JyWrPKgbp"
+        }
+      },
+      "fetched_at": "2026-10-16T13:57:05Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T13:56:59Z",
+  "updated_at": "2026-10-16T13:57:05Z"
+}

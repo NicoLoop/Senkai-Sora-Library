@@ -1,0 +1,1359 @@
+{
+  "id": "series/summer-time-rendering",
+  "series_name": "Summer Time Rendering",
+  "title": "Summer Time Rendering",
+  "banner": "https://image.tmdb.org/t/p/w1280/p2eZlGwd8OjkWpwD2hSoBiIlHBZ.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/m9e7chRW8Q8Go1Dv00RCUHbMoNe.jpg",
+  "genra": [
+    "Action",
+    "Drama",
+    "Mystery",
+    "Shounen",
+    "Supernatural",
+    "Suspense",
+    "Thriller"
+  ],
+  "genres": [
+    "Action",
+    "Drama",
+    "Mystery",
+    "Shounen",
+    "Supernatural",
+    "Suspense",
+    "Thriller"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Japanese"
+  ],
+  "synopsis": "Upon hearing of Ushio's death, Shinpei returns to his hometown of Wakayama City on Hitogashima and reunites with his childhood friend's family. The funeral goes smoothly, but under the surface something strange is brewing on the island. What mysteries await him on this secluded summer island?",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Summer Time Rendering 1x1",
+          "id": "episode/summer-time-rendering-1x1",
+          "image": "https://img.watchanimeworld.one/image/1456/1/1.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "Summer Time Rendering 1x2",
+          "id": "episode/summer-time-rendering-1x2",
+          "image": "https://img.watchanimeworld.one/image/1456/1/2.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "Summer Time Rendering 1x3",
+          "id": "episode/summer-time-rendering-1x3",
+          "image": "https://img.watchanimeworld.one/image/1456/1/3.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "Summer Time Rendering 1x4",
+          "id": "episode/summer-time-rendering-1x4",
+          "image": "https://img.watchanimeworld.one/image/1456/1/4.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "Summer Time Rendering 1x5",
+          "id": "episode/summer-time-rendering-1x5",
+          "image": "https://img.watchanimeworld.one/image/1456/1/5.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "Summer Time Rendering 1x6",
+          "id": "episode/summer-time-rendering-1x6",
+          "image": "https://img.watchanimeworld.one/image/1456/1/6.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "Summer Time Rendering 1x7",
+          "id": "episode/summer-time-rendering-1x7",
+          "image": "https://img.watchanimeworld.one/image/1456/1/7.webp",
+          "season": 1
+        },
+        {
+          "episode": 8,
+          "title": "Summer Time Rendering 1x8",
+          "id": "episode/summer-time-rendering-1x8",
+          "image": "https://img.watchanimeworld.one/image/1456/1/8.webp",
+          "season": 1
+        },
+        {
+          "episode": 9,
+          "title": "Summer Time Rendering 1x9",
+          "id": "episode/summer-time-rendering-1x9",
+          "image": "https://img.watchanimeworld.one/image/1456/1/9.webp",
+          "season": 1
+        },
+        {
+          "episode": 10,
+          "title": "Summer Time Rendering 1x10",
+          "id": "episode/summer-time-rendering-1x10",
+          "image": "https://img.watchanimeworld.one/image/1456/1/10.webp",
+          "season": 1
+        },
+        {
+          "episode": 11,
+          "title": "Summer Time Rendering 1x11",
+          "id": "episode/summer-time-rendering-1x11",
+          "image": "https://img.watchanimeworld.one/image/1456/1/11.webp",
+          "season": 1
+        },
+        {
+          "episode": 12,
+          "title": "Summer Time Rendering 1x12",
+          "id": "episode/summer-time-rendering-1x12",
+          "image": "https://img.watchanimeworld.one/image/1456/1/12.webp",
+          "season": 1
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/summer-time-rendering-1x1",
+      "episode_id": "episode/summer-time-rendering-1x1",
+      "title": "Summer Time Rendering 1x1",
+      "episode_name": "Summer Time Rendering 1x1",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1456/1/1.webp",
+      "abyssid": "13904",
+      "abyssId": "13904",
+      "playxid": "6101903146e4bbf4999c449d78441606",
+      "playXID": "6101903146e4bbf4999c449d78441606",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13904",
+        "playXID": "6101903146e4bbf4999c449d78441606",
+        "streamId": "13904",
+        "dubPlayerSrc": "/dub-player/t/13904/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6101903146e4bbf4999c449d78441606&abyssId=13904"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13904",
+        "playXID": "6101903146e4bbf4999c449d78441606",
+        "streamId": "13904",
+        "dubPlayerSrc": "/dub-player/t/13904/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6101903146e4bbf4999c449d78441606&abyssId=13904"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/6101903146e4bbf4999c449d78441606",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/6101903146e4bbf4999c449d78441606"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13904",
+        "abyssId": "13904",
+        "playXID": "6101903146e4bbf4999c449d78441606",
+        "title": "Summer Time Rendering",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "Xh4T2eJNw"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "WKZVWFX2u"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "agk5YHg2F"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/6811923f749b1d07a10317d6136df192/master.m3u8?md5=NhRV6M1SWLVC2QOZzojn3A&expires=1792166694",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/6811923f749b1d07a10317d6136df192/master.m3u8?md5=NhRV6M1SWLVC2QOZzojn3A&expires=1792166694",
+            "videoSource": "https://ravok.buzz/cdn/hls/6811923f749b1d07a10317d6136df192/master.m3u8?md5=NhRV6M1SWLVC2QOZzojn3A&expires=1792166694",
+            "videoImage": "https://as-cdn29.top/p/mALTs19diHGKs9BvVoTCiU3G8AYK-TCt4-AQ-7gDA5An0brRbQ5Xc70CFwfmrBMEHL1L9Jz3CClyW3pJ-HUh3g.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "6101903146e4bbf4999c449d78441606",
+                "streamUrl": "https://ravok.buzz/cdn/hls/6811923f749b1d07a10317d6136df192/master.m3u8?md5=NhRV6M1SWLVC2QOZzojn3A&expires=1792166694",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/6811923f749b1d07a10317d6136df192/master.m3u8?md5=NhRV6M1SWLVC2QOZzojn3A&expires=1792166694",
+                "videoSource": "https://ravok.buzz/cdn/hls/6811923f749b1d07a10317d6136df192/master.m3u8?md5=NhRV6M1SWLVC2QOZzojn3A&expires=1792166694",
+                "link": "https://ravok.buzz/cdn/hls/6811923f749b1d07a10317d6136df192/master.m3u8?md5=NhRV6M1SWLVC2QOZzojn3A&expires=1792166694",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/mALTs19diHGKs9BvVoTCiU3G8AYK-TCt4-AQ-7gDA5An0brRbQ5Xc70CFwfmrBMEHL1L9Jz3CClyW3pJ-HUh3g.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "Xh4T2eJNw"
+        }
+      },
+      "fetched_at": "2026-10-16T14:05:04Z"
+    },
+    {
+      "id": "episode/summer-time-rendering-1x4",
+      "episode_id": "episode/summer-time-rendering-1x4",
+      "title": "Summer Time Rendering 1x1",
+      "episode_name": "Summer Time Rendering 1x1",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1456/1/4.webp",
+      "abyssid": "13907",
+      "abyssId": "13907",
+      "playxid": "bb469043f774854635c4d72798291e9f",
+      "playXID": "bb469043f774854635c4d72798291e9f",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13907",
+        "playXID": "bb469043f774854635c4d72798291e9f",
+        "streamId": "13907",
+        "dubPlayerSrc": "/dub-player/t/13907/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=bb469043f774854635c4d72798291e9f&abyssId=13907"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13907",
+        "playXID": "bb469043f774854635c4d72798291e9f",
+        "streamId": "13907",
+        "dubPlayerSrc": "/dub-player/t/13907/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=bb469043f774854635c4d72798291e9f&abyssId=13907"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/bb469043f774854635c4d72798291e9f",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/bb469043f774854635c4d72798291e9f"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13907",
+        "abyssId": "13907",
+        "playXID": "bb469043f774854635c4d72798291e9f",
+        "title": "Summer Time Rendering",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "GP8JbkEsJ"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "vJ8NdR8Nt"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "6Psh9y9DN"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/478e313f245b613095b195f981122b22/master.m3u8?md5=hYOmJp54xd-ElkqwFQlMBQ&expires=1792166694",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/478e313f245b613095b195f981122b22/master.m3u8?md5=hYOmJp54xd-ElkqwFQlMBQ&expires=1792166694",
+            "videoSource": "https://ravok.buzz/cdn/hls/478e313f245b613095b195f981122b22/master.m3u8?md5=hYOmJp54xd-ElkqwFQlMBQ&expires=1792166694",
+            "videoImage": "https://as-cdn29.top/p/6dm3s-F4ZoRNpBWj1HoIN-cBiN8KeEV6TSiue__QZ3OuOvuKffpuGrNjgR4TnG3ubkx_7FbQqphOfxVPU-ML0g.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "bb469043f774854635c4d72798291e9f",
+                "streamUrl": "https://ravok.buzz/cdn/hls/478e313f245b613095b195f981122b22/master.m3u8?md5=hYOmJp54xd-ElkqwFQlMBQ&expires=1792166694",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/478e313f245b613095b195f981122b22/master.m3u8?md5=hYOmJp54xd-ElkqwFQlMBQ&expires=1792166694",
+                "videoSource": "https://ravok.buzz/cdn/hls/478e313f245b613095b195f981122b22/master.m3u8?md5=hYOmJp54xd-ElkqwFQlMBQ&expires=1792166694",
+                "link": "https://ravok.buzz/cdn/hls/478e313f245b613095b195f981122b22/master.m3u8?md5=hYOmJp54xd-ElkqwFQlMBQ&expires=1792166694",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/6dm3s-F4ZoRNpBWj1HoIN-cBiN8KeEV6TSiue__QZ3OuOvuKffpuGrNjgR4TnG3ubkx_7FbQqphOfxVPU-ML0g.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "GP8JbkEsJ"
+        }
+      },
+      "fetched_at": "2026-10-16T14:05:04Z"
+    },
+    {
+      "id": "episode/summer-time-rendering-1x2",
+      "episode_id": "episode/summer-time-rendering-1x2",
+      "title": "Summer Time Rendering 1x1",
+      "episode_name": "Summer Time Rendering 1x1",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1456/1/2.webp",
+      "abyssid": "13905",
+      "abyssId": "13905",
+      "playxid": "3200dca98ebe9021d31c8cd58b5d995e",
+      "playXID": "3200dca98ebe9021d31c8cd58b5d995e",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13905",
+        "playXID": "3200dca98ebe9021d31c8cd58b5d995e",
+        "streamId": "13905",
+        "dubPlayerSrc": "/dub-player/t/13905/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=3200dca98ebe9021d31c8cd58b5d995e&abyssId=13905"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13905",
+        "playXID": "3200dca98ebe9021d31c8cd58b5d995e",
+        "streamId": "13905",
+        "dubPlayerSrc": "/dub-player/t/13905/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=3200dca98ebe9021d31c8cd58b5d995e&abyssId=13905"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/3200dca98ebe9021d31c8cd58b5d995e",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/3200dca98ebe9021d31c8cd58b5d995e"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13905",
+        "abyssId": "13905",
+        "playXID": "3200dca98ebe9021d31c8cd58b5d995e",
+        "title": "Summer Time Rendering",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "lSpbEYezl"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "6v11f1doY"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "9ey0QmA0Z5"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/3788be0b24c6bc5352f21b937c1926d0/master.m3u8?md5=J_Op8ygWA-5KLgA_ejl5KQ&expires=1792166694",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/3788be0b24c6bc5352f21b937c1926d0/master.m3u8?md5=J_Op8ygWA-5KLgA_ejl5KQ&expires=1792166694",
+            "videoSource": "https://ravok.buzz/cdn/hls/3788be0b24c6bc5352f21b937c1926d0/master.m3u8?md5=J_Op8ygWA-5KLgA_ejl5KQ&expires=1792166694",
+            "videoImage": "https://as-cdn27.top/p/rdGrNnJq9KnJdoN4HCQ2aL2N21x3WHDRY-QRk3Qeeq-WG7KND0_pspWNYNht6n_hUdX5gSh48d2ktZ9ktKJMVQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "3200dca98ebe9021d31c8cd58b5d995e",
+                "streamUrl": "https://ravok.buzz/cdn/hls/3788be0b24c6bc5352f21b937c1926d0/master.m3u8?md5=J_Op8ygWA-5KLgA_ejl5KQ&expires=1792166694",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/3788be0b24c6bc5352f21b937c1926d0/master.m3u8?md5=J_Op8ygWA-5KLgA_ejl5KQ&expires=1792166694",
+                "videoSource": "https://ravok.buzz/cdn/hls/3788be0b24c6bc5352f21b937c1926d0/master.m3u8?md5=J_Op8ygWA-5KLgA_ejl5KQ&expires=1792166694",
+                "link": "https://ravok.buzz/cdn/hls/3788be0b24c6bc5352f21b937c1926d0/master.m3u8?md5=J_Op8ygWA-5KLgA_ejl5KQ&expires=1792166694",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/rdGrNnJq9KnJdoN4HCQ2aL2N21x3WHDRY-QRk3Qeeq-WG7KND0_pspWNYNht6n_hUdX5gSh48d2ktZ9ktKJMVQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "lSpbEYezl"
+        }
+      },
+      "fetched_at": "2026-10-16T14:05:04Z"
+    },
+    {
+      "id": "episode/summer-time-rendering-1x5",
+      "episode_id": "episode/summer-time-rendering-1x5",
+      "title": "Summer Time Rendering 1x1",
+      "episode_name": "Summer Time Rendering 1x1",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1456/1/5.webp",
+      "abyssid": "13908",
+      "abyssId": "13908",
+      "playxid": "6c351da15b5e8a743a21ee96a86e25df",
+      "playXID": "6c351da15b5e8a743a21ee96a86e25df",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13908",
+        "playXID": "6c351da15b5e8a743a21ee96a86e25df",
+        "streamId": "13908",
+        "dubPlayerSrc": "/dub-player/t/13908/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6c351da15b5e8a743a21ee96a86e25df&abyssId=13908"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13908",
+        "playXID": "6c351da15b5e8a743a21ee96a86e25df",
+        "streamId": "13908",
+        "dubPlayerSrc": "/dub-player/t/13908/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6c351da15b5e8a743a21ee96a86e25df&abyssId=13908"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/6c351da15b5e8a743a21ee96a86e25df",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/6c351da15b5e8a743a21ee96a86e25df"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13908",
+        "abyssId": "13908",
+        "playXID": "6c351da15b5e8a743a21ee96a86e25df",
+        "title": "Summer Time Rendering",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "h6eKUre2B"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "zjs3epJRq"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "M4jwQz8Ko"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/381e3ce7b55bd8c70bba39801d5224ad/master.m3u8?md5=k_tF_f31eWSpBfAedAUI-Q&expires=1792166695",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/381e3ce7b55bd8c70bba39801d5224ad/master.m3u8?md5=k_tF_f31eWSpBfAedAUI-Q&expires=1792166695",
+            "videoSource": "https://ravok.buzz/cdn/hls/381e3ce7b55bd8c70bba39801d5224ad/master.m3u8?md5=k_tF_f31eWSpBfAedAUI-Q&expires=1792166695",
+            "videoImage": "https://as-cdn31.top/p/CcH4bYm8b9WSHIVj32YBeF9uIdt5QeUA6s22YcijSTyjZQFKw8WnKVzz5UQrguoHJN-97DT6_mh0TF8mKUWrJQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "6c351da15b5e8a743a21ee96a86e25df",
+                "streamUrl": "https://ravok.buzz/cdn/hls/381e3ce7b55bd8c70bba39801d5224ad/master.m3u8?md5=k_tF_f31eWSpBfAedAUI-Q&expires=1792166695",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/381e3ce7b55bd8c70bba39801d5224ad/master.m3u8?md5=k_tF_f31eWSpBfAedAUI-Q&expires=1792166695",
+                "videoSource": "https://ravok.buzz/cdn/hls/381e3ce7b55bd8c70bba39801d5224ad/master.m3u8?md5=k_tF_f31eWSpBfAedAUI-Q&expires=1792166695",
+                "link": "https://ravok.buzz/cdn/hls/381e3ce7b55bd8c70bba39801d5224ad/master.m3u8?md5=k_tF_f31eWSpBfAedAUI-Q&expires=1792166695",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/CcH4bYm8b9WSHIVj32YBeF9uIdt5QeUA6s22YcijSTyjZQFKw8WnKVzz5UQrguoHJN-97DT6_mh0TF8mKUWrJQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "h6eKUre2B"
+        }
+      },
+      "fetched_at": "2026-10-16T14:05:04Z"
+    },
+    {
+      "id": "episode/summer-time-rendering-1x3",
+      "episode_id": "episode/summer-time-rendering-1x3",
+      "title": "Summer Time Rendering 1x1",
+      "episode_name": "Summer Time Rendering 1x1",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1456/1/3.webp",
+      "abyssid": "13906",
+      "abyssId": "13906",
+      "playxid": "9fd7c9fc436c0b439e0b56159eafacc8",
+      "playXID": "9fd7c9fc436c0b439e0b56159eafacc8",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13906",
+        "playXID": "9fd7c9fc436c0b439e0b56159eafacc8",
+        "streamId": "13906",
+        "dubPlayerSrc": "/dub-player/t/13906/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9fd7c9fc436c0b439e0b56159eafacc8&abyssId=13906"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13906",
+        "playXID": "9fd7c9fc436c0b439e0b56159eafacc8",
+        "streamId": "13906",
+        "dubPlayerSrc": "/dub-player/t/13906/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9fd7c9fc436c0b439e0b56159eafacc8&abyssId=13906"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/9fd7c9fc436c0b439e0b56159eafacc8",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/9fd7c9fc436c0b439e0b56159eafacc8"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13906",
+        "abyssId": "13906",
+        "playXID": "9fd7c9fc436c0b439e0b56159eafacc8",
+        "title": "Summer Time Rendering",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "i9j-Bcj6-"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "R7QxPUXh9"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "Bje9ASbR7"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/491972a3edece2f670f507e505002c6b/master.m3u8?md5=yWDif40y9rRiY4XcIDq_3g&expires=1792166695",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/491972a3edece2f670f507e505002c6b/master.m3u8?md5=yWDif40y9rRiY4XcIDq_3g&expires=1792166695",
+            "videoSource": "https://ravok.buzz/cdn/hls/491972a3edece2f670f507e505002c6b/master.m3u8?md5=yWDif40y9rRiY4XcIDq_3g&expires=1792166695",
+            "videoImage": "https://as-cdn28.top/p/-Hq8dP808Qb1qGJLN5eNRqDmuZBLJlf5oWaQZlze7Xbc2GSPgiafxALCHK5ksR2j8FHncXDpZgbZQ-UG9buUEg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "9fd7c9fc436c0b439e0b56159eafacc8",
+                "streamUrl": "https://ravok.buzz/cdn/hls/491972a3edece2f670f507e505002c6b/master.m3u8?md5=yWDif40y9rRiY4XcIDq_3g&expires=1792166695",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/491972a3edece2f670f507e505002c6b/master.m3u8?md5=yWDif40y9rRiY4XcIDq_3g&expires=1792166695",
+                "videoSource": "https://ravok.buzz/cdn/hls/491972a3edece2f670f507e505002c6b/master.m3u8?md5=yWDif40y9rRiY4XcIDq_3g&expires=1792166695",
+                "link": "https://ravok.buzz/cdn/hls/491972a3edece2f670f507e505002c6b/master.m3u8?md5=yWDif40y9rRiY4XcIDq_3g&expires=1792166695",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/-Hq8dP808Qb1qGJLN5eNRqDmuZBLJlf5oWaQZlze7Xbc2GSPgiafxALCHK5ksR2j8FHncXDpZgbZQ-UG9buUEg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "i9j-Bcj6-"
+        }
+      },
+      "fetched_at": "2026-10-16T14:05:05Z"
+    },
+    {
+      "id": "episode/summer-time-rendering-1x6",
+      "episode_id": "episode/summer-time-rendering-1x6",
+      "title": "Summer Time Rendering 1x1",
+      "episode_name": "Summer Time Rendering 1x1",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1456/1/6.webp",
+      "abyssid": "13909",
+      "abyssId": "13909",
+      "playxid": "c688defd45ad6638febd469adb09ddf7",
+      "playXID": "c688defd45ad6638febd469adb09ddf7",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13909",
+        "playXID": "c688defd45ad6638febd469adb09ddf7",
+        "streamId": "13909",
+        "dubPlayerSrc": "/dub-player/t/13909/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c688defd45ad6638febd469adb09ddf7&abyssId=13909"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13909",
+        "playXID": "c688defd45ad6638febd469adb09ddf7",
+        "streamId": "13909",
+        "dubPlayerSrc": "/dub-player/t/13909/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c688defd45ad6638febd469adb09ddf7&abyssId=13909"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/c688defd45ad6638febd469adb09ddf7",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/c688defd45ad6638febd469adb09ddf7"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13909",
+        "abyssId": "13909",
+        "playXID": "c688defd45ad6638febd469adb09ddf7",
+        "title": "Summer Time Rendering",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "NAdomjBi5"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "ITXehRaNK"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "qka9fAEdQ"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/39967fa383a8bd4d7d9f53d32c62a17a/master.m3u8?md5=sqW87XaI8rZuRewSDOMGdg&expires=1792166696",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/39967fa383a8bd4d7d9f53d32c62a17a/master.m3u8?md5=sqW87XaI8rZuRewSDOMGdg&expires=1792166696",
+            "videoSource": "https://ravok.buzz/cdn/hls/39967fa383a8bd4d7d9f53d32c62a17a/master.m3u8?md5=sqW87XaI8rZuRewSDOMGdg&expires=1792166696",
+            "videoImage": "https://as-cdn27.top/p/xVdJxsxwsai-V5zbwqw_DEPAbV1NnSLcTVYnzbelKhwCgeCZQdMK0ky8X9vlBdf5TT2_aZoAsFuSO81dWAyaKw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "c688defd45ad6638febd469adb09ddf7",
+                "streamUrl": "https://ravok.buzz/cdn/hls/39967fa383a8bd4d7d9f53d32c62a17a/master.m3u8?md5=sqW87XaI8rZuRewSDOMGdg&expires=1792166696",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/39967fa383a8bd4d7d9f53d32c62a17a/master.m3u8?md5=sqW87XaI8rZuRewSDOMGdg&expires=1792166696",
+                "videoSource": "https://ravok.buzz/cdn/hls/39967fa383a8bd4d7d9f53d32c62a17a/master.m3u8?md5=sqW87XaI8rZuRewSDOMGdg&expires=1792166696",
+                "link": "https://ravok.buzz/cdn/hls/39967fa383a8bd4d7d9f53d32c62a17a/master.m3u8?md5=sqW87XaI8rZuRewSDOMGdg&expires=1792166696",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/xVdJxsxwsai-V5zbwqw_DEPAbV1NnSLcTVYnzbelKhwCgeCZQdMK0ky8X9vlBdf5TT2_aZoAsFuSO81dWAyaKw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "NAdomjBi5"
+        }
+      },
+      "fetched_at": "2026-10-16T14:05:06Z"
+    },
+    {
+      "id": "episode/summer-time-rendering-1x8",
+      "episode_id": "episode/summer-time-rendering-1x8",
+      "title": "Summer Time Rendering 1x1",
+      "episode_name": "Summer Time Rendering 1x1",
+      "episode_number": 8,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1456/1/8.webp",
+      "abyssid": "13911",
+      "abyssId": "13911",
+      "playxid": "6a7dc0811b68d34739654a26ebdb707f",
+      "playXID": "6a7dc0811b68d34739654a26ebdb707f",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13911",
+        "playXID": "6a7dc0811b68d34739654a26ebdb707f",
+        "streamId": "13911",
+        "dubPlayerSrc": "/dub-player/t/13911/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6a7dc0811b68d34739654a26ebdb707f&abyssId=13911"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13911",
+        "playXID": "6a7dc0811b68d34739654a26ebdb707f",
+        "streamId": "13911",
+        "dubPlayerSrc": "/dub-player/t/13911/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6a7dc0811b68d34739654a26ebdb707f&abyssId=13911"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/6a7dc0811b68d34739654a26ebdb707f",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/6a7dc0811b68d34739654a26ebdb707f"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13911",
+        "abyssId": "13911",
+        "playXID": "6a7dc0811b68d34739654a26ebdb707f",
+        "title": "Summer Time Rendering",
+        "season": 1,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "dhd2KQot_"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "RYfouuwjn"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "DOazjRuaZ"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/e8f4cdb471bb5242ed81ed4386957e0b/master.m3u8?md5=zssQCdkiwTHCxgTops9YEg&expires=1792166697",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/e8f4cdb471bb5242ed81ed4386957e0b/master.m3u8?md5=zssQCdkiwTHCxgTops9YEg&expires=1792166697",
+            "videoSource": "https://ravok.buzz/cdn/hls/e8f4cdb471bb5242ed81ed4386957e0b/master.m3u8?md5=zssQCdkiwTHCxgTops9YEg&expires=1792166697",
+            "videoImage": "https://as-cdn31.top/p/532uPB_nEHdGifI1QlfW4K563eY22ZES7PKBNbLxN_Ni-Za7jx8-5r9_-t1XQdUhe1yQ3XXgVXvYBQj3PrFeUw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "6a7dc0811b68d34739654a26ebdb707f",
+                "streamUrl": "https://ravok.buzz/cdn/hls/e8f4cdb471bb5242ed81ed4386957e0b/master.m3u8?md5=zssQCdkiwTHCxgTops9YEg&expires=1792166697",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/e8f4cdb471bb5242ed81ed4386957e0b/master.m3u8?md5=zssQCdkiwTHCxgTops9YEg&expires=1792166697",
+                "videoSource": "https://ravok.buzz/cdn/hls/e8f4cdb471bb5242ed81ed4386957e0b/master.m3u8?md5=zssQCdkiwTHCxgTops9YEg&expires=1792166697",
+                "link": "https://ravok.buzz/cdn/hls/e8f4cdb471bb5242ed81ed4386957e0b/master.m3u8?md5=zssQCdkiwTHCxgTops9YEg&expires=1792166697",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/532uPB_nEHdGifI1QlfW4K563eY22ZES7PKBNbLxN_Ni-Za7jx8-5r9_-t1XQdUhe1yQ3XXgVXvYBQj3PrFeUw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "dhd2KQot_"
+        }
+      },
+      "fetched_at": "2026-10-16T14:05:06Z"
+    },
+    {
+      "id": "episode/summer-time-rendering-1x7",
+      "episode_id": "episode/summer-time-rendering-1x7",
+      "title": "Summer Time Rendering 1x1",
+      "episode_name": "Summer Time Rendering 1x1",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1456/1/7.webp",
+      "abyssid": "13910",
+      "abyssId": "13910",
+      "playxid": "a422e60213322845b85ae122de53269f",
+      "playXID": "a422e60213322845b85ae122de53269f",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13910",
+        "playXID": "a422e60213322845b85ae122de53269f",
+        "streamId": "13910",
+        "dubPlayerSrc": "/dub-player/t/13910/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a422e60213322845b85ae122de53269f&abyssId=13910"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13910",
+        "playXID": "a422e60213322845b85ae122de53269f",
+        "streamId": "13910",
+        "dubPlayerSrc": "/dub-player/t/13910/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a422e60213322845b85ae122de53269f&abyssId=13910"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/a422e60213322845b85ae122de53269f",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/a422e60213322845b85ae122de53269f"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13910",
+        "abyssId": "13910",
+        "playXID": "a422e60213322845b85ae122de53269f",
+        "title": "Summer Time Rendering",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "q4wzBZkW0"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "SJvqPBIt2"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "Aa_BJYGzH"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/b9a3510639e568243e010bfb8203e850/master.m3u8?md5=DrfxfoKFINSOe5fl5Cnq9A&expires=1792166697",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/b9a3510639e568243e010bfb8203e850/master.m3u8?md5=DrfxfoKFINSOe5fl5Cnq9A&expires=1792166697",
+            "videoSource": "https://ravok.buzz/cdn/hls/b9a3510639e568243e010bfb8203e850/master.m3u8?md5=DrfxfoKFINSOe5fl5Cnq9A&expires=1792166697",
+            "videoImage": "https://as-cdn31.top/p/o6m6wvFeoN4WwB8F-DHAj195M8oTAYvkZfn-b2jiHBUlGiRfsaVMRp3hZNl9oiRdArprx4j29wpOLYSD8VOngw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "a422e60213322845b85ae122de53269f",
+                "streamUrl": "https://ravok.buzz/cdn/hls/b9a3510639e568243e010bfb8203e850/master.m3u8?md5=DrfxfoKFINSOe5fl5Cnq9A&expires=1792166697",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/b9a3510639e568243e010bfb8203e850/master.m3u8?md5=DrfxfoKFINSOe5fl5Cnq9A&expires=1792166697",
+                "videoSource": "https://ravok.buzz/cdn/hls/b9a3510639e568243e010bfb8203e850/master.m3u8?md5=DrfxfoKFINSOe5fl5Cnq9A&expires=1792166697",
+                "link": "https://ravok.buzz/cdn/hls/b9a3510639e568243e010bfb8203e850/master.m3u8?md5=DrfxfoKFINSOe5fl5Cnq9A&expires=1792166697",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/o6m6wvFeoN4WwB8F-DHAj195M8oTAYvkZfn-b2jiHBUlGiRfsaVMRp3hZNl9oiRdArprx4j29wpOLYSD8VOngw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "q4wzBZkW0"
+        }
+      },
+      "fetched_at": "2026-10-16T14:05:06Z"
+    },
+    {
+      "id": "episode/summer-time-rendering-1x9",
+      "episode_id": "episode/summer-time-rendering-1x9",
+      "title": "Summer Time Rendering 1x1",
+      "episode_name": "Summer Time Rendering 1x1",
+      "episode_number": 9,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1456/1/9.webp",
+      "abyssid": "13912",
+      "abyssId": "13912",
+      "playxid": "a2487e8950121487ee653a97ba29d020",
+      "playXID": "a2487e8950121487ee653a97ba29d020",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13912",
+        "playXID": "a2487e8950121487ee653a97ba29d020",
+        "streamId": "13912",
+        "dubPlayerSrc": "/dub-player/t/13912/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a2487e8950121487ee653a97ba29d020&abyssId=13912"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13912",
+        "playXID": "a2487e8950121487ee653a97ba29d020",
+        "streamId": "13912",
+        "dubPlayerSrc": "/dub-player/t/13912/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a2487e8950121487ee653a97ba29d020&abyssId=13912"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/a2487e8950121487ee653a97ba29d020",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/a2487e8950121487ee653a97ba29d020"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13912",
+        "abyssId": "13912",
+        "playXID": "a2487e8950121487ee653a97ba29d020",
+        "title": "Summer Time Rendering",
+        "season": 1,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "X8ZdIGyf4"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "-pwTqTLAa"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "dZE11lBCV"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/0f9045396be53ee9c1bf4f079966fbdc/master.m3u8?md5=kg1_bP7L4wKYhOm-g9D8iw&expires=1792166697",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/0f9045396be53ee9c1bf4f079966fbdc/master.m3u8?md5=kg1_bP7L4wKYhOm-g9D8iw&expires=1792166697",
+            "videoSource": "https://ravok.buzz/cdn/hls/0f9045396be53ee9c1bf4f079966fbdc/master.m3u8?md5=kg1_bP7L4wKYhOm-g9D8iw&expires=1792166697",
+            "videoImage": "https://as-cdn28.top/p/MES58VGwDwmvHSw-B4wi24ZrtgZT7hS06AAl8bP5kqNAbc_j7D3kJdNvdUtom_6Sbp90BDEnskoaLSIUbhgE8A.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "a2487e8950121487ee653a97ba29d020",
+                "streamUrl": "https://ravok.buzz/cdn/hls/0f9045396be53ee9c1bf4f079966fbdc/master.m3u8?md5=kg1_bP7L4wKYhOm-g9D8iw&expires=1792166697",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/0f9045396be53ee9c1bf4f079966fbdc/master.m3u8?md5=kg1_bP7L4wKYhOm-g9D8iw&expires=1792166697",
+                "videoSource": "https://ravok.buzz/cdn/hls/0f9045396be53ee9c1bf4f079966fbdc/master.m3u8?md5=kg1_bP7L4wKYhOm-g9D8iw&expires=1792166697",
+                "link": "https://ravok.buzz/cdn/hls/0f9045396be53ee9c1bf4f079966fbdc/master.m3u8?md5=kg1_bP7L4wKYhOm-g9D8iw&expires=1792166697",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/MES58VGwDwmvHSw-B4wi24ZrtgZT7hS06AAl8bP5kqNAbc_j7D3kJdNvdUtom_6Sbp90BDEnskoaLSIUbhgE8A.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "X8ZdIGyf4"
+        }
+      },
+      "fetched_at": "2026-10-16T14:05:06Z"
+    },
+    {
+      "id": "episode/summer-time-rendering-1x10",
+      "episode_id": "episode/summer-time-rendering-1x10",
+      "title": "Summer Time Rendering 1x1",
+      "episode_name": "Summer Time Rendering 1x1",
+      "episode_number": 10,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1456/1/10.webp",
+      "abyssid": "13913",
+      "abyssId": "13913",
+      "playxid": "fe27f92b1e3f4997567807f38d567a35",
+      "playXID": "fe27f92b1e3f4997567807f38d567a35",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13913",
+        "playXID": "fe27f92b1e3f4997567807f38d567a35",
+        "streamId": "13913",
+        "dubPlayerSrc": "/dub-player/t/13913/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=fe27f92b1e3f4997567807f38d567a35&abyssId=13913"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13913",
+        "playXID": "fe27f92b1e3f4997567807f38d567a35",
+        "streamId": "13913",
+        "dubPlayerSrc": "/dub-player/t/13913/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=fe27f92b1e3f4997567807f38d567a35&abyssId=13913"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/fe27f92b1e3f4997567807f38d567a35",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/fe27f92b1e3f4997567807f38d567a35"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13913",
+        "abyssId": "13913",
+        "playXID": "fe27f92b1e3f4997567807f38d567a35",
+        "title": "Summer Time Rendering",
+        "season": 1,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "KgtXv_mSOT"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "A10znY_pV"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "wZmYaaOy6"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/d5bb67a268b4151efd18cd06d28c55a1/master.m3u8?md5=VZi5lT9AIEDUkbpN6LVMnQ&expires=1792166697",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/d5bb67a268b4151efd18cd06d28c55a1/master.m3u8?md5=VZi5lT9AIEDUkbpN6LVMnQ&expires=1792166697",
+            "videoSource": "https://ravok.buzz/cdn/hls/d5bb67a268b4151efd18cd06d28c55a1/master.m3u8?md5=VZi5lT9AIEDUkbpN6LVMnQ&expires=1792166697",
+            "videoImage": "https://as-cdn28.top/p/xyF6CxK1vpy-N_6p3jSZQ4I76mIJK-tNQzh9P5wQjNvbaPZ3rZDTqBl_iqWsBjMJIeA9ZjgyeVqWRCGICBzyRQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "fe27f92b1e3f4997567807f38d567a35",
+                "streamUrl": "https://ravok.buzz/cdn/hls/d5bb67a268b4151efd18cd06d28c55a1/master.m3u8?md5=VZi5lT9AIEDUkbpN6LVMnQ&expires=1792166697",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/d5bb67a268b4151efd18cd06d28c55a1/master.m3u8?md5=VZi5lT9AIEDUkbpN6LVMnQ&expires=1792166697",
+                "videoSource": "https://ravok.buzz/cdn/hls/d5bb67a268b4151efd18cd06d28c55a1/master.m3u8?md5=VZi5lT9AIEDUkbpN6LVMnQ&expires=1792166697",
+                "link": "https://ravok.buzz/cdn/hls/d5bb67a268b4151efd18cd06d28c55a1/master.m3u8?md5=VZi5lT9AIEDUkbpN6LVMnQ&expires=1792166697",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/xyF6CxK1vpy-N_6p3jSZQ4I76mIJK-tNQzh9P5wQjNvbaPZ3rZDTqBl_iqWsBjMJIeA9ZjgyeVqWRCGICBzyRQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "KgtXv_mSOT"
+        }
+      },
+      "fetched_at": "2026-10-16T14:05:07Z"
+    },
+    {
+      "id": "episode/summer-time-rendering-1x11",
+      "episode_id": "episode/summer-time-rendering-1x11",
+      "title": "Summer Time Rendering 1x1",
+      "episode_name": "Summer Time Rendering 1x1",
+      "episode_number": 11,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1456/1/11.webp",
+      "abyssid": "13914",
+      "abyssId": "13914",
+      "playxid": "fed537780f3f29cc5d5f313bbda423c4",
+      "playXID": "fed537780f3f29cc5d5f313bbda423c4",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13914",
+        "playXID": "fed537780f3f29cc5d5f313bbda423c4",
+        "streamId": "13914",
+        "dubPlayerSrc": "/dub-player/t/13914/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=fed537780f3f29cc5d5f313bbda423c4&abyssId=13914"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13914",
+        "playXID": "fed537780f3f29cc5d5f313bbda423c4",
+        "streamId": "13914",
+        "dubPlayerSrc": "/dub-player/t/13914/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=fed537780f3f29cc5d5f313bbda423c4&abyssId=13914"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/fed537780f3f29cc5d5f313bbda423c4",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/fed537780f3f29cc5d5f313bbda423c4"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13914",
+        "abyssId": "13914",
+        "playXID": "fed537780f3f29cc5d5f313bbda423c4",
+        "title": "Summer Time Rendering",
+        "season": 1,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "NIvh6EyVq"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "gt0EC6IZ2"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "VqJpKvq48"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/4c58a7ce38b17d3bed7e5c4ab92b8db7/master.m3u8?md5=Ag3Ddfq7nLseaZXL4jJ12w&expires=1792166698",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/4c58a7ce38b17d3bed7e5c4ab92b8db7/master.m3u8?md5=Ag3Ddfq7nLseaZXL4jJ12w&expires=1792166698",
+            "videoSource": "https://ravok.buzz/cdn/hls/4c58a7ce38b17d3bed7e5c4ab92b8db7/master.m3u8?md5=Ag3Ddfq7nLseaZXL4jJ12w&expires=1792166698",
+            "videoImage": "https://as-cdn28.top/p/SThetTJ43s4Ky4Z21ZqmNNs2zx07pWwgnx6YvKIODcDLclkuh0ItsCJKZ1DT_HG0s8aYT2sbPa6P-Gg19Xh6Cg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "fed537780f3f29cc5d5f313bbda423c4",
+                "streamUrl": "https://ravok.buzz/cdn/hls/4c58a7ce38b17d3bed7e5c4ab92b8db7/master.m3u8?md5=Ag3Ddfq7nLseaZXL4jJ12w&expires=1792166698",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/4c58a7ce38b17d3bed7e5c4ab92b8db7/master.m3u8?md5=Ag3Ddfq7nLseaZXL4jJ12w&expires=1792166698",
+                "videoSource": "https://ravok.buzz/cdn/hls/4c58a7ce38b17d3bed7e5c4ab92b8db7/master.m3u8?md5=Ag3Ddfq7nLseaZXL4jJ12w&expires=1792166698",
+                "link": "https://ravok.buzz/cdn/hls/4c58a7ce38b17d3bed7e5c4ab92b8db7/master.m3u8?md5=Ag3Ddfq7nLseaZXL4jJ12w&expires=1792166698",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/SThetTJ43s4Ky4Z21ZqmNNs2zx07pWwgnx6YvKIODcDLclkuh0ItsCJKZ1DT_HG0s8aYT2sbPa6P-Gg19Xh6Cg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "NIvh6EyVq"
+        }
+      },
+      "fetched_at": "2026-10-16T14:05:08Z"
+    },
+    {
+      "id": "episode/summer-time-rendering-1x12",
+      "episode_id": "episode/summer-time-rendering-1x12",
+      "title": "Summer Time Rendering 1x1",
+      "episode_name": "Summer Time Rendering 1x1",
+      "episode_number": 12,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1456/1/12.webp",
+      "abyssid": "13915",
+      "abyssId": "13915",
+      "playxid": "86a1fa88adb5c33bd7a68ac2f9f3f96b",
+      "playXID": "86a1fa88adb5c33bd7a68ac2f9f3f96b",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13915",
+        "playXID": "86a1fa88adb5c33bd7a68ac2f9f3f96b",
+        "streamId": "13915",
+        "dubPlayerSrc": "/dub-player/t/13915/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=86a1fa88adb5c33bd7a68ac2f9f3f96b&abyssId=13915"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13915",
+        "playXID": "86a1fa88adb5c33bd7a68ac2f9f3f96b",
+        "streamId": "13915",
+        "dubPlayerSrc": "/dub-player/t/13915/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=86a1fa88adb5c33bd7a68ac2f9f3f96b&abyssId=13915"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/86a1fa88adb5c33bd7a68ac2f9f3f96b",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/86a1fa88adb5c33bd7a68ac2f9f3f96b"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13915",
+        "abyssId": "13915",
+        "playXID": "86a1fa88adb5c33bd7a68ac2f9f3f96b",
+        "title": "Summer Time Rendering",
+        "season": 1,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "ASCI5c7Pq"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "EahiUK7_b"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "T3Td7RTXE"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/bd2065ce0a0298f599ed8e2a6c1fd573/master.m3u8?md5=2nwUdT6pzppa5x90hQVvuw&expires=1792166698",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/bd2065ce0a0298f599ed8e2a6c1fd573/master.m3u8?md5=2nwUdT6pzppa5x90hQVvuw&expires=1792166698",
+            "videoSource": "https://ravok.buzz/cdn/hls/bd2065ce0a0298f599ed8e2a6c1fd573/master.m3u8?md5=2nwUdT6pzppa5x90hQVvuw&expires=1792166698",
+            "videoImage": "https://as-cdn30.top/p/xY-0xXTKZ4LRe0w7H_e2Zx7z-H4u8krW79ZgkdfQE4NzsLPIdm2P8rGh_1ybN4g9tBbXmErHo4NryHp7Ht2TSQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "86a1fa88adb5c33bd7a68ac2f9f3f96b",
+                "streamUrl": "https://ravok.buzz/cdn/hls/bd2065ce0a0298f599ed8e2a6c1fd573/master.m3u8?md5=2nwUdT6pzppa5x90hQVvuw&expires=1792166698",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/bd2065ce0a0298f599ed8e2a6c1fd573/master.m3u8?md5=2nwUdT6pzppa5x90hQVvuw&expires=1792166698",
+                "videoSource": "https://ravok.buzz/cdn/hls/bd2065ce0a0298f599ed8e2a6c1fd573/master.m3u8?md5=2nwUdT6pzppa5x90hQVvuw&expires=1792166698",
+                "link": "https://ravok.buzz/cdn/hls/bd2065ce0a0298f599ed8e2a6c1fd573/master.m3u8?md5=2nwUdT6pzppa5x90hQVvuw&expires=1792166698",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/xY-0xXTKZ4LRe0w7H_e2Zx7z-H4u8krW79ZgkdfQE4NzsLPIdm2P8rGh_1ybN4g9tBbXmErHo4NryHp7Ht2TSQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "ASCI5c7Pq"
+        }
+      },
+      "fetched_at": "2026-10-16T14:05:08Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T14:05:02Z",
+  "updated_at": "2026-10-16T14:05:08Z"
+}

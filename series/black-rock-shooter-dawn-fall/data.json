@@ -1,0 +1,1353 @@
+{
+  "id": "series/black-rock-shooter-dawn-fall",
+  "series_name": "Black Rock Shooter: Dawn Fall",
+  "title": "Black Rock Shooter: Dawn Fall",
+  "banner": "https://image.tmdb.org/t/p/w1280/ck9dE7kwAuxXwswo3OWEeOerRSj.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/4BSM2fT1rOVy0Rcr22lmq4XuXjS.jpg",
+  "genra": [
+    "Action",
+    "Drama",
+    "Fantasy",
+    "Sci-Fi"
+  ],
+  "genres": [
+    "Action",
+    "Drama",
+    "Fantasy",
+    "Sci-Fi"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Japanese"
+  ],
+  "synopsis": "The year is 2062. Earth has been left in ruin after the failure of a labor automation project when the AI called Artemis waged war against humanity. A girl, Empress, awakens in a research lab. As one of the three surviving guardians, she must destroy the Orbital Elevator before Artemis can complete its construction. Failure will result in a machine army overrunning Earth.",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Black Rock Shooter: Dawn Fall 1x1",
+          "id": "episode/black-rock-shooter-dawn-fall-1x1",
+          "image": "https://img.watchanimeworld.one/image/1427/1/1.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "Black Rock Shooter: Dawn Fall 1x2",
+          "id": "episode/black-rock-shooter-dawn-fall-1x2",
+          "image": "https://img.watchanimeworld.one/image/1427/1/2.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "Black Rock Shooter: Dawn Fall 1x3",
+          "id": "episode/black-rock-shooter-dawn-fall-1x3",
+          "image": "https://img.watchanimeworld.one/image/1427/1/3.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "Black Rock Shooter: Dawn Fall 1x4",
+          "id": "episode/black-rock-shooter-dawn-fall-1x4",
+          "image": "https://img.watchanimeworld.one/image/1427/1/4.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "Black Rock Shooter: Dawn Fall 1x5",
+          "id": "episode/black-rock-shooter-dawn-fall-1x5",
+          "image": "https://img.watchanimeworld.one/image/1427/1/5.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "Black Rock Shooter: Dawn Fall 1x6",
+          "id": "episode/black-rock-shooter-dawn-fall-1x6",
+          "image": "https://img.watchanimeworld.one/image/1427/1/6.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "Black Rock Shooter: Dawn Fall 1x7",
+          "id": "episode/black-rock-shooter-dawn-fall-1x7",
+          "image": "https://img.watchanimeworld.one/image/1427/1/7.webp",
+          "season": 1
+        },
+        {
+          "episode": 8,
+          "title": "Black Rock Shooter: Dawn Fall 1x8",
+          "id": "episode/black-rock-shooter-dawn-fall-1x8",
+          "image": "https://img.watchanimeworld.one/image/1427/1/8.webp",
+          "season": 1
+        },
+        {
+          "episode": 9,
+          "title": "Black Rock Shooter: Dawn Fall 1x9",
+          "id": "episode/black-rock-shooter-dawn-fall-1x9",
+          "image": "https://img.watchanimeworld.one/image/1427/1/9.webp",
+          "season": 1
+        },
+        {
+          "episode": 10,
+          "title": "Black Rock Shooter: Dawn Fall 1x10",
+          "id": "episode/black-rock-shooter-dawn-fall-1x10",
+          "image": "https://img.watchanimeworld.one/image/1427/1/10.webp",
+          "season": 1
+        },
+        {
+          "episode": 11,
+          "title": "Black Rock Shooter: Dawn Fall 1x11",
+          "id": "episode/black-rock-shooter-dawn-fall-1x11",
+          "image": "https://img.watchanimeworld.one/image/1427/1/11.webp",
+          "season": 1
+        },
+        {
+          "episode": 12,
+          "title": "Black Rock Shooter: Dawn Fall 1x12",
+          "id": "episode/black-rock-shooter-dawn-fall-1x12",
+          "image": "https://img.watchanimeworld.one/image/1427/1/12.webp",
+          "season": 1
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/black-rock-shooter-dawn-fall-1x2",
+      "episode_id": "episode/black-rock-shooter-dawn-fall-1x2",
+      "title": "Black Rock Shooter: Dawn Fall 1x1",
+      "episode_name": "Black Rock Shooter: Dawn Fall 1x1",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1427/1/2.webp",
+      "abyssid": "13734",
+      "abyssId": "13734",
+      "playxid": "e00944d55e6432ccf20f9fda2492b6fd",
+      "playXID": "e00944d55e6432ccf20f9fda2492b6fd",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13734",
+        "playXID": "e00944d55e6432ccf20f9fda2492b6fd",
+        "streamId": "13734",
+        "dubPlayerSrc": "/dub-player/t/13734/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e00944d55e6432ccf20f9fda2492b6fd&abyssId=13734"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13734",
+        "playXID": "e00944d55e6432ccf20f9fda2492b6fd",
+        "streamId": "13734",
+        "dubPlayerSrc": "/dub-player/t/13734/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e00944d55e6432ccf20f9fda2492b6fd&abyssId=13734"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/e00944d55e6432ccf20f9fda2492b6fd",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/e00944d55e6432ccf20f9fda2492b6fd"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13734",
+        "abyssId": "13734",
+        "playXID": "e00944d55e6432ccf20f9fda2492b6fd",
+        "title": "Black Rock Shooter: Dawn Fall",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "EclSMVcC6"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "c_TYprDWl"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "qtTEe0QhI"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/d1dd4849696106abd271940b9b99ce71/master.m3u8?md5=uQd0TkLJQHD4o-49FsLI3Q&expires=1792166732",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/d1dd4849696106abd271940b9b99ce71/master.m3u8?md5=uQd0TkLJQHD4o-49FsLI3Q&expires=1792166732",
+            "videoSource": "https://ravok.buzz/cdn/hls/d1dd4849696106abd271940b9b99ce71/master.m3u8?md5=uQd0TkLJQHD4o-49FsLI3Q&expires=1792166732",
+            "videoImage": "https://as-cdn30.top/p/Vcg_5XpAKhMYr7p-tU0dZvIWJJfDUdQMI11fMJ-hU6ySyUEVqGZIw_qgWEXUusemwir4zDJINT5X1RfCucYhvA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "e00944d55e6432ccf20f9fda2492b6fd",
+                "streamUrl": "https://ravok.buzz/cdn/hls/d1dd4849696106abd271940b9b99ce71/master.m3u8?md5=uQd0TkLJQHD4o-49FsLI3Q&expires=1792166732",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/d1dd4849696106abd271940b9b99ce71/master.m3u8?md5=uQd0TkLJQHD4o-49FsLI3Q&expires=1792166732",
+                "videoSource": "https://ravok.buzz/cdn/hls/d1dd4849696106abd271940b9b99ce71/master.m3u8?md5=uQd0TkLJQHD4o-49FsLI3Q&expires=1792166732",
+                "link": "https://ravok.buzz/cdn/hls/d1dd4849696106abd271940b9b99ce71/master.m3u8?md5=uQd0TkLJQHD4o-49FsLI3Q&expires=1792166732",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/Vcg_5XpAKhMYr7p-tU0dZvIWJJfDUdQMI11fMJ-hU6ySyUEVqGZIw_qgWEXUusemwir4zDJINT5X1RfCucYhvA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "EclSMVcC6"
+        }
+      },
+      "fetched_at": "2026-10-16T14:05:42Z"
+    },
+    {
+      "id": "episode/black-rock-shooter-dawn-fall-1x1",
+      "episode_id": "episode/black-rock-shooter-dawn-fall-1x1",
+      "title": "Black Rock Shooter: Dawn Fall 1x1",
+      "episode_name": "Black Rock Shooter: Dawn Fall 1x1",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1427/1/1.webp",
+      "abyssid": "13733",
+      "abyssId": "13733",
+      "playxid": "ce653013fadbb2ff27530d3de3790f1b",
+      "playXID": "ce653013fadbb2ff27530d3de3790f1b",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13733",
+        "playXID": "ce653013fadbb2ff27530d3de3790f1b",
+        "streamId": "13733",
+        "dubPlayerSrc": "/dub-player/t/13733/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ce653013fadbb2ff27530d3de3790f1b&abyssId=13733"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13733",
+        "playXID": "ce653013fadbb2ff27530d3de3790f1b",
+        "streamId": "13733",
+        "dubPlayerSrc": "/dub-player/t/13733/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ce653013fadbb2ff27530d3de3790f1b&abyssId=13733"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/ce653013fadbb2ff27530d3de3790f1b",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/ce653013fadbb2ff27530d3de3790f1b"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13733",
+        "abyssId": "13733",
+        "playXID": "ce653013fadbb2ff27530d3de3790f1b",
+        "title": "Black Rock Shooter: Dawn Fall",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "BoN2KXeR-"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "qQ9R_rjqJ"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "EHVKah71Qq"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/610a8175f88e92c96193ffaafa26f0c1/master.m3u8?md5=jZKEoPLf7uPIcRInDgKilQ&expires=1792166732",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/610a8175f88e92c96193ffaafa26f0c1/master.m3u8?md5=jZKEoPLf7uPIcRInDgKilQ&expires=1792166732",
+            "videoSource": "https://ravok.buzz/cdn/hls/610a8175f88e92c96193ffaafa26f0c1/master.m3u8?md5=jZKEoPLf7uPIcRInDgKilQ&expires=1792166732",
+            "videoImage": "https://as-cdn28.top/p/Y2Q8zzEQI4-JCj-uVuz8mENeeKkhoZT4H0Z8O3-3yv5E9RFa08yXJnH6zg4ANyn_J3nnPasdXZ_106q6xg6cdQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "ce653013fadbb2ff27530d3de3790f1b",
+                "streamUrl": "https://ravok.buzz/cdn/hls/610a8175f88e92c96193ffaafa26f0c1/master.m3u8?md5=jZKEoPLf7uPIcRInDgKilQ&expires=1792166732",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/610a8175f88e92c96193ffaafa26f0c1/master.m3u8?md5=jZKEoPLf7uPIcRInDgKilQ&expires=1792166732",
+                "videoSource": "https://ravok.buzz/cdn/hls/610a8175f88e92c96193ffaafa26f0c1/master.m3u8?md5=jZKEoPLf7uPIcRInDgKilQ&expires=1792166732",
+                "link": "https://ravok.buzz/cdn/hls/610a8175f88e92c96193ffaafa26f0c1/master.m3u8?md5=jZKEoPLf7uPIcRInDgKilQ&expires=1792166732",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/Y2Q8zzEQI4-JCj-uVuz8mENeeKkhoZT4H0Z8O3-3yv5E9RFa08yXJnH6zg4ANyn_J3nnPasdXZ_106q6xg6cdQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "BoN2KXeR-"
+        }
+      },
+      "fetched_at": "2026-10-16T14:05:42Z"
+    },
+    {
+      "id": "episode/black-rock-shooter-dawn-fall-1x3",
+      "episode_id": "episode/black-rock-shooter-dawn-fall-1x3",
+      "title": "Black Rock Shooter: Dawn Fall 1x1",
+      "episode_name": "Black Rock Shooter: Dawn Fall 1x1",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1427/1/3.webp",
+      "abyssid": "13735",
+      "abyssId": "13735",
+      "playxid": "4d7e0d72898ae7ea3593eb5ebf20c744",
+      "playXID": "4d7e0d72898ae7ea3593eb5ebf20c744",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13735",
+        "playXID": "4d7e0d72898ae7ea3593eb5ebf20c744",
+        "streamId": "13735",
+        "dubPlayerSrc": "/dub-player/t/13735/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=4d7e0d72898ae7ea3593eb5ebf20c744&abyssId=13735"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13735",
+        "playXID": "4d7e0d72898ae7ea3593eb5ebf20c744",
+        "streamId": "13735",
+        "dubPlayerSrc": "/dub-player/t/13735/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=4d7e0d72898ae7ea3593eb5ebf20c744&abyssId=13735"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/4d7e0d72898ae7ea3593eb5ebf20c744",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/4d7e0d72898ae7ea3593eb5ebf20c744"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13735",
+        "abyssId": "13735",
+        "playXID": "4d7e0d72898ae7ea3593eb5ebf20c744",
+        "title": "Black Rock Shooter: Dawn Fall",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "2zv2IPTY4"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "BwcTcqrPr"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "IzhJTS_xG"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/be0005ab7f97bf0c6bd286ce48bbed17/master.m3u8?md5=1UIvY9m_zHS1iEyx_41Zvw&expires=1792166732",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/be0005ab7f97bf0c6bd286ce48bbed17/master.m3u8?md5=1UIvY9m_zHS1iEyx_41Zvw&expires=1792166732",
+            "videoSource": "https://ravok.buzz/cdn/hls/be0005ab7f97bf0c6bd286ce48bbed17/master.m3u8?md5=1UIvY9m_zHS1iEyx_41Zvw&expires=1792166732",
+            "videoImage": "https://as-cdn29.top/p/5TSrnUmmOWOe7lP40cSjD9AhK3lOfvyWm0JYbiWInaoqMnsGNFcLgTpzaOXK7Kq6qTA_ih8DNnWZ5F1CUyGiJQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "4d7e0d72898ae7ea3593eb5ebf20c744",
+                "streamUrl": "https://ravok.buzz/cdn/hls/be0005ab7f97bf0c6bd286ce48bbed17/master.m3u8?md5=1UIvY9m_zHS1iEyx_41Zvw&expires=1792166732",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/be0005ab7f97bf0c6bd286ce48bbed17/master.m3u8?md5=1UIvY9m_zHS1iEyx_41Zvw&expires=1792166732",
+                "videoSource": "https://ravok.buzz/cdn/hls/be0005ab7f97bf0c6bd286ce48bbed17/master.m3u8?md5=1UIvY9m_zHS1iEyx_41Zvw&expires=1792166732",
+                "link": "https://ravok.buzz/cdn/hls/be0005ab7f97bf0c6bd286ce48bbed17/master.m3u8?md5=1UIvY9m_zHS1iEyx_41Zvw&expires=1792166732",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/5TSrnUmmOWOe7lP40cSjD9AhK3lOfvyWm0JYbiWInaoqMnsGNFcLgTpzaOXK7Kq6qTA_ih8DNnWZ5F1CUyGiJQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "2zv2IPTY4"
+        }
+      },
+      "fetched_at": "2026-10-16T14:05:42Z"
+    },
+    {
+      "id": "episode/black-rock-shooter-dawn-fall-1x4",
+      "episode_id": "episode/black-rock-shooter-dawn-fall-1x4",
+      "title": "Black Rock Shooter: Dawn Fall 1x1",
+      "episode_name": "Black Rock Shooter: Dawn Fall 1x1",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1427/1/4.webp",
+      "abyssid": "13736",
+      "abyssId": "13736",
+      "playxid": "cb4b69eb9bd10da82c15dca2f86a1385",
+      "playXID": "cb4b69eb9bd10da82c15dca2f86a1385",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13736",
+        "playXID": "cb4b69eb9bd10da82c15dca2f86a1385",
+        "streamId": "13736",
+        "dubPlayerSrc": "/dub-player/t/13736/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=cb4b69eb9bd10da82c15dca2f86a1385&abyssId=13736"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13736",
+        "playXID": "cb4b69eb9bd10da82c15dca2f86a1385",
+        "streamId": "13736",
+        "dubPlayerSrc": "/dub-player/t/13736/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=cb4b69eb9bd10da82c15dca2f86a1385&abyssId=13736"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/cb4b69eb9bd10da82c15dca2f86a1385",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/cb4b69eb9bd10da82c15dca2f86a1385"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13736",
+        "abyssId": "13736",
+        "playXID": "cb4b69eb9bd10da82c15dca2f86a1385",
+        "title": "Black Rock Shooter: Dawn Fall",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "euCwbhkvn"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "hxHv9EWJ8"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "ovuFgVAqqF"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/6b989e5b7e45824d2d496043c7343709/master.m3u8?md5=aiXEEBOnJtVwqneUFXc2zg&expires=1792166732",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/6b989e5b7e45824d2d496043c7343709/master.m3u8?md5=aiXEEBOnJtVwqneUFXc2zg&expires=1792166732",
+            "videoSource": "https://ravok.buzz/cdn/hls/6b989e5b7e45824d2d496043c7343709/master.m3u8?md5=aiXEEBOnJtVwqneUFXc2zg&expires=1792166732",
+            "videoImage": "https://as-cdn29.top/p/dHTScfUAPaMHRw7IOH7joUWrPzTbSrEF5kIn9myBtOUnYPMM0v1jhxb0AzZDF_svaYBcgRQq03rdH0BEvAYeBw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "cb4b69eb9bd10da82c15dca2f86a1385",
+                "streamUrl": "https://ravok.buzz/cdn/hls/6b989e5b7e45824d2d496043c7343709/master.m3u8?md5=aiXEEBOnJtVwqneUFXc2zg&expires=1792166732",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/6b989e5b7e45824d2d496043c7343709/master.m3u8?md5=aiXEEBOnJtVwqneUFXc2zg&expires=1792166732",
+                "videoSource": "https://ravok.buzz/cdn/hls/6b989e5b7e45824d2d496043c7343709/master.m3u8?md5=aiXEEBOnJtVwqneUFXc2zg&expires=1792166732",
+                "link": "https://ravok.buzz/cdn/hls/6b989e5b7e45824d2d496043c7343709/master.m3u8?md5=aiXEEBOnJtVwqneUFXc2zg&expires=1792166732",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/dHTScfUAPaMHRw7IOH7joUWrPzTbSrEF5kIn9myBtOUnYPMM0v1jhxb0AzZDF_svaYBcgRQq03rdH0BEvAYeBw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "euCwbhkvn"
+        }
+      },
+      "fetched_at": "2026-10-16T14:05:42Z"
+    },
+    {
+      "id": "episode/black-rock-shooter-dawn-fall-1x5",
+      "episode_id": "episode/black-rock-shooter-dawn-fall-1x5",
+      "title": "Black Rock Shooter: Dawn Fall 1x1",
+      "episode_name": "Black Rock Shooter: Dawn Fall 1x1",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1427/1/5.webp",
+      "abyssid": "13737",
+      "abyssId": "13737",
+      "playxid": "64be20f6dd1dd46adf110cf871e3ed35",
+      "playXID": "64be20f6dd1dd46adf110cf871e3ed35",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13737",
+        "playXID": "64be20f6dd1dd46adf110cf871e3ed35",
+        "streamId": "13737",
+        "dubPlayerSrc": "/dub-player/t/13737/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=64be20f6dd1dd46adf110cf871e3ed35&abyssId=13737"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13737",
+        "playXID": "64be20f6dd1dd46adf110cf871e3ed35",
+        "streamId": "13737",
+        "dubPlayerSrc": "/dub-player/t/13737/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=64be20f6dd1dd46adf110cf871e3ed35&abyssId=13737"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/64be20f6dd1dd46adf110cf871e3ed35",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/64be20f6dd1dd46adf110cf871e3ed35"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13737",
+        "abyssId": "13737",
+        "playXID": "64be20f6dd1dd46adf110cf871e3ed35",
+        "title": "Black Rock Shooter: Dawn Fall",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "n89_djsY3"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "SsN4ogb1s"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "Ur-TKqFJY"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/4a49f2e2c952ded9e1cf347f6974c692/master.m3u8?md5=f_RSRXEefGFQsOrOtoYIUA&expires=1792166732",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/4a49f2e2c952ded9e1cf347f6974c692/master.m3u8?md5=f_RSRXEefGFQsOrOtoYIUA&expires=1792166732",
+            "videoSource": "https://ravok.buzz/cdn/hls/4a49f2e2c952ded9e1cf347f6974c692/master.m3u8?md5=f_RSRXEefGFQsOrOtoYIUA&expires=1792166732",
+            "videoImage": "https://as-cdn30.top/p/_FXdo08JEClRGnFwVkute-2k_i9xk-ow6Xx3qreZ9ylTNkeL_Y8fIVgtLoFe0jFchqGI93dW63Ofp9dv9rngPg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "64be20f6dd1dd46adf110cf871e3ed35",
+                "streamUrl": "https://ravok.buzz/cdn/hls/4a49f2e2c952ded9e1cf347f6974c692/master.m3u8?md5=f_RSRXEefGFQsOrOtoYIUA&expires=1792166732",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/4a49f2e2c952ded9e1cf347f6974c692/master.m3u8?md5=f_RSRXEefGFQsOrOtoYIUA&expires=1792166732",
+                "videoSource": "https://ravok.buzz/cdn/hls/4a49f2e2c952ded9e1cf347f6974c692/master.m3u8?md5=f_RSRXEefGFQsOrOtoYIUA&expires=1792166732",
+                "link": "https://ravok.buzz/cdn/hls/4a49f2e2c952ded9e1cf347f6974c692/master.m3u8?md5=f_RSRXEefGFQsOrOtoYIUA&expires=1792166732",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/_FXdo08JEClRGnFwVkute-2k_i9xk-ow6Xx3qreZ9ylTNkeL_Y8fIVgtLoFe0jFchqGI93dW63Ofp9dv9rngPg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "n89_djsY3"
+        }
+      },
+      "fetched_at": "2026-10-16T14:05:42Z"
+    },
+    {
+      "id": "episode/black-rock-shooter-dawn-fall-1x6",
+      "episode_id": "episode/black-rock-shooter-dawn-fall-1x6",
+      "title": "Black Rock Shooter: Dawn Fall 1x1",
+      "episode_name": "Black Rock Shooter: Dawn Fall 1x1",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1427/1/6.webp",
+      "abyssid": "13738",
+      "abyssId": "13738",
+      "playxid": "b4631d19343f260022ee73087c6e2eab",
+      "playXID": "b4631d19343f260022ee73087c6e2eab",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13738",
+        "playXID": "b4631d19343f260022ee73087c6e2eab",
+        "streamId": "13738",
+        "dubPlayerSrc": "/dub-player/t/13738/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b4631d19343f260022ee73087c6e2eab&abyssId=13738"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13738",
+        "playXID": "b4631d19343f260022ee73087c6e2eab",
+        "streamId": "13738",
+        "dubPlayerSrc": "/dub-player/t/13738/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b4631d19343f260022ee73087c6e2eab&abyssId=13738"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/b4631d19343f260022ee73087c6e2eab",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/b4631d19343f260022ee73087c6e2eab"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13738",
+        "abyssId": "13738",
+        "playXID": "b4631d19343f260022ee73087c6e2eab",
+        "title": "Black Rock Shooter: Dawn Fall",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "DcHUZ2r-M"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "XpQ1AZx88"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "uk2up_gbd"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/f46ea341b6172941da33a544308204c1/master.m3u8?md5=zcY3eaL_Rbqe7QEjUK1FVg&expires=1792166734",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/f46ea341b6172941da33a544308204c1/master.m3u8?md5=zcY3eaL_Rbqe7QEjUK1FVg&expires=1792166734",
+            "videoSource": "https://ravok.buzz/cdn/hls/f46ea341b6172941da33a544308204c1/master.m3u8?md5=zcY3eaL_Rbqe7QEjUK1FVg&expires=1792166734",
+            "videoImage": "https://as-cdn27.top/p/9pC6uz68e85wVfBYhJMaQ34lNuFkxceDab9TBNu0YeFDIHiOJoUSTQ99l_V6dpc02AbQIKqbOsX3Ds3J-yphJA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "b4631d19343f260022ee73087c6e2eab",
+                "streamUrl": "https://ravok.buzz/cdn/hls/f46ea341b6172941da33a544308204c1/master.m3u8?md5=zcY3eaL_Rbqe7QEjUK1FVg&expires=1792166734",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/f46ea341b6172941da33a544308204c1/master.m3u8?md5=zcY3eaL_Rbqe7QEjUK1FVg&expires=1792166734",
+                "videoSource": "https://ravok.buzz/cdn/hls/f46ea341b6172941da33a544308204c1/master.m3u8?md5=zcY3eaL_Rbqe7QEjUK1FVg&expires=1792166734",
+                "link": "https://ravok.buzz/cdn/hls/f46ea341b6172941da33a544308204c1/master.m3u8?md5=zcY3eaL_Rbqe7QEjUK1FVg&expires=1792166734",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/9pC6uz68e85wVfBYhJMaQ34lNuFkxceDab9TBNu0YeFDIHiOJoUSTQ99l_V6dpc02AbQIKqbOsX3Ds3J-yphJA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "DcHUZ2r-M"
+        }
+      },
+      "fetched_at": "2026-10-16T14:05:44Z"
+    },
+    {
+      "id": "episode/black-rock-shooter-dawn-fall-1x7",
+      "episode_id": "episode/black-rock-shooter-dawn-fall-1x7",
+      "title": "Black Rock Shooter: Dawn Fall 1x1",
+      "episode_name": "Black Rock Shooter: Dawn Fall 1x1",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1427/1/7.webp",
+      "abyssid": "13739",
+      "abyssId": "13739",
+      "playxid": "da60b579faebe684e2a2bf90d4e50c82",
+      "playXID": "da60b579faebe684e2a2bf90d4e50c82",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13739",
+        "playXID": "da60b579faebe684e2a2bf90d4e50c82",
+        "streamId": "13739",
+        "dubPlayerSrc": "/dub-player/t/13739/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=da60b579faebe684e2a2bf90d4e50c82&abyssId=13739"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13739",
+        "playXID": "da60b579faebe684e2a2bf90d4e50c82",
+        "streamId": "13739",
+        "dubPlayerSrc": "/dub-player/t/13739/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=da60b579faebe684e2a2bf90d4e50c82&abyssId=13739"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/da60b579faebe684e2a2bf90d4e50c82",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/da60b579faebe684e2a2bf90d4e50c82"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13739",
+        "abyssId": "13739",
+        "playXID": "da60b579faebe684e2a2bf90d4e50c82",
+        "title": "Black Rock Shooter: Dawn Fall",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "foHiBMJnZ"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "p_osDNR8I"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "uNk3YVxMC"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/c0daeafd2a55bacb4537abc982f7831c/master.m3u8?md5=CMxUyS4zaGEUSVULYqfiFg&expires=1792166734",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/c0daeafd2a55bacb4537abc982f7831c/master.m3u8?md5=CMxUyS4zaGEUSVULYqfiFg&expires=1792166734",
+            "videoSource": "https://ravok.buzz/cdn/hls/c0daeafd2a55bacb4537abc982f7831c/master.m3u8?md5=CMxUyS4zaGEUSVULYqfiFg&expires=1792166734",
+            "videoImage": "https://as-cdn31.top/p/JGNCcHYPeWeHdDLZrv8SOBAxTbNKoqZiLvj9linPC34jZeXF1X6TTvjXEwat1tIt1ogNOzLQy280QQXwPjhBqw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "da60b579faebe684e2a2bf90d4e50c82",
+                "streamUrl": "https://ravok.buzz/cdn/hls/c0daeafd2a55bacb4537abc982f7831c/master.m3u8?md5=CMxUyS4zaGEUSVULYqfiFg&expires=1792166734",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/c0daeafd2a55bacb4537abc982f7831c/master.m3u8?md5=CMxUyS4zaGEUSVULYqfiFg&expires=1792166734",
+                "videoSource": "https://ravok.buzz/cdn/hls/c0daeafd2a55bacb4537abc982f7831c/master.m3u8?md5=CMxUyS4zaGEUSVULYqfiFg&expires=1792166734",
+                "link": "https://ravok.buzz/cdn/hls/c0daeafd2a55bacb4537abc982f7831c/master.m3u8?md5=CMxUyS4zaGEUSVULYqfiFg&expires=1792166734",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/JGNCcHYPeWeHdDLZrv8SOBAxTbNKoqZiLvj9linPC34jZeXF1X6TTvjXEwat1tIt1ogNOzLQy280QQXwPjhBqw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "foHiBMJnZ"
+        }
+      },
+      "fetched_at": "2026-10-16T14:05:44Z"
+    },
+    {
+      "id": "episode/black-rock-shooter-dawn-fall-1x8",
+      "episode_id": "episode/black-rock-shooter-dawn-fall-1x8",
+      "title": "Black Rock Shooter: Dawn Fall 1x1",
+      "episode_name": "Black Rock Shooter: Dawn Fall 1x1",
+      "episode_number": 8,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1427/1/8.webp",
+      "abyssid": "13740",
+      "abyssId": "13740",
+      "playxid": "4f53d60aee2ffa2af10e3463da26b784",
+      "playXID": "4f53d60aee2ffa2af10e3463da26b784",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13740",
+        "playXID": "4f53d60aee2ffa2af10e3463da26b784",
+        "streamId": "13740",
+        "dubPlayerSrc": "/dub-player/t/13740/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=4f53d60aee2ffa2af10e3463da26b784&abyssId=13740"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13740",
+        "playXID": "4f53d60aee2ffa2af10e3463da26b784",
+        "streamId": "13740",
+        "dubPlayerSrc": "/dub-player/t/13740/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=4f53d60aee2ffa2af10e3463da26b784&abyssId=13740"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/4f53d60aee2ffa2af10e3463da26b784",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/4f53d60aee2ffa2af10e3463da26b784"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13740",
+        "abyssId": "13740",
+        "playXID": "4f53d60aee2ffa2af10e3463da26b784",
+        "title": "Black Rock Shooter: Dawn Fall",
+        "season": 1,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "77uGJIdLV"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "daHpnQJVYQ"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "xp2VasUGy"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/17c8fd382fa7ad7b9d1df4da78232af7/master.m3u8?md5=R-UU3T2WQAh1t67Ko19I7w&expires=1792166734",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/17c8fd382fa7ad7b9d1df4da78232af7/master.m3u8?md5=R-UU3T2WQAh1t67Ko19I7w&expires=1792166734",
+            "videoSource": "https://ravok.buzz/cdn/hls/17c8fd382fa7ad7b9d1df4da78232af7/master.m3u8?md5=R-UU3T2WQAh1t67Ko19I7w&expires=1792166734",
+            "videoImage": "https://as-cdn30.top/p/C-Ps_nWQPBLxHzSXIdfyH7nnVPqZj2Wx8a8VENSpQFZbIj5HO96TGjbAtzgm5MiyRhNtWOXpJBFXhOLM8_Zxaw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "4f53d60aee2ffa2af10e3463da26b784",
+                "streamUrl": "https://ravok.buzz/cdn/hls/17c8fd382fa7ad7b9d1df4da78232af7/master.m3u8?md5=R-UU3T2WQAh1t67Ko19I7w&expires=1792166734",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/17c8fd382fa7ad7b9d1df4da78232af7/master.m3u8?md5=R-UU3T2WQAh1t67Ko19I7w&expires=1792166734",
+                "videoSource": "https://ravok.buzz/cdn/hls/17c8fd382fa7ad7b9d1df4da78232af7/master.m3u8?md5=R-UU3T2WQAh1t67Ko19I7w&expires=1792166734",
+                "link": "https://ravok.buzz/cdn/hls/17c8fd382fa7ad7b9d1df4da78232af7/master.m3u8?md5=R-UU3T2WQAh1t67Ko19I7w&expires=1792166734",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/C-Ps_nWQPBLxHzSXIdfyH7nnVPqZj2Wx8a8VENSpQFZbIj5HO96TGjbAtzgm5MiyRhNtWOXpJBFXhOLM8_Zxaw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "77uGJIdLV"
+        }
+      },
+      "fetched_at": "2026-10-16T14:05:44Z"
+    },
+    {
+      "id": "episode/black-rock-shooter-dawn-fall-1x9",
+      "episode_id": "episode/black-rock-shooter-dawn-fall-1x9",
+      "title": "Black Rock Shooter: Dawn Fall 1x1",
+      "episode_name": "Black Rock Shooter: Dawn Fall 1x1",
+      "episode_number": 9,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1427/1/9.webp",
+      "abyssid": "13741",
+      "abyssId": "13741",
+      "playxid": "60b2149f6bafd1cc9d505496f09160ba",
+      "playXID": "60b2149f6bafd1cc9d505496f09160ba",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13741",
+        "playXID": "60b2149f6bafd1cc9d505496f09160ba",
+        "streamId": "13741",
+        "dubPlayerSrc": "/dub-player/t/13741/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=60b2149f6bafd1cc9d505496f09160ba&abyssId=13741"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13741",
+        "playXID": "60b2149f6bafd1cc9d505496f09160ba",
+        "streamId": "13741",
+        "dubPlayerSrc": "/dub-player/t/13741/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=60b2149f6bafd1cc9d505496f09160ba&abyssId=13741"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/60b2149f6bafd1cc9d505496f09160ba",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/60b2149f6bafd1cc9d505496f09160ba"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13741",
+        "abyssId": "13741",
+        "playXID": "60b2149f6bafd1cc9d505496f09160ba",
+        "title": "Black Rock Shooter: Dawn Fall",
+        "season": 1,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "K77vDD03w"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "zEmmHDB85"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "PlsDNMb5R"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/04fe8ba6a30a3c2591348cd5fdaf3824/master.m3u8?md5=xSCNV2kV_-mt-eG7KHMTiQ&expires=1792166734",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/04fe8ba6a30a3c2591348cd5fdaf3824/master.m3u8?md5=xSCNV2kV_-mt-eG7KHMTiQ&expires=1792166734",
+            "videoSource": "https://ravok.buzz/cdn/hls/04fe8ba6a30a3c2591348cd5fdaf3824/master.m3u8?md5=xSCNV2kV_-mt-eG7KHMTiQ&expires=1792166734",
+            "videoImage": "https://as-cdn31.top/p/KwH3iyiitbwGbF9iP5XPO8HjcP7snrLHabZrVKVUvcBhny8EXRYpUNsawzPxcfd-2r5P7xKAHT9lojKGWcU42A.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "60b2149f6bafd1cc9d505496f09160ba",
+                "streamUrl": "https://ravok.buzz/cdn/hls/04fe8ba6a30a3c2591348cd5fdaf3824/master.m3u8?md5=xSCNV2kV_-mt-eG7KHMTiQ&expires=1792166734",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/04fe8ba6a30a3c2591348cd5fdaf3824/master.m3u8?md5=xSCNV2kV_-mt-eG7KHMTiQ&expires=1792166734",
+                "videoSource": "https://ravok.buzz/cdn/hls/04fe8ba6a30a3c2591348cd5fdaf3824/master.m3u8?md5=xSCNV2kV_-mt-eG7KHMTiQ&expires=1792166734",
+                "link": "https://ravok.buzz/cdn/hls/04fe8ba6a30a3c2591348cd5fdaf3824/master.m3u8?md5=xSCNV2kV_-mt-eG7KHMTiQ&expires=1792166734",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/KwH3iyiitbwGbF9iP5XPO8HjcP7snrLHabZrVKVUvcBhny8EXRYpUNsawzPxcfd-2r5P7xKAHT9lojKGWcU42A.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "K77vDD03w"
+        }
+      },
+      "fetched_at": "2026-10-16T14:05:44Z"
+    },
+    {
+      "id": "episode/black-rock-shooter-dawn-fall-1x10",
+      "episode_id": "episode/black-rock-shooter-dawn-fall-1x10",
+      "title": "Black Rock Shooter: Dawn Fall 1x1",
+      "episode_name": "Black Rock Shooter: Dawn Fall 1x1",
+      "episode_number": 10,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1427/1/10.webp",
+      "abyssid": "13742",
+      "abyssId": "13742",
+      "playxid": "d2e3e0c2ec10101c41b7f0a11ce93c57",
+      "playXID": "d2e3e0c2ec10101c41b7f0a11ce93c57",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13742",
+        "playXID": "d2e3e0c2ec10101c41b7f0a11ce93c57",
+        "streamId": "13742",
+        "dubPlayerSrc": "/dub-player/t/13742/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d2e3e0c2ec10101c41b7f0a11ce93c57&abyssId=13742"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13742",
+        "playXID": "d2e3e0c2ec10101c41b7f0a11ce93c57",
+        "streamId": "13742",
+        "dubPlayerSrc": "/dub-player/t/13742/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d2e3e0c2ec10101c41b7f0a11ce93c57&abyssId=13742"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/d2e3e0c2ec10101c41b7f0a11ce93c57",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/d2e3e0c2ec10101c41b7f0a11ce93c57"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13742",
+        "abyssId": "13742",
+        "playXID": "d2e3e0c2ec10101c41b7f0a11ce93c57",
+        "title": "Black Rock Shooter: Dawn Fall",
+        "season": 1,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "HgXrlOqIz"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "5tUmZtq--"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "m92L5WybB"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/3f4f3514b98469a42b63c2f89c7993f5/master.m3u8?md5=VGp-l7ZbVIALAB33EzRUjg&expires=1792166734",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/3f4f3514b98469a42b63c2f89c7993f5/master.m3u8?md5=VGp-l7ZbVIALAB33EzRUjg&expires=1792166734",
+            "videoSource": "https://ravok.buzz/cdn/hls/3f4f3514b98469a42b63c2f89c7993f5/master.m3u8?md5=VGp-l7ZbVIALAB33EzRUjg&expires=1792166734",
+            "videoImage": "https://as-cdn29.top/p/imoO1sB_ahdYz1htW2M1NWD699Ubru0t-qoG7nn-orXH0Ohhgo7bxFpU_x8nfco6J6a-T04575Qy26hYFx9_zw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "d2e3e0c2ec10101c41b7f0a11ce93c57",
+                "streamUrl": "https://ravok.buzz/cdn/hls/3f4f3514b98469a42b63c2f89c7993f5/master.m3u8?md5=VGp-l7ZbVIALAB33EzRUjg&expires=1792166734",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/3f4f3514b98469a42b63c2f89c7993f5/master.m3u8?md5=VGp-l7ZbVIALAB33EzRUjg&expires=1792166734",
+                "videoSource": "https://ravok.buzz/cdn/hls/3f4f3514b98469a42b63c2f89c7993f5/master.m3u8?md5=VGp-l7ZbVIALAB33EzRUjg&expires=1792166734",
+                "link": "https://ravok.buzz/cdn/hls/3f4f3514b98469a42b63c2f89c7993f5/master.m3u8?md5=VGp-l7ZbVIALAB33EzRUjg&expires=1792166734",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/imoO1sB_ahdYz1htW2M1NWD699Ubru0t-qoG7nn-orXH0Ohhgo7bxFpU_x8nfco6J6a-T04575Qy26hYFx9_zw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "HgXrlOqIz"
+        }
+      },
+      "fetched_at": "2026-10-16T14:05:44Z"
+    },
+    {
+      "id": "episode/black-rock-shooter-dawn-fall-1x11",
+      "episode_id": "episode/black-rock-shooter-dawn-fall-1x11",
+      "title": "Black Rock Shooter: Dawn Fall 1x1",
+      "episode_name": "Black Rock Shooter: Dawn Fall 1x1",
+      "episode_number": 11,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1427/1/11.webp",
+      "abyssid": "13743",
+      "abyssId": "13743",
+      "playxid": "cf9a063bb9be814a77a491171cca236d",
+      "playXID": "cf9a063bb9be814a77a491171cca236d",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13743",
+        "playXID": "cf9a063bb9be814a77a491171cca236d",
+        "streamId": "13743",
+        "dubPlayerSrc": "/dub-player/t/13743/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=cf9a063bb9be814a77a491171cca236d&abyssId=13743"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13743",
+        "playXID": "cf9a063bb9be814a77a491171cca236d",
+        "streamId": "13743",
+        "dubPlayerSrc": "/dub-player/t/13743/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=cf9a063bb9be814a77a491171cca236d&abyssId=13743"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/cf9a063bb9be814a77a491171cca236d",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/cf9a063bb9be814a77a491171cca236d"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13743",
+        "abyssId": "13743",
+        "playXID": "cf9a063bb9be814a77a491171cca236d",
+        "title": "Black Rock Shooter: Dawn Fall",
+        "season": 1,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "HSk-2QMVa"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "L8AlRvEu5"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "vfGB6Kn8_"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/234bb03832d49e111147af7ab4768f03/master.m3u8?md5=S0YrybbAg1LxGFUM6IeihA&expires=1792166736",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/234bb03832d49e111147af7ab4768f03/master.m3u8?md5=S0YrybbAg1LxGFUM6IeihA&expires=1792166736",
+            "videoSource": "https://ravok.buzz/cdn/hls/234bb03832d49e111147af7ab4768f03/master.m3u8?md5=S0YrybbAg1LxGFUM6IeihA&expires=1792166736",
+            "videoImage": "https://as-cdn31.top/p/LjAPmjtQO0h1TMpEYyvdu7L9Fp6CF9ZIOHGBhQK-FHvDFrlm8QlarxBlCg8sF3WNpWX1vJ1L0yiId8aGEeAnAg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "cf9a063bb9be814a77a491171cca236d",
+                "streamUrl": "https://ravok.buzz/cdn/hls/234bb03832d49e111147af7ab4768f03/master.m3u8?md5=S0YrybbAg1LxGFUM6IeihA&expires=1792166736",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/234bb03832d49e111147af7ab4768f03/master.m3u8?md5=S0YrybbAg1LxGFUM6IeihA&expires=1792166736",
+                "videoSource": "https://ravok.buzz/cdn/hls/234bb03832d49e111147af7ab4768f03/master.m3u8?md5=S0YrybbAg1LxGFUM6IeihA&expires=1792166736",
+                "link": "https://ravok.buzz/cdn/hls/234bb03832d49e111147af7ab4768f03/master.m3u8?md5=S0YrybbAg1LxGFUM6IeihA&expires=1792166736",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/LjAPmjtQO0h1TMpEYyvdu7L9Fp6CF9ZIOHGBhQK-FHvDFrlm8QlarxBlCg8sF3WNpWX1vJ1L0yiId8aGEeAnAg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "HSk-2QMVa"
+        }
+      },
+      "fetched_at": "2026-10-16T14:05:46Z"
+    },
+    {
+      "id": "episode/black-rock-shooter-dawn-fall-1x12",
+      "episode_id": "episode/black-rock-shooter-dawn-fall-1x12",
+      "title": "Black Rock Shooter: Dawn Fall 1x1",
+      "episode_name": "Black Rock Shooter: Dawn Fall 1x1",
+      "episode_number": 12,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1427/1/12.webp",
+      "abyssid": "13744",
+      "abyssId": "13744",
+      "playxid": "1fa6269f58898f0e809575c9a48747ef",
+      "playXID": "1fa6269f58898f0e809575c9a48747ef",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13744",
+        "playXID": "1fa6269f58898f0e809575c9a48747ef",
+        "streamId": "13744",
+        "dubPlayerSrc": "/dub-player/t/13744/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=1fa6269f58898f0e809575c9a48747ef&abyssId=13744"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13744",
+        "playXID": "1fa6269f58898f0e809575c9a48747ef",
+        "streamId": "13744",
+        "dubPlayerSrc": "/dub-player/t/13744/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=1fa6269f58898f0e809575c9a48747ef&abyssId=13744"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/1fa6269f58898f0e809575c9a48747ef",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/1fa6269f58898f0e809575c9a48747ef"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13744",
+        "abyssId": "13744",
+        "playXID": "1fa6269f58898f0e809575c9a48747ef",
+        "title": "Black Rock Shooter: Dawn Fall",
+        "season": 1,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "wIPboa2fa"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "RDpEaqGXJ"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "4VdrAe43D"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/b8f82d35bb333828351db58ee1b5dde7/master.m3u8?md5=xCdMS2scNBFpmkQTwOIAOw&expires=1792166736",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/b8f82d35bb333828351db58ee1b5dde7/master.m3u8?md5=xCdMS2scNBFpmkQTwOIAOw&expires=1792166736",
+            "videoSource": "https://ravok.buzz/cdn/hls/b8f82d35bb333828351db58ee1b5dde7/master.m3u8?md5=xCdMS2scNBFpmkQTwOIAOw&expires=1792166736",
+            "videoImage": "https://as-cdn30.top/p/we-JNKUQwkU0wVKgtOC5RtXoSknQol6h3cZXIjNkerUwjOfHClp695lEyZeQidgKKmWI8HABzu4oIdRtX4bmyA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "1fa6269f58898f0e809575c9a48747ef",
+                "streamUrl": "https://ravok.buzz/cdn/hls/b8f82d35bb333828351db58ee1b5dde7/master.m3u8?md5=xCdMS2scNBFpmkQTwOIAOw&expires=1792166736",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/b8f82d35bb333828351db58ee1b5dde7/master.m3u8?md5=xCdMS2scNBFpmkQTwOIAOw&expires=1792166736",
+                "videoSource": "https://ravok.buzz/cdn/hls/b8f82d35bb333828351db58ee1b5dde7/master.m3u8?md5=xCdMS2scNBFpmkQTwOIAOw&expires=1792166736",
+                "link": "https://ravok.buzz/cdn/hls/b8f82d35bb333828351db58ee1b5dde7/master.m3u8?md5=xCdMS2scNBFpmkQTwOIAOw&expires=1792166736",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/we-JNKUQwkU0wVKgtOC5RtXoSknQol6h3cZXIjNkerUwjOfHClp695lEyZeQidgKKmWI8HABzu4oIdRtX4bmyA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "wIPboa2fa"
+        }
+      },
+      "fetched_at": "2026-10-16T14:05:46Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T14:05:40Z",
+  "updated_at": "2026-10-16T14:05:46Z"
+}

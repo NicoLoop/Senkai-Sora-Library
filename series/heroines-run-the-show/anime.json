@@ -1,0 +1,1495 @@
+{
+  "id": "series/heroines-run-the-show",
+  "series_name": "Heroines Run the Show",
+  "title": "Heroines Run the Show",
+  "banner": "https://image.tmdb.org/t/p/w1280/oPyLzaWOFsbteeOmlBt1b36jsT.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/A5OlJA472GSc2S05bzAMaTw1o9w.jpg",
+  "genra": [
+    "Comedy",
+    "Drama",
+    "Musical",
+    "School",
+    "Slice of Life"
+  ],
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Musical",
+    "School",
+    "Slice of Life"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Japanese",
+    "Tamil",
+    "Telugu"
+  ],
+  "synopsis": "What would you do to pursue your passion? For Hiyori Suzumi, it’s leaving her simple rural hometown for the bustling city of Tokyo to join Sakuragaoka High School’s track team. Between being a manager-in-training for two cutthroat schoolboy idols, track, and friends, Hiyori shows no signs of slowing down.",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Heroines Run the Show 1x1",
+          "id": "episode/heroines-run-the-show-1x1",
+          "image": "https://img.watchanimeworld.one/img/thumb_2144_s1e1.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "Heroines Run the Show 1x2",
+          "id": "episode/heroines-run-the-show-1x2",
+          "image": "https://img.watchanimeworld.one/img/thumb_2144_s1e2.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "Heroines Run the Show 1x3",
+          "id": "episode/heroines-run-the-show-1x3",
+          "image": "https://img.watchanimeworld.one/img/thumb_2144_s1e3.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "Heroines Run the Show 1x4",
+          "id": "episode/heroines-run-the-show-1x4",
+          "image": "https://img.watchanimeworld.one/img/thumb_2144_s1e4.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "Heroines Run the Show 1x5",
+          "id": "episode/heroines-run-the-show-1x5",
+          "image": "https://img.watchanimeworld.one/img/thumb_2144_s1e5.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "Heroines Run the Show 1x6",
+          "id": "episode/heroines-run-the-show-1x6",
+          "image": "https://img.watchanimeworld.one/img/thumb_2144_s1e6.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "Heroines Run the Show 1x7",
+          "id": "episode/heroines-run-the-show-1x7",
+          "image": "https://img.watchanimeworld.one/img/thumb_2144_s1e7.webp",
+          "season": 1
+        },
+        {
+          "episode": 8,
+          "title": "Heroines Run the Show 1x8",
+          "id": "episode/heroines-run-the-show-1x8",
+          "image": "https://img.watchanimeworld.one/img/thumb_2144_s1e8.webp",
+          "season": 1
+        },
+        {
+          "episode": 9,
+          "title": "Heroines Run the Show 1x9",
+          "id": "episode/heroines-run-the-show-1x9",
+          "image": "https://img.watchanimeworld.one/img/thumb_2144_s1e9.webp",
+          "season": 1
+        },
+        {
+          "episode": 10,
+          "title": "Heroines Run the Show 1x10",
+          "id": "episode/heroines-run-the-show-1x10",
+          "image": "https://img.watchanimeworld.one/img/thumb_2144_s1e10.webp",
+          "season": 1
+        },
+        {
+          "episode": 11,
+          "title": "Heroines Run the Show 1x11",
+          "id": "episode/heroines-run-the-show-1x11",
+          "image": "https://img.watchanimeworld.one/img/thumb_2144_s1e11.webp",
+          "season": 1
+        },
+        {
+          "episode": 12,
+          "title": "Heroines Run the Show 1x12",
+          "id": "episode/heroines-run-the-show-1x12",
+          "image": "https://img.watchanimeworld.one/img/thumb_2144_s1e12.webp",
+          "season": 1
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/heroines-run-the-show-1x3",
+      "episode_id": "episode/heroines-run-the-show-1x3",
+      "title": "Heroines Run the Show 1x1",
+      "episode_name": "Heroines Run the Show 1x1",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2144_s1e3.webp",
+      "abyssid": "17071",
+      "abyssId": "17071",
+      "playxid": "c112115f1c81e4f4b74a738aef045c30",
+      "playXID": "c112115f1c81e4f4b74a738aef045c30",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17071",
+        "playXID": "c112115f1c81e4f4b74a738aef045c30",
+        "streamId": "17071",
+        "dubPlayerSrc": "/dub-player/t/17071/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c112115f1c81e4f4b74a738aef045c30&abyssId=17071"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17071",
+        "playXID": "c112115f1c81e4f4b74a738aef045c30",
+        "streamId": "17071",
+        "dubPlayerSrc": "/dub-player/t/17071/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c112115f1c81e4f4b74a738aef045c30&abyssId=17071"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/c112115f1c81e4f4b74a738aef045c30",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/c112115f1c81e4f4b74a738aef045c30"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17071",
+        "abyssId": "17071",
+        "playXID": "c112115f1c81e4f4b74a738aef045c30",
+        "title": "Heroines Run the Show",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "U3svBnQec"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "BouTV88jl"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "orEmB7_50"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "yGHWqZUMv"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "tvCI3mpnA"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/50a5cfeb734fab10cffe8682d99a516e/master.m3u8?md5=xCdvPWLCQAUgPe7-43VDhg&expires=1792166139",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/50a5cfeb734fab10cffe8682d99a516e/master.m3u8?md5=xCdvPWLCQAUgPe7-43VDhg&expires=1792166139",
+            "videoSource": "https://ravok.buzz/cdn/hls/50a5cfeb734fab10cffe8682d99a516e/master.m3u8?md5=xCdvPWLCQAUgPe7-43VDhg&expires=1792166139",
+            "videoImage": "https://as-cdn29.top/p/LNQQ6z7uWYgR8hDnQPQCLyjwFJT4ikIjKoyzJndl-Ls58ggo6YFk3hYR4fOF-rWVyEYjLV3Fw9jEGoiwCst5SQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "c112115f1c81e4f4b74a738aef045c30",
+                "streamUrl": "https://ravok.buzz/cdn/hls/50a5cfeb734fab10cffe8682d99a516e/master.m3u8?md5=xCdvPWLCQAUgPe7-43VDhg&expires=1792166139",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/50a5cfeb734fab10cffe8682d99a516e/master.m3u8?md5=xCdvPWLCQAUgPe7-43VDhg&expires=1792166139",
+                "videoSource": "https://ravok.buzz/cdn/hls/50a5cfeb734fab10cffe8682d99a516e/master.m3u8?md5=xCdvPWLCQAUgPe7-43VDhg&expires=1792166139",
+                "link": "https://ravok.buzz/cdn/hls/50a5cfeb734fab10cffe8682d99a516e/master.m3u8?md5=xCdvPWLCQAUgPe7-43VDhg&expires=1792166139",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/LNQQ6z7uWYgR8hDnQPQCLyjwFJT4ikIjKoyzJndl-Ls58ggo6YFk3hYR4fOF-rWVyEYjLV3Fw9jEGoiwCst5SQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "U3svBnQec"
+        }
+      },
+      "fetched_at": "2026-10-16T13:55:49Z"
+    },
+    {
+      "id": "episode/heroines-run-the-show-1x2",
+      "episode_id": "episode/heroines-run-the-show-1x2",
+      "title": "Heroines Run the Show 1x1",
+      "episode_name": "Heroines Run the Show 1x1",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2144_s1e2.webp",
+      "abyssid": "17070",
+      "abyssId": "17070",
+      "playxid": "f691ead601631590e70a47def3ad8f3a",
+      "playXID": "f691ead601631590e70a47def3ad8f3a",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17070",
+        "playXID": "f691ead601631590e70a47def3ad8f3a",
+        "streamId": "17070",
+        "dubPlayerSrc": "/dub-player/t/17070/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f691ead601631590e70a47def3ad8f3a&abyssId=17070"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17070",
+        "playXID": "f691ead601631590e70a47def3ad8f3a",
+        "streamId": "17070",
+        "dubPlayerSrc": "/dub-player/t/17070/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f691ead601631590e70a47def3ad8f3a&abyssId=17070"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/f691ead601631590e70a47def3ad8f3a",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/f691ead601631590e70a47def3ad8f3a"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17070",
+        "abyssId": "17070",
+        "playXID": "f691ead601631590e70a47def3ad8f3a",
+        "title": "Heroines Run the Show",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "5svMgLEiI"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "JbluOzBoV"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "4OO-_pWOg"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "UvTNCpGEM"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "gKwPSFx0C"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/517e17d1d02466b428f94e58d963bd98/master.m3u8?md5=a1dWO0hSRFMnD8hhc3viWw&expires=1792166139",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/517e17d1d02466b428f94e58d963bd98/master.m3u8?md5=a1dWO0hSRFMnD8hhc3viWw&expires=1792166139",
+            "videoSource": "https://ravok.buzz/cdn/hls/517e17d1d02466b428f94e58d963bd98/master.m3u8?md5=a1dWO0hSRFMnD8hhc3viWw&expires=1792166139",
+            "videoImage": "https://as-cdn28.top/p/DiwVIY0oyAnMyM7iUsrVfuuVP6of8MmT7pEwxKZoUslOod1BpYg_Z3WZ2oGKG99i016L4-oBP7FsY-4DfdsnuQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "f691ead601631590e70a47def3ad8f3a",
+                "streamUrl": "https://ravok.buzz/cdn/hls/517e17d1d02466b428f94e58d963bd98/master.m3u8?md5=a1dWO0hSRFMnD8hhc3viWw&expires=1792166139",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/517e17d1d02466b428f94e58d963bd98/master.m3u8?md5=a1dWO0hSRFMnD8hhc3viWw&expires=1792166139",
+                "videoSource": "https://ravok.buzz/cdn/hls/517e17d1d02466b428f94e58d963bd98/master.m3u8?md5=a1dWO0hSRFMnD8hhc3viWw&expires=1792166139",
+                "link": "https://ravok.buzz/cdn/hls/517e17d1d02466b428f94e58d963bd98/master.m3u8?md5=a1dWO0hSRFMnD8hhc3viWw&expires=1792166139",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/DiwVIY0oyAnMyM7iUsrVfuuVP6of8MmT7pEwxKZoUslOod1BpYg_Z3WZ2oGKG99i016L4-oBP7FsY-4DfdsnuQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "5svMgLEiI"
+        }
+      },
+      "fetched_at": "2026-10-16T13:55:49Z"
+    },
+    {
+      "id": "episode/heroines-run-the-show-1x4",
+      "episode_id": "episode/heroines-run-the-show-1x4",
+      "title": "Heroines Run the Show 1x1",
+      "episode_name": "Heroines Run the Show 1x1",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2144_s1e4.webp",
+      "abyssid": "17072",
+      "abyssId": "17072",
+      "playxid": "29408e40f29b755231e852fb76b71b4b",
+      "playXID": "29408e40f29b755231e852fb76b71b4b",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17072",
+        "playXID": "29408e40f29b755231e852fb76b71b4b",
+        "streamId": "17072",
+        "dubPlayerSrc": "/dub-player/t/17072/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=29408e40f29b755231e852fb76b71b4b&abyssId=17072"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17072",
+        "playXID": "29408e40f29b755231e852fb76b71b4b",
+        "streamId": "17072",
+        "dubPlayerSrc": "/dub-player/t/17072/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=29408e40f29b755231e852fb76b71b4b&abyssId=17072"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/29408e40f29b755231e852fb76b71b4b",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/29408e40f29b755231e852fb76b71b4b"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17072",
+        "abyssId": "17072",
+        "playXID": "29408e40f29b755231e852fb76b71b4b",
+        "title": "Heroines Run the Show",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "BNFuMHNrf"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "t1uXXooSq"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "qMjZIp8aL"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "KpuNQ7Q9E"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "FIQQhtEBG"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/8616e9c739948ca2da4ffb4f814f9a1c/master.m3u8?md5=pwyo_Yd3niiR6SELP3TZCg&expires=1792166139",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/8616e9c739948ca2da4ffb4f814f9a1c/master.m3u8?md5=pwyo_Yd3niiR6SELP3TZCg&expires=1792166139",
+            "videoSource": "https://ravok.buzz/cdn/hls/8616e9c739948ca2da4ffb4f814f9a1c/master.m3u8?md5=pwyo_Yd3niiR6SELP3TZCg&expires=1792166139",
+            "videoImage": "https://as-cdn27.top/p/hlt8iEFGdN4dh29_IGloccYLS_bxusERSDmGor4SDRWpWTVfj0zhCRBoS6olfj9nVhLeIt4U6Lt7nrQqf7rsSA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "29408e40f29b755231e852fb76b71b4b",
+                "streamUrl": "https://ravok.buzz/cdn/hls/8616e9c739948ca2da4ffb4f814f9a1c/master.m3u8?md5=pwyo_Yd3niiR6SELP3TZCg&expires=1792166139",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/8616e9c739948ca2da4ffb4f814f9a1c/master.m3u8?md5=pwyo_Yd3niiR6SELP3TZCg&expires=1792166139",
+                "videoSource": "https://ravok.buzz/cdn/hls/8616e9c739948ca2da4ffb4f814f9a1c/master.m3u8?md5=pwyo_Yd3niiR6SELP3TZCg&expires=1792166139",
+                "link": "https://ravok.buzz/cdn/hls/8616e9c739948ca2da4ffb4f814f9a1c/master.m3u8?md5=pwyo_Yd3niiR6SELP3TZCg&expires=1792166139",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/hlt8iEFGdN4dh29_IGloccYLS_bxusERSDmGor4SDRWpWTVfj0zhCRBoS6olfj9nVhLeIt4U6Lt7nrQqf7rsSA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "BNFuMHNrf"
+        }
+      },
+      "fetched_at": "2026-10-16T13:55:49Z"
+    },
+    {
+      "id": "episode/heroines-run-the-show-1x5",
+      "episode_id": "episode/heroines-run-the-show-1x5",
+      "title": "Heroines Run the Show 1x1",
+      "episode_name": "Heroines Run the Show 1x1",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2144_s1e5.webp",
+      "abyssid": "17073",
+      "abyssId": "17073",
+      "playxid": "82aa639f39ebbc1bb4a396eeef74ca6b",
+      "playXID": "82aa639f39ebbc1bb4a396eeef74ca6b",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17073",
+        "playXID": "82aa639f39ebbc1bb4a396eeef74ca6b",
+        "streamId": "17073",
+        "dubPlayerSrc": "/dub-player/t/17073/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=82aa639f39ebbc1bb4a396eeef74ca6b&abyssId=17073"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17073",
+        "playXID": "82aa639f39ebbc1bb4a396eeef74ca6b",
+        "streamId": "17073",
+        "dubPlayerSrc": "/dub-player/t/17073/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=82aa639f39ebbc1bb4a396eeef74ca6b&abyssId=17073"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/82aa639f39ebbc1bb4a396eeef74ca6b",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/82aa639f39ebbc1bb4a396eeef74ca6b"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17073",
+        "abyssId": "17073",
+        "playXID": "82aa639f39ebbc1bb4a396eeef74ca6b",
+        "title": "Heroines Run the Show",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "tG33-nnkv"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "NJ3ZKgmzH"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "PgJeXf71-"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "60RYst9WA"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "mvN1NQRNN"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/478407e180abb9fa30c0409b046d1334/master.m3u8?md5=v9tvznCPPydNs9rexGUHEQ&expires=1792166139",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/478407e180abb9fa30c0409b046d1334/master.m3u8?md5=v9tvznCPPydNs9rexGUHEQ&expires=1792166139",
+            "videoSource": "https://ravok.buzz/cdn/hls/478407e180abb9fa30c0409b046d1334/master.m3u8?md5=v9tvznCPPydNs9rexGUHEQ&expires=1792166139",
+            "videoImage": "https://as-cdn30.top/p/Cue4N_nAWVIeA0EhReNq4rOS0Dkpa3s9juEyHHgSAzKwbQov5qb1wEzeX7ISqUfTPzghnbbx_SVEmEkqNz5QdA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "82aa639f39ebbc1bb4a396eeef74ca6b",
+                "streamUrl": "https://ravok.buzz/cdn/hls/478407e180abb9fa30c0409b046d1334/master.m3u8?md5=v9tvznCPPydNs9rexGUHEQ&expires=1792166139",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/478407e180abb9fa30c0409b046d1334/master.m3u8?md5=v9tvznCPPydNs9rexGUHEQ&expires=1792166139",
+                "videoSource": "https://ravok.buzz/cdn/hls/478407e180abb9fa30c0409b046d1334/master.m3u8?md5=v9tvznCPPydNs9rexGUHEQ&expires=1792166139",
+                "link": "https://ravok.buzz/cdn/hls/478407e180abb9fa30c0409b046d1334/master.m3u8?md5=v9tvznCPPydNs9rexGUHEQ&expires=1792166139",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/Cue4N_nAWVIeA0EhReNq4rOS0Dkpa3s9juEyHHgSAzKwbQov5qb1wEzeX7ISqUfTPzghnbbx_SVEmEkqNz5QdA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "tG33-nnkv"
+        }
+      },
+      "fetched_at": "2026-10-16T13:55:51Z"
+    },
+    {
+      "id": "episode/heroines-run-the-show-1x6",
+      "episode_id": "episode/heroines-run-the-show-1x6",
+      "title": "Heroines Run the Show 1x1",
+      "episode_name": "Heroines Run the Show 1x1",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2144_s1e6.webp",
+      "abyssid": "17074",
+      "abyssId": "17074",
+      "playxid": "8f32d19b3dab923e94b33d24c8fd4cb4",
+      "playXID": "8f32d19b3dab923e94b33d24c8fd4cb4",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17074",
+        "playXID": "8f32d19b3dab923e94b33d24c8fd4cb4",
+        "streamId": "17074",
+        "dubPlayerSrc": "/dub-player/t/17074/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8f32d19b3dab923e94b33d24c8fd4cb4&abyssId=17074"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17074",
+        "playXID": "8f32d19b3dab923e94b33d24c8fd4cb4",
+        "streamId": "17074",
+        "dubPlayerSrc": "/dub-player/t/17074/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8f32d19b3dab923e94b33d24c8fd4cb4&abyssId=17074"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/8f32d19b3dab923e94b33d24c8fd4cb4",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/8f32d19b3dab923e94b33d24c8fd4cb4"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17074",
+        "abyssId": "17074",
+        "playXID": "8f32d19b3dab923e94b33d24c8fd4cb4",
+        "title": "Heroines Run the Show",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "Tv5dsZjCO"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "buXGhCnbN"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "B_MdOo6Sv"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "6681PnzO7j"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "FbwQwHCmH"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/e1442e935c8fb857cfa88734e203b28a/master.m3u8?md5=oSR-CoqYjqfcrluv8J12sQ&expires=1792166141",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/e1442e935c8fb857cfa88734e203b28a/master.m3u8?md5=oSR-CoqYjqfcrluv8J12sQ&expires=1792166141",
+            "videoSource": "https://ravok.buzz/cdn/hls/e1442e935c8fb857cfa88734e203b28a/master.m3u8?md5=oSR-CoqYjqfcrluv8J12sQ&expires=1792166141",
+            "videoImage": "https://as-cdn30.top/p/DY26gSvV-aoGl1smh5WfJw-UN2c6Y7j-BlmvksumkZTrJg0anKzC8SHHmWNmqQZvIXSrw3CNBbCdJRRyrNK8PQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "8f32d19b3dab923e94b33d24c8fd4cb4",
+                "streamUrl": "https://ravok.buzz/cdn/hls/e1442e935c8fb857cfa88734e203b28a/master.m3u8?md5=oSR-CoqYjqfcrluv8J12sQ&expires=1792166141",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/e1442e935c8fb857cfa88734e203b28a/master.m3u8?md5=oSR-CoqYjqfcrluv8J12sQ&expires=1792166141",
+                "videoSource": "https://ravok.buzz/cdn/hls/e1442e935c8fb857cfa88734e203b28a/master.m3u8?md5=oSR-CoqYjqfcrluv8J12sQ&expires=1792166141",
+                "link": "https://ravok.buzz/cdn/hls/e1442e935c8fb857cfa88734e203b28a/master.m3u8?md5=oSR-CoqYjqfcrluv8J12sQ&expires=1792166141",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/DY26gSvV-aoGl1smh5WfJw-UN2c6Y7j-BlmvksumkZTrJg0anKzC8SHHmWNmqQZvIXSrw3CNBbCdJRRyrNK8PQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "Tv5dsZjCO"
+        }
+      },
+      "fetched_at": "2026-10-16T13:55:51Z"
+    },
+    {
+      "id": "episode/heroines-run-the-show-1x8",
+      "episode_id": "episode/heroines-run-the-show-1x8",
+      "title": "Heroines Run the Show 1x1",
+      "episode_name": "Heroines Run the Show 1x1",
+      "episode_number": 8,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2144_s1e8.webp",
+      "abyssid": "17076",
+      "abyssId": "17076",
+      "playxid": "4ec31eeaba1b784b650382236495532d",
+      "playXID": "4ec31eeaba1b784b650382236495532d",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17076",
+        "playXID": "4ec31eeaba1b784b650382236495532d",
+        "streamId": "17076",
+        "dubPlayerSrc": "/dub-player/t/17076/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=4ec31eeaba1b784b650382236495532d&abyssId=17076"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17076",
+        "playXID": "4ec31eeaba1b784b650382236495532d",
+        "streamId": "17076",
+        "dubPlayerSrc": "/dub-player/t/17076/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=4ec31eeaba1b784b650382236495532d&abyssId=17076"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/4ec31eeaba1b784b650382236495532d",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/4ec31eeaba1b784b650382236495532d"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17076",
+        "abyssId": "17076",
+        "playXID": "4ec31eeaba1b784b650382236495532d",
+        "title": "Heroines Run the Show",
+        "season": 1,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "qSlmeidrV"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "nBziFQsYS"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "wxlFmLLmF"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "wvSBXrtv8"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "JR2ZB2M8R"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/aa1031e2e5a47f41ab0856ce51ed9368/master.m3u8?md5=RADBeZUVZQbFJI8i_S2v2w&expires=1792166141",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/aa1031e2e5a47f41ab0856ce51ed9368/master.m3u8?md5=RADBeZUVZQbFJI8i_S2v2w&expires=1792166141",
+            "videoSource": "https://ravok.buzz/cdn/hls/aa1031e2e5a47f41ab0856ce51ed9368/master.m3u8?md5=RADBeZUVZQbFJI8i_S2v2w&expires=1792166141",
+            "videoImage": "https://as-cdn30.top/p/V6xCyTVtNr7KP7ni0Vn2rmBpS1j-X2wY2m9-tz7WwIUQZJohrdeOZ-CcClGqT4CdTcJHam3fJhrvMI7wGtMHYw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "4ec31eeaba1b784b650382236495532d",
+                "streamUrl": "https://ravok.buzz/cdn/hls/aa1031e2e5a47f41ab0856ce51ed9368/master.m3u8?md5=RADBeZUVZQbFJI8i_S2v2w&expires=1792166141",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/aa1031e2e5a47f41ab0856ce51ed9368/master.m3u8?md5=RADBeZUVZQbFJI8i_S2v2w&expires=1792166141",
+                "videoSource": "https://ravok.buzz/cdn/hls/aa1031e2e5a47f41ab0856ce51ed9368/master.m3u8?md5=RADBeZUVZQbFJI8i_S2v2w&expires=1792166141",
+                "link": "https://ravok.buzz/cdn/hls/aa1031e2e5a47f41ab0856ce51ed9368/master.m3u8?md5=RADBeZUVZQbFJI8i_S2v2w&expires=1792166141",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/V6xCyTVtNr7KP7ni0Vn2rmBpS1j-X2wY2m9-tz7WwIUQZJohrdeOZ-CcClGqT4CdTcJHam3fJhrvMI7wGtMHYw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "qSlmeidrV"
+        }
+      },
+      "fetched_at": "2026-10-16T13:55:51Z"
+    },
+    {
+      "id": "episode/heroines-run-the-show-1x1",
+      "episode_id": "episode/heroines-run-the-show-1x1",
+      "title": "Heroines Run the Show 1x1",
+      "episode_name": "Heroines Run the Show 1x1",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2144_s1e1.webp",
+      "abyssid": "17069",
+      "abyssId": "17069",
+      "playxid": "0023daa5a44ef6fbe42379f24e00254c",
+      "playXID": "0023daa5a44ef6fbe42379f24e00254c",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17069",
+        "playXID": "0023daa5a44ef6fbe42379f24e00254c",
+        "streamId": "17069",
+        "dubPlayerSrc": "/dub-player/t/17069/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=0023daa5a44ef6fbe42379f24e00254c&abyssId=17069"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17069",
+        "playXID": "0023daa5a44ef6fbe42379f24e00254c",
+        "streamId": "17069",
+        "dubPlayerSrc": "/dub-player/t/17069/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=0023daa5a44ef6fbe42379f24e00254c&abyssId=17069"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/0023daa5a44ef6fbe42379f24e00254c",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/0023daa5a44ef6fbe42379f24e00254c"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17069",
+        "abyssId": "17069",
+        "playXID": "0023daa5a44ef6fbe42379f24e00254c",
+        "title": "Heroines Run the Show",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "RqFH5GsJ8"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "ilmf_QWdx"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "ucp0pwvIP"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "Fn0RCGY2w"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "GfWV8H5kD"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/40736365af4068eaaab6c36246379477/master.m3u8?md5=nt60m8ae-ngxfQf2uNutng&expires=1792166141",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/40736365af4068eaaab6c36246379477/master.m3u8?md5=nt60m8ae-ngxfQf2uNutng&expires=1792166141",
+            "videoSource": "https://ravok.buzz/cdn/hls/40736365af4068eaaab6c36246379477/master.m3u8?md5=nt60m8ae-ngxfQf2uNutng&expires=1792166141",
+            "videoImage": "https://as-cdn28.top/p/nhwx_v1xN7d7EqY4n2GLfeE3aQNK5-OIYz22AcDcdlNyTWAxT5M9FUZbUkl2c-m3tGUJtk7rJy1K-_TV4EfNqA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "0023daa5a44ef6fbe42379f24e00254c",
+                "streamUrl": "https://ravok.buzz/cdn/hls/40736365af4068eaaab6c36246379477/master.m3u8?md5=nt60m8ae-ngxfQf2uNutng&expires=1792166141",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/40736365af4068eaaab6c36246379477/master.m3u8?md5=nt60m8ae-ngxfQf2uNutng&expires=1792166141",
+                "videoSource": "https://ravok.buzz/cdn/hls/40736365af4068eaaab6c36246379477/master.m3u8?md5=nt60m8ae-ngxfQf2uNutng&expires=1792166141",
+                "link": "https://ravok.buzz/cdn/hls/40736365af4068eaaab6c36246379477/master.m3u8?md5=nt60m8ae-ngxfQf2uNutng&expires=1792166141",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/nhwx_v1xN7d7EqY4n2GLfeE3aQNK5-OIYz22AcDcdlNyTWAxT5M9FUZbUkl2c-m3tGUJtk7rJy1K-_TV4EfNqA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "RqFH5GsJ8"
+        }
+      },
+      "fetched_at": "2026-10-16T13:55:51Z"
+    },
+    {
+      "id": "episode/heroines-run-the-show-1x7",
+      "episode_id": "episode/heroines-run-the-show-1x7",
+      "title": "Heroines Run the Show 1x1",
+      "episode_name": "Heroines Run the Show 1x1",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2144_s1e7.webp",
+      "abyssid": "17075",
+      "abyssId": "17075",
+      "playxid": "b237e7e6bada3f572c342dc4bbcda0d2",
+      "playXID": "b237e7e6bada3f572c342dc4bbcda0d2",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17075",
+        "playXID": "b237e7e6bada3f572c342dc4bbcda0d2",
+        "streamId": "17075",
+        "dubPlayerSrc": "/dub-player/t/17075/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b237e7e6bada3f572c342dc4bbcda0d2&abyssId=17075"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17075",
+        "playXID": "b237e7e6bada3f572c342dc4bbcda0d2",
+        "streamId": "17075",
+        "dubPlayerSrc": "/dub-player/t/17075/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b237e7e6bada3f572c342dc4bbcda0d2&abyssId=17075"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/b237e7e6bada3f572c342dc4bbcda0d2",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/b237e7e6bada3f572c342dc4bbcda0d2"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17075",
+        "abyssId": "17075",
+        "playXID": "b237e7e6bada3f572c342dc4bbcda0d2",
+        "title": "Heroines Run the Show",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "NWD_mR8BC"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "dcSn-DGTp"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "I0EnTI0Sv"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "PrZ1mDkDt"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "WsFHo9fEu"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/a8636d2dc21d7dcf26e9883e790c3d0e/master.m3u8?md5=a57r8LP0W5_V1ez2HZEVlA&expires=1792166142",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/a8636d2dc21d7dcf26e9883e790c3d0e/master.m3u8?md5=a57r8LP0W5_V1ez2HZEVlA&expires=1792166142",
+            "videoSource": "https://ravok.buzz/cdn/hls/a8636d2dc21d7dcf26e9883e790c3d0e/master.m3u8?md5=a57r8LP0W5_V1ez2HZEVlA&expires=1792166142",
+            "videoImage": "https://as-cdn29.top/p/YWcIBsX_sE0k0Ti_jg_WnFaMm7lsTMXyI24gBi7kpMeINM_cx4mB6NK6fnIksYN6vAgVeMKkDYXmaroSh7DNAg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "b237e7e6bada3f572c342dc4bbcda0d2",
+                "streamUrl": "https://ravok.buzz/cdn/hls/a8636d2dc21d7dcf26e9883e790c3d0e/master.m3u8?md5=a57r8LP0W5_V1ez2HZEVlA&expires=1792166142",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/a8636d2dc21d7dcf26e9883e790c3d0e/master.m3u8?md5=a57r8LP0W5_V1ez2HZEVlA&expires=1792166142",
+                "videoSource": "https://ravok.buzz/cdn/hls/a8636d2dc21d7dcf26e9883e790c3d0e/master.m3u8?md5=a57r8LP0W5_V1ez2HZEVlA&expires=1792166142",
+                "link": "https://ravok.buzz/cdn/hls/a8636d2dc21d7dcf26e9883e790c3d0e/master.m3u8?md5=a57r8LP0W5_V1ez2HZEVlA&expires=1792166142",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/YWcIBsX_sE0k0Ti_jg_WnFaMm7lsTMXyI24gBi7kpMeINM_cx4mB6NK6fnIksYN6vAgVeMKkDYXmaroSh7DNAg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "NWD_mR8BC"
+        }
+      },
+      "fetched_at": "2026-10-16T13:55:52Z"
+    },
+    {
+      "id": "episode/heroines-run-the-show-1x9",
+      "episode_id": "episode/heroines-run-the-show-1x9",
+      "title": "Heroines Run the Show 1x1",
+      "episode_name": "Heroines Run the Show 1x1",
+      "episode_number": 9,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2144_s1e9.webp",
+      "abyssid": "17077",
+      "abyssId": "17077",
+      "playxid": "df1b3e0f19db0479029d201662517318",
+      "playXID": "df1b3e0f19db0479029d201662517318",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17077",
+        "playXID": "df1b3e0f19db0479029d201662517318",
+        "streamId": "17077",
+        "dubPlayerSrc": "/dub-player/t/17077/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=df1b3e0f19db0479029d201662517318&abyssId=17077"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17077",
+        "playXID": "df1b3e0f19db0479029d201662517318",
+        "streamId": "17077",
+        "dubPlayerSrc": "/dub-player/t/17077/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=df1b3e0f19db0479029d201662517318&abyssId=17077"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/df1b3e0f19db0479029d201662517318",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/df1b3e0f19db0479029d201662517318"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17077",
+        "abyssId": "17077",
+        "playXID": "df1b3e0f19db0479029d201662517318",
+        "title": "Heroines Run the Show",
+        "season": 1,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "lhvucKfMl"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "P7SNh-97H"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "exTRUotvL"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "bf2Jqzevz"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "hZj_iVQ44"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/dc19ba0dd14c64bd145e89504a0b3860/master.m3u8?md5=LGGZVIXEMaM0Of8D6H4qjQ&expires=1792166144",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/dc19ba0dd14c64bd145e89504a0b3860/master.m3u8?md5=LGGZVIXEMaM0Of8D6H4qjQ&expires=1792166144",
+            "videoSource": "https://ravok.buzz/cdn/hls/dc19ba0dd14c64bd145e89504a0b3860/master.m3u8?md5=LGGZVIXEMaM0Of8D6H4qjQ&expires=1792166144",
+            "videoImage": "https://as-cdn27.top/p/amJtaojc6taPhsehaV438Jp50w3x8HKitfWwzZikU5qmeDlIenn2ncAxtZF5neaeIgqahtlk5Bf8Lyqe6NkfQQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "df1b3e0f19db0479029d201662517318",
+                "streamUrl": "https://ravok.buzz/cdn/hls/dc19ba0dd14c64bd145e89504a0b3860/master.m3u8?md5=LGGZVIXEMaM0Of8D6H4qjQ&expires=1792166144",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/dc19ba0dd14c64bd145e89504a0b3860/master.m3u8?md5=LGGZVIXEMaM0Of8D6H4qjQ&expires=1792166144",
+                "videoSource": "https://ravok.buzz/cdn/hls/dc19ba0dd14c64bd145e89504a0b3860/master.m3u8?md5=LGGZVIXEMaM0Of8D6H4qjQ&expires=1792166144",
+                "link": "https://ravok.buzz/cdn/hls/dc19ba0dd14c64bd145e89504a0b3860/master.m3u8?md5=LGGZVIXEMaM0Of8D6H4qjQ&expires=1792166144",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/amJtaojc6taPhsehaV438Jp50w3x8HKitfWwzZikU5qmeDlIenn2ncAxtZF5neaeIgqahtlk5Bf8Lyqe6NkfQQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "lhvucKfMl"
+        }
+      },
+      "fetched_at": "2026-10-16T13:55:54Z"
+    },
+    {
+      "id": "episode/heroines-run-the-show-1x11",
+      "episode_id": "episode/heroines-run-the-show-1x11",
+      "title": "Heroines Run the Show 1x1",
+      "episode_name": "Heroines Run the Show 1x1",
+      "episode_number": 11,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2144_s1e11.webp",
+      "abyssid": "17079",
+      "abyssId": "17079",
+      "playxid": "86cfe91693a00fcecb6b093bec3d293f",
+      "playXID": "86cfe91693a00fcecb6b093bec3d293f",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17079",
+        "playXID": "86cfe91693a00fcecb6b093bec3d293f",
+        "streamId": "17079",
+        "dubPlayerSrc": "/dub-player/t/17079/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=86cfe91693a00fcecb6b093bec3d293f&abyssId=17079"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17079",
+        "playXID": "86cfe91693a00fcecb6b093bec3d293f",
+        "streamId": "17079",
+        "dubPlayerSrc": "/dub-player/t/17079/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=86cfe91693a00fcecb6b093bec3d293f&abyssId=17079"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/86cfe91693a00fcecb6b093bec3d293f",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/86cfe91693a00fcecb6b093bec3d293f"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17079",
+        "abyssId": "17079",
+        "playXID": "86cfe91693a00fcecb6b093bec3d293f",
+        "title": "Heroines Run the Show",
+        "season": 1,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "d4WN1eCLm3"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "dgZBOp52U"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "NWmcycKJH"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "XQAW1nJ7M"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "olQdgfhnT"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/8031b969c09f98840c2398b29f1903f4/master.m3u8?md5=HQgEggC056t1UB6yQpBvEg&expires=1792166144",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/8031b969c09f98840c2398b29f1903f4/master.m3u8?md5=HQgEggC056t1UB6yQpBvEg&expires=1792166144",
+            "videoSource": "https://ravok.buzz/cdn/hls/8031b969c09f98840c2398b29f1903f4/master.m3u8?md5=HQgEggC056t1UB6yQpBvEg&expires=1792166144",
+            "videoImage": "https://as-cdn28.top/p/6e0LmJyXeJh7fFHq11F-xTQCZHIfntd1CY1euGjZyIKUmc1dmp9TsqtUFrdUvxc6Tc_qXS_XIDiRbyUFii5aEQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "86cfe91693a00fcecb6b093bec3d293f",
+                "streamUrl": "https://ravok.buzz/cdn/hls/8031b969c09f98840c2398b29f1903f4/master.m3u8?md5=HQgEggC056t1UB6yQpBvEg&expires=1792166144",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/8031b969c09f98840c2398b29f1903f4/master.m3u8?md5=HQgEggC056t1UB6yQpBvEg&expires=1792166144",
+                "videoSource": "https://ravok.buzz/cdn/hls/8031b969c09f98840c2398b29f1903f4/master.m3u8?md5=HQgEggC056t1UB6yQpBvEg&expires=1792166144",
+                "link": "https://ravok.buzz/cdn/hls/8031b969c09f98840c2398b29f1903f4/master.m3u8?md5=HQgEggC056t1UB6yQpBvEg&expires=1792166144",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/6e0LmJyXeJh7fFHq11F-xTQCZHIfntd1CY1euGjZyIKUmc1dmp9TsqtUFrdUvxc6Tc_qXS_XIDiRbyUFii5aEQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "d4WN1eCLm3"
+        }
+      },
+      "fetched_at": "2026-10-16T13:55:54Z"
+    },
+    {
+      "id": "episode/heroines-run-the-show-1x12",
+      "episode_id": "episode/heroines-run-the-show-1x12",
+      "title": "Heroines Run the Show 1x1",
+      "episode_name": "Heroines Run the Show 1x1",
+      "episode_number": 12,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2144_s1e12.webp",
+      "abyssid": "17080",
+      "abyssId": "17080",
+      "playxid": "20197c7d76e929ae6f23cda2b67f66d3",
+      "playXID": "20197c7d76e929ae6f23cda2b67f66d3",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17080",
+        "playXID": "20197c7d76e929ae6f23cda2b67f66d3",
+        "streamId": "17080",
+        "dubPlayerSrc": "/dub-player/t/17080/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=20197c7d76e929ae6f23cda2b67f66d3&abyssId=17080"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17080",
+        "playXID": "20197c7d76e929ae6f23cda2b67f66d3",
+        "streamId": "17080",
+        "dubPlayerSrc": "/dub-player/t/17080/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=20197c7d76e929ae6f23cda2b67f66d3&abyssId=17080"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/20197c7d76e929ae6f23cda2b67f66d3",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/20197c7d76e929ae6f23cda2b67f66d3"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17080",
+        "abyssId": "17080",
+        "playXID": "20197c7d76e929ae6f23cda2b67f66d3",
+        "title": "Heroines Run the Show",
+        "season": 1,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "zG9Yso_r9"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "rDwbcFkkV"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "_40NZWvJV"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "MSJZfLzRi"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/e0b37ce6559e5ddc29640f5017c98862/master.m3u8?md5=s5Nk3diEr_4DQDHJUZivjw&expires=1792166145",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/e0b37ce6559e5ddc29640f5017c98862/master.m3u8?md5=s5Nk3diEr_4DQDHJUZivjw&expires=1792166145",
+            "videoSource": "https://ravok.buzz/cdn/hls/e0b37ce6559e5ddc29640f5017c98862/master.m3u8?md5=s5Nk3diEr_4DQDHJUZivjw&expires=1792166145",
+            "videoImage": "https://as-cdn28.top/p/w7evmvQELqvvY3-L8Aw4ifrnHjF_G1pJ_2fc8LwfYsjzSLfwnR9r39TFamsa7jKctpz1ye1CLsYNTQHjZ3ljmQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "20197c7d76e929ae6f23cda2b67f66d3",
+                "streamUrl": "https://ravok.buzz/cdn/hls/e0b37ce6559e5ddc29640f5017c98862/master.m3u8?md5=s5Nk3diEr_4DQDHJUZivjw&expires=1792166145",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/e0b37ce6559e5ddc29640f5017c98862/master.m3u8?md5=s5Nk3diEr_4DQDHJUZivjw&expires=1792166145",
+                "videoSource": "https://ravok.buzz/cdn/hls/e0b37ce6559e5ddc29640f5017c98862/master.m3u8?md5=s5Nk3diEr_4DQDHJUZivjw&expires=1792166145",
+                "link": "https://ravok.buzz/cdn/hls/e0b37ce6559e5ddc29640f5017c98862/master.m3u8?md5=s5Nk3diEr_4DQDHJUZivjw&expires=1792166145",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/w7evmvQELqvvY3-L8Aw4ifrnHjF_G1pJ_2fc8LwfYsjzSLfwnR9r39TFamsa7jKctpz1ye1CLsYNTQHjZ3ljmQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "zG9Yso_r9"
+        }
+      },
+      "fetched_at": "2026-10-16T13:55:55Z"
+    },
+    {
+      "id": "episode/heroines-run-the-show-1x10",
+      "episode_id": "episode/heroines-run-the-show-1x10",
+      "title": "Heroines Run the Show 1x1",
+      "episode_name": "Heroines Run the Show 1x1",
+      "episode_number": 10,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2144_s1e10.webp",
+      "abyssid": "17078",
+      "abyssId": "17078",
+      "playxid": "991675ef521cb2089cccd6a852f72cac",
+      "playXID": "991675ef521cb2089cccd6a852f72cac",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17078",
+        "playXID": "991675ef521cb2089cccd6a852f72cac",
+        "streamId": "17078",
+        "dubPlayerSrc": "/dub-player/t/17078/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=991675ef521cb2089cccd6a852f72cac&abyssId=17078"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17078",
+        "playXID": "991675ef521cb2089cccd6a852f72cac",
+        "streamId": "17078",
+        "dubPlayerSrc": "/dub-player/t/17078/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=991675ef521cb2089cccd6a852f72cac&abyssId=17078"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/991675ef521cb2089cccd6a852f72cac",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/991675ef521cb2089cccd6a852f72cac"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17078",
+        "abyssId": "17078",
+        "playXID": "991675ef521cb2089cccd6a852f72cac",
+        "title": "Heroines Run the Show",
+        "season": 1,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "G6M4mF9GT"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "vDZqot11bw"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "5TdHKsDaF"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "MncdRxvOh"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "3jUbkHXmg"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/760e8a0bf2d9aa9d93ed809e29633b6c/master.m3u8?md5=L50cYqXG6oTixuZD48iKXw&expires=1792166147",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/760e8a0bf2d9aa9d93ed809e29633b6c/master.m3u8?md5=L50cYqXG6oTixuZD48iKXw&expires=1792166147",
+            "videoSource": "https://ravok.buzz/cdn/hls/760e8a0bf2d9aa9d93ed809e29633b6c/master.m3u8?md5=L50cYqXG6oTixuZD48iKXw&expires=1792166147",
+            "videoImage": "https://as-cdn28.top/p/1Qi1vUXn3SXw6MyMsEUrWQLndHqYHKKqa95k7krZq0SGH_grEGTERUR-HAus-jSC8LZSYorK5asxE9fxpo32Mw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "991675ef521cb2089cccd6a852f72cac",
+                "streamUrl": "https://ravok.buzz/cdn/hls/760e8a0bf2d9aa9d93ed809e29633b6c/master.m3u8?md5=L50cYqXG6oTixuZD48iKXw&expires=1792166147",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/760e8a0bf2d9aa9d93ed809e29633b6c/master.m3u8?md5=L50cYqXG6oTixuZD48iKXw&expires=1792166147",
+                "videoSource": "https://ravok.buzz/cdn/hls/760e8a0bf2d9aa9d93ed809e29633b6c/master.m3u8?md5=L50cYqXG6oTixuZD48iKXw&expires=1792166147",
+                "link": "https://ravok.buzz/cdn/hls/760e8a0bf2d9aa9d93ed809e29633b6c/master.m3u8?md5=L50cYqXG6oTixuZD48iKXw&expires=1792166147",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/1Qi1vUXn3SXw6MyMsEUrWQLndHqYHKKqa95k7krZq0SGH_grEGTERUR-HAus-jSC8LZSYorK5asxE9fxpo32Mw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "G6M4mF9GT"
+        }
+      },
+      "fetched_at": "2026-10-16T13:55:58Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T13:55:46Z",
+  "updated_at": "2026-10-16T13:55:58Z"
+}

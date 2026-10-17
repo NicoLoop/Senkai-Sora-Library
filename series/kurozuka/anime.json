@@ -1,0 +1,1198 @@
+{
+  "id": "series/kurozuka",
+  "series_name": "Kurozuka",
+  "title": "Kurozuka",
+  "banner": "https://image.tmdb.org/t/p/w1280/jgjxOvgY0czloGkQWaJ2EgDP7fk.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/hez6h5LZxedDfzHHPu3iqj2Gm82.jpg",
+  "genra": [
+    "Action",
+    "Drama",
+    "Gore",
+    "Historical",
+    "Horror",
+    "Reincarnation",
+    "Samurai"
+  ],
+  "genres": [
+    "Action",
+    "Drama",
+    "Gore",
+    "Historical",
+    "Horror",
+    "Reincarnation",
+    "Samurai"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Japanese"
+  ],
+  "synopsis": "In feudal Japan, Kurou and his servant Benkei are fleeing from Kurou's elder brother, who has recently ascended to the throne. In a forest, they come across a house and a strange woman by the name of Kuromitsu, who agrees to harbor them under one condition: that they do not peer into the inner chambers. Soon, they are attacked by the Red Army; they are searching for Kuromitsu, whose blood holds immortality. Fatally wounded, Kurou drinks some of Kuromitsu's blood and gains immortality along with strange abilities; but shortly after, Kurou is seemingly decapitated and wakes up centuries later in a ruined city. In this twisted future the Red Army is omnipresent and still searching for Kuromitsu’s blood, while a rebel army seeks to keep them from acquiring it. With threats at every turn and fueled by his obsession, Kurou sets forth to find Kuromitsu and seek his revenge on the Red Army.",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Private: Kurozuka 1x1",
+          "id": "episode/private-kurozuka-1x1",
+          "image": "https://img.watchanimeworld.one/img/thumb_1873_s1e1.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "Private: Kurozuka 1x2",
+          "id": "episode/private-kurozuka-1x2",
+          "image": "https://img.watchanimeworld.one/img/thumb_1873_s1e2.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "Private: Kurozuka 1x3",
+          "id": "episode/private-kurozuka-1x3",
+          "image": "https://img.watchanimeworld.one/img/thumb_1873_s1e3.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "Private: Kurozuka 1x4",
+          "id": "episode/private-kurozuka-1x4",
+          "image": "https://img.watchanimeworld.one/img/thumb_1873_s1e4.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "Private: Kurozuka 1x5",
+          "id": "episode/private-kurozuka-1x5",
+          "image": "https://img.watchanimeworld.one/img/thumb_1873_s1e5.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "Private: Kurozuka 1x6",
+          "id": "episode/private-kurozuka-1x6",
+          "image": "https://img.watchanimeworld.one/img/thumb_1873_s1e6.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "Private: Kurozuka 1x7",
+          "id": "episode/private-kurozuka-1x7",
+          "image": "https://img.watchanimeworld.one/img/thumb_1873_s1e7.webp",
+          "season": 1
+        },
+        {
+          "episode": 8,
+          "title": "Private: Kurozuka 1x8",
+          "id": "episode/private-kurozuka-1x8",
+          "image": "https://img.watchanimeworld.one/img/thumb_1873_s1e8.webp",
+          "season": 1
+        },
+        {
+          "episode": 9,
+          "title": "Private: Kurozuka 1x9",
+          "id": "episode/private-kurozuka-1x9",
+          "image": "https://img.watchanimeworld.one/img/thumb_1873_s1e9.webp",
+          "season": 1
+        },
+        {
+          "episode": 10,
+          "title": "Private: Kurozuka 1x10",
+          "id": "episode/private-kurozuka-1x10",
+          "image": "https://img.watchanimeworld.one/img/thumb_1873_s1e10.webp",
+          "season": 1
+        },
+        {
+          "episode": 11,
+          "title": "Private: Kurozuka 1x11",
+          "id": "episode/private-kurozuka-1x11",
+          "image": "https://img.watchanimeworld.one/img/thumb_1873_s1e11.webp",
+          "season": 1
+        },
+        {
+          "episode": 12,
+          "title": "Private: Kurozuka 1x12",
+          "id": "episode/private-kurozuka-1x12",
+          "image": "https://img.watchanimeworld.one/img/thumb_1873_s1e12.webp",
+          "season": 1
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/private-kurozuka-1x2",
+      "episode_id": "episode/private-kurozuka-1x2",
+      "title": "Private: Kurozuka 1x1",
+      "episode_name": "Private: Kurozuka 1x1",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1873_s1e2.webp",
+      "abyssid": "16341",
+      "abyssId": "16341",
+      "playxid": "395db788289ee286662bbcabe78d99da",
+      "playXID": "395db788289ee286662bbcabe78d99da",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16341",
+        "playXID": "395db788289ee286662bbcabe78d99da",
+        "streamId": "16341",
+        "dubPlayerSrc": "/dub-player/t/16341/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=395db788289ee286662bbcabe78d99da&abyssId=16341"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16341",
+        "playXID": "395db788289ee286662bbcabe78d99da",
+        "streamId": "16341",
+        "dubPlayerSrc": "/dub-player/t/16341/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=395db788289ee286662bbcabe78d99da&abyssId=16341"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/395db788289ee286662bbcabe78d99da",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/395db788289ee286662bbcabe78d99da"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16341",
+        "abyssId": "16341",
+        "playXID": "395db788289ee286662bbcabe78d99da",
+        "title": "Kurozuka",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "psQM6ZvCc"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "YdxCB0Jo2"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "fnPZt-FQl"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "psQM6ZvCc"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:21Z"
+    },
+    {
+      "id": "episode/private-kurozuka-1x3",
+      "episode_id": "episode/private-kurozuka-1x3",
+      "title": "Private: Kurozuka 1x1",
+      "episode_name": "Private: Kurozuka 1x1",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1873_s1e3.webp",
+      "abyssid": "16342",
+      "abyssId": "16342",
+      "playxid": "a69ce85561d92b453d0d8ebae2e2cff6",
+      "playXID": "a69ce85561d92b453d0d8ebae2e2cff6",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16342",
+        "playXID": "a69ce85561d92b453d0d8ebae2e2cff6",
+        "streamId": "16342",
+        "dubPlayerSrc": "/dub-player/t/16342/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a69ce85561d92b453d0d8ebae2e2cff6&abyssId=16342"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16342",
+        "playXID": "a69ce85561d92b453d0d8ebae2e2cff6",
+        "streamId": "16342",
+        "dubPlayerSrc": "/dub-player/t/16342/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a69ce85561d92b453d0d8ebae2e2cff6&abyssId=16342"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/a69ce85561d92b453d0d8ebae2e2cff6",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/a69ce85561d92b453d0d8ebae2e2cff6"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16342",
+        "abyssId": "16342",
+        "playXID": "a69ce85561d92b453d0d8ebae2e2cff6",
+        "title": "Kurozuka",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "3DieS0lsO"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "vK1tQMgzj"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "9D1KAf6cY"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/8d6a44f2be17594a744396bc3d2437c1/master.m3u8?md5=kkE-pczw2VtKO2LeSPfofA&expires=1792166471",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/8d6a44f2be17594a744396bc3d2437c1/master.m3u8?md5=kkE-pczw2VtKO2LeSPfofA&expires=1792166471",
+            "videoSource": "https://ravok.buzz/cdn/hls/8d6a44f2be17594a744396bc3d2437c1/master.m3u8?md5=kkE-pczw2VtKO2LeSPfofA&expires=1792166471",
+            "videoImage": "https://as-cdn27.top/p/kyRNPPvNgCkBuVcQdTxzU7xhCsTt578eyRHcRapGUk-blRhJ3LTWE6IKjMcUA8bWQTgpSdjIFVKWb_XYt0Y0Lg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "a69ce85561d92b453d0d8ebae2e2cff6",
+                "streamUrl": "https://ravok.buzz/cdn/hls/8d6a44f2be17594a744396bc3d2437c1/master.m3u8?md5=kkE-pczw2VtKO2LeSPfofA&expires=1792166471",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/8d6a44f2be17594a744396bc3d2437c1/master.m3u8?md5=kkE-pczw2VtKO2LeSPfofA&expires=1792166471",
+                "videoSource": "https://ravok.buzz/cdn/hls/8d6a44f2be17594a744396bc3d2437c1/master.m3u8?md5=kkE-pczw2VtKO2LeSPfofA&expires=1792166471",
+                "link": "https://ravok.buzz/cdn/hls/8d6a44f2be17594a744396bc3d2437c1/master.m3u8?md5=kkE-pczw2VtKO2LeSPfofA&expires=1792166471",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/kyRNPPvNgCkBuVcQdTxzU7xhCsTt578eyRHcRapGUk-blRhJ3LTWE6IKjMcUA8bWQTgpSdjIFVKWb_XYt0Y0Lg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "3DieS0lsO"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:21Z"
+    },
+    {
+      "id": "episode/private-kurozuka-1x4",
+      "episode_id": "episode/private-kurozuka-1x4",
+      "title": "Private: Kurozuka 1x1",
+      "episode_name": "Private: Kurozuka 1x1",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1873_s1e4.webp",
+      "abyssid": "16343",
+      "abyssId": "16343",
+      "playxid": "822101d70094b444b08be638059568f2",
+      "playXID": "822101d70094b444b08be638059568f2",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16343",
+        "playXID": "822101d70094b444b08be638059568f2",
+        "streamId": "16343",
+        "dubPlayerSrc": "/dub-player/t/16343/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=822101d70094b444b08be638059568f2&abyssId=16343"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16343",
+        "playXID": "822101d70094b444b08be638059568f2",
+        "streamId": "16343",
+        "dubPlayerSrc": "/dub-player/t/16343/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=822101d70094b444b08be638059568f2&abyssId=16343"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/822101d70094b444b08be638059568f2",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/822101d70094b444b08be638059568f2"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16343",
+        "abyssId": "16343",
+        "playXID": "822101d70094b444b08be638059568f2",
+        "title": "Kurozuka",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "A_rb3OfWE"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "v50lvgL-W"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "-_UEjTwyT"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/d200738e4700dc75cbf48ce914c15662/master.m3u8?md5=eQb1cYe_VYO6ebHad1ZCuA&expires=1792166471",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/d200738e4700dc75cbf48ce914c15662/master.m3u8?md5=eQb1cYe_VYO6ebHad1ZCuA&expires=1792166471",
+            "videoSource": "https://ravok.buzz/cdn/hls/d200738e4700dc75cbf48ce914c15662/master.m3u8?md5=eQb1cYe_VYO6ebHad1ZCuA&expires=1792166471",
+            "videoImage": "https://as-cdn28.top/p/kyRNPPvNgCkBuVcQdTxzU5fylGUcfuunCXx_BZ_3Nz8TXx7R0PvM7oN-_cpWBbFdJcrQ1YhdH8TIGc80p0fagw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "822101d70094b444b08be638059568f2",
+                "streamUrl": "https://ravok.buzz/cdn/hls/d200738e4700dc75cbf48ce914c15662/master.m3u8?md5=eQb1cYe_VYO6ebHad1ZCuA&expires=1792166471",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/d200738e4700dc75cbf48ce914c15662/master.m3u8?md5=eQb1cYe_VYO6ebHad1ZCuA&expires=1792166471",
+                "videoSource": "https://ravok.buzz/cdn/hls/d200738e4700dc75cbf48ce914c15662/master.m3u8?md5=eQb1cYe_VYO6ebHad1ZCuA&expires=1792166471",
+                "link": "https://ravok.buzz/cdn/hls/d200738e4700dc75cbf48ce914c15662/master.m3u8?md5=eQb1cYe_VYO6ebHad1ZCuA&expires=1792166471",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/kyRNPPvNgCkBuVcQdTxzU5fylGUcfuunCXx_BZ_3Nz8TXx7R0PvM7oN-_cpWBbFdJcrQ1YhdH8TIGc80p0fagw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "A_rb3OfWE"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:21Z"
+    },
+    {
+      "id": "episode/private-kurozuka-1x1",
+      "episode_id": "episode/private-kurozuka-1x1",
+      "title": "Private: Kurozuka 1x1",
+      "episode_name": "Private: Kurozuka 1x1",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1873_s1e1.webp",
+      "abyssid": "16340",
+      "abyssId": "16340",
+      "playxid": "cc580a0617b08b2ce02582e0af20875c",
+      "playXID": "cc580a0617b08b2ce02582e0af20875c",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16340",
+        "playXID": "cc580a0617b08b2ce02582e0af20875c",
+        "streamId": "16340",
+        "dubPlayerSrc": "/dub-player/t/16340/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=cc580a0617b08b2ce02582e0af20875c&abyssId=16340"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16340",
+        "playXID": "cc580a0617b08b2ce02582e0af20875c",
+        "streamId": "16340",
+        "dubPlayerSrc": "/dub-player/t/16340/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=cc580a0617b08b2ce02582e0af20875c&abyssId=16340"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/cc580a0617b08b2ce02582e0af20875c",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/cc580a0617b08b2ce02582e0af20875c"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16340",
+        "abyssId": "16340",
+        "playXID": "cc580a0617b08b2ce02582e0af20875c",
+        "title": "Kurozuka",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "-xbOsqoMYu"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "YhQBFiwOD"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "0Lzvn7wCo"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/6a51ed4de11d8ee2057ebccbbae72f8c/master.m3u8?md5=sbsDcuDAiMiGy2kd3zfaKA&expires=1792166471",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/6a51ed4de11d8ee2057ebccbbae72f8c/master.m3u8?md5=sbsDcuDAiMiGy2kd3zfaKA&expires=1792166471",
+            "videoSource": "https://ravok.buzz/cdn/hls/6a51ed4de11d8ee2057ebccbbae72f8c/master.m3u8?md5=sbsDcuDAiMiGy2kd3zfaKA&expires=1792166471",
+            "videoImage": "https://as-cdn27.top/p/kyRNPPvNgCkBuVcQdTxzUx_abgYVmZJoXh71AetdgGtUeB2e-5H1f2CrRz_czzFF6lQyXAXHIXiSlL7XIycUXw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "cc580a0617b08b2ce02582e0af20875c",
+                "streamUrl": "https://ravok.buzz/cdn/hls/6a51ed4de11d8ee2057ebccbbae72f8c/master.m3u8?md5=sbsDcuDAiMiGy2kd3zfaKA&expires=1792166471",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/6a51ed4de11d8ee2057ebccbbae72f8c/master.m3u8?md5=sbsDcuDAiMiGy2kd3zfaKA&expires=1792166471",
+                "videoSource": "https://ravok.buzz/cdn/hls/6a51ed4de11d8ee2057ebccbbae72f8c/master.m3u8?md5=sbsDcuDAiMiGy2kd3zfaKA&expires=1792166471",
+                "link": "https://ravok.buzz/cdn/hls/6a51ed4de11d8ee2057ebccbbae72f8c/master.m3u8?md5=sbsDcuDAiMiGy2kd3zfaKA&expires=1792166471",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/kyRNPPvNgCkBuVcQdTxzUx_abgYVmZJoXh71AetdgGtUeB2e-5H1f2CrRz_czzFF6lQyXAXHIXiSlL7XIycUXw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "-xbOsqoMYu"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:21Z"
+    },
+    {
+      "id": "episode/private-kurozuka-1x5",
+      "episode_id": "episode/private-kurozuka-1x5",
+      "title": "Private: Kurozuka 1x1",
+      "episode_name": "Private: Kurozuka 1x1",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1873_s1e5.webp",
+      "abyssid": "16344",
+      "abyssId": "16344",
+      "playxid": "302fb879d23a9f8b8b43c453fd3bfed3",
+      "playXID": "302fb879d23a9f8b8b43c453fd3bfed3",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16344",
+        "playXID": "302fb879d23a9f8b8b43c453fd3bfed3",
+        "streamId": "16344",
+        "dubPlayerSrc": "/dub-player/t/16344/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=302fb879d23a9f8b8b43c453fd3bfed3&abyssId=16344"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16344",
+        "playXID": "302fb879d23a9f8b8b43c453fd3bfed3",
+        "streamId": "16344",
+        "dubPlayerSrc": "/dub-player/t/16344/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=302fb879d23a9f8b8b43c453fd3bfed3&abyssId=16344"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/302fb879d23a9f8b8b43c453fd3bfed3",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/302fb879d23a9f8b8b43c453fd3bfed3"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16344",
+        "abyssId": "16344",
+        "playXID": "302fb879d23a9f8b8b43c453fd3bfed3",
+        "title": "Kurozuka",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "i2kyawiT7"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "bdIl8jmU_"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "QAGjFQUDq"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "i2kyawiT7"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:22Z"
+    },
+    {
+      "id": "episode/private-kurozuka-1x6",
+      "episode_id": "episode/private-kurozuka-1x6",
+      "title": "Private: Kurozuka 1x1",
+      "episode_name": "Private: Kurozuka 1x1",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1873_s1e6.webp",
+      "abyssid": "16345",
+      "abyssId": "16345",
+      "playxid": "a370afda41a7ae62dcb8d1b721b92bed",
+      "playXID": "a370afda41a7ae62dcb8d1b721b92bed",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16345",
+        "playXID": "a370afda41a7ae62dcb8d1b721b92bed",
+        "streamId": "16345",
+        "dubPlayerSrc": "/dub-player/t/16345/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a370afda41a7ae62dcb8d1b721b92bed&abyssId=16345"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16345",
+        "playXID": "a370afda41a7ae62dcb8d1b721b92bed",
+        "streamId": "16345",
+        "dubPlayerSrc": "/dub-player/t/16345/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a370afda41a7ae62dcb8d1b721b92bed&abyssId=16345"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/a370afda41a7ae62dcb8d1b721b92bed",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/a370afda41a7ae62dcb8d1b721b92bed"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16345",
+        "abyssId": "16345",
+        "playXID": "a370afda41a7ae62dcb8d1b721b92bed",
+        "title": "Kurozuka",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "7WxMRrdrLz"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "pV5ZTdsIw"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "uOKCEfoly"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "7WxMRrdrLz"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:23Z"
+    },
+    {
+      "id": "episode/private-kurozuka-1x9",
+      "episode_id": "episode/private-kurozuka-1x9",
+      "title": "Private: Kurozuka 1x1",
+      "episode_name": "Private: Kurozuka 1x1",
+      "episode_number": 9,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1873_s1e9.webp",
+      "abyssid": "16348",
+      "abyssId": "16348",
+      "playxid": "55a51239dc6fe8cf8c09ec91f36f5250",
+      "playXID": "55a51239dc6fe8cf8c09ec91f36f5250",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16348",
+        "playXID": "55a51239dc6fe8cf8c09ec91f36f5250",
+        "streamId": "16348",
+        "dubPlayerSrc": "/dub-player/t/16348/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=55a51239dc6fe8cf8c09ec91f36f5250&abyssId=16348"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16348",
+        "playXID": "55a51239dc6fe8cf8c09ec91f36f5250",
+        "streamId": "16348",
+        "dubPlayerSrc": "/dub-player/t/16348/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=55a51239dc6fe8cf8c09ec91f36f5250&abyssId=16348"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/55a51239dc6fe8cf8c09ec91f36f5250",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/55a51239dc6fe8cf8c09ec91f36f5250"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16348",
+        "abyssId": "16348",
+        "playXID": "55a51239dc6fe8cf8c09ec91f36f5250",
+        "title": "Kurozuka",
+        "season": 1,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "VPkkfvon5C"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "ettV_rpmi"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "8rcL8iN-A"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "VPkkfvon5C"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:23Z"
+    },
+    {
+      "id": "episode/private-kurozuka-1x8",
+      "episode_id": "episode/private-kurozuka-1x8",
+      "title": "Private: Kurozuka 1x1",
+      "episode_name": "Private: Kurozuka 1x1",
+      "episode_number": 8,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1873_s1e8.webp",
+      "abyssid": "16347",
+      "abyssId": "16347",
+      "playxid": "775bc655c77d679c193f1982dac04668",
+      "playXID": "775bc655c77d679c193f1982dac04668",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16347",
+        "playXID": "775bc655c77d679c193f1982dac04668",
+        "streamId": "16347",
+        "dubPlayerSrc": "/dub-player/t/16347/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=775bc655c77d679c193f1982dac04668&abyssId=16347"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16347",
+        "playXID": "775bc655c77d679c193f1982dac04668",
+        "streamId": "16347",
+        "dubPlayerSrc": "/dub-player/t/16347/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=775bc655c77d679c193f1982dac04668&abyssId=16347"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/775bc655c77d679c193f1982dac04668",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/775bc655c77d679c193f1982dac04668"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16347",
+        "abyssId": "16347",
+        "playXID": "775bc655c77d679c193f1982dac04668",
+        "title": "Kurozuka",
+        "season": 1,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "hBRqsTPNQ"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "YmL5A1Blh"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "e55DUurnj"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "hBRqsTPNQ"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:23Z"
+    },
+    {
+      "id": "episode/private-kurozuka-1x7",
+      "episode_id": "episode/private-kurozuka-1x7",
+      "title": "Private: Kurozuka 1x1",
+      "episode_name": "Private: Kurozuka 1x1",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1873_s1e7.webp",
+      "abyssid": "16346",
+      "abyssId": "16346",
+      "playxid": "d92d7ec47187a662aacda2d4b4c7628e",
+      "playXID": "d92d7ec47187a662aacda2d4b4c7628e",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16346",
+        "playXID": "d92d7ec47187a662aacda2d4b4c7628e",
+        "streamId": "16346",
+        "dubPlayerSrc": "/dub-player/t/16346/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d92d7ec47187a662aacda2d4b4c7628e&abyssId=16346"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16346",
+        "playXID": "d92d7ec47187a662aacda2d4b4c7628e",
+        "streamId": "16346",
+        "dubPlayerSrc": "/dub-player/t/16346/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d92d7ec47187a662aacda2d4b4c7628e&abyssId=16346"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/d92d7ec47187a662aacda2d4b4c7628e",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/d92d7ec47187a662aacda2d4b4c7628e"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16346",
+        "abyssId": "16346",
+        "playXID": "d92d7ec47187a662aacda2d4b4c7628e",
+        "title": "Kurozuka",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "CUlcNqeOcQ"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "JNqq0PsRH"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "QU7Q1ojWa"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "CUlcNqeOcQ"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:23Z"
+    },
+    {
+      "id": "episode/private-kurozuka-1x10",
+      "episode_id": "episode/private-kurozuka-1x10",
+      "title": "Private: Kurozuka 1x1",
+      "episode_name": "Private: Kurozuka 1x1",
+      "episode_number": 10,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1873_s1e10.webp",
+      "abyssid": "16349",
+      "abyssId": "16349",
+      "playxid": "afd208b1d98bc70e0aedc93bb4371c14",
+      "playXID": "afd208b1d98bc70e0aedc93bb4371c14",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16349",
+        "playXID": "afd208b1d98bc70e0aedc93bb4371c14",
+        "streamId": "16349",
+        "dubPlayerSrc": "/dub-player/t/16349/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=afd208b1d98bc70e0aedc93bb4371c14&abyssId=16349"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16349",
+        "playXID": "afd208b1d98bc70e0aedc93bb4371c14",
+        "streamId": "16349",
+        "dubPlayerSrc": "/dub-player/t/16349/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=afd208b1d98bc70e0aedc93bb4371c14&abyssId=16349"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/afd208b1d98bc70e0aedc93bb4371c14",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/afd208b1d98bc70e0aedc93bb4371c14"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16349",
+        "abyssId": "16349",
+        "playXID": "afd208b1d98bc70e0aedc93bb4371c14",
+        "title": "Kurozuka",
+        "season": 1,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "1yGcCnOSd"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "MfheP7IBD"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "deglQEFuN"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/ec2b6114c44f1f2e40640352941191a5/master.m3u8?md5=Ke3iM0eM6KOLBMgyfm5a9Q&expires=1792166474",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/ec2b6114c44f1f2e40640352941191a5/master.m3u8?md5=Ke3iM0eM6KOLBMgyfm5a9Q&expires=1792166474",
+            "videoSource": "https://ravok.buzz/cdn/hls/ec2b6114c44f1f2e40640352941191a5/master.m3u8?md5=Ke3iM0eM6KOLBMgyfm5a9Q&expires=1792166474",
+            "videoImage": "https://as-cdn29.top/p/kyRNPPvNgCkBuVcQdTxzUw_JuHe7XclyDXTTi3MV59Ue13FRpsTtr-tvqooIXZB2rL3O0-JjDOHyz7-KvsW0GQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "afd208b1d98bc70e0aedc93bb4371c14",
+                "streamUrl": "https://ravok.buzz/cdn/hls/ec2b6114c44f1f2e40640352941191a5/master.m3u8?md5=Ke3iM0eM6KOLBMgyfm5a9Q&expires=1792166474",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/ec2b6114c44f1f2e40640352941191a5/master.m3u8?md5=Ke3iM0eM6KOLBMgyfm5a9Q&expires=1792166474",
+                "videoSource": "https://ravok.buzz/cdn/hls/ec2b6114c44f1f2e40640352941191a5/master.m3u8?md5=Ke3iM0eM6KOLBMgyfm5a9Q&expires=1792166474",
+                "link": "https://ravok.buzz/cdn/hls/ec2b6114c44f1f2e40640352941191a5/master.m3u8?md5=Ke3iM0eM6KOLBMgyfm5a9Q&expires=1792166474",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/kyRNPPvNgCkBuVcQdTxzUw_JuHe7XclyDXTTi3MV59Ue13FRpsTtr-tvqooIXZB2rL3O0-JjDOHyz7-KvsW0GQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "1yGcCnOSd"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:25Z"
+    },
+    {
+      "id": "episode/private-kurozuka-1x11",
+      "episode_id": "episode/private-kurozuka-1x11",
+      "title": "Private: Kurozuka 1x1",
+      "episode_name": "Private: Kurozuka 1x1",
+      "episode_number": 11,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1873_s1e11.webp",
+      "abyssid": "16350",
+      "abyssId": "16350",
+      "playxid": "f72a23858b9865a40479a3ce3f16649e",
+      "playXID": "f72a23858b9865a40479a3ce3f16649e",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16350",
+        "playXID": "f72a23858b9865a40479a3ce3f16649e",
+        "streamId": "16350",
+        "dubPlayerSrc": "/dub-player/t/16350/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f72a23858b9865a40479a3ce3f16649e&abyssId=16350"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16350",
+        "playXID": "f72a23858b9865a40479a3ce3f16649e",
+        "streamId": "16350",
+        "dubPlayerSrc": "/dub-player/t/16350/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f72a23858b9865a40479a3ce3f16649e&abyssId=16350"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/f72a23858b9865a40479a3ce3f16649e",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/f72a23858b9865a40479a3ce3f16649e"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16350",
+        "abyssId": "16350",
+        "playXID": "f72a23858b9865a40479a3ce3f16649e",
+        "title": "Kurozuka",
+        "season": 1,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "jXmx38Qny"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "pF7u2PvED"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "q2Xv0d0N-"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "jXmx38Qny"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:25Z"
+    },
+    {
+      "id": "episode/private-kurozuka-1x12",
+      "episode_id": "episode/private-kurozuka-1x12",
+      "title": "Private: Kurozuka 1x1",
+      "episode_name": "Private: Kurozuka 1x1",
+      "episode_number": 12,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1873_s1e12.webp",
+      "abyssid": "16351",
+      "abyssId": "16351",
+      "playxid": "1a3c31f4aad8845d25e421c69b07610d",
+      "playXID": "1a3c31f4aad8845d25e421c69b07610d",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16351",
+        "playXID": "1a3c31f4aad8845d25e421c69b07610d",
+        "streamId": "16351",
+        "dubPlayerSrc": "/dub-player/t/16351/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=1a3c31f4aad8845d25e421c69b07610d&abyssId=16351"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16351",
+        "playXID": "1a3c31f4aad8845d25e421c69b07610d",
+        "streamId": "16351",
+        "dubPlayerSrc": "/dub-player/t/16351/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=1a3c31f4aad8845d25e421c69b07610d&abyssId=16351"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/1a3c31f4aad8845d25e421c69b07610d",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/1a3c31f4aad8845d25e421c69b07610d"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16351",
+        "abyssId": "16351",
+        "playXID": "1a3c31f4aad8845d25e421c69b07610d",
+        "title": "Kurozuka",
+        "season": 1,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "I06QmoV_2"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "Irwd9zMap"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "UELwZO3GL"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/b3422d848934124bfb38b3c3e3fb73e2/master.m3u8?md5=DioDu6fxpjax41MKMEtw_g&expires=1792166475",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/b3422d848934124bfb38b3c3e3fb73e2/master.m3u8?md5=DioDu6fxpjax41MKMEtw_g&expires=1792166475",
+            "videoSource": "https://ravok.buzz/cdn/hls/b3422d848934124bfb38b3c3e3fb73e2/master.m3u8?md5=DioDu6fxpjax41MKMEtw_g&expires=1792166475",
+            "videoImage": "https://as-cdn27.top/p/kyRNPPvNgCkBuVcQdTxzUyM-ykXpd5qElX3LnQOvq-2oArTNrm857PWfAvBX_7hgFupY_nxloMWCAEChR5dggw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "1a3c31f4aad8845d25e421c69b07610d",
+                "streamUrl": "https://ravok.buzz/cdn/hls/b3422d848934124bfb38b3c3e3fb73e2/master.m3u8?md5=DioDu6fxpjax41MKMEtw_g&expires=1792166475",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/b3422d848934124bfb38b3c3e3fb73e2/master.m3u8?md5=DioDu6fxpjax41MKMEtw_g&expires=1792166475",
+                "videoSource": "https://ravok.buzz/cdn/hls/b3422d848934124bfb38b3c3e3fb73e2/master.m3u8?md5=DioDu6fxpjax41MKMEtw_g&expires=1792166475",
+                "link": "https://ravok.buzz/cdn/hls/b3422d848934124bfb38b3c3e3fb73e2/master.m3u8?md5=DioDu6fxpjax41MKMEtw_g&expires=1792166475",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/kyRNPPvNgCkBuVcQdTxzUyM-ykXpd5qElX3LnQOvq-2oArTNrm857PWfAvBX_7hgFupY_nxloMWCAEChR5dggw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "I06QmoV_2"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:25Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T14:01:19Z",
+  "updated_at": "2026-10-16T14:01:25Z"
+}

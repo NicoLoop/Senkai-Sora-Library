@@ -1,0 +1,1343 @@
+{
+  "id": "series/once-upon-a-witchs-death",
+  "series_name": "Once Upon a Witch's Death",
+  "title": "Once Upon a Witch's Death",
+  "banner": "https://image.tmdb.org/t/p/w1280/3UxFOZKCZM8UYMJ4N0DZg2dIsNQ.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/5Gr2mDFSGHhiEYrNfP6vbYtuNrT.jpg",
+  "genra": [
+    "Fantasy",
+    "Sci-Fi"
+  ],
+  "genres": [
+    "Fantasy",
+    "Sci-Fi"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Japanese"
+  ],
+  "synopsis": "Meg Raspberry is just an apprentice witch celebrating her 17th birthday. That is, until Faust, her magic teacher and Perennial Witch of the Seven Sages, suddenly reveals she is going to die. To stop the Death Sentence curse, Meg must create the Seed of Life using tears of joy from 1,000 people. Join Meg on her travels as she collects the happy tears from everyone she meets to gain eternal life!",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Once Upon a Witch's Death 1x1",
+          "id": "episode/once-upon-a-witchs-death-1x1",
+          "image": "https://img.watchanimeworld.one/image/1684/1/1.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "Once Upon a Witch's Death 1x2",
+          "id": "episode/once-upon-a-witchs-death-1x2",
+          "image": "https://img.watchanimeworld.one/image/1684/1/2.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "Once Upon a Witch's Death 1x3",
+          "id": "episode/once-upon-a-witchs-death-1x3",
+          "image": "https://img.watchanimeworld.one/image/1684/1/3.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "Once Upon a Witch's Death 1x4",
+          "id": "episode/once-upon-a-witchs-death-1x4",
+          "image": "https://img.watchanimeworld.one/image/1684/1/4.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "Once Upon a Witch's Death 1x5",
+          "id": "episode/once-upon-a-witchs-death-1x5",
+          "image": "https://img.watchanimeworld.one/image/1684/1/5.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "Once Upon a Witch's Death 1x6",
+          "id": "episode/once-upon-a-witchs-death-1x6",
+          "image": "https://img.watchanimeworld.one/image/1684/1/6.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "Once Upon a Witch's Death 1x7",
+          "id": "episode/once-upon-a-witchs-death-1x7",
+          "image": "https://img.watchanimeworld.one/image/1684/1/7.webp",
+          "season": 1
+        },
+        {
+          "episode": 8,
+          "title": "Once Upon a Witch's Death 1x8",
+          "id": "episode/once-upon-a-witchs-death-1x8",
+          "image": "https://img.watchanimeworld.one/image/1684/1/8.webp",
+          "season": 1
+        },
+        {
+          "episode": 9,
+          "title": "Once Upon a Witch's Death 1x9",
+          "id": "episode/once-upon-a-witchs-death-1x9",
+          "image": "https://img.watchanimeworld.one/image/1684/1/9.webp",
+          "season": 1
+        },
+        {
+          "episode": 10,
+          "title": "Once Upon a Witch's Death 1x10",
+          "id": "episode/once-upon-a-witchs-death-1x10",
+          "image": "https://img.watchanimeworld.one/image/1684/1/10.webp",
+          "season": 1
+        },
+        {
+          "episode": 11,
+          "title": "Once Upon a Witch's Death 1x11",
+          "id": "episode/once-upon-a-witchs-death-1x11",
+          "image": "https://img.watchanimeworld.one/img/thumb_1684_s1e11.webp",
+          "season": 1
+        },
+        {
+          "episode": 12,
+          "title": "Once Upon a Witch's Death 1x12",
+          "id": "episode/once-upon-a-witchs-death-1x12",
+          "image": "https://img.watchanimeworld.one/img/thumb_1684_s1e12.webp",
+          "season": 1
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/once-upon-a-witchs-death-1x3",
+      "episode_id": "episode/once-upon-a-witchs-death-1x3",
+      "title": "Once Upon a Witch's Death 1x1",
+      "episode_name": "Once Upon a Witch's Death 1x1",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1684/1/3.webp",
+      "abyssid": "15525",
+      "abyssId": "15525",
+      "playxid": "191595dc11b4d6e54f01504e3aa92f96",
+      "playXID": "191595dc11b4d6e54f01504e3aa92f96",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15525",
+        "playXID": "191595dc11b4d6e54f01504e3aa92f96",
+        "streamId": "15525",
+        "dubPlayerSrc": "/dub-player/t/15525/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=191595dc11b4d6e54f01504e3aa92f96&abyssId=15525"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15525",
+        "playXID": "191595dc11b4d6e54f01504e3aa92f96",
+        "streamId": "15525",
+        "dubPlayerSrc": "/dub-player/t/15525/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=191595dc11b4d6e54f01504e3aa92f96&abyssId=15525"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/191595dc11b4d6e54f01504e3aa92f96",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/191595dc11b4d6e54f01504e3aa92f96"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15525",
+        "abyssId": "15525",
+        "playXID": "191595dc11b4d6e54f01504e3aa92f96",
+        "title": "Once Upon a Witch's Death",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "gZ1D_3Yzb"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "zPjsWdK9i"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/232f9cf35b5652f49c3e9ae5e130af83/master.m3u8?md5=Qt_plJO-BcEcKIzAsoQ1gA&expires=1792166598",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/232f9cf35b5652f49c3e9ae5e130af83/master.m3u8?md5=Qt_plJO-BcEcKIzAsoQ1gA&expires=1792166598",
+            "videoSource": "https://ravok.buzz/cdn/hls/232f9cf35b5652f49c3e9ae5e130af83/master.m3u8?md5=Qt_plJO-BcEcKIzAsoQ1gA&expires=1792166598",
+            "videoImage": "https://as-cdn27.top/p/p72mvtd87K1xoSW3CNRIJuE0Z0HBQ3bX8mHq-3eRZOwH3sgZBiTDRMh4PzdEx66b_BpexmgwxqwF7G9DoegC-w.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "191595dc11b4d6e54f01504e3aa92f96",
+                "streamUrl": "https://ravok.buzz/cdn/hls/232f9cf35b5652f49c3e9ae5e130af83/master.m3u8?md5=Qt_plJO-BcEcKIzAsoQ1gA&expires=1792166598",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/232f9cf35b5652f49c3e9ae5e130af83/master.m3u8?md5=Qt_plJO-BcEcKIzAsoQ1gA&expires=1792166598",
+                "videoSource": "https://ravok.buzz/cdn/hls/232f9cf35b5652f49c3e9ae5e130af83/master.m3u8?md5=Qt_plJO-BcEcKIzAsoQ1gA&expires=1792166598",
+                "link": "https://ravok.buzz/cdn/hls/232f9cf35b5652f49c3e9ae5e130af83/master.m3u8?md5=Qt_plJO-BcEcKIzAsoQ1gA&expires=1792166598",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/p72mvtd87K1xoSW3CNRIJuE0Z0HBQ3bX8mHq-3eRZOwH3sgZBiTDRMh4PzdEx66b_BpexmgwxqwF7G9DoegC-w.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "gZ1D_3Yzb"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:28Z"
+    },
+    {
+      "id": "episode/once-upon-a-witchs-death-1x1",
+      "episode_id": "episode/once-upon-a-witchs-death-1x1",
+      "title": "Once Upon a Witch's Death 1x1",
+      "episode_name": "Once Upon a Witch's Death 1x1",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1684/1/1.webp",
+      "abyssid": "15424",
+      "abyssId": "15424",
+      "playxid": "a529ea43c249fcbee9685c74d8baa9eb",
+      "playXID": "a529ea43c249fcbee9685c74d8baa9eb",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15424",
+        "playXID": "a529ea43c249fcbee9685c74d8baa9eb",
+        "streamId": "15424",
+        "dubPlayerSrc": "/dub-player/t/15424/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a529ea43c249fcbee9685c74d8baa9eb&abyssId=15424"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15424",
+        "playXID": "a529ea43c249fcbee9685c74d8baa9eb",
+        "streamId": "15424",
+        "dubPlayerSrc": "/dub-player/t/15424/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a529ea43c249fcbee9685c74d8baa9eb&abyssId=15424"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/a529ea43c249fcbee9685c74d8baa9eb",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/a529ea43c249fcbee9685c74d8baa9eb"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15424",
+        "abyssId": "15424",
+        "playXID": "a529ea43c249fcbee9685c74d8baa9eb",
+        "title": "Once Upon a Witch's Death",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "fvHdysS5C"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "1ImPK4QD0"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "_N4MVhXdN"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/c70cf83b050232537aa60cd2ee22922d/master.m3u8?md5=US32nVeNfuYqA0q-6iDmfA&expires=1792166598",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/c70cf83b050232537aa60cd2ee22922d/master.m3u8?md5=US32nVeNfuYqA0q-6iDmfA&expires=1792166598",
+            "videoSource": "https://ravok.buzz/cdn/hls/c70cf83b050232537aa60cd2ee22922d/master.m3u8?md5=US32nVeNfuYqA0q-6iDmfA&expires=1792166598",
+            "videoImage": "https://as-cdn31.top/p/2aISRVpRhvFAjSjOr1w5uwYA9X6NKf7Y1YJY7EmcL_3XJHseIwvSDUUU9n9iowWCeugBQ25Jv_HfJPMxmAXKJQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "a529ea43c249fcbee9685c74d8baa9eb",
+                "streamUrl": "https://ravok.buzz/cdn/hls/c70cf83b050232537aa60cd2ee22922d/master.m3u8?md5=US32nVeNfuYqA0q-6iDmfA&expires=1792166598",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/c70cf83b050232537aa60cd2ee22922d/master.m3u8?md5=US32nVeNfuYqA0q-6iDmfA&expires=1792166598",
+                "videoSource": "https://ravok.buzz/cdn/hls/c70cf83b050232537aa60cd2ee22922d/master.m3u8?md5=US32nVeNfuYqA0q-6iDmfA&expires=1792166598",
+                "link": "https://ravok.buzz/cdn/hls/c70cf83b050232537aa60cd2ee22922d/master.m3u8?md5=US32nVeNfuYqA0q-6iDmfA&expires=1792166598",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/2aISRVpRhvFAjSjOr1w5uwYA9X6NKf7Y1YJY7EmcL_3XJHseIwvSDUUU9n9iowWCeugBQ25Jv_HfJPMxmAXKJQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "fvHdysS5C"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:28Z"
+    },
+    {
+      "id": "episode/once-upon-a-witchs-death-1x2",
+      "episode_id": "episode/once-upon-a-witchs-death-1x2",
+      "title": "Once Upon a Witch's Death 1x1",
+      "episode_name": "Once Upon a Witch's Death 1x1",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1684/1/2.webp",
+      "abyssid": "15538",
+      "abyssId": "15538",
+      "playxid": "de07edeeba9f475c9395959494cd8f64",
+      "playXID": "de07edeeba9f475c9395959494cd8f64",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15538",
+        "playXID": "de07edeeba9f475c9395959494cd8f64",
+        "streamId": "15538",
+        "dubPlayerSrc": "/dub-player/t/15538/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=de07edeeba9f475c9395959494cd8f64&abyssId=15538"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15538",
+        "playXID": "de07edeeba9f475c9395959494cd8f64",
+        "streamId": "15538",
+        "dubPlayerSrc": "/dub-player/t/15538/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=de07edeeba9f475c9395959494cd8f64&abyssId=15538"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/de07edeeba9f475c9395959494cd8f64",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/de07edeeba9f475c9395959494cd8f64"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15538",
+        "abyssId": "15538",
+        "playXID": "de07edeeba9f475c9395959494cd8f64",
+        "title": "Once Upon a Witch's Death",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "9h1QLz7sV"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "JJKbWHcYu"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "AJapt8QeY"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/96639994d92d5d5c6bf24252fe2f54f4/master.m3u8?md5=kFHgFmPH-F_yiARtzMaXDQ&expires=1792166598",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/96639994d92d5d5c6bf24252fe2f54f4/master.m3u8?md5=kFHgFmPH-F_yiARtzMaXDQ&expires=1792166598",
+            "videoSource": "https://ravok.buzz/cdn/hls/96639994d92d5d5c6bf24252fe2f54f4/master.m3u8?md5=kFHgFmPH-F_yiARtzMaXDQ&expires=1792166598",
+            "videoImage": "https://as-cdn27.top/p/ZEKBGYq9XAUhddyHkNirdvVeaSIMdMUlie1UM6qjb2DoyxGmvYCv-Xx8fRR00Ka1w4ICl9iAcHhFh5SEOUHB8Q.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "de07edeeba9f475c9395959494cd8f64",
+                "streamUrl": "https://ravok.buzz/cdn/hls/96639994d92d5d5c6bf24252fe2f54f4/master.m3u8?md5=kFHgFmPH-F_yiARtzMaXDQ&expires=1792166598",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/96639994d92d5d5c6bf24252fe2f54f4/master.m3u8?md5=kFHgFmPH-F_yiARtzMaXDQ&expires=1792166598",
+                "videoSource": "https://ravok.buzz/cdn/hls/96639994d92d5d5c6bf24252fe2f54f4/master.m3u8?md5=kFHgFmPH-F_yiARtzMaXDQ&expires=1792166598",
+                "link": "https://ravok.buzz/cdn/hls/96639994d92d5d5c6bf24252fe2f54f4/master.m3u8?md5=kFHgFmPH-F_yiARtzMaXDQ&expires=1792166598",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/ZEKBGYq9XAUhddyHkNirdvVeaSIMdMUlie1UM6qjb2DoyxGmvYCv-Xx8fRR00Ka1w4ICl9iAcHhFh5SEOUHB8Q.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "9h1QLz7sV"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:28Z"
+    },
+    {
+      "id": "episode/once-upon-a-witchs-death-1x4",
+      "episode_id": "episode/once-upon-a-witchs-death-1x4",
+      "title": "Once Upon a Witch's Death 1x1",
+      "episode_name": "Once Upon a Witch's Death 1x1",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1684/1/4.webp",
+      "abyssid": "15539",
+      "abyssId": "15539",
+      "playxid": "c1714160652ca6408774473810765950",
+      "playXID": "c1714160652ca6408774473810765950",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15539",
+        "playXID": "c1714160652ca6408774473810765950",
+        "streamId": "15539",
+        "dubPlayerSrc": "/dub-player/t/15539/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c1714160652ca6408774473810765950&abyssId=15539"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15539",
+        "playXID": "c1714160652ca6408774473810765950",
+        "streamId": "15539",
+        "dubPlayerSrc": "/dub-player/t/15539/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c1714160652ca6408774473810765950&abyssId=15539"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/c1714160652ca6408774473810765950",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/c1714160652ca6408774473810765950"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15539",
+        "abyssId": "15539",
+        "playXID": "c1714160652ca6408774473810765950",
+        "title": "Once Upon a Witch's Death",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "uBoWj4igV"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "Of0S8c32M"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "6wS04cPABL"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/5a478a4797ebfcdaef81aca1abc05db5/master.m3u8?md5=gj06Jrv27VO75WZxunJlkQ&expires=1792166599",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/5a478a4797ebfcdaef81aca1abc05db5/master.m3u8?md5=gj06Jrv27VO75WZxunJlkQ&expires=1792166599",
+            "videoSource": "https://ravok.buzz/cdn/hls/5a478a4797ebfcdaef81aca1abc05db5/master.m3u8?md5=gj06Jrv27VO75WZxunJlkQ&expires=1792166599",
+            "videoImage": "https://as-cdn31.top/p/txY7TFxdul5Nvks1w4Ewx0lXdE9-A16RCwYsd8JJGHMKuLIPaU7WV1hhF3MVPRi6O2C1NaAtGz-Yb03w6XmasA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "c1714160652ca6408774473810765950",
+                "streamUrl": "https://ravok.buzz/cdn/hls/5a478a4797ebfcdaef81aca1abc05db5/master.m3u8?md5=gj06Jrv27VO75WZxunJlkQ&expires=1792166599",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/5a478a4797ebfcdaef81aca1abc05db5/master.m3u8?md5=gj06Jrv27VO75WZxunJlkQ&expires=1792166599",
+                "videoSource": "https://ravok.buzz/cdn/hls/5a478a4797ebfcdaef81aca1abc05db5/master.m3u8?md5=gj06Jrv27VO75WZxunJlkQ&expires=1792166599",
+                "link": "https://ravok.buzz/cdn/hls/5a478a4797ebfcdaef81aca1abc05db5/master.m3u8?md5=gj06Jrv27VO75WZxunJlkQ&expires=1792166599",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/txY7TFxdul5Nvks1w4Ewx0lXdE9-A16RCwYsd8JJGHMKuLIPaU7WV1hhF3MVPRi6O2C1NaAtGz-Yb03w6XmasA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "uBoWj4igV"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:29Z"
+    },
+    {
+      "id": "episode/once-upon-a-witchs-death-1x5",
+      "episode_id": "episode/once-upon-a-witchs-death-1x5",
+      "title": "Once Upon a Witch's Death 1x1",
+      "episode_name": "Once Upon a Witch's Death 1x1",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1684/1/5.webp",
+      "abyssid": "15674",
+      "abyssId": "15674",
+      "playxid": "133a1d4c028736d9023d335f06594a0e",
+      "playXID": "133a1d4c028736d9023d335f06594a0e",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15674",
+        "playXID": "133a1d4c028736d9023d335f06594a0e",
+        "streamId": "15674",
+        "dubPlayerSrc": "/dub-player/t/15674/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=133a1d4c028736d9023d335f06594a0e&abyssId=15674"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15674",
+        "playXID": "133a1d4c028736d9023d335f06594a0e",
+        "streamId": "15674",
+        "dubPlayerSrc": "/dub-player/t/15674/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=133a1d4c028736d9023d335f06594a0e&abyssId=15674"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/133a1d4c028736d9023d335f06594a0e",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/133a1d4c028736d9023d335f06594a0e"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15674",
+        "abyssId": "15674",
+        "playXID": "133a1d4c028736d9023d335f06594a0e",
+        "title": "Once Upon a Witch's Death",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "A56moK9mf"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "gG-v-w1nV"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "bZYpDNvLP"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/4273743b90f3b9a76c4113d3f0aaab0b/master.m3u8?md5=3E0ycynpCfFqD9p1-MzDGw&expires=1792166598",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/4273743b90f3b9a76c4113d3f0aaab0b/master.m3u8?md5=3E0ycynpCfFqD9p1-MzDGw&expires=1792166598",
+            "videoSource": "https://ravok.buzz/cdn/hls/4273743b90f3b9a76c4113d3f0aaab0b/master.m3u8?md5=3E0ycynpCfFqD9p1-MzDGw&expires=1792166598",
+            "videoImage": "https://as-cdn30.top/p/zk8whVN4NWaPS3gnBxzYHud1DhqYCPpXpYZoWoeEra0De80KlG-_xIgWI8XfspXoIVaKmj7nTankgNwzOckyMA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "133a1d4c028736d9023d335f06594a0e",
+                "streamUrl": "https://ravok.buzz/cdn/hls/4273743b90f3b9a76c4113d3f0aaab0b/master.m3u8?md5=3E0ycynpCfFqD9p1-MzDGw&expires=1792166598",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/4273743b90f3b9a76c4113d3f0aaab0b/master.m3u8?md5=3E0ycynpCfFqD9p1-MzDGw&expires=1792166598",
+                "videoSource": "https://ravok.buzz/cdn/hls/4273743b90f3b9a76c4113d3f0aaab0b/master.m3u8?md5=3E0ycynpCfFqD9p1-MzDGw&expires=1792166598",
+                "link": "https://ravok.buzz/cdn/hls/4273743b90f3b9a76c4113d3f0aaab0b/master.m3u8?md5=3E0ycynpCfFqD9p1-MzDGw&expires=1792166598",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/zk8whVN4NWaPS3gnBxzYHud1DhqYCPpXpYZoWoeEra0De80KlG-_xIgWI8XfspXoIVaKmj7nTankgNwzOckyMA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "A56moK9mf"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:29Z"
+    },
+    {
+      "id": "episode/once-upon-a-witchs-death-1x6",
+      "episode_id": "episode/once-upon-a-witchs-death-1x6",
+      "title": "Once Upon a Witch's Death 1x1",
+      "episode_name": "Once Upon a Witch's Death 1x1",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1684/1/6.webp",
+      "abyssid": "15690",
+      "abyssId": "15690",
+      "playxid": "1f086a86e2a604cfa7787dbbffe246cf",
+      "playXID": "1f086a86e2a604cfa7787dbbffe246cf",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15690",
+        "playXID": "1f086a86e2a604cfa7787dbbffe246cf",
+        "streamId": "15690",
+        "dubPlayerSrc": "/dub-player/t/15690/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=1f086a86e2a604cfa7787dbbffe246cf&abyssId=15690"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15690",
+        "playXID": "1f086a86e2a604cfa7787dbbffe246cf",
+        "streamId": "15690",
+        "dubPlayerSrc": "/dub-player/t/15690/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=1f086a86e2a604cfa7787dbbffe246cf&abyssId=15690"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/1f086a86e2a604cfa7787dbbffe246cf",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/1f086a86e2a604cfa7787dbbffe246cf"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15690",
+        "abyssId": "15690",
+        "playXID": "1f086a86e2a604cfa7787dbbffe246cf",
+        "title": "Once Upon a Witch's Death",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "YQ5giesrO"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "IdlXqxXfN"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "Cq-vFTqLj"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/599f303052ba9c06c24b45888f054ae8/master.m3u8?md5=XXijtYf8pFkDQ9ucnRIh_g&expires=1792166600",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/599f303052ba9c06c24b45888f054ae8/master.m3u8?md5=XXijtYf8pFkDQ9ucnRIh_g&expires=1792166600",
+            "videoSource": "https://ravok.buzz/cdn/hls/599f303052ba9c06c24b45888f054ae8/master.m3u8?md5=XXijtYf8pFkDQ9ucnRIh_g&expires=1792166600",
+            "videoImage": "https://as-cdn28.top/p/SXs-f2hBEgF4fkfGwIbIedHA--aIbCvVeMbI1JxSARY_nO-OXFX3_9hHOQweBBerGVa0HPNjhEazSuhpRGGFBA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "1f086a86e2a604cfa7787dbbffe246cf",
+                "streamUrl": "https://ravok.buzz/cdn/hls/599f303052ba9c06c24b45888f054ae8/master.m3u8?md5=XXijtYf8pFkDQ9ucnRIh_g&expires=1792166600",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/599f303052ba9c06c24b45888f054ae8/master.m3u8?md5=XXijtYf8pFkDQ9ucnRIh_g&expires=1792166600",
+                "videoSource": "https://ravok.buzz/cdn/hls/599f303052ba9c06c24b45888f054ae8/master.m3u8?md5=XXijtYf8pFkDQ9ucnRIh_g&expires=1792166600",
+                "link": "https://ravok.buzz/cdn/hls/599f303052ba9c06c24b45888f054ae8/master.m3u8?md5=XXijtYf8pFkDQ9ucnRIh_g&expires=1792166600",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/SXs-f2hBEgF4fkfGwIbIedHA--aIbCvVeMbI1JxSARY_nO-OXFX3_9hHOQweBBerGVa0HPNjhEazSuhpRGGFBA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "YQ5giesrO"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:30Z"
+    },
+    {
+      "id": "episode/once-upon-a-witchs-death-1x8",
+      "episode_id": "episode/once-upon-a-witchs-death-1x8",
+      "title": "Once Upon a Witch's Death 1x1",
+      "episode_name": "Once Upon a Witch's Death 1x1",
+      "episode_number": 8,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1684/1/8.webp",
+      "abyssid": "15765",
+      "abyssId": "15765",
+      "playxid": "9e69fd6d1c5d1cef75ffbe159c1f322e",
+      "playXID": "9e69fd6d1c5d1cef75ffbe159c1f322e",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15765",
+        "playXID": "9e69fd6d1c5d1cef75ffbe159c1f322e",
+        "streamId": "15765",
+        "dubPlayerSrc": "/dub-player/t/15765/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9e69fd6d1c5d1cef75ffbe159c1f322e&abyssId=15765"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15765",
+        "playXID": "9e69fd6d1c5d1cef75ffbe159c1f322e",
+        "streamId": "15765",
+        "dubPlayerSrc": "/dub-player/t/15765/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9e69fd6d1c5d1cef75ffbe159c1f322e&abyssId=15765"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/9e69fd6d1c5d1cef75ffbe159c1f322e",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/9e69fd6d1c5d1cef75ffbe159c1f322e"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15765",
+        "abyssId": "15765",
+        "playXID": "9e69fd6d1c5d1cef75ffbe159c1f322e",
+        "title": "Once Upon a Witch's Death",
+        "season": 1,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "FgYEMu7Rh"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "cRSZjMKx1F"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "Xz9lNXsIR"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/a6628d64db8c0d91374285c5a01addad/master.m3u8?md5=HElMHzEWlHcHQFhupu1pMw&expires=1792166600",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/a6628d64db8c0d91374285c5a01addad/master.m3u8?md5=HElMHzEWlHcHQFhupu1pMw&expires=1792166600",
+            "videoSource": "https://ravok.buzz/cdn/hls/a6628d64db8c0d91374285c5a01addad/master.m3u8?md5=HElMHzEWlHcHQFhupu1pMw&expires=1792166600",
+            "videoImage": "https://as-cdn30.top/p/SDfUp1CfmRTpWbHqik4FAf6KfS2_6Ox4YrzjDA3qV9gAq71kHmDvIS2r6TfCbTqlBnnU80mAAltQlC9zf1GDDQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "9e69fd6d1c5d1cef75ffbe159c1f322e",
+                "streamUrl": "https://ravok.buzz/cdn/hls/a6628d64db8c0d91374285c5a01addad/master.m3u8?md5=HElMHzEWlHcHQFhupu1pMw&expires=1792166600",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/a6628d64db8c0d91374285c5a01addad/master.m3u8?md5=HElMHzEWlHcHQFhupu1pMw&expires=1792166600",
+                "videoSource": "https://ravok.buzz/cdn/hls/a6628d64db8c0d91374285c5a01addad/master.m3u8?md5=HElMHzEWlHcHQFhupu1pMw&expires=1792166600",
+                "link": "https://ravok.buzz/cdn/hls/a6628d64db8c0d91374285c5a01addad/master.m3u8?md5=HElMHzEWlHcHQFhupu1pMw&expires=1792166600",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/SDfUp1CfmRTpWbHqik4FAf6KfS2_6Ox4YrzjDA3qV9gAq71kHmDvIS2r6TfCbTqlBnnU80mAAltQlC9zf1GDDQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "FgYEMu7Rh"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:30Z"
+    },
+    {
+      "id": "episode/once-upon-a-witchs-death-1x7",
+      "episode_id": "episode/once-upon-a-witchs-death-1x7",
+      "title": "Once Upon a Witch's Death 1x1",
+      "episode_name": "Once Upon a Witch's Death 1x1",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1684/1/7.webp",
+      "abyssid": "15749",
+      "abyssId": "15749",
+      "playxid": "b31f0c758bb498b5d56b5fea80f313a7",
+      "playXID": "b31f0c758bb498b5d56b5fea80f313a7",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15749",
+        "playXID": "b31f0c758bb498b5d56b5fea80f313a7",
+        "streamId": "15749",
+        "dubPlayerSrc": "/dub-player/t/15749/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b31f0c758bb498b5d56b5fea80f313a7&abyssId=15749"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15749",
+        "playXID": "b31f0c758bb498b5d56b5fea80f313a7",
+        "streamId": "15749",
+        "dubPlayerSrc": "/dub-player/t/15749/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b31f0c758bb498b5d56b5fea80f313a7&abyssId=15749"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/b31f0c758bb498b5d56b5fea80f313a7",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/b31f0c758bb498b5d56b5fea80f313a7"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15749",
+        "abyssId": "15749",
+        "playXID": "b31f0c758bb498b5d56b5fea80f313a7",
+        "title": "Once Upon a Witch's Death",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "vqgPfy6fH"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "Lyj10ug6x"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "tEPBMrwwtl"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/9e1431a625930119c5de09f7a0230c7f/master.m3u8?md5=GIH-bQJrW1Zs_MI5GZYEuw&expires=1792166600",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/9e1431a625930119c5de09f7a0230c7f/master.m3u8?md5=GIH-bQJrW1Zs_MI5GZYEuw&expires=1792166600",
+            "videoSource": "https://ravok.buzz/cdn/hls/9e1431a625930119c5de09f7a0230c7f/master.m3u8?md5=GIH-bQJrW1Zs_MI5GZYEuw&expires=1792166600",
+            "videoImage": "https://as-cdn30.top/p/iYkoQrqulM1_22KqnYmionV24POFrgNTwKbTigPR3uM72MDPyJpRO69CU_G5t5LFX80EREd1D4XI-CNnGGEN1g.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "b31f0c758bb498b5d56b5fea80f313a7",
+                "streamUrl": "https://ravok.buzz/cdn/hls/9e1431a625930119c5de09f7a0230c7f/master.m3u8?md5=GIH-bQJrW1Zs_MI5GZYEuw&expires=1792166600",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/9e1431a625930119c5de09f7a0230c7f/master.m3u8?md5=GIH-bQJrW1Zs_MI5GZYEuw&expires=1792166600",
+                "videoSource": "https://ravok.buzz/cdn/hls/9e1431a625930119c5de09f7a0230c7f/master.m3u8?md5=GIH-bQJrW1Zs_MI5GZYEuw&expires=1792166600",
+                "link": "https://ravok.buzz/cdn/hls/9e1431a625930119c5de09f7a0230c7f/master.m3u8?md5=GIH-bQJrW1Zs_MI5GZYEuw&expires=1792166600",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/iYkoQrqulM1_22KqnYmionV24POFrgNTwKbTigPR3uM72MDPyJpRO69CU_G5t5LFX80EREd1D4XI-CNnGGEN1g.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "vqgPfy6fH"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:30Z"
+    },
+    {
+      "id": "episode/once-upon-a-witchs-death-1x9",
+      "episode_id": "episode/once-upon-a-witchs-death-1x9",
+      "title": "Once Upon a Witch's Death 1x1",
+      "episode_name": "Once Upon a Witch's Death 1x1",
+      "episode_number": 9,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1684/1/9.webp",
+      "abyssid": "15816",
+      "abyssId": "15816",
+      "playxid": "701348eb3b6b2574acfaa8058063dc58",
+      "playXID": "701348eb3b6b2574acfaa8058063dc58",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15816",
+        "playXID": "701348eb3b6b2574acfaa8058063dc58",
+        "streamId": "15816",
+        "dubPlayerSrc": "/dub-player/t/15816/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=701348eb3b6b2574acfaa8058063dc58&abyssId=15816"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15816",
+        "playXID": "701348eb3b6b2574acfaa8058063dc58",
+        "streamId": "15816",
+        "dubPlayerSrc": "/dub-player/t/15816/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=701348eb3b6b2574acfaa8058063dc58&abyssId=15816"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/701348eb3b6b2574acfaa8058063dc58",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/701348eb3b6b2574acfaa8058063dc58"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15816",
+        "abyssId": "15816",
+        "playXID": "701348eb3b6b2574acfaa8058063dc58",
+        "title": "Once Upon a Witch's Death",
+        "season": 1,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "SmKtkcEuM"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "omCFb7FLQ"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "yz3fms-Hv"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/0de5455b25caff428c8f2dc1121c70eb/master.m3u8?md5=kfYfxC7UoDp7SNmjeyACFQ&expires=1792166601",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/0de5455b25caff428c8f2dc1121c70eb/master.m3u8?md5=kfYfxC7UoDp7SNmjeyACFQ&expires=1792166601",
+            "videoSource": "https://ravok.buzz/cdn/hls/0de5455b25caff428c8f2dc1121c70eb/master.m3u8?md5=kfYfxC7UoDp7SNmjeyACFQ&expires=1792166601",
+            "videoImage": "https://as-cdn27.top/p/kwkzdZjtlW_iaW5HmHKz0yAaxPrnTTHZqLmzA8xY199N-5cYZ0Ef0uMZWKN_vNihOmdj83IoC3wLVCbpDTUIYQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "701348eb3b6b2574acfaa8058063dc58",
+                "streamUrl": "https://ravok.buzz/cdn/hls/0de5455b25caff428c8f2dc1121c70eb/master.m3u8?md5=kfYfxC7UoDp7SNmjeyACFQ&expires=1792166601",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/0de5455b25caff428c8f2dc1121c70eb/master.m3u8?md5=kfYfxC7UoDp7SNmjeyACFQ&expires=1792166601",
+                "videoSource": "https://ravok.buzz/cdn/hls/0de5455b25caff428c8f2dc1121c70eb/master.m3u8?md5=kfYfxC7UoDp7SNmjeyACFQ&expires=1792166601",
+                "link": "https://ravok.buzz/cdn/hls/0de5455b25caff428c8f2dc1121c70eb/master.m3u8?md5=kfYfxC7UoDp7SNmjeyACFQ&expires=1792166601",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/kwkzdZjtlW_iaW5HmHKz0yAaxPrnTTHZqLmzA8xY199N-5cYZ0Ef0uMZWKN_vNihOmdj83IoC3wLVCbpDTUIYQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "SmKtkcEuM"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:31Z"
+    },
+    {
+      "id": "episode/once-upon-a-witchs-death-1x10",
+      "episode_id": "episode/once-upon-a-witchs-death-1x10",
+      "title": "Once Upon a Witch's Death 1x1",
+      "episode_name": "Once Upon a Witch's Death 1x1",
+      "episode_number": 10,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1684/1/10.webp",
+      "abyssid": "15835",
+      "abyssId": "15835",
+      "playxid": "179db74797bde5f379b623ab73ee7c64",
+      "playXID": "179db74797bde5f379b623ab73ee7c64",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15835",
+        "playXID": "179db74797bde5f379b623ab73ee7c64",
+        "streamId": "15835",
+        "dubPlayerSrc": "/dub-player/t/15835/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=179db74797bde5f379b623ab73ee7c64&abyssId=15835"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15835",
+        "playXID": "179db74797bde5f379b623ab73ee7c64",
+        "streamId": "15835",
+        "dubPlayerSrc": "/dub-player/t/15835/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=179db74797bde5f379b623ab73ee7c64&abyssId=15835"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/179db74797bde5f379b623ab73ee7c64",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/179db74797bde5f379b623ab73ee7c64"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15835",
+        "abyssId": "15835",
+        "playXID": "179db74797bde5f379b623ab73ee7c64",
+        "title": "Once Upon a Witch's Death",
+        "season": 1,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "qedjJcXdM"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "TAgh03TE6"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "w0AffnWu3"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/f75305b423c5bb363cc1c2f739bc3d7c/master.m3u8?md5=oyxRt4cBA046-G9kwgMAOg&expires=1792166601",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/f75305b423c5bb363cc1c2f739bc3d7c/master.m3u8?md5=oyxRt4cBA046-G9kwgMAOg&expires=1792166601",
+            "videoSource": "https://ravok.buzz/cdn/hls/f75305b423c5bb363cc1c2f739bc3d7c/master.m3u8?md5=oyxRt4cBA046-G9kwgMAOg&expires=1792166601",
+            "videoImage": "https://as-cdn29.top/p/9GbELGm3KTFfZneTVtOWMI0d7z6TexVtQPpw6xzz06pNq3i86_T4FP-Bet2sTDgcUS8XJh6otOx6f7gNqTmO5g.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "179db74797bde5f379b623ab73ee7c64",
+                "streamUrl": "https://ravok.buzz/cdn/hls/f75305b423c5bb363cc1c2f739bc3d7c/master.m3u8?md5=oyxRt4cBA046-G9kwgMAOg&expires=1792166601",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/f75305b423c5bb363cc1c2f739bc3d7c/master.m3u8?md5=oyxRt4cBA046-G9kwgMAOg&expires=1792166601",
+                "videoSource": "https://ravok.buzz/cdn/hls/f75305b423c5bb363cc1c2f739bc3d7c/master.m3u8?md5=oyxRt4cBA046-G9kwgMAOg&expires=1792166601",
+                "link": "https://ravok.buzz/cdn/hls/f75305b423c5bb363cc1c2f739bc3d7c/master.m3u8?md5=oyxRt4cBA046-G9kwgMAOg&expires=1792166601",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/9GbELGm3KTFfZneTVtOWMI0d7z6TexVtQPpw6xzz06pNq3i86_T4FP-Bet2sTDgcUS8XJh6otOx6f7gNqTmO5g.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "qedjJcXdM"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:31Z"
+    },
+    {
+      "id": "episode/once-upon-a-witchs-death-1x12",
+      "episode_id": "episode/once-upon-a-witchs-death-1x12",
+      "title": "Once Upon a Witch's Death 1x1",
+      "episode_name": "Once Upon a Witch's Death 1x1",
+      "episode_number": 12,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1684_s1e12.webp",
+      "abyssid": "16401",
+      "abyssId": "16401",
+      "playxid": "157f786e2424ac9ee32681d0c9e18540",
+      "playXID": "157f786e2424ac9ee32681d0c9e18540",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16401",
+        "playXID": "157f786e2424ac9ee32681d0c9e18540",
+        "streamId": "16401",
+        "dubPlayerSrc": "/dub-player/t/16401/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=157f786e2424ac9ee32681d0c9e18540&abyssId=16401"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16401",
+        "playXID": "157f786e2424ac9ee32681d0c9e18540",
+        "streamId": "16401",
+        "dubPlayerSrc": "/dub-player/t/16401/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=157f786e2424ac9ee32681d0c9e18540&abyssId=16401"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/157f786e2424ac9ee32681d0c9e18540",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/157f786e2424ac9ee32681d0c9e18540"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16401",
+        "abyssId": "16401",
+        "playXID": "157f786e2424ac9ee32681d0c9e18540",
+        "title": "Once Upon a Witch's Death",
+        "season": 1,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "8iTOL2tBv"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "TEKcc2NEn"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "5Q51JsMwv"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/e8767cb338487d9c6a9727632e3d6d1a/master.m3u8?md5=UwdiOHTz1br4OrkxTTw7DA&expires=1792166602",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/e8767cb338487d9c6a9727632e3d6d1a/master.m3u8?md5=UwdiOHTz1br4OrkxTTw7DA&expires=1792166602",
+            "videoSource": "https://ravok.buzz/cdn/hls/e8767cb338487d9c6a9727632e3d6d1a/master.m3u8?md5=UwdiOHTz1br4OrkxTTw7DA&expires=1792166602",
+            "videoImage": "https://as-cdn29.top/p/jhFlDo_qt2tb_mmIul1ZQxKggYPpG10Ha2wnwNL0ha6Mg5txNNfg9WkWBiVnHL-9GgJ8UcuJREvfcqw2LRv8ew.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "157f786e2424ac9ee32681d0c9e18540",
+                "streamUrl": "https://ravok.buzz/cdn/hls/e8767cb338487d9c6a9727632e3d6d1a/master.m3u8?md5=UwdiOHTz1br4OrkxTTw7DA&expires=1792166602",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/e8767cb338487d9c6a9727632e3d6d1a/master.m3u8?md5=UwdiOHTz1br4OrkxTTw7DA&expires=1792166602",
+                "videoSource": "https://ravok.buzz/cdn/hls/e8767cb338487d9c6a9727632e3d6d1a/master.m3u8?md5=UwdiOHTz1br4OrkxTTw7DA&expires=1792166602",
+                "link": "https://ravok.buzz/cdn/hls/e8767cb338487d9c6a9727632e3d6d1a/master.m3u8?md5=UwdiOHTz1br4OrkxTTw7DA&expires=1792166602",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/jhFlDo_qt2tb_mmIul1ZQxKggYPpG10Ha2wnwNL0ha6Mg5txNNfg9WkWBiVnHL-9GgJ8UcuJREvfcqw2LRv8ew.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "8iTOL2tBv"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:32Z"
+    },
+    {
+      "id": "episode/once-upon-a-witchs-death-1x11",
+      "episode_id": "episode/once-upon-a-witchs-death-1x11",
+      "title": "Once Upon a Witch's Death 1x1",
+      "episode_name": "Once Upon a Witch's Death 1x1",
+      "episode_number": 11,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1684_s1e11.webp",
+      "abyssid": "15872",
+      "abyssId": "15872",
+      "playxid": "9953a9514b2a810825f17416e1e32f7d",
+      "playXID": "9953a9514b2a810825f17416e1e32f7d",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15872",
+        "playXID": "9953a9514b2a810825f17416e1e32f7d",
+        "streamId": "15872",
+        "dubPlayerSrc": "/dub-player/t/15872/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9953a9514b2a810825f17416e1e32f7d&abyssId=15872"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15872",
+        "playXID": "9953a9514b2a810825f17416e1e32f7d",
+        "streamId": "15872",
+        "dubPlayerSrc": "/dub-player/t/15872/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9953a9514b2a810825f17416e1e32f7d&abyssId=15872"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/9953a9514b2a810825f17416e1e32f7d",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/9953a9514b2a810825f17416e1e32f7d"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15872",
+        "abyssId": "15872",
+        "playXID": "9953a9514b2a810825f17416e1e32f7d",
+        "title": "Once Upon a Witch's Death",
+        "season": 1,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "aVFFWVvpZ"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "iGtB_dam6"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "d-YcvdASN"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/0549511b8a0011069fa7158fce01959b/master.m3u8?md5=ygi9SBt9fdGrKJsY_q7gag&expires=1792166602",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/0549511b8a0011069fa7158fce01959b/master.m3u8?md5=ygi9SBt9fdGrKJsY_q7gag&expires=1792166602",
+            "videoSource": "https://ravok.buzz/cdn/hls/0549511b8a0011069fa7158fce01959b/master.m3u8?md5=ygi9SBt9fdGrKJsY_q7gag&expires=1792166602",
+            "videoImage": "https://as-cdn27.top/p/nGb61Z04uN5fTLbWt6BRRcPbGIwCTP06SaFcuzu-itZACehgfh0TxGwQUzKRulxAybX35MXnRS6vPVmsD8XREg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "9953a9514b2a810825f17416e1e32f7d",
+                "streamUrl": "https://ravok.buzz/cdn/hls/0549511b8a0011069fa7158fce01959b/master.m3u8?md5=ygi9SBt9fdGrKJsY_q7gag&expires=1792166602",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/0549511b8a0011069fa7158fce01959b/master.m3u8?md5=ygi9SBt9fdGrKJsY_q7gag&expires=1792166602",
+                "videoSource": "https://ravok.buzz/cdn/hls/0549511b8a0011069fa7158fce01959b/master.m3u8?md5=ygi9SBt9fdGrKJsY_q7gag&expires=1792166602",
+                "link": "https://ravok.buzz/cdn/hls/0549511b8a0011069fa7158fce01959b/master.m3u8?md5=ygi9SBt9fdGrKJsY_q7gag&expires=1792166602",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/nGb61Z04uN5fTLbWt6BRRcPbGIwCTP06SaFcuzu-itZACehgfh0TxGwQUzKRulxAybX35MXnRS6vPVmsD8XREg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "aVFFWVvpZ"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:32Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T14:03:26Z",
+  "updated_at": "2026-10-16T14:03:32Z"
+}

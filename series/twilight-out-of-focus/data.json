@@ -1,0 +1,1349 @@
+{
+  "id": "series/twilight-out-of-focus",
+  "series_name": "Twilight Out of Focus",
+  "title": "Twilight Out of Focus",
+  "banner": "https://image.tmdb.org/t/p/w1280/8PvRgAPMkm7AxwEnWuppFrUIydP.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/21bYoggswt5hFKqqsUBLUx1smHz.jpg",
+  "genra": [
+    "Romance",
+    "School"
+  ],
+  "genres": [
+    "Romance",
+    "School"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Japanese"
+  ],
+  "synopsis": "A boys’ school film club is the backdrop for three tales of new romance. Mao and Hisashi pair up for a project, make three promises, and draw closer together in the process. The club president, Jin, and a jealous junior named Giichi clash before finding common ground. Shion, a first-year student, joins the film club in search of a boyfriend and butts heads with Rei—until Rei asks him on a date.",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "If This Love Is Going to be Over Before It Even Begins",
+          "id": "episode/twilight-out-of-focus-1x1",
+          "image": "https://img.watchanimeworld.one/images/13415/01.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "Pick Me",
+          "id": "episode/twilight-out-of-focus-1x2",
+          "image": "https://img.watchanimeworld.one/images/13415/02.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "Our Feelings Aren't Always Pretty",
+          "id": "episode/twilight-out-of-focus-1x3",
+          "image": "https://img.watchanimeworld.one/images/13415/03.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "Like the Movies",
+          "id": "episode/twilight-out-of-focus-1x4",
+          "image": "https://img.watchanimeworld.one/images/13415/04.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "Kikuchihara Jin's Troubles",
+          "id": "episode/twilight-out-of-focus-1x5",
+          "image": "https://img.watchanimeworld.one/images/13415/05.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "Kikuchihara Jin's First Love",
+          "id": "episode/twilight-out-of-focus-1x6",
+          "image": "https://img.watchanimeworld.one/images/13415/06.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "Settle The Feud",
+          "id": "episode/twilight-out-of-focus-1x7",
+          "image": "https://img.watchanimeworld.one/images/13415/07.webp",
+          "season": 1
+        },
+        {
+          "episode": 8,
+          "title": "A Real Trashy Boyfriend",
+          "id": "episode/twilight-out-of-focus-1x8",
+          "image": "https://img.watchanimeworld.one/images/13415/08.webp",
+          "season": 1
+        },
+        {
+          "episode": 9,
+          "title": "You Should Want to See Me More",
+          "id": "episode/twilight-out-of-focus-1x9",
+          "image": "https://img.watchanimeworld.one/images/13415/09.webp",
+          "season": 1
+        },
+        {
+          "episode": 10,
+          "title": "Promise Me This Is Forever",
+          "id": "episode/twilight-out-of-focus-1x10",
+          "image": "https://img.watchanimeworld.one/images/13415/10.webp",
+          "season": 1
+        },
+        {
+          "episode": 11,
+          "title": "Paths",
+          "id": "episode/twilight-out-of-focus-1x11",
+          "image": "https://img.watchanimeworld.one/images/13415/11.webp",
+          "season": 1
+        },
+        {
+          "episode": 12,
+          "title": "A Red Thread",
+          "id": "episode/twilight-out-of-focus-1x12",
+          "image": "https://img.watchanimeworld.one/images/13415/12.webp",
+          "season": 1
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/twilight-out-of-focus-1x2",
+      "episode_id": "episode/twilight-out-of-focus-1x2",
+      "title": "If This Love Is Going to be Over Before It Even Begins",
+      "episode_name": "If This Love Is Going to be Over Before It Even Begins",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/13415/02.webp",
+      "abyssid": "8238",
+      "abyssId": "8238",
+      "playxid": "abdbeb4d8dbe30df8430a8394b7218ef",
+      "playXID": "abdbeb4d8dbe30df8430a8394b7218ef",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "8238",
+        "playXID": "abdbeb4d8dbe30df8430a8394b7218ef",
+        "streamId": "8238",
+        "dubPlayerSrc": "/dub-player/t/8238/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=abdbeb4d8dbe30df8430a8394b7218ef&abyssId=8238"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "8238",
+        "playXID": "abdbeb4d8dbe30df8430a8394b7218ef",
+        "streamId": "8238",
+        "dubPlayerSrc": "/dub-player/t/8238/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=abdbeb4d8dbe30df8430a8394b7218ef&abyssId=8238"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/abdbeb4d8dbe30df8430a8394b7218ef",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/abdbeb4d8dbe30df8430a8394b7218ef"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "8238",
+        "abyssId": "8238",
+        "playXID": "abdbeb4d8dbe30df8430a8394b7218ef",
+        "title": "Twilight Out of Focus",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "GbfKeGANd"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "01suMfWxo"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "lhB0naqv4"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/c382d25dfdf3f52ecd37e02a9f50a5f5/master.m3u8?md5=luzJsWt2X-Bpd9kDMOBpXA&expires=1792167332",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/c382d25dfdf3f52ecd37e02a9f50a5f5/master.m3u8?md5=luzJsWt2X-Bpd9kDMOBpXA&expires=1792167332",
+            "videoSource": "https://ravok.buzz/cdn/hls/c382d25dfdf3f52ecd37e02a9f50a5f5/master.m3u8?md5=luzJsWt2X-Bpd9kDMOBpXA&expires=1792167332",
+            "videoImage": "https://as-cdn29.top/p/tjcDfZ6UOfEnKNzIGTofJyXbufv3-EJcknlHsN4Z1LlYn2_W5nQNzwI7ZxziNkO3xoILv9htwe8fekSqT6BJkg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "abdbeb4d8dbe30df8430a8394b7218ef",
+                "streamUrl": "https://ravok.buzz/cdn/hls/c382d25dfdf3f52ecd37e02a9f50a5f5/master.m3u8?md5=luzJsWt2X-Bpd9kDMOBpXA&expires=1792167332",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/c382d25dfdf3f52ecd37e02a9f50a5f5/master.m3u8?md5=luzJsWt2X-Bpd9kDMOBpXA&expires=1792167332",
+                "videoSource": "https://ravok.buzz/cdn/hls/c382d25dfdf3f52ecd37e02a9f50a5f5/master.m3u8?md5=luzJsWt2X-Bpd9kDMOBpXA&expires=1792167332",
+                "link": "https://ravok.buzz/cdn/hls/c382d25dfdf3f52ecd37e02a9f50a5f5/master.m3u8?md5=luzJsWt2X-Bpd9kDMOBpXA&expires=1792167332",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/tjcDfZ6UOfEnKNzIGTofJyXbufv3-EJcknlHsN4Z1LlYn2_W5nQNzwI7ZxziNkO3xoILv9htwe8fekSqT6BJkg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "GbfKeGANd"
+        }
+      },
+      "fetched_at": "2026-10-16T14:15:42Z"
+    },
+    {
+      "id": "episode/twilight-out-of-focus-1x5",
+      "episode_id": "episode/twilight-out-of-focus-1x5",
+      "title": "If This Love Is Going to be Over Before It Even Begins",
+      "episode_name": "If This Love Is Going to be Over Before It Even Begins",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/13415/05.webp",
+      "abyssid": "8241",
+      "abyssId": "8241",
+      "playxid": "a012869311d64a44b5a0d567cd20de04",
+      "playXID": "a012869311d64a44b5a0d567cd20de04",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "8241",
+        "playXID": "a012869311d64a44b5a0d567cd20de04",
+        "streamId": "8241",
+        "dubPlayerSrc": "/dub-player/t/8241/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a012869311d64a44b5a0d567cd20de04&abyssId=8241"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "8241",
+        "playXID": "a012869311d64a44b5a0d567cd20de04",
+        "streamId": "8241",
+        "dubPlayerSrc": "/dub-player/t/8241/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a012869311d64a44b5a0d567cd20de04&abyssId=8241"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/a012869311d64a44b5a0d567cd20de04",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/a012869311d64a44b5a0d567cd20de04"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "8241",
+        "abyssId": "8241",
+        "playXID": "a012869311d64a44b5a0d567cd20de04",
+        "title": "Twilight Out of Focus",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "IZu9EMSWV"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "wWgI_U5h5"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "Lr2R6dn9i"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/4d58aec07a03a07ca7a3436a6be805cb/master.m3u8?md5=TcReJQIvH7UNIM8VJxj_cg&expires=1792167332",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/4d58aec07a03a07ca7a3436a6be805cb/master.m3u8?md5=TcReJQIvH7UNIM8VJxj_cg&expires=1792167332",
+            "videoSource": "https://ravok.buzz/cdn/hls/4d58aec07a03a07ca7a3436a6be805cb/master.m3u8?md5=TcReJQIvH7UNIM8VJxj_cg&expires=1792167332",
+            "videoImage": "https://as-cdn29.top/p/GA0ZMx5zMaMHsA4bERZevOmT2BOfXbFU24tDoG8YLCZb8BGjSdEmX9i16hvsCjW6loSLdb4fpLa8k3-uq9PAyQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "a012869311d64a44b5a0d567cd20de04",
+                "streamUrl": "https://ravok.buzz/cdn/hls/4d58aec07a03a07ca7a3436a6be805cb/master.m3u8?md5=TcReJQIvH7UNIM8VJxj_cg&expires=1792167332",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/4d58aec07a03a07ca7a3436a6be805cb/master.m3u8?md5=TcReJQIvH7UNIM8VJxj_cg&expires=1792167332",
+                "videoSource": "https://ravok.buzz/cdn/hls/4d58aec07a03a07ca7a3436a6be805cb/master.m3u8?md5=TcReJQIvH7UNIM8VJxj_cg&expires=1792167332",
+                "link": "https://ravok.buzz/cdn/hls/4d58aec07a03a07ca7a3436a6be805cb/master.m3u8?md5=TcReJQIvH7UNIM8VJxj_cg&expires=1792167332",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/GA0ZMx5zMaMHsA4bERZevOmT2BOfXbFU24tDoG8YLCZb8BGjSdEmX9i16hvsCjW6loSLdb4fpLa8k3-uq9PAyQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "IZu9EMSWV"
+        }
+      },
+      "fetched_at": "2026-10-16T14:15:42Z"
+    },
+    {
+      "id": "episode/twilight-out-of-focus-1x1",
+      "episode_id": "episode/twilight-out-of-focus-1x1",
+      "title": "If This Love Is Going to be Over Before It Even Begins",
+      "episode_name": "If This Love Is Going to be Over Before It Even Begins",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/13415/01.webp",
+      "abyssid": "8237",
+      "abyssId": "8237",
+      "playxid": "02b1be0d48924c327124732726097157",
+      "playXID": "02b1be0d48924c327124732726097157",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "8237",
+        "playXID": "02b1be0d48924c327124732726097157",
+        "streamId": "8237",
+        "dubPlayerSrc": "/dub-player/t/8237/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=02b1be0d48924c327124732726097157&abyssId=8237"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "8237",
+        "playXID": "02b1be0d48924c327124732726097157",
+        "streamId": "8237",
+        "dubPlayerSrc": "/dub-player/t/8237/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=02b1be0d48924c327124732726097157&abyssId=8237"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/02b1be0d48924c327124732726097157",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/02b1be0d48924c327124732726097157"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "8237",
+        "abyssId": "8237",
+        "playXID": "02b1be0d48924c327124732726097157",
+        "title": "Twilight Out of Focus",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "jQh9FS1bN"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "2drX8IoQQ"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "FBlf1KJ-9"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/5d8ca25b00143ee2feb42b5cde52ea5d/master.m3u8?md5=-sIwZtSyo4L6t_S3SZbHgA&expires=1792167332",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/5d8ca25b00143ee2feb42b5cde52ea5d/master.m3u8?md5=-sIwZtSyo4L6t_S3SZbHgA&expires=1792167332",
+            "videoSource": "https://ravok.buzz/cdn/hls/5d8ca25b00143ee2feb42b5cde52ea5d/master.m3u8?md5=-sIwZtSyo4L6t_S3SZbHgA&expires=1792167332",
+            "videoImage": "https://as-cdn30.top/p/nPMeDjVmcLNBSKrtMg2DmH1IRNhb_Qwz8PH8_yfgYKwZting6jVjfB8goZ_3QoGK0nRZVM6JZZOKrsUF2NgnKg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "02b1be0d48924c327124732726097157",
+                "streamUrl": "https://ravok.buzz/cdn/hls/5d8ca25b00143ee2feb42b5cde52ea5d/master.m3u8?md5=-sIwZtSyo4L6t_S3SZbHgA&expires=1792167332",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/5d8ca25b00143ee2feb42b5cde52ea5d/master.m3u8?md5=-sIwZtSyo4L6t_S3SZbHgA&expires=1792167332",
+                "videoSource": "https://ravok.buzz/cdn/hls/5d8ca25b00143ee2feb42b5cde52ea5d/master.m3u8?md5=-sIwZtSyo4L6t_S3SZbHgA&expires=1792167332",
+                "link": "https://ravok.buzz/cdn/hls/5d8ca25b00143ee2feb42b5cde52ea5d/master.m3u8?md5=-sIwZtSyo4L6t_S3SZbHgA&expires=1792167332",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/nPMeDjVmcLNBSKrtMg2DmH1IRNhb_Qwz8PH8_yfgYKwZting6jVjfB8goZ_3QoGK0nRZVM6JZZOKrsUF2NgnKg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "jQh9FS1bN"
+        }
+      },
+      "fetched_at": "2026-10-16T14:15:42Z"
+    },
+    {
+      "id": "episode/twilight-out-of-focus-1x3",
+      "episode_id": "episode/twilight-out-of-focus-1x3",
+      "title": "If This Love Is Going to be Over Before It Even Begins",
+      "episode_name": "If This Love Is Going to be Over Before It Even Begins",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/13415/03.webp",
+      "abyssid": "8239",
+      "abyssId": "8239",
+      "playxid": "5a1e3a5aede16d438c38862cac1a78db",
+      "playXID": "5a1e3a5aede16d438c38862cac1a78db",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "8239",
+        "playXID": "5a1e3a5aede16d438c38862cac1a78db",
+        "streamId": "8239",
+        "dubPlayerSrc": "/dub-player/t/8239/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=5a1e3a5aede16d438c38862cac1a78db&abyssId=8239"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "8239",
+        "playXID": "5a1e3a5aede16d438c38862cac1a78db",
+        "streamId": "8239",
+        "dubPlayerSrc": "/dub-player/t/8239/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=5a1e3a5aede16d438c38862cac1a78db&abyssId=8239"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/5a1e3a5aede16d438c38862cac1a78db",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/5a1e3a5aede16d438c38862cac1a78db"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "8239",
+        "abyssId": "8239",
+        "playXID": "5a1e3a5aede16d438c38862cac1a78db",
+        "title": "Twilight Out of Focus",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "33JqC9ZEn"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "x5jsOL9cB"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "rsZo5M5Yp"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/609c2b44acf03067aa2c1dd34559fcee/master.m3u8?md5=st_VoGicq3YSrbfn4u8Cqw&expires=1792167332",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/609c2b44acf03067aa2c1dd34559fcee/master.m3u8?md5=st_VoGicq3YSrbfn4u8Cqw&expires=1792167332",
+            "videoSource": "https://ravok.buzz/cdn/hls/609c2b44acf03067aa2c1dd34559fcee/master.m3u8?md5=st_VoGicq3YSrbfn4u8Cqw&expires=1792167332",
+            "videoImage": "https://as-cdn28.top/p/Ch6gVYHe5xMMjEZR19TwhLUetRfm0QNeb9T2q9OZP_kBqiAHG9JlhYBKJR-W9BhAKwUhld-z2-IrJeoi5JZEMg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "5a1e3a5aede16d438c38862cac1a78db",
+                "streamUrl": "https://ravok.buzz/cdn/hls/609c2b44acf03067aa2c1dd34559fcee/master.m3u8?md5=st_VoGicq3YSrbfn4u8Cqw&expires=1792167332",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/609c2b44acf03067aa2c1dd34559fcee/master.m3u8?md5=st_VoGicq3YSrbfn4u8Cqw&expires=1792167332",
+                "videoSource": "https://ravok.buzz/cdn/hls/609c2b44acf03067aa2c1dd34559fcee/master.m3u8?md5=st_VoGicq3YSrbfn4u8Cqw&expires=1792167332",
+                "link": "https://ravok.buzz/cdn/hls/609c2b44acf03067aa2c1dd34559fcee/master.m3u8?md5=st_VoGicq3YSrbfn4u8Cqw&expires=1792167332",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/Ch6gVYHe5xMMjEZR19TwhLUetRfm0QNeb9T2q9OZP_kBqiAHG9JlhYBKJR-W9BhAKwUhld-z2-IrJeoi5JZEMg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "33JqC9ZEn"
+        }
+      },
+      "fetched_at": "2026-10-16T14:15:42Z"
+    },
+    {
+      "id": "episode/twilight-out-of-focus-1x4",
+      "episode_id": "episode/twilight-out-of-focus-1x4",
+      "title": "If This Love Is Going to be Over Before It Even Begins",
+      "episode_name": "If This Love Is Going to be Over Before It Even Begins",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/13415/04.webp",
+      "abyssid": "8240",
+      "abyssId": "8240",
+      "playxid": "ef41d488755367316f04fc0e0e9dc9fc",
+      "playXID": "ef41d488755367316f04fc0e0e9dc9fc",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "8240",
+        "playXID": "ef41d488755367316f04fc0e0e9dc9fc",
+        "streamId": "8240",
+        "dubPlayerSrc": "/dub-player/t/8240/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ef41d488755367316f04fc0e0e9dc9fc&abyssId=8240"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "8240",
+        "playXID": "ef41d488755367316f04fc0e0e9dc9fc",
+        "streamId": "8240",
+        "dubPlayerSrc": "/dub-player/t/8240/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ef41d488755367316f04fc0e0e9dc9fc&abyssId=8240"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/ef41d488755367316f04fc0e0e9dc9fc",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/ef41d488755367316f04fc0e0e9dc9fc"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "8240",
+        "abyssId": "8240",
+        "playXID": "ef41d488755367316f04fc0e0e9dc9fc",
+        "title": "Twilight Out of Focus",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "UF5Z3TkQb"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "4_wgYG9-5"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "j-TOXrLOf"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/1b8ddc64d195705661325f42b3f3de91/master.m3u8?md5=WAfkP7fQezqm_uwkvqbtCg&expires=1792167332",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/1b8ddc64d195705661325f42b3f3de91/master.m3u8?md5=WAfkP7fQezqm_uwkvqbtCg&expires=1792167332",
+            "videoSource": "https://ravok.buzz/cdn/hls/1b8ddc64d195705661325f42b3f3de91/master.m3u8?md5=WAfkP7fQezqm_uwkvqbtCg&expires=1792167332",
+            "videoImage": "https://as-cdn29.top/p/CgpHP0RUHpeXan7kUoC4yUDhHvVGrixxDwrWMWeiJgMBuBjPVYqQOsKwZ5oT2lzym5ROrAU5lT4wzeTNVqfaIg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "ef41d488755367316f04fc0e0e9dc9fc",
+                "streamUrl": "https://ravok.buzz/cdn/hls/1b8ddc64d195705661325f42b3f3de91/master.m3u8?md5=WAfkP7fQezqm_uwkvqbtCg&expires=1792167332",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/1b8ddc64d195705661325f42b3f3de91/master.m3u8?md5=WAfkP7fQezqm_uwkvqbtCg&expires=1792167332",
+                "videoSource": "https://ravok.buzz/cdn/hls/1b8ddc64d195705661325f42b3f3de91/master.m3u8?md5=WAfkP7fQezqm_uwkvqbtCg&expires=1792167332",
+                "link": "https://ravok.buzz/cdn/hls/1b8ddc64d195705661325f42b3f3de91/master.m3u8?md5=WAfkP7fQezqm_uwkvqbtCg&expires=1792167332",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/CgpHP0RUHpeXan7kUoC4yUDhHvVGrixxDwrWMWeiJgMBuBjPVYqQOsKwZ5oT2lzym5ROrAU5lT4wzeTNVqfaIg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "UF5Z3TkQb"
+        }
+      },
+      "fetched_at": "2026-10-16T14:15:42Z"
+    },
+    {
+      "id": "episode/twilight-out-of-focus-1x6",
+      "episode_id": "episode/twilight-out-of-focus-1x6",
+      "title": "If This Love Is Going to be Over Before It Even Begins",
+      "episode_name": "If This Love Is Going to be Over Before It Even Begins",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/13415/06.webp",
+      "abyssid": "8242",
+      "abyssId": "8242",
+      "playxid": "97af4fb322bb5c8973ade16764156bed",
+      "playXID": "97af4fb322bb5c8973ade16764156bed",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "8242",
+        "playXID": "97af4fb322bb5c8973ade16764156bed",
+        "streamId": "8242",
+        "dubPlayerSrc": "/dub-player/t/8242/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=97af4fb322bb5c8973ade16764156bed&abyssId=8242"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "8242",
+        "playXID": "97af4fb322bb5c8973ade16764156bed",
+        "streamId": "8242",
+        "dubPlayerSrc": "/dub-player/t/8242/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=97af4fb322bb5c8973ade16764156bed&abyssId=8242"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/97af4fb322bb5c8973ade16764156bed",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/97af4fb322bb5c8973ade16764156bed"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "8242",
+        "abyssId": "8242",
+        "playXID": "97af4fb322bb5c8973ade16764156bed",
+        "title": "Twilight Out of Focus",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "Fs2ImGDCk"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "ngvP04k8F"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "jnp6BV57K"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/a55d23e4e6796b4b024a821c3f5504a4/master.m3u8?md5=8wWuhus6YMCeNEoMm9-kSg&expires=1792167334",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/a55d23e4e6796b4b024a821c3f5504a4/master.m3u8?md5=8wWuhus6YMCeNEoMm9-kSg&expires=1792167334",
+            "videoSource": "https://ravok.buzz/cdn/hls/a55d23e4e6796b4b024a821c3f5504a4/master.m3u8?md5=8wWuhus6YMCeNEoMm9-kSg&expires=1792167334",
+            "videoImage": "https://as-cdn28.top/p/FClLb5RFIB38d_LYRFKsZjtEVMQWjY4E3GPqEPBEs2FQtillTsewAwbQUmHQ4cTrM47woVfj1f9Fk2gDPJJZzg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "97af4fb322bb5c8973ade16764156bed",
+                "streamUrl": "https://ravok.buzz/cdn/hls/a55d23e4e6796b4b024a821c3f5504a4/master.m3u8?md5=8wWuhus6YMCeNEoMm9-kSg&expires=1792167334",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/a55d23e4e6796b4b024a821c3f5504a4/master.m3u8?md5=8wWuhus6YMCeNEoMm9-kSg&expires=1792167334",
+                "videoSource": "https://ravok.buzz/cdn/hls/a55d23e4e6796b4b024a821c3f5504a4/master.m3u8?md5=8wWuhus6YMCeNEoMm9-kSg&expires=1792167334",
+                "link": "https://ravok.buzz/cdn/hls/a55d23e4e6796b4b024a821c3f5504a4/master.m3u8?md5=8wWuhus6YMCeNEoMm9-kSg&expires=1792167334",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/FClLb5RFIB38d_LYRFKsZjtEVMQWjY4E3GPqEPBEs2FQtillTsewAwbQUmHQ4cTrM47woVfj1f9Fk2gDPJJZzg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "Fs2ImGDCk"
+        }
+      },
+      "fetched_at": "2026-10-16T14:15:44Z"
+    },
+    {
+      "id": "episode/twilight-out-of-focus-1x7",
+      "episode_id": "episode/twilight-out-of-focus-1x7",
+      "title": "If This Love Is Going to be Over Before It Even Begins",
+      "episode_name": "If This Love Is Going to be Over Before It Even Begins",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/13415/07.webp",
+      "abyssid": "8243",
+      "abyssId": "8243",
+      "playxid": "5680522b8e2bb01943234bce7bf84534",
+      "playXID": "5680522b8e2bb01943234bce7bf84534",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "8243",
+        "playXID": "5680522b8e2bb01943234bce7bf84534",
+        "streamId": "8243",
+        "dubPlayerSrc": "/dub-player/t/8243/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=5680522b8e2bb01943234bce7bf84534&abyssId=8243"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "8243",
+        "playXID": "5680522b8e2bb01943234bce7bf84534",
+        "streamId": "8243",
+        "dubPlayerSrc": "/dub-player/t/8243/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=5680522b8e2bb01943234bce7bf84534&abyssId=8243"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/5680522b8e2bb01943234bce7bf84534",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/5680522b8e2bb01943234bce7bf84534"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "8243",
+        "abyssId": "8243",
+        "playXID": "5680522b8e2bb01943234bce7bf84534",
+        "title": "Twilight Out of Focus",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "4LSD-MOyS"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "9S9GlhtZh"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "RVW9Od85x"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/bf2a20dd94d261f7de4706fd8650a14e/master.m3u8?md5=ob_ojfGY0aGZTmkxiFWR9A&expires=1792167334",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/bf2a20dd94d261f7de4706fd8650a14e/master.m3u8?md5=ob_ojfGY0aGZTmkxiFWR9A&expires=1792167334",
+            "videoSource": "https://ravok.buzz/cdn/hls/bf2a20dd94d261f7de4706fd8650a14e/master.m3u8?md5=ob_ojfGY0aGZTmkxiFWR9A&expires=1792167334",
+            "videoImage": "https://as-cdn30.top/p/0YXs2BkQ0PxMUVhNCtJivG20VuviHfVtI-Lft46er2BCc5kpVBQWjjtuAyCTZ6sQfZ4ziVnv8UFrTHx2Q-QZUA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "5680522b8e2bb01943234bce7bf84534",
+                "streamUrl": "https://ravok.buzz/cdn/hls/bf2a20dd94d261f7de4706fd8650a14e/master.m3u8?md5=ob_ojfGY0aGZTmkxiFWR9A&expires=1792167334",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/bf2a20dd94d261f7de4706fd8650a14e/master.m3u8?md5=ob_ojfGY0aGZTmkxiFWR9A&expires=1792167334",
+                "videoSource": "https://ravok.buzz/cdn/hls/bf2a20dd94d261f7de4706fd8650a14e/master.m3u8?md5=ob_ojfGY0aGZTmkxiFWR9A&expires=1792167334",
+                "link": "https://ravok.buzz/cdn/hls/bf2a20dd94d261f7de4706fd8650a14e/master.m3u8?md5=ob_ojfGY0aGZTmkxiFWR9A&expires=1792167334",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/0YXs2BkQ0PxMUVhNCtJivG20VuviHfVtI-Lft46er2BCc5kpVBQWjjtuAyCTZ6sQfZ4ziVnv8UFrTHx2Q-QZUA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "4LSD-MOyS"
+        }
+      },
+      "fetched_at": "2026-10-16T14:15:44Z"
+    },
+    {
+      "id": "episode/twilight-out-of-focus-1x8",
+      "episode_id": "episode/twilight-out-of-focus-1x8",
+      "title": "If This Love Is Going to be Over Before It Even Begins",
+      "episode_name": "If This Love Is Going to be Over Before It Even Begins",
+      "episode_number": 8,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/13415/08.webp",
+      "abyssid": "8244",
+      "abyssId": "8244",
+      "playxid": "2b6d65b9a9445c4271ab9076ead5605a",
+      "playXID": "2b6d65b9a9445c4271ab9076ead5605a",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "8244",
+        "playXID": "2b6d65b9a9445c4271ab9076ead5605a",
+        "streamId": "8244",
+        "dubPlayerSrc": "/dub-player/t/8244/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2b6d65b9a9445c4271ab9076ead5605a&abyssId=8244"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "8244",
+        "playXID": "2b6d65b9a9445c4271ab9076ead5605a",
+        "streamId": "8244",
+        "dubPlayerSrc": "/dub-player/t/8244/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2b6d65b9a9445c4271ab9076ead5605a&abyssId=8244"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/2b6d65b9a9445c4271ab9076ead5605a",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/2b6d65b9a9445c4271ab9076ead5605a"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "8244",
+        "abyssId": "8244",
+        "playXID": "2b6d65b9a9445c4271ab9076ead5605a",
+        "title": "Twilight Out of Focus",
+        "season": 1,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "Rejj5-jG_"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "2DmbbIMo0"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "1-J-gG8Mg"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/be9f3a6243832ba83a521482168c7831/master.m3u8?md5=hGlkihoQ5YcvyHXv7XL06A&expires=1792167334",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/be9f3a6243832ba83a521482168c7831/master.m3u8?md5=hGlkihoQ5YcvyHXv7XL06A&expires=1792167334",
+            "videoSource": "https://ravok.buzz/cdn/hls/be9f3a6243832ba83a521482168c7831/master.m3u8?md5=hGlkihoQ5YcvyHXv7XL06A&expires=1792167334",
+            "videoImage": "https://as-cdn28.top/p/enR4g1E_OWUOrLrk8o15VANIP_cOcBaWkShxreWc-Pd-e3HPe0zC8cjck77uGm_lC78y8SS7woJOY-05Q_F5XA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "2b6d65b9a9445c4271ab9076ead5605a",
+                "streamUrl": "https://ravok.buzz/cdn/hls/be9f3a6243832ba83a521482168c7831/master.m3u8?md5=hGlkihoQ5YcvyHXv7XL06A&expires=1792167334",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/be9f3a6243832ba83a521482168c7831/master.m3u8?md5=hGlkihoQ5YcvyHXv7XL06A&expires=1792167334",
+                "videoSource": "https://ravok.buzz/cdn/hls/be9f3a6243832ba83a521482168c7831/master.m3u8?md5=hGlkihoQ5YcvyHXv7XL06A&expires=1792167334",
+                "link": "https://ravok.buzz/cdn/hls/be9f3a6243832ba83a521482168c7831/master.m3u8?md5=hGlkihoQ5YcvyHXv7XL06A&expires=1792167334",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/enR4g1E_OWUOrLrk8o15VANIP_cOcBaWkShxreWc-Pd-e3HPe0zC8cjck77uGm_lC78y8SS7woJOY-05Q_F5XA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "Rejj5-jG_"
+        }
+      },
+      "fetched_at": "2026-10-16T14:15:44Z"
+    },
+    {
+      "id": "episode/twilight-out-of-focus-1x9",
+      "episode_id": "episode/twilight-out-of-focus-1x9",
+      "title": "If This Love Is Going to be Over Before It Even Begins",
+      "episode_name": "If This Love Is Going to be Over Before It Even Begins",
+      "episode_number": 9,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/13415/09.webp",
+      "abyssid": "8245",
+      "abyssId": "8245",
+      "playxid": "3b92d18aa7a6176dd37d372bc2f1eb71",
+      "playXID": "3b92d18aa7a6176dd37d372bc2f1eb71",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "8245",
+        "playXID": "3b92d18aa7a6176dd37d372bc2f1eb71",
+        "streamId": "8245",
+        "dubPlayerSrc": "/dub-player/t/8245/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=3b92d18aa7a6176dd37d372bc2f1eb71&abyssId=8245"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "8245",
+        "playXID": "3b92d18aa7a6176dd37d372bc2f1eb71",
+        "streamId": "8245",
+        "dubPlayerSrc": "/dub-player/t/8245/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=3b92d18aa7a6176dd37d372bc2f1eb71&abyssId=8245"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/3b92d18aa7a6176dd37d372bc2f1eb71",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/3b92d18aa7a6176dd37d372bc2f1eb71"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "8245",
+        "abyssId": "8245",
+        "playXID": "3b92d18aa7a6176dd37d372bc2f1eb71",
+        "title": "Twilight Out of Focus",
+        "season": 1,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "IV8HykZRJ"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "1S8mR10pi"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "KNVA46UDA"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/f0d57605585a3284baffbfaf32cb169d/master.m3u8?md5=mu8-l6_iRhJFGr197UcGYQ&expires=1792167334",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/f0d57605585a3284baffbfaf32cb169d/master.m3u8?md5=mu8-l6_iRhJFGr197UcGYQ&expires=1792167334",
+            "videoSource": "https://ravok.buzz/cdn/hls/f0d57605585a3284baffbfaf32cb169d/master.m3u8?md5=mu8-l6_iRhJFGr197UcGYQ&expires=1792167334",
+            "videoImage": "https://as-cdn31.top/p/hQvcZbdCqNTxEcx0r6RgekL78pp5j7YkO2-arCAmf7ewgQSS-RoRs-qIzurfm94Aecr3opwKM4XRSIXbWEBDNQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "3b92d18aa7a6176dd37d372bc2f1eb71",
+                "streamUrl": "https://ravok.buzz/cdn/hls/f0d57605585a3284baffbfaf32cb169d/master.m3u8?md5=mu8-l6_iRhJFGr197UcGYQ&expires=1792167334",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/f0d57605585a3284baffbfaf32cb169d/master.m3u8?md5=mu8-l6_iRhJFGr197UcGYQ&expires=1792167334",
+                "videoSource": "https://ravok.buzz/cdn/hls/f0d57605585a3284baffbfaf32cb169d/master.m3u8?md5=mu8-l6_iRhJFGr197UcGYQ&expires=1792167334",
+                "link": "https://ravok.buzz/cdn/hls/f0d57605585a3284baffbfaf32cb169d/master.m3u8?md5=mu8-l6_iRhJFGr197UcGYQ&expires=1792167334",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/hQvcZbdCqNTxEcx0r6RgekL78pp5j7YkO2-arCAmf7ewgQSS-RoRs-qIzurfm94Aecr3opwKM4XRSIXbWEBDNQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "IV8HykZRJ"
+        }
+      },
+      "fetched_at": "2026-10-16T14:15:44Z"
+    },
+    {
+      "id": "episode/twilight-out-of-focus-1x10",
+      "episode_id": "episode/twilight-out-of-focus-1x10",
+      "title": "If This Love Is Going to be Over Before It Even Begins",
+      "episode_name": "If This Love Is Going to be Over Before It Even Begins",
+      "episode_number": 10,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/13415/10.webp",
+      "abyssid": "8246",
+      "abyssId": "8246",
+      "playxid": "5227b6aaf294f5f027273aebf16015f2",
+      "playXID": "5227b6aaf294f5f027273aebf16015f2",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "8246",
+        "playXID": "5227b6aaf294f5f027273aebf16015f2",
+        "streamId": "8246",
+        "dubPlayerSrc": "/dub-player/t/8246/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=5227b6aaf294f5f027273aebf16015f2&abyssId=8246"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "8246",
+        "playXID": "5227b6aaf294f5f027273aebf16015f2",
+        "streamId": "8246",
+        "dubPlayerSrc": "/dub-player/t/8246/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=5227b6aaf294f5f027273aebf16015f2&abyssId=8246"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/5227b6aaf294f5f027273aebf16015f2",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/5227b6aaf294f5f027273aebf16015f2"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "8246",
+        "abyssId": "8246",
+        "playXID": "5227b6aaf294f5f027273aebf16015f2",
+        "title": "Twilight Out of Focus",
+        "season": 1,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "d6BEsVmZ5"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "ItzCruxU_"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "KOXCghISs"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/d43165b078a2f22e1e7d9a054a0f3355/master.m3u8?md5=8F6aJx4m3V5uHlIQ16FuMA&expires=1792167334",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/d43165b078a2f22e1e7d9a054a0f3355/master.m3u8?md5=8F6aJx4m3V5uHlIQ16FuMA&expires=1792167334",
+            "videoSource": "https://ravok.buzz/cdn/hls/d43165b078a2f22e1e7d9a054a0f3355/master.m3u8?md5=8F6aJx4m3V5uHlIQ16FuMA&expires=1792167334",
+            "videoImage": "https://as-cdn30.top/p/YdqG8newn0qonuMzwRZoV_xuScuMDps-byt5lc7RSmlwjaRUjDYhkDx9une-5w3ThRvjR5u-jPQp0YH3Z2vXNg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "5227b6aaf294f5f027273aebf16015f2",
+                "streamUrl": "https://ravok.buzz/cdn/hls/d43165b078a2f22e1e7d9a054a0f3355/master.m3u8?md5=8F6aJx4m3V5uHlIQ16FuMA&expires=1792167334",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/d43165b078a2f22e1e7d9a054a0f3355/master.m3u8?md5=8F6aJx4m3V5uHlIQ16FuMA&expires=1792167334",
+                "videoSource": "https://ravok.buzz/cdn/hls/d43165b078a2f22e1e7d9a054a0f3355/master.m3u8?md5=8F6aJx4m3V5uHlIQ16FuMA&expires=1792167334",
+                "link": "https://ravok.buzz/cdn/hls/d43165b078a2f22e1e7d9a054a0f3355/master.m3u8?md5=8F6aJx4m3V5uHlIQ16FuMA&expires=1792167334",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/YdqG8newn0qonuMzwRZoV_xuScuMDps-byt5lc7RSmlwjaRUjDYhkDx9une-5w3ThRvjR5u-jPQp0YH3Z2vXNg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "d6BEsVmZ5"
+        }
+      },
+      "fetched_at": "2026-10-16T14:15:44Z"
+    },
+    {
+      "id": "episode/twilight-out-of-focus-1x11",
+      "episode_id": "episode/twilight-out-of-focus-1x11",
+      "title": "If This Love Is Going to be Over Before It Even Begins",
+      "episode_name": "If This Love Is Going to be Over Before It Even Begins",
+      "episode_number": 11,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/13415/11.webp",
+      "abyssid": "8247",
+      "abyssId": "8247",
+      "playxid": "bd5af7cd922fd2603be4ee3dc43b0b77",
+      "playXID": "bd5af7cd922fd2603be4ee3dc43b0b77",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "8247",
+        "playXID": "bd5af7cd922fd2603be4ee3dc43b0b77",
+        "streamId": "8247",
+        "dubPlayerSrc": "/dub-player/t/8247/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=bd5af7cd922fd2603be4ee3dc43b0b77&abyssId=8247"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "8247",
+        "playXID": "bd5af7cd922fd2603be4ee3dc43b0b77",
+        "streamId": "8247",
+        "dubPlayerSrc": "/dub-player/t/8247/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=bd5af7cd922fd2603be4ee3dc43b0b77&abyssId=8247"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/bd5af7cd922fd2603be4ee3dc43b0b77",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/bd5af7cd922fd2603be4ee3dc43b0b77"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "8247",
+        "abyssId": "8247",
+        "playXID": "bd5af7cd922fd2603be4ee3dc43b0b77",
+        "title": "Twilight Out of Focus",
+        "season": 1,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "MdjZYCItK"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "fuWW-nIyz"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "ICsoe6oYd"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/993bb0f8b7d05484c06725f174856e66/master.m3u8?md5=zu1D93eXgs7S4tcIZY7nOg&expires=1792167336",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/993bb0f8b7d05484c06725f174856e66/master.m3u8?md5=zu1D93eXgs7S4tcIZY7nOg&expires=1792167336",
+            "videoSource": "https://ravok.buzz/cdn/hls/993bb0f8b7d05484c06725f174856e66/master.m3u8?md5=zu1D93eXgs7S4tcIZY7nOg&expires=1792167336",
+            "videoImage": "https://as-cdn31.top/p/V3bIJkmrUwmCjsFXJopTqvnqiLM8riwkrnBK_qhnVSidAwcsjoW1OVKDE2Y2m4Ftwfhte0Lu7TUiAohIhKaczg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "bd5af7cd922fd2603be4ee3dc43b0b77",
+                "streamUrl": "https://ravok.buzz/cdn/hls/993bb0f8b7d05484c06725f174856e66/master.m3u8?md5=zu1D93eXgs7S4tcIZY7nOg&expires=1792167336",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/993bb0f8b7d05484c06725f174856e66/master.m3u8?md5=zu1D93eXgs7S4tcIZY7nOg&expires=1792167336",
+                "videoSource": "https://ravok.buzz/cdn/hls/993bb0f8b7d05484c06725f174856e66/master.m3u8?md5=zu1D93eXgs7S4tcIZY7nOg&expires=1792167336",
+                "link": "https://ravok.buzz/cdn/hls/993bb0f8b7d05484c06725f174856e66/master.m3u8?md5=zu1D93eXgs7S4tcIZY7nOg&expires=1792167336",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/V3bIJkmrUwmCjsFXJopTqvnqiLM8riwkrnBK_qhnVSidAwcsjoW1OVKDE2Y2m4Ftwfhte0Lu7TUiAohIhKaczg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "MdjZYCItK"
+        }
+      },
+      "fetched_at": "2026-10-16T14:15:46Z"
+    },
+    {
+      "id": "episode/twilight-out-of-focus-1x12",
+      "episode_id": "episode/twilight-out-of-focus-1x12",
+      "title": "If This Love Is Going to be Over Before It Even Begins",
+      "episode_name": "If This Love Is Going to be Over Before It Even Begins",
+      "episode_number": 12,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/13415/12.webp",
+      "abyssid": "8248",
+      "abyssId": "8248",
+      "playxid": "cd4bb35c75ba84b4f39e547b1416fd35",
+      "playXID": "cd4bb35c75ba84b4f39e547b1416fd35",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "8248",
+        "playXID": "cd4bb35c75ba84b4f39e547b1416fd35",
+        "streamId": "8248",
+        "dubPlayerSrc": "/dub-player/t/8248/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=cd4bb35c75ba84b4f39e547b1416fd35&abyssId=8248"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "8248",
+        "playXID": "cd4bb35c75ba84b4f39e547b1416fd35",
+        "streamId": "8248",
+        "dubPlayerSrc": "/dub-player/t/8248/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=cd4bb35c75ba84b4f39e547b1416fd35&abyssId=8248"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/cd4bb35c75ba84b4f39e547b1416fd35",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/cd4bb35c75ba84b4f39e547b1416fd35"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "8248",
+        "abyssId": "8248",
+        "playXID": "cd4bb35c75ba84b4f39e547b1416fd35",
+        "title": "Twilight Out of Focus",
+        "season": 1,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "ZPN6mw_SP"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "u78vtxOEY"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "QKCRChW47"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/67d25d8486fd10a7d85376c60e09d169/master.m3u8?md5=K-TzrHw-d_StX4gVH4JrEw&expires=1792167336",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/67d25d8486fd10a7d85376c60e09d169/master.m3u8?md5=K-TzrHw-d_StX4gVH4JrEw&expires=1792167336",
+            "videoSource": "https://ravok.buzz/cdn/hls/67d25d8486fd10a7d85376c60e09d169/master.m3u8?md5=K-TzrHw-d_StX4gVH4JrEw&expires=1792167336",
+            "videoImage": "https://as-cdn28.top/p/VczhnZYSa0VpaeAcjVGOPODt2DUs41TUUK8Ch1mGOiFwILrotualDc9LRlj3S2wKy9TcA-r82L78tRWxa3zBqQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "cd4bb35c75ba84b4f39e547b1416fd35",
+                "streamUrl": "https://ravok.buzz/cdn/hls/67d25d8486fd10a7d85376c60e09d169/master.m3u8?md5=K-TzrHw-d_StX4gVH4JrEw&expires=1792167336",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/67d25d8486fd10a7d85376c60e09d169/master.m3u8?md5=K-TzrHw-d_StX4gVH4JrEw&expires=1792167336",
+                "videoSource": "https://ravok.buzz/cdn/hls/67d25d8486fd10a7d85376c60e09d169/master.m3u8?md5=K-TzrHw-d_StX4gVH4JrEw&expires=1792167336",
+                "link": "https://ravok.buzz/cdn/hls/67d25d8486fd10a7d85376c60e09d169/master.m3u8?md5=K-TzrHw-d_StX4gVH4JrEw&expires=1792167336",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/VczhnZYSa0VpaeAcjVGOPODt2DUs41TUUK8Ch1mGOiFwILrotualDc9LRlj3S2wKy9TcA-r82L78tRWxa3zBqQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "ZPN6mw_SP"
+        }
+      },
+      "fetched_at": "2026-10-16T14:15:46Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T14:15:39Z",
+  "updated_at": "2026-10-16T14:15:46Z"
+}

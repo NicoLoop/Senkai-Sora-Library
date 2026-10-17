@@ -1,0 +1,1351 @@
+{
+  "id": "series/a-condition-called-love",
+  "series_name": "A Condition Called Love",
+  "title": "A Condition Called Love",
+  "banner": "https://image.tmdb.org/t/p/w1280/7eh5AF4bBn3K0X4z0I2pxZ1JcHe.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/e1ao8YAdgbN0wCUSatCESTPwaAh.jpg",
+  "genra": [
+    "Drama",
+    "Romance",
+    "School"
+  ],
+  "genres": [
+    "Drama",
+    "Romance",
+    "School"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Japanese"
+  ],
+  "synopsis": "High school freshman Hotaru Hinase has a vibrant life full of family and friendship, but not much luck in romance. That all changes when she makes a warm gesture to her handsome and heartbroken classmate, Hananoi, leading to him asking her out and her becoming flustered. Witness a girl who grapples with the enigma of love and a boy who is heavy handed with it.",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Private: A Condition Called Love 1x1",
+          "id": "episode/private-a-condition-called-love-1x1",
+          "image": "https://img.watchanimeworld.one/img/thumb_1201_s1e1.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "Private: A Condition Called Love 1x2",
+          "id": "episode/private-a-condition-called-love-1x2",
+          "image": "https://img.watchanimeworld.one/img/thumb_1201_s1e2.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "Private: A Condition Called Love 1x3",
+          "id": "episode/private-a-condition-called-love-1x3",
+          "image": "https://img.watchanimeworld.one/img/thumb_1201_s1e3.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "Private: A Condition Called Love 1x4",
+          "id": "episode/private-a-condition-called-love-1x4",
+          "image": "https://img.watchanimeworld.one/img/thumb_1201_s1e4.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "Private: A Condition Called Love 1x5",
+          "id": "episode/private-a-condition-called-love-1x5",
+          "image": "https://img.watchanimeworld.one/img/thumb_1201_s1e5.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "Private: A Condition Called Love 1x6",
+          "id": "episode/private-a-condition-called-love-1x6",
+          "image": "https://img.watchanimeworld.one/img/thumb_1201_s1e6.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "Private: A Condition Called Love 1x7",
+          "id": "episode/private-a-condition-called-love-1x7",
+          "image": "https://img.watchanimeworld.one/img/thumb_1201_s1e7.webp",
+          "season": 1
+        },
+        {
+          "episode": 8,
+          "title": "Private: A Condition Called Love 1x8",
+          "id": "episode/private-a-condition-called-love-1x8",
+          "image": "https://img.watchanimeworld.one/img/thumb_1201_s1e8.webp",
+          "season": 1
+        },
+        {
+          "episode": 9,
+          "title": "Private: A Condition Called Love 1x9",
+          "id": "episode/private-a-condition-called-love-1x9",
+          "image": "https://img.watchanimeworld.one/img/thumb_1201_s1e9.webp",
+          "season": 1
+        },
+        {
+          "episode": 10,
+          "title": "Private: A Condition Called Love 1x10",
+          "id": "episode/private-a-condition-called-love-1x10",
+          "image": "https://img.watchanimeworld.one/img/thumb_1201_s1e10.webp",
+          "season": 1
+        },
+        {
+          "episode": 11,
+          "title": "Private: A Condition Called Love 1x11",
+          "id": "episode/private-a-condition-called-love-1x11",
+          "image": "https://img.watchanimeworld.one/img/thumb_1201_s1e11.webp",
+          "season": 1
+        },
+        {
+          "episode": 12,
+          "title": "Private: A Condition Called Love 1x12",
+          "id": "episode/private-a-condition-called-love-1x12",
+          "image": "https://img.watchanimeworld.one/img/thumb_1201_s1e12.webp",
+          "season": 1
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/private-a-condition-called-love-1x4",
+      "episode_id": "episode/private-a-condition-called-love-1x4",
+      "title": "Private: A Condition Called Love 1x1",
+      "episode_name": "Private: A Condition Called Love 1x1",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1201_s1e4.webp",
+      "abyssid": "12012",
+      "abyssId": "12012",
+      "playxid": "f812eab186eb17d72275bb38b918913d",
+      "playXID": "f812eab186eb17d72275bb38b918913d",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12012",
+        "playXID": "f812eab186eb17d72275bb38b918913d",
+        "streamId": "12012",
+        "dubPlayerSrc": "/dub-player/t/12012/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f812eab186eb17d72275bb38b918913d&abyssId=12012"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12012",
+        "playXID": "f812eab186eb17d72275bb38b918913d",
+        "streamId": "12012",
+        "dubPlayerSrc": "/dub-player/t/12012/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f812eab186eb17d72275bb38b918913d&abyssId=12012"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/f812eab186eb17d72275bb38b918913d",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/f812eab186eb17d72275bb38b918913d"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12012",
+        "abyssId": "12012",
+        "playXID": "f812eab186eb17d72275bb38b918913d",
+        "title": "A Condition Called Love",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "97DBUP7zA"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "104UCC_PQ"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "--KmK5Xie"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/da3ac31c57bc7dca84ea3fb8c4c492dd/master.m3u8?md5=ZSWLaoG9vlG1HVLqAcOTRA&expires=1792167015",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/da3ac31c57bc7dca84ea3fb8c4c492dd/master.m3u8?md5=ZSWLaoG9vlG1HVLqAcOTRA&expires=1792167015",
+            "videoSource": "https://ravok.buzz/cdn/hls/da3ac31c57bc7dca84ea3fb8c4c492dd/master.m3u8?md5=ZSWLaoG9vlG1HVLqAcOTRA&expires=1792167015",
+            "videoImage": "https://as-cdn27.top/p/mhjFiJE7C8T3PMk5EEhqImloki0OUfNr-cWxf7VYWWAbaDGSPmoNqa4hSHi8rV4_04WNuUet4u-oQincJHrl0w.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "f812eab186eb17d72275bb38b918913d",
+                "streamUrl": "https://ravok.buzz/cdn/hls/da3ac31c57bc7dca84ea3fb8c4c492dd/master.m3u8?md5=ZSWLaoG9vlG1HVLqAcOTRA&expires=1792167015",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/da3ac31c57bc7dca84ea3fb8c4c492dd/master.m3u8?md5=ZSWLaoG9vlG1HVLqAcOTRA&expires=1792167015",
+                "videoSource": "https://ravok.buzz/cdn/hls/da3ac31c57bc7dca84ea3fb8c4c492dd/master.m3u8?md5=ZSWLaoG9vlG1HVLqAcOTRA&expires=1792167015",
+                "link": "https://ravok.buzz/cdn/hls/da3ac31c57bc7dca84ea3fb8c4c492dd/master.m3u8?md5=ZSWLaoG9vlG1HVLqAcOTRA&expires=1792167015",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/mhjFiJE7C8T3PMk5EEhqImloki0OUfNr-cWxf7VYWWAbaDGSPmoNqa4hSHi8rV4_04WNuUet4u-oQincJHrl0w.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "97DBUP7zA"
+        }
+      },
+      "fetched_at": "2026-10-16T14:10:25Z"
+    },
+    {
+      "id": "episode/private-a-condition-called-love-1x3",
+      "episode_id": "episode/private-a-condition-called-love-1x3",
+      "title": "Private: A Condition Called Love 1x1",
+      "episode_name": "Private: A Condition Called Love 1x1",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1201_s1e3.webp",
+      "abyssid": "12011",
+      "abyssId": "12011",
+      "playxid": "649ecbcdbf3571a2a3197e021287efa1",
+      "playXID": "649ecbcdbf3571a2a3197e021287efa1",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12011",
+        "playXID": "649ecbcdbf3571a2a3197e021287efa1",
+        "streamId": "12011",
+        "dubPlayerSrc": "/dub-player/t/12011/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=649ecbcdbf3571a2a3197e021287efa1&abyssId=12011"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12011",
+        "playXID": "649ecbcdbf3571a2a3197e021287efa1",
+        "streamId": "12011",
+        "dubPlayerSrc": "/dub-player/t/12011/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=649ecbcdbf3571a2a3197e021287efa1&abyssId=12011"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/649ecbcdbf3571a2a3197e021287efa1",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/649ecbcdbf3571a2a3197e021287efa1"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12011",
+        "abyssId": "12011",
+        "playXID": "649ecbcdbf3571a2a3197e021287efa1",
+        "title": "A Condition Called Love",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "xP38DIwHu"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "UOmcDnjIp"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "39exbFwTh"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/7681fe413b668ffa3f052c8c95007638/master.m3u8?md5=5h59V7OvYGOTYtysGg0NYw&expires=1792167015",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/7681fe413b668ffa3f052c8c95007638/master.m3u8?md5=5h59V7OvYGOTYtysGg0NYw&expires=1792167015",
+            "videoSource": "https://ravok.buzz/cdn/hls/7681fe413b668ffa3f052c8c95007638/master.m3u8?md5=5h59V7OvYGOTYtysGg0NYw&expires=1792167015",
+            "videoImage": "https://as-cdn27.top/p/QrZRS-Fcvj0qhsyc1Vv2-KHuvPpbEdwPvVwtrvmvgRkwhN5z2OkCbtdspFsa1JQZzfQrMV5WFMnLWOD5gI9a6Q.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "649ecbcdbf3571a2a3197e021287efa1",
+                "streamUrl": "https://ravok.buzz/cdn/hls/7681fe413b668ffa3f052c8c95007638/master.m3u8?md5=5h59V7OvYGOTYtysGg0NYw&expires=1792167015",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/7681fe413b668ffa3f052c8c95007638/master.m3u8?md5=5h59V7OvYGOTYtysGg0NYw&expires=1792167015",
+                "videoSource": "https://ravok.buzz/cdn/hls/7681fe413b668ffa3f052c8c95007638/master.m3u8?md5=5h59V7OvYGOTYtysGg0NYw&expires=1792167015",
+                "link": "https://ravok.buzz/cdn/hls/7681fe413b668ffa3f052c8c95007638/master.m3u8?md5=5h59V7OvYGOTYtysGg0NYw&expires=1792167015",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/QrZRS-Fcvj0qhsyc1Vv2-KHuvPpbEdwPvVwtrvmvgRkwhN5z2OkCbtdspFsa1JQZzfQrMV5WFMnLWOD5gI9a6Q.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "xP38DIwHu"
+        }
+      },
+      "fetched_at": "2026-10-16T14:10:25Z"
+    },
+    {
+      "id": "episode/private-a-condition-called-love-1x2",
+      "episode_id": "episode/private-a-condition-called-love-1x2",
+      "title": "Private: A Condition Called Love 1x1",
+      "episode_name": "Private: A Condition Called Love 1x1",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1201_s1e2.webp",
+      "abyssid": "12010",
+      "abyssId": "12010",
+      "playxid": "df46e19efffe9c4cd3e8808359aa8c8a",
+      "playXID": "df46e19efffe9c4cd3e8808359aa8c8a",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12010",
+        "playXID": "df46e19efffe9c4cd3e8808359aa8c8a",
+        "streamId": "12010",
+        "dubPlayerSrc": "/dub-player/t/12010/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=df46e19efffe9c4cd3e8808359aa8c8a&abyssId=12010"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12010",
+        "playXID": "df46e19efffe9c4cd3e8808359aa8c8a",
+        "streamId": "12010",
+        "dubPlayerSrc": "/dub-player/t/12010/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=df46e19efffe9c4cd3e8808359aa8c8a&abyssId=12010"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/df46e19efffe9c4cd3e8808359aa8c8a",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/df46e19efffe9c4cd3e8808359aa8c8a"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12010",
+        "abyssId": "12010",
+        "playXID": "df46e19efffe9c4cd3e8808359aa8c8a",
+        "title": "A Condition Called Love",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "870DxoZuo"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "NMT6I85cr"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "4X5p-Q701"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/48ea822abd362a353952529c20c8b062/master.m3u8?md5=LAhBqI76bT9frTuu7zoK4g&expires=1792167015",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/48ea822abd362a353952529c20c8b062/master.m3u8?md5=LAhBqI76bT9frTuu7zoK4g&expires=1792167015",
+            "videoSource": "https://ravok.buzz/cdn/hls/48ea822abd362a353952529c20c8b062/master.m3u8?md5=LAhBqI76bT9frTuu7zoK4g&expires=1792167015",
+            "videoImage": "https://as-cdn31.top/p/DTIkOjRS5nIrKuuDSrgUg2VmqBgu8HsA_TgHwhbuu3IFSfbb6rGyNixG5ixupsI6OkthK_1t4gWiZOd-spK0bg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "df46e19efffe9c4cd3e8808359aa8c8a",
+                "streamUrl": "https://ravok.buzz/cdn/hls/48ea822abd362a353952529c20c8b062/master.m3u8?md5=LAhBqI76bT9frTuu7zoK4g&expires=1792167015",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/48ea822abd362a353952529c20c8b062/master.m3u8?md5=LAhBqI76bT9frTuu7zoK4g&expires=1792167015",
+                "videoSource": "https://ravok.buzz/cdn/hls/48ea822abd362a353952529c20c8b062/master.m3u8?md5=LAhBqI76bT9frTuu7zoK4g&expires=1792167015",
+                "link": "https://ravok.buzz/cdn/hls/48ea822abd362a353952529c20c8b062/master.m3u8?md5=LAhBqI76bT9frTuu7zoK4g&expires=1792167015",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/DTIkOjRS5nIrKuuDSrgUg2VmqBgu8HsA_TgHwhbuu3IFSfbb6rGyNixG5ixupsI6OkthK_1t4gWiZOd-spK0bg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "870DxoZuo"
+        }
+      },
+      "fetched_at": "2026-10-16T14:10:25Z"
+    },
+    {
+      "id": "episode/private-a-condition-called-love-1x5",
+      "episode_id": "episode/private-a-condition-called-love-1x5",
+      "title": "Private: A Condition Called Love 1x1",
+      "episode_name": "Private: A Condition Called Love 1x1",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1201_s1e5.webp",
+      "abyssid": "12013",
+      "abyssId": "12013",
+      "playxid": "d4f457bca5d92483c063b48d7a33b36b",
+      "playXID": "d4f457bca5d92483c063b48d7a33b36b",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12013",
+        "playXID": "d4f457bca5d92483c063b48d7a33b36b",
+        "streamId": "12013",
+        "dubPlayerSrc": "/dub-player/t/12013/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d4f457bca5d92483c063b48d7a33b36b&abyssId=12013"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12013",
+        "playXID": "d4f457bca5d92483c063b48d7a33b36b",
+        "streamId": "12013",
+        "dubPlayerSrc": "/dub-player/t/12013/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d4f457bca5d92483c063b48d7a33b36b&abyssId=12013"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/d4f457bca5d92483c063b48d7a33b36b",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/d4f457bca5d92483c063b48d7a33b36b"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12013",
+        "abyssId": "12013",
+        "playXID": "d4f457bca5d92483c063b48d7a33b36b",
+        "title": "A Condition Called Love",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "mp__XupD9"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "CY7m1wSj_"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "dtNxF6wOAh"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/8e86200919caef773efc05b3c50149dd/master.m3u8?md5=QEUr6e6CC1TZplzgnRsVMw&expires=1792167015",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/8e86200919caef773efc05b3c50149dd/master.m3u8?md5=QEUr6e6CC1TZplzgnRsVMw&expires=1792167015",
+            "videoSource": "https://ravok.buzz/cdn/hls/8e86200919caef773efc05b3c50149dd/master.m3u8?md5=QEUr6e6CC1TZplzgnRsVMw&expires=1792167015",
+            "videoImage": "https://as-cdn30.top/p/tDgOw3_3HBfGK8H7C4AvoXZjBE56cQNXpWx2UbPK4Fgf8C0vFJTTEHOWXHyBPOcFIjpe9SzBgafa9YGZ4wNlNw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "d4f457bca5d92483c063b48d7a33b36b",
+                "streamUrl": "https://ravok.buzz/cdn/hls/8e86200919caef773efc05b3c50149dd/master.m3u8?md5=QEUr6e6CC1TZplzgnRsVMw&expires=1792167015",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/8e86200919caef773efc05b3c50149dd/master.m3u8?md5=QEUr6e6CC1TZplzgnRsVMw&expires=1792167015",
+                "videoSource": "https://ravok.buzz/cdn/hls/8e86200919caef773efc05b3c50149dd/master.m3u8?md5=QEUr6e6CC1TZplzgnRsVMw&expires=1792167015",
+                "link": "https://ravok.buzz/cdn/hls/8e86200919caef773efc05b3c50149dd/master.m3u8?md5=QEUr6e6CC1TZplzgnRsVMw&expires=1792167015",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/tDgOw3_3HBfGK8H7C4AvoXZjBE56cQNXpWx2UbPK4Fgf8C0vFJTTEHOWXHyBPOcFIjpe9SzBgafa9YGZ4wNlNw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "mp__XupD9"
+        }
+      },
+      "fetched_at": "2026-10-16T14:10:25Z"
+    },
+    {
+      "id": "episode/private-a-condition-called-love-1x1",
+      "episode_id": "episode/private-a-condition-called-love-1x1",
+      "title": "Private: A Condition Called Love 1x1",
+      "episode_name": "Private: A Condition Called Love 1x1",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1201_s1e1.webp",
+      "abyssid": "12009",
+      "abyssId": "12009",
+      "playxid": "232a03118725240918c5a4a0ab33e9b3",
+      "playXID": "232a03118725240918c5a4a0ab33e9b3",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12009",
+        "playXID": "232a03118725240918c5a4a0ab33e9b3",
+        "streamId": "12009",
+        "dubPlayerSrc": "/dub-player/t/12009/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=232a03118725240918c5a4a0ab33e9b3&abyssId=12009"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12009",
+        "playXID": "232a03118725240918c5a4a0ab33e9b3",
+        "streamId": "12009",
+        "dubPlayerSrc": "/dub-player/t/12009/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=232a03118725240918c5a4a0ab33e9b3&abyssId=12009"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/232a03118725240918c5a4a0ab33e9b3",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/232a03118725240918c5a4a0ab33e9b3"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12009",
+        "abyssId": "12009",
+        "playXID": "232a03118725240918c5a4a0ab33e9b3",
+        "title": "A Condition Called Love",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "4c8nPgveO"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "qao0Vpjhc"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "3p0d4IIGw"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/cb29d607649f40ffde0c0cf420425fd1/master.m3u8?md5=m90CzjeG-tPeDaTACRjr1Q&expires=1792167015",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/cb29d607649f40ffde0c0cf420425fd1/master.m3u8?md5=m90CzjeG-tPeDaTACRjr1Q&expires=1792167015",
+            "videoSource": "https://ravok.buzz/cdn/hls/cb29d607649f40ffde0c0cf420425fd1/master.m3u8?md5=m90CzjeG-tPeDaTACRjr1Q&expires=1792167015",
+            "videoImage": "https://as-cdn30.top/p/wkxjpZHwPsDXxayGbZwquONxs6HrOynA-WURQFygTw3OfWGYKHW7lM26uJ82eL6qfnvQ0JDcGkNwYHPS5hFjuw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "232a03118725240918c5a4a0ab33e9b3",
+                "streamUrl": "https://ravok.buzz/cdn/hls/cb29d607649f40ffde0c0cf420425fd1/master.m3u8?md5=m90CzjeG-tPeDaTACRjr1Q&expires=1792167015",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/cb29d607649f40ffde0c0cf420425fd1/master.m3u8?md5=m90CzjeG-tPeDaTACRjr1Q&expires=1792167015",
+                "videoSource": "https://ravok.buzz/cdn/hls/cb29d607649f40ffde0c0cf420425fd1/master.m3u8?md5=m90CzjeG-tPeDaTACRjr1Q&expires=1792167015",
+                "link": "https://ravok.buzz/cdn/hls/cb29d607649f40ffde0c0cf420425fd1/master.m3u8?md5=m90CzjeG-tPeDaTACRjr1Q&expires=1792167015",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/wkxjpZHwPsDXxayGbZwquONxs6HrOynA-WURQFygTw3OfWGYKHW7lM26uJ82eL6qfnvQ0JDcGkNwYHPS5hFjuw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "4c8nPgveO"
+        }
+      },
+      "fetched_at": "2026-10-16T14:10:25Z"
+    },
+    {
+      "id": "episode/private-a-condition-called-love-1x6",
+      "episode_id": "episode/private-a-condition-called-love-1x6",
+      "title": "Private: A Condition Called Love 1x1",
+      "episode_name": "Private: A Condition Called Love 1x1",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1201_s1e6.webp",
+      "abyssid": "12014",
+      "abyssId": "12014",
+      "playxid": "cedb0f1d9cba94cdb32f8ee05c8485e3",
+      "playXID": "cedb0f1d9cba94cdb32f8ee05c8485e3",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12014",
+        "playXID": "cedb0f1d9cba94cdb32f8ee05c8485e3",
+        "streamId": "12014",
+        "dubPlayerSrc": "/dub-player/t/12014/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=cedb0f1d9cba94cdb32f8ee05c8485e3&abyssId=12014"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12014",
+        "playXID": "cedb0f1d9cba94cdb32f8ee05c8485e3",
+        "streamId": "12014",
+        "dubPlayerSrc": "/dub-player/t/12014/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=cedb0f1d9cba94cdb32f8ee05c8485e3&abyssId=12014"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/cedb0f1d9cba94cdb32f8ee05c8485e3",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/cedb0f1d9cba94cdb32f8ee05c8485e3"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12014",
+        "abyssId": "12014",
+        "playXID": "cedb0f1d9cba94cdb32f8ee05c8485e3",
+        "title": "A Condition Called Love",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "ZOd3sYik3"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "Yyw8uk_Ax"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "viuMGMmlS"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/b9108fcf1bd90d8578b377d78ed36aa6/master.m3u8?md5=pwDqxFIb9SUrumNDhoizqg&expires=1792167017",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/b9108fcf1bd90d8578b377d78ed36aa6/master.m3u8?md5=pwDqxFIb9SUrumNDhoizqg&expires=1792167017",
+            "videoSource": "https://ravok.buzz/cdn/hls/b9108fcf1bd90d8578b377d78ed36aa6/master.m3u8?md5=pwDqxFIb9SUrumNDhoizqg&expires=1792167017",
+            "videoImage": "https://as-cdn27.top/p/iocgUb0KpKiI3-jqO2c4wTHZXe5kcwyPXX31Ky5X9cweDzSIdFc7i9wkE1mn_YnEBvzHyngFv1D12ugZkhbIxg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "cedb0f1d9cba94cdb32f8ee05c8485e3",
+                "streamUrl": "https://ravok.buzz/cdn/hls/b9108fcf1bd90d8578b377d78ed36aa6/master.m3u8?md5=pwDqxFIb9SUrumNDhoizqg&expires=1792167017",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/b9108fcf1bd90d8578b377d78ed36aa6/master.m3u8?md5=pwDqxFIb9SUrumNDhoizqg&expires=1792167017",
+                "videoSource": "https://ravok.buzz/cdn/hls/b9108fcf1bd90d8578b377d78ed36aa6/master.m3u8?md5=pwDqxFIb9SUrumNDhoizqg&expires=1792167017",
+                "link": "https://ravok.buzz/cdn/hls/b9108fcf1bd90d8578b377d78ed36aa6/master.m3u8?md5=pwDqxFIb9SUrumNDhoizqg&expires=1792167017",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/iocgUb0KpKiI3-jqO2c4wTHZXe5kcwyPXX31Ky5X9cweDzSIdFc7i9wkE1mn_YnEBvzHyngFv1D12ugZkhbIxg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "ZOd3sYik3"
+        }
+      },
+      "fetched_at": "2026-10-16T14:10:27Z"
+    },
+    {
+      "id": "episode/private-a-condition-called-love-1x7",
+      "episode_id": "episode/private-a-condition-called-love-1x7",
+      "title": "Private: A Condition Called Love 1x1",
+      "episode_name": "Private: A Condition Called Love 1x1",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1201_s1e7.webp",
+      "abyssid": "12015",
+      "abyssId": "12015",
+      "playxid": "d92871c9c3bdac4f3a6fb4458ca07c9a",
+      "playXID": "d92871c9c3bdac4f3a6fb4458ca07c9a",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12015",
+        "playXID": "d92871c9c3bdac4f3a6fb4458ca07c9a",
+        "streamId": "12015",
+        "dubPlayerSrc": "/dub-player/t/12015/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d92871c9c3bdac4f3a6fb4458ca07c9a&abyssId=12015"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12015",
+        "playXID": "d92871c9c3bdac4f3a6fb4458ca07c9a",
+        "streamId": "12015",
+        "dubPlayerSrc": "/dub-player/t/12015/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d92871c9c3bdac4f3a6fb4458ca07c9a&abyssId=12015"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/d92871c9c3bdac4f3a6fb4458ca07c9a",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/d92871c9c3bdac4f3a6fb4458ca07c9a"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12015",
+        "abyssId": "12015",
+        "playXID": "d92871c9c3bdac4f3a6fb4458ca07c9a",
+        "title": "A Condition Called Love",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "cw5wC0qNI"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "LZ3gRp09r"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "Y2SCS8vWW"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/b2f8c24e3976f61302123121a6fefc90/master.m3u8?md5=SPeYELs4cvEfi6OoOV7wRA&expires=1792167017",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/b2f8c24e3976f61302123121a6fefc90/master.m3u8?md5=SPeYELs4cvEfi6OoOV7wRA&expires=1792167017",
+            "videoSource": "https://ravok.buzz/cdn/hls/b2f8c24e3976f61302123121a6fefc90/master.m3u8?md5=SPeYELs4cvEfi6OoOV7wRA&expires=1792167017",
+            "videoImage": "https://as-cdn28.top/p/4wFFlXGYgj7Lp6E5dEIU1ZClrEtCoilEZ5KnzMin19K7f8otjBP3W6dfa-vdJoK81Ud34C58Y-Mn5w9LkMzo6g.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "d92871c9c3bdac4f3a6fb4458ca07c9a",
+                "streamUrl": "https://ravok.buzz/cdn/hls/b2f8c24e3976f61302123121a6fefc90/master.m3u8?md5=SPeYELs4cvEfi6OoOV7wRA&expires=1792167017",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/b2f8c24e3976f61302123121a6fefc90/master.m3u8?md5=SPeYELs4cvEfi6OoOV7wRA&expires=1792167017",
+                "videoSource": "https://ravok.buzz/cdn/hls/b2f8c24e3976f61302123121a6fefc90/master.m3u8?md5=SPeYELs4cvEfi6OoOV7wRA&expires=1792167017",
+                "link": "https://ravok.buzz/cdn/hls/b2f8c24e3976f61302123121a6fefc90/master.m3u8?md5=SPeYELs4cvEfi6OoOV7wRA&expires=1792167017",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/4wFFlXGYgj7Lp6E5dEIU1ZClrEtCoilEZ5KnzMin19K7f8otjBP3W6dfa-vdJoK81Ud34C58Y-Mn5w9LkMzo6g.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "cw5wC0qNI"
+        }
+      },
+      "fetched_at": "2026-10-16T14:10:27Z"
+    },
+    {
+      "id": "episode/private-a-condition-called-love-1x8",
+      "episode_id": "episode/private-a-condition-called-love-1x8",
+      "title": "Private: A Condition Called Love 1x1",
+      "episode_name": "Private: A Condition Called Love 1x1",
+      "episode_number": 8,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1201_s1e8.webp",
+      "abyssid": "12016",
+      "abyssId": "12016",
+      "playxid": "26e0b344f4faa0d570b2ece2dde83d75",
+      "playXID": "26e0b344f4faa0d570b2ece2dde83d75",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12016",
+        "playXID": "26e0b344f4faa0d570b2ece2dde83d75",
+        "streamId": "12016",
+        "dubPlayerSrc": "/dub-player/t/12016/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=26e0b344f4faa0d570b2ece2dde83d75&abyssId=12016"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12016",
+        "playXID": "26e0b344f4faa0d570b2ece2dde83d75",
+        "streamId": "12016",
+        "dubPlayerSrc": "/dub-player/t/12016/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=26e0b344f4faa0d570b2ece2dde83d75&abyssId=12016"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/26e0b344f4faa0d570b2ece2dde83d75",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/26e0b344f4faa0d570b2ece2dde83d75"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12016",
+        "abyssId": "12016",
+        "playXID": "26e0b344f4faa0d570b2ece2dde83d75",
+        "title": "A Condition Called Love",
+        "season": 1,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "TK0sJvdVq"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "JLoS5BjUc"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "O7UEvgar5"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/25aabfd8f2913648a4014da946ecc630/master.m3u8?md5=QiAqAy3IhODFOAFZDepfoQ&expires=1792167017",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/25aabfd8f2913648a4014da946ecc630/master.m3u8?md5=QiAqAy3IhODFOAFZDepfoQ&expires=1792167017",
+            "videoSource": "https://ravok.buzz/cdn/hls/25aabfd8f2913648a4014da946ecc630/master.m3u8?md5=QiAqAy3IhODFOAFZDepfoQ&expires=1792167017",
+            "videoImage": "https://as-cdn27.top/p/ZR0GGp_q-JkGcTXuJxcCyiWmAmviK5FV9Zj6lbLTARwNEFpr9092KTq2ujyQkYgohNj8iKVa9TinoXv8Te2RdA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "26e0b344f4faa0d570b2ece2dde83d75",
+                "streamUrl": "https://ravok.buzz/cdn/hls/25aabfd8f2913648a4014da946ecc630/master.m3u8?md5=QiAqAy3IhODFOAFZDepfoQ&expires=1792167017",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/25aabfd8f2913648a4014da946ecc630/master.m3u8?md5=QiAqAy3IhODFOAFZDepfoQ&expires=1792167017",
+                "videoSource": "https://ravok.buzz/cdn/hls/25aabfd8f2913648a4014da946ecc630/master.m3u8?md5=QiAqAy3IhODFOAFZDepfoQ&expires=1792167017",
+                "link": "https://ravok.buzz/cdn/hls/25aabfd8f2913648a4014da946ecc630/master.m3u8?md5=QiAqAy3IhODFOAFZDepfoQ&expires=1792167017",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/ZR0GGp_q-JkGcTXuJxcCyiWmAmviK5FV9Zj6lbLTARwNEFpr9092KTq2ujyQkYgohNj8iKVa9TinoXv8Te2RdA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "TK0sJvdVq"
+        }
+      },
+      "fetched_at": "2026-10-16T14:10:27Z"
+    },
+    {
+      "id": "episode/private-a-condition-called-love-1x9",
+      "episode_id": "episode/private-a-condition-called-love-1x9",
+      "title": "Private: A Condition Called Love 1x1",
+      "episode_name": "Private: A Condition Called Love 1x1",
+      "episode_number": 9,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1201_s1e9.webp",
+      "abyssid": "12017",
+      "abyssId": "12017",
+      "playxid": "d63f5287fe86926d97cbc1ae95fc9e20",
+      "playXID": "d63f5287fe86926d97cbc1ae95fc9e20",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12017",
+        "playXID": "d63f5287fe86926d97cbc1ae95fc9e20",
+        "streamId": "12017",
+        "dubPlayerSrc": "/dub-player/t/12017/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d63f5287fe86926d97cbc1ae95fc9e20&abyssId=12017"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12017",
+        "playXID": "d63f5287fe86926d97cbc1ae95fc9e20",
+        "streamId": "12017",
+        "dubPlayerSrc": "/dub-player/t/12017/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d63f5287fe86926d97cbc1ae95fc9e20&abyssId=12017"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/d63f5287fe86926d97cbc1ae95fc9e20",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/d63f5287fe86926d97cbc1ae95fc9e20"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12017",
+        "abyssId": "12017",
+        "playXID": "d63f5287fe86926d97cbc1ae95fc9e20",
+        "title": "A Condition Called Love",
+        "season": 1,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "jOhyhlC5L"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "hPoSsNqL_"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "_E5hTCkTz"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/7ec3b5d0457863dcc0a61d6474cfc879/master.m3u8?md5=jZ7Oc1K8UIC4FwevI3Bpvg&expires=1792167017",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/7ec3b5d0457863dcc0a61d6474cfc879/master.m3u8?md5=jZ7Oc1K8UIC4FwevI3Bpvg&expires=1792167017",
+            "videoSource": "https://ravok.buzz/cdn/hls/7ec3b5d0457863dcc0a61d6474cfc879/master.m3u8?md5=jZ7Oc1K8UIC4FwevI3Bpvg&expires=1792167017",
+            "videoImage": "https://as-cdn27.top/p/uW0WAXBTws-V-bqwMWnxhuEv-TBtQ7OU3hEnYIkD54m4wWHlnIrvHrtb2r0m8IXDGNIAYIbr53Mh3idJMPn_VQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "d63f5287fe86926d97cbc1ae95fc9e20",
+                "streamUrl": "https://ravok.buzz/cdn/hls/7ec3b5d0457863dcc0a61d6474cfc879/master.m3u8?md5=jZ7Oc1K8UIC4FwevI3Bpvg&expires=1792167017",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/7ec3b5d0457863dcc0a61d6474cfc879/master.m3u8?md5=jZ7Oc1K8UIC4FwevI3Bpvg&expires=1792167017",
+                "videoSource": "https://ravok.buzz/cdn/hls/7ec3b5d0457863dcc0a61d6474cfc879/master.m3u8?md5=jZ7Oc1K8UIC4FwevI3Bpvg&expires=1792167017",
+                "link": "https://ravok.buzz/cdn/hls/7ec3b5d0457863dcc0a61d6474cfc879/master.m3u8?md5=jZ7Oc1K8UIC4FwevI3Bpvg&expires=1792167017",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/uW0WAXBTws-V-bqwMWnxhuEv-TBtQ7OU3hEnYIkD54m4wWHlnIrvHrtb2r0m8IXDGNIAYIbr53Mh3idJMPn_VQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "jOhyhlC5L"
+        }
+      },
+      "fetched_at": "2026-10-16T14:10:27Z"
+    },
+    {
+      "id": "episode/private-a-condition-called-love-1x10",
+      "episode_id": "episode/private-a-condition-called-love-1x10",
+      "title": "Private: A Condition Called Love 1x1",
+      "episode_name": "Private: A Condition Called Love 1x1",
+      "episode_number": 10,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1201_s1e10.webp",
+      "abyssid": "12018",
+      "abyssId": "12018",
+      "playxid": "58661be7f4d35e5308031c7e97141735",
+      "playXID": "58661be7f4d35e5308031c7e97141735",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12018",
+        "playXID": "58661be7f4d35e5308031c7e97141735",
+        "streamId": "12018",
+        "dubPlayerSrc": "/dub-player/t/12018/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=58661be7f4d35e5308031c7e97141735&abyssId=12018"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12018",
+        "playXID": "58661be7f4d35e5308031c7e97141735",
+        "streamId": "12018",
+        "dubPlayerSrc": "/dub-player/t/12018/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=58661be7f4d35e5308031c7e97141735&abyssId=12018"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/58661be7f4d35e5308031c7e97141735",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/58661be7f4d35e5308031c7e97141735"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12018",
+        "abyssId": "12018",
+        "playXID": "58661be7f4d35e5308031c7e97141735",
+        "title": "A Condition Called Love",
+        "season": 1,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "n5DocY0jQ"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "fCI9l-FlI"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "SvjOhhlg6"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/6dc2467836ea130422f9c395f1ae488c/master.m3u8?md5=fI9uWINm_eSJDuZlUTztTg&expires=1792167017",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/6dc2467836ea130422f9c395f1ae488c/master.m3u8?md5=fI9uWINm_eSJDuZlUTztTg&expires=1792167017",
+            "videoSource": "https://ravok.buzz/cdn/hls/6dc2467836ea130422f9c395f1ae488c/master.m3u8?md5=fI9uWINm_eSJDuZlUTztTg&expires=1792167017",
+            "videoImage": "https://as-cdn31.top/p/4m5n7_9aqOeEluNkqakERBJvTEHsEH-trc6peLUieL_ZV8LwAxsvcYcuSztU6CuxewA2hl64OANRcNoi7yTtCA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "58661be7f4d35e5308031c7e97141735",
+                "streamUrl": "https://ravok.buzz/cdn/hls/6dc2467836ea130422f9c395f1ae488c/master.m3u8?md5=fI9uWINm_eSJDuZlUTztTg&expires=1792167017",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/6dc2467836ea130422f9c395f1ae488c/master.m3u8?md5=fI9uWINm_eSJDuZlUTztTg&expires=1792167017",
+                "videoSource": "https://ravok.buzz/cdn/hls/6dc2467836ea130422f9c395f1ae488c/master.m3u8?md5=fI9uWINm_eSJDuZlUTztTg&expires=1792167017",
+                "link": "https://ravok.buzz/cdn/hls/6dc2467836ea130422f9c395f1ae488c/master.m3u8?md5=fI9uWINm_eSJDuZlUTztTg&expires=1792167017",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/4m5n7_9aqOeEluNkqakERBJvTEHsEH-trc6peLUieL_ZV8LwAxsvcYcuSztU6CuxewA2hl64OANRcNoi7yTtCA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "n5DocY0jQ"
+        }
+      },
+      "fetched_at": "2026-10-16T14:10:27Z"
+    },
+    {
+      "id": "episode/private-a-condition-called-love-1x11",
+      "episode_id": "episode/private-a-condition-called-love-1x11",
+      "title": "Private: A Condition Called Love 1x1",
+      "episode_name": "Private: A Condition Called Love 1x1",
+      "episode_number": 11,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1201_s1e11.webp",
+      "abyssid": "12019",
+      "abyssId": "12019",
+      "playxid": "73bff38358eef9fa431af325f5eaf8e0",
+      "playXID": "73bff38358eef9fa431af325f5eaf8e0",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12019",
+        "playXID": "73bff38358eef9fa431af325f5eaf8e0",
+        "streamId": "12019",
+        "dubPlayerSrc": "/dub-player/t/12019/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=73bff38358eef9fa431af325f5eaf8e0&abyssId=12019"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12019",
+        "playXID": "73bff38358eef9fa431af325f5eaf8e0",
+        "streamId": "12019",
+        "dubPlayerSrc": "/dub-player/t/12019/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=73bff38358eef9fa431af325f5eaf8e0&abyssId=12019"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/73bff38358eef9fa431af325f5eaf8e0",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/73bff38358eef9fa431af325f5eaf8e0"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12019",
+        "abyssId": "12019",
+        "playXID": "73bff38358eef9fa431af325f5eaf8e0",
+        "title": "A Condition Called Love",
+        "season": 1,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "7j2CMNh6l"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "RlnfJN6f3"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "dbMz6BE78"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/dca5c3d2e4b340e0503d8954257d6d3d/master.m3u8?md5=CV6R4jSlxEi4lOOtwoqwDw&expires=1792167019",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/dca5c3d2e4b340e0503d8954257d6d3d/master.m3u8?md5=CV6R4jSlxEi4lOOtwoqwDw&expires=1792167019",
+            "videoSource": "https://ravok.buzz/cdn/hls/dca5c3d2e4b340e0503d8954257d6d3d/master.m3u8?md5=CV6R4jSlxEi4lOOtwoqwDw&expires=1792167019",
+            "videoImage": "https://as-cdn31.top/p/nTum5cbqydR8HTYkJoeA_x6WymFxc-Qg3aBuaQFD20Sp_bE1XUPBhrQbiFJ0ZV95VVir7dAL2RwrNG54FN9Q-Q.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "73bff38358eef9fa431af325f5eaf8e0",
+                "streamUrl": "https://ravok.buzz/cdn/hls/dca5c3d2e4b340e0503d8954257d6d3d/master.m3u8?md5=CV6R4jSlxEi4lOOtwoqwDw&expires=1792167019",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/dca5c3d2e4b340e0503d8954257d6d3d/master.m3u8?md5=CV6R4jSlxEi4lOOtwoqwDw&expires=1792167019",
+                "videoSource": "https://ravok.buzz/cdn/hls/dca5c3d2e4b340e0503d8954257d6d3d/master.m3u8?md5=CV6R4jSlxEi4lOOtwoqwDw&expires=1792167019",
+                "link": "https://ravok.buzz/cdn/hls/dca5c3d2e4b340e0503d8954257d6d3d/master.m3u8?md5=CV6R4jSlxEi4lOOtwoqwDw&expires=1792167019",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/nTum5cbqydR8HTYkJoeA_x6WymFxc-Qg3aBuaQFD20Sp_bE1XUPBhrQbiFJ0ZV95VVir7dAL2RwrNG54FN9Q-Q.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "7j2CMNh6l"
+        }
+      },
+      "fetched_at": "2026-10-16T14:10:29Z"
+    },
+    {
+      "id": "episode/private-a-condition-called-love-1x12",
+      "episode_id": "episode/private-a-condition-called-love-1x12",
+      "title": "Private: A Condition Called Love 1x1",
+      "episode_name": "Private: A Condition Called Love 1x1",
+      "episode_number": 12,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1201_s1e12.webp",
+      "abyssid": "12020",
+      "abyssId": "12020",
+      "playxid": "1471a8e08c604e589e04339b320deeb8",
+      "playXID": "1471a8e08c604e589e04339b320deeb8",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12020",
+        "playXID": "1471a8e08c604e589e04339b320deeb8",
+        "streamId": "12020",
+        "dubPlayerSrc": "/dub-player/t/12020/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=1471a8e08c604e589e04339b320deeb8&abyssId=12020"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12020",
+        "playXID": "1471a8e08c604e589e04339b320deeb8",
+        "streamId": "12020",
+        "dubPlayerSrc": "/dub-player/t/12020/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=1471a8e08c604e589e04339b320deeb8&abyssId=12020"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/1471a8e08c604e589e04339b320deeb8",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/1471a8e08c604e589e04339b320deeb8"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12020",
+        "abyssId": "12020",
+        "playXID": "1471a8e08c604e589e04339b320deeb8",
+        "title": "A Condition Called Love",
+        "season": 1,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "2bXnWhXdk"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "IegqXwVwJ"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "9S9563uX-"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/15ae928cc1ac1a32c73273ef07a55a95/master.m3u8?md5=3P30qW7dQlAMsozIffywOg&expires=1792167019",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/15ae928cc1ac1a32c73273ef07a55a95/master.m3u8?md5=3P30qW7dQlAMsozIffywOg&expires=1792167019",
+            "videoSource": "https://ravok.buzz/cdn/hls/15ae928cc1ac1a32c73273ef07a55a95/master.m3u8?md5=3P30qW7dQlAMsozIffywOg&expires=1792167019",
+            "videoImage": "https://as-cdn28.top/p/DfZrGm6lRrA9hU5lkCitfi9qhJmXvFpAWeNMxQdo15tRiQ5wXu-nNZMyy8UOaMeik9q86dzg5ZsK7i7lQ60W_A.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "1471a8e08c604e589e04339b320deeb8",
+                "streamUrl": "https://ravok.buzz/cdn/hls/15ae928cc1ac1a32c73273ef07a55a95/master.m3u8?md5=3P30qW7dQlAMsozIffywOg&expires=1792167019",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/15ae928cc1ac1a32c73273ef07a55a95/master.m3u8?md5=3P30qW7dQlAMsozIffywOg&expires=1792167019",
+                "videoSource": "https://ravok.buzz/cdn/hls/15ae928cc1ac1a32c73273ef07a55a95/master.m3u8?md5=3P30qW7dQlAMsozIffywOg&expires=1792167019",
+                "link": "https://ravok.buzz/cdn/hls/15ae928cc1ac1a32c73273ef07a55a95/master.m3u8?md5=3P30qW7dQlAMsozIffywOg&expires=1792167019",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/DfZrGm6lRrA9hU5lkCitfi9qhJmXvFpAWeNMxQdo15tRiQ5wXu-nNZMyy8UOaMeik9q86dzg5ZsK7i7lQ60W_A.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "2bXnWhXdk"
+        }
+      },
+      "fetched_at": "2026-10-16T14:10:29Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T14:10:23Z",
+  "updated_at": "2026-10-16T14:10:29Z"
+}

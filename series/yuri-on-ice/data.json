@@ -1,0 +1,1474 @@
+{
+  "id": "series/yuri-on-ice",
+  "series_name": "Yuri!!! on Ice",
+  "title": "Yuri!!! on Ice",
+  "banner": "https://image.tmdb.org/t/p/w1280/mWwWhDiQWONiSS4Go12TTjNw0E5.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/oxenakJNCj06JrWHENjvwaWGcSz.jpg",
+  "genra": [
+    "Comedy",
+    "Drama",
+    "Sports"
+  ],
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Sports"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Japanese",
+    "Tamil",
+    "Telugu"
+  ],
+  "synopsis": "While on the verge of retirement, skater Yuri Katsuki meets Yuri Plisetsky and Victor Nikiforov, two skaters who rekindle his competitive fire.",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Yuri!!! on Ice 1x1",
+          "id": "episode/yuri-on-ice-1x1",
+          "image": "https://img.watchanimeworld.one/img/thumb_1986_s1e1.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "Yuri!!! on Ice 1x2",
+          "id": "episode/yuri-on-ice-1x2",
+          "image": "https://img.watchanimeworld.one/img/thumb_1986_s1e2.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "Yuri!!! on Ice 1x3",
+          "id": "episode/yuri-on-ice-1x3",
+          "image": "https://img.watchanimeworld.one/img/thumb_1986_s1e3.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "Yuri!!! on Ice 1x4",
+          "id": "episode/yuri-on-ice-1x4",
+          "image": "https://img.watchanimeworld.one/img/thumb_1986_s1e4.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "Yuri!!! on Ice 1x5",
+          "id": "episode/yuri-on-ice-1x5",
+          "image": "https://img.watchanimeworld.one/img/thumb_1986_s1e5.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "Yuri!!! on Ice 1x6",
+          "id": "episode/yuri-on-ice-1x6",
+          "image": "https://img.watchanimeworld.one/img/thumb_1986_s1e6.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "Yuri!!! on Ice 1x7",
+          "id": "episode/yuri-on-ice-1x7",
+          "image": "https://img.watchanimeworld.one/img/thumb_1986_s1e7.webp",
+          "season": 1
+        },
+        {
+          "episode": 8,
+          "title": "Yuri!!! on Ice 1x8",
+          "id": "episode/yuri-on-ice-1x8",
+          "image": "https://img.watchanimeworld.one/img/thumb_1986_s1e8.webp",
+          "season": 1
+        },
+        {
+          "episode": 9,
+          "title": "Yuri!!! on Ice 1x9",
+          "id": "episode/yuri-on-ice-1x9",
+          "image": "https://img.watchanimeworld.one/img/thumb_1986_s1e9.webp",
+          "season": 1
+        },
+        {
+          "episode": 10,
+          "title": "Yuri!!! on Ice 1x10",
+          "id": "episode/yuri-on-ice-1x10",
+          "image": "https://img.watchanimeworld.one/img/thumb_1986_s1e10.webp",
+          "season": 1
+        },
+        {
+          "episode": 11,
+          "title": "Yuri!!! on Ice 1x11",
+          "id": "episode/yuri-on-ice-1x11",
+          "image": "https://img.watchanimeworld.one/img/thumb_1986_s1e11.webp",
+          "season": 1
+        },
+        {
+          "episode": 12,
+          "title": "Yuri!!! on Ice 1x12",
+          "id": "episode/yuri-on-ice-1x12",
+          "image": "https://img.watchanimeworld.one/img/thumb_1986_s1e12.webp",
+          "season": 1
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/yuri-on-ice-1x1",
+      "episode_id": "episode/yuri-on-ice-1x1",
+      "title": "Yuri!!! on Ice 1x1",
+      "episode_name": "Yuri!!! on Ice 1x1",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1986_s1e1.webp",
+      "abyssid": "18073",
+      "abyssId": "18073",
+      "playxid": "958b85a5b906cfc1cf826d779e694239",
+      "playXID": "958b85a5b906cfc1cf826d779e694239",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18073",
+        "playXID": "958b85a5b906cfc1cf826d779e694239",
+        "streamId": "18073",
+        "dubPlayerSrc": "/dub-player/t/18073/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=958b85a5b906cfc1cf826d779e694239&abyssId=18073"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18073",
+        "playXID": "958b85a5b906cfc1cf826d779e694239",
+        "streamId": "18073",
+        "dubPlayerSrc": "/dub-player/t/18073/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=958b85a5b906cfc1cf826d779e694239&abyssId=18073"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/767593ee1911f484bc931f9a10f34b66",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/767593ee1911f484bc931f9a10f34b66"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18073",
+        "abyssId": "18073",
+        "playXID": "958b85a5b906cfc1cf826d779e694239",
+        "title": "Yuri!!! on Ice",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "GkAJ886-C"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "s6Z5I6aMk"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "pxVq7mBeX"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "eu7Qe5YmM"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "5Bl6p33YT"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/15148b9a2ccaeb6dcbce5bc800d18ce4/master.m3u8?md5=bgmAqlz2ZaV8PRxKf43agg&expires=1792166014",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/15148b9a2ccaeb6dcbce5bc800d18ce4/master.m3u8?md5=bgmAqlz2ZaV8PRxKf43agg&expires=1792166014",
+            "videoSource": "https://ravok.buzz/cdn/hls/15148b9a2ccaeb6dcbce5bc800d18ce4/master.m3u8?md5=bgmAqlz2ZaV8PRxKf43agg&expires=1792166014",
+            "videoImage": "https://as-cdn29.top/p/JfXoeX_lB0mFw41KMhlCpuw5WhzpyMD3ezvz0HYBBXKK14xajF4ERjTFCsR22oIEoUzi5EoGBKoHu9--a8qSFQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "958b85a5b906cfc1cf826d779e694239",
+                "streamUrl": "https://ravok.buzz/cdn/hls/15148b9a2ccaeb6dcbce5bc800d18ce4/master.m3u8?md5=bgmAqlz2ZaV8PRxKf43agg&expires=1792166014",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/15148b9a2ccaeb6dcbce5bc800d18ce4/master.m3u8?md5=bgmAqlz2ZaV8PRxKf43agg&expires=1792166014",
+                "videoSource": "https://ravok.buzz/cdn/hls/15148b9a2ccaeb6dcbce5bc800d18ce4/master.m3u8?md5=bgmAqlz2ZaV8PRxKf43agg&expires=1792166014",
+                "link": "https://ravok.buzz/cdn/hls/15148b9a2ccaeb6dcbce5bc800d18ce4/master.m3u8?md5=bgmAqlz2ZaV8PRxKf43agg&expires=1792166014",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/JfXoeX_lB0mFw41KMhlCpuw5WhzpyMD3ezvz0HYBBXKK14xajF4ERjTFCsR22oIEoUzi5EoGBKoHu9--a8qSFQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "GkAJ886-C"
+        }
+      },
+      "fetched_at": "2026-10-16T13:53:45Z"
+    },
+    {
+      "id": "episode/yuri-on-ice-1x4",
+      "episode_id": "episode/yuri-on-ice-1x4",
+      "title": "Yuri!!! on Ice 1x1",
+      "episode_name": "Yuri!!! on Ice 1x1",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1986_s1e4.webp",
+      "abyssid": "18076",
+      "abyssId": "18076",
+      "playxid": "97fb357429c8477b578a8647f2fc4419",
+      "playXID": "97fb357429c8477b578a8647f2fc4419",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18076",
+        "playXID": "97fb357429c8477b578a8647f2fc4419",
+        "streamId": "18076",
+        "dubPlayerSrc": "/dub-player/t/18076/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=97fb357429c8477b578a8647f2fc4419&abyssId=18076"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18076",
+        "playXID": "97fb357429c8477b578a8647f2fc4419",
+        "streamId": "18076",
+        "dubPlayerSrc": "/dub-player/t/18076/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=97fb357429c8477b578a8647f2fc4419&abyssId=18076"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/33a5ab413bb8e155ad89c29dbaced31a",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/33a5ab413bb8e155ad89c29dbaced31a"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18076",
+        "abyssId": "18076",
+        "playXID": "97fb357429c8477b578a8647f2fc4419",
+        "title": "Yuri!!! on Ice",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "104ZuN1GG"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "QV1PM0aU0"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "pi6cKenQv"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "4HqoVKXFb"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "TLKNbMrTi"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/68873748cc34e9c1fbdf227bf0a7f5b6/master.m3u8?md5=_AmBa3_9DipYtVDEuFCVgw&expires=1792166014",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/68873748cc34e9c1fbdf227bf0a7f5b6/master.m3u8?md5=_AmBa3_9DipYtVDEuFCVgw&expires=1792166014",
+            "videoSource": "https://ravok.buzz/cdn/hls/68873748cc34e9c1fbdf227bf0a7f5b6/master.m3u8?md5=_AmBa3_9DipYtVDEuFCVgw&expires=1792166014",
+            "videoImage": "https://as-cdn28.top/p/umAshs_-bkZa8p26uf6oMzRQfTSyusougFkS4CMySnqV8V3couSWbRB6QK1bHCnC1ObKmWEeSd6o5rNL-CIWMA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "97fb357429c8477b578a8647f2fc4419",
+                "streamUrl": "https://ravok.buzz/cdn/hls/68873748cc34e9c1fbdf227bf0a7f5b6/master.m3u8?md5=_AmBa3_9DipYtVDEuFCVgw&expires=1792166014",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/68873748cc34e9c1fbdf227bf0a7f5b6/master.m3u8?md5=_AmBa3_9DipYtVDEuFCVgw&expires=1792166014",
+                "videoSource": "https://ravok.buzz/cdn/hls/68873748cc34e9c1fbdf227bf0a7f5b6/master.m3u8?md5=_AmBa3_9DipYtVDEuFCVgw&expires=1792166014",
+                "link": "https://ravok.buzz/cdn/hls/68873748cc34e9c1fbdf227bf0a7f5b6/master.m3u8?md5=_AmBa3_9DipYtVDEuFCVgw&expires=1792166014",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/umAshs_-bkZa8p26uf6oMzRQfTSyusougFkS4CMySnqV8V3couSWbRB6QK1bHCnC1ObKmWEeSd6o5rNL-CIWMA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "104ZuN1GG"
+        }
+      },
+      "fetched_at": "2026-10-16T13:53:45Z"
+    },
+    {
+      "id": "episode/yuri-on-ice-1x2",
+      "episode_id": "episode/yuri-on-ice-1x2",
+      "title": "Yuri!!! on Ice 1x1",
+      "episode_name": "Yuri!!! on Ice 1x1",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1986_s1e2.webp",
+      "abyssid": "18074",
+      "abyssId": "18074",
+      "playxid": "20be339c46ed86941481c44c82b84b7d",
+      "playXID": "20be339c46ed86941481c44c82b84b7d",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18074",
+        "playXID": "20be339c46ed86941481c44c82b84b7d",
+        "streamId": "18074",
+        "dubPlayerSrc": "/dub-player/t/18074/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=20be339c46ed86941481c44c82b84b7d&abyssId=18074"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18074",
+        "playXID": "20be339c46ed86941481c44c82b84b7d",
+        "streamId": "18074",
+        "dubPlayerSrc": "/dub-player/t/18074/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=20be339c46ed86941481c44c82b84b7d&abyssId=18074"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/874e32f9341fbd8141c45090f858e30b",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/874e32f9341fbd8141c45090f858e30b"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18074",
+        "abyssId": "18074",
+        "playXID": "20be339c46ed86941481c44c82b84b7d",
+        "title": "Yuri!!! on Ice",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "cEcdgbHq_"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "CH4hSHa_s"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "c8nhDjezB"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "Yg-Wq4rqjN"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "GAli2e_Vx"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/a14abbaea1220116d8d6dd8f9e898ca6/master.m3u8?md5=bIG0JwpkgMY-2HiCsC8WaA&expires=1792166014",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/a14abbaea1220116d8d6dd8f9e898ca6/master.m3u8?md5=bIG0JwpkgMY-2HiCsC8WaA&expires=1792166014",
+            "videoSource": "https://ravok.buzz/cdn/hls/a14abbaea1220116d8d6dd8f9e898ca6/master.m3u8?md5=bIG0JwpkgMY-2HiCsC8WaA&expires=1792166014",
+            "videoImage": "https://as-cdn31.top/p/7nvxiPrJ1zIN96ZGRbH0irIxCJmQ371JzeBjMmd14GEfdGPqRGtRPS6K5nvVRHA0ynxVu13w4LmT71VC7oU2UQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "20be339c46ed86941481c44c82b84b7d",
+                "streamUrl": "https://ravok.buzz/cdn/hls/a14abbaea1220116d8d6dd8f9e898ca6/master.m3u8?md5=bIG0JwpkgMY-2HiCsC8WaA&expires=1792166014",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/a14abbaea1220116d8d6dd8f9e898ca6/master.m3u8?md5=bIG0JwpkgMY-2HiCsC8WaA&expires=1792166014",
+                "videoSource": "https://ravok.buzz/cdn/hls/a14abbaea1220116d8d6dd8f9e898ca6/master.m3u8?md5=bIG0JwpkgMY-2HiCsC8WaA&expires=1792166014",
+                "link": "https://ravok.buzz/cdn/hls/a14abbaea1220116d8d6dd8f9e898ca6/master.m3u8?md5=bIG0JwpkgMY-2HiCsC8WaA&expires=1792166014",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/7nvxiPrJ1zIN96ZGRbH0irIxCJmQ371JzeBjMmd14GEfdGPqRGtRPS6K5nvVRHA0ynxVu13w4LmT71VC7oU2UQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "cEcdgbHq_"
+        }
+      },
+      "fetched_at": "2026-10-16T13:53:45Z"
+    },
+    {
+      "id": "episode/yuri-on-ice-1x3",
+      "episode_id": "episode/yuri-on-ice-1x3",
+      "title": "Yuri!!! on Ice 1x1",
+      "episode_name": "Yuri!!! on Ice 1x1",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1986_s1e3.webp",
+      "abyssid": "18075",
+      "abyssId": "18075",
+      "playxid": "21f8d34ed55cc8487885b771aec87f50",
+      "playXID": "21f8d34ed55cc8487885b771aec87f50",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18075",
+        "playXID": "21f8d34ed55cc8487885b771aec87f50",
+        "streamId": "18075",
+        "dubPlayerSrc": "/dub-player/t/18075/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=21f8d34ed55cc8487885b771aec87f50&abyssId=18075"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18075",
+        "playXID": "21f8d34ed55cc8487885b771aec87f50",
+        "streamId": "18075",
+        "dubPlayerSrc": "/dub-player/t/18075/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=21f8d34ed55cc8487885b771aec87f50&abyssId=18075"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/82b70f2721b40dc07415e12bd6c12a33",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/82b70f2721b40dc07415e12bd6c12a33"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18075",
+        "abyssId": "18075",
+        "playXID": "21f8d34ed55cc8487885b771aec87f50",
+        "title": "Yuri!!! on Ice",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "OrHV5GfuB"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "emiR1Ilae"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "QQuqrTdH_"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "r6wnF55a1"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "h2dGsLA9e"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/9da01e1dbd274535d2848736a3ac0f10/master.m3u8?md5=F-jDhARD29amUhGwEdIYUA&expires=1792166015",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/9da01e1dbd274535d2848736a3ac0f10/master.m3u8?md5=F-jDhARD29amUhGwEdIYUA&expires=1792166015",
+            "videoSource": "https://ravok.buzz/cdn/hls/9da01e1dbd274535d2848736a3ac0f10/master.m3u8?md5=F-jDhARD29amUhGwEdIYUA&expires=1792166015",
+            "videoImage": "https://as-cdn30.top/p/CHuuryIXOML3xiuQZQu7a4r9-h_Dfx_1LtfBzycbaULC_IB_DZu_5a9fCbbGLnfRAgJjKINWdqNvTHOAd0Utmg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "21f8d34ed55cc8487885b771aec87f50",
+                "streamUrl": "https://ravok.buzz/cdn/hls/9da01e1dbd274535d2848736a3ac0f10/master.m3u8?md5=F-jDhARD29amUhGwEdIYUA&expires=1792166015",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/9da01e1dbd274535d2848736a3ac0f10/master.m3u8?md5=F-jDhARD29amUhGwEdIYUA&expires=1792166015",
+                "videoSource": "https://ravok.buzz/cdn/hls/9da01e1dbd274535d2848736a3ac0f10/master.m3u8?md5=F-jDhARD29amUhGwEdIYUA&expires=1792166015",
+                "link": "https://ravok.buzz/cdn/hls/9da01e1dbd274535d2848736a3ac0f10/master.m3u8?md5=F-jDhARD29amUhGwEdIYUA&expires=1792166015",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/CHuuryIXOML3xiuQZQu7a4r9-h_Dfx_1LtfBzycbaULC_IB_DZu_5a9fCbbGLnfRAgJjKINWdqNvTHOAd0Utmg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "OrHV5GfuB"
+        }
+      },
+      "fetched_at": "2026-10-16T13:53:45Z"
+    },
+    {
+      "id": "episode/yuri-on-ice-1x8",
+      "episode_id": "episode/yuri-on-ice-1x8",
+      "title": "Yuri!!! on Ice 1x1",
+      "episode_name": "Yuri!!! on Ice 1x1",
+      "episode_number": 8,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1986_s1e8.webp",
+      "abyssid": "18080",
+      "abyssId": "18080",
+      "playxid": "42646fb7b3cafcd424e700c1ffee3421",
+      "playXID": "42646fb7b3cafcd424e700c1ffee3421",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18080",
+        "playXID": "42646fb7b3cafcd424e700c1ffee3421",
+        "streamId": "18080",
+        "dubPlayerSrc": "/dub-player/t/18080/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=42646fb7b3cafcd424e700c1ffee3421&abyssId=18080"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18080",
+        "playXID": "42646fb7b3cafcd424e700c1ffee3421",
+        "streamId": "18080",
+        "dubPlayerSrc": "/dub-player/t/18080/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=42646fb7b3cafcd424e700c1ffee3421&abyssId=18080"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/a6953af76df8ac424ed91eecfe6bf582",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/a6953af76df8ac424ed91eecfe6bf582"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18080",
+        "abyssId": "18080",
+        "playXID": "42646fb7b3cafcd424e700c1ffee3421",
+        "title": "Yuri!!! on Ice",
+        "season": 1,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "8CQLbp6d1"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "7tVswFrH0"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "EznzQV08X"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "jeaIAqWhh"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "UbQGYbZ1e"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/6738a841d670307ee7f87bb97d548222/master.m3u8?md5=8wIYQcVK8jQwCXChKH7Xyw&expires=1792166017",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/6738a841d670307ee7f87bb97d548222/master.m3u8?md5=8wIYQcVK8jQwCXChKH7Xyw&expires=1792166017",
+            "videoSource": "https://ravok.buzz/cdn/hls/6738a841d670307ee7f87bb97d548222/master.m3u8?md5=8wIYQcVK8jQwCXChKH7Xyw&expires=1792166017",
+            "videoImage": "https://as-cdn27.top/p/WMBg4XmVgcHehB8S9vBw-rCcbCE8t2p_yC9dpRf7ssvg34hWH9--buqTU1YCdpH86HsaWZw91T9u0ET1Pv9S6w.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "42646fb7b3cafcd424e700c1ffee3421",
+                "streamUrl": "https://ravok.buzz/cdn/hls/6738a841d670307ee7f87bb97d548222/master.m3u8?md5=8wIYQcVK8jQwCXChKH7Xyw&expires=1792166017",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/6738a841d670307ee7f87bb97d548222/master.m3u8?md5=8wIYQcVK8jQwCXChKH7Xyw&expires=1792166017",
+                "videoSource": "https://ravok.buzz/cdn/hls/6738a841d670307ee7f87bb97d548222/master.m3u8?md5=8wIYQcVK8jQwCXChKH7Xyw&expires=1792166017",
+                "link": "https://ravok.buzz/cdn/hls/6738a841d670307ee7f87bb97d548222/master.m3u8?md5=8wIYQcVK8jQwCXChKH7Xyw&expires=1792166017",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/WMBg4XmVgcHehB8S9vBw-rCcbCE8t2p_yC9dpRf7ssvg34hWH9--buqTU1YCdpH86HsaWZw91T9u0ET1Pv9S6w.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "8CQLbp6d1"
+        }
+      },
+      "fetched_at": "2026-10-16T13:53:47Z"
+    },
+    {
+      "id": "episode/yuri-on-ice-1x6",
+      "episode_id": "episode/yuri-on-ice-1x6",
+      "title": "Yuri!!! on Ice 1x1",
+      "episode_name": "Yuri!!! on Ice 1x1",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1986_s1e6.webp",
+      "abyssid": "18078",
+      "abyssId": "18078",
+      "playxid": "6dcc8d363118d28496eee7b61822a13c",
+      "playXID": "6dcc8d363118d28496eee7b61822a13c",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18078",
+        "playXID": "6dcc8d363118d28496eee7b61822a13c",
+        "streamId": "18078",
+        "dubPlayerSrc": "/dub-player/t/18078/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6dcc8d363118d28496eee7b61822a13c&abyssId=18078"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18078",
+        "playXID": "6dcc8d363118d28496eee7b61822a13c",
+        "streamId": "18078",
+        "dubPlayerSrc": "/dub-player/t/18078/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6dcc8d363118d28496eee7b61822a13c&abyssId=18078"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/30f240dc14aa708deda6f0a0606ff810",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/30f240dc14aa708deda6f0a0606ff810"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18078",
+        "abyssId": "18078",
+        "playXID": "6dcc8d363118d28496eee7b61822a13c",
+        "title": "Yuri!!! on Ice",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "W1e4AuQOQ"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "_K_3bZ99A"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "Mn6zIlqMk"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "TxO6b9Hgb"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "bPzcYcMY3"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/f9219d470607133db0ab6352a30b7348/master.m3u8?md5=Q52EE-XacGyakDDY-npLlg&expires=1792166017",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/f9219d470607133db0ab6352a30b7348/master.m3u8?md5=Q52EE-XacGyakDDY-npLlg&expires=1792166017",
+            "videoSource": "https://ravok.buzz/cdn/hls/f9219d470607133db0ab6352a30b7348/master.m3u8?md5=Q52EE-XacGyakDDY-npLlg&expires=1792166017",
+            "videoImage": "https://as-cdn27.top/p/Qzb7eptdX9n1oJ7JvgBwhKWksG10-2_a7adg2DhYs6q68C0EE3aNOO--i8ogQU3jiOCsjTTTcbd_KNJFpgJX7A.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "6dcc8d363118d28496eee7b61822a13c",
+                "streamUrl": "https://ravok.buzz/cdn/hls/f9219d470607133db0ab6352a30b7348/master.m3u8?md5=Q52EE-XacGyakDDY-npLlg&expires=1792166017",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/f9219d470607133db0ab6352a30b7348/master.m3u8?md5=Q52EE-XacGyakDDY-npLlg&expires=1792166017",
+                "videoSource": "https://ravok.buzz/cdn/hls/f9219d470607133db0ab6352a30b7348/master.m3u8?md5=Q52EE-XacGyakDDY-npLlg&expires=1792166017",
+                "link": "https://ravok.buzz/cdn/hls/f9219d470607133db0ab6352a30b7348/master.m3u8?md5=Q52EE-XacGyakDDY-npLlg&expires=1792166017",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/Qzb7eptdX9n1oJ7JvgBwhKWksG10-2_a7adg2DhYs6q68C0EE3aNOO--i8ogQU3jiOCsjTTTcbd_KNJFpgJX7A.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "W1e4AuQOQ"
+        }
+      },
+      "fetched_at": "2026-10-16T13:53:47Z"
+    },
+    {
+      "id": "episode/yuri-on-ice-1x9",
+      "episode_id": "episode/yuri-on-ice-1x9",
+      "title": "Yuri!!! on Ice 1x1",
+      "episode_name": "Yuri!!! on Ice 1x1",
+      "episode_number": 9,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1986_s1e9.webp",
+      "abyssid": "18081",
+      "abyssId": "18081",
+      "playxid": "e0e60ec21d10b717a728bc089e73f262",
+      "playXID": "e0e60ec21d10b717a728bc089e73f262",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18081",
+        "playXID": "e0e60ec21d10b717a728bc089e73f262",
+        "streamId": "18081",
+        "dubPlayerSrc": "/dub-player/t/18081/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e0e60ec21d10b717a728bc089e73f262&abyssId=18081"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18081",
+        "playXID": "e0e60ec21d10b717a728bc089e73f262",
+        "streamId": "18081",
+        "dubPlayerSrc": "/dub-player/t/18081/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e0e60ec21d10b717a728bc089e73f262&abyssId=18081"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/0b025724175e671bc969bdaca29ddc46",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/0b025724175e671bc969bdaca29ddc46"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18081",
+        "abyssId": "18081",
+        "playXID": "e0e60ec21d10b717a728bc089e73f262",
+        "title": "Yuri!!! on Ice",
+        "season": 1,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "QGjuz1Lug"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "jKMe3X3hI"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "B9pSGYJmh"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "03u0StdTW"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "s_wnLNCWw"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/a756486905c250c5e37dd1fde3b05550/master.m3u8?md5=r3xy3F8wIIVjuPNuKqx_Ng&expires=1792166017",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/a756486905c250c5e37dd1fde3b05550/master.m3u8?md5=r3xy3F8wIIVjuPNuKqx_Ng&expires=1792166017",
+            "videoSource": "https://ravok.buzz/cdn/hls/a756486905c250c5e37dd1fde3b05550/master.m3u8?md5=r3xy3F8wIIVjuPNuKqx_Ng&expires=1792166017",
+            "videoImage": "https://as-cdn31.top/p/J26oIsYBpyuAVCXzUR_HSwuCeMZxT5sBNCp1dzw-yqtO77vQjuV-geFbbr0q1XzLunrZesUmqPa6P5Wg1i8l_Q.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "e0e60ec21d10b717a728bc089e73f262",
+                "streamUrl": "https://ravok.buzz/cdn/hls/a756486905c250c5e37dd1fde3b05550/master.m3u8?md5=r3xy3F8wIIVjuPNuKqx_Ng&expires=1792166017",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/a756486905c250c5e37dd1fde3b05550/master.m3u8?md5=r3xy3F8wIIVjuPNuKqx_Ng&expires=1792166017",
+                "videoSource": "https://ravok.buzz/cdn/hls/a756486905c250c5e37dd1fde3b05550/master.m3u8?md5=r3xy3F8wIIVjuPNuKqx_Ng&expires=1792166017",
+                "link": "https://ravok.buzz/cdn/hls/a756486905c250c5e37dd1fde3b05550/master.m3u8?md5=r3xy3F8wIIVjuPNuKqx_Ng&expires=1792166017",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/J26oIsYBpyuAVCXzUR_HSwuCeMZxT5sBNCp1dzw-yqtO77vQjuV-geFbbr0q1XzLunrZesUmqPa6P5Wg1i8l_Q.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "QGjuz1Lug"
+        }
+      },
+      "fetched_at": "2026-10-16T13:53:47Z"
+    },
+    {
+      "id": "episode/yuri-on-ice-1x7",
+      "episode_id": "episode/yuri-on-ice-1x7",
+      "title": "Yuri!!! on Ice 1x1",
+      "episode_name": "Yuri!!! on Ice 1x1",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1986_s1e7.webp",
+      "abyssid": "18079",
+      "abyssId": "18079",
+      "playxid": "6587887c1a63f29633b23791ee81d739",
+      "playXID": "6587887c1a63f29633b23791ee81d739",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18079",
+        "playXID": "6587887c1a63f29633b23791ee81d739",
+        "streamId": "18079",
+        "dubPlayerSrc": "/dub-player/t/18079/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6587887c1a63f29633b23791ee81d739&abyssId=18079"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18079",
+        "playXID": "6587887c1a63f29633b23791ee81d739",
+        "streamId": "18079",
+        "dubPlayerSrc": "/dub-player/t/18079/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6587887c1a63f29633b23791ee81d739&abyssId=18079"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/67b7b196a1d3529edd7d8a896d1b7b1d",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/67b7b196a1d3529edd7d8a896d1b7b1d"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18079",
+        "abyssId": "18079",
+        "playXID": "6587887c1a63f29633b23791ee81d739",
+        "title": "Yuri!!! on Ice",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "3IQrSvjzO"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "wewIWpibF"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "Vtt1us1yB"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "E77qDNn1p"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "rJ-oac2KS"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/d0b550e2565b6839b751b5aefb3e9308/master.m3u8?md5=nfamveNS9nRrbUZ_D4kAVQ&expires=1792166017",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/d0b550e2565b6839b751b5aefb3e9308/master.m3u8?md5=nfamveNS9nRrbUZ_D4kAVQ&expires=1792166017",
+            "videoSource": "https://ravok.buzz/cdn/hls/d0b550e2565b6839b751b5aefb3e9308/master.m3u8?md5=nfamveNS9nRrbUZ_D4kAVQ&expires=1792166017",
+            "videoImage": "https://as-cdn28.top/p/cIfD8p2iiBFhi_WPG_xGyU7ICMa9rBDAKmdY29CySXfEcIquqxsrVUkaJqt6WTnzU-lkKaju381iAB0KVMLP3Q.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "6587887c1a63f29633b23791ee81d739",
+                "streamUrl": "https://ravok.buzz/cdn/hls/d0b550e2565b6839b751b5aefb3e9308/master.m3u8?md5=nfamveNS9nRrbUZ_D4kAVQ&expires=1792166017",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/d0b550e2565b6839b751b5aefb3e9308/master.m3u8?md5=nfamveNS9nRrbUZ_D4kAVQ&expires=1792166017",
+                "videoSource": "https://ravok.buzz/cdn/hls/d0b550e2565b6839b751b5aefb3e9308/master.m3u8?md5=nfamveNS9nRrbUZ_D4kAVQ&expires=1792166017",
+                "link": "https://ravok.buzz/cdn/hls/d0b550e2565b6839b751b5aefb3e9308/master.m3u8?md5=nfamveNS9nRrbUZ_D4kAVQ&expires=1792166017",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/cIfD8p2iiBFhi_WPG_xGyU7ICMa9rBDAKmdY29CySXfEcIquqxsrVUkaJqt6WTnzU-lkKaju381iAB0KVMLP3Q.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "3IQrSvjzO"
+        }
+      },
+      "fetched_at": "2026-10-16T13:53:47Z"
+    },
+    {
+      "id": "episode/yuri-on-ice-1x5",
+      "episode_id": "episode/yuri-on-ice-1x5",
+      "title": "Yuri!!! on Ice 1x1",
+      "episode_name": "Yuri!!! on Ice 1x1",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1986_s1e5.webp",
+      "abyssid": "18077",
+      "abyssId": "18077",
+      "playxid": "09e8fef7c74627eaadebcc0f0d15e2e8",
+      "playXID": "09e8fef7c74627eaadebcc0f0d15e2e8",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18077",
+        "playXID": "09e8fef7c74627eaadebcc0f0d15e2e8",
+        "streamId": "18077",
+        "dubPlayerSrc": "/dub-player/t/18077/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=09e8fef7c74627eaadebcc0f0d15e2e8&abyssId=18077"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18077",
+        "playXID": "09e8fef7c74627eaadebcc0f0d15e2e8",
+        "streamId": "18077",
+        "dubPlayerSrc": "/dub-player/t/18077/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=09e8fef7c74627eaadebcc0f0d15e2e8&abyssId=18077"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/09e8fef7c74627eaadebcc0f0d15e2e8",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/09e8fef7c74627eaadebcc0f0d15e2e8"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18077",
+        "abyssId": "18077",
+        "playXID": "09e8fef7c74627eaadebcc0f0d15e2e8",
+        "title": "Yuri!!! on Ice",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "v0LAak8E_"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "xHx7a_J74"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "9LlpehIaB"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "yCSklsJ-S"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "ED8RivlL5"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "v0LAak8E_"
+        }
+      },
+      "fetched_at": "2026-10-16T13:53:49Z"
+    },
+    {
+      "id": "episode/yuri-on-ice-1x10",
+      "episode_id": "episode/yuri-on-ice-1x10",
+      "title": "Yuri!!! on Ice 1x1",
+      "episode_name": "Yuri!!! on Ice 1x1",
+      "episode_number": 10,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1986_s1e10.webp",
+      "abyssid": "18082",
+      "abyssId": "18082",
+      "playxid": "e2812f19ee06fbf2f9c2b27fa55ae5db",
+      "playXID": "e2812f19ee06fbf2f9c2b27fa55ae5db",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18082",
+        "playXID": "e2812f19ee06fbf2f9c2b27fa55ae5db",
+        "streamId": "18082",
+        "dubPlayerSrc": "/dub-player/t/18082/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e2812f19ee06fbf2f9c2b27fa55ae5db&abyssId=18082"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18082",
+        "playXID": "e2812f19ee06fbf2f9c2b27fa55ae5db",
+        "streamId": "18082",
+        "dubPlayerSrc": "/dub-player/t/18082/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e2812f19ee06fbf2f9c2b27fa55ae5db&abyssId=18082"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/a3406b19ea76752fa277b70037448e0d",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/a3406b19ea76752fa277b70037448e0d"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18082",
+        "abyssId": "18082",
+        "playXID": "e2812f19ee06fbf2f9c2b27fa55ae5db",
+        "title": "Yuri!!! on Ice",
+        "season": 1,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "Ee4USb5l8"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "G9gAkx--pb"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "4OQfBA1r5"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "HIpFN_mlC"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "EKtbLcK8r"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/2be51e7f8dbafeaf90d2be6179cd5a94/master.m3u8?md5=6tQ7gDo1m-WcOJozOREvYA&expires=1792166019",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/2be51e7f8dbafeaf90d2be6179cd5a94/master.m3u8?md5=6tQ7gDo1m-WcOJozOREvYA&expires=1792166019",
+            "videoSource": "https://ravok.buzz/cdn/hls/2be51e7f8dbafeaf90d2be6179cd5a94/master.m3u8?md5=6tQ7gDo1m-WcOJozOREvYA&expires=1792166019",
+            "videoImage": "https://as-cdn28.top/p/L2h89Xn3-fiOFOxnTfwHDHUyFwoFYS92ZkcVDjsyIzFL43NpX-KXEp20iuRmfEJbHLhA5ynd8RDZD3rjy5ajGQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "e2812f19ee06fbf2f9c2b27fa55ae5db",
+                "streamUrl": "https://ravok.buzz/cdn/hls/2be51e7f8dbafeaf90d2be6179cd5a94/master.m3u8?md5=6tQ7gDo1m-WcOJozOREvYA&expires=1792166019",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/2be51e7f8dbafeaf90d2be6179cd5a94/master.m3u8?md5=6tQ7gDo1m-WcOJozOREvYA&expires=1792166019",
+                "videoSource": "https://ravok.buzz/cdn/hls/2be51e7f8dbafeaf90d2be6179cd5a94/master.m3u8?md5=6tQ7gDo1m-WcOJozOREvYA&expires=1792166019",
+                "link": "https://ravok.buzz/cdn/hls/2be51e7f8dbafeaf90d2be6179cd5a94/master.m3u8?md5=6tQ7gDo1m-WcOJozOREvYA&expires=1792166019",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/L2h89Xn3-fiOFOxnTfwHDHUyFwoFYS92ZkcVDjsyIzFL43NpX-KXEp20iuRmfEJbHLhA5ynd8RDZD3rjy5ajGQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "Ee4USb5l8"
+        }
+      },
+      "fetched_at": "2026-10-16T13:53:49Z"
+    },
+    {
+      "id": "episode/yuri-on-ice-1x11",
+      "episode_id": "episode/yuri-on-ice-1x11",
+      "title": "Yuri!!! on Ice 1x1",
+      "episode_name": "Yuri!!! on Ice 1x1",
+      "episode_number": 11,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1986_s1e11.webp",
+      "abyssid": "18741",
+      "abyssId": "18741",
+      "playxid": "4a420e5be8a530b2a41ef92af37d1287",
+      "playXID": "4a420e5be8a530b2a41ef92af37d1287",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18741",
+        "playXID": "4a420e5be8a530b2a41ef92af37d1287",
+        "streamId": "18741",
+        "dubPlayerSrc": "/dub-player/t/18741/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=4a420e5be8a530b2a41ef92af37d1287&abyssId=18741"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18741",
+        "playXID": "4a420e5be8a530b2a41ef92af37d1287",
+        "streamId": "18741",
+        "dubPlayerSrc": "/dub-player/t/18741/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=4a420e5be8a530b2a41ef92af37d1287&abyssId=18741"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/8206a42a49e26f8419132a9c97e016f6",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/8206a42a49e26f8419132a9c97e016f6"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18741",
+        "abyssId": "18741",
+        "playXID": "4a420e5be8a530b2a41ef92af37d1287",
+        "title": "Yuri!!! on Ice",
+        "season": 1,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "IuumraBoH"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "_DvcWRt_M"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "WdnBvDVMy"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "8ynoWnNjz"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "EUmgDYCfB"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/c9468f0c2a62cd5cdd37e6923955a28f/master.m3u8?md5=wY7pOTU48B4eS89Tra7fuA&expires=1792166019",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/c9468f0c2a62cd5cdd37e6923955a28f/master.m3u8?md5=wY7pOTU48B4eS89Tra7fuA&expires=1792166019",
+            "videoSource": "https://ravok.buzz/cdn/hls/c9468f0c2a62cd5cdd37e6923955a28f/master.m3u8?md5=wY7pOTU48B4eS89Tra7fuA&expires=1792166019",
+            "videoImage": "https://as-cdn28.top/p/shwpnVSkjAPNtZ_rWk7ytY-YcBiSj5rcRw9naBFG24NQorUB4OJpNNnKVHOsts5oTdhumTt0FInNy5Zav9UzhA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "4a420e5be8a530b2a41ef92af37d1287",
+                "streamUrl": "https://ravok.buzz/cdn/hls/c9468f0c2a62cd5cdd37e6923955a28f/master.m3u8?md5=wY7pOTU48B4eS89Tra7fuA&expires=1792166019",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/c9468f0c2a62cd5cdd37e6923955a28f/master.m3u8?md5=wY7pOTU48B4eS89Tra7fuA&expires=1792166019",
+                "videoSource": "https://ravok.buzz/cdn/hls/c9468f0c2a62cd5cdd37e6923955a28f/master.m3u8?md5=wY7pOTU48B4eS89Tra7fuA&expires=1792166019",
+                "link": "https://ravok.buzz/cdn/hls/c9468f0c2a62cd5cdd37e6923955a28f/master.m3u8?md5=wY7pOTU48B4eS89Tra7fuA&expires=1792166019",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/shwpnVSkjAPNtZ_rWk7ytY-YcBiSj5rcRw9naBFG24NQorUB4OJpNNnKVHOsts5oTdhumTt0FInNy5Zav9UzhA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "IuumraBoH"
+        }
+      },
+      "fetched_at": "2026-10-16T13:53:49Z"
+    },
+    {
+      "id": "episode/yuri-on-ice-1x12",
+      "episode_id": "episode/yuri-on-ice-1x12",
+      "title": "Yuri!!! on Ice 1x1",
+      "episode_name": "Yuri!!! on Ice 1x1",
+      "episode_number": 12,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1986_s1e12.webp",
+      "abyssid": "18742",
+      "abyssId": "18742",
+      "playxid": "28614d9bc22c8a1ec4b6fafd953ef378",
+      "playXID": "28614d9bc22c8a1ec4b6fafd953ef378",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18742",
+        "playXID": "28614d9bc22c8a1ec4b6fafd953ef378",
+        "streamId": "18742",
+        "dubPlayerSrc": "/dub-player/t/18742/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=28614d9bc22c8a1ec4b6fafd953ef378&abyssId=18742"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18742",
+        "playXID": "28614d9bc22c8a1ec4b6fafd953ef378",
+        "streamId": "18742",
+        "dubPlayerSrc": "/dub-player/t/18742/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=28614d9bc22c8a1ec4b6fafd953ef378&abyssId=18742"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/32cd0b3cfed084c5c03f6aafa0bb8d13",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/32cd0b3cfed084c5c03f6aafa0bb8d13"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18742",
+        "abyssId": "18742",
+        "playXID": "28614d9bc22c8a1ec4b6fafd953ef378",
+        "title": "Yuri!!! on Ice",
+        "season": 1,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "2LTTsiaUd"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "WNaKReuyN"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "SKYrUrZOFI"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "EijADoDW1"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "RoEcdmooU"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/697e323bd619e8d5f2214179834aaccc/master.m3u8?md5=E7pyZzJ0ql1_b96oxotvkg&expires=1792166019",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/697e323bd619e8d5f2214179834aaccc/master.m3u8?md5=E7pyZzJ0ql1_b96oxotvkg&expires=1792166019",
+            "videoSource": "https://ravok.buzz/cdn/hls/697e323bd619e8d5f2214179834aaccc/master.m3u8?md5=E7pyZzJ0ql1_b96oxotvkg&expires=1792166019",
+            "videoImage": "https://as-cdn30.top/p/_huO-s5mWsrQ4qCaui1pv6qKDu2Uc-sy00QRqcGZvgn3M8B74aviEJnVli9pAAixGcq48FH2MCAaqHzFsumreg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "28614d9bc22c8a1ec4b6fafd953ef378",
+                "streamUrl": "https://ravok.buzz/cdn/hls/697e323bd619e8d5f2214179834aaccc/master.m3u8?md5=E7pyZzJ0ql1_b96oxotvkg&expires=1792166019",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/697e323bd619e8d5f2214179834aaccc/master.m3u8?md5=E7pyZzJ0ql1_b96oxotvkg&expires=1792166019",
+                "videoSource": "https://ravok.buzz/cdn/hls/697e323bd619e8d5f2214179834aaccc/master.m3u8?md5=E7pyZzJ0ql1_b96oxotvkg&expires=1792166019",
+                "link": "https://ravok.buzz/cdn/hls/697e323bd619e8d5f2214179834aaccc/master.m3u8?md5=E7pyZzJ0ql1_b96oxotvkg&expires=1792166019",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/_huO-s5mWsrQ4qCaui1pv6qKDu2Uc-sy00QRqcGZvgn3M8B74aviEJnVli9pAAixGcq48FH2MCAaqHzFsumreg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "2LTTsiaUd"
+        }
+      },
+      "fetched_at": "2026-10-16T13:53:49Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T13:53:42Z",
+  "updated_at": "2026-10-16T13:53:49Z"
+}

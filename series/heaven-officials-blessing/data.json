@@ -1,0 +1,1212 @@
+{
+  "id": "series/heaven-officials-blessing",
+  "series_name": "Heaven Official's Blessing",
+  "title": "Heaven Official's Blessing",
+  "banner": "https://image.tmdb.org/t/p/w1280/xPzeiPXPpdUJNHAnCZMeFmbxDPc.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/4psWk1qJZKXlH78DjZUnvXCwSAM.jpg",
+  "genra": [
+    "Action",
+    "Adventure",
+    "Drama",
+    "Fantasy",
+    "Historical",
+    "Romance"
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama",
+    "Fantasy",
+    "Historical",
+    "Romance"
+  ],
+  "languages": [
+    "Chinese",
+    "Hindi"
+  ],
+  "synopsis": "Banished to the mortal realm to exorcise ghosts, an eight-century-old deity reckons with a demon and slowly uncovers dark secrets behind the many heavenly gods.",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Heaven Official's Blessing 1x1",
+          "id": "episode/heaven-officials-blessing-1x1",
+          "image": "https://img.watchanimeworld.one/img/thumb_2095_s1e1.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "Heaven Official's Blessing 1x2",
+          "id": "episode/heaven-officials-blessing-1x2",
+          "image": "https://img.watchanimeworld.one/img/thumb_2095_s1e2.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "Heaven Official's Blessing 1x3",
+          "id": "episode/heaven-officials-blessing-1x3",
+          "image": "https://img.watchanimeworld.one/img/thumb_2095_s1e3.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "Heaven Official's Blessing 1x4",
+          "id": "episode/heaven-officials-blessing-1x4",
+          "image": "https://img.watchanimeworld.one/img/thumb_2095_s1e4.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "Heaven Official's Blessing 1x5",
+          "id": "episode/heaven-officials-blessing-1x5",
+          "image": "https://img.watchanimeworld.one/img/thumb_2095_s1e5.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "Heaven Official's Blessing 1x6",
+          "id": "episode/heaven-officials-blessing-1x6",
+          "image": "https://img.watchanimeworld.one/img/thumb_2095_s1e6.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "Heaven Official's Blessing 1x7",
+          "id": "episode/heaven-officials-blessing-1x7",
+          "image": "https://img.watchanimeworld.one/img/thumb_2095_s1e7.webp",
+          "season": 1
+        },
+        {
+          "episode": 8,
+          "title": "Heaven Official's Blessing 1x8",
+          "id": "episode/heaven-officials-blessing-1x8",
+          "image": "https://img.watchanimeworld.one/img/thumb_2095_s1e8.webp",
+          "season": 1
+        },
+        {
+          "episode": 9,
+          "title": "Heaven Official's Blessing 1x9",
+          "id": "episode/heaven-officials-blessing-1x9",
+          "image": "https://img.watchanimeworld.one/img/thumb_2095_s1e9.webp",
+          "season": 1
+        },
+        {
+          "episode": 10,
+          "title": "Heaven Official's Blessing 1x10",
+          "id": "episode/heaven-officials-blessing-1x10",
+          "image": "https://img.watchanimeworld.one/img/thumb_2095_s1e10.webp",
+          "season": 1
+        },
+        {
+          "episode": 11,
+          "title": "Heaven Official's Blessing 1x11",
+          "id": "episode/heaven-officials-blessing-1x11",
+          "image": "https://img.watchanimeworld.one/img/thumb_2095_s1e11.webp",
+          "season": 1
+        },
+        {
+          "episode": 12,
+          "title": "Heaven Official's Blessing 1x12",
+          "id": "episode/heaven-officials-blessing-1x12",
+          "image": "https://img.watchanimeworld.one/img/thumb_2095_s1e12.webp",
+          "season": 1
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/heaven-officials-blessing-1x4",
+      "episode_id": "episode/heaven-officials-blessing-1x4",
+      "title": "Heaven Official's Blessing 1x1",
+      "episode_name": "Heaven Official's Blessing 1x1",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2095_s1e4.webp",
+      "abyssid": "18761",
+      "abyssId": "18761",
+      "playxid": "8f4131479defde8dc2f27d096c15d72f",
+      "playXID": "8f4131479defde8dc2f27d096c15d72f",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18761",
+        "playXID": "8f4131479defde8dc2f27d096c15d72f",
+        "streamId": "18761",
+        "dubPlayerSrc": "/dub-player/t/18761/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8f4131479defde8dc2f27d096c15d72f&abyssId=18761"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18761",
+        "playXID": "8f4131479defde8dc2f27d096c15d72f",
+        "streamId": "18761",
+        "dubPlayerSrc": "/dub-player/t/18761/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8f4131479defde8dc2f27d096c15d72f&abyssId=18761"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/e65da2392672bfaa382312263caceb9d",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/e65da2392672bfaa382312263caceb9d"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18761",
+        "abyssId": "18761",
+        "playXID": "8f4131479defde8dc2f27d096c15d72f",
+        "title": "Heaven Official's Blessing",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "f3uwVQ9WW"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/a04c336206138a792ae7c855859eb68c/master.m3u8?md5=v0vNQ5Tm4WRRJh3020766Q&expires=1792165852",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/a04c336206138a792ae7c855859eb68c/master.m3u8?md5=v0vNQ5Tm4WRRJh3020766Q&expires=1792165852",
+            "videoSource": "https://ravok.buzz/cdn/hls/a04c336206138a792ae7c855859eb68c/master.m3u8?md5=v0vNQ5Tm4WRRJh3020766Q&expires=1792165852",
+            "videoImage": "https://as-cdn29.top/p/Cvq5Clj4LEGttp1EGXJMsXFZOqok3p2RaHVFnhaU4oHPncxh2i7R1M0fdOuQgmGEifAhaAweLy34Y24tk0EU_Q.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "8f4131479defde8dc2f27d096c15d72f",
+                "streamUrl": "https://ravok.buzz/cdn/hls/a04c336206138a792ae7c855859eb68c/master.m3u8?md5=v0vNQ5Tm4WRRJh3020766Q&expires=1792165852",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/a04c336206138a792ae7c855859eb68c/master.m3u8?md5=v0vNQ5Tm4WRRJh3020766Q&expires=1792165852",
+                "videoSource": "https://ravok.buzz/cdn/hls/a04c336206138a792ae7c855859eb68c/master.m3u8?md5=v0vNQ5Tm4WRRJh3020766Q&expires=1792165852",
+                "link": "https://ravok.buzz/cdn/hls/a04c336206138a792ae7c855859eb68c/master.m3u8?md5=v0vNQ5Tm4WRRJh3020766Q&expires=1792165852",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/Cvq5Clj4LEGttp1EGXJMsXFZOqok3p2RaHVFnhaU4oHPncxh2i7R1M0fdOuQgmGEifAhaAweLy34Y24tk0EU_Q.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "f3uwVQ9WW"
+        }
+      },
+      "fetched_at": "2026-10-16T13:51:02Z"
+    },
+    {
+      "id": "episode/heaven-officials-blessing-1x3",
+      "episode_id": "episode/heaven-officials-blessing-1x3",
+      "title": "Heaven Official's Blessing 1x1",
+      "episode_name": "Heaven Official's Blessing 1x1",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2095_s1e3.webp",
+      "abyssid": "18759",
+      "abyssId": "18759",
+      "playxid": "4e85fa3a7bb64fffde3307ca72f2aeb5",
+      "playXID": "4e85fa3a7bb64fffde3307ca72f2aeb5",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18759",
+        "playXID": "4e85fa3a7bb64fffde3307ca72f2aeb5",
+        "streamId": "18759",
+        "dubPlayerSrc": "/dub-player/t/18759/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=4e85fa3a7bb64fffde3307ca72f2aeb5&abyssId=18759"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18759",
+        "playXID": "4e85fa3a7bb64fffde3307ca72f2aeb5",
+        "streamId": "18759",
+        "dubPlayerSrc": "/dub-player/t/18759/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=4e85fa3a7bb64fffde3307ca72f2aeb5&abyssId=18759"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/16e4e18e4779ab2edc89086b1989759c",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/16e4e18e4779ab2edc89086b1989759c"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18759",
+        "abyssId": "18759",
+        "playXID": "4e85fa3a7bb64fffde3307ca72f2aeb5",
+        "title": "Heaven Official's Blessing",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "p9Je686AE"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/083235135896cd9178c6f03d852b22b9/master.m3u8?md5=ypvXrKKHkov3kHQ15lWlvA&expires=1792165852",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/083235135896cd9178c6f03d852b22b9/master.m3u8?md5=ypvXrKKHkov3kHQ15lWlvA&expires=1792165852",
+            "videoSource": "https://ravok.buzz/cdn/hls/083235135896cd9178c6f03d852b22b9/master.m3u8?md5=ypvXrKKHkov3kHQ15lWlvA&expires=1792165852",
+            "videoImage": "https://as-cdn29.top/p/eKLG9lNJ0H86KtN-YbfgaScv1-YAmIPJ5b82l2-7vQM4NW1jZr5iMt0w9DYID3NlptC3iWbVDDx7P0-rEpMulg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "4e85fa3a7bb64fffde3307ca72f2aeb5",
+                "streamUrl": "https://ravok.buzz/cdn/hls/083235135896cd9178c6f03d852b22b9/master.m3u8?md5=ypvXrKKHkov3kHQ15lWlvA&expires=1792165852",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/083235135896cd9178c6f03d852b22b9/master.m3u8?md5=ypvXrKKHkov3kHQ15lWlvA&expires=1792165852",
+                "videoSource": "https://ravok.buzz/cdn/hls/083235135896cd9178c6f03d852b22b9/master.m3u8?md5=ypvXrKKHkov3kHQ15lWlvA&expires=1792165852",
+                "link": "https://ravok.buzz/cdn/hls/083235135896cd9178c6f03d852b22b9/master.m3u8?md5=ypvXrKKHkov3kHQ15lWlvA&expires=1792165852",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/eKLG9lNJ0H86KtN-YbfgaScv1-YAmIPJ5b82l2-7vQM4NW1jZr5iMt0w9DYID3NlptC3iWbVDDx7P0-rEpMulg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "p9Je686AE"
+        }
+      },
+      "fetched_at": "2026-10-16T13:51:02Z"
+    },
+    {
+      "id": "episode/heaven-officials-blessing-1x1",
+      "episode_id": "episode/heaven-officials-blessing-1x1",
+      "title": "Heaven Official's Blessing 1x1",
+      "episode_name": "Heaven Official's Blessing 1x1",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2095_s1e1.webp",
+      "abyssid": "18757",
+      "abyssId": "18757",
+      "playxid": "df3abfaa6336c64811b77e86b9cb17b0",
+      "playXID": "df3abfaa6336c64811b77e86b9cb17b0",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18757",
+        "playXID": "df3abfaa6336c64811b77e86b9cb17b0",
+        "streamId": "18757",
+        "dubPlayerSrc": "/dub-player/t/18757/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=df3abfaa6336c64811b77e86b9cb17b0&abyssId=18757"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18757",
+        "playXID": "df3abfaa6336c64811b77e86b9cb17b0",
+        "streamId": "18757",
+        "dubPlayerSrc": "/dub-player/t/18757/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=df3abfaa6336c64811b77e86b9cb17b0&abyssId=18757"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/df05dec7f743ab807bfd4a47135aa61f",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/df05dec7f743ab807bfd4a47135aa61f"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18757",
+        "abyssId": "18757",
+        "playXID": "df3abfaa6336c64811b77e86b9cb17b0",
+        "title": "Heaven Official's Blessing",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "wIZ6Rt85g"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/67feeccfda0092411b684894843ed23e/master.m3u8?md5=0wY8NcBuf85v7NCiefOaqw&expires=1792165852",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/67feeccfda0092411b684894843ed23e/master.m3u8?md5=0wY8NcBuf85v7NCiefOaqw&expires=1792165852",
+            "videoSource": "https://ravok.buzz/cdn/hls/67feeccfda0092411b684894843ed23e/master.m3u8?md5=0wY8NcBuf85v7NCiefOaqw&expires=1792165852",
+            "videoImage": "https://as-cdn29.top/p/ij4ah7zidmPR7QgObqKY7YCv3JZPVY8nYauamB6STALhdQNoWNDNc_5Ku_pmNeAtWyGcnGi6ewj3AN0XItb_1Q.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "df3abfaa6336c64811b77e86b9cb17b0",
+                "streamUrl": "https://ravok.buzz/cdn/hls/67feeccfda0092411b684894843ed23e/master.m3u8?md5=0wY8NcBuf85v7NCiefOaqw&expires=1792165852",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/67feeccfda0092411b684894843ed23e/master.m3u8?md5=0wY8NcBuf85v7NCiefOaqw&expires=1792165852",
+                "videoSource": "https://ravok.buzz/cdn/hls/67feeccfda0092411b684894843ed23e/master.m3u8?md5=0wY8NcBuf85v7NCiefOaqw&expires=1792165852",
+                "link": "https://ravok.buzz/cdn/hls/67feeccfda0092411b684894843ed23e/master.m3u8?md5=0wY8NcBuf85v7NCiefOaqw&expires=1792165852",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/ij4ah7zidmPR7QgObqKY7YCv3JZPVY8nYauamB6STALhdQNoWNDNc_5Ku_pmNeAtWyGcnGi6ewj3AN0XItb_1Q.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "wIZ6Rt85g"
+        }
+      },
+      "fetched_at": "2026-10-16T13:51:02Z"
+    },
+    {
+      "id": "episode/heaven-officials-blessing-1x5",
+      "episode_id": "episode/heaven-officials-blessing-1x5",
+      "title": "Heaven Official's Blessing 1x1",
+      "episode_name": "Heaven Official's Blessing 1x1",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2095_s1e5.webp",
+      "abyssid": "18762",
+      "abyssId": "18762",
+      "playxid": "519fab1c21e011cb83230c17046b5cf2",
+      "playXID": "519fab1c21e011cb83230c17046b5cf2",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18762",
+        "playXID": "519fab1c21e011cb83230c17046b5cf2",
+        "streamId": "18762",
+        "dubPlayerSrc": "/dub-player/t/18762/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=519fab1c21e011cb83230c17046b5cf2&abyssId=18762"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18762",
+        "playXID": "519fab1c21e011cb83230c17046b5cf2",
+        "streamId": "18762",
+        "dubPlayerSrc": "/dub-player/t/18762/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=519fab1c21e011cb83230c17046b5cf2&abyssId=18762"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/0cd940e3777d07175f91e5b9654ea377",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/0cd940e3777d07175f91e5b9654ea377"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18762",
+        "abyssId": "18762",
+        "playXID": "519fab1c21e011cb83230c17046b5cf2",
+        "title": "Heaven Official's Blessing",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "4P3TGQ_LJ"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/c5eee9fd9a80ae42f1201648c759df7f/master.m3u8?md5=SjsMRK_JebgZKDiDnNiKYg&expires=1792165852",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/c5eee9fd9a80ae42f1201648c759df7f/master.m3u8?md5=SjsMRK_JebgZKDiDnNiKYg&expires=1792165852",
+            "videoSource": "https://ravok.buzz/cdn/hls/c5eee9fd9a80ae42f1201648c759df7f/master.m3u8?md5=SjsMRK_JebgZKDiDnNiKYg&expires=1792165852",
+            "videoImage": "https://as-cdn27.top/p/yFDS-KPLCAWOv5TKUOvIZK9xS4UrUqh9MGBQHlgtd43NGsl6OpUzB1LVj_42YJWGhPnzdA-oi4LVhdYl7Cz8IA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "519fab1c21e011cb83230c17046b5cf2",
+                "streamUrl": "https://ravok.buzz/cdn/hls/c5eee9fd9a80ae42f1201648c759df7f/master.m3u8?md5=SjsMRK_JebgZKDiDnNiKYg&expires=1792165852",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/c5eee9fd9a80ae42f1201648c759df7f/master.m3u8?md5=SjsMRK_JebgZKDiDnNiKYg&expires=1792165852",
+                "videoSource": "https://ravok.buzz/cdn/hls/c5eee9fd9a80ae42f1201648c759df7f/master.m3u8?md5=SjsMRK_JebgZKDiDnNiKYg&expires=1792165852",
+                "link": "https://ravok.buzz/cdn/hls/c5eee9fd9a80ae42f1201648c759df7f/master.m3u8?md5=SjsMRK_JebgZKDiDnNiKYg&expires=1792165852",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/yFDS-KPLCAWOv5TKUOvIZK9xS4UrUqh9MGBQHlgtd43NGsl6OpUzB1LVj_42YJWGhPnzdA-oi4LVhdYl7Cz8IA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "4P3TGQ_LJ"
+        }
+      },
+      "fetched_at": "2026-10-16T13:51:02Z"
+    },
+    {
+      "id": "episode/heaven-officials-blessing-1x2",
+      "episode_id": "episode/heaven-officials-blessing-1x2",
+      "title": "Heaven Official's Blessing 1x1",
+      "episode_name": "Heaven Official's Blessing 1x1",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2095_s1e2.webp",
+      "abyssid": "18758",
+      "abyssId": "18758",
+      "playxid": "aa08caa980fea246ebcff950b4eae2e7",
+      "playXID": "aa08caa980fea246ebcff950b4eae2e7",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18758",
+        "playXID": "aa08caa980fea246ebcff950b4eae2e7",
+        "streamId": "18758",
+        "dubPlayerSrc": "/dub-player/t/18758/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=aa08caa980fea246ebcff950b4eae2e7&abyssId=18758"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18758",
+        "playXID": "aa08caa980fea246ebcff950b4eae2e7",
+        "streamId": "18758",
+        "dubPlayerSrc": "/dub-player/t/18758/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=aa08caa980fea246ebcff950b4eae2e7&abyssId=18758"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/9774adeea02e9ea26eba932aa2a341a5",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/9774adeea02e9ea26eba932aa2a341a5"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18758",
+        "abyssId": "18758",
+        "playXID": "aa08caa980fea246ebcff950b4eae2e7",
+        "title": "Heaven Official's Blessing",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "qa-mFD2sJ"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/829869dc6f09eff472309bfe735862c6/master.m3u8?md5=TlPE2vOMhJiXt_iCoJtwIA&expires=1792165852",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/829869dc6f09eff472309bfe735862c6/master.m3u8?md5=TlPE2vOMhJiXt_iCoJtwIA&expires=1792165852",
+            "videoSource": "https://ravok.buzz/cdn/hls/829869dc6f09eff472309bfe735862c6/master.m3u8?md5=TlPE2vOMhJiXt_iCoJtwIA&expires=1792165852",
+            "videoImage": "https://as-cdn31.top/p/KecuvtIw5TRfgQXiZNP9MrtWHPrr5d5DVnqDpMw6lC8aZEYTVD1FO62ZKM037X4d1lMQ4TU8WmsfqHahFSPC4Q.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "aa08caa980fea246ebcff950b4eae2e7",
+                "streamUrl": "https://ravok.buzz/cdn/hls/829869dc6f09eff472309bfe735862c6/master.m3u8?md5=TlPE2vOMhJiXt_iCoJtwIA&expires=1792165852",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/829869dc6f09eff472309bfe735862c6/master.m3u8?md5=TlPE2vOMhJiXt_iCoJtwIA&expires=1792165852",
+                "videoSource": "https://ravok.buzz/cdn/hls/829869dc6f09eff472309bfe735862c6/master.m3u8?md5=TlPE2vOMhJiXt_iCoJtwIA&expires=1792165852",
+                "link": "https://ravok.buzz/cdn/hls/829869dc6f09eff472309bfe735862c6/master.m3u8?md5=TlPE2vOMhJiXt_iCoJtwIA&expires=1792165852",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/KecuvtIw5TRfgQXiZNP9MrtWHPrr5d5DVnqDpMw6lC8aZEYTVD1FO62ZKM037X4d1lMQ4TU8WmsfqHahFSPC4Q.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "qa-mFD2sJ"
+        }
+      },
+      "fetched_at": "2026-10-16T13:51:03Z"
+    },
+    {
+      "id": "episode/heaven-officials-blessing-1x6",
+      "episode_id": "episode/heaven-officials-blessing-1x6",
+      "title": "Heaven Official's Blessing 1x1",
+      "episode_name": "Heaven Official's Blessing 1x1",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2095_s1e6.webp",
+      "abyssid": "18763",
+      "abyssId": "18763",
+      "playxid": "52b8bc3917542528942a2d02a624d123",
+      "playXID": "52b8bc3917542528942a2d02a624d123",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18763",
+        "playXID": "52b8bc3917542528942a2d02a624d123",
+        "streamId": "18763",
+        "dubPlayerSrc": "/dub-player/t/18763/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=52b8bc3917542528942a2d02a624d123&abyssId=18763"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18763",
+        "playXID": "52b8bc3917542528942a2d02a624d123",
+        "streamId": "18763",
+        "dubPlayerSrc": "/dub-player/t/18763/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=52b8bc3917542528942a2d02a624d123&abyssId=18763"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/8554f640c525098f93aa8ba5256ba5ac",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/8554f640c525098f93aa8ba5256ba5ac"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18763",
+        "abyssId": "18763",
+        "playXID": "52b8bc3917542528942a2d02a624d123",
+        "title": "Heaven Official's Blessing",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "OgqL9Qsn2"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/c8f773a79b9af77578418b96844e18d4/master.m3u8?md5=9kKADp7V5lpvu-R4wh8t4A&expires=1792165854",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/c8f773a79b9af77578418b96844e18d4/master.m3u8?md5=9kKADp7V5lpvu-R4wh8t4A&expires=1792165854",
+            "videoSource": "https://ravok.buzz/cdn/hls/c8f773a79b9af77578418b96844e18d4/master.m3u8?md5=9kKADp7V5lpvu-R4wh8t4A&expires=1792165854",
+            "videoImage": "https://as-cdn29.top/p/ZB185HVlchy1zzF9phGTC_4c12rowV6SzIKEzV0iu_iSKaTsxQMxeRSAAA2Ygf5xDRYyEV3SkGWBajiRrI_-MQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "52b8bc3917542528942a2d02a624d123",
+                "streamUrl": "https://ravok.buzz/cdn/hls/c8f773a79b9af77578418b96844e18d4/master.m3u8?md5=9kKADp7V5lpvu-R4wh8t4A&expires=1792165854",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/c8f773a79b9af77578418b96844e18d4/master.m3u8?md5=9kKADp7V5lpvu-R4wh8t4A&expires=1792165854",
+                "videoSource": "https://ravok.buzz/cdn/hls/c8f773a79b9af77578418b96844e18d4/master.m3u8?md5=9kKADp7V5lpvu-R4wh8t4A&expires=1792165854",
+                "link": "https://ravok.buzz/cdn/hls/c8f773a79b9af77578418b96844e18d4/master.m3u8?md5=9kKADp7V5lpvu-R4wh8t4A&expires=1792165854",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/ZB185HVlchy1zzF9phGTC_4c12rowV6SzIKEzV0iu_iSKaTsxQMxeRSAAA2Ygf5xDRYyEV3SkGWBajiRrI_-MQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "OgqL9Qsn2"
+        }
+      },
+      "fetched_at": "2026-10-16T13:51:04Z"
+    },
+    {
+      "id": "episode/heaven-officials-blessing-1x7",
+      "episode_id": "episode/heaven-officials-blessing-1x7",
+      "title": "Heaven Official's Blessing 1x1",
+      "episode_name": "Heaven Official's Blessing 1x1",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2095_s1e7.webp",
+      "abyssid": "18764",
+      "abyssId": "18764",
+      "playxid": "592f69eb8605faf19bb15d0b370cfac8",
+      "playXID": "592f69eb8605faf19bb15d0b370cfac8",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18764",
+        "playXID": "592f69eb8605faf19bb15d0b370cfac8",
+        "streamId": "18764",
+        "dubPlayerSrc": "/dub-player/t/18764/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=592f69eb8605faf19bb15d0b370cfac8&abyssId=18764"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18764",
+        "playXID": "592f69eb8605faf19bb15d0b370cfac8",
+        "streamId": "18764",
+        "dubPlayerSrc": "/dub-player/t/18764/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=592f69eb8605faf19bb15d0b370cfac8&abyssId=18764"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/646b02e11133e257d571ffee126712ec",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/646b02e11133e257d571ffee126712ec"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18764",
+        "abyssId": "18764",
+        "playXID": "592f69eb8605faf19bb15d0b370cfac8",
+        "title": "Heaven Official's Blessing",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "3U7u7fYdA"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/6becd12924b5ae310011c20a232b10cf/master.m3u8?md5=2Fd5-LKJbHRypmZd0-tMSw&expires=1792165854",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/6becd12924b5ae310011c20a232b10cf/master.m3u8?md5=2Fd5-LKJbHRypmZd0-tMSw&expires=1792165854",
+            "videoSource": "https://ravok.buzz/cdn/hls/6becd12924b5ae310011c20a232b10cf/master.m3u8?md5=2Fd5-LKJbHRypmZd0-tMSw&expires=1792165854",
+            "videoImage": "https://as-cdn27.top/p/zwAaBEbg1IyAnZdtnjJkG746BI-OFK5a8yywzkr2ukgMO-n1964IyjoQUwb0uTObp4GbljHT3LzGZjwzFHKPgg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "592f69eb8605faf19bb15d0b370cfac8",
+                "streamUrl": "https://ravok.buzz/cdn/hls/6becd12924b5ae310011c20a232b10cf/master.m3u8?md5=2Fd5-LKJbHRypmZd0-tMSw&expires=1792165854",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/6becd12924b5ae310011c20a232b10cf/master.m3u8?md5=2Fd5-LKJbHRypmZd0-tMSw&expires=1792165854",
+                "videoSource": "https://ravok.buzz/cdn/hls/6becd12924b5ae310011c20a232b10cf/master.m3u8?md5=2Fd5-LKJbHRypmZd0-tMSw&expires=1792165854",
+                "link": "https://ravok.buzz/cdn/hls/6becd12924b5ae310011c20a232b10cf/master.m3u8?md5=2Fd5-LKJbHRypmZd0-tMSw&expires=1792165854",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/zwAaBEbg1IyAnZdtnjJkG746BI-OFK5a8yywzkr2ukgMO-n1964IyjoQUwb0uTObp4GbljHT3LzGZjwzFHKPgg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "3U7u7fYdA"
+        }
+      },
+      "fetched_at": "2026-10-16T13:51:04Z"
+    },
+    {
+      "id": "episode/heaven-officials-blessing-1x8",
+      "episode_id": "episode/heaven-officials-blessing-1x8",
+      "title": "Heaven Official's Blessing 1x1",
+      "episode_name": "Heaven Official's Blessing 1x1",
+      "episode_number": 8,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2095_s1e8.webp",
+      "abyssid": "18765",
+      "abyssId": "18765",
+      "playxid": "d0a194dc29ee00d2f22ef573f2d7097f",
+      "playXID": "d0a194dc29ee00d2f22ef573f2d7097f",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18765",
+        "playXID": "d0a194dc29ee00d2f22ef573f2d7097f",
+        "streamId": "18765",
+        "dubPlayerSrc": "/dub-player/t/18765/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d0a194dc29ee00d2f22ef573f2d7097f&abyssId=18765"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18765",
+        "playXID": "d0a194dc29ee00d2f22ef573f2d7097f",
+        "streamId": "18765",
+        "dubPlayerSrc": "/dub-player/t/18765/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d0a194dc29ee00d2f22ef573f2d7097f&abyssId=18765"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/4cbbd97795fad6dfbf3d00963c2776eb",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/4cbbd97795fad6dfbf3d00963c2776eb"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18765",
+        "abyssId": "18765",
+        "playXID": "d0a194dc29ee00d2f22ef573f2d7097f",
+        "title": "Heaven Official's Blessing",
+        "season": 1,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "SOf_Xw8kj"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/e69451c7db584c89082ad45389c72a50/master.m3u8?md5=oVcXdIzWe7FNFIK79-A0aw&expires=1792165854",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/e69451c7db584c89082ad45389c72a50/master.m3u8?md5=oVcXdIzWe7FNFIK79-A0aw&expires=1792165854",
+            "videoSource": "https://ravok.buzz/cdn/hls/e69451c7db584c89082ad45389c72a50/master.m3u8?md5=oVcXdIzWe7FNFIK79-A0aw&expires=1792165854",
+            "videoImage": "https://as-cdn28.top/p/FreEan7fePSW2nZ3VM4H6hJw30C4Fzx0FkAxUdI8ll9Cgehypo43pHY-Mtu1AyPF06HCxxLXx4JwOGfxtHnVNA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "d0a194dc29ee00d2f22ef573f2d7097f",
+                "streamUrl": "https://ravok.buzz/cdn/hls/e69451c7db584c89082ad45389c72a50/master.m3u8?md5=oVcXdIzWe7FNFIK79-A0aw&expires=1792165854",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/e69451c7db584c89082ad45389c72a50/master.m3u8?md5=oVcXdIzWe7FNFIK79-A0aw&expires=1792165854",
+                "videoSource": "https://ravok.buzz/cdn/hls/e69451c7db584c89082ad45389c72a50/master.m3u8?md5=oVcXdIzWe7FNFIK79-A0aw&expires=1792165854",
+                "link": "https://ravok.buzz/cdn/hls/e69451c7db584c89082ad45389c72a50/master.m3u8?md5=oVcXdIzWe7FNFIK79-A0aw&expires=1792165854",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/FreEan7fePSW2nZ3VM4H6hJw30C4Fzx0FkAxUdI8ll9Cgehypo43pHY-Mtu1AyPF06HCxxLXx4JwOGfxtHnVNA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "SOf_Xw8kj"
+        }
+      },
+      "fetched_at": "2026-10-16T13:51:04Z"
+    },
+    {
+      "id": "episode/heaven-officials-blessing-1x9",
+      "episode_id": "episode/heaven-officials-blessing-1x9",
+      "title": "Heaven Official's Blessing 1x1",
+      "episode_name": "Heaven Official's Blessing 1x1",
+      "episode_number": 9,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2095_s1e9.webp",
+      "abyssid": "18766",
+      "abyssId": "18766",
+      "playxid": "32e0740fc318fc059523a2f830a5b248",
+      "playXID": "32e0740fc318fc059523a2f830a5b248",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18766",
+        "playXID": "32e0740fc318fc059523a2f830a5b248",
+        "streamId": "18766",
+        "dubPlayerSrc": "/dub-player/t/18766/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=32e0740fc318fc059523a2f830a5b248&abyssId=18766"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18766",
+        "playXID": "32e0740fc318fc059523a2f830a5b248",
+        "streamId": "18766",
+        "dubPlayerSrc": "/dub-player/t/18766/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=32e0740fc318fc059523a2f830a5b248&abyssId=18766"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/ce7b63c9249c6b9fd6908b427cefcc06",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/ce7b63c9249c6b9fd6908b427cefcc06"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18766",
+        "abyssId": "18766",
+        "playXID": "32e0740fc318fc059523a2f830a5b248",
+        "title": "Heaven Official's Blessing",
+        "season": 1,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "Lsx5ezvcWo"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/f681c34690ee92fc72f78cda07fd05da/master.m3u8?md5=bAvUoft0JPB8tUsdhZ7GYg&expires=1792165855",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/f681c34690ee92fc72f78cda07fd05da/master.m3u8?md5=bAvUoft0JPB8tUsdhZ7GYg&expires=1792165855",
+            "videoSource": "https://ravok.buzz/cdn/hls/f681c34690ee92fc72f78cda07fd05da/master.m3u8?md5=bAvUoft0JPB8tUsdhZ7GYg&expires=1792165855",
+            "videoImage": "https://as-cdn31.top/p/jPbSoIPLgQ7006vdzSuISTbE3VfmAcS9lWYGCNUxHwVzZqJXChvuZE3pAiuL4RYfYrUZaC8f68wtUjCXkmqJTg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "32e0740fc318fc059523a2f830a5b248",
+                "streamUrl": "https://ravok.buzz/cdn/hls/f681c34690ee92fc72f78cda07fd05da/master.m3u8?md5=bAvUoft0JPB8tUsdhZ7GYg&expires=1792165855",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/f681c34690ee92fc72f78cda07fd05da/master.m3u8?md5=bAvUoft0JPB8tUsdhZ7GYg&expires=1792165855",
+                "videoSource": "https://ravok.buzz/cdn/hls/f681c34690ee92fc72f78cda07fd05da/master.m3u8?md5=bAvUoft0JPB8tUsdhZ7GYg&expires=1792165855",
+                "link": "https://ravok.buzz/cdn/hls/f681c34690ee92fc72f78cda07fd05da/master.m3u8?md5=bAvUoft0JPB8tUsdhZ7GYg&expires=1792165855",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/jPbSoIPLgQ7006vdzSuISTbE3VfmAcS9lWYGCNUxHwVzZqJXChvuZE3pAiuL4RYfYrUZaC8f68wtUjCXkmqJTg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "Lsx5ezvcWo"
+        }
+      },
+      "fetched_at": "2026-10-16T13:51:05Z"
+    },
+    {
+      "id": "episode/heaven-officials-blessing-1x10",
+      "episode_id": "episode/heaven-officials-blessing-1x10",
+      "title": "Heaven Official's Blessing 1x1",
+      "episode_name": "Heaven Official's Blessing 1x1",
+      "episode_number": 10,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2095_s1e10.webp",
+      "abyssid": "18767",
+      "abyssId": "18767",
+      "playxid": "38a647f544eaa16673a5d33b77f942fe",
+      "playXID": "38a647f544eaa16673a5d33b77f942fe",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18767",
+        "playXID": "38a647f544eaa16673a5d33b77f942fe",
+        "streamId": "18767",
+        "dubPlayerSrc": "/dub-player/t/18767/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=38a647f544eaa16673a5d33b77f942fe&abyssId=18767"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18767",
+        "playXID": "38a647f544eaa16673a5d33b77f942fe",
+        "streamId": "18767",
+        "dubPlayerSrc": "/dub-player/t/18767/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=38a647f544eaa16673a5d33b77f942fe&abyssId=18767"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/077efd55c94e1ea0c4e4583c8ea1c7f6",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/077efd55c94e1ea0c4e4583c8ea1c7f6"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18767",
+        "abyssId": "18767",
+        "playXID": "38a647f544eaa16673a5d33b77f942fe",
+        "title": "Heaven Official's Blessing",
+        "season": 1,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "fuJWAOXF6"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/a44657ebe357e4ce41c4e75a34d92a5d/master.m3u8?md5=E0slRv6Nqg5ROsV_kXGQQQ&expires=1792165855",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/a44657ebe357e4ce41c4e75a34d92a5d/master.m3u8?md5=E0slRv6Nqg5ROsV_kXGQQQ&expires=1792165855",
+            "videoSource": "https://ravok.buzz/cdn/hls/a44657ebe357e4ce41c4e75a34d92a5d/master.m3u8?md5=E0slRv6Nqg5ROsV_kXGQQQ&expires=1792165855",
+            "videoImage": "https://as-cdn31.top/p/5kSJbZVup3mD539bKcBcCo2_fUbTFMSxwL_Dd4c41QMyo3NaJIDgq998GkN5Kg02CSj5kf3OWt_v3ksPJua9fw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "38a647f544eaa16673a5d33b77f942fe",
+                "streamUrl": "https://ravok.buzz/cdn/hls/a44657ebe357e4ce41c4e75a34d92a5d/master.m3u8?md5=E0slRv6Nqg5ROsV_kXGQQQ&expires=1792165855",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/a44657ebe357e4ce41c4e75a34d92a5d/master.m3u8?md5=E0slRv6Nqg5ROsV_kXGQQQ&expires=1792165855",
+                "videoSource": "https://ravok.buzz/cdn/hls/a44657ebe357e4ce41c4e75a34d92a5d/master.m3u8?md5=E0slRv6Nqg5ROsV_kXGQQQ&expires=1792165855",
+                "link": "https://ravok.buzz/cdn/hls/a44657ebe357e4ce41c4e75a34d92a5d/master.m3u8?md5=E0slRv6Nqg5ROsV_kXGQQQ&expires=1792165855",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/5kSJbZVup3mD539bKcBcCo2_fUbTFMSxwL_Dd4c41QMyo3NaJIDgq998GkN5Kg02CSj5kf3OWt_v3ksPJua9fw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "fuJWAOXF6"
+        }
+      },
+      "fetched_at": "2026-10-16T13:51:05Z"
+    },
+    {
+      "id": "episode/heaven-officials-blessing-1x12",
+      "episode_id": "episode/heaven-officials-blessing-1x12",
+      "title": "Heaven Official's Blessing 1x1",
+      "episode_name": "Heaven Official's Blessing 1x1",
+      "episode_number": 12,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2095_s1e12.webp",
+      "abyssid": "18769",
+      "abyssId": "18769",
+      "playxid": "e62649f9871ea7bcf0923df1bb269578",
+      "playXID": "e62649f9871ea7bcf0923df1bb269578",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18769",
+        "playXID": "e62649f9871ea7bcf0923df1bb269578",
+        "streamId": "18769",
+        "dubPlayerSrc": "/dub-player/t/18769/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e62649f9871ea7bcf0923df1bb269578&abyssId=18769"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18769",
+        "playXID": "e62649f9871ea7bcf0923df1bb269578",
+        "streamId": "18769",
+        "dubPlayerSrc": "/dub-player/t/18769/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e62649f9871ea7bcf0923df1bb269578&abyssId=18769"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/14bf6dce0a0ceb6662449793da991fb8",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/14bf6dce0a0ceb6662449793da991fb8"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18769",
+        "abyssId": "18769",
+        "playXID": "e62649f9871ea7bcf0923df1bb269578",
+        "title": "Heaven Official's Blessing",
+        "season": 1,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "7n060Gq5y"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/dbad93617c2e5013ca88be328edec22a/master.m3u8?md5=LBXjz8rjMDH4G92xp9B6cg&expires=1792165856",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/dbad93617c2e5013ca88be328edec22a/master.m3u8?md5=LBXjz8rjMDH4G92xp9B6cg&expires=1792165856",
+            "videoSource": "https://ravok.buzz/cdn/hls/dbad93617c2e5013ca88be328edec22a/master.m3u8?md5=LBXjz8rjMDH4G92xp9B6cg&expires=1792165856",
+            "videoImage": "https://as-cdn27.top/p/K5fROMYLHlIeahU1VeQKsxGrXgbh1hM9rlkrfuU3BlB24t9OxdDcGyPECbFfvdGgkfYBlRLrVFNETHzZIn64yg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "e62649f9871ea7bcf0923df1bb269578",
+                "streamUrl": "https://ravok.buzz/cdn/hls/dbad93617c2e5013ca88be328edec22a/master.m3u8?md5=LBXjz8rjMDH4G92xp9B6cg&expires=1792165856",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/dbad93617c2e5013ca88be328edec22a/master.m3u8?md5=LBXjz8rjMDH4G92xp9B6cg&expires=1792165856",
+                "videoSource": "https://ravok.buzz/cdn/hls/dbad93617c2e5013ca88be328edec22a/master.m3u8?md5=LBXjz8rjMDH4G92xp9B6cg&expires=1792165856",
+                "link": "https://ravok.buzz/cdn/hls/dbad93617c2e5013ca88be328edec22a/master.m3u8?md5=LBXjz8rjMDH4G92xp9B6cg&expires=1792165856",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/K5fROMYLHlIeahU1VeQKsxGrXgbh1hM9rlkrfuU3BlB24t9OxdDcGyPECbFfvdGgkfYBlRLrVFNETHzZIn64yg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "7n060Gq5y"
+        }
+      },
+      "fetched_at": "2026-10-16T13:51:06Z"
+    },
+    {
+      "id": "episode/heaven-officials-blessing-1x11",
+      "episode_id": "episode/heaven-officials-blessing-1x11",
+      "title": "Heaven Official's Blessing 1x1",
+      "episode_name": "Heaven Official's Blessing 1x1",
+      "episode_number": 11,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2095_s1e11.webp",
+      "abyssid": "18768",
+      "abyssId": "18768",
+      "playxid": "8755e0a92ccb8d59539222a3e811b9f9",
+      "playXID": "8755e0a92ccb8d59539222a3e811b9f9",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18768",
+        "playXID": "8755e0a92ccb8d59539222a3e811b9f9",
+        "streamId": "18768",
+        "dubPlayerSrc": "/dub-player/t/18768/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8755e0a92ccb8d59539222a3e811b9f9&abyssId=18768"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18768",
+        "playXID": "8755e0a92ccb8d59539222a3e811b9f9",
+        "streamId": "18768",
+        "dubPlayerSrc": "/dub-player/t/18768/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8755e0a92ccb8d59539222a3e811b9f9&abyssId=18768"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/d543ca8a30aea952046a5e6827cb1b73",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/d543ca8a30aea952046a5e6827cb1b73"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18768",
+        "abyssId": "18768",
+        "playXID": "8755e0a92ccb8d59539222a3e811b9f9",
+        "title": "Heaven Official's Blessing",
+        "season": 1,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "VaP37-Cm8"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/eb86688d2ac99686cd057b600ae66cf7/master.m3u8?md5=xS7BtG29mEymBhwJQFvzoA&expires=1792165856",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/eb86688d2ac99686cd057b600ae66cf7/master.m3u8?md5=xS7BtG29mEymBhwJQFvzoA&expires=1792165856",
+            "videoSource": "https://ravok.buzz/cdn/hls/eb86688d2ac99686cd057b600ae66cf7/master.m3u8?md5=xS7BtG29mEymBhwJQFvzoA&expires=1792165856",
+            "videoImage": "https://as-cdn28.top/p/p3UyHu1wGfDRomj0noxsWoxpGYFrN0R-8bOSCR79HiK3SW622zOhS8MtxjyB4h-RK00XrY5vKe2N5hB8EBDpUw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "8755e0a92ccb8d59539222a3e811b9f9",
+                "streamUrl": "https://ravok.buzz/cdn/hls/eb86688d2ac99686cd057b600ae66cf7/master.m3u8?md5=xS7BtG29mEymBhwJQFvzoA&expires=1792165856",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/eb86688d2ac99686cd057b600ae66cf7/master.m3u8?md5=xS7BtG29mEymBhwJQFvzoA&expires=1792165856",
+                "videoSource": "https://ravok.buzz/cdn/hls/eb86688d2ac99686cd057b600ae66cf7/master.m3u8?md5=xS7BtG29mEymBhwJQFvzoA&expires=1792165856",
+                "link": "https://ravok.buzz/cdn/hls/eb86688d2ac99686cd057b600ae66cf7/master.m3u8?md5=xS7BtG29mEymBhwJQFvzoA&expires=1792165856",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/p3UyHu1wGfDRomj0noxsWoxpGYFrN0R-8bOSCR79HiK3SW622zOhS8MtxjyB4h-RK00XrY5vKe2N5hB8EBDpUw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "VaP37-Cm8"
+        }
+      },
+      "fetched_at": "2026-10-16T13:51:06Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T13:51:00Z",
+  "updated_at": "2026-10-16T13:51:06Z"
+}

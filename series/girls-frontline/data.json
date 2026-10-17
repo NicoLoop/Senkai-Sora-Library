@@ -1,0 +1,1507 @@
+{
+  "id": "series/girls-frontline",
+  "series_name": "Girls' Frontline",
+  "title": "Girls' Frontline",
+  "banner": "https://image.tmdb.org/t/p/w1280/8yFwnqu64ufUMmGnw63Wq8YmYEu.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/hG7qq8ed3c3CdbybiFRU97O6l5u.jpg",
+  "genra": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Drama",
+    "Fantasy",
+    "Military",
+    "Sci-Fi",
+    "Video Game"
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Drama",
+    "Fantasy",
+    "Military",
+    "Sci-Fi",
+    "Video Game"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Japanese",
+    "Tamil",
+    "Telugu"
+  ],
+  "synopsis": "After the Third World War in 206x AD, the world has been devastated, the tactical dolls of the private military company Griffin are in an endless battle with the “Iron-Blood Construction Company,” which deceived mankind.",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Girls' Frontline 1x1",
+          "id": "episode/girls-frontline-1x1",
+          "image": "https://img.watchanimeworld.one/img/thumb_2137_s1e1.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "Girls' Frontline 1x2",
+          "id": "episode/girls-frontline-1x2",
+          "image": "https://img.watchanimeworld.one/img/thumb_2137_s1e2.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "Girls' Frontline 1x3",
+          "id": "episode/girls-frontline-1x3",
+          "image": "https://img.watchanimeworld.one/img/thumb_2137_s1e3.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "Girls' Frontline 1x4",
+          "id": "episode/girls-frontline-1x4",
+          "image": "https://img.watchanimeworld.one/img/thumb_2137_s1e4.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "Girls' Frontline 1x5",
+          "id": "episode/girls-frontline-1x5",
+          "image": "https://img.watchanimeworld.one/img/thumb_2137_s1e5.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "Girls' Frontline 1x6",
+          "id": "episode/girls-frontline-1x6",
+          "image": "https://img.watchanimeworld.one/img/thumb_2137_s1e6.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "Girls' Frontline 1x7",
+          "id": "episode/girls-frontline-1x7",
+          "image": "https://img.watchanimeworld.one/img/thumb_2137_s1e7.webp",
+          "season": 1
+        },
+        {
+          "episode": 8,
+          "title": "Girls' Frontline 1x8",
+          "id": "episode/girls-frontline-1x8",
+          "image": "https://img.watchanimeworld.one/img/thumb_2137_s1e8.webp",
+          "season": 1
+        },
+        {
+          "episode": 9,
+          "title": "Girls' Frontline 1x9",
+          "id": "episode/girls-frontline-1x9",
+          "image": "https://img.watchanimeworld.one/img/thumb_2137_s1e9.webp",
+          "season": 1
+        },
+        {
+          "episode": 10,
+          "title": "Girls' Frontline 1x10",
+          "id": "episode/girls-frontline-1x10",
+          "image": "https://img.watchanimeworld.one/img/thumb_2137_s1e10.webp",
+          "season": 1
+        },
+        {
+          "episode": 11,
+          "title": "Girls' Frontline 1x11",
+          "id": "episode/girls-frontline-1x11",
+          "image": "https://img.watchanimeworld.one/img/thumb_2137_s1e11.webp",
+          "season": 1
+        },
+        {
+          "episode": 12,
+          "title": "Girls' Frontline 1x12",
+          "id": "episode/girls-frontline-1x12",
+          "image": "https://img.watchanimeworld.one/img/thumb_2137_s1e12.webp",
+          "season": 1
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/girls-frontline-1x1",
+      "episode_id": "episode/girls-frontline-1x1",
+      "title": "Girls' Frontline 1x1",
+      "episode_name": "Girls' Frontline 1x1",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2137_s1e1.webp",
+      "abyssid": "17034",
+      "abyssId": "17034",
+      "playxid": "c525c5b4aeee6eafd496d0d0cc424ced",
+      "playXID": "c525c5b4aeee6eafd496d0d0cc424ced",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17034",
+        "playXID": "c525c5b4aeee6eafd496d0d0cc424ced",
+        "streamId": "17034",
+        "dubPlayerSrc": "/dub-player/t/17034/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c525c5b4aeee6eafd496d0d0cc424ced&abyssId=17034"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17034",
+        "playXID": "c525c5b4aeee6eafd496d0d0cc424ced",
+        "streamId": "17034",
+        "dubPlayerSrc": "/dub-player/t/17034/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c525c5b4aeee6eafd496d0d0cc424ced&abyssId=17034"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/c525c5b4aeee6eafd496d0d0cc424ced",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/c525c5b4aeee6eafd496d0d0cc424ced"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17034",
+        "abyssId": "17034",
+        "playXID": "c525c5b4aeee6eafd496d0d0cc424ced",
+        "title": "Girls' Frontline",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "AxoAmMNRN"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "-Z1JM82YQ"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "pxo9C4YWb"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "ksrU-TdhQ"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "avZ_6nIzI"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/74425861dae733a04d6621f12306df6c/master.m3u8?md5=0Z0dWHHxDB2KW9YQxN6EEw&expires=1792166139",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/74425861dae733a04d6621f12306df6c/master.m3u8?md5=0Z0dWHHxDB2KW9YQxN6EEw&expires=1792166139",
+            "videoSource": "https://ravok.buzz/cdn/hls/74425861dae733a04d6621f12306df6c/master.m3u8?md5=0Z0dWHHxDB2KW9YQxN6EEw&expires=1792166139",
+            "videoImage": "https://as-cdn29.top/p/j8kxcxrsjwT1ZGDHwVVQyO67xbKbRNxYWgNWM4dHXUJbLgXkffzKqI0A_MI1_79TfXoxbsAZr_3597Cts2G1jQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "c525c5b4aeee6eafd496d0d0cc424ced",
+                "streamUrl": "https://ravok.buzz/cdn/hls/74425861dae733a04d6621f12306df6c/master.m3u8?md5=0Z0dWHHxDB2KW9YQxN6EEw&expires=1792166139",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/74425861dae733a04d6621f12306df6c/master.m3u8?md5=0Z0dWHHxDB2KW9YQxN6EEw&expires=1792166139",
+                "videoSource": "https://ravok.buzz/cdn/hls/74425861dae733a04d6621f12306df6c/master.m3u8?md5=0Z0dWHHxDB2KW9YQxN6EEw&expires=1792166139",
+                "link": "https://ravok.buzz/cdn/hls/74425861dae733a04d6621f12306df6c/master.m3u8?md5=0Z0dWHHxDB2KW9YQxN6EEw&expires=1792166139",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/j8kxcxrsjwT1ZGDHwVVQyO67xbKbRNxYWgNWM4dHXUJbLgXkffzKqI0A_MI1_79TfXoxbsAZr_3597Cts2G1jQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "AxoAmMNRN"
+        }
+      },
+      "fetched_at": "2026-10-16T13:55:49Z"
+    },
+    {
+      "id": "episode/girls-frontline-1x2",
+      "episode_id": "episode/girls-frontline-1x2",
+      "title": "Girls' Frontline 1x1",
+      "episode_name": "Girls' Frontline 1x1",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2137_s1e2.webp",
+      "abyssid": "17035",
+      "abyssId": "17035",
+      "playxid": "441db0432de328365adeae37fbee3920",
+      "playXID": "441db0432de328365adeae37fbee3920",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17035",
+        "playXID": "441db0432de328365adeae37fbee3920",
+        "streamId": "17035",
+        "dubPlayerSrc": "/dub-player/t/17035/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=441db0432de328365adeae37fbee3920&abyssId=17035"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17035",
+        "playXID": "441db0432de328365adeae37fbee3920",
+        "streamId": "17035",
+        "dubPlayerSrc": "/dub-player/t/17035/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=441db0432de328365adeae37fbee3920&abyssId=17035"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/441db0432de328365adeae37fbee3920",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/441db0432de328365adeae37fbee3920"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17035",
+        "abyssId": "17035",
+        "playXID": "441db0432de328365adeae37fbee3920",
+        "title": "Girls' Frontline",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "KJwbgxkTf"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "Iyu3My5Ra"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "ifsdMr4SD"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "9c-3mEm4I"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "8-5VXYsKC"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/faf947883c4ef2e97e565bec11175a1b/master.m3u8?md5=cEI5_veer7QLK2E8D8CcQQ&expires=1792166139",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/faf947883c4ef2e97e565bec11175a1b/master.m3u8?md5=cEI5_veer7QLK2E8D8CcQQ&expires=1792166139",
+            "videoSource": "https://ravok.buzz/cdn/hls/faf947883c4ef2e97e565bec11175a1b/master.m3u8?md5=cEI5_veer7QLK2E8D8CcQQ&expires=1792166139",
+            "videoImage": "https://as-cdn28.top/p/aNnehITHyw-qAxnTzZ7DZYx9RR1Tqv1Vkc4kcuzFGWFLHPAKYtP7yLGPL_E-1xI9JZLqWnNk-23mIzgVIGPxCQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "441db0432de328365adeae37fbee3920",
+                "streamUrl": "https://ravok.buzz/cdn/hls/faf947883c4ef2e97e565bec11175a1b/master.m3u8?md5=cEI5_veer7QLK2E8D8CcQQ&expires=1792166139",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/faf947883c4ef2e97e565bec11175a1b/master.m3u8?md5=cEI5_veer7QLK2E8D8CcQQ&expires=1792166139",
+                "videoSource": "https://ravok.buzz/cdn/hls/faf947883c4ef2e97e565bec11175a1b/master.m3u8?md5=cEI5_veer7QLK2E8D8CcQQ&expires=1792166139",
+                "link": "https://ravok.buzz/cdn/hls/faf947883c4ef2e97e565bec11175a1b/master.m3u8?md5=cEI5_veer7QLK2E8D8CcQQ&expires=1792166139",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/aNnehITHyw-qAxnTzZ7DZYx9RR1Tqv1Vkc4kcuzFGWFLHPAKYtP7yLGPL_E-1xI9JZLqWnNk-23mIzgVIGPxCQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "KJwbgxkTf"
+        }
+      },
+      "fetched_at": "2026-10-16T13:55:49Z"
+    },
+    {
+      "id": "episode/girls-frontline-1x4",
+      "episode_id": "episode/girls-frontline-1x4",
+      "title": "Girls' Frontline 1x1",
+      "episode_name": "Girls' Frontline 1x1",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2137_s1e4.webp",
+      "abyssid": "17037",
+      "abyssId": "17037",
+      "playxid": "e99a32fb7acdb9a11bdbe01dd37c2767",
+      "playXID": "e99a32fb7acdb9a11bdbe01dd37c2767",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17037",
+        "playXID": "e99a32fb7acdb9a11bdbe01dd37c2767",
+        "streamId": "17037",
+        "dubPlayerSrc": "/dub-player/t/17037/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e99a32fb7acdb9a11bdbe01dd37c2767&abyssId=17037"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17037",
+        "playXID": "e99a32fb7acdb9a11bdbe01dd37c2767",
+        "streamId": "17037",
+        "dubPlayerSrc": "/dub-player/t/17037/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e99a32fb7acdb9a11bdbe01dd37c2767&abyssId=17037"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/e99a32fb7acdb9a11bdbe01dd37c2767",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/e99a32fb7acdb9a11bdbe01dd37c2767"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17037",
+        "abyssId": "17037",
+        "playXID": "e99a32fb7acdb9a11bdbe01dd37c2767",
+        "title": "Girls' Frontline",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "T2D2kQ98sR"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "B0y-eJTrL"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "x7jWxLh8d"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "UkC55rVix"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "9XvyvcN5l"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/750ee6a634a4c1661dc16bbcc6ff4a46/master.m3u8?md5=mfNG9q0sRw4ChYdWUp5kKg&expires=1792166140",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/750ee6a634a4c1661dc16bbcc6ff4a46/master.m3u8?md5=mfNG9q0sRw4ChYdWUp5kKg&expires=1792166140",
+            "videoSource": "https://ravok.buzz/cdn/hls/750ee6a634a4c1661dc16bbcc6ff4a46/master.m3u8?md5=mfNG9q0sRw4ChYdWUp5kKg&expires=1792166140",
+            "videoImage": "https://as-cdn29.top/p/xYI__gBzwH7Fw4gnYGo_Be3bVmzHBFyu1byXvr4bQT35PpyUfj373pMQ80o9vSBhwdg_P4xmsm3HDRrF6SaZZQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "e99a32fb7acdb9a11bdbe01dd37c2767",
+                "streamUrl": "https://ravok.buzz/cdn/hls/750ee6a634a4c1661dc16bbcc6ff4a46/master.m3u8?md5=mfNG9q0sRw4ChYdWUp5kKg&expires=1792166140",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/750ee6a634a4c1661dc16bbcc6ff4a46/master.m3u8?md5=mfNG9q0sRw4ChYdWUp5kKg&expires=1792166140",
+                "videoSource": "https://ravok.buzz/cdn/hls/750ee6a634a4c1661dc16bbcc6ff4a46/master.m3u8?md5=mfNG9q0sRw4ChYdWUp5kKg&expires=1792166140",
+                "link": "https://ravok.buzz/cdn/hls/750ee6a634a4c1661dc16bbcc6ff4a46/master.m3u8?md5=mfNG9q0sRw4ChYdWUp5kKg&expires=1792166140",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/xYI__gBzwH7Fw4gnYGo_Be3bVmzHBFyu1byXvr4bQT35PpyUfj373pMQ80o9vSBhwdg_P4xmsm3HDRrF6SaZZQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "T2D2kQ98sR"
+        }
+      },
+      "fetched_at": "2026-10-16T13:55:50Z"
+    },
+    {
+      "id": "episode/girls-frontline-1x3",
+      "episode_id": "episode/girls-frontline-1x3",
+      "title": "Girls' Frontline 1x1",
+      "episode_name": "Girls' Frontline 1x1",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2137_s1e3.webp",
+      "abyssid": "17036",
+      "abyssId": "17036",
+      "playxid": "35cf0f704286108deb76366a16415140",
+      "playXID": "35cf0f704286108deb76366a16415140",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17036",
+        "playXID": "35cf0f704286108deb76366a16415140",
+        "streamId": "17036",
+        "dubPlayerSrc": "/dub-player/t/17036/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=35cf0f704286108deb76366a16415140&abyssId=17036"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17036",
+        "playXID": "35cf0f704286108deb76366a16415140",
+        "streamId": "17036",
+        "dubPlayerSrc": "/dub-player/t/17036/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=35cf0f704286108deb76366a16415140&abyssId=17036"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/35cf0f704286108deb76366a16415140",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/35cf0f704286108deb76366a16415140"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17036",
+        "abyssId": "17036",
+        "playXID": "35cf0f704286108deb76366a16415140",
+        "title": "Girls' Frontline",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "-ljF2h7oH"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "pNlRQ7jhA"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "YlzGiDoqu"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "dEhW44dvx"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "MAkK3b1Qx"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/b74926a312e44c739db689bb6187bb50/master.m3u8?md5=UW1zubr8ptD9IR1cl67V6w&expires=1792166140",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/b74926a312e44c739db689bb6187bb50/master.m3u8?md5=UW1zubr8ptD9IR1cl67V6w&expires=1792166140",
+            "videoSource": "https://ravok.buzz/cdn/hls/b74926a312e44c739db689bb6187bb50/master.m3u8?md5=UW1zubr8ptD9IR1cl67V6w&expires=1792166140",
+            "videoImage": "https://as-cdn29.top/p/hwLBjQiT-K4hBrAeAaxOzBtkat6Ne860nIUVx6NeplGHp1QgocB-YIzj-avsar6oYlYhgaYGvK5T-GZhW5UVJQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "35cf0f704286108deb76366a16415140",
+                "streamUrl": "https://ravok.buzz/cdn/hls/b74926a312e44c739db689bb6187bb50/master.m3u8?md5=UW1zubr8ptD9IR1cl67V6w&expires=1792166140",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/b74926a312e44c739db689bb6187bb50/master.m3u8?md5=UW1zubr8ptD9IR1cl67V6w&expires=1792166140",
+                "videoSource": "https://ravok.buzz/cdn/hls/b74926a312e44c739db689bb6187bb50/master.m3u8?md5=UW1zubr8ptD9IR1cl67V6w&expires=1792166140",
+                "link": "https://ravok.buzz/cdn/hls/b74926a312e44c739db689bb6187bb50/master.m3u8?md5=UW1zubr8ptD9IR1cl67V6w&expires=1792166140",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/hwLBjQiT-K4hBrAeAaxOzBtkat6Ne860nIUVx6NeplGHp1QgocB-YIzj-avsar6oYlYhgaYGvK5T-GZhW5UVJQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "-ljF2h7oH"
+        }
+      },
+      "fetched_at": "2026-10-16T13:55:50Z"
+    },
+    {
+      "id": "episode/girls-frontline-1x5",
+      "episode_id": "episode/girls-frontline-1x5",
+      "title": "Girls' Frontline 1x1",
+      "episode_name": "Girls' Frontline 1x1",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2137_s1e5.webp",
+      "abyssid": "17038",
+      "abyssId": "17038",
+      "playxid": "e3acbb1b8d6b8a3fa347ff7db92fa478",
+      "playXID": "e3acbb1b8d6b8a3fa347ff7db92fa478",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17038",
+        "playXID": "e3acbb1b8d6b8a3fa347ff7db92fa478",
+        "streamId": "17038",
+        "dubPlayerSrc": "/dub-player/t/17038/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e3acbb1b8d6b8a3fa347ff7db92fa478&abyssId=17038"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17038",
+        "playXID": "e3acbb1b8d6b8a3fa347ff7db92fa478",
+        "streamId": "17038",
+        "dubPlayerSrc": "/dub-player/t/17038/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e3acbb1b8d6b8a3fa347ff7db92fa478&abyssId=17038"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/e3acbb1b8d6b8a3fa347ff7db92fa478",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/e3acbb1b8d6b8a3fa347ff7db92fa478"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17038",
+        "abyssId": "17038",
+        "playXID": "e3acbb1b8d6b8a3fa347ff7db92fa478",
+        "title": "Girls' Frontline",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "0Y08acnDYi"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "3yP2LkAErnN"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "e9hgt6iJ2"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "w2-lnCux5"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "vyBSL3mJR"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/1e5b87a35a3023285622f7992baf4b65/master.m3u8?md5=CadNveOJ2KUr6iJauBtM6w&expires=1792166139",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/1e5b87a35a3023285622f7992baf4b65/master.m3u8?md5=CadNveOJ2KUr6iJauBtM6w&expires=1792166139",
+            "videoSource": "https://ravok.buzz/cdn/hls/1e5b87a35a3023285622f7992baf4b65/master.m3u8?md5=CadNveOJ2KUr6iJauBtM6w&expires=1792166139",
+            "videoImage": "https://as-cdn27.top/p/GWvNqyuofu13uJzC2mjir4VMPLt_TIA0xBMZSF38p5AmLaS2nMRIwGhIzKbOOpLz8RfKOSO_FPVLC0tJ-bimcQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "e3acbb1b8d6b8a3fa347ff7db92fa478",
+                "streamUrl": "https://ravok.buzz/cdn/hls/1e5b87a35a3023285622f7992baf4b65/master.m3u8?md5=CadNveOJ2KUr6iJauBtM6w&expires=1792166139",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/1e5b87a35a3023285622f7992baf4b65/master.m3u8?md5=CadNveOJ2KUr6iJauBtM6w&expires=1792166139",
+                "videoSource": "https://ravok.buzz/cdn/hls/1e5b87a35a3023285622f7992baf4b65/master.m3u8?md5=CadNveOJ2KUr6iJauBtM6w&expires=1792166139",
+                "link": "https://ravok.buzz/cdn/hls/1e5b87a35a3023285622f7992baf4b65/master.m3u8?md5=CadNveOJ2KUr6iJauBtM6w&expires=1792166139",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/GWvNqyuofu13uJzC2mjir4VMPLt_TIA0xBMZSF38p5AmLaS2nMRIwGhIzKbOOpLz8RfKOSO_FPVLC0tJ-bimcQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "0Y08acnDYi"
+        }
+      },
+      "fetched_at": "2026-10-16T13:55:51Z"
+    },
+    {
+      "id": "episode/girls-frontline-1x6",
+      "episode_id": "episode/girls-frontline-1x6",
+      "title": "Girls' Frontline 1x1",
+      "episode_name": "Girls' Frontline 1x1",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2137_s1e6.webp",
+      "abyssid": "17039",
+      "abyssId": "17039",
+      "playxid": "03e696f87d7c24d74e62fd51b81a7140",
+      "playXID": "03e696f87d7c24d74e62fd51b81a7140",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17039",
+        "playXID": "03e696f87d7c24d74e62fd51b81a7140",
+        "streamId": "17039",
+        "dubPlayerSrc": "/dub-player/t/17039/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=03e696f87d7c24d74e62fd51b81a7140&abyssId=17039"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17039",
+        "playXID": "03e696f87d7c24d74e62fd51b81a7140",
+        "streamId": "17039",
+        "dubPlayerSrc": "/dub-player/t/17039/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=03e696f87d7c24d74e62fd51b81a7140&abyssId=17039"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/03e696f87d7c24d74e62fd51b81a7140",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/03e696f87d7c24d74e62fd51b81a7140"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17039",
+        "abyssId": "17039",
+        "playXID": "03e696f87d7c24d74e62fd51b81a7140",
+        "title": "Girls' Frontline",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "oVQ8FPu8y"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "7WuJGUIeX"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "XPs40D4ja"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "rnoPsJoV9"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "EDJ4TChXx"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/87316c9fcf4a7bbb698dbc2dcba1b8a5/master.m3u8?md5=gscCR2HqK9GFrerffErPIQ&expires=1792166141",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/87316c9fcf4a7bbb698dbc2dcba1b8a5/master.m3u8?md5=gscCR2HqK9GFrerffErPIQ&expires=1792166141",
+            "videoSource": "https://ravok.buzz/cdn/hls/87316c9fcf4a7bbb698dbc2dcba1b8a5/master.m3u8?md5=gscCR2HqK9GFrerffErPIQ&expires=1792166141",
+            "videoImage": "https://as-cdn28.top/p/1LZIBt4yGTG5fJEBkWtcooAtLSB0wBk6pRLEVGHH5OcgMUsqXgHuLSw5fYdbZZqMJTA_9WUAKRpNUXsyTvCh_w.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "03e696f87d7c24d74e62fd51b81a7140",
+                "streamUrl": "https://ravok.buzz/cdn/hls/87316c9fcf4a7bbb698dbc2dcba1b8a5/master.m3u8?md5=gscCR2HqK9GFrerffErPIQ&expires=1792166141",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/87316c9fcf4a7bbb698dbc2dcba1b8a5/master.m3u8?md5=gscCR2HqK9GFrerffErPIQ&expires=1792166141",
+                "videoSource": "https://ravok.buzz/cdn/hls/87316c9fcf4a7bbb698dbc2dcba1b8a5/master.m3u8?md5=gscCR2HqK9GFrerffErPIQ&expires=1792166141",
+                "link": "https://ravok.buzz/cdn/hls/87316c9fcf4a7bbb698dbc2dcba1b8a5/master.m3u8?md5=gscCR2HqK9GFrerffErPIQ&expires=1792166141",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/1LZIBt4yGTG5fJEBkWtcooAtLSB0wBk6pRLEVGHH5OcgMUsqXgHuLSw5fYdbZZqMJTA_9WUAKRpNUXsyTvCh_w.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "oVQ8FPu8y"
+        }
+      },
+      "fetched_at": "2026-10-16T13:55:51Z"
+    },
+    {
+      "id": "episode/girls-frontline-1x7",
+      "episode_id": "episode/girls-frontline-1x7",
+      "title": "Girls' Frontline 1x1",
+      "episode_name": "Girls' Frontline 1x1",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2137_s1e7.webp",
+      "abyssid": "17040",
+      "abyssId": "17040",
+      "playxid": "d1ee896289d2e2ed272e9b45a2860492",
+      "playXID": "d1ee896289d2e2ed272e9b45a2860492",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17040",
+        "playXID": "d1ee896289d2e2ed272e9b45a2860492",
+        "streamId": "17040",
+        "dubPlayerSrc": "/dub-player/t/17040/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d1ee896289d2e2ed272e9b45a2860492&abyssId=17040"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17040",
+        "playXID": "d1ee896289d2e2ed272e9b45a2860492",
+        "streamId": "17040",
+        "dubPlayerSrc": "/dub-player/t/17040/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d1ee896289d2e2ed272e9b45a2860492&abyssId=17040"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/d1ee896289d2e2ed272e9b45a2860492",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/d1ee896289d2e2ed272e9b45a2860492"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17040",
+        "abyssId": "17040",
+        "playXID": "d1ee896289d2e2ed272e9b45a2860492",
+        "title": "Girls' Frontline",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "VL5emM5Ge"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "vTpanh6CU"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "kcnInhTKC"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "82FGJ0gnf"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "6-KiYk20f"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/3bb78cba8831c262efd076a1e13696f6/master.m3u8?md5=WF8Xyhgm7L1sVpxfbBQNVA&expires=1792166141",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/3bb78cba8831c262efd076a1e13696f6/master.m3u8?md5=WF8Xyhgm7L1sVpxfbBQNVA&expires=1792166141",
+            "videoSource": "https://ravok.buzz/cdn/hls/3bb78cba8831c262efd076a1e13696f6/master.m3u8?md5=WF8Xyhgm7L1sVpxfbBQNVA&expires=1792166141",
+            "videoImage": "https://as-cdn30.top/p/GChjdi5eYTVLXO966wBZPjAD9NkGYENIka96y19v1hswHWEOtI9CC213fMvZfiK0C0PuZxXXgHKS_A85CjF9Vg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "d1ee896289d2e2ed272e9b45a2860492",
+                "streamUrl": "https://ravok.buzz/cdn/hls/3bb78cba8831c262efd076a1e13696f6/master.m3u8?md5=WF8Xyhgm7L1sVpxfbBQNVA&expires=1792166141",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/3bb78cba8831c262efd076a1e13696f6/master.m3u8?md5=WF8Xyhgm7L1sVpxfbBQNVA&expires=1792166141",
+                "videoSource": "https://ravok.buzz/cdn/hls/3bb78cba8831c262efd076a1e13696f6/master.m3u8?md5=WF8Xyhgm7L1sVpxfbBQNVA&expires=1792166141",
+                "link": "https://ravok.buzz/cdn/hls/3bb78cba8831c262efd076a1e13696f6/master.m3u8?md5=WF8Xyhgm7L1sVpxfbBQNVA&expires=1792166141",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/GChjdi5eYTVLXO966wBZPjAD9NkGYENIka96y19v1hswHWEOtI9CC213fMvZfiK0C0PuZxXXgHKS_A85CjF9Vg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "VL5emM5Ge"
+        }
+      },
+      "fetched_at": "2026-10-16T13:55:52Z"
+    },
+    {
+      "id": "episode/girls-frontline-1x9",
+      "episode_id": "episode/girls-frontline-1x9",
+      "title": "Girls' Frontline 1x1",
+      "episode_name": "Girls' Frontline 1x1",
+      "episode_number": 9,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2137_s1e9.webp",
+      "abyssid": "17042",
+      "abyssId": "17042",
+      "playxid": "de713869d1db126cff30a1fc0e990962",
+      "playXID": "de713869d1db126cff30a1fc0e990962",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17042",
+        "playXID": "de713869d1db126cff30a1fc0e990962",
+        "streamId": "17042",
+        "dubPlayerSrc": "/dub-player/t/17042/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=de713869d1db126cff30a1fc0e990962&abyssId=17042"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17042",
+        "playXID": "de713869d1db126cff30a1fc0e990962",
+        "streamId": "17042",
+        "dubPlayerSrc": "/dub-player/t/17042/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=de713869d1db126cff30a1fc0e990962&abyssId=17042"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/de713869d1db126cff30a1fc0e990962",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/de713869d1db126cff30a1fc0e990962"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17042",
+        "abyssId": "17042",
+        "playXID": "de713869d1db126cff30a1fc0e990962",
+        "title": "Girls' Frontline",
+        "season": 1,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "SWrxh8hHl"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "HrgTCIFN2"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "3EwRCUVNl"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "v_aLtJtNM"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "j7G18m5MC"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/f1a34242a7c03c12279623a724b05bf7/master.m3u8?md5=FENq4FUF8ue2ZeSLYJpmcA&expires=1792166143",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/f1a34242a7c03c12279623a724b05bf7/master.m3u8?md5=FENq4FUF8ue2ZeSLYJpmcA&expires=1792166143",
+            "videoSource": "https://ravok.buzz/cdn/hls/f1a34242a7c03c12279623a724b05bf7/master.m3u8?md5=FENq4FUF8ue2ZeSLYJpmcA&expires=1792166143",
+            "videoImage": "https://as-cdn28.top/p/QdYlT5aqVscRrz3xr-pXNjexiGyjGsFyx4Z3bmKtDuatz9_qbrdbJtyVJ8TIXwK6OE0_zAooW8VMfLEwtSrQsg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "de713869d1db126cff30a1fc0e990962",
+                "streamUrl": "https://ravok.buzz/cdn/hls/f1a34242a7c03c12279623a724b05bf7/master.m3u8?md5=FENq4FUF8ue2ZeSLYJpmcA&expires=1792166143",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/f1a34242a7c03c12279623a724b05bf7/master.m3u8?md5=FENq4FUF8ue2ZeSLYJpmcA&expires=1792166143",
+                "videoSource": "https://ravok.buzz/cdn/hls/f1a34242a7c03c12279623a724b05bf7/master.m3u8?md5=FENq4FUF8ue2ZeSLYJpmcA&expires=1792166143",
+                "link": "https://ravok.buzz/cdn/hls/f1a34242a7c03c12279623a724b05bf7/master.m3u8?md5=FENq4FUF8ue2ZeSLYJpmcA&expires=1792166143",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/QdYlT5aqVscRrz3xr-pXNjexiGyjGsFyx4Z3bmKtDuatz9_qbrdbJtyVJ8TIXwK6OE0_zAooW8VMfLEwtSrQsg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "SWrxh8hHl"
+        }
+      },
+      "fetched_at": "2026-10-16T13:55:53Z"
+    },
+    {
+      "id": "episode/girls-frontline-1x8",
+      "episode_id": "episode/girls-frontline-1x8",
+      "title": "Girls' Frontline 1x1",
+      "episode_name": "Girls' Frontline 1x1",
+      "episode_number": 8,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2137_s1e8.webp",
+      "abyssid": "17041",
+      "abyssId": "17041",
+      "playxid": "ff328be2f8736ee3709a537622dc4f90",
+      "playXID": "ff328be2f8736ee3709a537622dc4f90",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17041",
+        "playXID": "ff328be2f8736ee3709a537622dc4f90",
+        "streamId": "17041",
+        "dubPlayerSrc": "/dub-player/t/17041/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ff328be2f8736ee3709a537622dc4f90&abyssId=17041"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17041",
+        "playXID": "ff328be2f8736ee3709a537622dc4f90",
+        "streamId": "17041",
+        "dubPlayerSrc": "/dub-player/t/17041/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ff328be2f8736ee3709a537622dc4f90&abyssId=17041"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/ff328be2f8736ee3709a537622dc4f90",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/ff328be2f8736ee3709a537622dc4f90"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17041",
+        "abyssId": "17041",
+        "playXID": "ff328be2f8736ee3709a537622dc4f90",
+        "title": "Girls' Frontline",
+        "season": 1,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "XTKKMp5Op"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "nrTL9KeKv"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "xqaY69ax-"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "LCg5V5jG6"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "Yw18g2yMl"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/c6f04a70fbcff7dee463e1037655b07a/master.m3u8?md5=4sgVql3IseZnxsW7GKoWRQ&expires=1792166143",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/c6f04a70fbcff7dee463e1037655b07a/master.m3u8?md5=4sgVql3IseZnxsW7GKoWRQ&expires=1792166143",
+            "videoSource": "https://ravok.buzz/cdn/hls/c6f04a70fbcff7dee463e1037655b07a/master.m3u8?md5=4sgVql3IseZnxsW7GKoWRQ&expires=1792166143",
+            "videoImage": "https://as-cdn31.top/p/79updrq4c18SQTSlbacmn_WaVfBV-1apUU-zeIJO8fyqrfLYZjQiqsbmXXEw9qPoekl7ek2Lzl_nHXqjyE6MSw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "ff328be2f8736ee3709a537622dc4f90",
+                "streamUrl": "https://ravok.buzz/cdn/hls/c6f04a70fbcff7dee463e1037655b07a/master.m3u8?md5=4sgVql3IseZnxsW7GKoWRQ&expires=1792166143",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/c6f04a70fbcff7dee463e1037655b07a/master.m3u8?md5=4sgVql3IseZnxsW7GKoWRQ&expires=1792166143",
+                "videoSource": "https://ravok.buzz/cdn/hls/c6f04a70fbcff7dee463e1037655b07a/master.m3u8?md5=4sgVql3IseZnxsW7GKoWRQ&expires=1792166143",
+                "link": "https://ravok.buzz/cdn/hls/c6f04a70fbcff7dee463e1037655b07a/master.m3u8?md5=4sgVql3IseZnxsW7GKoWRQ&expires=1792166143",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/79updrq4c18SQTSlbacmn_WaVfBV-1apUU-zeIJO8fyqrfLYZjQiqsbmXXEw9qPoekl7ek2Lzl_nHXqjyE6MSw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "XTKKMp5Op"
+        }
+      },
+      "fetched_at": "2026-10-16T13:55:53Z"
+    },
+    {
+      "id": "episode/girls-frontline-1x11",
+      "episode_id": "episode/girls-frontline-1x11",
+      "title": "Girls' Frontline 1x1",
+      "episode_name": "Girls' Frontline 1x1",
+      "episode_number": 11,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2137_s1e11.webp",
+      "abyssid": "17044",
+      "abyssId": "17044",
+      "playxid": "9831384e2ed3938f00b8fb98b3424649",
+      "playXID": "9831384e2ed3938f00b8fb98b3424649",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17044",
+        "playXID": "9831384e2ed3938f00b8fb98b3424649",
+        "streamId": "17044",
+        "dubPlayerSrc": "/dub-player/t/17044/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9831384e2ed3938f00b8fb98b3424649&abyssId=17044"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17044",
+        "playXID": "9831384e2ed3938f00b8fb98b3424649",
+        "streamId": "17044",
+        "dubPlayerSrc": "/dub-player/t/17044/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9831384e2ed3938f00b8fb98b3424649&abyssId=17044"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/9831384e2ed3938f00b8fb98b3424649",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/9831384e2ed3938f00b8fb98b3424649"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17044",
+        "abyssId": "17044",
+        "playXID": "9831384e2ed3938f00b8fb98b3424649",
+        "title": "Girls' Frontline",
+        "season": 1,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "QVoRvH7yn"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "2AZ_e70qp"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "j8I4UdaU6"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "S4MLm73rD"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "hpveYXEkFh"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/b16c72c6aecee0edf72d503db3ceefb2/master.m3u8?md5=iU0YTl7DzZLJxGAC9Qbnqg&expires=1792166143",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/b16c72c6aecee0edf72d503db3ceefb2/master.m3u8?md5=iU0YTl7DzZLJxGAC9Qbnqg&expires=1792166143",
+            "videoSource": "https://ravok.buzz/cdn/hls/b16c72c6aecee0edf72d503db3ceefb2/master.m3u8?md5=iU0YTl7DzZLJxGAC9Qbnqg&expires=1792166143",
+            "videoImage": "https://as-cdn28.top/p/MPyHePs96P8HHMZS94WKYeGZhq2hhEREFwqYmBYZTStGAp7W-CTiw7LjS8dR8ehTJbtG-z3Ot7RDUNGF0JxfeQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "9831384e2ed3938f00b8fb98b3424649",
+                "streamUrl": "https://ravok.buzz/cdn/hls/b16c72c6aecee0edf72d503db3ceefb2/master.m3u8?md5=iU0YTl7DzZLJxGAC9Qbnqg&expires=1792166143",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/b16c72c6aecee0edf72d503db3ceefb2/master.m3u8?md5=iU0YTl7DzZLJxGAC9Qbnqg&expires=1792166143",
+                "videoSource": "https://ravok.buzz/cdn/hls/b16c72c6aecee0edf72d503db3ceefb2/master.m3u8?md5=iU0YTl7DzZLJxGAC9Qbnqg&expires=1792166143",
+                "link": "https://ravok.buzz/cdn/hls/b16c72c6aecee0edf72d503db3ceefb2/master.m3u8?md5=iU0YTl7DzZLJxGAC9Qbnqg&expires=1792166143",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/MPyHePs96P8HHMZS94WKYeGZhq2hhEREFwqYmBYZTStGAp7W-CTiw7LjS8dR8ehTJbtG-z3Ot7RDUNGF0JxfeQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "QVoRvH7yn"
+        }
+      },
+      "fetched_at": "2026-10-16T13:55:54Z"
+    },
+    {
+      "id": "episode/girls-frontline-1x10",
+      "episode_id": "episode/girls-frontline-1x10",
+      "title": "Girls' Frontline 1x1",
+      "episode_name": "Girls' Frontline 1x1",
+      "episode_number": 10,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2137_s1e10.webp",
+      "abyssid": "17043",
+      "abyssId": "17043",
+      "playxid": "d7c6beba6c2283f4ef1e8cc43783f320",
+      "playXID": "d7c6beba6c2283f4ef1e8cc43783f320",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17043",
+        "playXID": "d7c6beba6c2283f4ef1e8cc43783f320",
+        "streamId": "17043",
+        "dubPlayerSrc": "/dub-player/t/17043/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d7c6beba6c2283f4ef1e8cc43783f320&abyssId=17043"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17043",
+        "playXID": "d7c6beba6c2283f4ef1e8cc43783f320",
+        "streamId": "17043",
+        "dubPlayerSrc": "/dub-player/t/17043/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d7c6beba6c2283f4ef1e8cc43783f320&abyssId=17043"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/d7c6beba6c2283f4ef1e8cc43783f320",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/d7c6beba6c2283f4ef1e8cc43783f320"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17043",
+        "abyssId": "17043",
+        "playXID": "d7c6beba6c2283f4ef1e8cc43783f320",
+        "title": "Girls' Frontline",
+        "season": 1,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "PzwiGhhro"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "5wSEz5nl4"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "pIpzxzEx1"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "nsj1Bd1G8"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "oJKgaXA5PiQ"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/a4a51f50d3efd21f74c713fc840c02cd/master.m3u8?md5=CCexuM7lZL0GEnXOdXf9UA&expires=1792166144",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/a4a51f50d3efd21f74c713fc840c02cd/master.m3u8?md5=CCexuM7lZL0GEnXOdXf9UA&expires=1792166144",
+            "videoSource": "https://ravok.buzz/cdn/hls/a4a51f50d3efd21f74c713fc840c02cd/master.m3u8?md5=CCexuM7lZL0GEnXOdXf9UA&expires=1792166144",
+            "videoImage": "https://as-cdn31.top/p/OpZZS9qlwIPZQgRMWnP5jW1wtNRHjGY1GxEcJzjBhVDFT9BiT8J9AtHDQBbK_OXRFM8WUuqB9RzUpOQFpmXifA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "d7c6beba6c2283f4ef1e8cc43783f320",
+                "streamUrl": "https://ravok.buzz/cdn/hls/a4a51f50d3efd21f74c713fc840c02cd/master.m3u8?md5=CCexuM7lZL0GEnXOdXf9UA&expires=1792166144",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/a4a51f50d3efd21f74c713fc840c02cd/master.m3u8?md5=CCexuM7lZL0GEnXOdXf9UA&expires=1792166144",
+                "videoSource": "https://ravok.buzz/cdn/hls/a4a51f50d3efd21f74c713fc840c02cd/master.m3u8?md5=CCexuM7lZL0GEnXOdXf9UA&expires=1792166144",
+                "link": "https://ravok.buzz/cdn/hls/a4a51f50d3efd21f74c713fc840c02cd/master.m3u8?md5=CCexuM7lZL0GEnXOdXf9UA&expires=1792166144",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/OpZZS9qlwIPZQgRMWnP5jW1wtNRHjGY1GxEcJzjBhVDFT9BiT8J9AtHDQBbK_OXRFM8WUuqB9RzUpOQFpmXifA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "PzwiGhhro"
+        }
+      },
+      "fetched_at": "2026-10-16T13:55:54Z"
+    },
+    {
+      "id": "episode/girls-frontline-1x12",
+      "episode_id": "episode/girls-frontline-1x12",
+      "title": "Girls' Frontline 1x1",
+      "episode_name": "Girls' Frontline 1x1",
+      "episode_number": 12,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2137_s1e12.webp",
+      "abyssid": "17045",
+      "abyssId": "17045",
+      "playxid": "9b20ac4d9a8059cae3c7c4733bbc40a3",
+      "playXID": "9b20ac4d9a8059cae3c7c4733bbc40a3",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17045",
+        "playXID": "9b20ac4d9a8059cae3c7c4733bbc40a3",
+        "streamId": "17045",
+        "dubPlayerSrc": "/dub-player/t/17045/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9b20ac4d9a8059cae3c7c4733bbc40a3&abyssId=17045"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17045",
+        "playXID": "9b20ac4d9a8059cae3c7c4733bbc40a3",
+        "streamId": "17045",
+        "dubPlayerSrc": "/dub-player/t/17045/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9b20ac4d9a8059cae3c7c4733bbc40a3&abyssId=17045"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/9b20ac4d9a8059cae3c7c4733bbc40a3",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/9b20ac4d9a8059cae3c7c4733bbc40a3"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17045",
+        "abyssId": "17045",
+        "playXID": "9b20ac4d9a8059cae3c7c4733bbc40a3",
+        "title": "Girls' Frontline",
+        "season": 1,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "wD4cy8nID"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "W-7ruGH2S"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "V_0_4BpAx"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "94VUioQzs"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "RcqIwm_QZ"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/50344f338cbc3d569650078f9bd2289d/master.m3u8?md5=geFyhXWlpdmyetV47R6qWw&expires=1792166145",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/50344f338cbc3d569650078f9bd2289d/master.m3u8?md5=geFyhXWlpdmyetV47R6qWw&expires=1792166145",
+            "videoSource": "https://ravok.buzz/cdn/hls/50344f338cbc3d569650078f9bd2289d/master.m3u8?md5=geFyhXWlpdmyetV47R6qWw&expires=1792166145",
+            "videoImage": "https://as-cdn30.top/p/SCaRObkakiQe0VnvkGOw1u5BetKLR2iKS36E5YEn6ZzQMD-APRHy9yoEk-abTnazzH1BcAGz4f687zTA-Icbow.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "9b20ac4d9a8059cae3c7c4733bbc40a3",
+                "streamUrl": "https://ravok.buzz/cdn/hls/50344f338cbc3d569650078f9bd2289d/master.m3u8?md5=geFyhXWlpdmyetV47R6qWw&expires=1792166145",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/50344f338cbc3d569650078f9bd2289d/master.m3u8?md5=geFyhXWlpdmyetV47R6qWw&expires=1792166145",
+                "videoSource": "https://ravok.buzz/cdn/hls/50344f338cbc3d569650078f9bd2289d/master.m3u8?md5=geFyhXWlpdmyetV47R6qWw&expires=1792166145",
+                "link": "https://ravok.buzz/cdn/hls/50344f338cbc3d569650078f9bd2289d/master.m3u8?md5=geFyhXWlpdmyetV47R6qWw&expires=1792166145",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/SCaRObkakiQe0VnvkGOw1u5BetKLR2iKS36E5YEn6ZzQMD-APRHy9yoEk-abTnazzH1BcAGz4f687zTA-Icbow.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "wD4cy8nID"
+        }
+      },
+      "fetched_at": "2026-10-16T13:55:54Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T13:55:46Z",
+  "updated_at": "2026-10-16T13:55:54Z"
+}

@@ -1,0 +1,1363 @@
+{
+  "id": "series/new-saga",
+  "series_name": "New Saga",
+  "title": "New Saga",
+  "banner": "https://image.tmdb.org/t/p/w1280/u9p6IIYllP8gwZB2URx08jIYdvZ.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/dmZ74VyWi3I8ZqJ1m3Fmcc1etgp.jpg",
+  "genra": [
+    "Adventure",
+    "Fantasy",
+    "Time Travel"
+  ],
+  "genres": [
+    "Adventure",
+    "Fantasy",
+    "Time Travel"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Japanese"
+  ],
+  "synopsis": "After a brutal war, magic swordsman Kyle defeats the Demon King but is left dying. A crimson crystal sends him four years into the past to his once-destroyed hometown where he finds his lost loved ones alive. Armed with future knowledge, Kyle vows to prevent the coming tragedy and rewrite fate.",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "New Saga 1x1",
+          "id": "episode/new-saga-1x1",
+          "image": "https://img.watchanimeworld.one/img/thumb_1896_s1e1.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "New Saga 1x2",
+          "id": "episode/new-saga-1x2",
+          "image": "https://img.watchanimeworld.one/img/thumb_1896_s1e2.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "New Saga 1x3",
+          "id": "episode/new-saga-1x3",
+          "image": "https://img.watchanimeworld.one/img/thumb_1896_s1e3.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "New Saga 1x4",
+          "id": "episode/new-saga-1x4",
+          "image": "https://img.watchanimeworld.one/img/thumb_1896_s1e4.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "New Saga 1x5",
+          "id": "episode/new-saga-1x5",
+          "image": "https://img.watchanimeworld.one/img/thumb_1896_s1e5.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "New Saga 1x6",
+          "id": "episode/new-saga-1x6",
+          "image": "https://img.watchanimeworld.one/img/thumb_1896_s1e6.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "New Saga 1x7",
+          "id": "episode/new-saga-1x7",
+          "image": "https://img.watchanimeworld.one/img/thumb_1896_s1e7.webp",
+          "season": 1
+        },
+        {
+          "episode": 8,
+          "title": "New Saga 1x8",
+          "id": "episode/new-saga-1x8",
+          "image": "https://img.watchanimeworld.one/img/thumb_1896_s1e8.webp",
+          "season": 1
+        },
+        {
+          "episode": 9,
+          "title": "New Saga 1x9",
+          "id": "episode/new-saga-1x9",
+          "image": "https://img.watchanimeworld.one/img/thumb_1896_s1e9.webp",
+          "season": 1
+        },
+        {
+          "episode": 10,
+          "title": "New Saga 1x10",
+          "id": "episode/new-saga-1x10",
+          "image": "https://img.watchanimeworld.one/img/thumb_1896_s1e10.webp",
+          "season": 1
+        },
+        {
+          "episode": 11,
+          "title": "New Saga 1x11",
+          "id": "episode/new-saga-1x11",
+          "image": "https://img.watchanimeworld.one/img/thumb_1896_s1e11.webp",
+          "season": 1
+        },
+        {
+          "episode": 12,
+          "title": "New Saga 1x12",
+          "id": "episode/new-saga-1x12",
+          "image": "https://img.watchanimeworld.one/img/thumb_1896_s1e12.webp",
+          "season": 1
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/new-saga-1x2",
+      "episode_id": "episode/new-saga-1x2",
+      "title": "New Saga 1x1",
+      "episode_name": "New Saga 1x1",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1896_s1e2.webp",
+      "abyssid": "16505",
+      "abyssId": "16505",
+      "playxid": "85ebad98d8a178be8baf16929526446e",
+      "playXID": "85ebad98d8a178be8baf16929526446e",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16505",
+        "playXID": "85ebad98d8a178be8baf16929526446e",
+        "streamId": "16505",
+        "dubPlayerSrc": "/dub-player/t/16505/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=85ebad98d8a178be8baf16929526446e&abyssId=16505"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16505",
+        "playXID": "85ebad98d8a178be8baf16929526446e",
+        "streamId": "16505",
+        "dubPlayerSrc": "/dub-player/t/16505/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=85ebad98d8a178be8baf16929526446e&abyssId=16505"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/85ebad98d8a178be8baf16929526446e",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/85ebad98d8a178be8baf16929526446e"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16505",
+        "abyssId": "16505",
+        "playXID": "85ebad98d8a178be8baf16929526446e",
+        "title": "New Saga",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "4IJwSI9qt"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "zgHYkyG7m"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "pOxS18QGd"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/0b55ef935e641c642ab8a86b43df9b8c/master.m3u8?md5=3bamcTLB3rQQjexEaMVFbg&expires=1792166439",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/0b55ef935e641c642ab8a86b43df9b8c/master.m3u8?md5=3bamcTLB3rQQjexEaMVFbg&expires=1792166439",
+            "videoSource": "https://ravok.buzz/cdn/hls/0b55ef935e641c642ab8a86b43df9b8c/master.m3u8?md5=3bamcTLB3rQQjexEaMVFbg&expires=1792166439",
+            "videoImage": "https://as-cdn29.top/p/FvRKGnFZB3d0ogNce5CrZz1ZSPvtoXsGSIvBdfNZS-QdVo1Y6ksXm35C7vH_jCiZfMUfMYCJTQeNOlMOELDI0Q.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "85ebad98d8a178be8baf16929526446e",
+                "streamUrl": "https://ravok.buzz/cdn/hls/0b55ef935e641c642ab8a86b43df9b8c/master.m3u8?md5=3bamcTLB3rQQjexEaMVFbg&expires=1792166439",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/0b55ef935e641c642ab8a86b43df9b8c/master.m3u8?md5=3bamcTLB3rQQjexEaMVFbg&expires=1792166439",
+                "videoSource": "https://ravok.buzz/cdn/hls/0b55ef935e641c642ab8a86b43df9b8c/master.m3u8?md5=3bamcTLB3rQQjexEaMVFbg&expires=1792166439",
+                "link": "https://ravok.buzz/cdn/hls/0b55ef935e641c642ab8a86b43df9b8c/master.m3u8?md5=3bamcTLB3rQQjexEaMVFbg&expires=1792166439",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/FvRKGnFZB3d0ogNce5CrZz1ZSPvtoXsGSIvBdfNZS-QdVo1Y6ksXm35C7vH_jCiZfMUfMYCJTQeNOlMOELDI0Q.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "4IJwSI9qt"
+        }
+      },
+      "fetched_at": "2026-10-16T14:00:49Z"
+    },
+    {
+      "id": "episode/new-saga-1x5",
+      "episode_id": "episode/new-saga-1x5",
+      "title": "New Saga 1x1",
+      "episode_name": "New Saga 1x1",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1896_s1e5.webp",
+      "abyssid": "16551",
+      "abyssId": "16551",
+      "playxid": "2f4e2fe0d640b5eca5eaa6de05759928",
+      "playXID": "2f4e2fe0d640b5eca5eaa6de05759928",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16551",
+        "playXID": "2f4e2fe0d640b5eca5eaa6de05759928",
+        "streamId": "16551",
+        "dubPlayerSrc": "/dub-player/t/16551/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2f4e2fe0d640b5eca5eaa6de05759928&abyssId=16551"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16551",
+        "playXID": "2f4e2fe0d640b5eca5eaa6de05759928",
+        "streamId": "16551",
+        "dubPlayerSrc": "/dub-player/t/16551/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2f4e2fe0d640b5eca5eaa6de05759928&abyssId=16551"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/2f4e2fe0d640b5eca5eaa6de05759928",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/2f4e2fe0d640b5eca5eaa6de05759928"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16551",
+        "abyssId": "16551",
+        "playXID": "2f4e2fe0d640b5eca5eaa6de05759928",
+        "title": "New Saga",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "k6EIv--4i"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "abEUl76VH"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "xFH5lsbo8"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/745ea762a2938773d315c26557636f7f/master.m3u8?md5=-gcsIp_jEBPm3XsfO2ThRw&expires=1792166439",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/745ea762a2938773d315c26557636f7f/master.m3u8?md5=-gcsIp_jEBPm3XsfO2ThRw&expires=1792166439",
+            "videoSource": "https://ravok.buzz/cdn/hls/745ea762a2938773d315c26557636f7f/master.m3u8?md5=-gcsIp_jEBPm3XsfO2ThRw&expires=1792166439",
+            "videoImage": "https://as-cdn29.top/p/FGuXMF7PbRBTA3fnWODGxFY5wvPra91Jn1v6MMp8STLoIwhNBCr4uixHMPKyRaUqxKLKMU09QJpxQmX0UEd90Q.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "2f4e2fe0d640b5eca5eaa6de05759928",
+                "streamUrl": "https://ravok.buzz/cdn/hls/745ea762a2938773d315c26557636f7f/master.m3u8?md5=-gcsIp_jEBPm3XsfO2ThRw&expires=1792166439",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/745ea762a2938773d315c26557636f7f/master.m3u8?md5=-gcsIp_jEBPm3XsfO2ThRw&expires=1792166439",
+                "videoSource": "https://ravok.buzz/cdn/hls/745ea762a2938773d315c26557636f7f/master.m3u8?md5=-gcsIp_jEBPm3XsfO2ThRw&expires=1792166439",
+                "link": "https://ravok.buzz/cdn/hls/745ea762a2938773d315c26557636f7f/master.m3u8?md5=-gcsIp_jEBPm3XsfO2ThRw&expires=1792166439",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/FGuXMF7PbRBTA3fnWODGxFY5wvPra91Jn1v6MMp8STLoIwhNBCr4uixHMPKyRaUqxKLKMU09QJpxQmX0UEd90Q.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "k6EIv--4i"
+        }
+      },
+      "fetched_at": "2026-10-16T14:00:49Z"
+    },
+    {
+      "id": "episode/new-saga-1x3",
+      "episode_id": "episode/new-saga-1x3",
+      "title": "New Saga 1x1",
+      "episode_name": "New Saga 1x1",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1896_s1e3.webp",
+      "abyssid": "16506",
+      "abyssId": "16506",
+      "playxid": "926e263363c82458a9ae48883b7dc655",
+      "playXID": "926e263363c82458a9ae48883b7dc655",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16506",
+        "playXID": "926e263363c82458a9ae48883b7dc655",
+        "streamId": "16506",
+        "dubPlayerSrc": "/dub-player/t/16506/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=926e263363c82458a9ae48883b7dc655&abyssId=16506"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16506",
+        "playXID": "926e263363c82458a9ae48883b7dc655",
+        "streamId": "16506",
+        "dubPlayerSrc": "/dub-player/t/16506/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=926e263363c82458a9ae48883b7dc655&abyssId=16506"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/926e263363c82458a9ae48883b7dc655",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/926e263363c82458a9ae48883b7dc655"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16506",
+        "abyssId": "16506",
+        "playXID": "926e263363c82458a9ae48883b7dc655",
+        "title": "New Saga",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "-rgqgVCnP"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "MMS-u066o"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "zcrnRH0HK"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/05d7bbcbec5819dd932e5f034440e717/master.m3u8?md5=nt6pkevPbNPGCZ85JpZZQQ&expires=1792166439",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/05d7bbcbec5819dd932e5f034440e717/master.m3u8?md5=nt6pkevPbNPGCZ85JpZZQQ&expires=1792166439",
+            "videoSource": "https://ravok.buzz/cdn/hls/05d7bbcbec5819dd932e5f034440e717/master.m3u8?md5=nt6pkevPbNPGCZ85JpZZQQ&expires=1792166439",
+            "videoImage": "https://as-cdn27.top/p/KgWPkl-AQ1Z72mzGF_ullIRNOFFpzRsiZRF9VUsNDGNYbqxWWIyY3lc1tuBBbYlG2djxZHxqwBZcTaOtYf5lTg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "926e263363c82458a9ae48883b7dc655",
+                "streamUrl": "https://ravok.buzz/cdn/hls/05d7bbcbec5819dd932e5f034440e717/master.m3u8?md5=nt6pkevPbNPGCZ85JpZZQQ&expires=1792166439",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/05d7bbcbec5819dd932e5f034440e717/master.m3u8?md5=nt6pkevPbNPGCZ85JpZZQQ&expires=1792166439",
+                "videoSource": "https://ravok.buzz/cdn/hls/05d7bbcbec5819dd932e5f034440e717/master.m3u8?md5=nt6pkevPbNPGCZ85JpZZQQ&expires=1792166439",
+                "link": "https://ravok.buzz/cdn/hls/05d7bbcbec5819dd932e5f034440e717/master.m3u8?md5=nt6pkevPbNPGCZ85JpZZQQ&expires=1792166439",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/KgWPkl-AQ1Z72mzGF_ullIRNOFFpzRsiZRF9VUsNDGNYbqxWWIyY3lc1tuBBbYlG2djxZHxqwBZcTaOtYf5lTg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "-rgqgVCnP"
+        }
+      },
+      "fetched_at": "2026-10-16T14:00:49Z"
+    },
+    {
+      "id": "episode/new-saga-1x4",
+      "episode_id": "episode/new-saga-1x4",
+      "title": "New Saga 1x1",
+      "episode_name": "New Saga 1x1",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1896_s1e4.webp",
+      "abyssid": "16523",
+      "abyssId": "16523",
+      "playxid": "406c841592c4176af37a6fc376bef0b6",
+      "playXID": "406c841592c4176af37a6fc376bef0b6",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16523",
+        "playXID": "406c841592c4176af37a6fc376bef0b6",
+        "streamId": "16523",
+        "dubPlayerSrc": "/dub-player/t/16523/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=406c841592c4176af37a6fc376bef0b6&abyssId=16523"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16523",
+        "playXID": "406c841592c4176af37a6fc376bef0b6",
+        "streamId": "16523",
+        "dubPlayerSrc": "/dub-player/t/16523/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=406c841592c4176af37a6fc376bef0b6&abyssId=16523"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/406c841592c4176af37a6fc376bef0b6",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/406c841592c4176af37a6fc376bef0b6"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16523",
+        "abyssId": "16523",
+        "playXID": "406c841592c4176af37a6fc376bef0b6",
+        "title": "New Saga",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "TMNWTvA9N"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "-0RyJU6UV"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "wOveMG4FP"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/e504857559fb25fdc0dd736bc5008602/master.m3u8?md5=c5cpRKTtI9E0w9534Ayblg&expires=1792166439",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/e504857559fb25fdc0dd736bc5008602/master.m3u8?md5=c5cpRKTtI9E0w9534Ayblg&expires=1792166439",
+            "videoSource": "https://ravok.buzz/cdn/hls/e504857559fb25fdc0dd736bc5008602/master.m3u8?md5=c5cpRKTtI9E0w9534Ayblg&expires=1792166439",
+            "videoImage": "https://as-cdn29.top/p/u2V5IDR2C5dBYCgVrbMFSEsHXdRCPb7qNm1BjMtVxylA_MoZTi_jiGoS8fgaf2zDTVTdOtk-FklyhscReQf5zQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "406c841592c4176af37a6fc376bef0b6",
+                "streamUrl": "https://ravok.buzz/cdn/hls/e504857559fb25fdc0dd736bc5008602/master.m3u8?md5=c5cpRKTtI9E0w9534Ayblg&expires=1792166439",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/e504857559fb25fdc0dd736bc5008602/master.m3u8?md5=c5cpRKTtI9E0w9534Ayblg&expires=1792166439",
+                "videoSource": "https://ravok.buzz/cdn/hls/e504857559fb25fdc0dd736bc5008602/master.m3u8?md5=c5cpRKTtI9E0w9534Ayblg&expires=1792166439",
+                "link": "https://ravok.buzz/cdn/hls/e504857559fb25fdc0dd736bc5008602/master.m3u8?md5=c5cpRKTtI9E0w9534Ayblg&expires=1792166439",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/u2V5IDR2C5dBYCgVrbMFSEsHXdRCPb7qNm1BjMtVxylA_MoZTi_jiGoS8fgaf2zDTVTdOtk-FklyhscReQf5zQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "TMNWTvA9N"
+        }
+      },
+      "fetched_at": "2026-10-16T14:00:50Z"
+    },
+    {
+      "id": "episode/new-saga-1x1",
+      "episode_id": "episode/new-saga-1x1",
+      "title": "New Saga 1x1",
+      "episode_name": "New Saga 1x1",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1896_s1e1.webp",
+      "abyssid": "16407",
+      "abyssId": "16407",
+      "playxid": "8e5374203123a2502404dbd7ea19862d",
+      "playXID": "8e5374203123a2502404dbd7ea19862d",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16407",
+        "playXID": "8e5374203123a2502404dbd7ea19862d",
+        "streamId": "16407",
+        "dubPlayerSrc": "/dub-player/t/16407/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8e5374203123a2502404dbd7ea19862d&abyssId=16407"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16407",
+        "playXID": "8e5374203123a2502404dbd7ea19862d",
+        "streamId": "16407",
+        "dubPlayerSrc": "/dub-player/t/16407/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8e5374203123a2502404dbd7ea19862d&abyssId=16407"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/8e5374203123a2502404dbd7ea19862d",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/8e5374203123a2502404dbd7ea19862d"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16407",
+        "abyssId": "16407",
+        "playXID": "8e5374203123a2502404dbd7ea19862d",
+        "title": "New Saga",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "szx0WCNuY"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "2bfXYqClB"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "_thj0c-eJ"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/d26b0f15ce81f8436b9cf7e90ca64756/master.m3u8?md5=NVTYe7PJVNZme7rUHlUSaQ&expires=1792166439",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/d26b0f15ce81f8436b9cf7e90ca64756/master.m3u8?md5=NVTYe7PJVNZme7rUHlUSaQ&expires=1792166439",
+            "videoSource": "https://ravok.buzz/cdn/hls/d26b0f15ce81f8436b9cf7e90ca64756/master.m3u8?md5=NVTYe7PJVNZme7rUHlUSaQ&expires=1792166439",
+            "videoImage": "https://as-cdn30.top/p/-t1YsIjW0GLGUkpfwMZ28eA4x3-o1OPg1K4lLqCwbOKr8N9WG6CvDLTnLmp9HolNWeAXJFQLyCAyBPFEtB-YLw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "8e5374203123a2502404dbd7ea19862d",
+                "streamUrl": "https://ravok.buzz/cdn/hls/d26b0f15ce81f8436b9cf7e90ca64756/master.m3u8?md5=NVTYe7PJVNZme7rUHlUSaQ&expires=1792166439",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/d26b0f15ce81f8436b9cf7e90ca64756/master.m3u8?md5=NVTYe7PJVNZme7rUHlUSaQ&expires=1792166439",
+                "videoSource": "https://ravok.buzz/cdn/hls/d26b0f15ce81f8436b9cf7e90ca64756/master.m3u8?md5=NVTYe7PJVNZme7rUHlUSaQ&expires=1792166439",
+                "link": "https://ravok.buzz/cdn/hls/d26b0f15ce81f8436b9cf7e90ca64756/master.m3u8?md5=NVTYe7PJVNZme7rUHlUSaQ&expires=1792166439",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/-t1YsIjW0GLGUkpfwMZ28eA4x3-o1OPg1K4lLqCwbOKr8N9WG6CvDLTnLmp9HolNWeAXJFQLyCAyBPFEtB-YLw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "szx0WCNuY"
+        }
+      },
+      "fetched_at": "2026-10-16T14:00:50Z"
+    },
+    {
+      "id": "episode/new-saga-1x7",
+      "episode_id": "episode/new-saga-1x7",
+      "title": "New Saga 1x1",
+      "episode_name": "New Saga 1x1",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1896_s1e7.webp",
+      "abyssid": "16594",
+      "abyssId": "16594",
+      "playxid": "484a22444687f29ddf8764bf82c1a9c0",
+      "playXID": "484a22444687f29ddf8764bf82c1a9c0",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16594",
+        "playXID": "484a22444687f29ddf8764bf82c1a9c0",
+        "streamId": "16594",
+        "dubPlayerSrc": "/dub-player/t/16594/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=484a22444687f29ddf8764bf82c1a9c0&abyssId=16594"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16594",
+        "playXID": "484a22444687f29ddf8764bf82c1a9c0",
+        "streamId": "16594",
+        "dubPlayerSrc": "/dub-player/t/16594/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=484a22444687f29ddf8764bf82c1a9c0&abyssId=16594"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/484a22444687f29ddf8764bf82c1a9c0",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/484a22444687f29ddf8764bf82c1a9c0"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16594",
+        "abyssId": "16594",
+        "playXID": "484a22444687f29ddf8764bf82c1a9c0",
+        "title": "New Saga",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "DfWxGmt1M"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "25zjOc1dd"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "8Qb_w_SNT"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/6856a4e8c877687e99dbd4adf0143d46/master.m3u8?md5=YCOQ1UucVm0nlK1_dE9BIg&expires=1792166442",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/6856a4e8c877687e99dbd4adf0143d46/master.m3u8?md5=YCOQ1UucVm0nlK1_dE9BIg&expires=1792166442",
+            "videoSource": "https://ravok.buzz/cdn/hls/6856a4e8c877687e99dbd4adf0143d46/master.m3u8?md5=YCOQ1UucVm0nlK1_dE9BIg&expires=1792166442",
+            "videoImage": "https://as-cdn27.top/p/k7_P2NUoE_ghAMxxvuOwRvaz2Z3yRLTh7fM0_7mgX4pEIY1GZZnol7HuHvjkV27CtO5rjPfs0ZsKI4z7gs0U4Q.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "484a22444687f29ddf8764bf82c1a9c0",
+                "streamUrl": "https://ravok.buzz/cdn/hls/6856a4e8c877687e99dbd4adf0143d46/master.m3u8?md5=YCOQ1UucVm0nlK1_dE9BIg&expires=1792166442",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/6856a4e8c877687e99dbd4adf0143d46/master.m3u8?md5=YCOQ1UucVm0nlK1_dE9BIg&expires=1792166442",
+                "videoSource": "https://ravok.buzz/cdn/hls/6856a4e8c877687e99dbd4adf0143d46/master.m3u8?md5=YCOQ1UucVm0nlK1_dE9BIg&expires=1792166442",
+                "link": "https://ravok.buzz/cdn/hls/6856a4e8c877687e99dbd4adf0143d46/master.m3u8?md5=YCOQ1UucVm0nlK1_dE9BIg&expires=1792166442",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/k7_P2NUoE_ghAMxxvuOwRvaz2Z3yRLTh7fM0_7mgX4pEIY1GZZnol7HuHvjkV27CtO5rjPfs0ZsKI4z7gs0U4Q.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "DfWxGmt1M"
+        }
+      },
+      "fetched_at": "2026-10-16T14:00:52Z"
+    },
+    {
+      "id": "episode/new-saga-1x6",
+      "episode_id": "episode/new-saga-1x6",
+      "title": "New Saga 1x1",
+      "episode_name": "New Saga 1x1",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1896_s1e6.webp",
+      "abyssid": "16580",
+      "abyssId": "16580",
+      "playxid": "54bca824f5fa890e036fb9191bcdc324",
+      "playXID": "54bca824f5fa890e036fb9191bcdc324",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16580",
+        "playXID": "54bca824f5fa890e036fb9191bcdc324",
+        "streamId": "16580",
+        "dubPlayerSrc": "/dub-player/t/16580/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=54bca824f5fa890e036fb9191bcdc324&abyssId=16580"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16580",
+        "playXID": "54bca824f5fa890e036fb9191bcdc324",
+        "streamId": "16580",
+        "dubPlayerSrc": "/dub-player/t/16580/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=54bca824f5fa890e036fb9191bcdc324&abyssId=16580"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/54bca824f5fa890e036fb9191bcdc324",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/54bca824f5fa890e036fb9191bcdc324"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16580",
+        "abyssId": "16580",
+        "playXID": "54bca824f5fa890e036fb9191bcdc324",
+        "title": "New Saga",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "gQ7WINwMd"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "zMvaroQRJ"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "4P_M57F9z"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/0f7862da481fdcc43bbb541bbf4f404f/master.m3u8?md5=s5TTyu7lBHGqwNHhrl0-uA&expires=1792166442",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/0f7862da481fdcc43bbb541bbf4f404f/master.m3u8?md5=s5TTyu7lBHGqwNHhrl0-uA&expires=1792166442",
+            "videoSource": "https://ravok.buzz/cdn/hls/0f7862da481fdcc43bbb541bbf4f404f/master.m3u8?md5=s5TTyu7lBHGqwNHhrl0-uA&expires=1792166442",
+            "videoImage": "https://as-cdn27.top/p/gXo_mRLBbxQFnG2gTMVU11N7fQKLxsjsUg7BChVAYsZs-nj2Gaw5nYuoFAYCrDLBbQj284Cv_yaizZFbVgBgHg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "54bca824f5fa890e036fb9191bcdc324",
+                "streamUrl": "https://ravok.buzz/cdn/hls/0f7862da481fdcc43bbb541bbf4f404f/master.m3u8?md5=s5TTyu7lBHGqwNHhrl0-uA&expires=1792166442",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/0f7862da481fdcc43bbb541bbf4f404f/master.m3u8?md5=s5TTyu7lBHGqwNHhrl0-uA&expires=1792166442",
+                "videoSource": "https://ravok.buzz/cdn/hls/0f7862da481fdcc43bbb541bbf4f404f/master.m3u8?md5=s5TTyu7lBHGqwNHhrl0-uA&expires=1792166442",
+                "link": "https://ravok.buzz/cdn/hls/0f7862da481fdcc43bbb541bbf4f404f/master.m3u8?md5=s5TTyu7lBHGqwNHhrl0-uA&expires=1792166442",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/gXo_mRLBbxQFnG2gTMVU11N7fQKLxsjsUg7BChVAYsZs-nj2Gaw5nYuoFAYCrDLBbQj284Cv_yaizZFbVgBgHg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "gQ7WINwMd"
+        }
+      },
+      "fetched_at": "2026-10-16T14:00:52Z"
+    },
+    {
+      "id": "episode/new-saga-1x8",
+      "episode_id": "episode/new-saga-1x8",
+      "title": "New Saga 1x1",
+      "episode_name": "New Saga 1x1",
+      "episode_number": 8,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1896_s1e8.webp",
+      "abyssid": "16622",
+      "abyssId": "16622",
+      "playxid": "09094f96926cff36073b2fec98e21fb7",
+      "playXID": "09094f96926cff36073b2fec98e21fb7",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16622",
+        "playXID": "09094f96926cff36073b2fec98e21fb7",
+        "streamId": "16622",
+        "dubPlayerSrc": "/dub-player/t/16622/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=09094f96926cff36073b2fec98e21fb7&abyssId=16622"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16622",
+        "playXID": "09094f96926cff36073b2fec98e21fb7",
+        "streamId": "16622",
+        "dubPlayerSrc": "/dub-player/t/16622/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=09094f96926cff36073b2fec98e21fb7&abyssId=16622"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/09094f96926cff36073b2fec98e21fb7",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/09094f96926cff36073b2fec98e21fb7"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16622",
+        "abyssId": "16622",
+        "playXID": "09094f96926cff36073b2fec98e21fb7",
+        "title": "New Saga",
+        "season": 1,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "006vYmgzg"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "q-75kiLZY"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "fQeqwbcI1"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/fc218c61ade410e95c340b7e064fdc36/master.m3u8?md5=IU_UJeCE8OFp14J-L0Jj5w&expires=1792166442",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/fc218c61ade410e95c340b7e064fdc36/master.m3u8?md5=IU_UJeCE8OFp14J-L0Jj5w&expires=1792166442",
+            "videoSource": "https://ravok.buzz/cdn/hls/fc218c61ade410e95c340b7e064fdc36/master.m3u8?md5=IU_UJeCE8OFp14J-L0Jj5w&expires=1792166442",
+            "videoImage": "https://as-cdn27.top/p/wJ3VeKrH7cP0LPjIe-idR7ENYFo_0ULP5oYAPH_gYPUeHqFORVfok8V_HuJmyc2WCk6l6a9c4gbNdABmmLtVnA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "09094f96926cff36073b2fec98e21fb7",
+                "streamUrl": "https://ravok.buzz/cdn/hls/fc218c61ade410e95c340b7e064fdc36/master.m3u8?md5=IU_UJeCE8OFp14J-L0Jj5w&expires=1792166442",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/fc218c61ade410e95c340b7e064fdc36/master.m3u8?md5=IU_UJeCE8OFp14J-L0Jj5w&expires=1792166442",
+                "videoSource": "https://ravok.buzz/cdn/hls/fc218c61ade410e95c340b7e064fdc36/master.m3u8?md5=IU_UJeCE8OFp14J-L0Jj5w&expires=1792166442",
+                "link": "https://ravok.buzz/cdn/hls/fc218c61ade410e95c340b7e064fdc36/master.m3u8?md5=IU_UJeCE8OFp14J-L0Jj5w&expires=1792166442",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/wJ3VeKrH7cP0LPjIe-idR7ENYFo_0ULP5oYAPH_gYPUeHqFORVfok8V_HuJmyc2WCk6l6a9c4gbNdABmmLtVnA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "006vYmgzg"
+        }
+      },
+      "fetched_at": "2026-10-16T14:00:52Z"
+    },
+    {
+      "id": "episode/new-saga-1x9",
+      "episode_id": "episode/new-saga-1x9",
+      "title": "New Saga 1x1",
+      "episode_name": "New Saga 1x1",
+      "episode_number": 9,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1896_s1e9.webp",
+      "abyssid": "16690",
+      "abyssId": "16690",
+      "playxid": "6984fba75d83f56682b0329c93e651df",
+      "playXID": "6984fba75d83f56682b0329c93e651df",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16690",
+        "playXID": "6984fba75d83f56682b0329c93e651df",
+        "streamId": "16690",
+        "dubPlayerSrc": "/dub-player/t/16690/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6984fba75d83f56682b0329c93e651df&abyssId=16690"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16690",
+        "playXID": "6984fba75d83f56682b0329c93e651df",
+        "streamId": "16690",
+        "dubPlayerSrc": "/dub-player/t/16690/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6984fba75d83f56682b0329c93e651df&abyssId=16690"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/6984fba75d83f56682b0329c93e651df",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/6984fba75d83f56682b0329c93e651df"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16690",
+        "abyssId": "16690",
+        "playXID": "6984fba75d83f56682b0329c93e651df",
+        "title": "New Saga",
+        "season": 1,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "FelsJI5Er"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "zhliwLXA1"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "761zEt9UD"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/1c05481db8f19e3ee4a512e5781bb621/master.m3u8?md5=dNeYIeqpoUx9T7s7LYtcLw&expires=1792166442",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/1c05481db8f19e3ee4a512e5781bb621/master.m3u8?md5=dNeYIeqpoUx9T7s7LYtcLw&expires=1792166442",
+            "videoSource": "https://ravok.buzz/cdn/hls/1c05481db8f19e3ee4a512e5781bb621/master.m3u8?md5=dNeYIeqpoUx9T7s7LYtcLw&expires=1792166442",
+            "videoImage": "https://as-cdn29.top/p/5At6YjxYds0JZUDe3Z1xCLRtssssW-obhVkr8l1iyzPiFnZTrTehh5wVAxf11pZEpqSRxINFpIF6hT40vSs-uw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "6984fba75d83f56682b0329c93e651df",
+                "streamUrl": "https://ravok.buzz/cdn/hls/1c05481db8f19e3ee4a512e5781bb621/master.m3u8?md5=dNeYIeqpoUx9T7s7LYtcLw&expires=1792166442",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/1c05481db8f19e3ee4a512e5781bb621/master.m3u8?md5=dNeYIeqpoUx9T7s7LYtcLw&expires=1792166442",
+                "videoSource": "https://ravok.buzz/cdn/hls/1c05481db8f19e3ee4a512e5781bb621/master.m3u8?md5=dNeYIeqpoUx9T7s7LYtcLw&expires=1792166442",
+                "link": "https://ravok.buzz/cdn/hls/1c05481db8f19e3ee4a512e5781bb621/master.m3u8?md5=dNeYIeqpoUx9T7s7LYtcLw&expires=1792166442",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/5At6YjxYds0JZUDe3Z1xCLRtssssW-obhVkr8l1iyzPiFnZTrTehh5wVAxf11pZEpqSRxINFpIF6hT40vSs-uw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "FelsJI5Er"
+        }
+      },
+      "fetched_at": "2026-10-16T14:00:52Z"
+    },
+    {
+      "id": "episode/new-saga-1x10",
+      "episode_id": "episode/new-saga-1x10",
+      "title": "New Saga 1x1",
+      "episode_name": "New Saga 1x1",
+      "episode_number": 10,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1896_s1e10.webp",
+      "abyssid": "16824",
+      "abyssId": "16824",
+      "playxid": "3b5f4f19719aa9a67efe63169ce94037",
+      "playXID": "3b5f4f19719aa9a67efe63169ce94037",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16824",
+        "playXID": "3b5f4f19719aa9a67efe63169ce94037",
+        "streamId": "16824",
+        "dubPlayerSrc": "/dub-player/t/16824/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=3b5f4f19719aa9a67efe63169ce94037&abyssId=16824"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16824",
+        "playXID": "3b5f4f19719aa9a67efe63169ce94037",
+        "streamId": "16824",
+        "dubPlayerSrc": "/dub-player/t/16824/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=3b5f4f19719aa9a67efe63169ce94037&abyssId=16824"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/3b5f4f19719aa9a67efe63169ce94037",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/3b5f4f19719aa9a67efe63169ce94037"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16824",
+        "abyssId": "16824",
+        "playXID": "3b5f4f19719aa9a67efe63169ce94037",
+        "title": "New Saga",
+        "season": 1,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "Y9vMNKGct"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "Ob1nkM7ln"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "Hkbv39uOA"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/0799b3f391f95ee0b03b0d78e4cf65b0/master.m3u8?md5=IgmbwDw4AZXklwwVYVu6oA&expires=1792166442",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/0799b3f391f95ee0b03b0d78e4cf65b0/master.m3u8?md5=IgmbwDw4AZXklwwVYVu6oA&expires=1792166442",
+            "videoSource": "https://ravok.buzz/cdn/hls/0799b3f391f95ee0b03b0d78e4cf65b0/master.m3u8?md5=IgmbwDw4AZXklwwVYVu6oA&expires=1792166442",
+            "videoImage": "https://as-cdn27.top/p/ZWjPHKYmcnyyhNpIcKD968Azv7Qnxylna-xfoq32cFtq1HIAXvHxksFYAYKIhhKsLe0LPnF5XWueLEJdbWaY6w.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "3b5f4f19719aa9a67efe63169ce94037",
+                "streamUrl": "https://ravok.buzz/cdn/hls/0799b3f391f95ee0b03b0d78e4cf65b0/master.m3u8?md5=IgmbwDw4AZXklwwVYVu6oA&expires=1792166442",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/0799b3f391f95ee0b03b0d78e4cf65b0/master.m3u8?md5=IgmbwDw4AZXklwwVYVu6oA&expires=1792166442",
+                "videoSource": "https://ravok.buzz/cdn/hls/0799b3f391f95ee0b03b0d78e4cf65b0/master.m3u8?md5=IgmbwDw4AZXklwwVYVu6oA&expires=1792166442",
+                "link": "https://ravok.buzz/cdn/hls/0799b3f391f95ee0b03b0d78e4cf65b0/master.m3u8?md5=IgmbwDw4AZXklwwVYVu6oA&expires=1792166442",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/ZWjPHKYmcnyyhNpIcKD968Azv7Qnxylna-xfoq32cFtq1HIAXvHxksFYAYKIhhKsLe0LPnF5XWueLEJdbWaY6w.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "Y9vMNKGct"
+        }
+      },
+      "fetched_at": "2026-10-16T14:00:52Z"
+    },
+    {
+      "id": "episode/new-saga-1x11",
+      "episode_id": "episode/new-saga-1x11",
+      "title": "New Saga 1x1",
+      "episode_name": "New Saga 1x1",
+      "episode_number": 11,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1896_s1e11.webp",
+      "abyssid": "16886",
+      "abyssId": "16886",
+      "playxid": "178f90ad542daa47deaf9ededb5233ba",
+      "playXID": "178f90ad542daa47deaf9ededb5233ba",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16886",
+        "playXID": "178f90ad542daa47deaf9ededb5233ba",
+        "streamId": "16886",
+        "dubPlayerSrc": "/dub-player/t/16886/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=178f90ad542daa47deaf9ededb5233ba&abyssId=16886"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16886",
+        "playXID": "178f90ad542daa47deaf9ededb5233ba",
+        "streamId": "16886",
+        "dubPlayerSrc": "/dub-player/t/16886/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=178f90ad542daa47deaf9ededb5233ba&abyssId=16886"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/178f90ad542daa47deaf9ededb5233ba",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/178f90ad542daa47deaf9ededb5233ba"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16886",
+        "abyssId": "16886",
+        "playXID": "178f90ad542daa47deaf9ededb5233ba",
+        "title": "New Saga",
+        "season": 1,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "ipwaZV_tf"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "4K5psoogU"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "nk-la6EFk"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "pxFhX2WUf"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "cv5FiWExI"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/c936f0131ede5f58418e319b808b596b/master.m3u8?md5=CeabpDxcu5CFV-WvCcV1OQ&expires=1792166444",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/c936f0131ede5f58418e319b808b596b/master.m3u8?md5=CeabpDxcu5CFV-WvCcV1OQ&expires=1792166444",
+            "videoSource": "https://ravok.buzz/cdn/hls/c936f0131ede5f58418e319b808b596b/master.m3u8?md5=CeabpDxcu5CFV-WvCcV1OQ&expires=1792166444",
+            "videoImage": "https://as-cdn31.top/p/x3hC4OqsKVVckr87M1w5P4M8VpyUFbo2eicQ1zaDS9WOgdwfaRnuMlmR8WroXJeAW8n5xQ2kHHQD5-hhijy_3Q.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "178f90ad542daa47deaf9ededb5233ba",
+                "streamUrl": "https://ravok.buzz/cdn/hls/c936f0131ede5f58418e319b808b596b/master.m3u8?md5=CeabpDxcu5CFV-WvCcV1OQ&expires=1792166444",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/c936f0131ede5f58418e319b808b596b/master.m3u8?md5=CeabpDxcu5CFV-WvCcV1OQ&expires=1792166444",
+                "videoSource": "https://ravok.buzz/cdn/hls/c936f0131ede5f58418e319b808b596b/master.m3u8?md5=CeabpDxcu5CFV-WvCcV1OQ&expires=1792166444",
+                "link": "https://ravok.buzz/cdn/hls/c936f0131ede5f58418e319b808b596b/master.m3u8?md5=CeabpDxcu5CFV-WvCcV1OQ&expires=1792166444",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/x3hC4OqsKVVckr87M1w5P4M8VpyUFbo2eicQ1zaDS9WOgdwfaRnuMlmR8WroXJeAW8n5xQ2kHHQD5-hhijy_3Q.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "ipwaZV_tf"
+        }
+      },
+      "fetched_at": "2026-10-16T14:00:54Z"
+    },
+    {
+      "id": "episode/new-saga-1x12",
+      "episode_id": "episode/new-saga-1x12",
+      "title": "New Saga 1x1",
+      "episode_name": "New Saga 1x1",
+      "episode_number": 12,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1896_s1e12.webp",
+      "abyssid": "17004",
+      "abyssId": "17004",
+      "playxid": "529d61de9a04a13e71dad539be290df4",
+      "playXID": "529d61de9a04a13e71dad539be290df4",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17004",
+        "playXID": "529d61de9a04a13e71dad539be290df4",
+        "streamId": "17004",
+        "dubPlayerSrc": "/dub-player/t/17004/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=529d61de9a04a13e71dad539be290df4&abyssId=17004"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17004",
+        "playXID": "529d61de9a04a13e71dad539be290df4",
+        "streamId": "17004",
+        "dubPlayerSrc": "/dub-player/t/17004/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=529d61de9a04a13e71dad539be290df4&abyssId=17004"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/529d61de9a04a13e71dad539be290df4",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/529d61de9a04a13e71dad539be290df4"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17004",
+        "abyssId": "17004",
+        "playXID": "529d61de9a04a13e71dad539be290df4",
+        "title": "New Saga",
+        "season": 1,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "gC0Lx5aU4"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "XPnEPVZqD"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "H7VDB-1_k"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/5719f5432e4ea8e4251f3237b510a7e7/master.m3u8?md5=pfeA9556loh7RHBymiotgA&expires=1792166445",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/5719f5432e4ea8e4251f3237b510a7e7/master.m3u8?md5=pfeA9556loh7RHBymiotgA&expires=1792166445",
+            "videoSource": "https://ravok.buzz/cdn/hls/5719f5432e4ea8e4251f3237b510a7e7/master.m3u8?md5=pfeA9556loh7RHBymiotgA&expires=1792166445",
+            "videoImage": "https://as-cdn27.top/p/HaxGPAIiIk_58UC6TxaLxzS2trjuvMAoPMrJhYp2csQ5dzhafh4Dtx8H2Os_RD1dYlDR8m_SLyScgXqq3wf3Vg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "529d61de9a04a13e71dad539be290df4",
+                "streamUrl": "https://ravok.buzz/cdn/hls/5719f5432e4ea8e4251f3237b510a7e7/master.m3u8?md5=pfeA9556loh7RHBymiotgA&expires=1792166445",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/5719f5432e4ea8e4251f3237b510a7e7/master.m3u8?md5=pfeA9556loh7RHBymiotgA&expires=1792166445",
+                "videoSource": "https://ravok.buzz/cdn/hls/5719f5432e4ea8e4251f3237b510a7e7/master.m3u8?md5=pfeA9556loh7RHBymiotgA&expires=1792166445",
+                "link": "https://ravok.buzz/cdn/hls/5719f5432e4ea8e4251f3237b510a7e7/master.m3u8?md5=pfeA9556loh7RHBymiotgA&expires=1792166445",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/HaxGPAIiIk_58UC6TxaLxzS2trjuvMAoPMrJhYp2csQ5dzhafh4Dtx8H2Os_RD1dYlDR8m_SLyScgXqq3wf3Vg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "gC0Lx5aU4"
+        }
+      },
+      "fetched_at": "2026-10-16T14:00:55Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T14:00:47Z",
+  "updated_at": "2026-10-16T14:00:55Z"
+}

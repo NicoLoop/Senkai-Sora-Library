@@ -1,0 +1,2472 @@
+{
+  "id": "series/bye-bye-earth",
+  "series_name": "Bye Bye Earth",
+  "title": "Bye Bye Earth",
+  "banner": "https://image.tmdb.org/t/p/w1280/5BCJIAr0rpmW7ChRLCArUdjzixJ.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/iuo2jor1Hya3bT1imNxEScgoh5o.jpg",
+  "genra": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Japanese",
+    "Tamil",
+    "Telugu"
+  ],
+  "synopsis": "Belle Lablac doesn’t really fit in as the only human being in a world full of anthropomorphic animals. No fangs, no fur, no scales, no claws. Lonely and eager to discover where she comes from, Belle journeys to find answers to the questions of her heart. Carrying nothing but her giant sword, the Runding, she faces a world of possibilities and pitfalls in hopes of discovering the truth.",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 2,
+  "totalEpisodes": 20,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 10,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Departure at the Red Hour",
+          "id": "episode/bye-bye-earth-1x1",
+          "image": "https://img.watchanimeworld.one/images/13417/01.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "Wherefore in the Earthshine",
+          "id": "episode/bye-bye-earth-1x2",
+          "image": "https://img.watchanimeworld.one/images/13417/02.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "Farewell to Those Who Play the Land",
+          "id": "episode/bye-bye-earth-1x3",
+          "image": "https://img.watchanimeworld.one/images/13417/03.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "Spell of Proof Still Distant",
+          "id": "episode/bye-bye-earth-1x4",
+          "image": "https://img.watchanimeworld.one/images/13417/04.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "Performance of Swords and Scales, Good and Evil",
+          "id": "episode/bye-bye-earth-1x5",
+          "image": "https://img.watchanimeworld.one/images/13417/05.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "Concerto in a Land Where Death Blooms",
+          "id": "episode/bye-bye-earth-1x6",
+          "image": "https://img.watchanimeworld.one/images/13417/06.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "Examiner of Curses, Blessings, and their Shapes",
+          "id": "episode/bye-bye-earth-1x7",
+          "image": "https://img.watchanimeworld.one/images/13417/07.webp",
+          "season": 1
+        },
+        {
+          "episode": 8,
+          "title": "A Ball Shaking Before the Fiend Flower",
+          "id": "episode/bye-bye-earth-1x8",
+          "image": "https://img.watchanimeworld.one/images/13417/08.webp",
+          "season": 1
+        },
+        {
+          "episode": 9,
+          "title": "Silence of Keys Unplayed",
+          "id": "episode/bye-bye-earth-1x9",
+          "image": "https://img.watchanimeworld.one/images/13417/09.webp",
+          "season": 1
+        },
+        {
+          "episode": 10,
+          "title": "Spiral: Howling Sword, Rusty Nail",
+          "id": "episode/bye-bye-earth-1x10",
+          "image": "https://img.watchanimeworld.one/images/13417/10.webp",
+          "season": 1
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "name": "Season 2",
+      "episodesCount": 10,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Bye Bye Earth 2x1",
+          "id": "episode/bye-bye-earth-2x1",
+          "image": "https://img.watchanimeworld.one/image/330/2/1.webp",
+          "season": 2
+        },
+        {
+          "episode": 2,
+          "title": "Bye Bye Earth 2x2",
+          "id": "episode/bye-bye-earth-2x2",
+          "image": "https://img.watchanimeworld.one/image/330/2/2.webp",
+          "season": 2
+        },
+        {
+          "episode": 3,
+          "title": "Bye Bye Earth 2x3",
+          "id": "episode/bye-bye-earth-2x3",
+          "image": "https://img.watchanimeworld.one/image/330/2/3.webp",
+          "season": 2
+        },
+        {
+          "episode": 4,
+          "title": "Bye Bye Earth 2x4",
+          "id": "episode/bye-bye-earth-2x4",
+          "image": "https://img.watchanimeworld.one/image/330/2/4.webp",
+          "season": 2
+        },
+        {
+          "episode": 5,
+          "title": "Bye Bye Earth 2x5",
+          "id": "episode/bye-bye-earth-2x5",
+          "image": "https://img.watchanimeworld.one/image/330/2/5.webp",
+          "season": 2
+        },
+        {
+          "episode": 6,
+          "title": "Bye Bye Earth 2x6",
+          "id": "episode/bye-bye-earth-2x6",
+          "image": "https://img.watchanimeworld.one/image/330/2/6.webp",
+          "season": 2
+        },
+        {
+          "episode": 7,
+          "title": "Bye Bye Earth 2x7",
+          "id": "episode/bye-bye-earth-2x7",
+          "image": "https://img.watchanimeworld.one/image/330/2/7.webp",
+          "season": 2
+        },
+        {
+          "episode": 8,
+          "title": "Bye Bye Earth 2x8",
+          "id": "episode/bye-bye-earth-2x8",
+          "image": "https://img.watchanimeworld.one/image/330/2/8.webp",
+          "season": 2
+        },
+        {
+          "episode": 9,
+          "title": "Bye Bye Earth 2x9",
+          "id": "episode/bye-bye-earth-2x9",
+          "image": "https://img.watchanimeworld.one/image/330/2/9.webp",
+          "season": 2
+        },
+        {
+          "episode": 10,
+          "title": "Bye Bye Earth 2x10",
+          "id": "episode/bye-bye-earth-2x10",
+          "image": "https://img.watchanimeworld.one/img/thumb_330_s2e10.webp",
+          "season": 2
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/bye-bye-earth-1x4",
+      "episode_id": "episode/bye-bye-earth-1x4",
+      "title": "Departure at the Red Hour",
+      "episode_name": "Departure at the Red Hour",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/13417/04.webp",
+      "abyssid": "8216",
+      "abyssId": "8216",
+      "playxid": "24f0d2c90473b2bc949ad962e61d9bcb",
+      "playXID": "24f0d2c90473b2bc949ad962e61d9bcb",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "8216",
+        "playXID": "24f0d2c90473b2bc949ad962e61d9bcb",
+        "streamId": "8216",
+        "dubPlayerSrc": "/dub-player/t/8216/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=24f0d2c90473b2bc949ad962e61d9bcb&abyssId=8216"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "8216",
+        "playXID": "24f0d2c90473b2bc949ad962e61d9bcb",
+        "streamId": "8216",
+        "dubPlayerSrc": "/dub-player/t/8216/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=24f0d2c90473b2bc949ad962e61d9bcb&abyssId=8216"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/24f0d2c90473b2bc949ad962e61d9bcb",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/24f0d2c90473b2bc949ad962e61d9bcb"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "8216",
+        "abyssId": "8216",
+        "playXID": "24f0d2c90473b2bc949ad962e61d9bcb",
+        "title": "Bye Bye Earth",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "Ok2chSSyr"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "uRHW4n1Gu"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "BJ7Z27ogr"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "DfPrfTIIu"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "GhfILQ2fY"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/d97336c654d2f8dd7c52b3d039288c36/master.m3u8?md5=AnJ7PtMmNUHvtPzQeS2AtA&expires=1792167347",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/d97336c654d2f8dd7c52b3d039288c36/master.m3u8?md5=AnJ7PtMmNUHvtPzQeS2AtA&expires=1792167347",
+            "videoSource": "https://ravok.buzz/cdn/hls/d97336c654d2f8dd7c52b3d039288c36/master.m3u8?md5=AnJ7PtMmNUHvtPzQeS2AtA&expires=1792167347",
+            "videoImage": "https://as-cdn29.top/p/X8vrDXaSAwClwzQhyldwsW9rYN2Dhy1RIWCICmqIU7JCVQdhBfedGVQN9jmRyueoM93xlaOuBPyXolc1gZhoow.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "24f0d2c90473b2bc949ad962e61d9bcb",
+                "streamUrl": "https://ravok.buzz/cdn/hls/d97336c654d2f8dd7c52b3d039288c36/master.m3u8?md5=AnJ7PtMmNUHvtPzQeS2AtA&expires=1792167347",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/d97336c654d2f8dd7c52b3d039288c36/master.m3u8?md5=AnJ7PtMmNUHvtPzQeS2AtA&expires=1792167347",
+                "videoSource": "https://ravok.buzz/cdn/hls/d97336c654d2f8dd7c52b3d039288c36/master.m3u8?md5=AnJ7PtMmNUHvtPzQeS2AtA&expires=1792167347",
+                "link": "https://ravok.buzz/cdn/hls/d97336c654d2f8dd7c52b3d039288c36/master.m3u8?md5=AnJ7PtMmNUHvtPzQeS2AtA&expires=1792167347",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/X8vrDXaSAwClwzQhyldwsW9rYN2Dhy1RIWCICmqIU7JCVQdhBfedGVQN9jmRyueoM93xlaOuBPyXolc1gZhoow.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "Ok2chSSyr"
+        }
+      },
+      "fetched_at": "2026-10-16T14:15:57Z"
+    },
+    {
+      "id": "episode/bye-bye-earth-1x3",
+      "episode_id": "episode/bye-bye-earth-1x3",
+      "title": "Departure at the Red Hour",
+      "episode_name": "Departure at the Red Hour",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/13417/03.webp",
+      "abyssid": "8215",
+      "abyssId": "8215",
+      "playxid": "e7e23670481ac78b3c4122a99ba60573",
+      "playXID": "e7e23670481ac78b3c4122a99ba60573",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "8215",
+        "playXID": "e7e23670481ac78b3c4122a99ba60573",
+        "streamId": "8215",
+        "dubPlayerSrc": "/dub-player/t/8215/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e7e23670481ac78b3c4122a99ba60573&abyssId=8215"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "8215",
+        "playXID": "e7e23670481ac78b3c4122a99ba60573",
+        "streamId": "8215",
+        "dubPlayerSrc": "/dub-player/t/8215/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e7e23670481ac78b3c4122a99ba60573&abyssId=8215"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/e7e23670481ac78b3c4122a99ba60573",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/e7e23670481ac78b3c4122a99ba60573"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "8215",
+        "abyssId": "8215",
+        "playXID": "e7e23670481ac78b3c4122a99ba60573",
+        "title": "Bye Bye Earth",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "kdbVzCZdD"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "WMD8Kvf-6"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "fvkXG2lxX"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "VniKXuZAO"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "L6eaA0PjD"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/dd48e832016106ed4db8f65a1f955fd9/master.m3u8?md5=l-pE4vYHpPbUk0p_UzTT7Q&expires=1792167347",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/dd48e832016106ed4db8f65a1f955fd9/master.m3u8?md5=l-pE4vYHpPbUk0p_UzTT7Q&expires=1792167347",
+            "videoSource": "https://ravok.buzz/cdn/hls/dd48e832016106ed4db8f65a1f955fd9/master.m3u8?md5=l-pE4vYHpPbUk0p_UzTT7Q&expires=1792167347",
+            "videoImage": "https://as-cdn27.top/p/PPC9R697XBDB1Q3-VBinNUcYHOphJd6lcK_Zb7PNhnnH-eIOHMB8ce73edHlShunALTwcigUvBAZvAazouQY1w.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "e7e23670481ac78b3c4122a99ba60573",
+                "streamUrl": "https://ravok.buzz/cdn/hls/dd48e832016106ed4db8f65a1f955fd9/master.m3u8?md5=l-pE4vYHpPbUk0p_UzTT7Q&expires=1792167347",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/dd48e832016106ed4db8f65a1f955fd9/master.m3u8?md5=l-pE4vYHpPbUk0p_UzTT7Q&expires=1792167347",
+                "videoSource": "https://ravok.buzz/cdn/hls/dd48e832016106ed4db8f65a1f955fd9/master.m3u8?md5=l-pE4vYHpPbUk0p_UzTT7Q&expires=1792167347",
+                "link": "https://ravok.buzz/cdn/hls/dd48e832016106ed4db8f65a1f955fd9/master.m3u8?md5=l-pE4vYHpPbUk0p_UzTT7Q&expires=1792167347",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/PPC9R697XBDB1Q3-VBinNUcYHOphJd6lcK_Zb7PNhnnH-eIOHMB8ce73edHlShunALTwcigUvBAZvAazouQY1w.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "kdbVzCZdD"
+        }
+      },
+      "fetched_at": "2026-10-16T14:15:57Z"
+    },
+    {
+      "id": "episode/bye-bye-earth-1x2",
+      "episode_id": "episode/bye-bye-earth-1x2",
+      "title": "Departure at the Red Hour",
+      "episode_name": "Departure at the Red Hour",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/13417/02.webp",
+      "abyssid": "8214",
+      "abyssId": "8214",
+      "playxid": "7b1ce3d73b70f1a7246e7b76a35fb552",
+      "playXID": "7b1ce3d73b70f1a7246e7b76a35fb552",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "8214",
+        "playXID": "7b1ce3d73b70f1a7246e7b76a35fb552",
+        "streamId": "8214",
+        "dubPlayerSrc": "/dub-player/t/8214/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=7b1ce3d73b70f1a7246e7b76a35fb552&abyssId=8214"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "8214",
+        "playXID": "7b1ce3d73b70f1a7246e7b76a35fb552",
+        "streamId": "8214",
+        "dubPlayerSrc": "/dub-player/t/8214/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=7b1ce3d73b70f1a7246e7b76a35fb552&abyssId=8214"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/7b1ce3d73b70f1a7246e7b76a35fb552",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/7b1ce3d73b70f1a7246e7b76a35fb552"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "8214",
+        "abyssId": "8214",
+        "playXID": "7b1ce3d73b70f1a7246e7b76a35fb552",
+        "title": "Bye Bye Earth",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "HdDvodH3I"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "NO9ZOmwhs"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "F6fHr6l_r"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "D1P9f6kS6"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "R5YICouZrz"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/0659da771b5b928e759618e364e98310/master.m3u8?md5=8bJnqnLysdt9AqoMHz-e5w&expires=1792167347",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/0659da771b5b928e759618e364e98310/master.m3u8?md5=8bJnqnLysdt9AqoMHz-e5w&expires=1792167347",
+            "videoSource": "https://ravok.buzz/cdn/hls/0659da771b5b928e759618e364e98310/master.m3u8?md5=8bJnqnLysdt9AqoMHz-e5w&expires=1792167347",
+            "videoImage": "https://as-cdn29.top/p/pXtai6kvEdX3ZS0G8L3SvWqoMjsqIneWf2fanXujFZLWB1UVykmGWoIUosCssVFZGlyo9_30w3-ao2s2z6zN2w.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "7b1ce3d73b70f1a7246e7b76a35fb552",
+                "streamUrl": "https://ravok.buzz/cdn/hls/0659da771b5b928e759618e364e98310/master.m3u8?md5=8bJnqnLysdt9AqoMHz-e5w&expires=1792167347",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/0659da771b5b928e759618e364e98310/master.m3u8?md5=8bJnqnLysdt9AqoMHz-e5w&expires=1792167347",
+                "videoSource": "https://ravok.buzz/cdn/hls/0659da771b5b928e759618e364e98310/master.m3u8?md5=8bJnqnLysdt9AqoMHz-e5w&expires=1792167347",
+                "link": "https://ravok.buzz/cdn/hls/0659da771b5b928e759618e364e98310/master.m3u8?md5=8bJnqnLysdt9AqoMHz-e5w&expires=1792167347",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/pXtai6kvEdX3ZS0G8L3SvWqoMjsqIneWf2fanXujFZLWB1UVykmGWoIUosCssVFZGlyo9_30w3-ao2s2z6zN2w.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "HdDvodH3I"
+        }
+      },
+      "fetched_at": "2026-10-16T14:15:57Z"
+    },
+    {
+      "id": "episode/bye-bye-earth-1x1",
+      "episode_id": "episode/bye-bye-earth-1x1",
+      "title": "Departure at the Red Hour",
+      "episode_name": "Departure at the Red Hour",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/13417/01.webp",
+      "abyssid": "8213",
+      "abyssId": "8213",
+      "playxid": "8232e119d8f59aa83050a741631803a6",
+      "playXID": "8232e119d8f59aa83050a741631803a6",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "8213",
+        "playXID": "8232e119d8f59aa83050a741631803a6",
+        "streamId": "8213",
+        "dubPlayerSrc": "/dub-player/t/8213/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8232e119d8f59aa83050a741631803a6&abyssId=8213"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "8213",
+        "playXID": "8232e119d8f59aa83050a741631803a6",
+        "streamId": "8213",
+        "dubPlayerSrc": "/dub-player/t/8213/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8232e119d8f59aa83050a741631803a6&abyssId=8213"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/8232e119d8f59aa83050a741631803a6",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/8232e119d8f59aa83050a741631803a6"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "8213",
+        "abyssId": "8213",
+        "playXID": "8232e119d8f59aa83050a741631803a6",
+        "title": "Bye Bye Earth",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "YyywFv32n"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "a5V9UND6U"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "l7lGabeuJ"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "W9FiYyG0k"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "vblO_GU53"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/a48e07cc6ad6a6e4cb624118e5b63220/master.m3u8?md5=6Fj6px9mUId2If2WwCn6OA&expires=1792167347",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/a48e07cc6ad6a6e4cb624118e5b63220/master.m3u8?md5=6Fj6px9mUId2If2WwCn6OA&expires=1792167347",
+            "videoSource": "https://ravok.buzz/cdn/hls/a48e07cc6ad6a6e4cb624118e5b63220/master.m3u8?md5=6Fj6px9mUId2If2WwCn6OA&expires=1792167347",
+            "videoImage": "https://as-cdn29.top/p/0t3TR9TKZ_bM6CxaoDqPiEm9prmXuPLZvilzuvW3U5eO5boucodGkFgv3QvUl0kyBPVaKOt0ttcCLYdHlVYgDg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "8232e119d8f59aa83050a741631803a6",
+                "streamUrl": "https://ravok.buzz/cdn/hls/a48e07cc6ad6a6e4cb624118e5b63220/master.m3u8?md5=6Fj6px9mUId2If2WwCn6OA&expires=1792167347",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/a48e07cc6ad6a6e4cb624118e5b63220/master.m3u8?md5=6Fj6px9mUId2If2WwCn6OA&expires=1792167347",
+                "videoSource": "https://ravok.buzz/cdn/hls/a48e07cc6ad6a6e4cb624118e5b63220/master.m3u8?md5=6Fj6px9mUId2If2WwCn6OA&expires=1792167347",
+                "link": "https://ravok.buzz/cdn/hls/a48e07cc6ad6a6e4cb624118e5b63220/master.m3u8?md5=6Fj6px9mUId2If2WwCn6OA&expires=1792167347",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/0t3TR9TKZ_bM6CxaoDqPiEm9prmXuPLZvilzuvW3U5eO5boucodGkFgv3QvUl0kyBPVaKOt0ttcCLYdHlVYgDg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "YyywFv32n"
+        }
+      },
+      "fetched_at": "2026-10-16T14:15:57Z"
+    },
+    {
+      "id": "episode/bye-bye-earth-1x5",
+      "episode_id": "episode/bye-bye-earth-1x5",
+      "title": "Departure at the Red Hour",
+      "episode_name": "Departure at the Red Hour",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/13417/05.webp",
+      "abyssid": "8217",
+      "abyssId": "8217",
+      "playxid": "6eb6e75fddec0218351dc5c0c8464104",
+      "playXID": "6eb6e75fddec0218351dc5c0c8464104",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "8217",
+        "playXID": "6eb6e75fddec0218351dc5c0c8464104",
+        "streamId": "8217",
+        "dubPlayerSrc": "/dub-player/t/8217/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6eb6e75fddec0218351dc5c0c8464104&abyssId=8217"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "8217",
+        "playXID": "6eb6e75fddec0218351dc5c0c8464104",
+        "streamId": "8217",
+        "dubPlayerSrc": "/dub-player/t/8217/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6eb6e75fddec0218351dc5c0c8464104&abyssId=8217"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/6eb6e75fddec0218351dc5c0c8464104",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/6eb6e75fddec0218351dc5c0c8464104"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "8217",
+        "abyssId": "8217",
+        "playXID": "6eb6e75fddec0218351dc5c0c8464104",
+        "title": "Bye Bye Earth",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "A96at4dyG"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "bkwAQqLi1m"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "wXX0w4dJw"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "jsx7anoa8"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "_6y-hf4688"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/5c191bcaea179db48f7e7e840ee596cb/master.m3u8?md5=-OmamR8qs1Y6PB-nx8TDNw&expires=1792167348",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/5c191bcaea179db48f7e7e840ee596cb/master.m3u8?md5=-OmamR8qs1Y6PB-nx8TDNw&expires=1792167348",
+            "videoSource": "https://ravok.buzz/cdn/hls/5c191bcaea179db48f7e7e840ee596cb/master.m3u8?md5=-OmamR8qs1Y6PB-nx8TDNw&expires=1792167348",
+            "videoImage": "https://as-cdn30.top/p/IU_oQkxKWQRIrag56X1Id71rr7MtdI0cje8WYxjEiCq9zUqKggeDNTQxG08mJQCyaOa8yzJZxaJDP777gTfWoA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "6eb6e75fddec0218351dc5c0c8464104",
+                "streamUrl": "https://ravok.buzz/cdn/hls/5c191bcaea179db48f7e7e840ee596cb/master.m3u8?md5=-OmamR8qs1Y6PB-nx8TDNw&expires=1792167348",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/5c191bcaea179db48f7e7e840ee596cb/master.m3u8?md5=-OmamR8qs1Y6PB-nx8TDNw&expires=1792167348",
+                "videoSource": "https://ravok.buzz/cdn/hls/5c191bcaea179db48f7e7e840ee596cb/master.m3u8?md5=-OmamR8qs1Y6PB-nx8TDNw&expires=1792167348",
+                "link": "https://ravok.buzz/cdn/hls/5c191bcaea179db48f7e7e840ee596cb/master.m3u8?md5=-OmamR8qs1Y6PB-nx8TDNw&expires=1792167348",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/IU_oQkxKWQRIrag56X1Id71rr7MtdI0cje8WYxjEiCq9zUqKggeDNTQxG08mJQCyaOa8yzJZxaJDP777gTfWoA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "A96at4dyG"
+        }
+      },
+      "fetched_at": "2026-10-16T14:15:58Z"
+    },
+    {
+      "id": "episode/bye-bye-earth-1x6",
+      "episode_id": "episode/bye-bye-earth-1x6",
+      "title": "Departure at the Red Hour",
+      "episode_name": "Departure at the Red Hour",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/13417/06.webp",
+      "abyssid": "8218",
+      "abyssId": "8218",
+      "playxid": "2ac2406e835bd49c70469acae337d292",
+      "playXID": "2ac2406e835bd49c70469acae337d292",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "8218",
+        "playXID": "2ac2406e835bd49c70469acae337d292",
+        "streamId": "8218",
+        "dubPlayerSrc": "/dub-player/t/8218/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2ac2406e835bd49c70469acae337d292&abyssId=8218"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "8218",
+        "playXID": "2ac2406e835bd49c70469acae337d292",
+        "streamId": "8218",
+        "dubPlayerSrc": "/dub-player/t/8218/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2ac2406e835bd49c70469acae337d292&abyssId=8218"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/2ac2406e835bd49c70469acae337d292",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/2ac2406e835bd49c70469acae337d292"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "8218",
+        "abyssId": "8218",
+        "playXID": "2ac2406e835bd49c70469acae337d292",
+        "title": "Bye Bye Earth",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "SM7UinjAX"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "xGYVGnz0d"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "T4lwpJZkl"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "PdP9NMYX8"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "iBeyHZfHJ"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/c96d0f4d13ade87c76ea65da6db1ba24/master.m3u8?md5=m_NS5JEIKH1zgZfPbR16lg&expires=1792167349",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/c96d0f4d13ade87c76ea65da6db1ba24/master.m3u8?md5=m_NS5JEIKH1zgZfPbR16lg&expires=1792167349",
+            "videoSource": "https://ravok.buzz/cdn/hls/c96d0f4d13ade87c76ea65da6db1ba24/master.m3u8?md5=m_NS5JEIKH1zgZfPbR16lg&expires=1792167349",
+            "videoImage": "https://as-cdn29.top/p/5cgoWUB_3Y_v9s7BapEGL55fq358jd1Zy91k_sJpJHaq6I0Cxf77Dhh3HnGMhyoyPtCdfL5mYSy-NVHNjGYsOg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "2ac2406e835bd49c70469acae337d292",
+                "streamUrl": "https://ravok.buzz/cdn/hls/c96d0f4d13ade87c76ea65da6db1ba24/master.m3u8?md5=m_NS5JEIKH1zgZfPbR16lg&expires=1792167349",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/c96d0f4d13ade87c76ea65da6db1ba24/master.m3u8?md5=m_NS5JEIKH1zgZfPbR16lg&expires=1792167349",
+                "videoSource": "https://ravok.buzz/cdn/hls/c96d0f4d13ade87c76ea65da6db1ba24/master.m3u8?md5=m_NS5JEIKH1zgZfPbR16lg&expires=1792167349",
+                "link": "https://ravok.buzz/cdn/hls/c96d0f4d13ade87c76ea65da6db1ba24/master.m3u8?md5=m_NS5JEIKH1zgZfPbR16lg&expires=1792167349",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/5cgoWUB_3Y_v9s7BapEGL55fq358jd1Zy91k_sJpJHaq6I0Cxf77Dhh3HnGMhyoyPtCdfL5mYSy-NVHNjGYsOg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "SM7UinjAX"
+        }
+      },
+      "fetched_at": "2026-10-16T14:15:59Z"
+    },
+    {
+      "id": "episode/bye-bye-earth-1x8",
+      "episode_id": "episode/bye-bye-earth-1x8",
+      "title": "Departure at the Red Hour",
+      "episode_name": "Departure at the Red Hour",
+      "episode_number": 8,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/13417/08.webp",
+      "abyssid": "8220",
+      "abyssId": "8220",
+      "playxid": "c6335734dbc0b1ded766421cfc611750",
+      "playXID": "c6335734dbc0b1ded766421cfc611750",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "8220",
+        "playXID": "c6335734dbc0b1ded766421cfc611750",
+        "streamId": "8220",
+        "dubPlayerSrc": "/dub-player/t/8220/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c6335734dbc0b1ded766421cfc611750&abyssId=8220"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "8220",
+        "playXID": "c6335734dbc0b1ded766421cfc611750",
+        "streamId": "8220",
+        "dubPlayerSrc": "/dub-player/t/8220/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c6335734dbc0b1ded766421cfc611750&abyssId=8220"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/c6335734dbc0b1ded766421cfc611750",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/c6335734dbc0b1ded766421cfc611750"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "8220",
+        "abyssId": "8220",
+        "playXID": "c6335734dbc0b1ded766421cfc611750",
+        "title": "Bye Bye Earth",
+        "season": 1,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "IS8oyxwT2"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "yUIg5kEkE"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "ReTtACHqC"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "hlGAZ_Ii2"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "KxUMXksgK"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/e618e94b4aa38c69651ae6b08f2283a4/master.m3u8?md5=lZ5XKW8AvcAr6jc-HEFBSg&expires=1792167349",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/e618e94b4aa38c69651ae6b08f2283a4/master.m3u8?md5=lZ5XKW8AvcAr6jc-HEFBSg&expires=1792167349",
+            "videoSource": "https://ravok.buzz/cdn/hls/e618e94b4aa38c69651ae6b08f2283a4/master.m3u8?md5=lZ5XKW8AvcAr6jc-HEFBSg&expires=1792167349",
+            "videoImage": "https://as-cdn31.top/p/nf-6yhTyU7NystV3TN0cFTDrQz-DSQxRaQgylsXenhD6H25a3AFeIJ_zj9cR5eUqAzdxtrPqwJUpPPbVPyFV0w.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "c6335734dbc0b1ded766421cfc611750",
+                "streamUrl": "https://ravok.buzz/cdn/hls/e618e94b4aa38c69651ae6b08f2283a4/master.m3u8?md5=lZ5XKW8AvcAr6jc-HEFBSg&expires=1792167349",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/e618e94b4aa38c69651ae6b08f2283a4/master.m3u8?md5=lZ5XKW8AvcAr6jc-HEFBSg&expires=1792167349",
+                "videoSource": "https://ravok.buzz/cdn/hls/e618e94b4aa38c69651ae6b08f2283a4/master.m3u8?md5=lZ5XKW8AvcAr6jc-HEFBSg&expires=1792167349",
+                "link": "https://ravok.buzz/cdn/hls/e618e94b4aa38c69651ae6b08f2283a4/master.m3u8?md5=lZ5XKW8AvcAr6jc-HEFBSg&expires=1792167349",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/nf-6yhTyU7NystV3TN0cFTDrQz-DSQxRaQgylsXenhD6H25a3AFeIJ_zj9cR5eUqAzdxtrPqwJUpPPbVPyFV0w.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "IS8oyxwT2"
+        }
+      },
+      "fetched_at": "2026-10-16T14:15:59Z"
+    },
+    {
+      "id": "episode/bye-bye-earth-1x7",
+      "episode_id": "episode/bye-bye-earth-1x7",
+      "title": "Departure at the Red Hour",
+      "episode_name": "Departure at the Red Hour",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/13417/07.webp",
+      "abyssid": "8219",
+      "abyssId": "8219",
+      "playxid": "f47330643ae134ca204bf6b2481fec47",
+      "playXID": "f47330643ae134ca204bf6b2481fec47",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "8219",
+        "playXID": "f47330643ae134ca204bf6b2481fec47",
+        "streamId": "8219",
+        "dubPlayerSrc": "/dub-player/t/8219/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f47330643ae134ca204bf6b2481fec47&abyssId=8219"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "8219",
+        "playXID": "f47330643ae134ca204bf6b2481fec47",
+        "streamId": "8219",
+        "dubPlayerSrc": "/dub-player/t/8219/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f47330643ae134ca204bf6b2481fec47&abyssId=8219"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/f47330643ae134ca204bf6b2481fec47",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/f47330643ae134ca204bf6b2481fec47"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "8219",
+        "abyssId": "8219",
+        "playXID": "f47330643ae134ca204bf6b2481fec47",
+        "title": "Bye Bye Earth",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "WuV2dVYvs"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "2rnWDluS0"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "eC6mJCLzB"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "7VW9FXKwg"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "5O5dI7S8S"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/43c0be8511af70ff24298d69f6715df2/master.m3u8?md5=YOvgODLOGcw-zSguq7C9wA&expires=1792167349",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/43c0be8511af70ff24298d69f6715df2/master.m3u8?md5=YOvgODLOGcw-zSguq7C9wA&expires=1792167349",
+            "videoSource": "https://ravok.buzz/cdn/hls/43c0be8511af70ff24298d69f6715df2/master.m3u8?md5=YOvgODLOGcw-zSguq7C9wA&expires=1792167349",
+            "videoImage": "https://as-cdn31.top/p/z5uD92P1zfVW3mdQOFtjV8XCognIJiPJjABAbqk45h8YRb14RCIVh3k6IrmvMM2rM-CDK_b-GQzSgxSdWfRO7Q.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "f47330643ae134ca204bf6b2481fec47",
+                "streamUrl": "https://ravok.buzz/cdn/hls/43c0be8511af70ff24298d69f6715df2/master.m3u8?md5=YOvgODLOGcw-zSguq7C9wA&expires=1792167349",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/43c0be8511af70ff24298d69f6715df2/master.m3u8?md5=YOvgODLOGcw-zSguq7C9wA&expires=1792167349",
+                "videoSource": "https://ravok.buzz/cdn/hls/43c0be8511af70ff24298d69f6715df2/master.m3u8?md5=YOvgODLOGcw-zSguq7C9wA&expires=1792167349",
+                "link": "https://ravok.buzz/cdn/hls/43c0be8511af70ff24298d69f6715df2/master.m3u8?md5=YOvgODLOGcw-zSguq7C9wA&expires=1792167349",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/z5uD92P1zfVW3mdQOFtjV8XCognIJiPJjABAbqk45h8YRb14RCIVh3k6IrmvMM2rM-CDK_b-GQzSgxSdWfRO7Q.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "WuV2dVYvs"
+        }
+      },
+      "fetched_at": "2026-10-16T14:15:59Z"
+    },
+    {
+      "id": "episode/bye-bye-earth-1x9",
+      "episode_id": "episode/bye-bye-earth-1x9",
+      "title": "Departure at the Red Hour",
+      "episode_name": "Departure at the Red Hour",
+      "episode_number": 9,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/13417/09.webp",
+      "abyssid": "8221",
+      "abyssId": "8221",
+      "playxid": "9185f3ec501c674c7c788464a36e7fb3",
+      "playXID": "9185f3ec501c674c7c788464a36e7fb3",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "8221",
+        "playXID": "9185f3ec501c674c7c788464a36e7fb3",
+        "streamId": "8221",
+        "dubPlayerSrc": "/dub-player/t/8221/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9185f3ec501c674c7c788464a36e7fb3&abyssId=8221"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "8221",
+        "playXID": "9185f3ec501c674c7c788464a36e7fb3",
+        "streamId": "8221",
+        "dubPlayerSrc": "/dub-player/t/8221/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9185f3ec501c674c7c788464a36e7fb3&abyssId=8221"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/9185f3ec501c674c7c788464a36e7fb3",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/9185f3ec501c674c7c788464a36e7fb3"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "8221",
+        "abyssId": "8221",
+        "playXID": "9185f3ec501c674c7c788464a36e7fb3",
+        "title": "Bye Bye Earth",
+        "season": 1,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "NnSb2zeuj"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "1Ru0CVtOI"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "272iFXPfA"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "jH-Levf63"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "MvbbGyScB"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/8e772d7a2da65c50ae1c37ef19b23f38/master.m3u8?md5=RM1jfLopWjwDmbV5nbUszQ&expires=1792167349",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/8e772d7a2da65c50ae1c37ef19b23f38/master.m3u8?md5=RM1jfLopWjwDmbV5nbUszQ&expires=1792167349",
+            "videoSource": "https://ravok.buzz/cdn/hls/8e772d7a2da65c50ae1c37ef19b23f38/master.m3u8?md5=RM1jfLopWjwDmbV5nbUszQ&expires=1792167349",
+            "videoImage": "https://as-cdn29.top/p/Hovxp59-3V6SKT9BViI2MVwWgX-BEXQmYZdyjcn4hht23jGNhtBKQKvpK2CVodMB-lkNXK8XbrU4SDgi8D_iAQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "9185f3ec501c674c7c788464a36e7fb3",
+                "streamUrl": "https://ravok.buzz/cdn/hls/8e772d7a2da65c50ae1c37ef19b23f38/master.m3u8?md5=RM1jfLopWjwDmbV5nbUszQ&expires=1792167349",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/8e772d7a2da65c50ae1c37ef19b23f38/master.m3u8?md5=RM1jfLopWjwDmbV5nbUszQ&expires=1792167349",
+                "videoSource": "https://ravok.buzz/cdn/hls/8e772d7a2da65c50ae1c37ef19b23f38/master.m3u8?md5=RM1jfLopWjwDmbV5nbUszQ&expires=1792167349",
+                "link": "https://ravok.buzz/cdn/hls/8e772d7a2da65c50ae1c37ef19b23f38/master.m3u8?md5=RM1jfLopWjwDmbV5nbUszQ&expires=1792167349",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/Hovxp59-3V6SKT9BViI2MVwWgX-BEXQmYZdyjcn4hht23jGNhtBKQKvpK2CVodMB-lkNXK8XbrU4SDgi8D_iAQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "NnSb2zeuj"
+        }
+      },
+      "fetched_at": "2026-10-16T14:15:59Z"
+    },
+    {
+      "id": "episode/bye-bye-earth-1x10",
+      "episode_id": "episode/bye-bye-earth-1x10",
+      "title": "Departure at the Red Hour",
+      "episode_name": "Departure at the Red Hour",
+      "episode_number": 10,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/13417/10.webp",
+      "abyssid": "8222",
+      "abyssId": "8222",
+      "playxid": "931af583573227f0220bc568c65ce104",
+      "playXID": "931af583573227f0220bc568c65ce104",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "8222",
+        "playXID": "931af583573227f0220bc568c65ce104",
+        "streamId": "8222",
+        "dubPlayerSrc": "/dub-player/t/8222/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=931af583573227f0220bc568c65ce104&abyssId=8222"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "8222",
+        "playXID": "931af583573227f0220bc568c65ce104",
+        "streamId": "8222",
+        "dubPlayerSrc": "/dub-player/t/8222/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=931af583573227f0220bc568c65ce104&abyssId=8222"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/931af583573227f0220bc568c65ce104",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/931af583573227f0220bc568c65ce104"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "8222",
+        "abyssId": "8222",
+        "playXID": "931af583573227f0220bc568c65ce104",
+        "title": "Bye Bye Earth",
+        "season": 1,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "QQQr5bPZN"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "cIkFkKmiWG"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "Plb1V6U9v"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "2SRUGMJAC"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "mB-E7tLLM"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/3d063231f14d3a7e4bd0dc15b356e77f/master.m3u8?md5=PW-jOKPUP_YkiC5INV96pQ&expires=1792167350",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/3d063231f14d3a7e4bd0dc15b356e77f/master.m3u8?md5=PW-jOKPUP_YkiC5INV96pQ&expires=1792167350",
+            "videoSource": "https://ravok.buzz/cdn/hls/3d063231f14d3a7e4bd0dc15b356e77f/master.m3u8?md5=PW-jOKPUP_YkiC5INV96pQ&expires=1792167350",
+            "videoImage": "https://as-cdn27.top/p/4YKBgMDxbNYkipk3e0gBQQa2TM9w6UrhZzjeQpWslDZHNKiHyy0btc3iTk6ImhJKmWvSId08xLMVWWdwA0k2fQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "931af583573227f0220bc568c65ce104",
+                "streamUrl": "https://ravok.buzz/cdn/hls/3d063231f14d3a7e4bd0dc15b356e77f/master.m3u8?md5=PW-jOKPUP_YkiC5INV96pQ&expires=1792167350",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/3d063231f14d3a7e4bd0dc15b356e77f/master.m3u8?md5=PW-jOKPUP_YkiC5INV96pQ&expires=1792167350",
+                "videoSource": "https://ravok.buzz/cdn/hls/3d063231f14d3a7e4bd0dc15b356e77f/master.m3u8?md5=PW-jOKPUP_YkiC5INV96pQ&expires=1792167350",
+                "link": "https://ravok.buzz/cdn/hls/3d063231f14d3a7e4bd0dc15b356e77f/master.m3u8?md5=PW-jOKPUP_YkiC5INV96pQ&expires=1792167350",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/4YKBgMDxbNYkipk3e0gBQQa2TM9w6UrhZzjeQpWslDZHNKiHyy0btc3iTk6ImhJKmWvSId08xLMVWWdwA0k2fQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "QQQr5bPZN"
+        }
+      },
+      "fetched_at": "2026-10-16T14:16:00Z"
+    },
+    {
+      "id": "episode/bye-bye-earth-2x1",
+      "episode_id": "episode/bye-bye-earth-2x1",
+      "title": "Bye Bye Earth 2x1",
+      "episode_name": "Bye Bye Earth 2x1",
+      "episode_number": 1,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/image/330/2/1.webp",
+      "abyssid": "15457",
+      "abyssId": "15457",
+      "playxid": "d8c33083ef391fb58934b7745d71e8ad",
+      "playXID": "d8c33083ef391fb58934b7745d71e8ad",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15457",
+        "playXID": "d8c33083ef391fb58934b7745d71e8ad",
+        "streamId": "15457",
+        "dubPlayerSrc": "/dub-player/t/15457/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d8c33083ef391fb58934b7745d71e8ad&abyssId=15457"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15457",
+        "playXID": "d8c33083ef391fb58934b7745d71e8ad",
+        "streamId": "15457",
+        "dubPlayerSrc": "/dub-player/t/15457/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d8c33083ef391fb58934b7745d71e8ad&abyssId=15457"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/d8c33083ef391fb58934b7745d71e8ad",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/d8c33083ef391fb58934b7745d71e8ad"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15457",
+        "abyssId": "15457",
+        "playXID": "d8c33083ef391fb58934b7745d71e8ad",
+        "title": "Bye Bye Earth",
+        "season": 2,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "InH73RWDb"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "j7oX3rO6l"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "h1YoXEFZd"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "t1xVxjvrl"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "7GC3nPXiJ"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/d4a6cb425b48a6f410cc991394b0cc02/master.m3u8?md5=lJwqcFcMmqcHglO1ZKxexA&expires=1792167351",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/d4a6cb425b48a6f410cc991394b0cc02/master.m3u8?md5=lJwqcFcMmqcHglO1ZKxexA&expires=1792167351",
+            "videoSource": "https://ravok.buzz/cdn/hls/d4a6cb425b48a6f410cc991394b0cc02/master.m3u8?md5=lJwqcFcMmqcHglO1ZKxexA&expires=1792167351",
+            "videoImage": "https://as-cdn29.top/p/1CyEIahafR8dd16pvFXwHp44iz3WPm64V2ZwLpV95DEoZrTKu52s9_MtaLKYRWzdcyCSbFidvyzPLOyz2rfUiw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "d8c33083ef391fb58934b7745d71e8ad",
+                "streamUrl": "https://ravok.buzz/cdn/hls/d4a6cb425b48a6f410cc991394b0cc02/master.m3u8?md5=lJwqcFcMmqcHglO1ZKxexA&expires=1792167351",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/d4a6cb425b48a6f410cc991394b0cc02/master.m3u8?md5=lJwqcFcMmqcHglO1ZKxexA&expires=1792167351",
+                "videoSource": "https://ravok.buzz/cdn/hls/d4a6cb425b48a6f410cc991394b0cc02/master.m3u8?md5=lJwqcFcMmqcHglO1ZKxexA&expires=1792167351",
+                "link": "https://ravok.buzz/cdn/hls/d4a6cb425b48a6f410cc991394b0cc02/master.m3u8?md5=lJwqcFcMmqcHglO1ZKxexA&expires=1792167351",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/1CyEIahafR8dd16pvFXwHp44iz3WPm64V2ZwLpV95DEoZrTKu52s9_MtaLKYRWzdcyCSbFidvyzPLOyz2rfUiw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "InH73RWDb"
+        }
+      },
+      "fetched_at": "2026-10-16T14:16:00Z"
+    },
+    {
+      "id": "episode/bye-bye-earth-2x2",
+      "episode_id": "episode/bye-bye-earth-2x2",
+      "title": "Bye Bye Earth 2x1",
+      "episode_name": "Bye Bye Earth 2x1",
+      "episode_number": 2,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/image/330/2/2.webp",
+      "abyssid": "15500",
+      "abyssId": "15500",
+      "playxid": "2d661a763280f48803f3c9ba8ba0e00b",
+      "playXID": "2d661a763280f48803f3c9ba8ba0e00b",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15500",
+        "playXID": "2d661a763280f48803f3c9ba8ba0e00b",
+        "streamId": "15500",
+        "dubPlayerSrc": "/dub-player/t/15500/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2d661a763280f48803f3c9ba8ba0e00b&abyssId=15500"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15500",
+        "playXID": "2d661a763280f48803f3c9ba8ba0e00b",
+        "streamId": "15500",
+        "dubPlayerSrc": "/dub-player/t/15500/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2d661a763280f48803f3c9ba8ba0e00b&abyssId=15500"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/2d661a763280f48803f3c9ba8ba0e00b",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/2d661a763280f48803f3c9ba8ba0e00b"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15500",
+        "abyssId": "15500",
+        "playXID": "2d661a763280f48803f3c9ba8ba0e00b",
+        "title": "Bye Bye Earth",
+        "season": 2,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "5T3GXamvx"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "zeICBixhd"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "H48VQOB6i"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "IE2Ax_lA2"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "0IzBOqSaZ"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/3a202194e5ea123da1836df32cf48ac3/master.m3u8?md5=voMZJIuNoLwoiiyRsY9h6Q&expires=1792167351",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/3a202194e5ea123da1836df32cf48ac3/master.m3u8?md5=voMZJIuNoLwoiiyRsY9h6Q&expires=1792167351",
+            "videoSource": "https://ravok.buzz/cdn/hls/3a202194e5ea123da1836df32cf48ac3/master.m3u8?md5=voMZJIuNoLwoiiyRsY9h6Q&expires=1792167351",
+            "videoImage": "https://as-cdn27.top/p/15zNhopnxLfZbVgF_XGXzofLlmqRnh6p3VvabFUVnyW8XDhrGtcZHcNk6KK0VGEMPp81Gpxc5mnPQDPSIi7mFQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "2d661a763280f48803f3c9ba8ba0e00b",
+                "streamUrl": "https://ravok.buzz/cdn/hls/3a202194e5ea123da1836df32cf48ac3/master.m3u8?md5=voMZJIuNoLwoiiyRsY9h6Q&expires=1792167351",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/3a202194e5ea123da1836df32cf48ac3/master.m3u8?md5=voMZJIuNoLwoiiyRsY9h6Q&expires=1792167351",
+                "videoSource": "https://ravok.buzz/cdn/hls/3a202194e5ea123da1836df32cf48ac3/master.m3u8?md5=voMZJIuNoLwoiiyRsY9h6Q&expires=1792167351",
+                "link": "https://ravok.buzz/cdn/hls/3a202194e5ea123da1836df32cf48ac3/master.m3u8?md5=voMZJIuNoLwoiiyRsY9h6Q&expires=1792167351",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/15zNhopnxLfZbVgF_XGXzofLlmqRnh6p3VvabFUVnyW8XDhrGtcZHcNk6KK0VGEMPp81Gpxc5mnPQDPSIi7mFQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "5T3GXamvx"
+        }
+      },
+      "fetched_at": "2026-10-16T14:16:01Z"
+    },
+    {
+      "id": "episode/bye-bye-earth-2x4",
+      "episode_id": "episode/bye-bye-earth-2x4",
+      "title": "Bye Bye Earth 2x1",
+      "episode_name": "Bye Bye Earth 2x1",
+      "episode_number": 4,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/image/330/2/4.webp",
+      "abyssid": "15547",
+      "abyssId": "15547",
+      "playxid": "9bed9658634281e6128aa6f2979a7944",
+      "playXID": "9bed9658634281e6128aa6f2979a7944",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15547",
+        "playXID": "9bed9658634281e6128aa6f2979a7944",
+        "streamId": "15547",
+        "dubPlayerSrc": "/dub-player/t/15547/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9bed9658634281e6128aa6f2979a7944&abyssId=15547"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15547",
+        "playXID": "9bed9658634281e6128aa6f2979a7944",
+        "streamId": "15547",
+        "dubPlayerSrc": "/dub-player/t/15547/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9bed9658634281e6128aa6f2979a7944&abyssId=15547"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/9bed9658634281e6128aa6f2979a7944",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/9bed9658634281e6128aa6f2979a7944"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15547",
+        "abyssId": "15547",
+        "playXID": "9bed9658634281e6128aa6f2979a7944",
+        "title": "Bye Bye Earth",
+        "season": 2,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "ef86FTjOg"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "oOHyiC5bqu"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "gQwIY35le"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "uMnY9Wn3s"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "W-P0ELZU9"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/e966a5776971d85830baf5fb049315d5/master.m3u8?md5=7sqwJosuiA7twyRprNJ1hg&expires=1792167352",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/e966a5776971d85830baf5fb049315d5/master.m3u8?md5=7sqwJosuiA7twyRprNJ1hg&expires=1792167352",
+            "videoSource": "https://ravok.buzz/cdn/hls/e966a5776971d85830baf5fb049315d5/master.m3u8?md5=7sqwJosuiA7twyRprNJ1hg&expires=1792167352",
+            "videoImage": "https://as-cdn29.top/p/65qTLl1_hrV55tQSzXhtks-YERyB2VVeLtg5zRt4NuJ0a8xUEzrg_XwHWzY8b_W0XJmiSqo45-QpNLEmhBlNEA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "9bed9658634281e6128aa6f2979a7944",
+                "streamUrl": "https://ravok.buzz/cdn/hls/e966a5776971d85830baf5fb049315d5/master.m3u8?md5=7sqwJosuiA7twyRprNJ1hg&expires=1792167352",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/e966a5776971d85830baf5fb049315d5/master.m3u8?md5=7sqwJosuiA7twyRprNJ1hg&expires=1792167352",
+                "videoSource": "https://ravok.buzz/cdn/hls/e966a5776971d85830baf5fb049315d5/master.m3u8?md5=7sqwJosuiA7twyRprNJ1hg&expires=1792167352",
+                "link": "https://ravok.buzz/cdn/hls/e966a5776971d85830baf5fb049315d5/master.m3u8?md5=7sqwJosuiA7twyRprNJ1hg&expires=1792167352",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/65qTLl1_hrV55tQSzXhtks-YERyB2VVeLtg5zRt4NuJ0a8xUEzrg_XwHWzY8b_W0XJmiSqo45-QpNLEmhBlNEA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "ef86FTjOg"
+        }
+      },
+      "fetched_at": "2026-10-16T14:16:02Z"
+    },
+    {
+      "id": "episode/bye-bye-earth-2x3",
+      "episode_id": "episode/bye-bye-earth-2x3",
+      "title": "Bye Bye Earth 2x1",
+      "episode_name": "Bye Bye Earth 2x1",
+      "episode_number": 3,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/image/330/2/3.webp",
+      "abyssid": "15528",
+      "abyssId": "15528",
+      "playxid": "460191c72f67e90150a093b4585e7eb4",
+      "playXID": "460191c72f67e90150a093b4585e7eb4",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15528",
+        "playXID": "460191c72f67e90150a093b4585e7eb4",
+        "streamId": "15528",
+        "dubPlayerSrc": "/dub-player/t/15528/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=460191c72f67e90150a093b4585e7eb4&abyssId=15528"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15528",
+        "playXID": "460191c72f67e90150a093b4585e7eb4",
+        "streamId": "15528",
+        "dubPlayerSrc": "/dub-player/t/15528/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=460191c72f67e90150a093b4585e7eb4&abyssId=15528"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/460191c72f67e90150a093b4585e7eb4",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/460191c72f67e90150a093b4585e7eb4"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15528",
+        "abyssId": "15528",
+        "playXID": "460191c72f67e90150a093b4585e7eb4",
+        "title": "Bye Bye Earth",
+        "season": 2,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "oNCPwlDsH"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "62KZ8G_Z5"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "UMkmVLKkK"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "EVAveTa06"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "P2RrjBYhd"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/f1f09e226dde38e0c52f44b457b22e9b/master.m3u8?md5=ZtsvLSZk_M2T1qI7Sa1N8A&expires=1792167352",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/f1f09e226dde38e0c52f44b457b22e9b/master.m3u8?md5=ZtsvLSZk_M2T1qI7Sa1N8A&expires=1792167352",
+            "videoSource": "https://ravok.buzz/cdn/hls/f1f09e226dde38e0c52f44b457b22e9b/master.m3u8?md5=ZtsvLSZk_M2T1qI7Sa1N8A&expires=1792167352",
+            "videoImage": "https://as-cdn27.top/p/oOnzjOW7nM0m74fSsJgydRDE0jeb1q3hoNwdqo1_W0sEfuo5cZn199WwauhjP8USWwxObnGqQ9wBPfRYMibbmg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "460191c72f67e90150a093b4585e7eb4",
+                "streamUrl": "https://ravok.buzz/cdn/hls/f1f09e226dde38e0c52f44b457b22e9b/master.m3u8?md5=ZtsvLSZk_M2T1qI7Sa1N8A&expires=1792167352",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/f1f09e226dde38e0c52f44b457b22e9b/master.m3u8?md5=ZtsvLSZk_M2T1qI7Sa1N8A&expires=1792167352",
+                "videoSource": "https://ravok.buzz/cdn/hls/f1f09e226dde38e0c52f44b457b22e9b/master.m3u8?md5=ZtsvLSZk_M2T1qI7Sa1N8A&expires=1792167352",
+                "link": "https://ravok.buzz/cdn/hls/f1f09e226dde38e0c52f44b457b22e9b/master.m3u8?md5=ZtsvLSZk_M2T1qI7Sa1N8A&expires=1792167352",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/oOnzjOW7nM0m74fSsJgydRDE0jeb1q3hoNwdqo1_W0sEfuo5cZn199WwauhjP8USWwxObnGqQ9wBPfRYMibbmg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "oNCPwlDsH"
+        }
+      },
+      "fetched_at": "2026-10-16T14:16:02Z"
+    },
+    {
+      "id": "episode/bye-bye-earth-2x5",
+      "episode_id": "episode/bye-bye-earth-2x5",
+      "title": "Bye Bye Earth 2x1",
+      "episode_name": "Bye Bye Earth 2x1",
+      "episode_number": 5,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/image/330/2/5.webp",
+      "abyssid": "15682",
+      "abyssId": "15682",
+      "playxid": "4b459ea1a5917be436df5f0bd5b3c4ad",
+      "playXID": "4b459ea1a5917be436df5f0bd5b3c4ad",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15682",
+        "playXID": "4b459ea1a5917be436df5f0bd5b3c4ad",
+        "streamId": "15682",
+        "dubPlayerSrc": "/dub-player/t/15682/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=4b459ea1a5917be436df5f0bd5b3c4ad&abyssId=15682"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15682",
+        "playXID": "4b459ea1a5917be436df5f0bd5b3c4ad",
+        "streamId": "15682",
+        "dubPlayerSrc": "/dub-player/t/15682/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=4b459ea1a5917be436df5f0bd5b3c4ad&abyssId=15682"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/4b459ea1a5917be436df5f0bd5b3c4ad",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/4b459ea1a5917be436df5f0bd5b3c4ad"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15682",
+        "abyssId": "15682",
+        "playXID": "4b459ea1a5917be436df5f0bd5b3c4ad",
+        "title": "Bye Bye Earth",
+        "season": 2,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "i6Btl3iufh"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "gbFwS1A2C"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "jcggFibMV"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "jbM0eTKuZ"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "mQTPS-nN4"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/fb6d2df97660ca475ac13bf849cf8377/master.m3u8?md5=ExgyiwXywxkA2MKmCPlbYQ&expires=1792167352",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/fb6d2df97660ca475ac13bf849cf8377/master.m3u8?md5=ExgyiwXywxkA2MKmCPlbYQ&expires=1792167352",
+            "videoSource": "https://ravok.buzz/cdn/hls/fb6d2df97660ca475ac13bf849cf8377/master.m3u8?md5=ExgyiwXywxkA2MKmCPlbYQ&expires=1792167352",
+            "videoImage": "https://as-cdn30.top/p/l32SXC17lKNekCPC1fZjXiks6KXrvhoZDpxHvX2VDIVtVBde0ygWvF6ENyAoCWdjCuM1L6yTJbCoaI-JJ39phg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "4b459ea1a5917be436df5f0bd5b3c4ad",
+                "streamUrl": "https://ravok.buzz/cdn/hls/fb6d2df97660ca475ac13bf849cf8377/master.m3u8?md5=ExgyiwXywxkA2MKmCPlbYQ&expires=1792167352",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/fb6d2df97660ca475ac13bf849cf8377/master.m3u8?md5=ExgyiwXywxkA2MKmCPlbYQ&expires=1792167352",
+                "videoSource": "https://ravok.buzz/cdn/hls/fb6d2df97660ca475ac13bf849cf8377/master.m3u8?md5=ExgyiwXywxkA2MKmCPlbYQ&expires=1792167352",
+                "link": "https://ravok.buzz/cdn/hls/fb6d2df97660ca475ac13bf849cf8377/master.m3u8?md5=ExgyiwXywxkA2MKmCPlbYQ&expires=1792167352",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/l32SXC17lKNekCPC1fZjXiks6KXrvhoZDpxHvX2VDIVtVBde0ygWvF6ENyAoCWdjCuM1L6yTJbCoaI-JJ39phg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "i6Btl3iufh"
+        }
+      },
+      "fetched_at": "2026-10-16T14:16:02Z"
+    },
+    {
+      "id": "episode/bye-bye-earth-2x6",
+      "episode_id": "episode/bye-bye-earth-2x6",
+      "title": "Bye Bye Earth 2x1",
+      "episode_name": "Bye Bye Earth 2x1",
+      "episode_number": 6,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/image/330/2/6.webp",
+      "abyssid": "15699",
+      "abyssId": "15699",
+      "playxid": "46994a3cd8d943d03b44b8fc9792d435",
+      "playXID": "46994a3cd8d943d03b44b8fc9792d435",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15699",
+        "playXID": "46994a3cd8d943d03b44b8fc9792d435",
+        "streamId": "15699",
+        "dubPlayerSrc": "/dub-player/t/15699/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=46994a3cd8d943d03b44b8fc9792d435&abyssId=15699"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15699",
+        "playXID": "46994a3cd8d943d03b44b8fc9792d435",
+        "streamId": "15699",
+        "dubPlayerSrc": "/dub-player/t/15699/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=46994a3cd8d943d03b44b8fc9792d435&abyssId=15699"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/46994a3cd8d943d03b44b8fc9792d435",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/46994a3cd8d943d03b44b8fc9792d435"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15699",
+        "abyssId": "15699",
+        "playXID": "46994a3cd8d943d03b44b8fc9792d435",
+        "title": "Bye Bye Earth",
+        "season": 2,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "ZOFAY_yfu"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "OjDPp21xB"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "81t_CSvIVn"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "YxDbJCKgM"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "xD8DuI4eR"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/4de2cf9b64e11272a42ee1d320b7e9f6/master.m3u8?md5=lsFOftyvf8fm0IzhCsXevg&expires=1792167352",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/4de2cf9b64e11272a42ee1d320b7e9f6/master.m3u8?md5=lsFOftyvf8fm0IzhCsXevg&expires=1792167352",
+            "videoSource": "https://ravok.buzz/cdn/hls/4de2cf9b64e11272a42ee1d320b7e9f6/master.m3u8?md5=lsFOftyvf8fm0IzhCsXevg&expires=1792167352",
+            "videoImage": "https://as-cdn31.top/p/mL7vUhgLRg_Nn8s2NsOJum0xsVwZ9QeXSTqSaQhV3e4JFSfARpqhzhOrC3ukqey5N1ZABHqc_YgiNqaqvpad9w.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "46994a3cd8d943d03b44b8fc9792d435",
+                "streamUrl": "https://ravok.buzz/cdn/hls/4de2cf9b64e11272a42ee1d320b7e9f6/master.m3u8?md5=lsFOftyvf8fm0IzhCsXevg&expires=1792167352",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/4de2cf9b64e11272a42ee1d320b7e9f6/master.m3u8?md5=lsFOftyvf8fm0IzhCsXevg&expires=1792167352",
+                "videoSource": "https://ravok.buzz/cdn/hls/4de2cf9b64e11272a42ee1d320b7e9f6/master.m3u8?md5=lsFOftyvf8fm0IzhCsXevg&expires=1792167352",
+                "link": "https://ravok.buzz/cdn/hls/4de2cf9b64e11272a42ee1d320b7e9f6/master.m3u8?md5=lsFOftyvf8fm0IzhCsXevg&expires=1792167352",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/mL7vUhgLRg_Nn8s2NsOJum0xsVwZ9QeXSTqSaQhV3e4JFSfARpqhzhOrC3ukqey5N1ZABHqc_YgiNqaqvpad9w.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "ZOFAY_yfu"
+        }
+      },
+      "fetched_at": "2026-10-16T14:16:02Z"
+    },
+    {
+      "id": "episode/bye-bye-earth-2x7",
+      "episode_id": "episode/bye-bye-earth-2x7",
+      "title": "Bye Bye Earth 2x1",
+      "episode_name": "Bye Bye Earth 2x1",
+      "episode_number": 7,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/image/330/2/7.webp",
+      "abyssid": "15754",
+      "abyssId": "15754",
+      "playxid": "c7499d9bd5b50edda0c648e455bc5bc1",
+      "playXID": "c7499d9bd5b50edda0c648e455bc5bc1",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15754",
+        "playXID": "c7499d9bd5b50edda0c648e455bc5bc1",
+        "streamId": "15754",
+        "dubPlayerSrc": "/dub-player/t/15754/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c7499d9bd5b50edda0c648e455bc5bc1&abyssId=15754"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15754",
+        "playXID": "c7499d9bd5b50edda0c648e455bc5bc1",
+        "streamId": "15754",
+        "dubPlayerSrc": "/dub-player/t/15754/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c7499d9bd5b50edda0c648e455bc5bc1&abyssId=15754"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/c7499d9bd5b50edda0c648e455bc5bc1",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/c7499d9bd5b50edda0c648e455bc5bc1"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15754",
+        "abyssId": "15754",
+        "playXID": "c7499d9bd5b50edda0c648e455bc5bc1",
+        "title": "Bye Bye Earth",
+        "season": 2,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "d32nIyc-u"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "LjCRcKZaw"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "D1sCYLL05"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "pqyuGFEQ8z"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "fcbzYv4Q1"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/d98a6df0315c7b1dbdcaa770e544283a/master.m3u8?md5=S5R7zIQo3nwtWEthWdWKvA&expires=1792167353",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/d98a6df0315c7b1dbdcaa770e544283a/master.m3u8?md5=S5R7zIQo3nwtWEthWdWKvA&expires=1792167353",
+            "videoSource": "https://ravok.buzz/cdn/hls/d98a6df0315c7b1dbdcaa770e544283a/master.m3u8?md5=S5R7zIQo3nwtWEthWdWKvA&expires=1792167353",
+            "videoImage": "https://as-cdn27.top/p/FH-yOPdkGKoYC3C1l4NFlbIOlrD26a47yFUXsUvi9Qf6HvehfJbP3JyONCuaOBad4jFyjU3CMAn_aqd5ly8hIw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "c7499d9bd5b50edda0c648e455bc5bc1",
+                "streamUrl": "https://ravok.buzz/cdn/hls/d98a6df0315c7b1dbdcaa770e544283a/master.m3u8?md5=S5R7zIQo3nwtWEthWdWKvA&expires=1792167353",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/d98a6df0315c7b1dbdcaa770e544283a/master.m3u8?md5=S5R7zIQo3nwtWEthWdWKvA&expires=1792167353",
+                "videoSource": "https://ravok.buzz/cdn/hls/d98a6df0315c7b1dbdcaa770e544283a/master.m3u8?md5=S5R7zIQo3nwtWEthWdWKvA&expires=1792167353",
+                "link": "https://ravok.buzz/cdn/hls/d98a6df0315c7b1dbdcaa770e544283a/master.m3u8?md5=S5R7zIQo3nwtWEthWdWKvA&expires=1792167353",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/FH-yOPdkGKoYC3C1l4NFlbIOlrD26a47yFUXsUvi9Qf6HvehfJbP3JyONCuaOBad4jFyjU3CMAn_aqd5ly8hIw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "d32nIyc-u"
+        }
+      },
+      "fetched_at": "2026-10-16T14:16:03Z"
+    },
+    {
+      "id": "episode/bye-bye-earth-2x8",
+      "episode_id": "episode/bye-bye-earth-2x8",
+      "title": "Bye Bye Earth 2x1",
+      "episode_name": "Bye Bye Earth 2x1",
+      "episode_number": 8,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/image/330/2/8.webp",
+      "abyssid": "15776",
+      "abyssId": "15776",
+      "playxid": "b53da6bd516b0758856e71a272601ac5",
+      "playXID": "b53da6bd516b0758856e71a272601ac5",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15776",
+        "playXID": "b53da6bd516b0758856e71a272601ac5",
+        "streamId": "15776",
+        "dubPlayerSrc": "/dub-player/t/15776/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b53da6bd516b0758856e71a272601ac5&abyssId=15776"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15776",
+        "playXID": "b53da6bd516b0758856e71a272601ac5",
+        "streamId": "15776",
+        "dubPlayerSrc": "/dub-player/t/15776/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b53da6bd516b0758856e71a272601ac5&abyssId=15776"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/b53da6bd516b0758856e71a272601ac5",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/b53da6bd516b0758856e71a272601ac5"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15776",
+        "abyssId": "15776",
+        "playXID": "b53da6bd516b0758856e71a272601ac5",
+        "title": "Bye Bye Earth",
+        "season": 2,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "dtdYAj3op"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "GMlBpJHVa"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "UEVk-h3EH"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "RGnBcKpxD"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "WYjspYUj5s"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/243e15fcc6142d6c90be8892e636d33e/master.m3u8?md5=ViJnGg5q0eIjl6L9PmNzsQ&expires=1792167354",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/243e15fcc6142d6c90be8892e636d33e/master.m3u8?md5=ViJnGg5q0eIjl6L9PmNzsQ&expires=1792167354",
+            "videoSource": "https://ravok.buzz/cdn/hls/243e15fcc6142d6c90be8892e636d33e/master.m3u8?md5=ViJnGg5q0eIjl6L9PmNzsQ&expires=1792167354",
+            "videoImage": "https://as-cdn27.top/p/soZ1HvSQ6HggGaoVQSnSXn-Day6W7gmsIRWNHi2sBJP_Yj9gwI0CK-ofRrYzecAqOT2suynLp99DgxqyS6gJMA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "b53da6bd516b0758856e71a272601ac5",
+                "streamUrl": "https://ravok.buzz/cdn/hls/243e15fcc6142d6c90be8892e636d33e/master.m3u8?md5=ViJnGg5q0eIjl6L9PmNzsQ&expires=1792167354",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/243e15fcc6142d6c90be8892e636d33e/master.m3u8?md5=ViJnGg5q0eIjl6L9PmNzsQ&expires=1792167354",
+                "videoSource": "https://ravok.buzz/cdn/hls/243e15fcc6142d6c90be8892e636d33e/master.m3u8?md5=ViJnGg5q0eIjl6L9PmNzsQ&expires=1792167354",
+                "link": "https://ravok.buzz/cdn/hls/243e15fcc6142d6c90be8892e636d33e/master.m3u8?md5=ViJnGg5q0eIjl6L9PmNzsQ&expires=1792167354",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/soZ1HvSQ6HggGaoVQSnSXn-Day6W7gmsIRWNHi2sBJP_Yj9gwI0CK-ofRrYzecAqOT2suynLp99DgxqyS6gJMA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "dtdYAj3op"
+        }
+      },
+      "fetched_at": "2026-10-16T14:16:03Z"
+    },
+    {
+      "id": "episode/bye-bye-earth-2x9",
+      "episode_id": "episode/bye-bye-earth-2x9",
+      "title": "Bye Bye Earth 2x1",
+      "episode_name": "Bye Bye Earth 2x1",
+      "episode_number": 9,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/image/330/2/9.webp",
+      "abyssid": "15822",
+      "abyssId": "15822",
+      "playxid": "a0b173044f2019316bebc411696e7d35",
+      "playXID": "a0b173044f2019316bebc411696e7d35",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15822",
+        "playXID": "a0b173044f2019316bebc411696e7d35",
+        "streamId": "15822",
+        "dubPlayerSrc": "/dub-player/t/15822/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a0b173044f2019316bebc411696e7d35&abyssId=15822"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15822",
+        "playXID": "a0b173044f2019316bebc411696e7d35",
+        "streamId": "15822",
+        "dubPlayerSrc": "/dub-player/t/15822/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a0b173044f2019316bebc411696e7d35&abyssId=15822"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/a0b173044f2019316bebc411696e7d35",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/a0b173044f2019316bebc411696e7d35"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15822",
+        "abyssId": "15822",
+        "playXID": "a0b173044f2019316bebc411696e7d35",
+        "title": "Bye Bye Earth",
+        "season": 2,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "1mFDdrwDs"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "LWmNMQ6hH"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "s0aosx6Oi"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "etmrcWOEP"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "zXH5yMjra"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/6b10e52ca3d713eeaa57b3fea3c8959e/master.m3u8?md5=JMScYgHZ7svYF51HLyIJHA&expires=1792167354",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/6b10e52ca3d713eeaa57b3fea3c8959e/master.m3u8?md5=JMScYgHZ7svYF51HLyIJHA&expires=1792167354",
+            "videoSource": "https://ravok.buzz/cdn/hls/6b10e52ca3d713eeaa57b3fea3c8959e/master.m3u8?md5=JMScYgHZ7svYF51HLyIJHA&expires=1792167354",
+            "videoImage": "https://as-cdn29.top/p/ci27a0FjXXxkDG-jZBZdTx9eQ2wPVuGYsgiptdyT0i-79bCnYuz4QqxMT0l-e9ucgqkpC4tBcDZ3YrOTZpsGaA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "a0b173044f2019316bebc411696e7d35",
+                "streamUrl": "https://ravok.buzz/cdn/hls/6b10e52ca3d713eeaa57b3fea3c8959e/master.m3u8?md5=JMScYgHZ7svYF51HLyIJHA&expires=1792167354",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/6b10e52ca3d713eeaa57b3fea3c8959e/master.m3u8?md5=JMScYgHZ7svYF51HLyIJHA&expires=1792167354",
+                "videoSource": "https://ravok.buzz/cdn/hls/6b10e52ca3d713eeaa57b3fea3c8959e/master.m3u8?md5=JMScYgHZ7svYF51HLyIJHA&expires=1792167354",
+                "link": "https://ravok.buzz/cdn/hls/6b10e52ca3d713eeaa57b3fea3c8959e/master.m3u8?md5=JMScYgHZ7svYF51HLyIJHA&expires=1792167354",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/ci27a0FjXXxkDG-jZBZdTx9eQ2wPVuGYsgiptdyT0i-79bCnYuz4QqxMT0l-e9ucgqkpC4tBcDZ3YrOTZpsGaA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "1mFDdrwDs"
+        }
+      },
+      "fetched_at": "2026-10-16T14:16:04Z"
+    },
+    {
+      "id": "episode/bye-bye-earth-2x10",
+      "episode_id": "episode/bye-bye-earth-2x10",
+      "title": "Bye Bye Earth 2x1",
+      "episode_name": "Bye Bye Earth 2x1",
+      "episode_number": 10,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_330_s2e10.webp",
+      "abyssid": "15862",
+      "abyssId": "15862",
+      "playxid": "09ea221d3db11df1f369094ffb4bda7c",
+      "playXID": "09ea221d3db11df1f369094ffb4bda7c",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15862",
+        "playXID": "09ea221d3db11df1f369094ffb4bda7c",
+        "streamId": "15862",
+        "dubPlayerSrc": "/dub-player/t/15862/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=09ea221d3db11df1f369094ffb4bda7c&abyssId=15862"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15862",
+        "playXID": "09ea221d3db11df1f369094ffb4bda7c",
+        "streamId": "15862",
+        "dubPlayerSrc": "/dub-player/t/15862/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=09ea221d3db11df1f369094ffb4bda7c&abyssId=15862"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/09ea221d3db11df1f369094ffb4bda7c",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/09ea221d3db11df1f369094ffb4bda7c"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15862",
+        "abyssId": "15862",
+        "playXID": "09ea221d3db11df1f369094ffb4bda7c",
+        "title": "Bye Bye Earth",
+        "season": 2,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "WLZR8hVfR"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "TjMK1UMMK"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "eFdaq1i_3"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "siRwv9mNA"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "_GHZ5B2Vo"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/cc512965adb96e659bd74f43d33e9697/master.m3u8?md5=H9qANtxOO_Ghxg77WndNRQ&expires=1792167354",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/cc512965adb96e659bd74f43d33e9697/master.m3u8?md5=H9qANtxOO_Ghxg77WndNRQ&expires=1792167354",
+            "videoSource": "https://ravok.buzz/cdn/hls/cc512965adb96e659bd74f43d33e9697/master.m3u8?md5=H9qANtxOO_Ghxg77WndNRQ&expires=1792167354",
+            "videoImage": "https://as-cdn28.top/p/DUM5PlVbh1kGh6_fUW11UyzuPtlqGS0Y8QNjXLtutYsoP9VvHdvlrsyKBG5Tvtn81J46nOq9Kjor0PsN2eJXLQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "09ea221d3db11df1f369094ffb4bda7c",
+                "streamUrl": "https://ravok.buzz/cdn/hls/cc512965adb96e659bd74f43d33e9697/master.m3u8?md5=H9qANtxOO_Ghxg77WndNRQ&expires=1792167354",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/cc512965adb96e659bd74f43d33e9697/master.m3u8?md5=H9qANtxOO_Ghxg77WndNRQ&expires=1792167354",
+                "videoSource": "https://ravok.buzz/cdn/hls/cc512965adb96e659bd74f43d33e9697/master.m3u8?md5=H9qANtxOO_Ghxg77WndNRQ&expires=1792167354",
+                "link": "https://ravok.buzz/cdn/hls/cc512965adb96e659bd74f43d33e9697/master.m3u8?md5=H9qANtxOO_Ghxg77WndNRQ&expires=1792167354",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/DUM5PlVbh1kGh6_fUW11UyzuPtlqGS0Y8QNjXLtutYsoP9VvHdvlrsyKBG5Tvtn81J46nOq9Kjor0PsN2eJXLQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "WLZR8hVfR"
+        }
+      },
+      "fetched_at": "2026-10-16T14:16:04Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T14:15:55Z",
+  "updated_at": "2026-10-16T14:16:04Z"
+}

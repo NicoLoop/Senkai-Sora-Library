@@ -1,0 +1,1355 @@
+{
+  "id": "series/buddy-daddies",
+  "series_name": "Buddy Daddies",
+  "title": "Buddy Daddies",
+  "banner": "https://image.tmdb.org/t/p/w1280/bu3JtuP6kbRaaT5wpBpCUKOrhTY.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/200lUtWr0k0iaDfhuX0fFz8tETR.jpg",
+  "genra": [
+    "Action",
+    "Childcare",
+    "Comedy",
+    "Drama",
+    "Slice of Life"
+  ],
+  "genres": [
+    "Action",
+    "Childcare",
+    "Comedy",
+    "Drama",
+    "Slice of Life"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Japanese"
+  ],
+  "synopsis": "When two hit men take out a dangerous mobster, the last thing they expect is for him to have a four-year-old daughter - now an orphan. But when they decide to take custody of the child, their life turns upside down! Between a mission here and a shootout there, the two hired killers will have to find time to prepare nutritious meals, stimulate the child's intellectual growth, and take the little one to daycare!",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Buddy Daddies 1x1",
+          "id": "episode/buddy-daddies-1x1",
+          "image": "https://img.watchanimeworld.one/image/1415/1/1.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "Buddy Daddies 1x2",
+          "id": "episode/buddy-daddies-1x2",
+          "image": "https://img.watchanimeworld.one/image/1415/1/2.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "Buddy Daddies 1x3",
+          "id": "episode/buddy-daddies-1x3",
+          "image": "https://img.watchanimeworld.one/image/1415/1/3.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "Buddy Daddies 1x4",
+          "id": "episode/buddy-daddies-1x4",
+          "image": "https://img.watchanimeworld.one/image/1415/1/4.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "Buddy Daddies 1x5",
+          "id": "episode/buddy-daddies-1x5",
+          "image": "https://img.watchanimeworld.one/image/1415/1/5.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "Buddy Daddies 1x6",
+          "id": "episode/buddy-daddies-1x6",
+          "image": "https://img.watchanimeworld.one/image/1415/1/6.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "Buddy Daddies 1x7",
+          "id": "episode/buddy-daddies-1x7",
+          "image": "https://img.watchanimeworld.one/image/1415/1/7.webp",
+          "season": 1
+        },
+        {
+          "episode": 8,
+          "title": "Buddy Daddies 1x8",
+          "id": "episode/buddy-daddies-1x8",
+          "image": "https://img.watchanimeworld.one/image/1415/1/8.webp",
+          "season": 1
+        },
+        {
+          "episode": 9,
+          "title": "Buddy Daddies 1x9",
+          "id": "episode/buddy-daddies-1x9",
+          "image": "https://img.watchanimeworld.one/image/1415/1/9.webp",
+          "season": 1
+        },
+        {
+          "episode": 10,
+          "title": "Buddy Daddies 1x10",
+          "id": "episode/buddy-daddies-1x10",
+          "image": "https://img.watchanimeworld.one/image/1415/1/10.webp",
+          "season": 1
+        },
+        {
+          "episode": 11,
+          "title": "Buddy Daddies 1x11",
+          "id": "episode/buddy-daddies-1x11",
+          "image": "https://img.watchanimeworld.one/image/1415/1/11.webp",
+          "season": 1
+        },
+        {
+          "episode": 12,
+          "title": "Buddy Daddies 1x12",
+          "id": "episode/buddy-daddies-1x12",
+          "image": "https://img.watchanimeworld.one/image/1415/1/12.webp",
+          "season": 1
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/buddy-daddies-1x3",
+      "episode_id": "episode/buddy-daddies-1x3",
+      "title": "Buddy Daddies 1x1",
+      "episode_name": "Buddy Daddies 1x1",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1415/1/3.webp",
+      "abyssid": "13617",
+      "abyssId": "13617",
+      "playxid": "a6640ad0aca7033809ffa7165c3040f9",
+      "playXID": "a6640ad0aca7033809ffa7165c3040f9",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13617",
+        "playXID": "a6640ad0aca7033809ffa7165c3040f9",
+        "streamId": "13617",
+        "dubPlayerSrc": "/dub-player/t/13617/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a6640ad0aca7033809ffa7165c3040f9&abyssId=13617"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13617",
+        "playXID": "a6640ad0aca7033809ffa7165c3040f9",
+        "streamId": "13617",
+        "dubPlayerSrc": "/dub-player/t/13617/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a6640ad0aca7033809ffa7165c3040f9&abyssId=13617"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/a6640ad0aca7033809ffa7165c3040f9",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/a6640ad0aca7033809ffa7165c3040f9"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13617",
+        "abyssId": "13617",
+        "playXID": "a6640ad0aca7033809ffa7165c3040f9",
+        "title": "Buddy Daddies",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "WYUC2_Ze1"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "69qfc8OEe"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "Z0nfHnjHl"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/ac350a7a2f93812ffdf9f2a2de6785d6/master.m3u8?md5=2Q4CbmAddp760-yeCP8D3Q&expires=1792166758",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/ac350a7a2f93812ffdf9f2a2de6785d6/master.m3u8?md5=2Q4CbmAddp760-yeCP8D3Q&expires=1792166758",
+            "videoSource": "https://ravok.buzz/cdn/hls/ac350a7a2f93812ffdf9f2a2de6785d6/master.m3u8?md5=2Q4CbmAddp760-yeCP8D3Q&expires=1792166758",
+            "videoImage": "https://as-cdn29.top/p/WHMyrc7yM4WhK3KIhEiDr_yWpT934mK10jKYsqRKe-8Bq-d0S_SQmKeYtJ57zaWn-3TXaLxNlNpbKeTzvIWB3A.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "a6640ad0aca7033809ffa7165c3040f9",
+                "streamUrl": "https://ravok.buzz/cdn/hls/ac350a7a2f93812ffdf9f2a2de6785d6/master.m3u8?md5=2Q4CbmAddp760-yeCP8D3Q&expires=1792166758",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/ac350a7a2f93812ffdf9f2a2de6785d6/master.m3u8?md5=2Q4CbmAddp760-yeCP8D3Q&expires=1792166758",
+                "videoSource": "https://ravok.buzz/cdn/hls/ac350a7a2f93812ffdf9f2a2de6785d6/master.m3u8?md5=2Q4CbmAddp760-yeCP8D3Q&expires=1792166758",
+                "link": "https://ravok.buzz/cdn/hls/ac350a7a2f93812ffdf9f2a2de6785d6/master.m3u8?md5=2Q4CbmAddp760-yeCP8D3Q&expires=1792166758",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/WHMyrc7yM4WhK3KIhEiDr_yWpT934mK10jKYsqRKe-8Bq-d0S_SQmKeYtJ57zaWn-3TXaLxNlNpbKeTzvIWB3A.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "WYUC2_Ze1"
+        }
+      },
+      "fetched_at": "2026-10-16T14:06:07Z"
+    },
+    {
+      "id": "episode/buddy-daddies-1x2",
+      "episode_id": "episode/buddy-daddies-1x2",
+      "title": "Buddy Daddies 1x1",
+      "episode_name": "Buddy Daddies 1x1",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1415/1/2.webp",
+      "abyssid": "13616",
+      "abyssId": "13616",
+      "playxid": "c0167d1ca6ea4be5f7907b98a20fc225",
+      "playXID": "c0167d1ca6ea4be5f7907b98a20fc225",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13616",
+        "playXID": "c0167d1ca6ea4be5f7907b98a20fc225",
+        "streamId": "13616",
+        "dubPlayerSrc": "/dub-player/t/13616/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c0167d1ca6ea4be5f7907b98a20fc225&abyssId=13616"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13616",
+        "playXID": "c0167d1ca6ea4be5f7907b98a20fc225",
+        "streamId": "13616",
+        "dubPlayerSrc": "/dub-player/t/13616/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c0167d1ca6ea4be5f7907b98a20fc225&abyssId=13616"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/c0167d1ca6ea4be5f7907b98a20fc225",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/c0167d1ca6ea4be5f7907b98a20fc225"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13616",
+        "abyssId": "13616",
+        "playXID": "c0167d1ca6ea4be5f7907b98a20fc225",
+        "title": "Buddy Daddies",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "2ApN9lgZl"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "z5Z-adKfv"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "r0Uq4pdoh"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/26b98628b762d0e94e96f54b0849bc3c/master.m3u8?md5=jKY-V_DGJSXbhwImewSABA&expires=1792166758",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/26b98628b762d0e94e96f54b0849bc3c/master.m3u8?md5=jKY-V_DGJSXbhwImewSABA&expires=1792166758",
+            "videoSource": "https://ravok.buzz/cdn/hls/26b98628b762d0e94e96f54b0849bc3c/master.m3u8?md5=jKY-V_DGJSXbhwImewSABA&expires=1792166758",
+            "videoImage": "https://as-cdn29.top/p/uffA4AVLDvLEWyHpDya7JtvkK6Q-VwtDHcM_nEQB5hnSYVZgl-eHa77MZjFpykFRF-c0aoRxKcW7FWfGf-Ds2g.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "c0167d1ca6ea4be5f7907b98a20fc225",
+                "streamUrl": "https://ravok.buzz/cdn/hls/26b98628b762d0e94e96f54b0849bc3c/master.m3u8?md5=jKY-V_DGJSXbhwImewSABA&expires=1792166758",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/26b98628b762d0e94e96f54b0849bc3c/master.m3u8?md5=jKY-V_DGJSXbhwImewSABA&expires=1792166758",
+                "videoSource": "https://ravok.buzz/cdn/hls/26b98628b762d0e94e96f54b0849bc3c/master.m3u8?md5=jKY-V_DGJSXbhwImewSABA&expires=1792166758",
+                "link": "https://ravok.buzz/cdn/hls/26b98628b762d0e94e96f54b0849bc3c/master.m3u8?md5=jKY-V_DGJSXbhwImewSABA&expires=1792166758",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/uffA4AVLDvLEWyHpDya7JtvkK6Q-VwtDHcM_nEQB5hnSYVZgl-eHa77MZjFpykFRF-c0aoRxKcW7FWfGf-Ds2g.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "2ApN9lgZl"
+        }
+      },
+      "fetched_at": "2026-10-16T14:06:07Z"
+    },
+    {
+      "id": "episode/buddy-daddies-1x5",
+      "episode_id": "episode/buddy-daddies-1x5",
+      "title": "Buddy Daddies 1x1",
+      "episode_name": "Buddy Daddies 1x1",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1415/1/5.webp",
+      "abyssid": "13619",
+      "abyssId": "13619",
+      "playxid": "3d3103fc27ffaea9fcbaebd91c8fff07",
+      "playXID": "3d3103fc27ffaea9fcbaebd91c8fff07",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13619",
+        "playXID": "3d3103fc27ffaea9fcbaebd91c8fff07",
+        "streamId": "13619",
+        "dubPlayerSrc": "/dub-player/t/13619/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=3d3103fc27ffaea9fcbaebd91c8fff07&abyssId=13619"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13619",
+        "playXID": "3d3103fc27ffaea9fcbaebd91c8fff07",
+        "streamId": "13619",
+        "dubPlayerSrc": "/dub-player/t/13619/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=3d3103fc27ffaea9fcbaebd91c8fff07&abyssId=13619"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/3d3103fc27ffaea9fcbaebd91c8fff07",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/3d3103fc27ffaea9fcbaebd91c8fff07"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13619",
+        "abyssId": "13619",
+        "playXID": "3d3103fc27ffaea9fcbaebd91c8fff07",
+        "title": "Buddy Daddies",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "YwEWkMW88"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "TY44BXANZ"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "FHGWlP9NR"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/2243733626b134b3f5ea8b54ca3fd9a2/master.m3u8?md5=LpdVJ88qkCFgWiqj0OCywg&expires=1792166758",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/2243733626b134b3f5ea8b54ca3fd9a2/master.m3u8?md5=LpdVJ88qkCFgWiqj0OCywg&expires=1792166758",
+            "videoSource": "https://ravok.buzz/cdn/hls/2243733626b134b3f5ea8b54ca3fd9a2/master.m3u8?md5=LpdVJ88qkCFgWiqj0OCywg&expires=1792166758",
+            "videoImage": "https://as-cdn30.top/p/XtWPfXHXSFArECAhSEWORH4sDg-_N9h297stssT2Jrph4tMTZXfrJI7WsTx4Gyeq_ywVUL9KmSGH9J1mtjygBw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "3d3103fc27ffaea9fcbaebd91c8fff07",
+                "streamUrl": "https://ravok.buzz/cdn/hls/2243733626b134b3f5ea8b54ca3fd9a2/master.m3u8?md5=LpdVJ88qkCFgWiqj0OCywg&expires=1792166758",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/2243733626b134b3f5ea8b54ca3fd9a2/master.m3u8?md5=LpdVJ88qkCFgWiqj0OCywg&expires=1792166758",
+                "videoSource": "https://ravok.buzz/cdn/hls/2243733626b134b3f5ea8b54ca3fd9a2/master.m3u8?md5=LpdVJ88qkCFgWiqj0OCywg&expires=1792166758",
+                "link": "https://ravok.buzz/cdn/hls/2243733626b134b3f5ea8b54ca3fd9a2/master.m3u8?md5=LpdVJ88qkCFgWiqj0OCywg&expires=1792166758",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/XtWPfXHXSFArECAhSEWORH4sDg-_N9h297stssT2Jrph4tMTZXfrJI7WsTx4Gyeq_ywVUL9KmSGH9J1mtjygBw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "YwEWkMW88"
+        }
+      },
+      "fetched_at": "2026-10-16T14:06:07Z"
+    },
+    {
+      "id": "episode/buddy-daddies-1x1",
+      "episode_id": "episode/buddy-daddies-1x1",
+      "title": "Buddy Daddies 1x1",
+      "episode_name": "Buddy Daddies 1x1",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1415/1/1.webp",
+      "abyssid": "13615",
+      "abyssId": "13615",
+      "playxid": "b977b532403e14d6681a00f78f95506e",
+      "playXID": "b977b532403e14d6681a00f78f95506e",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13615",
+        "playXID": "b977b532403e14d6681a00f78f95506e",
+        "streamId": "13615",
+        "dubPlayerSrc": "/dub-player/t/13615/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b977b532403e14d6681a00f78f95506e&abyssId=13615"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13615",
+        "playXID": "b977b532403e14d6681a00f78f95506e",
+        "streamId": "13615",
+        "dubPlayerSrc": "/dub-player/t/13615/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b977b532403e14d6681a00f78f95506e&abyssId=13615"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/b977b532403e14d6681a00f78f95506e",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/b977b532403e14d6681a00f78f95506e"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13615",
+        "abyssId": "13615",
+        "playXID": "b977b532403e14d6681a00f78f95506e",
+        "title": "Buddy Daddies",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "7F7RFUSn4"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "lNtYrHLzqC"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "3elH7eV-A"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/543032c8e7c150e0fe0da75572280b28/master.m3u8?md5=2DsP7JTlnAA3g25lrFj9Uw&expires=1792166758",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/543032c8e7c150e0fe0da75572280b28/master.m3u8?md5=2DsP7JTlnAA3g25lrFj9Uw&expires=1792166758",
+            "videoSource": "https://ravok.buzz/cdn/hls/543032c8e7c150e0fe0da75572280b28/master.m3u8?md5=2DsP7JTlnAA3g25lrFj9Uw&expires=1792166758",
+            "videoImage": "https://as-cdn28.top/p/TuJCN-3YG2abujQOcCfMqKcZUzVluN9aif7Y6XNy59YAMqgRNYhMRbzdis8G8qOC3ez-EHzabs3pfq1fAOwtBQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "b977b532403e14d6681a00f78f95506e",
+                "streamUrl": "https://ravok.buzz/cdn/hls/543032c8e7c150e0fe0da75572280b28/master.m3u8?md5=2DsP7JTlnAA3g25lrFj9Uw&expires=1792166758",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/543032c8e7c150e0fe0da75572280b28/master.m3u8?md5=2DsP7JTlnAA3g25lrFj9Uw&expires=1792166758",
+                "videoSource": "https://ravok.buzz/cdn/hls/543032c8e7c150e0fe0da75572280b28/master.m3u8?md5=2DsP7JTlnAA3g25lrFj9Uw&expires=1792166758",
+                "link": "https://ravok.buzz/cdn/hls/543032c8e7c150e0fe0da75572280b28/master.m3u8?md5=2DsP7JTlnAA3g25lrFj9Uw&expires=1792166758",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/TuJCN-3YG2abujQOcCfMqKcZUzVluN9aif7Y6XNy59YAMqgRNYhMRbzdis8G8qOC3ez-EHzabs3pfq1fAOwtBQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "7F7RFUSn4"
+        }
+      },
+      "fetched_at": "2026-10-16T14:06:08Z"
+    },
+    {
+      "id": "episode/buddy-daddies-1x4",
+      "episode_id": "episode/buddy-daddies-1x4",
+      "title": "Buddy Daddies 1x1",
+      "episode_name": "Buddy Daddies 1x1",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1415/1/4.webp",
+      "abyssid": "13618",
+      "abyssId": "13618",
+      "playxid": "92350dee085a781753d9301fea11d51c",
+      "playXID": "92350dee085a781753d9301fea11d51c",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13618",
+        "playXID": "92350dee085a781753d9301fea11d51c",
+        "streamId": "13618",
+        "dubPlayerSrc": "/dub-player/t/13618/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=92350dee085a781753d9301fea11d51c&abyssId=13618"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13618",
+        "playXID": "92350dee085a781753d9301fea11d51c",
+        "streamId": "13618",
+        "dubPlayerSrc": "/dub-player/t/13618/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=92350dee085a781753d9301fea11d51c&abyssId=13618"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/92350dee085a781753d9301fea11d51c",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/92350dee085a781753d9301fea11d51c"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13618",
+        "abyssId": "13618",
+        "playXID": "92350dee085a781753d9301fea11d51c",
+        "title": "Buddy Daddies",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "MCONy97VN"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "PNW3gHZy2"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "8y8Gnt4dB"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/369cc8688337b0bae4e74d4ffd662256/master.m3u8?md5=tJtZEv-vWYXJZWjCxOJjmw&expires=1792166758",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/369cc8688337b0bae4e74d4ffd662256/master.m3u8?md5=tJtZEv-vWYXJZWjCxOJjmw&expires=1792166758",
+            "videoSource": "https://ravok.buzz/cdn/hls/369cc8688337b0bae4e74d4ffd662256/master.m3u8?md5=tJtZEv-vWYXJZWjCxOJjmw&expires=1792166758",
+            "videoImage": "https://as-cdn30.top/p/k-3qPisHkWkwiGX-xx2RsW6TE1OCu4jocYD5hstzzs27I7LW1wrBDW0TT7VdKXIyNfFDLJCfRN5ohXK9yFbajw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "92350dee085a781753d9301fea11d51c",
+                "streamUrl": "https://ravok.buzz/cdn/hls/369cc8688337b0bae4e74d4ffd662256/master.m3u8?md5=tJtZEv-vWYXJZWjCxOJjmw&expires=1792166758",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/369cc8688337b0bae4e74d4ffd662256/master.m3u8?md5=tJtZEv-vWYXJZWjCxOJjmw&expires=1792166758",
+                "videoSource": "https://ravok.buzz/cdn/hls/369cc8688337b0bae4e74d4ffd662256/master.m3u8?md5=tJtZEv-vWYXJZWjCxOJjmw&expires=1792166758",
+                "link": "https://ravok.buzz/cdn/hls/369cc8688337b0bae4e74d4ffd662256/master.m3u8?md5=tJtZEv-vWYXJZWjCxOJjmw&expires=1792166758",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/k-3qPisHkWkwiGX-xx2RsW6TE1OCu4jocYD5hstzzs27I7LW1wrBDW0TT7VdKXIyNfFDLJCfRN5ohXK9yFbajw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "MCONy97VN"
+        }
+      },
+      "fetched_at": "2026-10-16T14:06:08Z"
+    },
+    {
+      "id": "episode/buddy-daddies-1x6",
+      "episode_id": "episode/buddy-daddies-1x6",
+      "title": "Buddy Daddies 1x1",
+      "episode_name": "Buddy Daddies 1x1",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1415/1/6.webp",
+      "abyssid": "13620",
+      "abyssId": "13620",
+      "playxid": "2191b602b73b93ec19da67d1b7e349c6",
+      "playXID": "2191b602b73b93ec19da67d1b7e349c6",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13620",
+        "playXID": "2191b602b73b93ec19da67d1b7e349c6",
+        "streamId": "13620",
+        "dubPlayerSrc": "/dub-player/t/13620/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2191b602b73b93ec19da67d1b7e349c6&abyssId=13620"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13620",
+        "playXID": "2191b602b73b93ec19da67d1b7e349c6",
+        "streamId": "13620",
+        "dubPlayerSrc": "/dub-player/t/13620/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2191b602b73b93ec19da67d1b7e349c6&abyssId=13620"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/2191b602b73b93ec19da67d1b7e349c6",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/2191b602b73b93ec19da67d1b7e349c6"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13620",
+        "abyssId": "13620",
+        "playXID": "2191b602b73b93ec19da67d1b7e349c6",
+        "title": "Buddy Daddies",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "mITCTnIOb"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "fgtapxlLT"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "5ZSDMb1sL"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/78b6b8d90a162c8a26cbf48b9f406788/master.m3u8?md5=lvsrJix_uJ8w954EHsP6bA&expires=1792166759",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/78b6b8d90a162c8a26cbf48b9f406788/master.m3u8?md5=lvsrJix_uJ8w954EHsP6bA&expires=1792166759",
+            "videoSource": "https://ravok.buzz/cdn/hls/78b6b8d90a162c8a26cbf48b9f406788/master.m3u8?md5=lvsrJix_uJ8w954EHsP6bA&expires=1792166759",
+            "videoImage": "https://as-cdn31.top/p/MLM6XWN2q-5K6BtzYYqqGXJ1u3QJAUnUg74aODyYRrnHhZng2Lc2SUoEHq7teIJP1vwCgfZtlKQ_k_AC0SY7Xw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "2191b602b73b93ec19da67d1b7e349c6",
+                "streamUrl": "https://ravok.buzz/cdn/hls/78b6b8d90a162c8a26cbf48b9f406788/master.m3u8?md5=lvsrJix_uJ8w954EHsP6bA&expires=1792166759",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/78b6b8d90a162c8a26cbf48b9f406788/master.m3u8?md5=lvsrJix_uJ8w954EHsP6bA&expires=1792166759",
+                "videoSource": "https://ravok.buzz/cdn/hls/78b6b8d90a162c8a26cbf48b9f406788/master.m3u8?md5=lvsrJix_uJ8w954EHsP6bA&expires=1792166759",
+                "link": "https://ravok.buzz/cdn/hls/78b6b8d90a162c8a26cbf48b9f406788/master.m3u8?md5=lvsrJix_uJ8w954EHsP6bA&expires=1792166759",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/MLM6XWN2q-5K6BtzYYqqGXJ1u3QJAUnUg74aODyYRrnHhZng2Lc2SUoEHq7teIJP1vwCgfZtlKQ_k_AC0SY7Xw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "mITCTnIOb"
+        }
+      },
+      "fetched_at": "2026-10-16T14:06:09Z"
+    },
+    {
+      "id": "episode/buddy-daddies-1x7",
+      "episode_id": "episode/buddy-daddies-1x7",
+      "title": "Buddy Daddies 1x1",
+      "episode_name": "Buddy Daddies 1x1",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1415/1/7.webp",
+      "abyssid": "13621",
+      "abyssId": "13621",
+      "playxid": "97737a7937a18cf131d9e21eda811113",
+      "playXID": "97737a7937a18cf131d9e21eda811113",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13621",
+        "playXID": "97737a7937a18cf131d9e21eda811113",
+        "streamId": "13621",
+        "dubPlayerSrc": "/dub-player/t/13621/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=97737a7937a18cf131d9e21eda811113&abyssId=13621"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13621",
+        "playXID": "97737a7937a18cf131d9e21eda811113",
+        "streamId": "13621",
+        "dubPlayerSrc": "/dub-player/t/13621/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=97737a7937a18cf131d9e21eda811113&abyssId=13621"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/97737a7937a18cf131d9e21eda811113",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/97737a7937a18cf131d9e21eda811113"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13621",
+        "abyssId": "13621",
+        "playXID": "97737a7937a18cf131d9e21eda811113",
+        "title": "Buddy Daddies",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "GZCF-A30u"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "clyAzd1ezz"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "iXN81qtlJ"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/2b06d48b7d7801aaa35db29e489e1e0f/master.m3u8?md5=2Hu68EZ-6nAjmpGiKDwkgw&expires=1792166760",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/2b06d48b7d7801aaa35db29e489e1e0f/master.m3u8?md5=2Hu68EZ-6nAjmpGiKDwkgw&expires=1792166760",
+            "videoSource": "https://ravok.buzz/cdn/hls/2b06d48b7d7801aaa35db29e489e1e0f/master.m3u8?md5=2Hu68EZ-6nAjmpGiKDwkgw&expires=1792166760",
+            "videoImage": "https://as-cdn30.top/p/szvekrT_fEUa1NOOL4ycqLTw0fDldE2afQz-aeuf0460XcfzDHpZdl29hs9iMJYLtqfspG1LpjrRHZvjUF8ocA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "97737a7937a18cf131d9e21eda811113",
+                "streamUrl": "https://ravok.buzz/cdn/hls/2b06d48b7d7801aaa35db29e489e1e0f/master.m3u8?md5=2Hu68EZ-6nAjmpGiKDwkgw&expires=1792166760",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/2b06d48b7d7801aaa35db29e489e1e0f/master.m3u8?md5=2Hu68EZ-6nAjmpGiKDwkgw&expires=1792166760",
+                "videoSource": "https://ravok.buzz/cdn/hls/2b06d48b7d7801aaa35db29e489e1e0f/master.m3u8?md5=2Hu68EZ-6nAjmpGiKDwkgw&expires=1792166760",
+                "link": "https://ravok.buzz/cdn/hls/2b06d48b7d7801aaa35db29e489e1e0f/master.m3u8?md5=2Hu68EZ-6nAjmpGiKDwkgw&expires=1792166760",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/szvekrT_fEUa1NOOL4ycqLTw0fDldE2afQz-aeuf0460XcfzDHpZdl29hs9iMJYLtqfspG1LpjrRHZvjUF8ocA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "GZCF-A30u"
+        }
+      },
+      "fetched_at": "2026-10-16T14:06:10Z"
+    },
+    {
+      "id": "episode/buddy-daddies-1x8",
+      "episode_id": "episode/buddy-daddies-1x8",
+      "title": "Buddy Daddies 1x1",
+      "episode_name": "Buddy Daddies 1x1",
+      "episode_number": 8,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1415/1/8.webp",
+      "abyssid": "13622",
+      "abyssId": "13622",
+      "playxid": "7867d6557b82ed3b5d61e6591a2a2fd3",
+      "playXID": "7867d6557b82ed3b5d61e6591a2a2fd3",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13622",
+        "playXID": "7867d6557b82ed3b5d61e6591a2a2fd3",
+        "streamId": "13622",
+        "dubPlayerSrc": "/dub-player/t/13622/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=7867d6557b82ed3b5d61e6591a2a2fd3&abyssId=13622"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13622",
+        "playXID": "7867d6557b82ed3b5d61e6591a2a2fd3",
+        "streamId": "13622",
+        "dubPlayerSrc": "/dub-player/t/13622/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=7867d6557b82ed3b5d61e6591a2a2fd3&abyssId=13622"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/7867d6557b82ed3b5d61e6591a2a2fd3",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/7867d6557b82ed3b5d61e6591a2a2fd3"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13622",
+        "abyssId": "13622",
+        "playXID": "7867d6557b82ed3b5d61e6591a2a2fd3",
+        "title": "Buddy Daddies",
+        "season": 1,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "zYsgVDtjn"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "wMxYnt3vv"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "jPrd37YIz"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/c19b5babd73a4627e776e9b2a9006eca/master.m3u8?md5=5ItZg09BCGuc4HvRQuiabw&expires=1792166760",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/c19b5babd73a4627e776e9b2a9006eca/master.m3u8?md5=5ItZg09BCGuc4HvRQuiabw&expires=1792166760",
+            "videoSource": "https://ravok.buzz/cdn/hls/c19b5babd73a4627e776e9b2a9006eca/master.m3u8?md5=5ItZg09BCGuc4HvRQuiabw&expires=1792166760",
+            "videoImage": "https://as-cdn31.top/p/fna7p701lIRnZnJq1rtU8hDF_UeslmBPEn6RimJN-qQOFlwt20G3fBv5Cwa_GJtIy5ZCXg45bAfGDg_tVHBaDg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "7867d6557b82ed3b5d61e6591a2a2fd3",
+                "streamUrl": "https://ravok.buzz/cdn/hls/c19b5babd73a4627e776e9b2a9006eca/master.m3u8?md5=5ItZg09BCGuc4HvRQuiabw&expires=1792166760",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/c19b5babd73a4627e776e9b2a9006eca/master.m3u8?md5=5ItZg09BCGuc4HvRQuiabw&expires=1792166760",
+                "videoSource": "https://ravok.buzz/cdn/hls/c19b5babd73a4627e776e9b2a9006eca/master.m3u8?md5=5ItZg09BCGuc4HvRQuiabw&expires=1792166760",
+                "link": "https://ravok.buzz/cdn/hls/c19b5babd73a4627e776e9b2a9006eca/master.m3u8?md5=5ItZg09BCGuc4HvRQuiabw&expires=1792166760",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/fna7p701lIRnZnJq1rtU8hDF_UeslmBPEn6RimJN-qQOFlwt20G3fBv5Cwa_GJtIy5ZCXg45bAfGDg_tVHBaDg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "zYsgVDtjn"
+        }
+      },
+      "fetched_at": "2026-10-16T14:06:10Z"
+    },
+    {
+      "id": "episode/buddy-daddies-1x9",
+      "episode_id": "episode/buddy-daddies-1x9",
+      "title": "Buddy Daddies 1x1",
+      "episode_name": "Buddy Daddies 1x1",
+      "episode_number": 9,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1415/1/9.webp",
+      "abyssid": "13623",
+      "abyssId": "13623",
+      "playxid": "d04eb5de4d99080be674f159197a514a",
+      "playXID": "d04eb5de4d99080be674f159197a514a",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13623",
+        "playXID": "d04eb5de4d99080be674f159197a514a",
+        "streamId": "13623",
+        "dubPlayerSrc": "/dub-player/t/13623/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d04eb5de4d99080be674f159197a514a&abyssId=13623"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13623",
+        "playXID": "d04eb5de4d99080be674f159197a514a",
+        "streamId": "13623",
+        "dubPlayerSrc": "/dub-player/t/13623/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d04eb5de4d99080be674f159197a514a&abyssId=13623"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/d04eb5de4d99080be674f159197a514a",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/d04eb5de4d99080be674f159197a514a"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13623",
+        "abyssId": "13623",
+        "playXID": "d04eb5de4d99080be674f159197a514a",
+        "title": "Buddy Daddies",
+        "season": 1,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "FNx469SKQ"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "GtC-mVeAR"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "A4LXb9pf6"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/e7545ea0f3ff418f0874b391b66bc4cd/master.m3u8?md5=tXIfpcRTFyM1Nhr2SipfSA&expires=1792166760",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/e7545ea0f3ff418f0874b391b66bc4cd/master.m3u8?md5=tXIfpcRTFyM1Nhr2SipfSA&expires=1792166760",
+            "videoSource": "https://ravok.buzz/cdn/hls/e7545ea0f3ff418f0874b391b66bc4cd/master.m3u8?md5=tXIfpcRTFyM1Nhr2SipfSA&expires=1792166760",
+            "videoImage": "https://as-cdn28.top/p/1KihTW-novsU7AHUbLlKLHaoBQQZ8C2yXVolwCB6rF_0YOZL9-74fC8_eXr3Z_N5IiBnhLZB3d5I0b7ywNwyWg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "d04eb5de4d99080be674f159197a514a",
+                "streamUrl": "https://ravok.buzz/cdn/hls/e7545ea0f3ff418f0874b391b66bc4cd/master.m3u8?md5=tXIfpcRTFyM1Nhr2SipfSA&expires=1792166760",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/e7545ea0f3ff418f0874b391b66bc4cd/master.m3u8?md5=tXIfpcRTFyM1Nhr2SipfSA&expires=1792166760",
+                "videoSource": "https://ravok.buzz/cdn/hls/e7545ea0f3ff418f0874b391b66bc4cd/master.m3u8?md5=tXIfpcRTFyM1Nhr2SipfSA&expires=1792166760",
+                "link": "https://ravok.buzz/cdn/hls/e7545ea0f3ff418f0874b391b66bc4cd/master.m3u8?md5=tXIfpcRTFyM1Nhr2SipfSA&expires=1792166760",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/1KihTW-novsU7AHUbLlKLHaoBQQZ8C2yXVolwCB6rF_0YOZL9-74fC8_eXr3Z_N5IiBnhLZB3d5I0b7ywNwyWg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "FNx469SKQ"
+        }
+      },
+      "fetched_at": "2026-10-16T14:06:10Z"
+    },
+    {
+      "id": "episode/buddy-daddies-1x10",
+      "episode_id": "episode/buddy-daddies-1x10",
+      "title": "Buddy Daddies 1x1",
+      "episode_name": "Buddy Daddies 1x1",
+      "episode_number": 10,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1415/1/10.webp",
+      "abyssid": "13624",
+      "abyssId": "13624",
+      "playxid": "316282ddb77e11b0b58c60ed59b1e308",
+      "playXID": "316282ddb77e11b0b58c60ed59b1e308",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13624",
+        "playXID": "316282ddb77e11b0b58c60ed59b1e308",
+        "streamId": "13624",
+        "dubPlayerSrc": "/dub-player/t/13624/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=316282ddb77e11b0b58c60ed59b1e308&abyssId=13624"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13624",
+        "playXID": "316282ddb77e11b0b58c60ed59b1e308",
+        "streamId": "13624",
+        "dubPlayerSrc": "/dub-player/t/13624/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=316282ddb77e11b0b58c60ed59b1e308&abyssId=13624"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/316282ddb77e11b0b58c60ed59b1e308",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/316282ddb77e11b0b58c60ed59b1e308"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13624",
+        "abyssId": "13624",
+        "playXID": "316282ddb77e11b0b58c60ed59b1e308",
+        "title": "Buddy Daddies",
+        "season": 1,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "c_uZ7-5Nv"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "3ttBcgH49"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "lRog8dCje"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/cb73f8c7a566f1f25939406055b431e3/master.m3u8?md5=RMgHl2xgCIl2OmyhPY89gQ&expires=1792166760",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/cb73f8c7a566f1f25939406055b431e3/master.m3u8?md5=RMgHl2xgCIl2OmyhPY89gQ&expires=1792166760",
+            "videoSource": "https://ravok.buzz/cdn/hls/cb73f8c7a566f1f25939406055b431e3/master.m3u8?md5=RMgHl2xgCIl2OmyhPY89gQ&expires=1792166760",
+            "videoImage": "https://as-cdn29.top/p/v8RPBcNKzNCzDpHjIVbRaWNrgPoKXvlroX2351wxyO2lxnxSYn_CbPhWG95jec0n3w3iRu3GcVDB68vA4sLkbg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "316282ddb77e11b0b58c60ed59b1e308",
+                "streamUrl": "https://ravok.buzz/cdn/hls/cb73f8c7a566f1f25939406055b431e3/master.m3u8?md5=RMgHl2xgCIl2OmyhPY89gQ&expires=1792166760",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/cb73f8c7a566f1f25939406055b431e3/master.m3u8?md5=RMgHl2xgCIl2OmyhPY89gQ&expires=1792166760",
+                "videoSource": "https://ravok.buzz/cdn/hls/cb73f8c7a566f1f25939406055b431e3/master.m3u8?md5=RMgHl2xgCIl2OmyhPY89gQ&expires=1792166760",
+                "link": "https://ravok.buzz/cdn/hls/cb73f8c7a566f1f25939406055b431e3/master.m3u8?md5=RMgHl2xgCIl2OmyhPY89gQ&expires=1792166760",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/v8RPBcNKzNCzDpHjIVbRaWNrgPoKXvlroX2351wxyO2lxnxSYn_CbPhWG95jec0n3w3iRu3GcVDB68vA4sLkbg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "c_uZ7-5Nv"
+        }
+      },
+      "fetched_at": "2026-10-16T14:06:10Z"
+    },
+    {
+      "id": "episode/buddy-daddies-1x11",
+      "episode_id": "episode/buddy-daddies-1x11",
+      "title": "Buddy Daddies 1x1",
+      "episode_name": "Buddy Daddies 1x1",
+      "episode_number": 11,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1415/1/11.webp",
+      "abyssid": "13625",
+      "abyssId": "13625",
+      "playxid": "d6428eecbe0f7dff83fc607c5044b2b9",
+      "playXID": "d6428eecbe0f7dff83fc607c5044b2b9",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13625",
+        "playXID": "d6428eecbe0f7dff83fc607c5044b2b9",
+        "streamId": "13625",
+        "dubPlayerSrc": "/dub-player/t/13625/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d6428eecbe0f7dff83fc607c5044b2b9&abyssId=13625"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13625",
+        "playXID": "d6428eecbe0f7dff83fc607c5044b2b9",
+        "streamId": "13625",
+        "dubPlayerSrc": "/dub-player/t/13625/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d6428eecbe0f7dff83fc607c5044b2b9&abyssId=13625"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/d6428eecbe0f7dff83fc607c5044b2b9",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/d6428eecbe0f7dff83fc607c5044b2b9"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13625",
+        "abyssId": "13625",
+        "playXID": "d6428eecbe0f7dff83fc607c5044b2b9",
+        "title": "Buddy Daddies",
+        "season": 1,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "_O8GIUIdb"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "aznmN1pym"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "5hvb336zv"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/b6d0f190b726448a99210736b8ebcf98/master.m3u8?md5=0PWHfVOT6WPuAW8lsVWIjA&expires=1792166761",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/b6d0f190b726448a99210736b8ebcf98/master.m3u8?md5=0PWHfVOT6WPuAW8lsVWIjA&expires=1792166761",
+            "videoSource": "https://ravok.buzz/cdn/hls/b6d0f190b726448a99210736b8ebcf98/master.m3u8?md5=0PWHfVOT6WPuAW8lsVWIjA&expires=1792166761",
+            "videoImage": "https://as-cdn28.top/p/mousHOz1qG1i0vhAEASVrOcbElg44cpgpOYk2XTdRgITM77glL-g4Ky5qb-jQ_mNQ1iqB76n8otDQMG495O72Q.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "d6428eecbe0f7dff83fc607c5044b2b9",
+                "streamUrl": "https://ravok.buzz/cdn/hls/b6d0f190b726448a99210736b8ebcf98/master.m3u8?md5=0PWHfVOT6WPuAW8lsVWIjA&expires=1792166761",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/b6d0f190b726448a99210736b8ebcf98/master.m3u8?md5=0PWHfVOT6WPuAW8lsVWIjA&expires=1792166761",
+                "videoSource": "https://ravok.buzz/cdn/hls/b6d0f190b726448a99210736b8ebcf98/master.m3u8?md5=0PWHfVOT6WPuAW8lsVWIjA&expires=1792166761",
+                "link": "https://ravok.buzz/cdn/hls/b6d0f190b726448a99210736b8ebcf98/master.m3u8?md5=0PWHfVOT6WPuAW8lsVWIjA&expires=1792166761",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/mousHOz1qG1i0vhAEASVrOcbElg44cpgpOYk2XTdRgITM77glL-g4Ky5qb-jQ_mNQ1iqB76n8otDQMG495O72Q.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "_O8GIUIdb"
+        }
+      },
+      "fetched_at": "2026-10-16T14:06:11Z"
+    },
+    {
+      "id": "episode/buddy-daddies-1x12",
+      "episode_id": "episode/buddy-daddies-1x12",
+      "title": "Buddy Daddies 1x1",
+      "episode_name": "Buddy Daddies 1x1",
+      "episode_number": 12,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1415/1/12.webp",
+      "abyssid": "13626",
+      "abyssId": "13626",
+      "playxid": "16fa2b0294e410b2551c3bf6965c0853",
+      "playXID": "16fa2b0294e410b2551c3bf6965c0853",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13626",
+        "playXID": "16fa2b0294e410b2551c3bf6965c0853",
+        "streamId": "13626",
+        "dubPlayerSrc": "/dub-player/t/13626/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=16fa2b0294e410b2551c3bf6965c0853&abyssId=13626"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13626",
+        "playXID": "16fa2b0294e410b2551c3bf6965c0853",
+        "streamId": "13626",
+        "dubPlayerSrc": "/dub-player/t/13626/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=16fa2b0294e410b2551c3bf6965c0853&abyssId=13626"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/16fa2b0294e410b2551c3bf6965c0853",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/16fa2b0294e410b2551c3bf6965c0853"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13626",
+        "abyssId": "13626",
+        "playXID": "16fa2b0294e410b2551c3bf6965c0853",
+        "title": "Buddy Daddies",
+        "season": 1,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "9qv3lgDkH"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "rP-XVaV84"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "gJhWp0p0F"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/0955163e007bde0cbefc662112d327b6/master.m3u8?md5=z8Frbsf9jZeVWeuDPGrsbg&expires=1792166762",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/0955163e007bde0cbefc662112d327b6/master.m3u8?md5=z8Frbsf9jZeVWeuDPGrsbg&expires=1792166762",
+            "videoSource": "https://ravok.buzz/cdn/hls/0955163e007bde0cbefc662112d327b6/master.m3u8?md5=z8Frbsf9jZeVWeuDPGrsbg&expires=1792166762",
+            "videoImage": "https://as-cdn29.top/p/76Qx0wlNtmys_my0VjBdLARJA4ocb9a7l7cvr19zw0y4WTVwt3KMUg_AW_6M8NtSEytB0ue-Ed5TRm4SjzDjIw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "16fa2b0294e410b2551c3bf6965c0853",
+                "streamUrl": "https://ravok.buzz/cdn/hls/0955163e007bde0cbefc662112d327b6/master.m3u8?md5=z8Frbsf9jZeVWeuDPGrsbg&expires=1792166762",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/0955163e007bde0cbefc662112d327b6/master.m3u8?md5=z8Frbsf9jZeVWeuDPGrsbg&expires=1792166762",
+                "videoSource": "https://ravok.buzz/cdn/hls/0955163e007bde0cbefc662112d327b6/master.m3u8?md5=z8Frbsf9jZeVWeuDPGrsbg&expires=1792166762",
+                "link": "https://ravok.buzz/cdn/hls/0955163e007bde0cbefc662112d327b6/master.m3u8?md5=z8Frbsf9jZeVWeuDPGrsbg&expires=1792166762",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/76Qx0wlNtmys_my0VjBdLARJA4ocb9a7l7cvr19zw0y4WTVwt3KMUg_AW_6M8NtSEytB0ue-Ed5TRm4SjzDjIw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "9qv3lgDkH"
+        }
+      },
+      "fetched_at": "2026-10-16T14:06:12Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T14:06:05Z",
+  "updated_at": "2026-10-16T14:06:12Z"
+}

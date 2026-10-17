@@ -1,0 +1,1501 @@
+{
+  "id": "series/remonster",
+  "series_name": "Re:Monster",
+  "title": "Re:Monster",
+  "banner": "https://image.tmdb.org/t/p/w1280/2VjHbqr00cPvT2U4Vy0JnWT8Fcz.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/AmFrA0jX0p9twH1IKfxcGWVz2X3.jpg",
+  "genra": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Isekai",
+    "Reincarnation"
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Isekai",
+    "Reincarnation"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Japanese",
+    "Tamil",
+    "Telugu"
+  ],
+  "synopsis": "After meeting an untimely death, Tomokui Kanata is reincarnated as a lowly goblin, but he's worked up a monstrous appetite. Thanks to his new ability that allows him to grow stronger the more he feeds, his feeble status quickly changes, and he rises to become the goblin leader. With a mix of his past memories, new body, and strong stomach, he's taking a bite out of this new fantastical world!",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Re:Monster 1x1",
+          "id": "episode/remonster-1x1",
+          "image": "https://img.watchanimeworld.one/img/thumb_1447_s1e1.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "Re:Monster 1x2",
+          "id": "episode/remonster-1x2",
+          "image": "https://img.watchanimeworld.one/img/thumb_1447_s1e2.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "Re:Monster 1x3",
+          "id": "episode/remonster-1x3",
+          "image": "https://img.watchanimeworld.one/img/thumb_1447_s1e3.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "Re:Monster 1x4",
+          "id": "episode/remonster-1x4",
+          "image": "https://img.watchanimeworld.one/img/thumb_1447_s1e4.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "Re:Monster 1x5",
+          "id": "episode/remonster-1x5",
+          "image": "https://img.watchanimeworld.one/img/thumb_1447_s1e5.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "Re:Monster 1x6",
+          "id": "episode/remonster-1x6",
+          "image": "https://img.watchanimeworld.one/img/thumb_1447_s1e6.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "Re:Monster 1x7",
+          "id": "episode/remonster-1x7",
+          "image": "https://img.watchanimeworld.one/img/thumb_1447_s1e7.webp",
+          "season": 1
+        },
+        {
+          "episode": 8,
+          "title": "Re:Monster 1x8",
+          "id": "episode/remonster-1x8",
+          "image": "https://img.watchanimeworld.one/img/thumb_1447_s1e8.webp",
+          "season": 1
+        },
+        {
+          "episode": 9,
+          "title": "Re:Monster 1x9",
+          "id": "episode/remonster-1x9",
+          "image": "https://img.watchanimeworld.one/img/thumb_1447_s1e9.webp",
+          "season": 1
+        },
+        {
+          "episode": 10,
+          "title": "Re:Monster 1x10",
+          "id": "episode/remonster-1x10",
+          "image": "https://img.watchanimeworld.one/img/thumb_1447_s1e10.webp",
+          "season": 1
+        },
+        {
+          "episode": 11,
+          "title": "Re:Monster 1x11",
+          "id": "episode/remonster-1x11",
+          "image": "https://img.watchanimeworld.one/img/thumb_1447_s1e11.webp",
+          "season": 1
+        },
+        {
+          "episode": 12,
+          "title": "Re:Monster 1x12",
+          "id": "episode/remonster-1x12",
+          "image": "https://img.watchanimeworld.one/img/thumb_1447_s1e12.webp",
+          "season": 1
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/remonster-1x2",
+      "episode_id": "episode/remonster-1x2",
+      "title": "Re:Monster 1x1",
+      "episode_name": "Re:Monster 1x1",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1447_s1e2.webp",
+      "abyssid": "13811",
+      "abyssId": "13811",
+      "playxid": "947d58595850e1144d54658c873d4b0b",
+      "playXID": "947d58595850e1144d54658c873d4b0b",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13811",
+        "playXID": "947d58595850e1144d54658c873d4b0b",
+        "streamId": "13811",
+        "dubPlayerSrc": "/dub-player/t/13811/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=947d58595850e1144d54658c873d4b0b&abyssId=13811"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13811",
+        "playXID": "947d58595850e1144d54658c873d4b0b",
+        "streamId": "13811",
+        "dubPlayerSrc": "/dub-player/t/13811/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=947d58595850e1144d54658c873d4b0b&abyssId=13811"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/947d58595850e1144d54658c873d4b0b",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/947d58595850e1144d54658c873d4b0b"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13811",
+        "abyssId": "13811",
+        "playXID": "947d58595850e1144d54658c873d4b0b",
+        "title": "Re:Monster",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "4PTnTwHin"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "sFr6j59c4"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "icH3nWSlM"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "RGYsHuhVv"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "2PRWnm5H2"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/7499f169d16ab7f2be62ad877d29e283/master.m3u8?md5=DnhyRT88IfGQHtlcVxeBEg&expires=1792166113",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/7499f169d16ab7f2be62ad877d29e283/master.m3u8?md5=DnhyRT88IfGQHtlcVxeBEg&expires=1792166113",
+            "videoSource": "https://ravok.buzz/cdn/hls/7499f169d16ab7f2be62ad877d29e283/master.m3u8?md5=DnhyRT88IfGQHtlcVxeBEg&expires=1792166113",
+            "videoImage": "https://as-cdn30.top/p/Ql5p-yoylkAiMGrCAd7Bwp7bqXpPL1U_J5-jSIgmwtLpx9BXJFLiZrUXglyiXw83-SocwUZuNwNlwNyd8LQLEQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "947d58595850e1144d54658c873d4b0b",
+                "streamUrl": "https://ravok.buzz/cdn/hls/7499f169d16ab7f2be62ad877d29e283/master.m3u8?md5=DnhyRT88IfGQHtlcVxeBEg&expires=1792166113",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/7499f169d16ab7f2be62ad877d29e283/master.m3u8?md5=DnhyRT88IfGQHtlcVxeBEg&expires=1792166113",
+                "videoSource": "https://ravok.buzz/cdn/hls/7499f169d16ab7f2be62ad877d29e283/master.m3u8?md5=DnhyRT88IfGQHtlcVxeBEg&expires=1792166113",
+                "link": "https://ravok.buzz/cdn/hls/7499f169d16ab7f2be62ad877d29e283/master.m3u8?md5=DnhyRT88IfGQHtlcVxeBEg&expires=1792166113",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/Ql5p-yoylkAiMGrCAd7Bwp7bqXpPL1U_J5-jSIgmwtLpx9BXJFLiZrUXglyiXw83-SocwUZuNwNlwNyd8LQLEQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "4PTnTwHin"
+        }
+      },
+      "fetched_at": "2026-10-16T13:55:23Z"
+    },
+    {
+      "id": "episode/remonster-1x1",
+      "episode_id": "episode/remonster-1x1",
+      "title": "Re:Monster 1x1",
+      "episode_name": "Re:Monster 1x1",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1447_s1e1.webp",
+      "abyssid": "13810",
+      "abyssId": "13810",
+      "playxid": "c68df1093a93023d0960841f27224080",
+      "playXID": "c68df1093a93023d0960841f27224080",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13810",
+        "playXID": "c68df1093a93023d0960841f27224080",
+        "streamId": "13810",
+        "dubPlayerSrc": "/dub-player/t/13810/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c68df1093a93023d0960841f27224080&abyssId=13810"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13810",
+        "playXID": "c68df1093a93023d0960841f27224080",
+        "streamId": "13810",
+        "dubPlayerSrc": "/dub-player/t/13810/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c68df1093a93023d0960841f27224080&abyssId=13810"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/c68df1093a93023d0960841f27224080",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/c68df1093a93023d0960841f27224080"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13810",
+        "abyssId": "13810",
+        "playXID": "c68df1093a93023d0960841f27224080",
+        "title": "Re:Monster",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "3aj1qaUpV"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "D-nq12NZY"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "87lPoM8t1"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "oafUsdPdN"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "Wt1V_y1Mc"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/f850cb16cd2369dccbd8cfb3560baeab/master.m3u8?md5=faX8zbs3OlODH30i5rTC-g&expires=1792166113",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/f850cb16cd2369dccbd8cfb3560baeab/master.m3u8?md5=faX8zbs3OlODH30i5rTC-g&expires=1792166113",
+            "videoSource": "https://ravok.buzz/cdn/hls/f850cb16cd2369dccbd8cfb3560baeab/master.m3u8?md5=faX8zbs3OlODH30i5rTC-g&expires=1792166113",
+            "videoImage": "https://as-cdn27.top/p/yfer5XsvZ4_sRwK_y4jEsiSIcPtYvHzpl9edMafPjMWU2sBzKD6ZeRWuqbUzvTe7T2pWYXZhGX5reYsqteQYog.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "c68df1093a93023d0960841f27224080",
+                "streamUrl": "https://ravok.buzz/cdn/hls/f850cb16cd2369dccbd8cfb3560baeab/master.m3u8?md5=faX8zbs3OlODH30i5rTC-g&expires=1792166113",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/f850cb16cd2369dccbd8cfb3560baeab/master.m3u8?md5=faX8zbs3OlODH30i5rTC-g&expires=1792166113",
+                "videoSource": "https://ravok.buzz/cdn/hls/f850cb16cd2369dccbd8cfb3560baeab/master.m3u8?md5=faX8zbs3OlODH30i5rTC-g&expires=1792166113",
+                "link": "https://ravok.buzz/cdn/hls/f850cb16cd2369dccbd8cfb3560baeab/master.m3u8?md5=faX8zbs3OlODH30i5rTC-g&expires=1792166113",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/yfer5XsvZ4_sRwK_y4jEsiSIcPtYvHzpl9edMafPjMWU2sBzKD6ZeRWuqbUzvTe7T2pWYXZhGX5reYsqteQYog.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "3aj1qaUpV"
+        }
+      },
+      "fetched_at": "2026-10-16T13:55:23Z"
+    },
+    {
+      "id": "episode/remonster-1x4",
+      "episode_id": "episode/remonster-1x4",
+      "title": "Re:Monster 1x1",
+      "episode_name": "Re:Monster 1x1",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1447_s1e4.webp",
+      "abyssid": "13813",
+      "abyssId": "13813",
+      "playxid": "675e652a358f53f87a3f89c06a6e8692",
+      "playXID": "675e652a358f53f87a3f89c06a6e8692",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13813",
+        "playXID": "675e652a358f53f87a3f89c06a6e8692",
+        "streamId": "13813",
+        "dubPlayerSrc": "/dub-player/t/13813/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=675e652a358f53f87a3f89c06a6e8692&abyssId=13813"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13813",
+        "playXID": "675e652a358f53f87a3f89c06a6e8692",
+        "streamId": "13813",
+        "dubPlayerSrc": "/dub-player/t/13813/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=675e652a358f53f87a3f89c06a6e8692&abyssId=13813"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/675e652a358f53f87a3f89c06a6e8692",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/675e652a358f53f87a3f89c06a6e8692"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13813",
+        "abyssId": "13813",
+        "playXID": "675e652a358f53f87a3f89c06a6e8692",
+        "title": "Re:Monster",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "2Pnp4iEFt"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "47VPDweF7"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "kvvBb5H1v"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "n_eBAMlrp"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "BZZ-E77IT"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/1a8aa79d8fdb7de07f13a5d6f5c5bf15/master.m3u8?md5=yi0sHMOZLGQC2MF9bhjamA&expires=1792166113",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/1a8aa79d8fdb7de07f13a5d6f5c5bf15/master.m3u8?md5=yi0sHMOZLGQC2MF9bhjamA&expires=1792166113",
+            "videoSource": "https://ravok.buzz/cdn/hls/1a8aa79d8fdb7de07f13a5d6f5c5bf15/master.m3u8?md5=yi0sHMOZLGQC2MF9bhjamA&expires=1792166113",
+            "videoImage": "https://as-cdn28.top/p/WL8vFddKIXazdfchilvK_Kg4UNvI06dWCFn-C3LjO8JOBwMMq-nB53wJSO1uQPmDmr3bEpCT6Nd3rIKC77ajJg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "675e652a358f53f87a3f89c06a6e8692",
+                "streamUrl": "https://ravok.buzz/cdn/hls/1a8aa79d8fdb7de07f13a5d6f5c5bf15/master.m3u8?md5=yi0sHMOZLGQC2MF9bhjamA&expires=1792166113",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/1a8aa79d8fdb7de07f13a5d6f5c5bf15/master.m3u8?md5=yi0sHMOZLGQC2MF9bhjamA&expires=1792166113",
+                "videoSource": "https://ravok.buzz/cdn/hls/1a8aa79d8fdb7de07f13a5d6f5c5bf15/master.m3u8?md5=yi0sHMOZLGQC2MF9bhjamA&expires=1792166113",
+                "link": "https://ravok.buzz/cdn/hls/1a8aa79d8fdb7de07f13a5d6f5c5bf15/master.m3u8?md5=yi0sHMOZLGQC2MF9bhjamA&expires=1792166113",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/WL8vFddKIXazdfchilvK_Kg4UNvI06dWCFn-C3LjO8JOBwMMq-nB53wJSO1uQPmDmr3bEpCT6Nd3rIKC77ajJg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "2Pnp4iEFt"
+        }
+      },
+      "fetched_at": "2026-10-16T13:55:23Z"
+    },
+    {
+      "id": "episode/remonster-1x3",
+      "episode_id": "episode/remonster-1x3",
+      "title": "Re:Monster 1x1",
+      "episode_name": "Re:Monster 1x1",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1447_s1e3.webp",
+      "abyssid": "13812",
+      "abyssId": "13812",
+      "playxid": "cc397301371eec5a48fb375ce4ce7bce",
+      "playXID": "cc397301371eec5a48fb375ce4ce7bce",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13812",
+        "playXID": "cc397301371eec5a48fb375ce4ce7bce",
+        "streamId": "13812",
+        "dubPlayerSrc": "/dub-player/t/13812/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=cc397301371eec5a48fb375ce4ce7bce&abyssId=13812"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13812",
+        "playXID": "cc397301371eec5a48fb375ce4ce7bce",
+        "streamId": "13812",
+        "dubPlayerSrc": "/dub-player/t/13812/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=cc397301371eec5a48fb375ce4ce7bce&abyssId=13812"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/cc397301371eec5a48fb375ce4ce7bce",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/cc397301371eec5a48fb375ce4ce7bce"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13812",
+        "abyssId": "13812",
+        "playXID": "cc397301371eec5a48fb375ce4ce7bce",
+        "title": "Re:Monster",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "r8-935KfSK"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "SFtgypdII"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "Ugc7ft56N"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "asvos34Ho"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "t9oSTPfWA"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/30989246f4a4bd96969ce9005fccaa94/master.m3u8?md5=qcDFk2vHunJnGU_19EBOKA&expires=1792166114",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/30989246f4a4bd96969ce9005fccaa94/master.m3u8?md5=qcDFk2vHunJnGU_19EBOKA&expires=1792166114",
+            "videoSource": "https://ravok.buzz/cdn/hls/30989246f4a4bd96969ce9005fccaa94/master.m3u8?md5=qcDFk2vHunJnGU_19EBOKA&expires=1792166114",
+            "videoImage": "https://as-cdn28.top/p/aFLTgKOJ54vCcB3hTY4_SP94Yau7EWahSBBnVBciJkTFyfRqZS2HqxMz4NYFpIgV480MyzeAHdx3LxZdo-LZpA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "cc397301371eec5a48fb375ce4ce7bce",
+                "streamUrl": "https://ravok.buzz/cdn/hls/30989246f4a4bd96969ce9005fccaa94/master.m3u8?md5=qcDFk2vHunJnGU_19EBOKA&expires=1792166114",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/30989246f4a4bd96969ce9005fccaa94/master.m3u8?md5=qcDFk2vHunJnGU_19EBOKA&expires=1792166114",
+                "videoSource": "https://ravok.buzz/cdn/hls/30989246f4a4bd96969ce9005fccaa94/master.m3u8?md5=qcDFk2vHunJnGU_19EBOKA&expires=1792166114",
+                "link": "https://ravok.buzz/cdn/hls/30989246f4a4bd96969ce9005fccaa94/master.m3u8?md5=qcDFk2vHunJnGU_19EBOKA&expires=1792166114",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/aFLTgKOJ54vCcB3hTY4_SP94Yau7EWahSBBnVBciJkTFyfRqZS2HqxMz4NYFpIgV480MyzeAHdx3LxZdo-LZpA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "r8-935KfSK"
+        }
+      },
+      "fetched_at": "2026-10-16T13:55:24Z"
+    },
+    {
+      "id": "episode/remonster-1x5",
+      "episode_id": "episode/remonster-1x5",
+      "title": "Re:Monster 1x1",
+      "episode_name": "Re:Monster 1x1",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1447_s1e5.webp",
+      "abyssid": "13814",
+      "abyssId": "13814",
+      "playxid": "bdc7a663219b46189e7858f8bfe8fe41",
+      "playXID": "bdc7a663219b46189e7858f8bfe8fe41",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13814",
+        "playXID": "bdc7a663219b46189e7858f8bfe8fe41",
+        "streamId": "13814",
+        "dubPlayerSrc": "/dub-player/t/13814/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=bdc7a663219b46189e7858f8bfe8fe41&abyssId=13814"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13814",
+        "playXID": "bdc7a663219b46189e7858f8bfe8fe41",
+        "streamId": "13814",
+        "dubPlayerSrc": "/dub-player/t/13814/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=bdc7a663219b46189e7858f8bfe8fe41&abyssId=13814"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/bdc7a663219b46189e7858f8bfe8fe41",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/bdc7a663219b46189e7858f8bfe8fe41"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13814",
+        "abyssId": "13814",
+        "playXID": "bdc7a663219b46189e7858f8bfe8fe41",
+        "title": "Re:Monster",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "A3UYjlB0S"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "eRYV0WV24"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "-KJCPH1wP"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "kWiV321WX"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "UOLalKkOR"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/7d351552ff9514f56034e08de65759e8/master.m3u8?md5=uDfiTyXnC7CuatJEISyQ0Q&expires=1792166114",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/7d351552ff9514f56034e08de65759e8/master.m3u8?md5=uDfiTyXnC7CuatJEISyQ0Q&expires=1792166114",
+            "videoSource": "https://ravok.buzz/cdn/hls/7d351552ff9514f56034e08de65759e8/master.m3u8?md5=uDfiTyXnC7CuatJEISyQ0Q&expires=1792166114",
+            "videoImage": "https://as-cdn29.top/p/zegzN0N93DifG2tCIExOstNaHHdGon9cK6OzvwCNc968WSh2GeB5Y7LvXFFP6eUVeTzffO9zbRjI3Qr13otCaA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "bdc7a663219b46189e7858f8bfe8fe41",
+                "streamUrl": "https://ravok.buzz/cdn/hls/7d351552ff9514f56034e08de65759e8/master.m3u8?md5=uDfiTyXnC7CuatJEISyQ0Q&expires=1792166114",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/7d351552ff9514f56034e08de65759e8/master.m3u8?md5=uDfiTyXnC7CuatJEISyQ0Q&expires=1792166114",
+                "videoSource": "https://ravok.buzz/cdn/hls/7d351552ff9514f56034e08de65759e8/master.m3u8?md5=uDfiTyXnC7CuatJEISyQ0Q&expires=1792166114",
+                "link": "https://ravok.buzz/cdn/hls/7d351552ff9514f56034e08de65759e8/master.m3u8?md5=uDfiTyXnC7CuatJEISyQ0Q&expires=1792166114",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/zegzN0N93DifG2tCIExOstNaHHdGon9cK6OzvwCNc968WSh2GeB5Y7LvXFFP6eUVeTzffO9zbRjI3Qr13otCaA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "A3UYjlB0S"
+        }
+      },
+      "fetched_at": "2026-10-16T13:55:24Z"
+    },
+    {
+      "id": "episode/remonster-1x6",
+      "episode_id": "episode/remonster-1x6",
+      "title": "Re:Monster 1x1",
+      "episode_name": "Re:Monster 1x1",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1447_s1e6.webp",
+      "abyssid": "13815",
+      "abyssId": "13815",
+      "playxid": "eb453b86e59bbc3c6c3ec9f352469319",
+      "playXID": "eb453b86e59bbc3c6c3ec9f352469319",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13815",
+        "playXID": "eb453b86e59bbc3c6c3ec9f352469319",
+        "streamId": "13815",
+        "dubPlayerSrc": "/dub-player/t/13815/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=eb453b86e59bbc3c6c3ec9f352469319&abyssId=13815"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13815",
+        "playXID": "eb453b86e59bbc3c6c3ec9f352469319",
+        "streamId": "13815",
+        "dubPlayerSrc": "/dub-player/t/13815/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=eb453b86e59bbc3c6c3ec9f352469319&abyssId=13815"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/eb453b86e59bbc3c6c3ec9f352469319",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/eb453b86e59bbc3c6c3ec9f352469319"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13815",
+        "abyssId": "13815",
+        "playXID": "eb453b86e59bbc3c6c3ec9f352469319",
+        "title": "Re:Monster",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "r2YD-5NRZ"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "5n5ndF49a"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "Yz-Exa5Nb"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "096tpFQoO"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "EDWlTnnNG"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/1326f15e3b48f201edcc99f4f99e4c8c/master.m3u8?md5=e0xBeOVXa3Pt1US2mWpeXA&expires=1792166115",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/1326f15e3b48f201edcc99f4f99e4c8c/master.m3u8?md5=e0xBeOVXa3Pt1US2mWpeXA&expires=1792166115",
+            "videoSource": "https://ravok.buzz/cdn/hls/1326f15e3b48f201edcc99f4f99e4c8c/master.m3u8?md5=e0xBeOVXa3Pt1US2mWpeXA&expires=1792166115",
+            "videoImage": "https://as-cdn28.top/p/20OAwDmISihoBj7-IoBw_J0Huwmkbo23P9_8Ishra9vWvgpWykcUG5gr13wpvSAY0qSahoser0Hpc7RalRSwyA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "eb453b86e59bbc3c6c3ec9f352469319",
+                "streamUrl": "https://ravok.buzz/cdn/hls/1326f15e3b48f201edcc99f4f99e4c8c/master.m3u8?md5=e0xBeOVXa3Pt1US2mWpeXA&expires=1792166115",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/1326f15e3b48f201edcc99f4f99e4c8c/master.m3u8?md5=e0xBeOVXa3Pt1US2mWpeXA&expires=1792166115",
+                "videoSource": "https://ravok.buzz/cdn/hls/1326f15e3b48f201edcc99f4f99e4c8c/master.m3u8?md5=e0xBeOVXa3Pt1US2mWpeXA&expires=1792166115",
+                "link": "https://ravok.buzz/cdn/hls/1326f15e3b48f201edcc99f4f99e4c8c/master.m3u8?md5=e0xBeOVXa3Pt1US2mWpeXA&expires=1792166115",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/20OAwDmISihoBj7-IoBw_J0Huwmkbo23P9_8Ishra9vWvgpWykcUG5gr13wpvSAY0qSahoser0Hpc7RalRSwyA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "r2YD-5NRZ"
+        }
+      },
+      "fetched_at": "2026-10-16T13:55:25Z"
+    },
+    {
+      "id": "episode/remonster-1x7",
+      "episode_id": "episode/remonster-1x7",
+      "title": "Re:Monster 1x1",
+      "episode_name": "Re:Monster 1x1",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1447_s1e7.webp",
+      "abyssid": "13816",
+      "abyssId": "13816",
+      "playxid": "643d54cbb5e50cf4a6e978af475a98a2",
+      "playXID": "643d54cbb5e50cf4a6e978af475a98a2",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13816",
+        "playXID": "643d54cbb5e50cf4a6e978af475a98a2",
+        "streamId": "13816",
+        "dubPlayerSrc": "/dub-player/t/13816/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=643d54cbb5e50cf4a6e978af475a98a2&abyssId=13816"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13816",
+        "playXID": "643d54cbb5e50cf4a6e978af475a98a2",
+        "streamId": "13816",
+        "dubPlayerSrc": "/dub-player/t/13816/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=643d54cbb5e50cf4a6e978af475a98a2&abyssId=13816"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/643d54cbb5e50cf4a6e978af475a98a2",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/643d54cbb5e50cf4a6e978af475a98a2"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13816",
+        "abyssId": "13816",
+        "playXID": "643d54cbb5e50cf4a6e978af475a98a2",
+        "title": "Re:Monster",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "rzapW3Gb3"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "WXLhufvVa"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "7ZIyf9FQb"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "xgGesuAwgQ"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "qn0gDN-aCM"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/a10900d5a967e2ceb85da4f4399bfdb9/master.m3u8?md5=s0u3CVHH5YJXoJ8QxsN6Bw&expires=1792166115",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/a10900d5a967e2ceb85da4f4399bfdb9/master.m3u8?md5=s0u3CVHH5YJXoJ8QxsN6Bw&expires=1792166115",
+            "videoSource": "https://ravok.buzz/cdn/hls/a10900d5a967e2ceb85da4f4399bfdb9/master.m3u8?md5=s0u3CVHH5YJXoJ8QxsN6Bw&expires=1792166115",
+            "videoImage": "https://as-cdn30.top/p/a6geRooYlJxtnG7fvizsVlfL4BvGX0cHcHVMUolWfhJJ4UcCLItNGT5qhoCJia0idBjvmTxPYbiSGQ9w33y3Pg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "643d54cbb5e50cf4a6e978af475a98a2",
+                "streamUrl": "https://ravok.buzz/cdn/hls/a10900d5a967e2ceb85da4f4399bfdb9/master.m3u8?md5=s0u3CVHH5YJXoJ8QxsN6Bw&expires=1792166115",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/a10900d5a967e2ceb85da4f4399bfdb9/master.m3u8?md5=s0u3CVHH5YJXoJ8QxsN6Bw&expires=1792166115",
+                "videoSource": "https://ravok.buzz/cdn/hls/a10900d5a967e2ceb85da4f4399bfdb9/master.m3u8?md5=s0u3CVHH5YJXoJ8QxsN6Bw&expires=1792166115",
+                "link": "https://ravok.buzz/cdn/hls/a10900d5a967e2ceb85da4f4399bfdb9/master.m3u8?md5=s0u3CVHH5YJXoJ8QxsN6Bw&expires=1792166115",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/a6geRooYlJxtnG7fvizsVlfL4BvGX0cHcHVMUolWfhJJ4UcCLItNGT5qhoCJia0idBjvmTxPYbiSGQ9w33y3Pg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "rzapW3Gb3"
+        }
+      },
+      "fetched_at": "2026-10-16T13:55:25Z"
+    },
+    {
+      "id": "episode/remonster-1x8",
+      "episode_id": "episode/remonster-1x8",
+      "title": "Re:Monster 1x1",
+      "episode_name": "Re:Monster 1x1",
+      "episode_number": 8,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1447_s1e8.webp",
+      "abyssid": "13817",
+      "abyssId": "13817",
+      "playxid": "a50303d16c89e22c53d45bd5b9fd888b",
+      "playXID": "a50303d16c89e22c53d45bd5b9fd888b",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13817",
+        "playXID": "a50303d16c89e22c53d45bd5b9fd888b",
+        "streamId": "13817",
+        "dubPlayerSrc": "/dub-player/t/13817/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a50303d16c89e22c53d45bd5b9fd888b&abyssId=13817"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13817",
+        "playXID": "a50303d16c89e22c53d45bd5b9fd888b",
+        "streamId": "13817",
+        "dubPlayerSrc": "/dub-player/t/13817/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a50303d16c89e22c53d45bd5b9fd888b&abyssId=13817"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/a50303d16c89e22c53d45bd5b9fd888b",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/a50303d16c89e22c53d45bd5b9fd888b"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13817",
+        "abyssId": "13817",
+        "playXID": "a50303d16c89e22c53d45bd5b9fd888b",
+        "title": "Re:Monster",
+        "season": 1,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "DrGX3e3ba"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "az_uG6Iw3"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "OmYlUYN9N"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "rm5wLSar5"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "VGkftP8u4"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/1fa49dbb2614ba714e82e0c18e9fa8ee/master.m3u8?md5=SQQJ91HoiGTxrsH3caaBJA&expires=1792166115",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/1fa49dbb2614ba714e82e0c18e9fa8ee/master.m3u8?md5=SQQJ91HoiGTxrsH3caaBJA&expires=1792166115",
+            "videoSource": "https://ravok.buzz/cdn/hls/1fa49dbb2614ba714e82e0c18e9fa8ee/master.m3u8?md5=SQQJ91HoiGTxrsH3caaBJA&expires=1792166115",
+            "videoImage": "https://as-cdn28.top/p/JPrFqRs8OriLIc7GB35mXuLqpyrQF7GY8mRiUZrdIzSUGoQNIp9k_Qyno6uWh43v91gJzL7cWsHqUt1vRqrE7A.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "a50303d16c89e22c53d45bd5b9fd888b",
+                "streamUrl": "https://ravok.buzz/cdn/hls/1fa49dbb2614ba714e82e0c18e9fa8ee/master.m3u8?md5=SQQJ91HoiGTxrsH3caaBJA&expires=1792166115",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/1fa49dbb2614ba714e82e0c18e9fa8ee/master.m3u8?md5=SQQJ91HoiGTxrsH3caaBJA&expires=1792166115",
+                "videoSource": "https://ravok.buzz/cdn/hls/1fa49dbb2614ba714e82e0c18e9fa8ee/master.m3u8?md5=SQQJ91HoiGTxrsH3caaBJA&expires=1792166115",
+                "link": "https://ravok.buzz/cdn/hls/1fa49dbb2614ba714e82e0c18e9fa8ee/master.m3u8?md5=SQQJ91HoiGTxrsH3caaBJA&expires=1792166115",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/JPrFqRs8OriLIc7GB35mXuLqpyrQF7GY8mRiUZrdIzSUGoQNIp9k_Qyno6uWh43v91gJzL7cWsHqUt1vRqrE7A.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "DrGX3e3ba"
+        }
+      },
+      "fetched_at": "2026-10-16T13:55:25Z"
+    },
+    {
+      "id": "episode/remonster-1x9",
+      "episode_id": "episode/remonster-1x9",
+      "title": "Re:Monster 1x1",
+      "episode_name": "Re:Monster 1x1",
+      "episode_number": 9,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1447_s1e9.webp",
+      "abyssid": "13818",
+      "abyssId": "13818",
+      "playxid": "ae98e3391c4268302e0e8f97c3c005bb",
+      "playXID": "ae98e3391c4268302e0e8f97c3c005bb",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13818",
+        "playXID": "ae98e3391c4268302e0e8f97c3c005bb",
+        "streamId": "13818",
+        "dubPlayerSrc": "/dub-player/t/13818/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ae98e3391c4268302e0e8f97c3c005bb&abyssId=13818"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13818",
+        "playXID": "ae98e3391c4268302e0e8f97c3c005bb",
+        "streamId": "13818",
+        "dubPlayerSrc": "/dub-player/t/13818/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ae98e3391c4268302e0e8f97c3c005bb&abyssId=13818"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/ae98e3391c4268302e0e8f97c3c005bb",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/ae98e3391c4268302e0e8f97c3c005bb"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13818",
+        "abyssId": "13818",
+        "playXID": "ae98e3391c4268302e0e8f97c3c005bb",
+        "title": "Re:Monster",
+        "season": 1,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "QK_HZ6N28F"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "nNVfQdAb8n"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "m_tOTeMYw"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "Z0uYNandK"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "JY0Cecrt4"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/2d7224ef01474abb03a34b17a956aa91/master.m3u8?md5=KCUpaQTvYdlSXf98TZjmZA&expires=1792166116",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/2d7224ef01474abb03a34b17a956aa91/master.m3u8?md5=KCUpaQTvYdlSXf98TZjmZA&expires=1792166116",
+            "videoSource": "https://ravok.buzz/cdn/hls/2d7224ef01474abb03a34b17a956aa91/master.m3u8?md5=KCUpaQTvYdlSXf98TZjmZA&expires=1792166116",
+            "videoImage": "https://as-cdn27.top/p/fyMydphJdLQ4aMQ5bN8DydELvx-YFB8GMksjYnnh71dUFjsxF4BUPLGx_Bs6BWvoVjWjzPws7KjQaLqKoeSYWQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "ae98e3391c4268302e0e8f97c3c005bb",
+                "streamUrl": "https://ravok.buzz/cdn/hls/2d7224ef01474abb03a34b17a956aa91/master.m3u8?md5=KCUpaQTvYdlSXf98TZjmZA&expires=1792166116",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/2d7224ef01474abb03a34b17a956aa91/master.m3u8?md5=KCUpaQTvYdlSXf98TZjmZA&expires=1792166116",
+                "videoSource": "https://ravok.buzz/cdn/hls/2d7224ef01474abb03a34b17a956aa91/master.m3u8?md5=KCUpaQTvYdlSXf98TZjmZA&expires=1792166116",
+                "link": "https://ravok.buzz/cdn/hls/2d7224ef01474abb03a34b17a956aa91/master.m3u8?md5=KCUpaQTvYdlSXf98TZjmZA&expires=1792166116",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/fyMydphJdLQ4aMQ5bN8DydELvx-YFB8GMksjYnnh71dUFjsxF4BUPLGx_Bs6BWvoVjWjzPws7KjQaLqKoeSYWQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "QK_HZ6N28F"
+        }
+      },
+      "fetched_at": "2026-10-16T13:55:26Z"
+    },
+    {
+      "id": "episode/remonster-1x10",
+      "episode_id": "episode/remonster-1x10",
+      "title": "Re:Monster 1x1",
+      "episode_name": "Re:Monster 1x1",
+      "episode_number": 10,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1447_s1e10.webp",
+      "abyssid": "13819",
+      "abyssId": "13819",
+      "playxid": "79b8072704504943c4a4e5900945f2a9",
+      "playXID": "79b8072704504943c4a4e5900945f2a9",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13819",
+        "playXID": "79b8072704504943c4a4e5900945f2a9",
+        "streamId": "13819",
+        "dubPlayerSrc": "/dub-player/t/13819/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=79b8072704504943c4a4e5900945f2a9&abyssId=13819"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13819",
+        "playXID": "79b8072704504943c4a4e5900945f2a9",
+        "streamId": "13819",
+        "dubPlayerSrc": "/dub-player/t/13819/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=79b8072704504943c4a4e5900945f2a9&abyssId=13819"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/79b8072704504943c4a4e5900945f2a9",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/79b8072704504943c4a4e5900945f2a9"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13819",
+        "abyssId": "13819",
+        "playXID": "79b8072704504943c4a4e5900945f2a9",
+        "title": "Re:Monster",
+        "season": 1,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "jaYq26e0l"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "SSW61PNtl"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "RN5RIYAQz"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "Wsl47Mq2N"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "HPGlHfo1x"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/dd1a3d8b74c240a941fbd58e2f8e7882/master.m3u8?md5=UxQdqKTipmvO_DbJn_eUdw&expires=1792166116",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/dd1a3d8b74c240a941fbd58e2f8e7882/master.m3u8?md5=UxQdqKTipmvO_DbJn_eUdw&expires=1792166116",
+            "videoSource": "https://ravok.buzz/cdn/hls/dd1a3d8b74c240a941fbd58e2f8e7882/master.m3u8?md5=UxQdqKTipmvO_DbJn_eUdw&expires=1792166116",
+            "videoImage": "https://as-cdn31.top/p/GDVhbqJkM6bfZFrOhaMl25bOqcx3GSPzZCXlt3fWSC0EVeYGZ8K1lmRthH_FqfG_tREv-_07D7-tkBcKI8UMwg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "79b8072704504943c4a4e5900945f2a9",
+                "streamUrl": "https://ravok.buzz/cdn/hls/dd1a3d8b74c240a941fbd58e2f8e7882/master.m3u8?md5=UxQdqKTipmvO_DbJn_eUdw&expires=1792166116",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/dd1a3d8b74c240a941fbd58e2f8e7882/master.m3u8?md5=UxQdqKTipmvO_DbJn_eUdw&expires=1792166116",
+                "videoSource": "https://ravok.buzz/cdn/hls/dd1a3d8b74c240a941fbd58e2f8e7882/master.m3u8?md5=UxQdqKTipmvO_DbJn_eUdw&expires=1792166116",
+                "link": "https://ravok.buzz/cdn/hls/dd1a3d8b74c240a941fbd58e2f8e7882/master.m3u8?md5=UxQdqKTipmvO_DbJn_eUdw&expires=1792166116",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/GDVhbqJkM6bfZFrOhaMl25bOqcx3GSPzZCXlt3fWSC0EVeYGZ8K1lmRthH_FqfG_tREv-_07D7-tkBcKI8UMwg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "jaYq26e0l"
+        }
+      },
+      "fetched_at": "2026-10-16T13:55:26Z"
+    },
+    {
+      "id": "episode/remonster-1x12",
+      "episode_id": "episode/remonster-1x12",
+      "title": "Re:Monster 1x1",
+      "episode_name": "Re:Monster 1x1",
+      "episode_number": 12,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1447_s1e12.webp",
+      "abyssid": "13821",
+      "abyssId": "13821",
+      "playxid": "48e4527085f884352825f9f7df2846db",
+      "playXID": "48e4527085f884352825f9f7df2846db",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13821",
+        "playXID": "48e4527085f884352825f9f7df2846db",
+        "streamId": "13821",
+        "dubPlayerSrc": "/dub-player/t/13821/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=48e4527085f884352825f9f7df2846db&abyssId=13821"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13821",
+        "playXID": "48e4527085f884352825f9f7df2846db",
+        "streamId": "13821",
+        "dubPlayerSrc": "/dub-player/t/13821/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=48e4527085f884352825f9f7df2846db&abyssId=13821"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/48e4527085f884352825f9f7df2846db",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/48e4527085f884352825f9f7df2846db"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13821",
+        "abyssId": "13821",
+        "playXID": "48e4527085f884352825f9f7df2846db",
+        "title": "Re:Monster",
+        "season": 1,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "_Swh93gbL"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "RdxMWDdY4w"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "s9-BFkcHUj"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "xaiye9fIY"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "BeJ3kKxB-"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/8fc59e286025ed3e7be70b1d593b615d/master.m3u8?md5=lgxePage3wowS4_GFE1t-g&expires=1792166117",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/8fc59e286025ed3e7be70b1d593b615d/master.m3u8?md5=lgxePage3wowS4_GFE1t-g&expires=1792166117",
+            "videoSource": "https://ravok.buzz/cdn/hls/8fc59e286025ed3e7be70b1d593b615d/master.m3u8?md5=lgxePage3wowS4_GFE1t-g&expires=1792166117",
+            "videoImage": "https://as-cdn29.top/p/yzYxr4Z5cjgXHcgfBChbjNa9FYi1_pDJEObftzI9TZpxkKwxLVdx094EtDBw28JZbOpwa7dUHbD2bksnhpKfhg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "48e4527085f884352825f9f7df2846db",
+                "streamUrl": "https://ravok.buzz/cdn/hls/8fc59e286025ed3e7be70b1d593b615d/master.m3u8?md5=lgxePage3wowS4_GFE1t-g&expires=1792166117",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/8fc59e286025ed3e7be70b1d593b615d/master.m3u8?md5=lgxePage3wowS4_GFE1t-g&expires=1792166117",
+                "videoSource": "https://ravok.buzz/cdn/hls/8fc59e286025ed3e7be70b1d593b615d/master.m3u8?md5=lgxePage3wowS4_GFE1t-g&expires=1792166117",
+                "link": "https://ravok.buzz/cdn/hls/8fc59e286025ed3e7be70b1d593b615d/master.m3u8?md5=lgxePage3wowS4_GFE1t-g&expires=1792166117",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/yzYxr4Z5cjgXHcgfBChbjNa9FYi1_pDJEObftzI9TZpxkKwxLVdx094EtDBw28JZbOpwa7dUHbD2bksnhpKfhg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "_Swh93gbL"
+        }
+      },
+      "fetched_at": "2026-10-16T13:55:28Z"
+    },
+    {
+      "id": "episode/remonster-1x11",
+      "episode_id": "episode/remonster-1x11",
+      "title": "Re:Monster 1x1",
+      "episode_name": "Re:Monster 1x1",
+      "episode_number": 11,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1447_s1e11.webp",
+      "abyssid": "13820",
+      "abyssId": "13820",
+      "playxid": "7979302d766d1aec8f3697ef54906887",
+      "playXID": "7979302d766d1aec8f3697ef54906887",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13820",
+        "playXID": "7979302d766d1aec8f3697ef54906887",
+        "streamId": "13820",
+        "dubPlayerSrc": "/dub-player/t/13820/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=7979302d766d1aec8f3697ef54906887&abyssId=13820"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13820",
+        "playXID": "7979302d766d1aec8f3697ef54906887",
+        "streamId": "13820",
+        "dubPlayerSrc": "/dub-player/t/13820/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=7979302d766d1aec8f3697ef54906887&abyssId=13820"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/7979302d766d1aec8f3697ef54906887",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/7979302d766d1aec8f3697ef54906887"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13820",
+        "abyssId": "13820",
+        "playXID": "7979302d766d1aec8f3697ef54906887",
+        "title": "Re:Monster",
+        "season": 1,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "lkzkXWjMF"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "c4TOJDAH7k"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "UP3nlmVHx"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "9zpyB5Qx5"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "jm5Fjc__7"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/8d394a7d181e9a7a03138afd06ded40f/master.m3u8?md5=sj0-xW0VJCQ2L4xGd7MaUw&expires=1792166118",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/8d394a7d181e9a7a03138afd06ded40f/master.m3u8?md5=sj0-xW0VJCQ2L4xGd7MaUw&expires=1792166118",
+            "videoSource": "https://ravok.buzz/cdn/hls/8d394a7d181e9a7a03138afd06ded40f/master.m3u8?md5=sj0-xW0VJCQ2L4xGd7MaUw&expires=1792166118",
+            "videoImage": "https://as-cdn31.top/p/_Y5kRVkzNX9c45I63HWhL_skZkAHwc_sfMs_s-HunDl1mJG7lj8Xz67-RsIVWbOx_xpWd37sx7wT21Hw1qPlww.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "7979302d766d1aec8f3697ef54906887",
+                "streamUrl": "https://ravok.buzz/cdn/hls/8d394a7d181e9a7a03138afd06ded40f/master.m3u8?md5=sj0-xW0VJCQ2L4xGd7MaUw&expires=1792166118",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/8d394a7d181e9a7a03138afd06ded40f/master.m3u8?md5=sj0-xW0VJCQ2L4xGd7MaUw&expires=1792166118",
+                "videoSource": "https://ravok.buzz/cdn/hls/8d394a7d181e9a7a03138afd06ded40f/master.m3u8?md5=sj0-xW0VJCQ2L4xGd7MaUw&expires=1792166118",
+                "link": "https://ravok.buzz/cdn/hls/8d394a7d181e9a7a03138afd06ded40f/master.m3u8?md5=sj0-xW0VJCQ2L4xGd7MaUw&expires=1792166118",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/_Y5kRVkzNX9c45I63HWhL_skZkAHwc_sfMs_s-HunDl1mJG7lj8Xz67-RsIVWbOx_xpWd37sx7wT21Hw1qPlww.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "lkzkXWjMF"
+        }
+      },
+      "fetched_at": "2026-10-16T13:55:28Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T13:55:21Z",
+  "updated_at": "2026-10-16T13:55:28Z"
+}

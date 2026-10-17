@@ -1,0 +1,43 @@
+{
+  "id": "series/grand-blue-dreaming",
+  "series_name": "Grand Blue Dreaming",
+  "title": "Grand Blue Dreaming",
+  "banner": "https://image.tmdb.org/t/p/w1280/gitV0eHjJfuC0aW61QodENeXsWf.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/ii1yrluzWisy1rygSKz8lJkAkil.jpg",
+  "genra": [
+    "Adult Cast",
+    "Comedy",
+    "Slice of Life",
+    "Sports"
+  ],
+  "genres": [
+    "Adult Cast",
+    "Comedy",
+    "Slice of Life",
+    "Sports"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Japanese"
+  ],
+  "synopsis": "A college student joins the local diving club after meeting some rowdy upperclassmen. New adventures in booze and the ocean await.",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 0,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 0,
+      "episodes": []
+    }
+  ],
+  "episodes": [],
+  "is_complete": true,
+  "created_at": "2026-10-16T13:52:40Z",
+  "updated_at": "2026-10-16T13:52:40Z"
+}

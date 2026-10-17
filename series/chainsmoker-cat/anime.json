@@ -1,0 +1,631 @@
+{
+  "id": "series/chainsmoker-cat",
+  "series_name": "Chainsmoker Cat",
+  "title": "Chainsmoker Cat",
+  "banner": "https://image.tmdb.org/t/p/w1280/4ei68OmZr0XHnN82OjiV8GBqfyN.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/kqeKlSd7o9BCbTraZsDnksRSfxm.jpg",
+  "genra": [
+    "Adult Cast",
+    "Comedy",
+    "Slice of Life"
+  ],
+  "genres": [
+    "Adult Cast",
+    "Comedy",
+    "Slice of Life"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Japanese",
+    "Tamil",
+    "Telugu"
+  ],
+  "synopsis": "Catgirl Yani struggles to pay her rent and keep a job while feeding her smoking habit. As her loved ones' concerns grow, she must rethink her future.",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 6,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 6,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Chainsmoker Cat 1x1",
+          "id": "episode/chainsmoker-cat-1x1",
+          "image": "https://img.watchanimeworld.one/img/thumb_2500_s1e1.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "Chainsmoker Cat 1x2",
+          "id": "episode/chainsmoker-cat-1x2",
+          "image": "https://img.watchanimeworld.one/img/thumb_2500_s1e2.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "Chainsmoker Cat 1x3",
+          "id": "episode/chainsmoker-cat-1x3",
+          "image": "https://img.watchanimeworld.one/img/thumb_2500_s1e3.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "Chainsmoker Cat 1x4",
+          "id": "episode/chainsmoker-cat-1x4",
+          "image": "https://img.watchanimeworld.one/img/thumb_2500_s1e4.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "Chainsmoker Cat 1x5",
+          "id": "episode/chainsmoker-cat-1x5",
+          "image": "https://img.watchanimeworld.one/img/thumb_2500_s1e5.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "Chainsmoker Cat 1x6",
+          "id": "episode/chainsmoker-cat-1x6",
+          "image": "https://img.watchanimeworld.one/img/thumb_2500_s1e6.webp",
+          "season": 1
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/chainsmoker-cat-1x1",
+      "episode_id": "episode/chainsmoker-cat-1x1",
+      "title": "Chainsmoker Cat 1x1",
+      "episode_name": "Chainsmoker Cat 1x1",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2500_s1e1.webp",
+      "abyssid": "18750",
+      "abyssId": "18750",
+      "playxid": "cec819fa603e0b3f17e6aeaf4a6e6890",
+      "playXID": "cec819fa603e0b3f17e6aeaf4a6e6890",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18750",
+        "playXID": "cec819fa603e0b3f17e6aeaf4a6e6890",
+        "streamId": "18750",
+        "dubPlayerSrc": "/dub-player/t/18750/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=cec819fa603e0b3f17e6aeaf4a6e6890&abyssId=18750"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18750",
+        "playXID": "cec819fa603e0b3f17e6aeaf4a6e6890",
+        "streamId": "18750",
+        "dubPlayerSrc": "/dub-player/t/18750/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=cec819fa603e0b3f17e6aeaf4a6e6890&abyssId=18750"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/895b6af63f9be375e707a988ace34ab9",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/895b6af63f9be375e707a988ace34ab9"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18750",
+        "abyssId": "18750",
+        "playXID": "cec819fa603e0b3f17e6aeaf4a6e6890",
+        "title": "Chainsmoker Cat",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "Y_mxaNPL6K"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "cD5CjV17Hc"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "uBv1j_fdL"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "O4ioUrrxs"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "mvtVfPwLK"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/a4776a8b6c195dab0363c6617a49ff00/master.m3u8?md5=CZ9Kj09J2I69t7x2yqbZSg&expires=1792165851",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/a4776a8b6c195dab0363c6617a49ff00/master.m3u8?md5=CZ9Kj09J2I69t7x2yqbZSg&expires=1792165851",
+            "videoSource": "https://ravok.buzz/cdn/hls/a4776a8b6c195dab0363c6617a49ff00/master.m3u8?md5=CZ9Kj09J2I69t7x2yqbZSg&expires=1792165851",
+            "videoImage": "https://as-cdn30.top/p/sFcws3sGEP4dwtOd98TN_IzQWtwdIcsriJe5WoQN0KIv-nxl9jiaUOAJXoJmuIShxL1ER5wTRUPs4QNkx2w6DQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "cec819fa603e0b3f17e6aeaf4a6e6890",
+                "streamUrl": "https://ravok.buzz/cdn/hls/a4776a8b6c195dab0363c6617a49ff00/master.m3u8?md5=CZ9Kj09J2I69t7x2yqbZSg&expires=1792165851",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/a4776a8b6c195dab0363c6617a49ff00/master.m3u8?md5=CZ9Kj09J2I69t7x2yqbZSg&expires=1792165851",
+                "videoSource": "https://ravok.buzz/cdn/hls/a4776a8b6c195dab0363c6617a49ff00/master.m3u8?md5=CZ9Kj09J2I69t7x2yqbZSg&expires=1792165851",
+                "link": "https://ravok.buzz/cdn/hls/a4776a8b6c195dab0363c6617a49ff00/master.m3u8?md5=CZ9Kj09J2I69t7x2yqbZSg&expires=1792165851",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/sFcws3sGEP4dwtOd98TN_IzQWtwdIcsriJe5WoQN0KIv-nxl9jiaUOAJXoJmuIShxL1ER5wTRUPs4QNkx2w6DQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "Y_mxaNPL6K"
+        }
+      },
+      "fetched_at": "2026-10-16T13:51:01Z"
+    },
+    {
+      "id": "episode/chainsmoker-cat-1x5",
+      "episode_id": "episode/chainsmoker-cat-1x5",
+      "title": "Chainsmoker Cat 1x1",
+      "episode_name": "Chainsmoker Cat 1x1",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2500_s1e5.webp",
+      "abyssid": null,
+      "abyssId": null,
+      "playxid": "68e3bf852693ad8a72f32fdfe50dc6d4",
+      "playXID": "68e3bf852693ad8a72f32fdfe50dc6d4",
+      "stream_info": {
+        "hasDubPlayer": false,
+        "abyssId": null,
+        "playXID": "68e3bf852693ad8a72f32fdfe50dc6d4",
+        "streamId": null,
+        "dubPlayerSrc": null,
+        "message": "No episode sources found",
+        "serversEndpoint": "/stream/servers/?playXID=68e3bf852693ad8a72f32fdfe50dc6d4"
+      },
+      "streamInfo": {
+        "hasDubPlayer": false,
+        "abyssId": null,
+        "playXID": "68e3bf852693ad8a72f32fdfe50dc6d4",
+        "streamId": null,
+        "dubPlayerSrc": null,
+        "message": "No episode sources found",
+        "serversEndpoint": "/stream/servers/?playXID=68e3bf852693ad8a72f32fdfe50dc6d4"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/2234204dcec1a25356f2ffe8ca96d2d7",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/2234204dcec1a25356f2ffe8ca96d2d7"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "68e3bf852693ad8a72f32fdfe50dc6d4",
+        "abyssId": null,
+        "playXID": "68e3bf852693ad8a72f32fdfe50dc6d4",
+        "title": "Episode Stream",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/e288b4afe83ca2cbd2d7168f59a35f96/master.m3u8?md5=c9T9zYac7J0_cLmzCbdeQQ&expires=1792165852",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/e288b4afe83ca2cbd2d7168f59a35f96/master.m3u8?md5=c9T9zYac7J0_cLmzCbdeQQ&expires=1792165852",
+            "videoSource": "https://ravok.buzz/cdn/hls/e288b4afe83ca2cbd2d7168f59a35f96/master.m3u8?md5=c9T9zYac7J0_cLmzCbdeQQ&expires=1792165852",
+            "videoImage": "https://as-cdn31.top/p/wj408s6jeZbPJAt9WIvzBs-Z7it-0YL1NGVCdX-OSdV9vm4yVyxo2pr3b3ydBudbItY3NyqESubb6-ivNCuEmg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "68e3bf852693ad8a72f32fdfe50dc6d4",
+                "streamUrl": "https://ravok.buzz/cdn/hls/e288b4afe83ca2cbd2d7168f59a35f96/master.m3u8?md5=c9T9zYac7J0_cLmzCbdeQQ&expires=1792165852",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/e288b4afe83ca2cbd2d7168f59a35f96/master.m3u8?md5=c9T9zYac7J0_cLmzCbdeQQ&expires=1792165852",
+                "videoSource": "https://ravok.buzz/cdn/hls/e288b4afe83ca2cbd2d7168f59a35f96/master.m3u8?md5=c9T9zYac7J0_cLmzCbdeQQ&expires=1792165852",
+                "link": "https://ravok.buzz/cdn/hls/e288b4afe83ca2cbd2d7168f59a35f96/master.m3u8?md5=c9T9zYac7J0_cLmzCbdeQQ&expires=1792165852",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/wj408s6jeZbPJAt9WIvzBs-Z7it-0YL1NGVCdX-OSdV9vm4yVyxo2pr3b3ydBudbItY3NyqESubb6-ivNCuEmg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "playx",
+          "language": "multi",
+          "video_id": "68e3bf852693ad8a72f32fdfe50dc6d4",
+          "streamUrl": "https://ravok.buzz/cdn/hls/e288b4afe83ca2cbd2d7168f59a35f96/master.m3u8?md5=c9T9zYac7J0_cLmzCbdeQQ&expires=1792165852"
+        }
+      },
+      "fetched_at": "2026-10-16T13:51:02Z"
+    },
+    {
+      "id": "episode/chainsmoker-cat-1x4",
+      "episode_id": "episode/chainsmoker-cat-1x4",
+      "title": "Chainsmoker Cat 1x1",
+      "episode_name": "Chainsmoker Cat 1x1",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2500_s1e4.webp",
+      "abyssid": null,
+      "abyssId": null,
+      "playxid": "18b8ea83d814103c4a8f379165ce9a62",
+      "playXID": "18b8ea83d814103c4a8f379165ce9a62",
+      "stream_info": {
+        "hasDubPlayer": false,
+        "abyssId": null,
+        "playXID": "18b8ea83d814103c4a8f379165ce9a62",
+        "streamId": null,
+        "dubPlayerSrc": null,
+        "message": "No episode sources found",
+        "serversEndpoint": "/stream/servers/?playXID=18b8ea83d814103c4a8f379165ce9a62"
+      },
+      "streamInfo": {
+        "hasDubPlayer": false,
+        "abyssId": null,
+        "playXID": "18b8ea83d814103c4a8f379165ce9a62",
+        "streamId": null,
+        "dubPlayerSrc": null,
+        "message": "No episode sources found",
+        "serversEndpoint": "/stream/servers/?playXID=18b8ea83d814103c4a8f379165ce9a62"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/ad2039e6ef9b35fe889db419691b472f",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/ad2039e6ef9b35fe889db419691b472f"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18b8ea83d814103c4a8f379165ce9a62",
+        "abyssId": null,
+        "playXID": "18b8ea83d814103c4a8f379165ce9a62",
+        "title": "Episode Stream",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/33bb9444023338d264eed0a7cc408aed/master.m3u8?md5=-euzzXCXbk3MlQr0fSVsJg&expires=1792165852",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/33bb9444023338d264eed0a7cc408aed/master.m3u8?md5=-euzzXCXbk3MlQr0fSVsJg&expires=1792165852",
+            "videoSource": "https://ravok.buzz/cdn/hls/33bb9444023338d264eed0a7cc408aed/master.m3u8?md5=-euzzXCXbk3MlQr0fSVsJg&expires=1792165852",
+            "videoImage": "https://as-cdn31.top/p/aaEZT-u0g0ntO7pcxIO4KAkn2lBI2m4pw4mjwolrrZVeTusG7eI0TPVEEat4oNJuIY5ncZF6ZoLrMWP5JXFcdg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "18b8ea83d814103c4a8f379165ce9a62",
+                "streamUrl": "https://ravok.buzz/cdn/hls/33bb9444023338d264eed0a7cc408aed/master.m3u8?md5=-euzzXCXbk3MlQr0fSVsJg&expires=1792165852",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/33bb9444023338d264eed0a7cc408aed/master.m3u8?md5=-euzzXCXbk3MlQr0fSVsJg&expires=1792165852",
+                "videoSource": "https://ravok.buzz/cdn/hls/33bb9444023338d264eed0a7cc408aed/master.m3u8?md5=-euzzXCXbk3MlQr0fSVsJg&expires=1792165852",
+                "link": "https://ravok.buzz/cdn/hls/33bb9444023338d264eed0a7cc408aed/master.m3u8?md5=-euzzXCXbk3MlQr0fSVsJg&expires=1792165852",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/aaEZT-u0g0ntO7pcxIO4KAkn2lBI2m4pw4mjwolrrZVeTusG7eI0TPVEEat4oNJuIY5ncZF6ZoLrMWP5JXFcdg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "playx",
+          "language": "multi",
+          "video_id": "18b8ea83d814103c4a8f379165ce9a62",
+          "streamUrl": "https://ravok.buzz/cdn/hls/33bb9444023338d264eed0a7cc408aed/master.m3u8?md5=-euzzXCXbk3MlQr0fSVsJg&expires=1792165852"
+        }
+      },
+      "fetched_at": "2026-10-16T13:51:02Z"
+    },
+    {
+      "id": "episode/chainsmoker-cat-1x2",
+      "episode_id": "episode/chainsmoker-cat-1x2",
+      "title": "Chainsmoker Cat 1x1",
+      "episode_name": "Chainsmoker Cat 1x1",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2500_s1e2.webp",
+      "abyssid": "18751",
+      "abyssId": "18751",
+      "playxid": "8ac8ab5790be587836c18b1e2184bac0",
+      "playXID": "8ac8ab5790be587836c18b1e2184bac0",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18751",
+        "playXID": "8ac8ab5790be587836c18b1e2184bac0",
+        "streamId": "18751",
+        "dubPlayerSrc": "/dub-player/t/18751/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8ac8ab5790be587836c18b1e2184bac0&abyssId=18751"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18751",
+        "playXID": "8ac8ab5790be587836c18b1e2184bac0",
+        "streamId": "18751",
+        "dubPlayerSrc": "/dub-player/t/18751/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8ac8ab5790be587836c18b1e2184bac0&abyssId=18751"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/9328494eae1f7b446aeca7ed0a14a520",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/9328494eae1f7b446aeca7ed0a14a520"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18751",
+        "abyssId": "18751",
+        "playXID": "8ac8ab5790be587836c18b1e2184bac0",
+        "title": "Chainsmoker Cat",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "nrjHTUZU4"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "h0odpwWiW"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "NylOLm7a8"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "-qY9PalDT"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "ADxK_AF8e"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/90105d2d1999eaeea04f19499c5850e7/master.m3u8?md5=ILE4WjATFG_SNT6s_AwBxQ&expires=1792165852",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/90105d2d1999eaeea04f19499c5850e7/master.m3u8?md5=ILE4WjATFG_SNT6s_AwBxQ&expires=1792165852",
+            "videoSource": "https://ravok.buzz/cdn/hls/90105d2d1999eaeea04f19499c5850e7/master.m3u8?md5=ILE4WjATFG_SNT6s_AwBxQ&expires=1792165852",
+            "videoImage": "https://as-cdn28.top/p/zmkqAxBOoBTZEr35Ajtx9IXGXVd1k2j9FEC3mgXWPyMq9wpw2SveJtFlf0RmGFuOivoqAdJf-mX1oiH1Jxt0vw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "8ac8ab5790be587836c18b1e2184bac0",
+                "streamUrl": "https://ravok.buzz/cdn/hls/90105d2d1999eaeea04f19499c5850e7/master.m3u8?md5=ILE4WjATFG_SNT6s_AwBxQ&expires=1792165852",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/90105d2d1999eaeea04f19499c5850e7/master.m3u8?md5=ILE4WjATFG_SNT6s_AwBxQ&expires=1792165852",
+                "videoSource": "https://ravok.buzz/cdn/hls/90105d2d1999eaeea04f19499c5850e7/master.m3u8?md5=ILE4WjATFG_SNT6s_AwBxQ&expires=1792165852",
+                "link": "https://ravok.buzz/cdn/hls/90105d2d1999eaeea04f19499c5850e7/master.m3u8?md5=ILE4WjATFG_SNT6s_AwBxQ&expires=1792165852",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/zmkqAxBOoBTZEr35Ajtx9IXGXVd1k2j9FEC3mgXWPyMq9wpw2SveJtFlf0RmGFuOivoqAdJf-mX1oiH1Jxt0vw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "nrjHTUZU4"
+        }
+      },
+      "fetched_at": "2026-10-16T13:51:02Z"
+    },
+    {
+      "id": "episode/chainsmoker-cat-1x3",
+      "episode_id": "episode/chainsmoker-cat-1x3",
+      "title": "Chainsmoker Cat 1x1",
+      "episode_name": "Chainsmoker Cat 1x1",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2500_s1e3.webp",
+      "abyssid": null,
+      "abyssId": null,
+      "playxid": "65b895f322b9f9632fd0476db4a5c879",
+      "playXID": "65b895f322b9f9632fd0476db4a5c879",
+      "stream_info": {
+        "hasDubPlayer": false,
+        "abyssId": null,
+        "playXID": "65b895f322b9f9632fd0476db4a5c879",
+        "streamId": null,
+        "dubPlayerSrc": null,
+        "message": "No episode sources found",
+        "serversEndpoint": "/stream/servers/?playXID=65b895f322b9f9632fd0476db4a5c879"
+      },
+      "streamInfo": {
+        "hasDubPlayer": false,
+        "abyssId": null,
+        "playXID": "65b895f322b9f9632fd0476db4a5c879",
+        "streamId": null,
+        "dubPlayerSrc": null,
+        "message": "No episode sources found",
+        "serversEndpoint": "/stream/servers/?playXID=65b895f322b9f9632fd0476db4a5c879"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/490d72de1a6d78a51248e191c77322b4",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/490d72de1a6d78a51248e191c77322b4"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "65b895f322b9f9632fd0476db4a5c879",
+        "abyssId": null,
+        "playXID": "65b895f322b9f9632fd0476db4a5c879",
+        "title": "Episode Stream",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/8ffa0c82014b645857d4c02aebe3b269/master.m3u8?md5=LmiJnE_-sV21qdr8wulntQ&expires=1792165852",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/8ffa0c82014b645857d4c02aebe3b269/master.m3u8?md5=LmiJnE_-sV21qdr8wulntQ&expires=1792165852",
+            "videoSource": "https://ravok.buzz/cdn/hls/8ffa0c82014b645857d4c02aebe3b269/master.m3u8?md5=LmiJnE_-sV21qdr8wulntQ&expires=1792165852",
+            "videoImage": "https://as-cdn27.top/p/eqCdIu8Rcr19OHLdNb_GiV2qIbBWi-GEUIN2ewv8YLmKVEqferqGTRRRAgckKx5AWMtzIFZpI-OJ1fEfOl3Hzg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "65b895f322b9f9632fd0476db4a5c879",
+                "streamUrl": "https://ravok.buzz/cdn/hls/8ffa0c82014b645857d4c02aebe3b269/master.m3u8?md5=LmiJnE_-sV21qdr8wulntQ&expires=1792165852",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/8ffa0c82014b645857d4c02aebe3b269/master.m3u8?md5=LmiJnE_-sV21qdr8wulntQ&expires=1792165852",
+                "videoSource": "https://ravok.buzz/cdn/hls/8ffa0c82014b645857d4c02aebe3b269/master.m3u8?md5=LmiJnE_-sV21qdr8wulntQ&expires=1792165852",
+                "link": "https://ravok.buzz/cdn/hls/8ffa0c82014b645857d4c02aebe3b269/master.m3u8?md5=LmiJnE_-sV21qdr8wulntQ&expires=1792165852",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/eqCdIu8Rcr19OHLdNb_GiV2qIbBWi-GEUIN2ewv8YLmKVEqferqGTRRRAgckKx5AWMtzIFZpI-OJ1fEfOl3Hzg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "playx",
+          "language": "multi",
+          "video_id": "65b895f322b9f9632fd0476db4a5c879",
+          "streamUrl": "https://ravok.buzz/cdn/hls/8ffa0c82014b645857d4c02aebe3b269/master.m3u8?md5=LmiJnE_-sV21qdr8wulntQ&expires=1792165852"
+        }
+      },
+      "fetched_at": "2026-10-16T13:51:02Z"
+    },
+    {
+      "id": "episode/chainsmoker-cat-1x6",
+      "episode_id": "episode/chainsmoker-cat-1x6",
+      "title": "Chainsmoker Cat 1x1",
+      "episode_name": "Chainsmoker Cat 1x1",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2500_s1e6.webp",
+      "abyssid": null,
+      "abyssId": null,
+      "playxid": "8acac47f63dc5da08a77ff8eca8d3986",
+      "playXID": "8acac47f63dc5da08a77ff8eca8d3986",
+      "stream_info": {
+        "hasDubPlayer": false,
+        "abyssId": null,
+        "playXID": "8acac47f63dc5da08a77ff8eca8d3986",
+        "streamId": null,
+        "dubPlayerSrc": null,
+        "message": "No episode sources found",
+        "serversEndpoint": "/stream/servers/?playXID=8acac47f63dc5da08a77ff8eca8d3986"
+      },
+      "streamInfo": {
+        "hasDubPlayer": false,
+        "abyssId": null,
+        "playXID": "8acac47f63dc5da08a77ff8eca8d3986",
+        "streamId": null,
+        "dubPlayerSrc": null,
+        "message": "No episode sources found",
+        "serversEndpoint": "/stream/servers/?playXID=8acac47f63dc5da08a77ff8eca8d3986"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/3bdc5ed6ff858caa0570f4910fa1d8d7",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/3bdc5ed6ff858caa0570f4910fa1d8d7"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "8acac47f63dc5da08a77ff8eca8d3986",
+        "abyssId": null,
+        "playXID": "8acac47f63dc5da08a77ff8eca8d3986",
+        "title": "Episode Stream",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/8e5adfcab30071bdf628ae00a6ac9feb/master.m3u8?md5=eT6YEU1GTQEiBdtKP91FUw&expires=1792165853",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/8e5adfcab30071bdf628ae00a6ac9feb/master.m3u8?md5=eT6YEU1GTQEiBdtKP91FUw&expires=1792165853",
+            "videoSource": "https://ravok.buzz/cdn/hls/8e5adfcab30071bdf628ae00a6ac9feb/master.m3u8?md5=eT6YEU1GTQEiBdtKP91FUw&expires=1792165853",
+            "videoImage": "https://as-cdn27.top/p/09UJbzF8YF39ks1eYwpLiapzRWUDXzmfrP-6p2-OIlhv_wuKUsb8eHBdgiY6hdjq3au5hWKorgPEc6GlKBfX6A.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "8acac47f63dc5da08a77ff8eca8d3986",
+                "streamUrl": "https://ravok.buzz/cdn/hls/8e5adfcab30071bdf628ae00a6ac9feb/master.m3u8?md5=eT6YEU1GTQEiBdtKP91FUw&expires=1792165853",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/8e5adfcab30071bdf628ae00a6ac9feb/master.m3u8?md5=eT6YEU1GTQEiBdtKP91FUw&expires=1792165853",
+                "videoSource": "https://ravok.buzz/cdn/hls/8e5adfcab30071bdf628ae00a6ac9feb/master.m3u8?md5=eT6YEU1GTQEiBdtKP91FUw&expires=1792165853",
+                "link": "https://ravok.buzz/cdn/hls/8e5adfcab30071bdf628ae00a6ac9feb/master.m3u8?md5=eT6YEU1GTQEiBdtKP91FUw&expires=1792165853",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/09UJbzF8YF39ks1eYwpLiapzRWUDXzmfrP-6p2-OIlhv_wuKUsb8eHBdgiY6hdjq3au5hWKorgPEc6GlKBfX6A.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "playx",
+          "language": "multi",
+          "video_id": "8acac47f63dc5da08a77ff8eca8d3986",
+          "streamUrl": "https://ravok.buzz/cdn/hls/8e5adfcab30071bdf628ae00a6ac9feb/master.m3u8?md5=eT6YEU1GTQEiBdtKP91FUw&expires=1792165853"
+        }
+      },
+      "fetched_at": "2026-10-16T13:51:03Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T13:50:59Z",
+  "updated_at": "2026-10-16T13:51:03Z"
+}

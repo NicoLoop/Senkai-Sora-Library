@@ -1,0 +1,1495 @@
+{
+  "id": "series/hana-kimi",
+  "series_name": "Hana-Kimi",
+  "title": "Hana-Kimi",
+  "banner": "https://image.tmdb.org/t/p/w1280/2RT3KHdE54JXchZJBQyQOFXUx5q.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/wCZn0Is62Tx4HC9WuFGYysjeHCx.jpg",
+  "genra": [
+    "Comedy",
+    "Drama",
+    "Romance",
+    "School",
+    "Slice of Life"
+  ],
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance",
+    "School",
+    "Slice of Life"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Japanese",
+    "Tamil",
+    "Telugu"
+  ],
+  "synopsis": "Mizuki Ashiya is on a mission: disguise herself as a boy and enroll in a male boarding school to meet her idol, high jump star Izumi Sano. But after successfully infiltrating the school, she discovers he’s suddenly quit the sport! Now Mizuki must dodge suspicion, protect her cover, and somehow reach the boy she came all this way for—all while surviving the chaos of an all-boys dorm!",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Hana-Kimi 1x1",
+          "id": "episode/hana-kimi-1x1",
+          "image": "https://img.watchanimeworld.one/img/thumb_1951_s1e1.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "Hana-Kimi 1x2",
+          "id": "episode/hana-kimi-1x2",
+          "image": "https://img.watchanimeworld.one/img/thumb_1951_s1e2.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "Hana-Kimi 1x3",
+          "id": "episode/hana-kimi-1x3",
+          "image": "https://img.watchanimeworld.one/img/thumb_1951_s1e3.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "Hana-Kimi 1x4",
+          "id": "episode/hana-kimi-1x4",
+          "image": "https://img.watchanimeworld.one/img/thumb_1951_s1e4.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "Hana-Kimi 1x5",
+          "id": "episode/hana-kimi-1x5",
+          "image": "https://img.watchanimeworld.one/img/thumb_1951_s1e5.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "Hana-Kimi 1x6",
+          "id": "episode/hana-kimi-1x6",
+          "image": "https://img.watchanimeworld.one/img/thumb_1951_s1e6.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "Hana-Kimi 1x7",
+          "id": "episode/hana-kimi-1x7",
+          "image": "https://img.watchanimeworld.one/img/thumb_1951_s1e7.webp",
+          "season": 1
+        },
+        {
+          "episode": 8,
+          "title": "Hana-Kimi 1x8",
+          "id": "episode/hana-kimi-1x8",
+          "image": "https://img.watchanimeworld.one/img/thumb_1951_s1e8.webp",
+          "season": 1
+        },
+        {
+          "episode": 9,
+          "title": "Hana-Kimi 1x9",
+          "id": "episode/hana-kimi-1x9",
+          "image": "https://img.watchanimeworld.one/img/thumb_1951_s1e9.webp",
+          "season": 1
+        },
+        {
+          "episode": 10,
+          "title": "Hana-Kimi 1x10",
+          "id": "episode/hana-kimi-1x10",
+          "image": "https://img.watchanimeworld.one/img/thumb_1951_s1e10.webp",
+          "season": 1
+        },
+        {
+          "episode": 11,
+          "title": "Hana-Kimi 1x11",
+          "id": "episode/hana-kimi-1x11",
+          "image": "https://img.watchanimeworld.one/img/thumb_1951_s1e11.webp",
+          "season": 1
+        },
+        {
+          "episode": 12,
+          "title": "Hana-Kimi 1x12",
+          "id": "episode/hana-kimi-1x12",
+          "image": "https://img.watchanimeworld.one/img/thumb_1951_s1e12.webp",
+          "season": 1
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/hana-kimi-1x2",
+      "episode_id": "episode/hana-kimi-1x2",
+      "title": "Hana-Kimi 1x1",
+      "episode_name": "Hana-Kimi 1x1",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1951_s1e2.webp",
+      "abyssid": "17872",
+      "abyssId": "17872",
+      "playxid": "6b67560b23af2fb369555be4155d8c48",
+      "playXID": "6b67560b23af2fb369555be4155d8c48",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17872",
+        "playXID": "6b67560b23af2fb369555be4155d8c48",
+        "streamId": "17872",
+        "dubPlayerSrc": "/dub-player/t/17872/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6b67560b23af2fb369555be4155d8c48&abyssId=17872"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17872",
+        "playXID": "6b67560b23af2fb369555be4155d8c48",
+        "streamId": "17872",
+        "dubPlayerSrc": "/dub-player/t/17872/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6b67560b23af2fb369555be4155d8c48&abyssId=17872"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/a1f46c591a7f820502944b52ab87e7ee",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/a1f46c591a7f820502944b52ab87e7ee"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17872",
+        "abyssId": "17872",
+        "playXID": "6b67560b23af2fb369555be4155d8c48",
+        "title": "Hana-Kimi",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "IcfGqIGKU"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "ug3hjuliQ"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "X1VEP8dRw"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "PIxiJYsV4"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "8fY_Wl8WU"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/f3ecf2cd886e189dc4ea61d882c6d728/master.m3u8?md5=ravL5UBWfu9UAbRDIC8VGw&expires=1792166040",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/f3ecf2cd886e189dc4ea61d882c6d728/master.m3u8?md5=ravL5UBWfu9UAbRDIC8VGw&expires=1792166040",
+            "videoSource": "https://ravok.buzz/cdn/hls/f3ecf2cd886e189dc4ea61d882c6d728/master.m3u8?md5=ravL5UBWfu9UAbRDIC8VGw&expires=1792166040",
+            "videoImage": "https://as-cdn29.top/p/Lix4f-zHIgo6YXFO-MuT4IFezcup1MhLfk4tXJ7GfiosfmqSE4eQFI-tCrbYv7ASjnUwpdm2PHK28C9aGyH-Fg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "6b67560b23af2fb369555be4155d8c48",
+                "streamUrl": "https://ravok.buzz/cdn/hls/f3ecf2cd886e189dc4ea61d882c6d728/master.m3u8?md5=ravL5UBWfu9UAbRDIC8VGw&expires=1792166040",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/f3ecf2cd886e189dc4ea61d882c6d728/master.m3u8?md5=ravL5UBWfu9UAbRDIC8VGw&expires=1792166040",
+                "videoSource": "https://ravok.buzz/cdn/hls/f3ecf2cd886e189dc4ea61d882c6d728/master.m3u8?md5=ravL5UBWfu9UAbRDIC8VGw&expires=1792166040",
+                "link": "https://ravok.buzz/cdn/hls/f3ecf2cd886e189dc4ea61d882c6d728/master.m3u8?md5=ravL5UBWfu9UAbRDIC8VGw&expires=1792166040",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/Lix4f-zHIgo6YXFO-MuT4IFezcup1MhLfk4tXJ7GfiosfmqSE4eQFI-tCrbYv7ASjnUwpdm2PHK28C9aGyH-Fg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "IcfGqIGKU"
+        }
+      },
+      "fetched_at": "2026-10-16T13:54:10Z"
+    },
+    {
+      "id": "episode/hana-kimi-1x5",
+      "episode_id": "episode/hana-kimi-1x5",
+      "title": "Hana-Kimi 1x1",
+      "episode_name": "Hana-Kimi 1x1",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1951_s1e5.webp",
+      "abyssid": "17920",
+      "abyssId": "17920",
+      "playxid": "eecd2755d73701aa057cd2a32bd7b1e2",
+      "playXID": "eecd2755d73701aa057cd2a32bd7b1e2",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17920",
+        "playXID": "eecd2755d73701aa057cd2a32bd7b1e2",
+        "streamId": "17920",
+        "dubPlayerSrc": "/dub-player/t/17920/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=eecd2755d73701aa057cd2a32bd7b1e2&abyssId=17920"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17920",
+        "playXID": "eecd2755d73701aa057cd2a32bd7b1e2",
+        "streamId": "17920",
+        "dubPlayerSrc": "/dub-player/t/17920/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=eecd2755d73701aa057cd2a32bd7b1e2&abyssId=17920"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/0383aa006955b67fb5d9110bc2522d8f",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/0383aa006955b67fb5d9110bc2522d8f"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17920",
+        "abyssId": "17920",
+        "playXID": "eecd2755d73701aa057cd2a32bd7b1e2",
+        "title": "Hana-Kimi",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "utui-S77i"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "p8oZbzjvg"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "_qZLagkCW"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "Y_yX3YaOu"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "-nXe5mLH3"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/9441d824a0a5645beb1d74131349a975/master.m3u8?md5=HpuGAdYFGHKF3k0NjJiSJg&expires=1792166041",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/9441d824a0a5645beb1d74131349a975/master.m3u8?md5=HpuGAdYFGHKF3k0NjJiSJg&expires=1792166041",
+            "videoSource": "https://ravok.buzz/cdn/hls/9441d824a0a5645beb1d74131349a975/master.m3u8?md5=HpuGAdYFGHKF3k0NjJiSJg&expires=1792166041",
+            "videoImage": "https://as-cdn31.top/p/UwXerP_4XrHh_edXGSqGw4Yv3KKnrx5y4sXQNHU88T1tZggDmSr9dvrzs8Nqshdu6mM8DFB8pGAmRxMAsc9RLA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "eecd2755d73701aa057cd2a32bd7b1e2",
+                "streamUrl": "https://ravok.buzz/cdn/hls/9441d824a0a5645beb1d74131349a975/master.m3u8?md5=HpuGAdYFGHKF3k0NjJiSJg&expires=1792166041",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/9441d824a0a5645beb1d74131349a975/master.m3u8?md5=HpuGAdYFGHKF3k0NjJiSJg&expires=1792166041",
+                "videoSource": "https://ravok.buzz/cdn/hls/9441d824a0a5645beb1d74131349a975/master.m3u8?md5=HpuGAdYFGHKF3k0NjJiSJg&expires=1792166041",
+                "link": "https://ravok.buzz/cdn/hls/9441d824a0a5645beb1d74131349a975/master.m3u8?md5=HpuGAdYFGHKF3k0NjJiSJg&expires=1792166041",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/UwXerP_4XrHh_edXGSqGw4Yv3KKnrx5y4sXQNHU88T1tZggDmSr9dvrzs8Nqshdu6mM8DFB8pGAmRxMAsc9RLA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "utui-S77i"
+        }
+      },
+      "fetched_at": "2026-10-16T13:54:11Z"
+    },
+    {
+      "id": "episode/hana-kimi-1x1",
+      "episode_id": "episode/hana-kimi-1x1",
+      "title": "Hana-Kimi 1x1",
+      "episode_name": "Hana-Kimi 1x1",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1951_s1e1.webp",
+      "abyssid": "17871",
+      "abyssId": "17871",
+      "playxid": "6a0143100dc167553a0128d5a66ee4d4",
+      "playXID": "6a0143100dc167553a0128d5a66ee4d4",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17871",
+        "playXID": "6a0143100dc167553a0128d5a66ee4d4",
+        "streamId": "17871",
+        "dubPlayerSrc": "/dub-player/t/17871/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6a0143100dc167553a0128d5a66ee4d4&abyssId=17871"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17871",
+        "playXID": "6a0143100dc167553a0128d5a66ee4d4",
+        "streamId": "17871",
+        "dubPlayerSrc": "/dub-player/t/17871/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6a0143100dc167553a0128d5a66ee4d4&abyssId=17871"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/cc5a8e3b4dbf63f5bace0347540fed78",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/cc5a8e3b4dbf63f5bace0347540fed78"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17871",
+        "abyssId": "17871",
+        "playXID": "6a0143100dc167553a0128d5a66ee4d4",
+        "title": "Hana-Kimi",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "51F-tep0y"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "vWutm6VrS"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "5OiZM9752"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "EDWpAy1R3"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "Gc65ZUc5A"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/fd5ab2a5e4001a0f548a280c042884f6/master.m3u8?md5=8BQyEfxA82E-zbGoU7gOjw&expires=1792166041",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/fd5ab2a5e4001a0f548a280c042884f6/master.m3u8?md5=8BQyEfxA82E-zbGoU7gOjw&expires=1792166041",
+            "videoSource": "https://ravok.buzz/cdn/hls/fd5ab2a5e4001a0f548a280c042884f6/master.m3u8?md5=8BQyEfxA82E-zbGoU7gOjw&expires=1792166041",
+            "videoImage": "https://as-cdn30.top/p/_3HGRjKmr-rhkQKS24qcRaJJ5gF-RXqyw_xeNq1vuiqV-siXbTbzAA6PgxNTMdc0soYpPQBMcj4vC5pKImiCUg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "6a0143100dc167553a0128d5a66ee4d4",
+                "streamUrl": "https://ravok.buzz/cdn/hls/fd5ab2a5e4001a0f548a280c042884f6/master.m3u8?md5=8BQyEfxA82E-zbGoU7gOjw&expires=1792166041",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/fd5ab2a5e4001a0f548a280c042884f6/master.m3u8?md5=8BQyEfxA82E-zbGoU7gOjw&expires=1792166041",
+                "videoSource": "https://ravok.buzz/cdn/hls/fd5ab2a5e4001a0f548a280c042884f6/master.m3u8?md5=8BQyEfxA82E-zbGoU7gOjw&expires=1792166041",
+                "link": "https://ravok.buzz/cdn/hls/fd5ab2a5e4001a0f548a280c042884f6/master.m3u8?md5=8BQyEfxA82E-zbGoU7gOjw&expires=1792166041",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/_3HGRjKmr-rhkQKS24qcRaJJ5gF-RXqyw_xeNq1vuiqV-siXbTbzAA6PgxNTMdc0soYpPQBMcj4vC5pKImiCUg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "51F-tep0y"
+        }
+      },
+      "fetched_at": "2026-10-16T13:54:11Z"
+    },
+    {
+      "id": "episode/hana-kimi-1x4",
+      "episode_id": "episode/hana-kimi-1x4",
+      "title": "Hana-Kimi 1x1",
+      "episode_name": "Hana-Kimi 1x1",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1951_s1e4.webp",
+      "abyssid": "17912",
+      "abyssId": "17912",
+      "playxid": "85d52e4d4b40d62fa159037686630a7c",
+      "playXID": "85d52e4d4b40d62fa159037686630a7c",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17912",
+        "playXID": "85d52e4d4b40d62fa159037686630a7c",
+        "streamId": "17912",
+        "dubPlayerSrc": "/dub-player/t/17912/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=85d52e4d4b40d62fa159037686630a7c&abyssId=17912"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17912",
+        "playXID": "85d52e4d4b40d62fa159037686630a7c",
+        "streamId": "17912",
+        "dubPlayerSrc": "/dub-player/t/17912/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=85d52e4d4b40d62fa159037686630a7c&abyssId=17912"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/f985cff158c7cfb0fc2d5d05f731809f",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/f985cff158c7cfb0fc2d5d05f731809f"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17912",
+        "abyssId": "17912",
+        "playXID": "85d52e4d4b40d62fa159037686630a7c",
+        "title": "Hana-Kimi",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "9HqD5_ztc"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "jC6p8LQqK"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "TeFh_Fu9C"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "0vCja_DOmg"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "2ZVDYl_eG"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/5791afb31cfd2872cfdfa9df4190b7e1/master.m3u8?md5=WDMMMDSeHsaG6A2B0-Y5Zg&expires=1792166041",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/5791afb31cfd2872cfdfa9df4190b7e1/master.m3u8?md5=WDMMMDSeHsaG6A2B0-Y5Zg&expires=1792166041",
+            "videoSource": "https://ravok.buzz/cdn/hls/5791afb31cfd2872cfdfa9df4190b7e1/master.m3u8?md5=WDMMMDSeHsaG6A2B0-Y5Zg&expires=1792166041",
+            "videoImage": "https://as-cdn30.top/p/RHzlHDgCxXGBmsjcKpuWkKvTaKyktFOZxoiCwzR5FS9qb6zthvOrRubzEgNbFUuxjss-d_bZfZurD_Es7xKvmQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "85d52e4d4b40d62fa159037686630a7c",
+                "streamUrl": "https://ravok.buzz/cdn/hls/5791afb31cfd2872cfdfa9df4190b7e1/master.m3u8?md5=WDMMMDSeHsaG6A2B0-Y5Zg&expires=1792166041",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/5791afb31cfd2872cfdfa9df4190b7e1/master.m3u8?md5=WDMMMDSeHsaG6A2B0-Y5Zg&expires=1792166041",
+                "videoSource": "https://ravok.buzz/cdn/hls/5791afb31cfd2872cfdfa9df4190b7e1/master.m3u8?md5=WDMMMDSeHsaG6A2B0-Y5Zg&expires=1792166041",
+                "link": "https://ravok.buzz/cdn/hls/5791afb31cfd2872cfdfa9df4190b7e1/master.m3u8?md5=WDMMMDSeHsaG6A2B0-Y5Zg&expires=1792166041",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/RHzlHDgCxXGBmsjcKpuWkKvTaKyktFOZxoiCwzR5FS9qb6zthvOrRubzEgNbFUuxjss-d_bZfZurD_Es7xKvmQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "9HqD5_ztc"
+        }
+      },
+      "fetched_at": "2026-10-16T13:54:11Z"
+    },
+    {
+      "id": "episode/hana-kimi-1x3",
+      "episode_id": "episode/hana-kimi-1x3",
+      "title": "Hana-Kimi 1x1",
+      "episode_name": "Hana-Kimi 1x1",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1951_s1e3.webp",
+      "abyssid": "17873",
+      "abyssId": "17873",
+      "playxid": "520115043d9ba527a787577bd75930c8",
+      "playXID": "520115043d9ba527a787577bd75930c8",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17873",
+        "playXID": "520115043d9ba527a787577bd75930c8",
+        "streamId": "17873",
+        "dubPlayerSrc": "/dub-player/t/17873/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=520115043d9ba527a787577bd75930c8&abyssId=17873"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17873",
+        "playXID": "520115043d9ba527a787577bd75930c8",
+        "streamId": "17873",
+        "dubPlayerSrc": "/dub-player/t/17873/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=520115043d9ba527a787577bd75930c8&abyssId=17873"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/ad30909a800fd5c58d0339942b658a71",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/ad30909a800fd5c58d0339942b658a71"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17873",
+        "abyssId": "17873",
+        "playXID": "520115043d9ba527a787577bd75930c8",
+        "title": "Hana-Kimi",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "Oof9S5yh-"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "UdqDNP1TG"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "jbvK3hiqL"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "Xs5WAR_R0"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "6nOrFS7bb"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/ce5c09b9d48c6868e93c327d45d670ec/master.m3u8?md5=zSyRxGoDWs986TX4lBfgiw&expires=1792166041",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/ce5c09b9d48c6868e93c327d45d670ec/master.m3u8?md5=zSyRxGoDWs986TX4lBfgiw&expires=1792166041",
+            "videoSource": "https://ravok.buzz/cdn/hls/ce5c09b9d48c6868e93c327d45d670ec/master.m3u8?md5=zSyRxGoDWs986TX4lBfgiw&expires=1792166041",
+            "videoImage": "https://as-cdn30.top/p/xEihr_jeRl7U1c2lSxIOkn-eMZBtDfdYerKbgfD8dafJEUh1Yl9rx-dT0GCv0N6OwBp-9aOfJx66FAVcmTM8Mg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "520115043d9ba527a787577bd75930c8",
+                "streamUrl": "https://ravok.buzz/cdn/hls/ce5c09b9d48c6868e93c327d45d670ec/master.m3u8?md5=zSyRxGoDWs986TX4lBfgiw&expires=1792166041",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/ce5c09b9d48c6868e93c327d45d670ec/master.m3u8?md5=zSyRxGoDWs986TX4lBfgiw&expires=1792166041",
+                "videoSource": "https://ravok.buzz/cdn/hls/ce5c09b9d48c6868e93c327d45d670ec/master.m3u8?md5=zSyRxGoDWs986TX4lBfgiw&expires=1792166041",
+                "link": "https://ravok.buzz/cdn/hls/ce5c09b9d48c6868e93c327d45d670ec/master.m3u8?md5=zSyRxGoDWs986TX4lBfgiw&expires=1792166041",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/xEihr_jeRl7U1c2lSxIOkn-eMZBtDfdYerKbgfD8dafJEUh1Yl9rx-dT0GCv0N6OwBp-9aOfJx66FAVcmTM8Mg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "Oof9S5yh-"
+        }
+      },
+      "fetched_at": "2026-10-16T13:54:11Z"
+    },
+    {
+      "id": "episode/hana-kimi-1x6",
+      "episode_id": "episode/hana-kimi-1x6",
+      "title": "Hana-Kimi 1x1",
+      "episode_name": "Hana-Kimi 1x1",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1951_s1e6.webp",
+      "abyssid": "17952",
+      "abyssId": "17952",
+      "playxid": "01671d8272924e3d10bce2c73066e933",
+      "playXID": "01671d8272924e3d10bce2c73066e933",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17952",
+        "playXID": "01671d8272924e3d10bce2c73066e933",
+        "streamId": "17952",
+        "dubPlayerSrc": "/dub-player/t/17952/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=01671d8272924e3d10bce2c73066e933&abyssId=17952"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17952",
+        "playXID": "01671d8272924e3d10bce2c73066e933",
+        "streamId": "17952",
+        "dubPlayerSrc": "/dub-player/t/17952/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=01671d8272924e3d10bce2c73066e933&abyssId=17952"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/00ca4dc5c4d94396ae3966f3b0ab1f1b",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/00ca4dc5c4d94396ae3966f3b0ab1f1b"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17952",
+        "abyssId": "17952",
+        "playXID": "01671d8272924e3d10bce2c73066e933",
+        "title": "Hana-Kimi",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "uVCKrCJvk"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "a6NPXl6FM1"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "Q4fnD8lzi"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "x-iK8m3xg"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "bfbu2vYdk"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/33a0a09acfae2eed69a180e2cb033bd4/master.m3u8?md5=Bf4Gy-tWRcQEDrMQSXxrrA&expires=1792166042",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/33a0a09acfae2eed69a180e2cb033bd4/master.m3u8?md5=Bf4Gy-tWRcQEDrMQSXxrrA&expires=1792166042",
+            "videoSource": "https://ravok.buzz/cdn/hls/33a0a09acfae2eed69a180e2cb033bd4/master.m3u8?md5=Bf4Gy-tWRcQEDrMQSXxrrA&expires=1792166042",
+            "videoImage": "https://as-cdn30.top/p/-OJFnFS_y4kzsNoxQ6la2cu6eyW9uGpzkPDbcfyHlz5WFFM7rq9a1wjBwx442bYsbYBa1aVSyazrKfIwnJ2ovA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "01671d8272924e3d10bce2c73066e933",
+                "streamUrl": "https://ravok.buzz/cdn/hls/33a0a09acfae2eed69a180e2cb033bd4/master.m3u8?md5=Bf4Gy-tWRcQEDrMQSXxrrA&expires=1792166042",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/33a0a09acfae2eed69a180e2cb033bd4/master.m3u8?md5=Bf4Gy-tWRcQEDrMQSXxrrA&expires=1792166042",
+                "videoSource": "https://ravok.buzz/cdn/hls/33a0a09acfae2eed69a180e2cb033bd4/master.m3u8?md5=Bf4Gy-tWRcQEDrMQSXxrrA&expires=1792166042",
+                "link": "https://ravok.buzz/cdn/hls/33a0a09acfae2eed69a180e2cb033bd4/master.m3u8?md5=Bf4Gy-tWRcQEDrMQSXxrrA&expires=1792166042",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/-OJFnFS_y4kzsNoxQ6la2cu6eyW9uGpzkPDbcfyHlz5WFFM7rq9a1wjBwx442bYsbYBa1aVSyazrKfIwnJ2ovA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "uVCKrCJvk"
+        }
+      },
+      "fetched_at": "2026-10-16T13:54:13Z"
+    },
+    {
+      "id": "episode/hana-kimi-1x7",
+      "episode_id": "episode/hana-kimi-1x7",
+      "title": "Hana-Kimi 1x1",
+      "episode_name": "Hana-Kimi 1x1",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1951_s1e7.webp",
+      "abyssid": "18001",
+      "abyssId": "18001",
+      "playxid": "cfc589f72fd5f46aa97a9b69cbad002f",
+      "playXID": "cfc589f72fd5f46aa97a9b69cbad002f",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18001",
+        "playXID": "cfc589f72fd5f46aa97a9b69cbad002f",
+        "streamId": "18001",
+        "dubPlayerSrc": "/dub-player/t/18001/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=cfc589f72fd5f46aa97a9b69cbad002f&abyssId=18001"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18001",
+        "playXID": "cfc589f72fd5f46aa97a9b69cbad002f",
+        "streamId": "18001",
+        "dubPlayerSrc": "/dub-player/t/18001/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=cfc589f72fd5f46aa97a9b69cbad002f&abyssId=18001"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/7b79052a522d19d23aae93d16d3c744a",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/7b79052a522d19d23aae93d16d3c744a"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18001",
+        "abyssId": "18001",
+        "playXID": "cfc589f72fd5f46aa97a9b69cbad002f",
+        "title": "Hana-Kimi",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "u-kMU2-d7"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "jl_nQ4SiiC"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "maGd_tdnG"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "_ytuhdDku"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "8OAIoaR7g"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/6387258a48fa8716a8953a06a58ac722/master.m3u8?md5=VJkCpmj5VmnPuIjuksXs5Q&expires=1792166043",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/6387258a48fa8716a8953a06a58ac722/master.m3u8?md5=VJkCpmj5VmnPuIjuksXs5Q&expires=1792166043",
+            "videoSource": "https://ravok.buzz/cdn/hls/6387258a48fa8716a8953a06a58ac722/master.m3u8?md5=VJkCpmj5VmnPuIjuksXs5Q&expires=1792166043",
+            "videoImage": "https://as-cdn30.top/p/RlSLck-SRm8TdzeqtaJIOD8yx7J9OhjMJkxEK1Y2PQUexED_zgbKs1Dz8rXzkXJP_dDY9aP_X_nIcm8WYe9Ykw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "cfc589f72fd5f46aa97a9b69cbad002f",
+                "streamUrl": "https://ravok.buzz/cdn/hls/6387258a48fa8716a8953a06a58ac722/master.m3u8?md5=VJkCpmj5VmnPuIjuksXs5Q&expires=1792166043",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/6387258a48fa8716a8953a06a58ac722/master.m3u8?md5=VJkCpmj5VmnPuIjuksXs5Q&expires=1792166043",
+                "videoSource": "https://ravok.buzz/cdn/hls/6387258a48fa8716a8953a06a58ac722/master.m3u8?md5=VJkCpmj5VmnPuIjuksXs5Q&expires=1792166043",
+                "link": "https://ravok.buzz/cdn/hls/6387258a48fa8716a8953a06a58ac722/master.m3u8?md5=VJkCpmj5VmnPuIjuksXs5Q&expires=1792166043",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/RlSLck-SRm8TdzeqtaJIOD8yx7J9OhjMJkxEK1Y2PQUexED_zgbKs1Dz8rXzkXJP_dDY9aP_X_nIcm8WYe9Ykw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "u-kMU2-d7"
+        }
+      },
+      "fetched_at": "2026-10-16T13:54:13Z"
+    },
+    {
+      "id": "episode/hana-kimi-1x10",
+      "episode_id": "episode/hana-kimi-1x10",
+      "title": "Hana-Kimi 1x1",
+      "episode_name": "Hana-Kimi 1x1",
+      "episode_number": 10,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1951_s1e10.webp",
+      "abyssid": "18052",
+      "abyssId": "18052",
+      "playxid": "78dbe27fdb74c9ae3b0a6c17bffa8b18",
+      "playXID": "78dbe27fdb74c9ae3b0a6c17bffa8b18",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18052",
+        "playXID": "78dbe27fdb74c9ae3b0a6c17bffa8b18",
+        "streamId": "18052",
+        "dubPlayerSrc": "/dub-player/t/18052/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=78dbe27fdb74c9ae3b0a6c17bffa8b18&abyssId=18052"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18052",
+        "playXID": "78dbe27fdb74c9ae3b0a6c17bffa8b18",
+        "streamId": "18052",
+        "dubPlayerSrc": "/dub-player/t/18052/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=78dbe27fdb74c9ae3b0a6c17bffa8b18&abyssId=18052"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/d927d23c930781800eaefa38f667b2a2",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/d927d23c930781800eaefa38f667b2a2"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18052",
+        "abyssId": "18052",
+        "playXID": "78dbe27fdb74c9ae3b0a6c17bffa8b18",
+        "title": "Hana-Kimi",
+        "season": 1,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "howMyXi6l"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "KiRpiaaTm"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "yz6MAcbsz"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "_Zy42-EtYh"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "ZC-XwRtpJ"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/9b3539fd3298775fb92b0ea6a65fecbb/master.m3u8?md5=p02ob3T_mGJ4mO0igrgjpg&expires=1792166044",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/9b3539fd3298775fb92b0ea6a65fecbb/master.m3u8?md5=p02ob3T_mGJ4mO0igrgjpg&expires=1792166044",
+            "videoSource": "https://ravok.buzz/cdn/hls/9b3539fd3298775fb92b0ea6a65fecbb/master.m3u8?md5=p02ob3T_mGJ4mO0igrgjpg&expires=1792166044",
+            "videoImage": "https://as-cdn29.top/p/AJ1lozfdntThOtrHfLoqQthtbPcfneAtHpAF0dGjxpf9ikyuhwPJb4R7V5ZBqVnyO66crxG-UEYnw-Mkb3mnVA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "78dbe27fdb74c9ae3b0a6c17bffa8b18",
+                "streamUrl": "https://ravok.buzz/cdn/hls/9b3539fd3298775fb92b0ea6a65fecbb/master.m3u8?md5=p02ob3T_mGJ4mO0igrgjpg&expires=1792166044",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/9b3539fd3298775fb92b0ea6a65fecbb/master.m3u8?md5=p02ob3T_mGJ4mO0igrgjpg&expires=1792166044",
+                "videoSource": "https://ravok.buzz/cdn/hls/9b3539fd3298775fb92b0ea6a65fecbb/master.m3u8?md5=p02ob3T_mGJ4mO0igrgjpg&expires=1792166044",
+                "link": "https://ravok.buzz/cdn/hls/9b3539fd3298775fb92b0ea6a65fecbb/master.m3u8?md5=p02ob3T_mGJ4mO0igrgjpg&expires=1792166044",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/AJ1lozfdntThOtrHfLoqQthtbPcfneAtHpAF0dGjxpf9ikyuhwPJb4R7V5ZBqVnyO66crxG-UEYnw-Mkb3mnVA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "howMyXi6l"
+        }
+      },
+      "fetched_at": "2026-10-16T13:54:14Z"
+    },
+    {
+      "id": "episode/hana-kimi-1x11",
+      "episode_id": "episode/hana-kimi-1x11",
+      "title": "Hana-Kimi 1x1",
+      "episode_name": "Hana-Kimi 1x1",
+      "episode_number": 11,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1951_s1e11.webp",
+      "abyssid": "18109",
+      "abyssId": "18109",
+      "playxid": "21b6529de735e29783012ab4f9ce604d",
+      "playXID": "21b6529de735e29783012ab4f9ce604d",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18109",
+        "playXID": "21b6529de735e29783012ab4f9ce604d",
+        "streamId": "18109",
+        "dubPlayerSrc": "/dub-player/t/18109/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=21b6529de735e29783012ab4f9ce604d&abyssId=18109"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18109",
+        "playXID": "21b6529de735e29783012ab4f9ce604d",
+        "streamId": "18109",
+        "dubPlayerSrc": "/dub-player/t/18109/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=21b6529de735e29783012ab4f9ce604d&abyssId=18109"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/e585c2ea8a6ff12e60c1c3e07d024079",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/e585c2ea8a6ff12e60c1c3e07d024079"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18109",
+        "abyssId": "18109",
+        "playXID": "21b6529de735e29783012ab4f9ce604d",
+        "title": "Hana-Kimi",
+        "season": 1,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "xEF3oCKFl"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "LGIRK7rk3"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "ZABqBp4K4"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "GYhRdkTva"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "Z6M0dgHM-"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/fff0c388675777bacb6fa638ca3b4120/master.m3u8?md5=Kt4k8r92XS1jisvT2VoFYQ&expires=1792166045",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/fff0c388675777bacb6fa638ca3b4120/master.m3u8?md5=Kt4k8r92XS1jisvT2VoFYQ&expires=1792166045",
+            "videoSource": "https://ravok.buzz/cdn/hls/fff0c388675777bacb6fa638ca3b4120/master.m3u8?md5=Kt4k8r92XS1jisvT2VoFYQ&expires=1792166045",
+            "videoImage": "https://as-cdn29.top/p/APPHjniDK9RIFSEMVzETTEZOF_v5PbKhkxKlYutpvuIxUWCgL_nSdWQKuyMz_AeGgk5nGMTyw7iuddB7YWzt1w.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "21b6529de735e29783012ab4f9ce604d",
+                "streamUrl": "https://ravok.buzz/cdn/hls/fff0c388675777bacb6fa638ca3b4120/master.m3u8?md5=Kt4k8r92XS1jisvT2VoFYQ&expires=1792166045",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/fff0c388675777bacb6fa638ca3b4120/master.m3u8?md5=Kt4k8r92XS1jisvT2VoFYQ&expires=1792166045",
+                "videoSource": "https://ravok.buzz/cdn/hls/fff0c388675777bacb6fa638ca3b4120/master.m3u8?md5=Kt4k8r92XS1jisvT2VoFYQ&expires=1792166045",
+                "link": "https://ravok.buzz/cdn/hls/fff0c388675777bacb6fa638ca3b4120/master.m3u8?md5=Kt4k8r92XS1jisvT2VoFYQ&expires=1792166045",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/APPHjniDK9RIFSEMVzETTEZOF_v5PbKhkxKlYutpvuIxUWCgL_nSdWQKuyMz_AeGgk5nGMTyw7iuddB7YWzt1w.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "xEF3oCKFl"
+        }
+      },
+      "fetched_at": "2026-10-16T13:54:15Z"
+    },
+    {
+      "id": "episode/hana-kimi-1x9",
+      "episode_id": "episode/hana-kimi-1x9",
+      "title": "Hana-Kimi 1x1",
+      "episode_name": "Hana-Kimi 1x1",
+      "episode_number": 9,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1951_s1e9.webp",
+      "abyssid": "18016",
+      "abyssId": "18016",
+      "playxid": "def56ed4673d65b37a66f8db6304cd28",
+      "playXID": "def56ed4673d65b37a66f8db6304cd28",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18016",
+        "playXID": "def56ed4673d65b37a66f8db6304cd28",
+        "streamId": "18016",
+        "dubPlayerSrc": "/dub-player/t/18016/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=def56ed4673d65b37a66f8db6304cd28&abyssId=18016"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18016",
+        "playXID": "def56ed4673d65b37a66f8db6304cd28",
+        "streamId": "18016",
+        "dubPlayerSrc": "/dub-player/t/18016/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=def56ed4673d65b37a66f8db6304cd28&abyssId=18016"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/2bada0d8cffac40c988e44a273ba58d7",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/2bada0d8cffac40c988e44a273ba58d7"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18016",
+        "abyssId": "18016",
+        "playXID": "def56ed4673d65b37a66f8db6304cd28",
+        "title": "Hana-Kimi",
+        "season": 1,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "RuPz_csqC"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "IxXxdzO9ED"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "_6uCP8UH0"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "c_MGVFKl5"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/9b9c297538d212db207ff459c9af7563/master.m3u8?md5=S3OazkpcxVYL10-rfA0G7A&expires=1792166045",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/9b9c297538d212db207ff459c9af7563/master.m3u8?md5=S3OazkpcxVYL10-rfA0G7A&expires=1792166045",
+            "videoSource": "https://ravok.buzz/cdn/hls/9b9c297538d212db207ff459c9af7563/master.m3u8?md5=S3OazkpcxVYL10-rfA0G7A&expires=1792166045",
+            "videoImage": "https://as-cdn27.top/p/RozUOnHTk1sgrcVrOhqu2Uow6jYJMDKtT36YdNkRNMSxRs7ZVGpufFTnYMTABWthclh3M2CJ6YNzIJKaXywGXA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "def56ed4673d65b37a66f8db6304cd28",
+                "streamUrl": "https://ravok.buzz/cdn/hls/9b9c297538d212db207ff459c9af7563/master.m3u8?md5=S3OazkpcxVYL10-rfA0G7A&expires=1792166045",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/9b9c297538d212db207ff459c9af7563/master.m3u8?md5=S3OazkpcxVYL10-rfA0G7A&expires=1792166045",
+                "videoSource": "https://ravok.buzz/cdn/hls/9b9c297538d212db207ff459c9af7563/master.m3u8?md5=S3OazkpcxVYL10-rfA0G7A&expires=1792166045",
+                "link": "https://ravok.buzz/cdn/hls/9b9c297538d212db207ff459c9af7563/master.m3u8?md5=S3OazkpcxVYL10-rfA0G7A&expires=1792166045",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/RozUOnHTk1sgrcVrOhqu2Uow6jYJMDKtT36YdNkRNMSxRs7ZVGpufFTnYMTABWthclh3M2CJ6YNzIJKaXywGXA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "RuPz_csqC"
+        }
+      },
+      "fetched_at": "2026-10-16T13:54:16Z"
+    },
+    {
+      "id": "episode/hana-kimi-1x12",
+      "episode_id": "episode/hana-kimi-1x12",
+      "title": "Hana-Kimi 1x1",
+      "episode_name": "Hana-Kimi 1x1",
+      "episode_number": 12,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1951_s1e12.webp",
+      "abyssid": "18137",
+      "abyssId": "18137",
+      "playxid": "990b1b9fea9280d08dda7a8969839df0",
+      "playXID": "990b1b9fea9280d08dda7a8969839df0",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18137",
+        "playXID": "990b1b9fea9280d08dda7a8969839df0",
+        "streamId": "18137",
+        "dubPlayerSrc": "/dub-player/t/18137/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=990b1b9fea9280d08dda7a8969839df0&abyssId=18137"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18137",
+        "playXID": "990b1b9fea9280d08dda7a8969839df0",
+        "streamId": "18137",
+        "dubPlayerSrc": "/dub-player/t/18137/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=990b1b9fea9280d08dda7a8969839df0&abyssId=18137"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/02d1c57bee2e1f4096c95c7b1f9f4238",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/02d1c57bee2e1f4096c95c7b1f9f4238"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18137",
+        "abyssId": "18137",
+        "playXID": "990b1b9fea9280d08dda7a8969839df0",
+        "title": "Hana-Kimi",
+        "season": 1,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "iMtFSrHmO"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "M01_3igzp"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "OoMb1TL24"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "V_8PMJhmLF"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "CjW2c9l9X"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/f55025263518db9388986e246b7d7ea0/master.m3u8?md5=u1re5lUjNgIMRoB6QhUs5w&expires=1792166046",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/f55025263518db9388986e246b7d7ea0/master.m3u8?md5=u1re5lUjNgIMRoB6QhUs5w&expires=1792166046",
+            "videoSource": "https://ravok.buzz/cdn/hls/f55025263518db9388986e246b7d7ea0/master.m3u8?md5=u1re5lUjNgIMRoB6QhUs5w&expires=1792166046",
+            "videoImage": "https://as-cdn30.top/p/pjeJTGpkFJKzD-l-3GekHZzM0YafMjZlDdB73c53IN0W_BQ6CF9YpLjiKEjt4QfQCyGpHx_xzv4-wgZU5UJYaA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "990b1b9fea9280d08dda7a8969839df0",
+                "streamUrl": "https://ravok.buzz/cdn/hls/f55025263518db9388986e246b7d7ea0/master.m3u8?md5=u1re5lUjNgIMRoB6QhUs5w&expires=1792166046",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/f55025263518db9388986e246b7d7ea0/master.m3u8?md5=u1re5lUjNgIMRoB6QhUs5w&expires=1792166046",
+                "videoSource": "https://ravok.buzz/cdn/hls/f55025263518db9388986e246b7d7ea0/master.m3u8?md5=u1re5lUjNgIMRoB6QhUs5w&expires=1792166046",
+                "link": "https://ravok.buzz/cdn/hls/f55025263518db9388986e246b7d7ea0/master.m3u8?md5=u1re5lUjNgIMRoB6QhUs5w&expires=1792166046",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/pjeJTGpkFJKzD-l-3GekHZzM0YafMjZlDdB73c53IN0W_BQ6CF9YpLjiKEjt4QfQCyGpHx_xzv4-wgZU5UJYaA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "iMtFSrHmO"
+        }
+      },
+      "fetched_at": "2026-10-16T13:54:16Z"
+    },
+    {
+      "id": "episode/hana-kimi-1x8",
+      "episode_id": "episode/hana-kimi-1x8",
+      "title": "Hana-Kimi 1x1",
+      "episode_name": "Hana-Kimi 1x1",
+      "episode_number": 8,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1951_s1e8.webp",
+      "abyssid": "17998",
+      "abyssId": "17998",
+      "playxid": "985e6ec4d9a58573df0f94a372dca9d5",
+      "playXID": "985e6ec4d9a58573df0f94a372dca9d5",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17998",
+        "playXID": "985e6ec4d9a58573df0f94a372dca9d5",
+        "streamId": "17998",
+        "dubPlayerSrc": "/dub-player/t/17998/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=985e6ec4d9a58573df0f94a372dca9d5&abyssId=17998"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17998",
+        "playXID": "985e6ec4d9a58573df0f94a372dca9d5",
+        "streamId": "17998",
+        "dubPlayerSrc": "/dub-player/t/17998/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=985e6ec4d9a58573df0f94a372dca9d5&abyssId=17998"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/4b58db5ec33af76c6d9b968cf2c633b1",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/4b58db5ec33af76c6d9b968cf2c633b1"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17998",
+        "abyssId": "17998",
+        "playXID": "985e6ec4d9a58573df0f94a372dca9d5",
+        "title": "Hana-Kimi",
+        "season": 1,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "Oo_JOewg8Z"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "vKacdEpTi"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "k5zr0AAOH"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "4W4kex89l"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "Ct7JbE8Yn"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/b6bf6fa45a4abbd852370d273d96f9f6/master.m3u8?md5=zw6X7FX_5GyJq8873S14wA&expires=1792166047",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/b6bf6fa45a4abbd852370d273d96f9f6/master.m3u8?md5=zw6X7FX_5GyJq8873S14wA&expires=1792166047",
+            "videoSource": "https://ravok.buzz/cdn/hls/b6bf6fa45a4abbd852370d273d96f9f6/master.m3u8?md5=zw6X7FX_5GyJq8873S14wA&expires=1792166047",
+            "videoImage": "https://as-cdn27.top/p/YXxiE2ORHV7GsipW19kPStt_sEuGfMGip4JDXpytE8DngBlx19rSTzxrDggX9jFt6Ap5oMGDbwskEqz81Nlwfg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "985e6ec4d9a58573df0f94a372dca9d5",
+                "streamUrl": "https://ravok.buzz/cdn/hls/b6bf6fa45a4abbd852370d273d96f9f6/master.m3u8?md5=zw6X7FX_5GyJq8873S14wA&expires=1792166047",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/b6bf6fa45a4abbd852370d273d96f9f6/master.m3u8?md5=zw6X7FX_5GyJq8873S14wA&expires=1792166047",
+                "videoSource": "https://ravok.buzz/cdn/hls/b6bf6fa45a4abbd852370d273d96f9f6/master.m3u8?md5=zw6X7FX_5GyJq8873S14wA&expires=1792166047",
+                "link": "https://ravok.buzz/cdn/hls/b6bf6fa45a4abbd852370d273d96f9f6/master.m3u8?md5=zw6X7FX_5GyJq8873S14wA&expires=1792166047",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/YXxiE2ORHV7GsipW19kPStt_sEuGfMGip4JDXpytE8DngBlx19rSTzxrDggX9jFt6Ap5oMGDbwskEqz81Nlwfg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "Oo_JOewg8Z"
+        }
+      },
+      "fetched_at": "2026-10-16T13:54:17Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T13:54:08Z",
+  "updated_at": "2026-10-16T13:54:17Z"
+}

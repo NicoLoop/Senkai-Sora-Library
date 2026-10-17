@@ -1,0 +1,1281 @@
+{
+  "id": "series/catch-me-at-the-ballpark",
+  "series_name": "Catch Me at the Ballpark!",
+  "title": "Catch Me at the Ballpark!",
+  "banner": "https://image.tmdb.org/t/p/w1280/1iGTI5E0fB6My6MGb2tbf5c3mob.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/iJLVG8W3kp0JTPejChjPWrXEwI3.jpg",
+  "genra": [
+    "Drama"
+  ],
+  "genres": [
+    "Drama"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Japanese"
+  ],
+  "synopsis": "To escape his tiring job, weary Murata finds escape at a nearby baseball stadium. While the games are thrilling, it’s Ruriko, the gyaru as cold as the beer she serves but secretly a sweetheart, who keeps him coming back. As her first regular, Murata discovers the warmth behind her frosty demeanor, and their hilarious, heartwarming encounters light up the ballpark and maybe even their hearts.",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Catch Me at the Ballpark! 1x1",
+          "id": "episode/catch-me-at-the-ballpark-1x1",
+          "image": "https://img.watchanimeworld.one/image/1686/1/1.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "Catch Me at the Ballpark! 1x2",
+          "id": "episode/catch-me-at-the-ballpark-1x2",
+          "image": "https://img.watchanimeworld.one/image/1686/1/2.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "Catch Me at the Ballpark! 1x3",
+          "id": "episode/catch-me-at-the-ballpark-1x3",
+          "image": "https://img.watchanimeworld.one/image/1686/1/3.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "Catch Me at the Ballpark! 1x4",
+          "id": "episode/catch-me-at-the-ballpark-1x4",
+          "image": "https://img.watchanimeworld.one/image/1686/1/4.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "Catch Me at the Ballpark! 1x5",
+          "id": "episode/catch-me-at-the-ballpark-1x5",
+          "image": "https://img.watchanimeworld.one/image/1686/1/5.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "Catch Me at the Ballpark! 1x6",
+          "id": "episode/catch-me-at-the-ballpark-1x6",
+          "image": "https://img.watchanimeworld.one/image/1686/1/6.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "Catch Me at the Ballpark! 1x7",
+          "id": "episode/catch-me-at-the-ballpark-1x7",
+          "image": "https://img.watchanimeworld.one/image/1686/1/7.webp",
+          "season": 1
+        },
+        {
+          "episode": 8,
+          "title": "Catch Me at the Ballpark! 1x8",
+          "id": "episode/catch-me-at-the-ballpark-1x8",
+          "image": "https://img.watchanimeworld.one/image/1686/1/8.webp",
+          "season": 1
+        },
+        {
+          "episode": 9,
+          "title": "Catch Me at the Ballpark! 1x9",
+          "id": "episode/catch-me-at-the-ballpark-1x9",
+          "image": "https://img.watchanimeworld.one/image/1686/1/9.webp",
+          "season": 1
+        },
+        {
+          "episode": 10,
+          "title": "Us Back Then/Whack That Bottom!/The Double-T Duo",
+          "id": "episode/catch-me-at-the-ballpark-1x10",
+          "image": "https://img.watchanimeworld.one/img/thumb_1686_s1e10.webp",
+          "season": 1
+        },
+        {
+          "episode": 11,
+          "title": "The Clincher!/The Clincher! (Pt. 2)/The Clincher! (Pt. 3)",
+          "id": "episode/catch-me-at-the-ballpark-1x11",
+          "image": "https://img.watchanimeworld.one/img/thumb_1686_s1e11.webp",
+          "season": 1
+        },
+        {
+          "episode": 12,
+          "title": "Catch Me at the Ballpark! 1x12",
+          "id": "episode/catch-me-at-the-ballpark-1x12",
+          "image": "https://img.watchanimeworld.one/img/thumb_1686_s1e12.webp",
+          "season": 1
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/catch-me-at-the-ballpark-1x3",
+      "episode_id": "episode/catch-me-at-the-ballpark-1x3",
+      "title": "Catch Me at the Ballpark! 1x1",
+      "episode_name": "Catch Me at the Ballpark! 1x1",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1686/1/3.webp",
+      "abyssid": "15523",
+      "abyssId": "15523",
+      "playxid": "ff3f6b76fcf005c7632abe3eb4df6263",
+      "playXID": "ff3f6b76fcf005c7632abe3eb4df6263",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15523",
+        "playXID": "ff3f6b76fcf005c7632abe3eb4df6263",
+        "streamId": "15523",
+        "dubPlayerSrc": "/dub-player/t/15523/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ff3f6b76fcf005c7632abe3eb4df6263&abyssId=15523"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15523",
+        "playXID": "ff3f6b76fcf005c7632abe3eb4df6263",
+        "streamId": "15523",
+        "dubPlayerSrc": "/dub-player/t/15523/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ff3f6b76fcf005c7632abe3eb4df6263&abyssId=15523"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/ff3f6b76fcf005c7632abe3eb4df6263",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/ff3f6b76fcf005c7632abe3eb4df6263"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15523",
+        "abyssId": "15523",
+        "playXID": "ff3f6b76fcf005c7632abe3eb4df6263",
+        "title": "Catch Me at the Ballpark!",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "W8nN8A9St"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "5_jjaZaob"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/de57d0ccaf5bcd83a4702d7b8ac069a6/master.m3u8?md5=EYdvmQlQqn9GXOIJNdVJvg&expires=1792166598",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/de57d0ccaf5bcd83a4702d7b8ac069a6/master.m3u8?md5=EYdvmQlQqn9GXOIJNdVJvg&expires=1792166598",
+            "videoSource": "https://ravok.buzz/cdn/hls/de57d0ccaf5bcd83a4702d7b8ac069a6/master.m3u8?md5=EYdvmQlQqn9GXOIJNdVJvg&expires=1792166598",
+            "videoImage": "https://as-cdn29.top/p/5fEz3_9ios-O93vPrnbWvvBkiu7UDxDPEU6emiAnsqUxIDm83JesB3JE7QfBxRcmSOEw46NQPmFu4-QdiNh4Mg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "ff3f6b76fcf005c7632abe3eb4df6263",
+                "streamUrl": "https://ravok.buzz/cdn/hls/de57d0ccaf5bcd83a4702d7b8ac069a6/master.m3u8?md5=EYdvmQlQqn9GXOIJNdVJvg&expires=1792166598",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/de57d0ccaf5bcd83a4702d7b8ac069a6/master.m3u8?md5=EYdvmQlQqn9GXOIJNdVJvg&expires=1792166598",
+                "videoSource": "https://ravok.buzz/cdn/hls/de57d0ccaf5bcd83a4702d7b8ac069a6/master.m3u8?md5=EYdvmQlQqn9GXOIJNdVJvg&expires=1792166598",
+                "link": "https://ravok.buzz/cdn/hls/de57d0ccaf5bcd83a4702d7b8ac069a6/master.m3u8?md5=EYdvmQlQqn9GXOIJNdVJvg&expires=1792166598",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/5fEz3_9ios-O93vPrnbWvvBkiu7UDxDPEU6emiAnsqUxIDm83JesB3JE7QfBxRcmSOEw46NQPmFu4-QdiNh4Mg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "W8nN8A9St"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:28Z"
+    },
+    {
+      "id": "episode/catch-me-at-the-ballpark-1x5",
+      "episode_id": "episode/catch-me-at-the-ballpark-1x5",
+      "title": "Catch Me at the Ballpark! 1x1",
+      "episode_name": "Catch Me at the Ballpark! 1x1",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1686/1/5.webp",
+      "abyssid": "15673",
+      "abyssId": "15673",
+      "playxid": "cfa83ab5876fb5b464805d6e554dd0d4",
+      "playXID": "cfa83ab5876fb5b464805d6e554dd0d4",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15673",
+        "playXID": "cfa83ab5876fb5b464805d6e554dd0d4",
+        "streamId": "15673",
+        "dubPlayerSrc": "/dub-player/t/15673/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=cfa83ab5876fb5b464805d6e554dd0d4&abyssId=15673"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15673",
+        "playXID": "cfa83ab5876fb5b464805d6e554dd0d4",
+        "streamId": "15673",
+        "dubPlayerSrc": "/dub-player/t/15673/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=cfa83ab5876fb5b464805d6e554dd0d4&abyssId=15673"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/cfa83ab5876fb5b464805d6e554dd0d4",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/cfa83ab5876fb5b464805d6e554dd0d4"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15673",
+        "abyssId": "15673",
+        "playXID": "cfa83ab5876fb5b464805d6e554dd0d4",
+        "title": "Catch Me at the Ballpark!",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "RAQ0pHW4-"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "w5tjARAzz"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/2d2a337c2817946fbff1234e1ae8de27/master.m3u8?md5=27mnsCoA6KO3EFd8kBFvEA&expires=1792166598",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/2d2a337c2817946fbff1234e1ae8de27/master.m3u8?md5=27mnsCoA6KO3EFd8kBFvEA&expires=1792166598",
+            "videoSource": "https://ravok.buzz/cdn/hls/2d2a337c2817946fbff1234e1ae8de27/master.m3u8?md5=27mnsCoA6KO3EFd8kBFvEA&expires=1792166598",
+            "videoImage": "https://as-cdn29.top/p/2wOYerP-VokBkI8cZNHT4FTKykBJvAGCq91lQdih4jrqg5hVXobSKbgFkXg5QSM4rXNZkyov_gQcoIWW7bKgmg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "cfa83ab5876fb5b464805d6e554dd0d4",
+                "streamUrl": "https://ravok.buzz/cdn/hls/2d2a337c2817946fbff1234e1ae8de27/master.m3u8?md5=27mnsCoA6KO3EFd8kBFvEA&expires=1792166598",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/2d2a337c2817946fbff1234e1ae8de27/master.m3u8?md5=27mnsCoA6KO3EFd8kBFvEA&expires=1792166598",
+                "videoSource": "https://ravok.buzz/cdn/hls/2d2a337c2817946fbff1234e1ae8de27/master.m3u8?md5=27mnsCoA6KO3EFd8kBFvEA&expires=1792166598",
+                "link": "https://ravok.buzz/cdn/hls/2d2a337c2817946fbff1234e1ae8de27/master.m3u8?md5=27mnsCoA6KO3EFd8kBFvEA&expires=1792166598",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/2wOYerP-VokBkI8cZNHT4FTKykBJvAGCq91lQdih4jrqg5hVXobSKbgFkXg5QSM4rXNZkyov_gQcoIWW7bKgmg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "RAQ0pHW4-"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:28Z"
+    },
+    {
+      "id": "episode/catch-me-at-the-ballpark-1x2",
+      "episode_id": "episode/catch-me-at-the-ballpark-1x2",
+      "title": "Catch Me at the Ballpark! 1x1",
+      "episode_name": "Catch Me at the Ballpark! 1x1",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1686/1/2.webp",
+      "abyssid": "15533",
+      "abyssId": "15533",
+      "playxid": "61b3faf77e874a963096975a8ebd2279",
+      "playXID": "61b3faf77e874a963096975a8ebd2279",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15533",
+        "playXID": "61b3faf77e874a963096975a8ebd2279",
+        "streamId": "15533",
+        "dubPlayerSrc": "/dub-player/t/15533/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=61b3faf77e874a963096975a8ebd2279&abyssId=15533"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15533",
+        "playXID": "61b3faf77e874a963096975a8ebd2279",
+        "streamId": "15533",
+        "dubPlayerSrc": "/dub-player/t/15533/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=61b3faf77e874a963096975a8ebd2279&abyssId=15533"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/61b3faf77e874a963096975a8ebd2279",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/61b3faf77e874a963096975a8ebd2279"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15533",
+        "abyssId": "15533",
+        "playXID": "61b3faf77e874a963096975a8ebd2279",
+        "title": "Catch Me at the Ballpark!",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "sfCH83g3O"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "YqroQqNTsb"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/2c61123fa255d0404f9cf188477a56f4/master.m3u8?md5=m_TR83QrhvWdRdGFePvyRg&expires=1792166598",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/2c61123fa255d0404f9cf188477a56f4/master.m3u8?md5=m_TR83QrhvWdRdGFePvyRg&expires=1792166598",
+            "videoSource": "https://ravok.buzz/cdn/hls/2c61123fa255d0404f9cf188477a56f4/master.m3u8?md5=m_TR83QrhvWdRdGFePvyRg&expires=1792166598",
+            "videoImage": "https://as-cdn27.top/p/Gg264Q1xG9o9pogDL8rcGzz17fUY2tKH6-osx0sM36lK1OTA8VI75-yq2hYgPl-_0pXd3Cf4V9sDGAEZIAPV5Q.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "61b3faf77e874a963096975a8ebd2279",
+                "streamUrl": "https://ravok.buzz/cdn/hls/2c61123fa255d0404f9cf188477a56f4/master.m3u8?md5=m_TR83QrhvWdRdGFePvyRg&expires=1792166598",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/2c61123fa255d0404f9cf188477a56f4/master.m3u8?md5=m_TR83QrhvWdRdGFePvyRg&expires=1792166598",
+                "videoSource": "https://ravok.buzz/cdn/hls/2c61123fa255d0404f9cf188477a56f4/master.m3u8?md5=m_TR83QrhvWdRdGFePvyRg&expires=1792166598",
+                "link": "https://ravok.buzz/cdn/hls/2c61123fa255d0404f9cf188477a56f4/master.m3u8?md5=m_TR83QrhvWdRdGFePvyRg&expires=1792166598",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/Gg264Q1xG9o9pogDL8rcGzz17fUY2tKH6-osx0sM36lK1OTA8VI75-yq2hYgPl-_0pXd3Cf4V9sDGAEZIAPV5Q.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "sfCH83g3O"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:28Z"
+    },
+    {
+      "id": "episode/catch-me-at-the-ballpark-1x4",
+      "episode_id": "episode/catch-me-at-the-ballpark-1x4",
+      "title": "Catch Me at the Ballpark! 1x1",
+      "episode_name": "Catch Me at the Ballpark! 1x1",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1686/1/4.webp",
+      "abyssid": "15534",
+      "abyssId": "15534",
+      "playxid": "aa49af1072b367b0a3342314401297a9",
+      "playXID": "aa49af1072b367b0a3342314401297a9",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15534",
+        "playXID": "aa49af1072b367b0a3342314401297a9",
+        "streamId": "15534",
+        "dubPlayerSrc": "/dub-player/t/15534/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=aa49af1072b367b0a3342314401297a9&abyssId=15534"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15534",
+        "playXID": "aa49af1072b367b0a3342314401297a9",
+        "streamId": "15534",
+        "dubPlayerSrc": "/dub-player/t/15534/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=aa49af1072b367b0a3342314401297a9&abyssId=15534"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/aa49af1072b367b0a3342314401297a9",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/aa49af1072b367b0a3342314401297a9"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15534",
+        "abyssId": "15534",
+        "playXID": "aa49af1072b367b0a3342314401297a9",
+        "title": "Catch Me at the Ballpark!",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "yUXRG8fnS"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "mN1VVb_Xe"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/1d34287c16f9452841802a0ec65b95b4/master.m3u8?md5=A5Vu8f55Iab8ofhb_chWVw&expires=1792166598",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/1d34287c16f9452841802a0ec65b95b4/master.m3u8?md5=A5Vu8f55Iab8ofhb_chWVw&expires=1792166598",
+            "videoSource": "https://ravok.buzz/cdn/hls/1d34287c16f9452841802a0ec65b95b4/master.m3u8?md5=A5Vu8f55Iab8ofhb_chWVw&expires=1792166598",
+            "videoImage": "https://as-cdn27.top/p/DdtCPvBc3TnYKZfpsBxGIRK9iabiiAwwNqr-XzHLks704ZmrZX2H_t9Tu3pJfg7Lw1fjRXlnw994Eea0mZDQEA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "aa49af1072b367b0a3342314401297a9",
+                "streamUrl": "https://ravok.buzz/cdn/hls/1d34287c16f9452841802a0ec65b95b4/master.m3u8?md5=A5Vu8f55Iab8ofhb_chWVw&expires=1792166598",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/1d34287c16f9452841802a0ec65b95b4/master.m3u8?md5=A5Vu8f55Iab8ofhb_chWVw&expires=1792166598",
+                "videoSource": "https://ravok.buzz/cdn/hls/1d34287c16f9452841802a0ec65b95b4/master.m3u8?md5=A5Vu8f55Iab8ofhb_chWVw&expires=1792166598",
+                "link": "https://ravok.buzz/cdn/hls/1d34287c16f9452841802a0ec65b95b4/master.m3u8?md5=A5Vu8f55Iab8ofhb_chWVw&expires=1792166598",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/DdtCPvBc3TnYKZfpsBxGIRK9iabiiAwwNqr-XzHLks704ZmrZX2H_t9Tu3pJfg7Lw1fjRXlnw994Eea0mZDQEA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "yUXRG8fnS"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:28Z"
+    },
+    {
+      "id": "episode/catch-me-at-the-ballpark-1x1",
+      "episode_id": "episode/catch-me-at-the-ballpark-1x1",
+      "title": "Catch Me at the Ballpark! 1x1",
+      "episode_name": "Catch Me at the Ballpark! 1x1",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1686/1/1.webp",
+      "abyssid": "15408",
+      "abyssId": "15408",
+      "playxid": "9f667326187d83f1ef7c6aa0784808f6",
+      "playXID": "9f667326187d83f1ef7c6aa0784808f6",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15408",
+        "playXID": "9f667326187d83f1ef7c6aa0784808f6",
+        "streamId": "15408",
+        "dubPlayerSrc": "/dub-player/t/15408/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9f667326187d83f1ef7c6aa0784808f6&abyssId=15408"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15408",
+        "playXID": "9f667326187d83f1ef7c6aa0784808f6",
+        "streamId": "15408",
+        "dubPlayerSrc": "/dub-player/t/15408/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9f667326187d83f1ef7c6aa0784808f6&abyssId=15408"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/9f667326187d83f1ef7c6aa0784808f6",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/9f667326187d83f1ef7c6aa0784808f6"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15408",
+        "abyssId": "15408",
+        "playXID": "9f667326187d83f1ef7c6aa0784808f6",
+        "title": "Catch Me at the Ballpark!",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "1GLasvV6r"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "wWnKRW0ZC"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/26ea4998fac1bc1560f295a848e641b7/master.m3u8?md5=GkwzW5CO4rh1glPLyCjH0Q&expires=1792166599",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/26ea4998fac1bc1560f295a848e641b7/master.m3u8?md5=GkwzW5CO4rh1glPLyCjH0Q&expires=1792166599",
+            "videoSource": "https://ravok.buzz/cdn/hls/26ea4998fac1bc1560f295a848e641b7/master.m3u8?md5=GkwzW5CO4rh1glPLyCjH0Q&expires=1792166599",
+            "videoImage": "https://as-cdn29.top/p/ID_h3qhjTyyxRjFLTos-lsJecdQVyw7sTfDuPcI1pZkvR43t6PTeg0FbEdN9_yXg-5cK0bxdz8zVyitF90csaA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "9f667326187d83f1ef7c6aa0784808f6",
+                "streamUrl": "https://ravok.buzz/cdn/hls/26ea4998fac1bc1560f295a848e641b7/master.m3u8?md5=GkwzW5CO4rh1glPLyCjH0Q&expires=1792166599",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/26ea4998fac1bc1560f295a848e641b7/master.m3u8?md5=GkwzW5CO4rh1glPLyCjH0Q&expires=1792166599",
+                "videoSource": "https://ravok.buzz/cdn/hls/26ea4998fac1bc1560f295a848e641b7/master.m3u8?md5=GkwzW5CO4rh1glPLyCjH0Q&expires=1792166599",
+                "link": "https://ravok.buzz/cdn/hls/26ea4998fac1bc1560f295a848e641b7/master.m3u8?md5=GkwzW5CO4rh1glPLyCjH0Q&expires=1792166599",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/ID_h3qhjTyyxRjFLTos-lsJecdQVyw7sTfDuPcI1pZkvR43t6PTeg0FbEdN9_yXg-5cK0bxdz8zVyitF90csaA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "1GLasvV6r"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:28Z"
+    },
+    {
+      "id": "episode/catch-me-at-the-ballpark-1x6",
+      "episode_id": "episode/catch-me-at-the-ballpark-1x6",
+      "title": "Catch Me at the Ballpark! 1x1",
+      "episode_name": "Catch Me at the Ballpark! 1x1",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1686/1/6.webp",
+      "abyssid": "15689",
+      "abyssId": "15689",
+      "playxid": "f4984314d122393d8dee3c843cbd16d7",
+      "playXID": "f4984314d122393d8dee3c843cbd16d7",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15689",
+        "playXID": "f4984314d122393d8dee3c843cbd16d7",
+        "streamId": "15689",
+        "dubPlayerSrc": "/dub-player/t/15689/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f4984314d122393d8dee3c843cbd16d7&abyssId=15689"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15689",
+        "playXID": "f4984314d122393d8dee3c843cbd16d7",
+        "streamId": "15689",
+        "dubPlayerSrc": "/dub-player/t/15689/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f4984314d122393d8dee3c843cbd16d7&abyssId=15689"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/f4984314d122393d8dee3c843cbd16d7",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/f4984314d122393d8dee3c843cbd16d7"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15689",
+        "abyssId": "15689",
+        "playXID": "f4984314d122393d8dee3c843cbd16d7",
+        "title": "Catch Me at the Ballpark!",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "q7iq1Ayoh"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "_tEfeUchF"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "WyQsDDrlC"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/e2a170553c73446400d525203f9cf7bc/master.m3u8?md5=qEp4GfrFXYaVdZWyRz3uLQ&expires=1792166600",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/e2a170553c73446400d525203f9cf7bc/master.m3u8?md5=qEp4GfrFXYaVdZWyRz3uLQ&expires=1792166600",
+            "videoSource": "https://ravok.buzz/cdn/hls/e2a170553c73446400d525203f9cf7bc/master.m3u8?md5=qEp4GfrFXYaVdZWyRz3uLQ&expires=1792166600",
+            "videoImage": "https://as-cdn28.top/p/WfOXdea3xc15mCdaNPN80BTVxwNVqfNAiESH9cQj7Qt2EcLCQstKSnz-Q-5QIKtTsKdd0EtXRTUggJaFgetgQg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "f4984314d122393d8dee3c843cbd16d7",
+                "streamUrl": "https://ravok.buzz/cdn/hls/e2a170553c73446400d525203f9cf7bc/master.m3u8?md5=qEp4GfrFXYaVdZWyRz3uLQ&expires=1792166600",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/e2a170553c73446400d525203f9cf7bc/master.m3u8?md5=qEp4GfrFXYaVdZWyRz3uLQ&expires=1792166600",
+                "videoSource": "https://ravok.buzz/cdn/hls/e2a170553c73446400d525203f9cf7bc/master.m3u8?md5=qEp4GfrFXYaVdZWyRz3uLQ&expires=1792166600",
+                "link": "https://ravok.buzz/cdn/hls/e2a170553c73446400d525203f9cf7bc/master.m3u8?md5=qEp4GfrFXYaVdZWyRz3uLQ&expires=1792166600",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/WfOXdea3xc15mCdaNPN80BTVxwNVqfNAiESH9cQj7Qt2EcLCQstKSnz-Q-5QIKtTsKdd0EtXRTUggJaFgetgQg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "q7iq1Ayoh"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:30Z"
+    },
+    {
+      "id": "episode/catch-me-at-the-ballpark-1x7",
+      "episode_id": "episode/catch-me-at-the-ballpark-1x7",
+      "title": "Catch Me at the Ballpark! 1x1",
+      "episode_name": "Catch Me at the Ballpark! 1x1",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1686/1/7.webp",
+      "abyssid": "15750",
+      "abyssId": "15750",
+      "playxid": "129ccfc1c1a82b0b23d4473a72373a0a",
+      "playXID": "129ccfc1c1a82b0b23d4473a72373a0a",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15750",
+        "playXID": "129ccfc1c1a82b0b23d4473a72373a0a",
+        "streamId": "15750",
+        "dubPlayerSrc": "/dub-player/t/15750/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=129ccfc1c1a82b0b23d4473a72373a0a&abyssId=15750"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15750",
+        "playXID": "129ccfc1c1a82b0b23d4473a72373a0a",
+        "streamId": "15750",
+        "dubPlayerSrc": "/dub-player/t/15750/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=129ccfc1c1a82b0b23d4473a72373a0a&abyssId=15750"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/129ccfc1c1a82b0b23d4473a72373a0a",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/129ccfc1c1a82b0b23d4473a72373a0a"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15750",
+        "abyssId": "15750",
+        "playXID": "129ccfc1c1a82b0b23d4473a72373a0a",
+        "title": "Catch Me at the Ballpark!",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "0h4g8uVdI"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "dlSojXZRd"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/2d4a65c389eb1ce698bbce397f7f51ae/master.m3u8?md5=ZHz9XqpgxsH7iqqytgYRRg&expires=1792166600",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/2d4a65c389eb1ce698bbce397f7f51ae/master.m3u8?md5=ZHz9XqpgxsH7iqqytgYRRg&expires=1792166600",
+            "videoSource": "https://ravok.buzz/cdn/hls/2d4a65c389eb1ce698bbce397f7f51ae/master.m3u8?md5=ZHz9XqpgxsH7iqqytgYRRg&expires=1792166600",
+            "videoImage": "https://as-cdn29.top/p/RF6h29INkR7jPVDTPuNFs_ZIKhz3AI_-DCbKW2c_B-4PsYtw18v3zwKosneLlxqqIa4hMf9FxV7_xJXhzMiQnA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "129ccfc1c1a82b0b23d4473a72373a0a",
+                "streamUrl": "https://ravok.buzz/cdn/hls/2d4a65c389eb1ce698bbce397f7f51ae/master.m3u8?md5=ZHz9XqpgxsH7iqqytgYRRg&expires=1792166600",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/2d4a65c389eb1ce698bbce397f7f51ae/master.m3u8?md5=ZHz9XqpgxsH7iqqytgYRRg&expires=1792166600",
+                "videoSource": "https://ravok.buzz/cdn/hls/2d4a65c389eb1ce698bbce397f7f51ae/master.m3u8?md5=ZHz9XqpgxsH7iqqytgYRRg&expires=1792166600",
+                "link": "https://ravok.buzz/cdn/hls/2d4a65c389eb1ce698bbce397f7f51ae/master.m3u8?md5=ZHz9XqpgxsH7iqqytgYRRg&expires=1792166600",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/RF6h29INkR7jPVDTPuNFs_ZIKhz3AI_-DCbKW2c_B-4PsYtw18v3zwKosneLlxqqIa4hMf9FxV7_xJXhzMiQnA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "0h4g8uVdI"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:30Z"
+    },
+    {
+      "id": "episode/catch-me-at-the-ballpark-1x8",
+      "episode_id": "episode/catch-me-at-the-ballpark-1x8",
+      "title": "Catch Me at the Ballpark! 1x1",
+      "episode_name": "Catch Me at the Ballpark! 1x1",
+      "episode_number": 8,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1686/1/8.webp",
+      "abyssid": "15767",
+      "abyssId": "15767",
+      "playxid": "0ad19a1cd666b3b65b6e46ad4ccc42f5",
+      "playXID": "0ad19a1cd666b3b65b6e46ad4ccc42f5",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15767",
+        "playXID": "0ad19a1cd666b3b65b6e46ad4ccc42f5",
+        "streamId": "15767",
+        "dubPlayerSrc": "/dub-player/t/15767/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=0ad19a1cd666b3b65b6e46ad4ccc42f5&abyssId=15767"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15767",
+        "playXID": "0ad19a1cd666b3b65b6e46ad4ccc42f5",
+        "streamId": "15767",
+        "dubPlayerSrc": "/dub-player/t/15767/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=0ad19a1cd666b3b65b6e46ad4ccc42f5&abyssId=15767"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/0ad19a1cd666b3b65b6e46ad4ccc42f5",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/0ad19a1cd666b3b65b6e46ad4ccc42f5"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15767",
+        "abyssId": "15767",
+        "playXID": "0ad19a1cd666b3b65b6e46ad4ccc42f5",
+        "title": "Catch Me at the Ballpark!",
+        "season": 1,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "90f_9q7O1"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "WBuHcd_Yh"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/7f39215957bc3310357f0efbf57e6ffb/master.m3u8?md5=qturYFpHSvP3H4k4JKW1-A&expires=1792166601",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/7f39215957bc3310357f0efbf57e6ffb/master.m3u8?md5=qturYFpHSvP3H4k4JKW1-A&expires=1792166601",
+            "videoSource": "https://ravok.buzz/cdn/hls/7f39215957bc3310357f0efbf57e6ffb/master.m3u8?md5=qturYFpHSvP3H4k4JKW1-A&expires=1792166601",
+            "videoImage": "https://as-cdn28.top/p/nBBrVfv_KpVx-7oIxMV0clH_s-1XtDAd2D1CQxgGzQCWOSXs1RluHRpU7IjzaUSebTLBSLcb7trAAf6VFX_WdQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "0ad19a1cd666b3b65b6e46ad4ccc42f5",
+                "streamUrl": "https://ravok.buzz/cdn/hls/7f39215957bc3310357f0efbf57e6ffb/master.m3u8?md5=qturYFpHSvP3H4k4JKW1-A&expires=1792166601",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/7f39215957bc3310357f0efbf57e6ffb/master.m3u8?md5=qturYFpHSvP3H4k4JKW1-A&expires=1792166601",
+                "videoSource": "https://ravok.buzz/cdn/hls/7f39215957bc3310357f0efbf57e6ffb/master.m3u8?md5=qturYFpHSvP3H4k4JKW1-A&expires=1792166601",
+                "link": "https://ravok.buzz/cdn/hls/7f39215957bc3310357f0efbf57e6ffb/master.m3u8?md5=qturYFpHSvP3H4k4JKW1-A&expires=1792166601",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/nBBrVfv_KpVx-7oIxMV0clH_s-1XtDAd2D1CQxgGzQCWOSXs1RluHRpU7IjzaUSebTLBSLcb7trAAf6VFX_WdQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "90f_9q7O1"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:31Z"
+    },
+    {
+      "id": "episode/catch-me-at-the-ballpark-1x9",
+      "episode_id": "episode/catch-me-at-the-ballpark-1x9",
+      "title": "Catch Me at the Ballpark! 1x1",
+      "episode_name": "Catch Me at the Ballpark! 1x1",
+      "episode_number": 9,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1686/1/9.webp",
+      "abyssid": "15815",
+      "abyssId": "15815",
+      "playxid": "97208e4cb6de9c04b325c2185316439f",
+      "playXID": "97208e4cb6de9c04b325c2185316439f",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15815",
+        "playXID": "97208e4cb6de9c04b325c2185316439f",
+        "streamId": "15815",
+        "dubPlayerSrc": "/dub-player/t/15815/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=97208e4cb6de9c04b325c2185316439f&abyssId=15815"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15815",
+        "playXID": "97208e4cb6de9c04b325c2185316439f",
+        "streamId": "15815",
+        "dubPlayerSrc": "/dub-player/t/15815/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=97208e4cb6de9c04b325c2185316439f&abyssId=15815"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/97208e4cb6de9c04b325c2185316439f",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/97208e4cb6de9c04b325c2185316439f"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15815",
+        "abyssId": "15815",
+        "playXID": "97208e4cb6de9c04b325c2185316439f",
+        "title": "Catch Me at the Ballpark!",
+        "season": 1,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "nv2HaswU9"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "CVsVC9VaC"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/4f574ccf8914da94840532c7fd0495e7/master.m3u8?md5=TAyUPSAkOqppEzfutb0nSA&expires=1792166601",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/4f574ccf8914da94840532c7fd0495e7/master.m3u8?md5=TAyUPSAkOqppEzfutb0nSA&expires=1792166601",
+            "videoSource": "https://ravok.buzz/cdn/hls/4f574ccf8914da94840532c7fd0495e7/master.m3u8?md5=TAyUPSAkOqppEzfutb0nSA&expires=1792166601",
+            "videoImage": "https://as-cdn28.top/p/5_JsDBuOO-rByG2eOM5spriG1bCPUg_fIK_RhB-lLTAay_4xeQy2SzOqyso5sRCs4wqKQZ_KwSzZzy9IWVfLjw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "97208e4cb6de9c04b325c2185316439f",
+                "streamUrl": "https://ravok.buzz/cdn/hls/4f574ccf8914da94840532c7fd0495e7/master.m3u8?md5=TAyUPSAkOqppEzfutb0nSA&expires=1792166601",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/4f574ccf8914da94840532c7fd0495e7/master.m3u8?md5=TAyUPSAkOqppEzfutb0nSA&expires=1792166601",
+                "videoSource": "https://ravok.buzz/cdn/hls/4f574ccf8914da94840532c7fd0495e7/master.m3u8?md5=TAyUPSAkOqppEzfutb0nSA&expires=1792166601",
+                "link": "https://ravok.buzz/cdn/hls/4f574ccf8914da94840532c7fd0495e7/master.m3u8?md5=TAyUPSAkOqppEzfutb0nSA&expires=1792166601",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/5_JsDBuOO-rByG2eOM5spriG1bCPUg_fIK_RhB-lLTAay_4xeQy2SzOqyso5sRCs4wqKQZ_KwSzZzy9IWVfLjw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "nv2HaswU9"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:31Z"
+    },
+    {
+      "id": "episode/catch-me-at-the-ballpark-1x10",
+      "episode_id": "episode/catch-me-at-the-ballpark-1x10",
+      "title": "Catch Me at the Ballpark! 1x1",
+      "episode_name": "Catch Me at the Ballpark! 1x1",
+      "episode_number": 10,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1686_s1e10.webp",
+      "abyssid": "15871",
+      "abyssId": "15871",
+      "playxid": "14ee3cfc17b13a0f35bc3c22476ff77f",
+      "playXID": "14ee3cfc17b13a0f35bc3c22476ff77f",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15871",
+        "playXID": "14ee3cfc17b13a0f35bc3c22476ff77f",
+        "streamId": "15871",
+        "dubPlayerSrc": "/dub-player/t/15871/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=14ee3cfc17b13a0f35bc3c22476ff77f&abyssId=15871"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15871",
+        "playXID": "14ee3cfc17b13a0f35bc3c22476ff77f",
+        "streamId": "15871",
+        "dubPlayerSrc": "/dub-player/t/15871/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=14ee3cfc17b13a0f35bc3c22476ff77f&abyssId=15871"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/14ee3cfc17b13a0f35bc3c22476ff77f",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/14ee3cfc17b13a0f35bc3c22476ff77f"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15871",
+        "abyssId": "15871",
+        "playXID": "14ee3cfc17b13a0f35bc3c22476ff77f",
+        "title": "Catch Me at the Ballpark!",
+        "season": 1,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "uld-yMtj9"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "TISwBNaVg"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/b07c49dcd983fba757edd24907a18dad/master.m3u8?md5=DOchxGhhnhjqtoJalDU51g&expires=1792166601",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/b07c49dcd983fba757edd24907a18dad/master.m3u8?md5=DOchxGhhnhjqtoJalDU51g&expires=1792166601",
+            "videoSource": "https://ravok.buzz/cdn/hls/b07c49dcd983fba757edd24907a18dad/master.m3u8?md5=DOchxGhhnhjqtoJalDU51g&expires=1792166601",
+            "videoImage": "https://as-cdn27.top/p/ZKs_ZuiVR-1zuKzY85mp2kGoCJlHH1DB2QORpxgHqs-bOS4rVjJ5aJc2pKe144Xu2ODehd-tjYsoT02V9BhdJw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "14ee3cfc17b13a0f35bc3c22476ff77f",
+                "streamUrl": "https://ravok.buzz/cdn/hls/b07c49dcd983fba757edd24907a18dad/master.m3u8?md5=DOchxGhhnhjqtoJalDU51g&expires=1792166601",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/b07c49dcd983fba757edd24907a18dad/master.m3u8?md5=DOchxGhhnhjqtoJalDU51g&expires=1792166601",
+                "videoSource": "https://ravok.buzz/cdn/hls/b07c49dcd983fba757edd24907a18dad/master.m3u8?md5=DOchxGhhnhjqtoJalDU51g&expires=1792166601",
+                "link": "https://ravok.buzz/cdn/hls/b07c49dcd983fba757edd24907a18dad/master.m3u8?md5=DOchxGhhnhjqtoJalDU51g&expires=1792166601",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/ZKs_ZuiVR-1zuKzY85mp2kGoCJlHH1DB2QORpxgHqs-bOS4rVjJ5aJc2pKe144Xu2ODehd-tjYsoT02V9BhdJw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "uld-yMtj9"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:31Z"
+    },
+    {
+      "id": "episode/catch-me-at-the-ballpark-1x11",
+      "episode_id": "episode/catch-me-at-the-ballpark-1x11",
+      "title": "Catch Me at the Ballpark! 1x1",
+      "episode_name": "Catch Me at the Ballpark! 1x1",
+      "episode_number": 11,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1686_s1e11.webp",
+      "abyssid": "15873",
+      "abyssId": "15873",
+      "playxid": "3a900dc34f5f470bc5b734222f657d7f",
+      "playXID": "3a900dc34f5f470bc5b734222f657d7f",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15873",
+        "playXID": "3a900dc34f5f470bc5b734222f657d7f",
+        "streamId": "15873",
+        "dubPlayerSrc": "/dub-player/t/15873/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=3a900dc34f5f470bc5b734222f657d7f&abyssId=15873"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15873",
+        "playXID": "3a900dc34f5f470bc5b734222f657d7f",
+        "streamId": "15873",
+        "dubPlayerSrc": "/dub-player/t/15873/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=3a900dc34f5f470bc5b734222f657d7f&abyssId=15873"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/3a900dc34f5f470bc5b734222f657d7f",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/3a900dc34f5f470bc5b734222f657d7f"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15873",
+        "abyssId": "15873",
+        "playXID": "3a900dc34f5f470bc5b734222f657d7f",
+        "title": "Catch Me at the Ballpark!",
+        "season": 1,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "-NcVUp8J7"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "LMh_SYsNb"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/41895f47254cb3b6b85504eee231c5ce/master.m3u8?md5=aviN0UHh5yU0LorY6d7hww&expires=1792166602",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/41895f47254cb3b6b85504eee231c5ce/master.m3u8?md5=aviN0UHh5yU0LorY6d7hww&expires=1792166602",
+            "videoSource": "https://ravok.buzz/cdn/hls/41895f47254cb3b6b85504eee231c5ce/master.m3u8?md5=aviN0UHh5yU0LorY6d7hww&expires=1792166602",
+            "videoImage": "https://as-cdn28.top/p/fNuu6-_uPvofzR0iEDjaNsv3xU7mManVjluHIkOFX1wfbzoLLqwDODAqbSorormqQ9Npka7DSEt41CcB3VqyWw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "3a900dc34f5f470bc5b734222f657d7f",
+                "streamUrl": "https://ravok.buzz/cdn/hls/41895f47254cb3b6b85504eee231c5ce/master.m3u8?md5=aviN0UHh5yU0LorY6d7hww&expires=1792166602",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/41895f47254cb3b6b85504eee231c5ce/master.m3u8?md5=aviN0UHh5yU0LorY6d7hww&expires=1792166602",
+                "videoSource": "https://ravok.buzz/cdn/hls/41895f47254cb3b6b85504eee231c5ce/master.m3u8?md5=aviN0UHh5yU0LorY6d7hww&expires=1792166602",
+                "link": "https://ravok.buzz/cdn/hls/41895f47254cb3b6b85504eee231c5ce/master.m3u8?md5=aviN0UHh5yU0LorY6d7hww&expires=1792166602",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/fNuu6-_uPvofzR0iEDjaNsv3xU7mManVjluHIkOFX1wfbzoLLqwDODAqbSorormqQ9Npka7DSEt41CcB3VqyWw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "-NcVUp8J7"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:32Z"
+    },
+    {
+      "id": "episode/catch-me-at-the-ballpark-1x12",
+      "episode_id": "episode/catch-me-at-the-ballpark-1x12",
+      "title": "Catch Me at the Ballpark! 1x1",
+      "episode_name": "Catch Me at the Ballpark! 1x1",
+      "episode_number": 12,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1686_s1e12.webp",
+      "abyssid": "15923",
+      "abyssId": "15923",
+      "playxid": "1960b8912493f54222bd4aa1775caef3",
+      "playXID": "1960b8912493f54222bd4aa1775caef3",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15923",
+        "playXID": "1960b8912493f54222bd4aa1775caef3",
+        "streamId": "15923",
+        "dubPlayerSrc": "/dub-player/t/15923/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=1960b8912493f54222bd4aa1775caef3&abyssId=15923"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15923",
+        "playXID": "1960b8912493f54222bd4aa1775caef3",
+        "streamId": "15923",
+        "dubPlayerSrc": "/dub-player/t/15923/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=1960b8912493f54222bd4aa1775caef3&abyssId=15923"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/1960b8912493f54222bd4aa1775caef3",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/1960b8912493f54222bd4aa1775caef3"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15923",
+        "abyssId": "15923",
+        "playXID": "1960b8912493f54222bd4aa1775caef3",
+        "title": "Catch Me at the Ballpark!",
+        "season": 1,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "lIt4pM2Jx"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "HavSBIfZs"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/7688ff6c43dee8959d20a66a10e837b7/master.m3u8?md5=Ubc2dPit_WySfWpcTb2sQg&expires=1792166602",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/7688ff6c43dee8959d20a66a10e837b7/master.m3u8?md5=Ubc2dPit_WySfWpcTb2sQg&expires=1792166602",
+            "videoSource": "https://ravok.buzz/cdn/hls/7688ff6c43dee8959d20a66a10e837b7/master.m3u8?md5=Ubc2dPit_WySfWpcTb2sQg&expires=1792166602",
+            "videoImage": "https://as-cdn30.top/p/iKSZhAsrOzpsx7SGqv8KJU-QXB_8ne7c2Pj6kOyU-9dqd0uTc-v_P-0uqKalzCtve5Kdljn3jkPz-M0KvNpJrg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "1960b8912493f54222bd4aa1775caef3",
+                "streamUrl": "https://ravok.buzz/cdn/hls/7688ff6c43dee8959d20a66a10e837b7/master.m3u8?md5=Ubc2dPit_WySfWpcTb2sQg&expires=1792166602",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/7688ff6c43dee8959d20a66a10e837b7/master.m3u8?md5=Ubc2dPit_WySfWpcTb2sQg&expires=1792166602",
+                "videoSource": "https://ravok.buzz/cdn/hls/7688ff6c43dee8959d20a66a10e837b7/master.m3u8?md5=Ubc2dPit_WySfWpcTb2sQg&expires=1792166602",
+                "link": "https://ravok.buzz/cdn/hls/7688ff6c43dee8959d20a66a10e837b7/master.m3u8?md5=Ubc2dPit_WySfWpcTb2sQg&expires=1792166602",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/iKSZhAsrOzpsx7SGqv8KJU-QXB_8ne7c2Pj6kOyU-9dqd0uTc-v_P-0uqKalzCtve5Kdljn3jkPz-M0KvNpJrg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "lIt4pM2Jx"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:32Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T14:03:26Z",
+  "updated_at": "2026-10-16T14:03:32Z"
+}

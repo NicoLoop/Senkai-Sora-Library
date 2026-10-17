@@ -1,0 +1,2859 @@
+{
+  "id": "series/iron-man",
+  "series_name": "Iron Man",
+  "title": "Iron Man",
+  "banner": "https://image.tmdb.org/t/p/w1280/ijOzFQw37jjfZdG1zproCkO6oue.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/nTQWWH6CFtl37x1nPx8HRwbwvGn.jpg",
+  "genra": [
+    "Action",
+    "Adventure",
+    "Sci-Fi",
+    "Superhero"
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Sci-Fi",
+    "Superhero"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Tamil",
+    "Telugu"
+  ],
+  "synopsis": "Industrialist Tony Stark leads a private team of superheroes as Iron Man against the forces of evil.",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 2,
+  "totalEpisodes": 26,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 13,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "And the Sea Shall Give Up Its Dead",
+          "id": "episode/iron-man-1x1",
+          "image": "https://img.watchanimeworld.one/images/2842/01.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "Rejoice! I Am Ultimo, Thy Deliverer",
+          "id": "episode/iron-man-1x2",
+          "image": "https://img.watchanimeworld.one/images/2842/02.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "Data In, Chaos Out",
+          "id": "episode/iron-man-1x3",
+          "image": "https://img.watchanimeworld.one/images/2842/03.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "Silence My Companion, Death My Destination",
+          "id": "episode/iron-man-1x4",
+          "image": "https://img.watchanimeworld.one/images/2842/04.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "The Grim Reaper Wears a Teflon Coat",
+          "id": "episode/iron-man-1x5",
+          "image": "https://img.watchanimeworld.one/images/2842/05.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "Enemy Without, Enemy Within",
+          "id": "episode/iron-man-1x6",
+          "image": "https://img.watchanimeworld.one/images/2842/06.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "The Origin of the Mandarin",
+          "id": "episode/iron-man-1x7",
+          "image": "https://img.watchanimeworld.one/images/2842/07.webp",
+          "season": 1
+        },
+        {
+          "episode": 8,
+          "title": "The Defection of Hawkeye",
+          "id": "episode/iron-man-1x8",
+          "image": "https://img.watchanimeworld.one/images/2842/08.webp",
+          "season": 1
+        },
+        {
+          "episode": 9,
+          "title": "Iron Man to the Second Power, Part 1",
+          "id": "episode/iron-man-1x9",
+          "image": "https://img.watchanimeworld.one/images/2842/09.webp",
+          "season": 1
+        },
+        {
+          "episode": 10,
+          "title": "Iron Man to the Second Power, Part 2",
+          "id": "episode/iron-man-1x10",
+          "image": "https://img.watchanimeworld.one/images/2842/10.webp",
+          "season": 1
+        },
+        {
+          "episode": 11,
+          "title": "The Origin of Iron Man, Part 1",
+          "id": "episode/iron-man-1x11",
+          "image": "https://img.watchanimeworld.one/images/2842/11.webp",
+          "season": 1
+        },
+        {
+          "episode": 12,
+          "title": "The Origin of Iron Man, Part 2",
+          "id": "episode/iron-man-1x12",
+          "image": "https://img.watchanimeworld.one/images/2842/12.webp",
+          "season": 1
+        },
+        {
+          "episode": 13,
+          "title": "The Wedding of Iron Man",
+          "id": "episode/iron-man-1x13",
+          "image": "https://img.watchanimeworld.one/images/2842/13.webp",
+          "season": 1
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "name": "Season 2",
+      "episodesCount": 13,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "The Beast Within",
+          "id": "episode/iron-man-2x1",
+          "image": "https://img.watchanimeworld.one/images/2880/01.webp",
+          "season": 2
+        },
+        {
+          "episode": 2,
+          "title": "Fire and Rain",
+          "id": "episode/iron-man-2x2",
+          "image": "https://img.watchanimeworld.one/images/2880/02.webp",
+          "season": 2
+        },
+        {
+          "episode": 3,
+          "title": "Cell of Iron",
+          "id": "episode/iron-man-2x3",
+          "image": "https://img.watchanimeworld.one/images/2880/03.webp",
+          "season": 2
+        },
+        {
+          "episode": 4,
+          "title": "Not Far From the Tree",
+          "id": "episode/iron-man-2x4",
+          "image": "https://img.watchanimeworld.one/images/2880/04.webp",
+          "season": 2
+        },
+        {
+          "episode": 5,
+          "title": "Beauty Knows No Pain",
+          "id": "episode/iron-man-2x5",
+          "image": "https://img.watchanimeworld.one/images/2880/05.webp",
+          "season": 2
+        },
+        {
+          "episode": 6,
+          "title": "Iron Man, On the Inside",
+          "id": "episode/iron-man-2x6",
+          "image": "https://img.watchanimeworld.one/images/2880/06.webp",
+          "season": 2
+        },
+        {
+          "episode": 7,
+          "title": "Distant Boundaries",
+          "id": "episode/iron-man-2x7",
+          "image": "https://img.watchanimeworld.one/images/2880/07.webp",
+          "season": 2
+        },
+        {
+          "episode": 8,
+          "title": "The Armor Wars, Part 1",
+          "id": "episode/iron-man-2x8",
+          "image": "https://img.watchanimeworld.one/images/2880/08.webp",
+          "season": 2
+        },
+        {
+          "episode": 9,
+          "title": "The Armor Wars, Part 2",
+          "id": "episode/iron-man-2x9",
+          "image": "https://img.watchanimeworld.one/images/2880/09.webp",
+          "season": 2
+        },
+        {
+          "episode": 10,
+          "title": "Empowered",
+          "id": "episode/iron-man-2x10",
+          "image": "https://img.watchanimeworld.one/images/2880/10.webp",
+          "season": 2
+        },
+        {
+          "episode": 11,
+          "title": "Hulk Buster",
+          "id": "episode/iron-man-2x11",
+          "image": "https://img.watchanimeworld.one/images/2880/11.webp",
+          "season": 2
+        },
+        {
+          "episode": 12,
+          "title": "Hands of the Mandarin, Part 1",
+          "id": "episode/iron-man-2x12",
+          "image": "https://img.watchanimeworld.one/images/2880/12.webp",
+          "season": 2
+        },
+        {
+          "episode": 13,
+          "title": "Hands of the Mandarin, Part 2",
+          "id": "episode/iron-man-2x13",
+          "image": "https://img.watchanimeworld.one/images/2880/13.webp",
+          "season": 2
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/iron-man-1x2",
+      "episode_id": "episode/iron-man-1x2",
+      "title": "And the Sea Shall Give Up Its Dead",
+      "episode_name": "And the Sea Shall Give Up Its Dead",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/2842/02.webp",
+      "abyssid": "3338",
+      "abyssId": "3338",
+      "playxid": "3e6ad89fe36086fb79126e36c659f5df",
+      "playXID": "3e6ad89fe36086fb79126e36c659f5df",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "3338",
+        "playXID": "3e6ad89fe36086fb79126e36c659f5df",
+        "streamId": "3338",
+        "dubPlayerSrc": "/dub-player/t/3338/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=3e6ad89fe36086fb79126e36c659f5df&abyssId=3338"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "3338",
+        "playXID": "3e6ad89fe36086fb79126e36c659f5df",
+        "streamId": "3338",
+        "dubPlayerSrc": "/dub-player/t/3338/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=3e6ad89fe36086fb79126e36c659f5df&abyssId=3338"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/3e6ad89fe36086fb79126e36c659f5df",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/3e6ad89fe36086fb79126e36c659f5df"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "3338",
+        "abyssId": "3338",
+        "playXID": "3e6ad89fe36086fb79126e36c659f5df",
+        "title": "Iron Man",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "3ryHLrZth"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "pjt3DAPqK"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "Qa6KNF5x5"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "_LDzL2UX9"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/0bb1a6d4ff2b6b10d34e61d1ee405968/master.m3u8?md5=Z-fVIzjX4duOKQOrkmciaw&expires=1792168418",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/0bb1a6d4ff2b6b10d34e61d1ee405968/master.m3u8?md5=Z-fVIzjX4duOKQOrkmciaw&expires=1792168418",
+            "videoSource": "https://ravok.buzz/cdn/hls/0bb1a6d4ff2b6b10d34e61d1ee405968/master.m3u8?md5=Z-fVIzjX4duOKQOrkmciaw&expires=1792168418",
+            "videoImage": "https://as-cdn29.top/p/PobbmQxaCvrIW6Qk25OY7hxqJQFVZLRqi1Do1NnDu3fPBYu3zqrmECa3eranNioZYzuAiYTtSVfhU7Vzog9FSw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "3e6ad89fe36086fb79126e36c659f5df",
+                "streamUrl": "https://ravok.buzz/cdn/hls/0bb1a6d4ff2b6b10d34e61d1ee405968/master.m3u8?md5=Z-fVIzjX4duOKQOrkmciaw&expires=1792168418",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/0bb1a6d4ff2b6b10d34e61d1ee405968/master.m3u8?md5=Z-fVIzjX4duOKQOrkmciaw&expires=1792168418",
+                "videoSource": "https://ravok.buzz/cdn/hls/0bb1a6d4ff2b6b10d34e61d1ee405968/master.m3u8?md5=Z-fVIzjX4duOKQOrkmciaw&expires=1792168418",
+                "link": "https://ravok.buzz/cdn/hls/0bb1a6d4ff2b6b10d34e61d1ee405968/master.m3u8?md5=Z-fVIzjX4duOKQOrkmciaw&expires=1792168418",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/PobbmQxaCvrIW6Qk25OY7hxqJQFVZLRqi1Do1NnDu3fPBYu3zqrmECa3eranNioZYzuAiYTtSVfhU7Vzog9FSw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "3ryHLrZth"
+        }
+      },
+      "fetched_at": "2026-10-16T14:33:48Z"
+    },
+    {
+      "id": "episode/iron-man-1x4",
+      "episode_id": "episode/iron-man-1x4",
+      "title": "And the Sea Shall Give Up Its Dead",
+      "episode_name": "And the Sea Shall Give Up Its Dead",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/2842/04.webp",
+      "abyssid": "3340",
+      "abyssId": "3340",
+      "playxid": "e0640c93b05097a9380870aa06aa0df4",
+      "playXID": "e0640c93b05097a9380870aa06aa0df4",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "3340",
+        "playXID": "e0640c93b05097a9380870aa06aa0df4",
+        "streamId": "3340",
+        "dubPlayerSrc": "/dub-player/t/3340/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e0640c93b05097a9380870aa06aa0df4&abyssId=3340"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "3340",
+        "playXID": "e0640c93b05097a9380870aa06aa0df4",
+        "streamId": "3340",
+        "dubPlayerSrc": "/dub-player/t/3340/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e0640c93b05097a9380870aa06aa0df4&abyssId=3340"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/e0640c93b05097a9380870aa06aa0df4",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/e0640c93b05097a9380870aa06aa0df4"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "3340",
+        "abyssId": "3340",
+        "playXID": "e0640c93b05097a9380870aa06aa0df4",
+        "title": "Iron Man",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "fInAmGHas"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "ieFaq4sJ3"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "-SV_OiCMk"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "LAwYT3evS"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/aa217f7db47f265535202f3585955a15/master.m3u8?md5=er45WgcR1JSjKW2pRZMA8g&expires=1792168418",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/aa217f7db47f265535202f3585955a15/master.m3u8?md5=er45WgcR1JSjKW2pRZMA8g&expires=1792168418",
+            "videoSource": "https://ravok.buzz/cdn/hls/aa217f7db47f265535202f3585955a15/master.m3u8?md5=er45WgcR1JSjKW2pRZMA8g&expires=1792168418",
+            "videoImage": "https://as-cdn30.top/p/zyAas1_xiAYGzvAEE31x-rnpGKOS8VYvBqELkAO6JmCtI4jIutQdlcp83C-Z34zSOBCLlspjgOWc1nacdY4VlQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "e0640c93b05097a9380870aa06aa0df4",
+                "streamUrl": "https://ravok.buzz/cdn/hls/aa217f7db47f265535202f3585955a15/master.m3u8?md5=er45WgcR1JSjKW2pRZMA8g&expires=1792168418",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/aa217f7db47f265535202f3585955a15/master.m3u8?md5=er45WgcR1JSjKW2pRZMA8g&expires=1792168418",
+                "videoSource": "https://ravok.buzz/cdn/hls/aa217f7db47f265535202f3585955a15/master.m3u8?md5=er45WgcR1JSjKW2pRZMA8g&expires=1792168418",
+                "link": "https://ravok.buzz/cdn/hls/aa217f7db47f265535202f3585955a15/master.m3u8?md5=er45WgcR1JSjKW2pRZMA8g&expires=1792168418",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/zyAas1_xiAYGzvAEE31x-rnpGKOS8VYvBqELkAO6JmCtI4jIutQdlcp83C-Z34zSOBCLlspjgOWc1nacdY4VlQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "fInAmGHas"
+        }
+      },
+      "fetched_at": "2026-10-16T14:33:48Z"
+    },
+    {
+      "id": "episode/iron-man-1x5",
+      "episode_id": "episode/iron-man-1x5",
+      "title": "And the Sea Shall Give Up Its Dead",
+      "episode_name": "And the Sea Shall Give Up Its Dead",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/2842/05.webp",
+      "abyssid": "3341",
+      "abyssId": "3341",
+      "playxid": "d93591bdf7860e1e4ee2fca799911215",
+      "playXID": "d93591bdf7860e1e4ee2fca799911215",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "3341",
+        "playXID": "d93591bdf7860e1e4ee2fca799911215",
+        "streamId": "3341",
+        "dubPlayerSrc": "/dub-player/t/3341/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d93591bdf7860e1e4ee2fca799911215&abyssId=3341"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "3341",
+        "playXID": "d93591bdf7860e1e4ee2fca799911215",
+        "streamId": "3341",
+        "dubPlayerSrc": "/dub-player/t/3341/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d93591bdf7860e1e4ee2fca799911215&abyssId=3341"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/d93591bdf7860e1e4ee2fca799911215",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/d93591bdf7860e1e4ee2fca799911215"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "3341",
+        "abyssId": "3341",
+        "playXID": "d93591bdf7860e1e4ee2fca799911215",
+        "title": "Iron Man",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "9hNqLZNgK"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "nLye8_pBgn"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "vk0hvmGPV"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "cuyt5XaU3"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/559a6092882bbb9178eb989919ab8c96/master.m3u8?md5=xXZ-oflzLI59470mNcNpzA&expires=1792168418",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/559a6092882bbb9178eb989919ab8c96/master.m3u8?md5=xXZ-oflzLI59470mNcNpzA&expires=1792168418",
+            "videoSource": "https://ravok.buzz/cdn/hls/559a6092882bbb9178eb989919ab8c96/master.m3u8?md5=xXZ-oflzLI59470mNcNpzA&expires=1792168418",
+            "videoImage": "https://as-cdn31.top/p/kyRNPPvNgCkBuVcQdTxzU_FTnJIYChyhKoPIzeUg6ydDig4NzjeO25s3Ik5eVrgE-zm9XTxk7BaWhuVdZOSQvQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "d93591bdf7860e1e4ee2fca799911215",
+                "streamUrl": "https://ravok.buzz/cdn/hls/559a6092882bbb9178eb989919ab8c96/master.m3u8?md5=xXZ-oflzLI59470mNcNpzA&expires=1792168418",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/559a6092882bbb9178eb989919ab8c96/master.m3u8?md5=xXZ-oflzLI59470mNcNpzA&expires=1792168418",
+                "videoSource": "https://ravok.buzz/cdn/hls/559a6092882bbb9178eb989919ab8c96/master.m3u8?md5=xXZ-oflzLI59470mNcNpzA&expires=1792168418",
+                "link": "https://ravok.buzz/cdn/hls/559a6092882bbb9178eb989919ab8c96/master.m3u8?md5=xXZ-oflzLI59470mNcNpzA&expires=1792168418",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/kyRNPPvNgCkBuVcQdTxzU_FTnJIYChyhKoPIzeUg6ydDig4NzjeO25s3Ik5eVrgE-zm9XTxk7BaWhuVdZOSQvQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "9hNqLZNgK"
+        }
+      },
+      "fetched_at": "2026-10-16T14:33:48Z"
+    },
+    {
+      "id": "episode/iron-man-1x1",
+      "episode_id": "episode/iron-man-1x1",
+      "title": "And the Sea Shall Give Up Its Dead",
+      "episode_name": "And the Sea Shall Give Up Its Dead",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/2842/01.webp",
+      "abyssid": "3337",
+      "abyssId": "3337",
+      "playxid": "d290dc6cabaffa37f5473eb33611607e",
+      "playXID": "d290dc6cabaffa37f5473eb33611607e",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "3337",
+        "playXID": "d290dc6cabaffa37f5473eb33611607e",
+        "streamId": "3337",
+        "dubPlayerSrc": "/dub-player/t/3337/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d290dc6cabaffa37f5473eb33611607e&abyssId=3337"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "3337",
+        "playXID": "d290dc6cabaffa37f5473eb33611607e",
+        "streamId": "3337",
+        "dubPlayerSrc": "/dub-player/t/3337/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d290dc6cabaffa37f5473eb33611607e&abyssId=3337"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/d290dc6cabaffa37f5473eb33611607e",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/d290dc6cabaffa37f5473eb33611607e"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "3337",
+        "abyssId": "3337",
+        "playXID": "d290dc6cabaffa37f5473eb33611607e",
+        "title": "Iron Man",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "MI71Y28UI"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "PGla-j-2s"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "3tyenTJ7z"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "yt5SLPpr0"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/52170b70e22ff7096d331111d31d0057/master.m3u8?md5=YDfD0gWu4pMDrsiu-nQmSQ&expires=1792168418",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/52170b70e22ff7096d331111d31d0057/master.m3u8?md5=YDfD0gWu4pMDrsiu-nQmSQ&expires=1792168418",
+            "videoSource": "https://ravok.buzz/cdn/hls/52170b70e22ff7096d331111d31d0057/master.m3u8?md5=YDfD0gWu4pMDrsiu-nQmSQ&expires=1792168418",
+            "videoImage": "https://as-cdn27.top/p/Xr2ZIr1LtboxONCQV_AF2xqYw3GciJsf06qwfSF1rdbSqCqfypanGWuVI5CDG-jaubjRSXkw3cIrFnGwmfkstg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "d290dc6cabaffa37f5473eb33611607e",
+                "streamUrl": "https://ravok.buzz/cdn/hls/52170b70e22ff7096d331111d31d0057/master.m3u8?md5=YDfD0gWu4pMDrsiu-nQmSQ&expires=1792168418",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/52170b70e22ff7096d331111d31d0057/master.m3u8?md5=YDfD0gWu4pMDrsiu-nQmSQ&expires=1792168418",
+                "videoSource": "https://ravok.buzz/cdn/hls/52170b70e22ff7096d331111d31d0057/master.m3u8?md5=YDfD0gWu4pMDrsiu-nQmSQ&expires=1792168418",
+                "link": "https://ravok.buzz/cdn/hls/52170b70e22ff7096d331111d31d0057/master.m3u8?md5=YDfD0gWu4pMDrsiu-nQmSQ&expires=1792168418",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/Xr2ZIr1LtboxONCQV_AF2xqYw3GciJsf06qwfSF1rdbSqCqfypanGWuVI5CDG-jaubjRSXkw3cIrFnGwmfkstg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "MI71Y28UI"
+        }
+      },
+      "fetched_at": "2026-10-16T14:33:48Z"
+    },
+    {
+      "id": "episode/iron-man-1x3",
+      "episode_id": "episode/iron-man-1x3",
+      "title": "And the Sea Shall Give Up Its Dead",
+      "episode_name": "And the Sea Shall Give Up Its Dead",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/2842/03.webp",
+      "abyssid": "3339",
+      "abyssId": "3339",
+      "playxid": "8e1ad7941398486f8cede7799b886b58",
+      "playXID": "8e1ad7941398486f8cede7799b886b58",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "3339",
+        "playXID": "8e1ad7941398486f8cede7799b886b58",
+        "streamId": "3339",
+        "dubPlayerSrc": "/dub-player/t/3339/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8e1ad7941398486f8cede7799b886b58&abyssId=3339"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "3339",
+        "playXID": "8e1ad7941398486f8cede7799b886b58",
+        "streamId": "3339",
+        "dubPlayerSrc": "/dub-player/t/3339/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8e1ad7941398486f8cede7799b886b58&abyssId=3339"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/8e1ad7941398486f8cede7799b886b58",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/8e1ad7941398486f8cede7799b886b58"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "3339",
+        "abyssId": "3339",
+        "playXID": "8e1ad7941398486f8cede7799b886b58",
+        "title": "Iron Man",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "djndJFYrp"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "Q68Aag90h"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "-9a4hwAAh"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "QKo9y6pwG"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/91521e6e621d39a7b7a77e6fc89f5692/master.m3u8?md5=w2faInA55Ut_vml0qhVGUw&expires=1792168419",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/91521e6e621d39a7b7a77e6fc89f5692/master.m3u8?md5=w2faInA55Ut_vml0qhVGUw&expires=1792168419",
+            "videoSource": "https://ravok.buzz/cdn/hls/91521e6e621d39a7b7a77e6fc89f5692/master.m3u8?md5=w2faInA55Ut_vml0qhVGUw&expires=1792168419",
+            "videoImage": "https://as-cdn29.top/p/I09f9P54MwPIuvLLoh46pUTvyhbTTmz-UKIM6TagcIDtBC8V94d79LsG6WifoWoNzNuptkjHQaP_PjJkIVrt_Q.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "8e1ad7941398486f8cede7799b886b58",
+                "streamUrl": "https://ravok.buzz/cdn/hls/91521e6e621d39a7b7a77e6fc89f5692/master.m3u8?md5=w2faInA55Ut_vml0qhVGUw&expires=1792168419",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/91521e6e621d39a7b7a77e6fc89f5692/master.m3u8?md5=w2faInA55Ut_vml0qhVGUw&expires=1792168419",
+                "videoSource": "https://ravok.buzz/cdn/hls/91521e6e621d39a7b7a77e6fc89f5692/master.m3u8?md5=w2faInA55Ut_vml0qhVGUw&expires=1792168419",
+                "link": "https://ravok.buzz/cdn/hls/91521e6e621d39a7b7a77e6fc89f5692/master.m3u8?md5=w2faInA55Ut_vml0qhVGUw&expires=1792168419",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/I09f9P54MwPIuvLLoh46pUTvyhbTTmz-UKIM6TagcIDtBC8V94d79LsG6WifoWoNzNuptkjHQaP_PjJkIVrt_Q.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "djndJFYrp"
+        }
+      },
+      "fetched_at": "2026-10-16T14:33:48Z"
+    },
+    {
+      "id": "episode/iron-man-1x6",
+      "episode_id": "episode/iron-man-1x6",
+      "title": "And the Sea Shall Give Up Its Dead",
+      "episode_name": "And the Sea Shall Give Up Its Dead",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/2842/06.webp",
+      "abyssid": "3342",
+      "abyssId": "3342",
+      "playxid": "31a262d6247f3513b19d1149102e116d",
+      "playXID": "31a262d6247f3513b19d1149102e116d",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "3342",
+        "playXID": "31a262d6247f3513b19d1149102e116d",
+        "streamId": "3342",
+        "dubPlayerSrc": "/dub-player/t/3342/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=31a262d6247f3513b19d1149102e116d&abyssId=3342"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "3342",
+        "playXID": "31a262d6247f3513b19d1149102e116d",
+        "streamId": "3342",
+        "dubPlayerSrc": "/dub-player/t/3342/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=31a262d6247f3513b19d1149102e116d&abyssId=3342"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/31a262d6247f3513b19d1149102e116d",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/31a262d6247f3513b19d1149102e116d"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "3342",
+        "abyssId": "3342",
+        "playXID": "31a262d6247f3513b19d1149102e116d",
+        "title": "Iron Man",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "X4yHZE_aD"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "jw7iumD_d"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "L35wTFFeP"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "lvnYm46GOr"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/7cdac16ce122e29a13d29c71437c7341/master.m3u8?md5=z8GlwCpRTP6pidfFOmZ8bw&expires=1792168420",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/7cdac16ce122e29a13d29c71437c7341/master.m3u8?md5=z8GlwCpRTP6pidfFOmZ8bw&expires=1792168420",
+            "videoSource": "https://ravok.buzz/cdn/hls/7cdac16ce122e29a13d29c71437c7341/master.m3u8?md5=z8GlwCpRTP6pidfFOmZ8bw&expires=1792168420",
+            "videoImage": "https://as-cdn31.top/p/kyRNPPvNgCkBuVcQdTxzU3Mk05rrd8iZ3NWdpro6ssf11V3nDrBdJcEcgdN2nt2ru21skIvLln2LXqvWuACKjQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "31a262d6247f3513b19d1149102e116d",
+                "streamUrl": "https://ravok.buzz/cdn/hls/7cdac16ce122e29a13d29c71437c7341/master.m3u8?md5=z8GlwCpRTP6pidfFOmZ8bw&expires=1792168420",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/7cdac16ce122e29a13d29c71437c7341/master.m3u8?md5=z8GlwCpRTP6pidfFOmZ8bw&expires=1792168420",
+                "videoSource": "https://ravok.buzz/cdn/hls/7cdac16ce122e29a13d29c71437c7341/master.m3u8?md5=z8GlwCpRTP6pidfFOmZ8bw&expires=1792168420",
+                "link": "https://ravok.buzz/cdn/hls/7cdac16ce122e29a13d29c71437c7341/master.m3u8?md5=z8GlwCpRTP6pidfFOmZ8bw&expires=1792168420",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/kyRNPPvNgCkBuVcQdTxzU3Mk05rrd8iZ3NWdpro6ssf11V3nDrBdJcEcgdN2nt2ru21skIvLln2LXqvWuACKjQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "X4yHZE_aD"
+        }
+      },
+      "fetched_at": "2026-10-16T14:33:50Z"
+    },
+    {
+      "id": "episode/iron-man-1x7",
+      "episode_id": "episode/iron-man-1x7",
+      "title": "And the Sea Shall Give Up Its Dead",
+      "episode_name": "And the Sea Shall Give Up Its Dead",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/2842/07.webp",
+      "abyssid": "3343",
+      "abyssId": "3343",
+      "playxid": "b5b1d9ada94bb80609d21eecf7a2ce7a",
+      "playXID": "b5b1d9ada94bb80609d21eecf7a2ce7a",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "3343",
+        "playXID": "b5b1d9ada94bb80609d21eecf7a2ce7a",
+        "streamId": "3343",
+        "dubPlayerSrc": "/dub-player/t/3343/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b5b1d9ada94bb80609d21eecf7a2ce7a&abyssId=3343"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "3343",
+        "playXID": "b5b1d9ada94bb80609d21eecf7a2ce7a",
+        "streamId": "3343",
+        "dubPlayerSrc": "/dub-player/t/3343/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b5b1d9ada94bb80609d21eecf7a2ce7a&abyssId=3343"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/b5b1d9ada94bb80609d21eecf7a2ce7a",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/b5b1d9ada94bb80609d21eecf7a2ce7a"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "3343",
+        "abyssId": "3343",
+        "playXID": "b5b1d9ada94bb80609d21eecf7a2ce7a",
+        "title": "Iron Man",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "ECpJ192Nx"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "YnzV7kyxb"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "kw6790fPl"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "BtxlUSCuG"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/5a9ee755e45d91a8a24797e3bce410f4/master.m3u8?md5=ohQuL0U-bKnXW_eyj4nBLw&expires=1792168420",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/5a9ee755e45d91a8a24797e3bce410f4/master.m3u8?md5=ohQuL0U-bKnXW_eyj4nBLw&expires=1792168420",
+            "videoSource": "https://ravok.buzz/cdn/hls/5a9ee755e45d91a8a24797e3bce410f4/master.m3u8?md5=ohQuL0U-bKnXW_eyj4nBLw&expires=1792168420",
+            "videoImage": "https://as-cdn30.top/p/E6nxc1vlYIbz54aPLx1ib_lE1CxwvRMs-EQaeq_1S21huH5Sl8H2CnhcSyPpAKy1adMZV_fDVSu8nOIaYQLa9g.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "b5b1d9ada94bb80609d21eecf7a2ce7a",
+                "streamUrl": "https://ravok.buzz/cdn/hls/5a9ee755e45d91a8a24797e3bce410f4/master.m3u8?md5=ohQuL0U-bKnXW_eyj4nBLw&expires=1792168420",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/5a9ee755e45d91a8a24797e3bce410f4/master.m3u8?md5=ohQuL0U-bKnXW_eyj4nBLw&expires=1792168420",
+                "videoSource": "https://ravok.buzz/cdn/hls/5a9ee755e45d91a8a24797e3bce410f4/master.m3u8?md5=ohQuL0U-bKnXW_eyj4nBLw&expires=1792168420",
+                "link": "https://ravok.buzz/cdn/hls/5a9ee755e45d91a8a24797e3bce410f4/master.m3u8?md5=ohQuL0U-bKnXW_eyj4nBLw&expires=1792168420",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/E6nxc1vlYIbz54aPLx1ib_lE1CxwvRMs-EQaeq_1S21huH5Sl8H2CnhcSyPpAKy1adMZV_fDVSu8nOIaYQLa9g.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "ECpJ192Nx"
+        }
+      },
+      "fetched_at": "2026-10-16T14:33:50Z"
+    },
+    {
+      "id": "episode/iron-man-1x8",
+      "episode_id": "episode/iron-man-1x8",
+      "title": "And the Sea Shall Give Up Its Dead",
+      "episode_name": "And the Sea Shall Give Up Its Dead",
+      "episode_number": 8,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/2842/08.webp",
+      "abyssid": "3344",
+      "abyssId": "3344",
+      "playxid": "f569c3d708a7558b3049d2896d2b6ce1",
+      "playXID": "f569c3d708a7558b3049d2896d2b6ce1",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "3344",
+        "playXID": "f569c3d708a7558b3049d2896d2b6ce1",
+        "streamId": "3344",
+        "dubPlayerSrc": "/dub-player/t/3344/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f569c3d708a7558b3049d2896d2b6ce1&abyssId=3344"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "3344",
+        "playXID": "f569c3d708a7558b3049d2896d2b6ce1",
+        "streamId": "3344",
+        "dubPlayerSrc": "/dub-player/t/3344/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f569c3d708a7558b3049d2896d2b6ce1&abyssId=3344"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/f569c3d708a7558b3049d2896d2b6ce1",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/f569c3d708a7558b3049d2896d2b6ce1"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "3344",
+        "abyssId": "3344",
+        "playXID": "f569c3d708a7558b3049d2896d2b6ce1",
+        "title": "Iron Man",
+        "season": 1,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "yWoxP2DW-"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "BL_ju34qU"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "o1DFuXYeB"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "Q8b4y5ymd"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/6d554e476a272c25875cc541d037f412/master.m3u8?md5=wVG88kElUBuEtpSfv-vD8w&expires=1792168420",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/6d554e476a272c25875cc541d037f412/master.m3u8?md5=wVG88kElUBuEtpSfv-vD8w&expires=1792168420",
+            "videoSource": "https://ravok.buzz/cdn/hls/6d554e476a272c25875cc541d037f412/master.m3u8?md5=wVG88kElUBuEtpSfv-vD8w&expires=1792168420",
+            "videoImage": "https://as-cdn30.top/p/kyRNPPvNgCkBuVcQdTxzU896SQ91bJm8ucF1ftrrhRYE6t4gxz03qUXOf4TsZexIeSHXfZSAcu4SPovHF79jiQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "f569c3d708a7558b3049d2896d2b6ce1",
+                "streamUrl": "https://ravok.buzz/cdn/hls/6d554e476a272c25875cc541d037f412/master.m3u8?md5=wVG88kElUBuEtpSfv-vD8w&expires=1792168420",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/6d554e476a272c25875cc541d037f412/master.m3u8?md5=wVG88kElUBuEtpSfv-vD8w&expires=1792168420",
+                "videoSource": "https://ravok.buzz/cdn/hls/6d554e476a272c25875cc541d037f412/master.m3u8?md5=wVG88kElUBuEtpSfv-vD8w&expires=1792168420",
+                "link": "https://ravok.buzz/cdn/hls/6d554e476a272c25875cc541d037f412/master.m3u8?md5=wVG88kElUBuEtpSfv-vD8w&expires=1792168420",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/kyRNPPvNgCkBuVcQdTxzU896SQ91bJm8ucF1ftrrhRYE6t4gxz03qUXOf4TsZexIeSHXfZSAcu4SPovHF79jiQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "yWoxP2DW-"
+        }
+      },
+      "fetched_at": "2026-10-16T14:33:50Z"
+    },
+    {
+      "id": "episode/iron-man-1x9",
+      "episode_id": "episode/iron-man-1x9",
+      "title": "And the Sea Shall Give Up Its Dead",
+      "episode_name": "And the Sea Shall Give Up Its Dead",
+      "episode_number": 9,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/2842/09.webp",
+      "abyssid": "3345",
+      "abyssId": "3345",
+      "playxid": "d3e8fc83b3e886a0dc2aa9845a5215bf",
+      "playXID": "d3e8fc83b3e886a0dc2aa9845a5215bf",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "3345",
+        "playXID": "d3e8fc83b3e886a0dc2aa9845a5215bf",
+        "streamId": "3345",
+        "dubPlayerSrc": "/dub-player/t/3345/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d3e8fc83b3e886a0dc2aa9845a5215bf&abyssId=3345"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "3345",
+        "playXID": "d3e8fc83b3e886a0dc2aa9845a5215bf",
+        "streamId": "3345",
+        "dubPlayerSrc": "/dub-player/t/3345/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d3e8fc83b3e886a0dc2aa9845a5215bf&abyssId=3345"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/d3e8fc83b3e886a0dc2aa9845a5215bf",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/d3e8fc83b3e886a0dc2aa9845a5215bf"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "3345",
+        "abyssId": "3345",
+        "playXID": "d3e8fc83b3e886a0dc2aa9845a5215bf",
+        "title": "Iron Man",
+        "season": 1,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "FM-WtflZQ"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "XuuFsQ6yv"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "gJei5apNB"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "bAEcjt53r"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "FM-WtflZQ"
+        }
+      },
+      "fetched_at": "2026-10-16T14:33:50Z"
+    },
+    {
+      "id": "episode/iron-man-1x10",
+      "episode_id": "episode/iron-man-1x10",
+      "title": "And the Sea Shall Give Up Its Dead",
+      "episode_name": "And the Sea Shall Give Up Its Dead",
+      "episode_number": 10,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/2842/10.webp",
+      "abyssid": "3346",
+      "abyssId": "3346",
+      "playxid": "903356ae8ff820105d57f744c8a24396",
+      "playXID": "903356ae8ff820105d57f744c8a24396",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "3346",
+        "playXID": "903356ae8ff820105d57f744c8a24396",
+        "streamId": "3346",
+        "dubPlayerSrc": "/dub-player/t/3346/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=903356ae8ff820105d57f744c8a24396&abyssId=3346"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "3346",
+        "playXID": "903356ae8ff820105d57f744c8a24396",
+        "streamId": "3346",
+        "dubPlayerSrc": "/dub-player/t/3346/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=903356ae8ff820105d57f744c8a24396&abyssId=3346"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/903356ae8ff820105d57f744c8a24396",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/903356ae8ff820105d57f744c8a24396"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "3346",
+        "abyssId": "3346",
+        "playXID": "903356ae8ff820105d57f744c8a24396",
+        "title": "Iron Man",
+        "season": 1,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "EUMRMf1D5"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "-z-BQGaiV"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "GjKFpy4CH"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "0Tm4U1HKU"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/75a2955129c69e15be27942ba1167801/master.m3u8?md5=zRh-w91JDd8eatoWDUp-Mg&expires=1792168422",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/75a2955129c69e15be27942ba1167801/master.m3u8?md5=zRh-w91JDd8eatoWDUp-Mg&expires=1792168422",
+            "videoSource": "https://ravok.buzz/cdn/hls/75a2955129c69e15be27942ba1167801/master.m3u8?md5=zRh-w91JDd8eatoWDUp-Mg&expires=1792168422",
+            "videoImage": "https://as-cdn30.top/p/zXYnCHR2h5gSz_iIKS7PeAeD7VFMYskSJfRu9Aw_8lUC9tpQ0gAsbrMB2VwC1RhWC0qO0gsNJ_ZYOiZbSo5k1w.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "903356ae8ff820105d57f744c8a24396",
+                "streamUrl": "https://ravok.buzz/cdn/hls/75a2955129c69e15be27942ba1167801/master.m3u8?md5=zRh-w91JDd8eatoWDUp-Mg&expires=1792168422",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/75a2955129c69e15be27942ba1167801/master.m3u8?md5=zRh-w91JDd8eatoWDUp-Mg&expires=1792168422",
+                "videoSource": "https://ravok.buzz/cdn/hls/75a2955129c69e15be27942ba1167801/master.m3u8?md5=zRh-w91JDd8eatoWDUp-Mg&expires=1792168422",
+                "link": "https://ravok.buzz/cdn/hls/75a2955129c69e15be27942ba1167801/master.m3u8?md5=zRh-w91JDd8eatoWDUp-Mg&expires=1792168422",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/zXYnCHR2h5gSz_iIKS7PeAeD7VFMYskSJfRu9Aw_8lUC9tpQ0gAsbrMB2VwC1RhWC0qO0gsNJ_ZYOiZbSo5k1w.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "EUMRMf1D5"
+        }
+      },
+      "fetched_at": "2026-10-16T14:33:51Z"
+    },
+    {
+      "id": "episode/iron-man-1x11",
+      "episode_id": "episode/iron-man-1x11",
+      "title": "And the Sea Shall Give Up Its Dead",
+      "episode_name": "And the Sea Shall Give Up Its Dead",
+      "episode_number": 11,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/2842/11.webp",
+      "abyssid": "3347",
+      "abyssId": "3347",
+      "playxid": "ce016f59ecc2366a43e1c96a4774d167",
+      "playXID": "ce016f59ecc2366a43e1c96a4774d167",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "3347",
+        "playXID": "ce016f59ecc2366a43e1c96a4774d167",
+        "streamId": "3347",
+        "dubPlayerSrc": "/dub-player/t/3347/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ce016f59ecc2366a43e1c96a4774d167&abyssId=3347"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "3347",
+        "playXID": "ce016f59ecc2366a43e1c96a4774d167",
+        "streamId": "3347",
+        "dubPlayerSrc": "/dub-player/t/3347/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ce016f59ecc2366a43e1c96a4774d167&abyssId=3347"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/ce016f59ecc2366a43e1c96a4774d167",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/ce016f59ecc2366a43e1c96a4774d167"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "3347",
+        "abyssId": "3347",
+        "playXID": "ce016f59ecc2366a43e1c96a4774d167",
+        "title": "Iron Man",
+        "season": 1,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "CiufzIzKg"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "dFbraz2nU"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "M2Mnns8rJ"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "AjYeMIZBv"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "CiufzIzKg"
+        }
+      },
+      "fetched_at": "2026-10-16T14:33:51Z"
+    },
+    {
+      "id": "episode/iron-man-1x13",
+      "episode_id": "episode/iron-man-1x13",
+      "title": "And the Sea Shall Give Up Its Dead",
+      "episode_name": "And the Sea Shall Give Up Its Dead",
+      "episode_number": 13,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/2842/13.webp",
+      "abyssid": "3349",
+      "abyssId": "3349",
+      "playxid": "2c7f9ccb5a39073e24babc3a4cb45e60",
+      "playXID": "2c7f9ccb5a39073e24babc3a4cb45e60",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "3349",
+        "playXID": "2c7f9ccb5a39073e24babc3a4cb45e60",
+        "streamId": "3349",
+        "dubPlayerSrc": "/dub-player/t/3349/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2c7f9ccb5a39073e24babc3a4cb45e60&abyssId=3349"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "3349",
+        "playXID": "2c7f9ccb5a39073e24babc3a4cb45e60",
+        "streamId": "3349",
+        "dubPlayerSrc": "/dub-player/t/3349/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2c7f9ccb5a39073e24babc3a4cb45e60&abyssId=3349"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/2c7f9ccb5a39073e24babc3a4cb45e60",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/2c7f9ccb5a39073e24babc3a4cb45e60"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "3349",
+        "abyssId": "3349",
+        "playXID": "2c7f9ccb5a39073e24babc3a4cb45e60",
+        "title": "Iron Man",
+        "season": 1,
+        "episode": 13,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "pMzQf5ACF"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "ofbmvio9v"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "5c3nCHW6P"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "vEU-TVKWr"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/b76b06872f3a3c36b8efa654deee4063/master.m3u8?md5=DA4Vfcsd0RrCjznpWgR6_Q&expires=1792168422",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/b76b06872f3a3c36b8efa654deee4063/master.m3u8?md5=DA4Vfcsd0RrCjznpWgR6_Q&expires=1792168422",
+            "videoSource": "https://ravok.buzz/cdn/hls/b76b06872f3a3c36b8efa654deee4063/master.m3u8?md5=DA4Vfcsd0RrCjznpWgR6_Q&expires=1792168422",
+            "videoImage": "https://as-cdn31.top/p/kyRNPPvNgCkBuVcQdTxzU27dyc-LTwQTZum4jh6LeNz-lhA9kXRkeOvMBPnsojA56yLKbMKiCCluh6lGq7_HnA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "2c7f9ccb5a39073e24babc3a4cb45e60",
+                "streamUrl": "https://ravok.buzz/cdn/hls/b76b06872f3a3c36b8efa654deee4063/master.m3u8?md5=DA4Vfcsd0RrCjznpWgR6_Q&expires=1792168422",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/b76b06872f3a3c36b8efa654deee4063/master.m3u8?md5=DA4Vfcsd0RrCjznpWgR6_Q&expires=1792168422",
+                "videoSource": "https://ravok.buzz/cdn/hls/b76b06872f3a3c36b8efa654deee4063/master.m3u8?md5=DA4Vfcsd0RrCjznpWgR6_Q&expires=1792168422",
+                "link": "https://ravok.buzz/cdn/hls/b76b06872f3a3c36b8efa654deee4063/master.m3u8?md5=DA4Vfcsd0RrCjznpWgR6_Q&expires=1792168422",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/kyRNPPvNgCkBuVcQdTxzU27dyc-LTwQTZum4jh6LeNz-lhA9kXRkeOvMBPnsojA56yLKbMKiCCluh6lGq7_HnA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "pMzQf5ACF"
+        }
+      },
+      "fetched_at": "2026-10-16T14:33:52Z"
+    },
+    {
+      "id": "episode/iron-man-2x1",
+      "episode_id": "episode/iron-man-2x1",
+      "title": "The Beast Within",
+      "episode_name": "The Beast Within",
+      "episode_number": 1,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/images/2880/01.webp",
+      "abyssid": "3351",
+      "abyssId": "3351",
+      "playxid": "7e889fb76e0e07c11733550f2a6c7a5a",
+      "playXID": "7e889fb76e0e07c11733550f2a6c7a5a",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "3351",
+        "playXID": "7e889fb76e0e07c11733550f2a6c7a5a",
+        "streamId": "3351",
+        "dubPlayerSrc": "/dub-player/t/3351/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=7e889fb76e0e07c11733550f2a6c7a5a&abyssId=3351"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "3351",
+        "playXID": "7e889fb76e0e07c11733550f2a6c7a5a",
+        "streamId": "3351",
+        "dubPlayerSrc": "/dub-player/t/3351/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=7e889fb76e0e07c11733550f2a6c7a5a&abyssId=3351"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/7e889fb76e0e07c11733550f2a6c7a5a",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/7e889fb76e0e07c11733550f2a6c7a5a"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "3351",
+        "abyssId": "3351",
+        "playXID": "7e889fb76e0e07c11733550f2a6c7a5a",
+        "title": "Iron Man",
+        "season": 2,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "ecjS6465e"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "FslxmTIbA"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "Z-eRd4Bab"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "WlWpA9R1m"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/94967127346eb8be06a4bbc6ed763388/master.m3u8?md5=w2DmsiQ0iB_AwNiyFXtbXw&expires=1792168422",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/94967127346eb8be06a4bbc6ed763388/master.m3u8?md5=w2DmsiQ0iB_AwNiyFXtbXw&expires=1792168422",
+            "videoSource": "https://ravok.buzz/cdn/hls/94967127346eb8be06a4bbc6ed763388/master.m3u8?md5=w2DmsiQ0iB_AwNiyFXtbXw&expires=1792168422",
+            "videoImage": "https://as-cdn27.top/p/EcbiZpJzh3ILB9HyncFL5tSkQcHlRp-hlfCzkeTwdRMt44fty-_tyFNxUP2mTDqlmmQuIPHuOetZkLh65DgtAw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "7e889fb76e0e07c11733550f2a6c7a5a",
+                "streamUrl": "https://ravok.buzz/cdn/hls/94967127346eb8be06a4bbc6ed763388/master.m3u8?md5=w2DmsiQ0iB_AwNiyFXtbXw&expires=1792168422",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/94967127346eb8be06a4bbc6ed763388/master.m3u8?md5=w2DmsiQ0iB_AwNiyFXtbXw&expires=1792168422",
+                "videoSource": "https://ravok.buzz/cdn/hls/94967127346eb8be06a4bbc6ed763388/master.m3u8?md5=w2DmsiQ0iB_AwNiyFXtbXw&expires=1792168422",
+                "link": "https://ravok.buzz/cdn/hls/94967127346eb8be06a4bbc6ed763388/master.m3u8?md5=w2DmsiQ0iB_AwNiyFXtbXw&expires=1792168422",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/EcbiZpJzh3ILB9HyncFL5tSkQcHlRp-hlfCzkeTwdRMt44fty-_tyFNxUP2mTDqlmmQuIPHuOetZkLh65DgtAw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "ecjS6465e"
+        }
+      },
+      "fetched_at": "2026-10-16T14:33:52Z"
+    },
+    {
+      "id": "episode/iron-man-1x12",
+      "episode_id": "episode/iron-man-1x12",
+      "title": "And the Sea Shall Give Up Its Dead",
+      "episode_name": "And the Sea Shall Give Up Its Dead",
+      "episode_number": 12,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/2842/12.webp",
+      "abyssid": "3348",
+      "abyssId": "3348",
+      "playxid": "1343777b8ead1cef5a79b78a1a48d805",
+      "playXID": "1343777b8ead1cef5a79b78a1a48d805",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "3348",
+        "playXID": "1343777b8ead1cef5a79b78a1a48d805",
+        "streamId": "3348",
+        "dubPlayerSrc": "/dub-player/t/3348/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=1343777b8ead1cef5a79b78a1a48d805&abyssId=3348"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "3348",
+        "playXID": "1343777b8ead1cef5a79b78a1a48d805",
+        "streamId": "3348",
+        "dubPlayerSrc": "/dub-player/t/3348/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=1343777b8ead1cef5a79b78a1a48d805&abyssId=3348"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/1343777b8ead1cef5a79b78a1a48d805",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/1343777b8ead1cef5a79b78a1a48d805"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "3348",
+        "abyssId": "3348",
+        "playXID": "1343777b8ead1cef5a79b78a1a48d805",
+        "title": "Iron Man",
+        "season": 1,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "97Gfhj7RZ"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "2H45Z-VZU"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "6FWCpDfpN"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "IKKMLPnyh"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "97Gfhj7RZ"
+        }
+      },
+      "fetched_at": "2026-10-16T14:33:52Z"
+    },
+    {
+      "id": "episode/iron-man-2x2",
+      "episode_id": "episode/iron-man-2x2",
+      "title": "The Beast Within",
+      "episode_name": "The Beast Within",
+      "episode_number": 2,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/images/2880/02.webp",
+      "abyssid": "3352",
+      "abyssId": "3352",
+      "playxid": "d6cf4da5ced8580c991e16fb54faa1b6",
+      "playXID": "d6cf4da5ced8580c991e16fb54faa1b6",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "3352",
+        "playXID": "d6cf4da5ced8580c991e16fb54faa1b6",
+        "streamId": "3352",
+        "dubPlayerSrc": "/dub-player/t/3352/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d6cf4da5ced8580c991e16fb54faa1b6&abyssId=3352"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "3352",
+        "playXID": "d6cf4da5ced8580c991e16fb54faa1b6",
+        "streamId": "3352",
+        "dubPlayerSrc": "/dub-player/t/3352/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d6cf4da5ced8580c991e16fb54faa1b6&abyssId=3352"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/d6cf4da5ced8580c991e16fb54faa1b6",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/d6cf4da5ced8580c991e16fb54faa1b6"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "3352",
+        "abyssId": "3352",
+        "playXID": "d6cf4da5ced8580c991e16fb54faa1b6",
+        "title": "Iron Man",
+        "season": 2,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "gO97epgg9"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "sz_1v82az"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "kFUYIUo2S"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "ssIVfv8Vy"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/469c479e92c95c198040d1032d4c8aed/master.m3u8?md5=rEKx7a7K0KPD2SeSol5rxw&expires=1792168424",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/469c479e92c95c198040d1032d4c8aed/master.m3u8?md5=rEKx7a7K0KPD2SeSol5rxw&expires=1792168424",
+            "videoSource": "https://ravok.buzz/cdn/hls/469c479e92c95c198040d1032d4c8aed/master.m3u8?md5=rEKx7a7K0KPD2SeSol5rxw&expires=1792168424",
+            "videoImage": "https://as-cdn29.top/p/kyRNPPvNgCkBuVcQdTxzU_LK5TgkI9pLOH0bLhFRGGAyAsD-5EPeP4QZxUEDUUXYTMGwrJKUpAJw5CpqHVpL3g.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "d6cf4da5ced8580c991e16fb54faa1b6",
+                "streamUrl": "https://ravok.buzz/cdn/hls/469c479e92c95c198040d1032d4c8aed/master.m3u8?md5=rEKx7a7K0KPD2SeSol5rxw&expires=1792168424",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/469c479e92c95c198040d1032d4c8aed/master.m3u8?md5=rEKx7a7K0KPD2SeSol5rxw&expires=1792168424",
+                "videoSource": "https://ravok.buzz/cdn/hls/469c479e92c95c198040d1032d4c8aed/master.m3u8?md5=rEKx7a7K0KPD2SeSol5rxw&expires=1792168424",
+                "link": "https://ravok.buzz/cdn/hls/469c479e92c95c198040d1032d4c8aed/master.m3u8?md5=rEKx7a7K0KPD2SeSol5rxw&expires=1792168424",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/kyRNPPvNgCkBuVcQdTxzU_LK5TgkI9pLOH0bLhFRGGAyAsD-5EPeP4QZxUEDUUXYTMGwrJKUpAJw5CpqHVpL3g.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "gO97epgg9"
+        }
+      },
+      "fetched_at": "2026-10-16T14:33:54Z"
+    },
+    {
+      "id": "episode/iron-man-2x3",
+      "episode_id": "episode/iron-man-2x3",
+      "title": "The Beast Within",
+      "episode_name": "The Beast Within",
+      "episode_number": 3,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/images/2880/03.webp",
+      "abyssid": "3353",
+      "abyssId": "3353",
+      "playxid": "b035d6563a2adac9f822940c145263ce",
+      "playXID": "b035d6563a2adac9f822940c145263ce",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "3353",
+        "playXID": "b035d6563a2adac9f822940c145263ce",
+        "streamId": "3353",
+        "dubPlayerSrc": "/dub-player/t/3353/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b035d6563a2adac9f822940c145263ce&abyssId=3353"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "3353",
+        "playXID": "b035d6563a2adac9f822940c145263ce",
+        "streamId": "3353",
+        "dubPlayerSrc": "/dub-player/t/3353/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b035d6563a2adac9f822940c145263ce&abyssId=3353"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/b035d6563a2adac9f822940c145263ce",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/b035d6563a2adac9f822940c145263ce"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "3353",
+        "abyssId": "3353",
+        "playXID": "b035d6563a2adac9f822940c145263ce",
+        "title": "Iron Man",
+        "season": 2,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "MmPeySdeFi"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "8SqUF6tC5"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "zgULYR4BB"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "xYkicIbEV"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/bbc3317279b4f1e4622a4728a65ab1d0/master.m3u8?md5=4KggWQZqNLpEX-b8gNFxbQ&expires=1792168424",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/bbc3317279b4f1e4622a4728a65ab1d0/master.m3u8?md5=4KggWQZqNLpEX-b8gNFxbQ&expires=1792168424",
+            "videoSource": "https://ravok.buzz/cdn/hls/bbc3317279b4f1e4622a4728a65ab1d0/master.m3u8?md5=4KggWQZqNLpEX-b8gNFxbQ&expires=1792168424",
+            "videoImage": "https://as-cdn29.top/p/Zc58GX0JNXEBmP0FboPsVKq8pf4HDmMtOCRmWIChTVHqFzJUHLwQYrEO6wD_kvrPjlQvj8Tj8kOnOYMckx3HDg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "b035d6563a2adac9f822940c145263ce",
+                "streamUrl": "https://ravok.buzz/cdn/hls/bbc3317279b4f1e4622a4728a65ab1d0/master.m3u8?md5=4KggWQZqNLpEX-b8gNFxbQ&expires=1792168424",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/bbc3317279b4f1e4622a4728a65ab1d0/master.m3u8?md5=4KggWQZqNLpEX-b8gNFxbQ&expires=1792168424",
+                "videoSource": "https://ravok.buzz/cdn/hls/bbc3317279b4f1e4622a4728a65ab1d0/master.m3u8?md5=4KggWQZqNLpEX-b8gNFxbQ&expires=1792168424",
+                "link": "https://ravok.buzz/cdn/hls/bbc3317279b4f1e4622a4728a65ab1d0/master.m3u8?md5=4KggWQZqNLpEX-b8gNFxbQ&expires=1792168424",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/Zc58GX0JNXEBmP0FboPsVKq8pf4HDmMtOCRmWIChTVHqFzJUHLwQYrEO6wD_kvrPjlQvj8Tj8kOnOYMckx3HDg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "MmPeySdeFi"
+        }
+      },
+      "fetched_at": "2026-10-16T14:33:54Z"
+    },
+    {
+      "id": "episode/iron-man-2x4",
+      "episode_id": "episode/iron-man-2x4",
+      "title": "The Beast Within",
+      "episode_name": "The Beast Within",
+      "episode_number": 4,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/images/2880/04.webp",
+      "abyssid": "3354",
+      "abyssId": "3354",
+      "playxid": "38087d90fe0083a5d17fef54ed2b3220",
+      "playXID": "38087d90fe0083a5d17fef54ed2b3220",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "3354",
+        "playXID": "38087d90fe0083a5d17fef54ed2b3220",
+        "streamId": "3354",
+        "dubPlayerSrc": "/dub-player/t/3354/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=38087d90fe0083a5d17fef54ed2b3220&abyssId=3354"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "3354",
+        "playXID": "38087d90fe0083a5d17fef54ed2b3220",
+        "streamId": "3354",
+        "dubPlayerSrc": "/dub-player/t/3354/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=38087d90fe0083a5d17fef54ed2b3220&abyssId=3354"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/38087d90fe0083a5d17fef54ed2b3220",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/38087d90fe0083a5d17fef54ed2b3220"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "3354",
+        "abyssId": "3354",
+        "playXID": "38087d90fe0083a5d17fef54ed2b3220",
+        "title": "Iron Man",
+        "season": 2,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "No_YT82Ln"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "lXK811FA5"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "7tQXxBazt"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "pF0sGTXnI"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/3224c086f26442f21527f115f9a2ccbe/master.m3u8?md5=ODbe-f4LP6ahSbQpLc8JcQ&expires=1792168425",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/3224c086f26442f21527f115f9a2ccbe/master.m3u8?md5=ODbe-f4LP6ahSbQpLc8JcQ&expires=1792168425",
+            "videoSource": "https://ravok.buzz/cdn/hls/3224c086f26442f21527f115f9a2ccbe/master.m3u8?md5=ODbe-f4LP6ahSbQpLc8JcQ&expires=1792168425",
+            "videoImage": "https://as-cdn30.top/p/kyRNPPvNgCkBuVcQdTxzU66Z7YKJ6FvcxtIecQ0BAIoeZDft7h8mLHI2RQ9-KtmAFGdda9dpQr1FzWMok9VHPQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "38087d90fe0083a5d17fef54ed2b3220",
+                "streamUrl": "https://ravok.buzz/cdn/hls/3224c086f26442f21527f115f9a2ccbe/master.m3u8?md5=ODbe-f4LP6ahSbQpLc8JcQ&expires=1792168425",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/3224c086f26442f21527f115f9a2ccbe/master.m3u8?md5=ODbe-f4LP6ahSbQpLc8JcQ&expires=1792168425",
+                "videoSource": "https://ravok.buzz/cdn/hls/3224c086f26442f21527f115f9a2ccbe/master.m3u8?md5=ODbe-f4LP6ahSbQpLc8JcQ&expires=1792168425",
+                "link": "https://ravok.buzz/cdn/hls/3224c086f26442f21527f115f9a2ccbe/master.m3u8?md5=ODbe-f4LP6ahSbQpLc8JcQ&expires=1792168425",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/kyRNPPvNgCkBuVcQdTxzU66Z7YKJ6FvcxtIecQ0BAIoeZDft7h8mLHI2RQ9-KtmAFGdda9dpQr1FzWMok9VHPQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "No_YT82Ln"
+        }
+      },
+      "fetched_at": "2026-10-16T14:33:55Z"
+    },
+    {
+      "id": "episode/iron-man-2x6",
+      "episode_id": "episode/iron-man-2x6",
+      "title": "The Beast Within",
+      "episode_name": "The Beast Within",
+      "episode_number": 6,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/images/2880/06.webp",
+      "abyssid": "3356",
+      "abyssId": "3356",
+      "playxid": "f2b5e92f61b6de923b063588ee6e7c48",
+      "playXID": "f2b5e92f61b6de923b063588ee6e7c48",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "3356",
+        "playXID": "f2b5e92f61b6de923b063588ee6e7c48",
+        "streamId": "3356",
+        "dubPlayerSrc": "/dub-player/t/3356/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f2b5e92f61b6de923b063588ee6e7c48&abyssId=3356"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "3356",
+        "playXID": "f2b5e92f61b6de923b063588ee6e7c48",
+        "streamId": "3356",
+        "dubPlayerSrc": "/dub-player/t/3356/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f2b5e92f61b6de923b063588ee6e7c48&abyssId=3356"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/f2b5e92f61b6de923b063588ee6e7c48",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/f2b5e92f61b6de923b063588ee6e7c48"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "3356",
+        "abyssId": "3356",
+        "playXID": "f2b5e92f61b6de923b063588ee6e7c48",
+        "title": "Iron Man",
+        "season": 2,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "Tvgdvlj_X"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "rRMFVpw2N"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "TWSBiW0td"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "fssfjH9bv"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "Tvgdvlj_X"
+        }
+      },
+      "fetched_at": "2026-10-16T14:33:55Z"
+    },
+    {
+      "id": "episode/iron-man-2x5",
+      "episode_id": "episode/iron-man-2x5",
+      "title": "The Beast Within",
+      "episode_name": "The Beast Within",
+      "episode_number": 5,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/images/2880/05.webp",
+      "abyssid": "3355",
+      "abyssId": "3355",
+      "playxid": "8cb94e7a9661ea20b1293c589216d396",
+      "playXID": "8cb94e7a9661ea20b1293c589216d396",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "3355",
+        "playXID": "8cb94e7a9661ea20b1293c589216d396",
+        "streamId": "3355",
+        "dubPlayerSrc": "/dub-player/t/3355/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8cb94e7a9661ea20b1293c589216d396&abyssId=3355"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "3355",
+        "playXID": "8cb94e7a9661ea20b1293c589216d396",
+        "streamId": "3355",
+        "dubPlayerSrc": "/dub-player/t/3355/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8cb94e7a9661ea20b1293c589216d396&abyssId=3355"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/8cb94e7a9661ea20b1293c589216d396",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/8cb94e7a9661ea20b1293c589216d396"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "3355",
+        "abyssId": "3355",
+        "playXID": "8cb94e7a9661ea20b1293c589216d396",
+        "title": "Iron Man",
+        "season": 2,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "VAoLFjYD3I"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "QQAz2SBvA"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "NFBcEYa1yP"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "ptzeTSpQf"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/dcbb34250d883ff914363b7e826c7dc7/master.m3u8?md5=Gn-4aR2WBi3_YYmqiEas9g&expires=1792168425",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/dcbb34250d883ff914363b7e826c7dc7/master.m3u8?md5=Gn-4aR2WBi3_YYmqiEas9g&expires=1792168425",
+            "videoSource": "https://ravok.buzz/cdn/hls/dcbb34250d883ff914363b7e826c7dc7/master.m3u8?md5=Gn-4aR2WBi3_YYmqiEas9g&expires=1792168425",
+            "videoImage": "https://as-cdn28.top/p/kyRNPPvNgCkBuVcQdTxzU1tMBpZtI309rXQ8FLWlvjVKfVKMwfh8m29yT5Wm2zZGwa-yHWIMLE7zks7gO5QdAw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "8cb94e7a9661ea20b1293c589216d396",
+                "streamUrl": "https://ravok.buzz/cdn/hls/dcbb34250d883ff914363b7e826c7dc7/master.m3u8?md5=Gn-4aR2WBi3_YYmqiEas9g&expires=1792168425",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/dcbb34250d883ff914363b7e826c7dc7/master.m3u8?md5=Gn-4aR2WBi3_YYmqiEas9g&expires=1792168425",
+                "videoSource": "https://ravok.buzz/cdn/hls/dcbb34250d883ff914363b7e826c7dc7/master.m3u8?md5=Gn-4aR2WBi3_YYmqiEas9g&expires=1792168425",
+                "link": "https://ravok.buzz/cdn/hls/dcbb34250d883ff914363b7e826c7dc7/master.m3u8?md5=Gn-4aR2WBi3_YYmqiEas9g&expires=1792168425",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/kyRNPPvNgCkBuVcQdTxzU1tMBpZtI309rXQ8FLWlvjVKfVKMwfh8m29yT5Wm2zZGwa-yHWIMLE7zks7gO5QdAw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "VAoLFjYD3I"
+        }
+      },
+      "fetched_at": "2026-10-16T14:33:55Z"
+    },
+    {
+      "id": "episode/iron-man-2x7",
+      "episode_id": "episode/iron-man-2x7",
+      "title": "The Beast Within",
+      "episode_name": "The Beast Within",
+      "episode_number": 7,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/images/2880/07.webp",
+      "abyssid": "3357",
+      "abyssId": "3357",
+      "playxid": "c96c08f8bb7960e11a1239352a479053",
+      "playXID": "c96c08f8bb7960e11a1239352a479053",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "3357",
+        "playXID": "c96c08f8bb7960e11a1239352a479053",
+        "streamId": "3357",
+        "dubPlayerSrc": "/dub-player/t/3357/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c96c08f8bb7960e11a1239352a479053&abyssId=3357"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "3357",
+        "playXID": "c96c08f8bb7960e11a1239352a479053",
+        "streamId": "3357",
+        "dubPlayerSrc": "/dub-player/t/3357/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c96c08f8bb7960e11a1239352a479053&abyssId=3357"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/c96c08f8bb7960e11a1239352a479053",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/c96c08f8bb7960e11a1239352a479053"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "3357",
+        "abyssId": "3357",
+        "playXID": "c96c08f8bb7960e11a1239352a479053",
+        "title": "Iron Man",
+        "season": 2,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "ypL2vGwpQ"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "kj5lXEjcr"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "VAypdP9jq"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "l_j_cYQ2B"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "ypL2vGwpQ"
+        }
+      },
+      "fetched_at": "2026-10-16T14:33:56Z"
+    },
+    {
+      "id": "episode/iron-man-2x8",
+      "episode_id": "episode/iron-man-2x8",
+      "title": "The Beast Within",
+      "episode_name": "The Beast Within",
+      "episode_number": 8,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/images/2880/08.webp",
+      "abyssid": "3358",
+      "abyssId": "3358",
+      "playxid": "a787f02ed34fd886eb6d49e60d9c9120",
+      "playXID": "a787f02ed34fd886eb6d49e60d9c9120",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "3358",
+        "playXID": "a787f02ed34fd886eb6d49e60d9c9120",
+        "streamId": "3358",
+        "dubPlayerSrc": "/dub-player/t/3358/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a787f02ed34fd886eb6d49e60d9c9120&abyssId=3358"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "3358",
+        "playXID": "a787f02ed34fd886eb6d49e60d9c9120",
+        "streamId": "3358",
+        "dubPlayerSrc": "/dub-player/t/3358/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a787f02ed34fd886eb6d49e60d9c9120&abyssId=3358"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/a787f02ed34fd886eb6d49e60d9c9120",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/a787f02ed34fd886eb6d49e60d9c9120"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "3358",
+        "abyssId": "3358",
+        "playXID": "a787f02ed34fd886eb6d49e60d9c9120",
+        "title": "Iron Man",
+        "season": 2,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "ES9ZPzK3x"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "cshrqJ1Ey"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "9xne1dMAs"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "HZpQDbOkT"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/7f9e8b9cab67ef151ef0d40ca524ffc6/master.m3u8?md5=YG587A5yzwJKtvJAiWk9RQ&expires=1792168426",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/7f9e8b9cab67ef151ef0d40ca524ffc6/master.m3u8?md5=YG587A5yzwJKtvJAiWk9RQ&expires=1792168426",
+            "videoSource": "https://ravok.buzz/cdn/hls/7f9e8b9cab67ef151ef0d40ca524ffc6/master.m3u8?md5=YG587A5yzwJKtvJAiWk9RQ&expires=1792168426",
+            "videoImage": "https://as-cdn27.top/p/kyRNPPvNgCkBuVcQdTxzU1XnTtft3MqaENtZRD584KYA8zjfOb9YM6hy2rIbRa8TP1bUKe55yP2k8YqfqnV_5w.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "a787f02ed34fd886eb6d49e60d9c9120",
+                "streamUrl": "https://ravok.buzz/cdn/hls/7f9e8b9cab67ef151ef0d40ca524ffc6/master.m3u8?md5=YG587A5yzwJKtvJAiWk9RQ&expires=1792168426",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/7f9e8b9cab67ef151ef0d40ca524ffc6/master.m3u8?md5=YG587A5yzwJKtvJAiWk9RQ&expires=1792168426",
+                "videoSource": "https://ravok.buzz/cdn/hls/7f9e8b9cab67ef151ef0d40ca524ffc6/master.m3u8?md5=YG587A5yzwJKtvJAiWk9RQ&expires=1792168426",
+                "link": "https://ravok.buzz/cdn/hls/7f9e8b9cab67ef151ef0d40ca524ffc6/master.m3u8?md5=YG587A5yzwJKtvJAiWk9RQ&expires=1792168426",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/kyRNPPvNgCkBuVcQdTxzU1XnTtft3MqaENtZRD584KYA8zjfOb9YM6hy2rIbRa8TP1bUKe55yP2k8YqfqnV_5w.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "ES9ZPzK3x"
+        }
+      },
+      "fetched_at": "2026-10-16T14:33:56Z"
+    },
+    {
+      "id": "episode/iron-man-2x11",
+      "episode_id": "episode/iron-man-2x11",
+      "title": "The Beast Within",
+      "episode_name": "The Beast Within",
+      "episode_number": 11,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/images/2880/11.webp",
+      "abyssid": "3361",
+      "abyssId": "3361",
+      "playxid": "2bf7e9e8f3f3bce1ac5212f22414aa57",
+      "playXID": "2bf7e9e8f3f3bce1ac5212f22414aa57",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "3361",
+        "playXID": "2bf7e9e8f3f3bce1ac5212f22414aa57",
+        "streamId": "3361",
+        "dubPlayerSrc": "/dub-player/t/3361/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2bf7e9e8f3f3bce1ac5212f22414aa57&abyssId=3361"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "3361",
+        "playXID": "2bf7e9e8f3f3bce1ac5212f22414aa57",
+        "streamId": "3361",
+        "dubPlayerSrc": "/dub-player/t/3361/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2bf7e9e8f3f3bce1ac5212f22414aa57&abyssId=3361"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/2bf7e9e8f3f3bce1ac5212f22414aa57",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/2bf7e9e8f3f3bce1ac5212f22414aa57"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "3361",
+        "abyssId": "3361",
+        "playXID": "2bf7e9e8f3f3bce1ac5212f22414aa57",
+        "title": "Iron Man",
+        "season": 2,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "QfWgABrKw"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "_RGZZAE3g"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "v08edjqpq"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "PFa1wR0QP"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/52b96987b1e9283631dd43cf27d434e5/master.m3u8?md5=F1IYHhC_y33VCfJGoZiumg&expires=1792168427",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/52b96987b1e9283631dd43cf27d434e5/master.m3u8?md5=F1IYHhC_y33VCfJGoZiumg&expires=1792168427",
+            "videoSource": "https://ravok.buzz/cdn/hls/52b96987b1e9283631dd43cf27d434e5/master.m3u8?md5=F1IYHhC_y33VCfJGoZiumg&expires=1792168427",
+            "videoImage": "https://as-cdn31.top/p/kyRNPPvNgCkBuVcQdTxzUwTjBY6-fxriYL-qQtugMGO4H_IE0PTec-Zz8GMFDFCcYbM5e0mbbov53Se1PVDgPA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "2bf7e9e8f3f3bce1ac5212f22414aa57",
+                "streamUrl": "https://ravok.buzz/cdn/hls/52b96987b1e9283631dd43cf27d434e5/master.m3u8?md5=F1IYHhC_y33VCfJGoZiumg&expires=1792168427",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/52b96987b1e9283631dd43cf27d434e5/master.m3u8?md5=F1IYHhC_y33VCfJGoZiumg&expires=1792168427",
+                "videoSource": "https://ravok.buzz/cdn/hls/52b96987b1e9283631dd43cf27d434e5/master.m3u8?md5=F1IYHhC_y33VCfJGoZiumg&expires=1792168427",
+                "link": "https://ravok.buzz/cdn/hls/52b96987b1e9283631dd43cf27d434e5/master.m3u8?md5=F1IYHhC_y33VCfJGoZiumg&expires=1792168427",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/kyRNPPvNgCkBuVcQdTxzUwTjBY6-fxriYL-qQtugMGO4H_IE0PTec-Zz8GMFDFCcYbM5e0mbbov53Se1PVDgPA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "QfWgABrKw"
+        }
+      },
+      "fetched_at": "2026-10-16T14:33:57Z"
+    },
+    {
+      "id": "episode/iron-man-2x9",
+      "episode_id": "episode/iron-man-2x9",
+      "title": "The Beast Within",
+      "episode_name": "The Beast Within",
+      "episode_number": 9,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/images/2880/09.webp",
+      "abyssid": "3359",
+      "abyssId": "3359",
+      "playxid": "27d8d40b22f812a1ba6c26f8ef7df480",
+      "playXID": "27d8d40b22f812a1ba6c26f8ef7df480",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "3359",
+        "playXID": "27d8d40b22f812a1ba6c26f8ef7df480",
+        "streamId": "3359",
+        "dubPlayerSrc": "/dub-player/t/3359/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=27d8d40b22f812a1ba6c26f8ef7df480&abyssId=3359"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "3359",
+        "playXID": "27d8d40b22f812a1ba6c26f8ef7df480",
+        "streamId": "3359",
+        "dubPlayerSrc": "/dub-player/t/3359/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=27d8d40b22f812a1ba6c26f8ef7df480&abyssId=3359"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/27d8d40b22f812a1ba6c26f8ef7df480",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/27d8d40b22f812a1ba6c26f8ef7df480"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "3359",
+        "abyssId": "3359",
+        "playXID": "27d8d40b22f812a1ba6c26f8ef7df480",
+        "title": "Iron Man",
+        "season": 2,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "jMIGGi-CD"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "_yPHZlVYr"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "dI8GsmeGb"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "LmXSP3IBJ"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "jMIGGi-CD"
+        }
+      },
+      "fetched_at": "2026-10-16T14:33:57Z"
+    },
+    {
+      "id": "episode/iron-man-2x10",
+      "episode_id": "episode/iron-man-2x10",
+      "title": "The Beast Within",
+      "episode_name": "The Beast Within",
+      "episode_number": 10,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/images/2880/10.webp",
+      "abyssid": "3360",
+      "abyssId": "3360",
+      "playxid": "7716d0fc31636914783865d34f6cdfd5",
+      "playXID": "7716d0fc31636914783865d34f6cdfd5",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "3360",
+        "playXID": "7716d0fc31636914783865d34f6cdfd5",
+        "streamId": "3360",
+        "dubPlayerSrc": "/dub-player/t/3360/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=7716d0fc31636914783865d34f6cdfd5&abyssId=3360"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "3360",
+        "playXID": "7716d0fc31636914783865d34f6cdfd5",
+        "streamId": "3360",
+        "dubPlayerSrc": "/dub-player/t/3360/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=7716d0fc31636914783865d34f6cdfd5&abyssId=3360"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/7716d0fc31636914783865d34f6cdfd5",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/7716d0fc31636914783865d34f6cdfd5"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "3360",
+        "abyssId": "3360",
+        "playXID": "7716d0fc31636914783865d34f6cdfd5",
+        "title": "Iron Man",
+        "season": 2,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "Cn09J_pfc"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "1XMLTS6lK"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "MLa8czQXW"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "ZebSFnw24"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "Cn09J_pfc"
+        }
+      },
+      "fetched_at": "2026-10-16T14:33:57Z"
+    },
+    {
+      "id": "episode/iron-man-2x12",
+      "episode_id": "episode/iron-man-2x12",
+      "title": "The Beast Within",
+      "episode_name": "The Beast Within",
+      "episode_number": 12,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/images/2880/12.webp",
+      "abyssid": "3362",
+      "abyssId": "3362",
+      "playxid": "8526e0962a844e4a2f158d831d5fddf7",
+      "playXID": "8526e0962a844e4a2f158d831d5fddf7",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "3362",
+        "playXID": "8526e0962a844e4a2f158d831d5fddf7",
+        "streamId": "3362",
+        "dubPlayerSrc": "/dub-player/t/3362/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8526e0962a844e4a2f158d831d5fddf7&abyssId=3362"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "3362",
+        "playXID": "8526e0962a844e4a2f158d831d5fddf7",
+        "streamId": "3362",
+        "dubPlayerSrc": "/dub-player/t/3362/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8526e0962a844e4a2f158d831d5fddf7&abyssId=3362"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/8526e0962a844e4a2f158d831d5fddf7",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/8526e0962a844e4a2f158d831d5fddf7"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "3362",
+        "abyssId": "3362",
+        "playXID": "8526e0962a844e4a2f158d831d5fddf7",
+        "title": "Iron Man",
+        "season": 2,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "1KMESOJFp"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "K4i293CtD"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "oEVssBkor"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "y27ZnAsnJ"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "1KMESOJFp"
+        }
+      },
+      "fetched_at": "2026-10-16T14:33:58Z"
+    },
+    {
+      "id": "episode/iron-man-2x13",
+      "episode_id": "episode/iron-man-2x13",
+      "title": "The Beast Within",
+      "episode_name": "The Beast Within",
+      "episode_number": 13,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/images/2880/13.webp",
+      "abyssid": "3363",
+      "abyssId": "3363",
+      "playxid": "9a86d531e19ec6f5937ad1373bb118bd",
+      "playXID": "9a86d531e19ec6f5937ad1373bb118bd",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "3363",
+        "playXID": "9a86d531e19ec6f5937ad1373bb118bd",
+        "streamId": "3363",
+        "dubPlayerSrc": "/dub-player/t/3363/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9a86d531e19ec6f5937ad1373bb118bd&abyssId=3363"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "3363",
+        "playXID": "9a86d531e19ec6f5937ad1373bb118bd",
+        "streamId": "3363",
+        "dubPlayerSrc": "/dub-player/t/3363/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9a86d531e19ec6f5937ad1373bb118bd&abyssId=3363"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/9a86d531e19ec6f5937ad1373bb118bd",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/9a86d531e19ec6f5937ad1373bb118bd"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "3363",
+        "abyssId": "3363",
+        "playXID": "9a86d531e19ec6f5937ad1373bb118bd",
+        "title": "Iron Man",
+        "season": 2,
+        "episode": 13,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "kSpkE4gRO"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "z4860boHT"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "g68eR1EFV"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "s9KELZ0Y0"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/e603e4bc9f434a45bafdbc937d87487a/master.m3u8?md5=AxVm7HnPfhcrcREunqBkRQ&expires=1792168428",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/e603e4bc9f434a45bafdbc937d87487a/master.m3u8?md5=AxVm7HnPfhcrcREunqBkRQ&expires=1792168428",
+            "videoSource": "https://ravok.buzz/cdn/hls/e603e4bc9f434a45bafdbc937d87487a/master.m3u8?md5=AxVm7HnPfhcrcREunqBkRQ&expires=1792168428",
+            "videoImage": "https://as-cdn29.top/p/TU16rvlAg9eaNOlQe2lvK7VHd8l-Eluzpy4Yi0DkBMNJRzHzrNlloh3A6019Rb2ZEQhXyfyzVr2ToO2nwCFHYw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "9a86d531e19ec6f5937ad1373bb118bd",
+                "streamUrl": "https://ravok.buzz/cdn/hls/e603e4bc9f434a45bafdbc937d87487a/master.m3u8?md5=AxVm7HnPfhcrcREunqBkRQ&expires=1792168428",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/e603e4bc9f434a45bafdbc937d87487a/master.m3u8?md5=AxVm7HnPfhcrcREunqBkRQ&expires=1792168428",
+                "videoSource": "https://ravok.buzz/cdn/hls/e603e4bc9f434a45bafdbc937d87487a/master.m3u8?md5=AxVm7HnPfhcrcREunqBkRQ&expires=1792168428",
+                "link": "https://ravok.buzz/cdn/hls/e603e4bc9f434a45bafdbc937d87487a/master.m3u8?md5=AxVm7HnPfhcrcREunqBkRQ&expires=1792168428",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/TU16rvlAg9eaNOlQe2lvK7VHd8l-Eluzpy4Yi0DkBMNJRzHzrNlloh3A6019Rb2ZEQhXyfyzVr2ToO2nwCFHYw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "kSpkE4gRO"
+        }
+      },
+      "fetched_at": "2026-10-16T14:33:58Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T14:33:46Z",
+  "updated_at": "2026-10-16T14:33:58Z"
+}

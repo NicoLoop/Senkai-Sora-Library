@@ -1,0 +1,371 @@
+{
+  "id": "series/tomb-raider-king",
+  "series_name": "Tomb Raider King",
+  "title": "Tomb Raider King",
+  "banner": "https://image.tmdb.org/t/p/w1280/irM3WhxOorkklhx5To9cfG2ktM6.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/xDW6cor12UD0b2IqboQWnrIn0UO.jpg",
+  "genra": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Time Travel"
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Time Travel"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Korean",
+    "Tamil",
+    "Telugu"
+  ],
+  "synopsis": "Chaos ensues overnight when mysterious tombs suddenly surface, filled with divine relics granting overwhelming power, triggering a global power struggle to claim them for dominion. Among the havoc, a raider, Jooheon Suh, is betrayed and left for dead until a second chance brings him back years before the relics. Fueled by fury and future knowledge, he sets out to raid each tomb before they arise.",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 4,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 4,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Tomb Raider King 1x1",
+          "id": "episode/tomb-raider-king-1x1",
+          "image": "https://img.watchanimeworld.one/img/thumb_2502_s1e1.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "Tomb Raider King 1x2",
+          "id": "episode/tomb-raider-king-1x2",
+          "image": "https://img.watchanimeworld.one/img/thumb_2502_s1e2.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "Tomb Raider King 1x3",
+          "id": "episode/tomb-raider-king-1x3",
+          "image": "https://img.watchanimeworld.one/img/thumb_2502_s1e3.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "Tomb Raider King 1x4",
+          "id": "episode/tomb-raider-king-1x4",
+          "image": "https://img.watchanimeworld.one/img/thumb_2502_s1e4.webp",
+          "season": 1
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/tomb-raider-king-1x1",
+      "episode_id": "episode/tomb-raider-king-1x1",
+      "title": "Tomb Raider King 1x1",
+      "episode_name": "Tomb Raider King 1x1",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2502_s1e1.webp",
+      "abyssid": "18748",
+      "abyssId": "18748",
+      "playxid": "90da3608667e990227e76560921e5fa7",
+      "playXID": "90da3608667e990227e76560921e5fa7",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18748",
+        "playXID": "90da3608667e990227e76560921e5fa7",
+        "streamId": "18748",
+        "dubPlayerSrc": "/dub-player/t/18748/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=90da3608667e990227e76560921e5fa7&abyssId=18748"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18748",
+        "playXID": "90da3608667e990227e76560921e5fa7",
+        "streamId": "18748",
+        "dubPlayerSrc": "/dub-player/t/18748/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=90da3608667e990227e76560921e5fa7&abyssId=18748"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/e83282774187cf34b827b3c9570864c2",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/e83282774187cf34b827b3c9570864c2"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18748",
+        "abyssId": "18748",
+        "playXID": "90da3608667e990227e76560921e5fa7",
+        "title": "Tomb Raider King",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "I-wbykyw9"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "BAF-mFIqPk"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "9VK08NV2D"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "6XNuOL0DO"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/cdfb2fdef506cf598b16b162f5decc41/master.m3u8?md5=HLtzn_aFJ7yoMK6TadDgfQ&expires=1792165851",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/cdfb2fdef506cf598b16b162f5decc41/master.m3u8?md5=HLtzn_aFJ7yoMK6TadDgfQ&expires=1792165851",
+            "videoSource": "https://ravok.buzz/cdn/hls/cdfb2fdef506cf598b16b162f5decc41/master.m3u8?md5=HLtzn_aFJ7yoMK6TadDgfQ&expires=1792165851",
+            "videoImage": "https://as-cdn27.top/p/uePWRXxt458X6yAMZU6QaGUOqeIUPSMhqbBANoYucXT2Vl-xAVm8_9EFUqX8yCAKL0rGdhV4IFA1FhKjh4JrTQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "90da3608667e990227e76560921e5fa7",
+                "streamUrl": "https://ravok.buzz/cdn/hls/cdfb2fdef506cf598b16b162f5decc41/master.m3u8?md5=HLtzn_aFJ7yoMK6TadDgfQ&expires=1792165851",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/cdfb2fdef506cf598b16b162f5decc41/master.m3u8?md5=HLtzn_aFJ7yoMK6TadDgfQ&expires=1792165851",
+                "videoSource": "https://ravok.buzz/cdn/hls/cdfb2fdef506cf598b16b162f5decc41/master.m3u8?md5=HLtzn_aFJ7yoMK6TadDgfQ&expires=1792165851",
+                "link": "https://ravok.buzz/cdn/hls/cdfb2fdef506cf598b16b162f5decc41/master.m3u8?md5=HLtzn_aFJ7yoMK6TadDgfQ&expires=1792165851",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/uePWRXxt458X6yAMZU6QaGUOqeIUPSMhqbBANoYucXT2Vl-xAVm8_9EFUqX8yCAKL0rGdhV4IFA1FhKjh4JrTQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "I-wbykyw9"
+        }
+      },
+      "fetched_at": "2026-10-16T13:51:01Z"
+    },
+    {
+      "id": "episode/tomb-raider-king-1x2",
+      "episode_id": "episode/tomb-raider-king-1x2",
+      "title": "Tomb Raider King 1x1",
+      "episode_name": "Tomb Raider King 1x1",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2502_s1e2.webp",
+      "abyssid": "18773",
+      "abyssId": "18773",
+      "playxid": "ec5df87779e995a54bde440633afb137",
+      "playXID": "ec5df87779e995a54bde440633afb137",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18773",
+        "playXID": "ec5df87779e995a54bde440633afb137",
+        "streamId": "18773",
+        "dubPlayerSrc": "/dub-player/t/18773/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ec5df87779e995a54bde440633afb137&abyssId=18773"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18773",
+        "playXID": "ec5df87779e995a54bde440633afb137",
+        "streamId": "18773",
+        "dubPlayerSrc": "/dub-player/t/18773/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ec5df87779e995a54bde440633afb137&abyssId=18773"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/74ab171bf4452a0f3ef007a38df8be7e",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/74ab171bf4452a0f3ef007a38df8be7e"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18773",
+        "abyssId": "18773",
+        "playXID": "ec5df87779e995a54bde440633afb137",
+        "title": "Tomb Raider King",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "MYw_zI2Qc"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "Khtnv0zcl"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "WBhxyMPmd"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "yisTD7kht"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/e957180e506495f0a44fe07314f03177/master.m3u8?md5=2EGQ9g2hNLKwTY4AsaQggw&expires=1792165852",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/e957180e506495f0a44fe07314f03177/master.m3u8?md5=2EGQ9g2hNLKwTY4AsaQggw&expires=1792165852",
+            "videoSource": "https://ravok.buzz/cdn/hls/e957180e506495f0a44fe07314f03177/master.m3u8?md5=2EGQ9g2hNLKwTY4AsaQggw&expires=1792165852",
+            "videoImage": "https://as-cdn28.top/p/hU2cr1X7_UlSVs0bOHmjAx50UwR2DAxDZ5r7mhr3R2WaBoqOGUXmpiJKoInaxAwbbcmbH44JPGfvQUH182rxQw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "ec5df87779e995a54bde440633afb137",
+                "streamUrl": "https://ravok.buzz/cdn/hls/e957180e506495f0a44fe07314f03177/master.m3u8?md5=2EGQ9g2hNLKwTY4AsaQggw&expires=1792165852",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/e957180e506495f0a44fe07314f03177/master.m3u8?md5=2EGQ9g2hNLKwTY4AsaQggw&expires=1792165852",
+                "videoSource": "https://ravok.buzz/cdn/hls/e957180e506495f0a44fe07314f03177/master.m3u8?md5=2EGQ9g2hNLKwTY4AsaQggw&expires=1792165852",
+                "link": "https://ravok.buzz/cdn/hls/e957180e506495f0a44fe07314f03177/master.m3u8?md5=2EGQ9g2hNLKwTY4AsaQggw&expires=1792165852",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/hU2cr1X7_UlSVs0bOHmjAx50UwR2DAxDZ5r7mhr3R2WaBoqOGUXmpiJKoInaxAwbbcmbH44JPGfvQUH182rxQw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "MYw_zI2Qc"
+        }
+      },
+      "fetched_at": "2026-10-16T13:51:02Z"
+    },
+    {
+      "id": "episode/tomb-raider-king-1x3",
+      "episode_id": "episode/tomb-raider-king-1x3",
+      "title": "Tomb Raider King 1x1",
+      "episode_name": "Tomb Raider King 1x1",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2502_s1e3.webp",
+      "abyssid": null,
+      "abyssId": null,
+      "playxid": "f49a2479665b3bd13ec08d5d1a8bbe4c",
+      "playXID": "f49a2479665b3bd13ec08d5d1a8bbe4c",
+      "stream_info": {
+        "hasDubPlayer": false,
+        "abyssId": null,
+        "playXID": "f49a2479665b3bd13ec08d5d1a8bbe4c",
+        "streamId": null,
+        "dubPlayerSrc": null,
+        "message": "No episode sources found",
+        "serversEndpoint": "/stream/servers/?playXID=f49a2479665b3bd13ec08d5d1a8bbe4c"
+      },
+      "streamInfo": {
+        "hasDubPlayer": false,
+        "abyssId": null,
+        "playXID": "f49a2479665b3bd13ec08d5d1a8bbe4c",
+        "streamId": null,
+        "dubPlayerSrc": null,
+        "message": "No episode sources found",
+        "serversEndpoint": "/stream/servers/?playXID=f49a2479665b3bd13ec08d5d1a8bbe4c"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/3408b8d8a758db7c66b435a2c13352e4",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/3408b8d8a758db7c66b435a2c13352e4"
+        }
+      ],
+      "stream_servers": null,
+      "fetched_at": "2026-10-16T13:51:08Z"
+    },
+    {
+      "id": "episode/tomb-raider-king-1x4",
+      "episode_id": "episode/tomb-raider-king-1x4",
+      "title": "Tomb Raider King 1x1",
+      "episode_name": "Tomb Raider King 1x1",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2502_s1e4.webp",
+      "abyssid": null,
+      "abyssId": null,
+      "playxid": "157c6fd13f6ad2911c5ec3a97dfd4438",
+      "playXID": "157c6fd13f6ad2911c5ec3a97dfd4438",
+      "stream_info": {
+        "hasDubPlayer": false,
+        "abyssId": null,
+        "playXID": "157c6fd13f6ad2911c5ec3a97dfd4438",
+        "streamId": null,
+        "dubPlayerSrc": null,
+        "message": "No episode sources found",
+        "serversEndpoint": "/stream/servers/?playXID=157c6fd13f6ad2911c5ec3a97dfd4438"
+      },
+      "streamInfo": {
+        "hasDubPlayer": false,
+        "abyssId": null,
+        "playXID": "157c6fd13f6ad2911c5ec3a97dfd4438",
+        "streamId": null,
+        "dubPlayerSrc": null,
+        "message": "No episode sources found",
+        "serversEndpoint": "/stream/servers/?playXID=157c6fd13f6ad2911c5ec3a97dfd4438"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/a1363880b0e51db7dc8c5d41276b4ecd",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/a1363880b0e51db7dc8c5d41276b4ecd"
+        }
+      ],
+      "stream_servers": null,
+      "fetched_at": "2026-10-16T13:51:08Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T13:50:59Z",
+  "updated_at": "2026-10-16T13:51:08Z"
+}

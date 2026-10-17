@@ -1,0 +1,2953 @@
+{
+  "id": "series/darling-in-the-franxx",
+  "series_name": "Darling in the FranXX",
+  "title": "Darling in the FranXX",
+  "banner": "https://image.tmdb.org/t/p/w1280/tKh3pc5MEjCIGV7hSJX76qi8aGA.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/oO5tir7lV4slZHTyhW8lTFrgyif.jpg",
+  "genra": [
+    "Action",
+    "Drama",
+    "Mecha",
+    "Romance",
+    "Sci-Fi"
+  ],
+  "genres": [
+    "Action",
+    "Drama",
+    "Mecha",
+    "Romance",
+    "Sci-Fi"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Japanese",
+    "Tamil",
+    "Telugu"
+  ],
+  "synopsis": "In the distant future, humanity has been driven to near-extinction by giant beasts known as Klaxosaurs, forcing the surviving humans to take refuge in massive fortress cities called Plantations. Children raised here are trained to pilot giant mechas known as FranXX—the only weapons known to be effective against the Klaxosaurs—in boy-girl pairs. Bred for the sole purpose of piloting these machines, these children know nothing of the outside world and are only able to prove their existence by defending their race. Hiro, an aspiring FranXX pilot, has lost his motivation and self-confidence after failing an aptitude test. Skipping out on his class' graduation ceremony, Hiro retreats to a forest lake, where he encounters a mysterious girl with two horns growing out of her head. She introduces herself by her codename Zero Two, which is known to belong to an infamous FranXX pilot known as the \"Partner Killer.\" Before Hiro can digest the encounter, the Plantation is rocked by a sudden Klaxosaur attack. Zero Two engages the creature in her FranXX, but it is heavily damaged in the skirmish and crashes near Hiro. Finding her partner dead, Zero Two invites Hiro to pilot the mecha with her, and the duo easily defeats the Klaxosaur in the ensuing fight. With a new partner by his side, Hiro has been given a chance at redemption for his past failures, but at what cost?",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 24,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 24,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Alone and Lonesome",
+          "id": "episode/darling-in-the-franxx-1x1",
+          "image": "https://img.watchanimeworld.one/images/14844/01.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "What It Means to Connect",
+          "id": "episode/darling-in-the-franxx-1x2",
+          "image": "https://img.watchanimeworld.one/images/14844/02.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "Fighting Puppet",
+          "id": "episode/darling-in-the-franxx-1x3",
+          "image": "https://img.watchanimeworld.one/images/14844/03.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "Flap Flap",
+          "id": "episode/darling-in-the-franxx-1x4",
+          "image": "https://img.watchanimeworld.one/images/14844/04.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "Your Thorn, My Badge",
+          "id": "episode/darling-in-the-franxx-1x5",
+          "image": "https://img.watchanimeworld.one/images/14844/05.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "DARLING in the FRANXX",
+          "id": "episode/darling-in-the-franxx-1x6",
+          "image": "https://img.watchanimeworld.one/images/14844/06.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "Shooting Star Moratorium",
+          "id": "episode/darling-in-the-franxx-1x7",
+          "image": "https://img.watchanimeworld.one/images/14844/07.webp",
+          "season": 1
+        },
+        {
+          "episode": 8,
+          "title": "Boys × Girls",
+          "id": "episode/darling-in-the-franxx-1x8",
+          "image": "https://img.watchanimeworld.one/images/14844/08.webp",
+          "season": 1
+        },
+        {
+          "episode": 9,
+          "title": "Triangle Bomb",
+          "id": "episode/darling-in-the-franxx-1x9",
+          "image": "https://img.watchanimeworld.one/images/14844/09.webp",
+          "season": 1
+        },
+        {
+          "episode": 10,
+          "title": "The City of Eternity",
+          "id": "episode/darling-in-the-franxx-1x10",
+          "image": "https://img.watchanimeworld.one/images/14844/10.webp",
+          "season": 1
+        },
+        {
+          "episode": 11,
+          "title": "Partner Shuffle",
+          "id": "episode/darling-in-the-franxx-1x11",
+          "image": "https://img.watchanimeworld.one/images/14844/11.webp",
+          "season": 1
+        },
+        {
+          "episode": 12,
+          "title": "The Garden Where It All Began",
+          "id": "episode/darling-in-the-franxx-1x12",
+          "image": "https://img.watchanimeworld.one/images/14844/12.webp",
+          "season": 1
+        },
+        {
+          "episode": 13,
+          "title": "The Beast and the Prince",
+          "id": "episode/darling-in-the-franxx-1x13",
+          "image": "https://img.watchanimeworld.one/images/14844/13.webp",
+          "season": 1
+        },
+        {
+          "episode": 14,
+          "title": "Punishment and Confession",
+          "id": "episode/darling-in-the-franxx-1x14",
+          "image": "https://img.watchanimeworld.one/images/14844/14.webp",
+          "season": 1
+        },
+        {
+          "episode": 15,
+          "title": "Jian",
+          "id": "episode/darling-in-the-franxx-1x15",
+          "image": "https://img.watchanimeworld.one/images/14844/15.webp",
+          "season": 1
+        },
+        {
+          "episode": 16,
+          "title": "Days of Our Lives",
+          "id": "episode/darling-in-the-franxx-1x16",
+          "image": "https://img.watchanimeworld.one/images/14844/16.webp",
+          "season": 1
+        },
+        {
+          "episode": 17,
+          "title": "Eden",
+          "id": "episode/darling-in-the-franxx-1x17",
+          "image": "https://img.watchanimeworld.one/images/14844/17.webp",
+          "season": 1
+        },
+        {
+          "episode": 18,
+          "title": "When the Sakura Blooms",
+          "id": "episode/darling-in-the-franxx-1x18",
+          "image": "https://img.watchanimeworld.one/images/14844/18.webp",
+          "season": 1
+        },
+        {
+          "episode": 19,
+          "title": "Inhumanity",
+          "id": "episode/darling-in-the-franxx-1x19",
+          "image": "https://img.watchanimeworld.one/images/14844/19.webp",
+          "season": 1
+        },
+        {
+          "episode": 20,
+          "title": "A New World",
+          "id": "episode/darling-in-the-franxx-1x20",
+          "image": "https://img.watchanimeworld.one/images/14844/20.webp",
+          "season": 1
+        },
+        {
+          "episode": 21,
+          "title": "For You, My Love",
+          "id": "episode/darling-in-the-franxx-1x21",
+          "image": "https://img.watchanimeworld.one/images/14844/21.webp",
+          "season": 1
+        },
+        {
+          "episode": 22,
+          "title": "Stargazers",
+          "id": "episode/darling-in-the-franxx-1x22",
+          "image": "https://img.watchanimeworld.one/images/14844/22.webp",
+          "season": 1
+        },
+        {
+          "episode": 23,
+          "title": "DARLING in the FRANXX",
+          "id": "episode/darling-in-the-franxx-1x23",
+          "image": "https://img.watchanimeworld.one/images/14844/23.webp",
+          "season": 1
+        },
+        {
+          "episode": 24,
+          "title": "Never Let Me Go",
+          "id": "episode/darling-in-the-franxx-1x24",
+          "image": "https://img.watchanimeworld.one/images/14844/24.webp",
+          "season": 1
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/darling-in-the-franxx-1x1",
+      "episode_id": "episode/darling-in-the-franxx-1x1",
+      "title": "Alone and Lonesome",
+      "episode_name": "Alone and Lonesome",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/14844/01.webp",
+      "abyssid": "10625",
+      "abyssId": "10625",
+      "playxid": "77f959f119f4fb2321e9ce801e2f5163",
+      "playXID": "77f959f119f4fb2321e9ce801e2f5163",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "10625",
+        "playXID": "77f959f119f4fb2321e9ce801e2f5163",
+        "streamId": "10625",
+        "dubPlayerSrc": "/dub-player/t/10625/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=77f959f119f4fb2321e9ce801e2f5163&abyssId=10625"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "10625",
+        "playXID": "77f959f119f4fb2321e9ce801e2f5163",
+        "streamId": "10625",
+        "dubPlayerSrc": "/dub-player/t/10625/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=77f959f119f4fb2321e9ce801e2f5163&abyssId=10625"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/77f959f119f4fb2321e9ce801e2f5163",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/77f959f119f4fb2321e9ce801e2f5163"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "10625",
+        "abyssId": "10625",
+        "playXID": "77f959f119f4fb2321e9ce801e2f5163",
+        "title": "Darling in the FranXX",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "-7JnfM-Bj"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "0ccouA5cs"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "5s606fK_w"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "CRAILBw5W"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "jzqx7oHF-"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/7b9860b0bb06820f6f01e5a93a6defe0/master.m3u8?md5=K5rx-VaDkoSjuZ7g0O01pg&expires=1792167231",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/7b9860b0bb06820f6f01e5a93a6defe0/master.m3u8?md5=K5rx-VaDkoSjuZ7g0O01pg&expires=1792167231",
+            "videoSource": "https://ravok.buzz/cdn/hls/7b9860b0bb06820f6f01e5a93a6defe0/master.m3u8?md5=K5rx-VaDkoSjuZ7g0O01pg&expires=1792167231",
+            "videoImage": "https://as-cdn29.top/p/rfB58U0zLwWADznfjYfo3mxAJwLxaY9CjlyEhB_jR0lT_EQCRZ5bAorS_6a8yGx3xufFgult1gUeNIHzSqvWGA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "77f959f119f4fb2321e9ce801e2f5163",
+                "streamUrl": "https://ravok.buzz/cdn/hls/7b9860b0bb06820f6f01e5a93a6defe0/master.m3u8?md5=K5rx-VaDkoSjuZ7g0O01pg&expires=1792167231",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/7b9860b0bb06820f6f01e5a93a6defe0/master.m3u8?md5=K5rx-VaDkoSjuZ7g0O01pg&expires=1792167231",
+                "videoSource": "https://ravok.buzz/cdn/hls/7b9860b0bb06820f6f01e5a93a6defe0/master.m3u8?md5=K5rx-VaDkoSjuZ7g0O01pg&expires=1792167231",
+                "link": "https://ravok.buzz/cdn/hls/7b9860b0bb06820f6f01e5a93a6defe0/master.m3u8?md5=K5rx-VaDkoSjuZ7g0O01pg&expires=1792167231",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/rfB58U0zLwWADznfjYfo3mxAJwLxaY9CjlyEhB_jR0lT_EQCRZ5bAorS_6a8yGx3xufFgult1gUeNIHzSqvWGA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "-7JnfM-Bj"
+        }
+      },
+      "fetched_at": "2026-10-16T14:14:01Z"
+    },
+    {
+      "id": "episode/darling-in-the-franxx-1x3",
+      "episode_id": "episode/darling-in-the-franxx-1x3",
+      "title": "Alone and Lonesome",
+      "episode_name": "Alone and Lonesome",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/14844/03.webp",
+      "abyssid": "10627",
+      "abyssId": "10627",
+      "playxid": "49b8b4f95f02e055801da3b4f58e28b7",
+      "playXID": "49b8b4f95f02e055801da3b4f58e28b7",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "10627",
+        "playXID": "49b8b4f95f02e055801da3b4f58e28b7",
+        "streamId": "10627",
+        "dubPlayerSrc": "/dub-player/t/10627/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=49b8b4f95f02e055801da3b4f58e28b7&abyssId=10627"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "10627",
+        "playXID": "49b8b4f95f02e055801da3b4f58e28b7",
+        "streamId": "10627",
+        "dubPlayerSrc": "/dub-player/t/10627/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=49b8b4f95f02e055801da3b4f58e28b7&abyssId=10627"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/49b8b4f95f02e055801da3b4f58e28b7",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/49b8b4f95f02e055801da3b4f58e28b7"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "10627",
+        "abyssId": "10627",
+        "playXID": "49b8b4f95f02e055801da3b4f58e28b7",
+        "title": "Darling in the FranXX",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "0eyag2mY5"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "6F0MsFmRJ"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "VgwEeotG6"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "dZPQ9QGI2"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "7dYOj1vf_"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/4fca1234123b7ab3bdbfe835937ef3ba/master.m3u8?md5=Pu-nkK2Rnu2nhWPU4UU9TA&expires=1792167231",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/4fca1234123b7ab3bdbfe835937ef3ba/master.m3u8?md5=Pu-nkK2Rnu2nhWPU4UU9TA&expires=1792167231",
+            "videoSource": "https://ravok.buzz/cdn/hls/4fca1234123b7ab3bdbfe835937ef3ba/master.m3u8?md5=Pu-nkK2Rnu2nhWPU4UU9TA&expires=1792167231",
+            "videoImage": "https://as-cdn31.top/p/1-_2jwsKl4X8RvFNWVMUNDUiNB6rozn6x5p78LVheYnyXFNZVw4NXn5ghcEOnfmmbn6orspSNtceJT--Oq_uKg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "49b8b4f95f02e055801da3b4f58e28b7",
+                "streamUrl": "https://ravok.buzz/cdn/hls/4fca1234123b7ab3bdbfe835937ef3ba/master.m3u8?md5=Pu-nkK2Rnu2nhWPU4UU9TA&expires=1792167231",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/4fca1234123b7ab3bdbfe835937ef3ba/master.m3u8?md5=Pu-nkK2Rnu2nhWPU4UU9TA&expires=1792167231",
+                "videoSource": "https://ravok.buzz/cdn/hls/4fca1234123b7ab3bdbfe835937ef3ba/master.m3u8?md5=Pu-nkK2Rnu2nhWPU4UU9TA&expires=1792167231",
+                "link": "https://ravok.buzz/cdn/hls/4fca1234123b7ab3bdbfe835937ef3ba/master.m3u8?md5=Pu-nkK2Rnu2nhWPU4UU9TA&expires=1792167231",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/1-_2jwsKl4X8RvFNWVMUNDUiNB6rozn6x5p78LVheYnyXFNZVw4NXn5ghcEOnfmmbn6orspSNtceJT--Oq_uKg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "0eyag2mY5"
+        }
+      },
+      "fetched_at": "2026-10-16T14:14:01Z"
+    },
+    {
+      "id": "episode/darling-in-the-franxx-1x2",
+      "episode_id": "episode/darling-in-the-franxx-1x2",
+      "title": "Alone and Lonesome",
+      "episode_name": "Alone and Lonesome",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/14844/02.webp",
+      "abyssid": "10626",
+      "abyssId": "10626",
+      "playxid": "0c8ce55163055c4da50a81e0a273468c",
+      "playXID": "0c8ce55163055c4da50a81e0a273468c",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "10626",
+        "playXID": "0c8ce55163055c4da50a81e0a273468c",
+        "streamId": "10626",
+        "dubPlayerSrc": "/dub-player/t/10626/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=0c8ce55163055c4da50a81e0a273468c&abyssId=10626"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "10626",
+        "playXID": "0c8ce55163055c4da50a81e0a273468c",
+        "streamId": "10626",
+        "dubPlayerSrc": "/dub-player/t/10626/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=0c8ce55163055c4da50a81e0a273468c&abyssId=10626"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/0c8ce55163055c4da50a81e0a273468c",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/0c8ce55163055c4da50a81e0a273468c"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "10626",
+        "abyssId": "10626",
+        "playXID": "0c8ce55163055c4da50a81e0a273468c",
+        "title": "Darling in the FranXX",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "R0jXi9o-E"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "V8EgVzXca"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "JlNQGtiMz"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "mRyEwDnLC"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "oDpHldrRr"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/e49af44ff58ed1a9af4c16178df6252f/master.m3u8?md5=spp0dprhMau0JR_YTTdNZg&expires=1792167231",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/e49af44ff58ed1a9af4c16178df6252f/master.m3u8?md5=spp0dprhMau0JR_YTTdNZg&expires=1792167231",
+            "videoSource": "https://ravok.buzz/cdn/hls/e49af44ff58ed1a9af4c16178df6252f/master.m3u8?md5=spp0dprhMau0JR_YTTdNZg&expires=1792167231",
+            "videoImage": "https://as-cdn27.top/p/wUwaRJ3ZIsKGhFDenOW2cjSad9bd8wEQWYQ0R9neRE02z58vyOWck1X1gNiuQf482nxTvzqdZrBjn_HNdEITDw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "0c8ce55163055c4da50a81e0a273468c",
+                "streamUrl": "https://ravok.buzz/cdn/hls/e49af44ff58ed1a9af4c16178df6252f/master.m3u8?md5=spp0dprhMau0JR_YTTdNZg&expires=1792167231",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/e49af44ff58ed1a9af4c16178df6252f/master.m3u8?md5=spp0dprhMau0JR_YTTdNZg&expires=1792167231",
+                "videoSource": "https://ravok.buzz/cdn/hls/e49af44ff58ed1a9af4c16178df6252f/master.m3u8?md5=spp0dprhMau0JR_YTTdNZg&expires=1792167231",
+                "link": "https://ravok.buzz/cdn/hls/e49af44ff58ed1a9af4c16178df6252f/master.m3u8?md5=spp0dprhMau0JR_YTTdNZg&expires=1792167231",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/wUwaRJ3ZIsKGhFDenOW2cjSad9bd8wEQWYQ0R9neRE02z58vyOWck1X1gNiuQf482nxTvzqdZrBjn_HNdEITDw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "R0jXi9o-E"
+        }
+      },
+      "fetched_at": "2026-10-16T14:14:01Z"
+    },
+    {
+      "id": "episode/darling-in-the-franxx-1x5",
+      "episode_id": "episode/darling-in-the-franxx-1x5",
+      "title": "Alone and Lonesome",
+      "episode_name": "Alone and Lonesome",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/14844/05.webp",
+      "abyssid": "10629",
+      "abyssId": "10629",
+      "playxid": "b5488aeff42889188d03c9895255cecc",
+      "playXID": "b5488aeff42889188d03c9895255cecc",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "10629",
+        "playXID": "b5488aeff42889188d03c9895255cecc",
+        "streamId": "10629",
+        "dubPlayerSrc": "/dub-player/t/10629/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b5488aeff42889188d03c9895255cecc&abyssId=10629"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "10629",
+        "playXID": "b5488aeff42889188d03c9895255cecc",
+        "streamId": "10629",
+        "dubPlayerSrc": "/dub-player/t/10629/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b5488aeff42889188d03c9895255cecc&abyssId=10629"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/b5488aeff42889188d03c9895255cecc",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/b5488aeff42889188d03c9895255cecc"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "10629",
+        "abyssId": "10629",
+        "playXID": "b5488aeff42889188d03c9895255cecc",
+        "title": "Darling in the FranXX",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "U5oW9Llwn"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "eLzyIOTCT"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "Nb9hnVfJz"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "OgJlgNHfl"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "kmeifTNaA"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/2e575331e1ec2d5883caa2448c91dda3/master.m3u8?md5=ziivKU1NqHMib8cUK0UFRQ&expires=1792167231",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/2e575331e1ec2d5883caa2448c91dda3/master.m3u8?md5=ziivKU1NqHMib8cUK0UFRQ&expires=1792167231",
+            "videoSource": "https://ravok.buzz/cdn/hls/2e575331e1ec2d5883caa2448c91dda3/master.m3u8?md5=ziivKU1NqHMib8cUK0UFRQ&expires=1792167231",
+            "videoImage": "https://as-cdn28.top/p/OqKGTHZOabD2ZxlaXgcbAIlYwvTgF2_91e5V31jB3Qz7FT37lqvC58IEga6yAbvBC62_rRcauyTQfOrCuV5ZSw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "b5488aeff42889188d03c9895255cecc",
+                "streamUrl": "https://ravok.buzz/cdn/hls/2e575331e1ec2d5883caa2448c91dda3/master.m3u8?md5=ziivKU1NqHMib8cUK0UFRQ&expires=1792167231",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/2e575331e1ec2d5883caa2448c91dda3/master.m3u8?md5=ziivKU1NqHMib8cUK0UFRQ&expires=1792167231",
+                "videoSource": "https://ravok.buzz/cdn/hls/2e575331e1ec2d5883caa2448c91dda3/master.m3u8?md5=ziivKU1NqHMib8cUK0UFRQ&expires=1792167231",
+                "link": "https://ravok.buzz/cdn/hls/2e575331e1ec2d5883caa2448c91dda3/master.m3u8?md5=ziivKU1NqHMib8cUK0UFRQ&expires=1792167231",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/OqKGTHZOabD2ZxlaXgcbAIlYwvTgF2_91e5V31jB3Qz7FT37lqvC58IEga6yAbvBC62_rRcauyTQfOrCuV5ZSw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "U5oW9Llwn"
+        }
+      },
+      "fetched_at": "2026-10-16T14:14:01Z"
+    },
+    {
+      "id": "episode/darling-in-the-franxx-1x4",
+      "episode_id": "episode/darling-in-the-franxx-1x4",
+      "title": "Alone and Lonesome",
+      "episode_name": "Alone and Lonesome",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/14844/04.webp",
+      "abyssid": "10628",
+      "abyssId": "10628",
+      "playxid": "0c9ebb2ded806d7ffda75cd0b95eb70c",
+      "playXID": "0c9ebb2ded806d7ffda75cd0b95eb70c",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "10628",
+        "playXID": "0c9ebb2ded806d7ffda75cd0b95eb70c",
+        "streamId": "10628",
+        "dubPlayerSrc": "/dub-player/t/10628/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=0c9ebb2ded806d7ffda75cd0b95eb70c&abyssId=10628"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "10628",
+        "playXID": "0c9ebb2ded806d7ffda75cd0b95eb70c",
+        "streamId": "10628",
+        "dubPlayerSrc": "/dub-player/t/10628/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=0c9ebb2ded806d7ffda75cd0b95eb70c&abyssId=10628"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/0c9ebb2ded806d7ffda75cd0b95eb70c",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/0c9ebb2ded806d7ffda75cd0b95eb70c"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "10628",
+        "abyssId": "10628",
+        "playXID": "0c9ebb2ded806d7ffda75cd0b95eb70c",
+        "title": "Darling in the FranXX",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "6as2kJ9FR"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "d2iJTZX84"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "97jiiQly0"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "FyBCy2niT"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "jWYWo_Bls"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/734811fbaed2b257d9d5c2b6e803ee85/master.m3u8?md5=mo9vDjbUFkoxn5KC5Ik43A&expires=1792167231",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/734811fbaed2b257d9d5c2b6e803ee85/master.m3u8?md5=mo9vDjbUFkoxn5KC5Ik43A&expires=1792167231",
+            "videoSource": "https://ravok.buzz/cdn/hls/734811fbaed2b257d9d5c2b6e803ee85/master.m3u8?md5=mo9vDjbUFkoxn5KC5Ik43A&expires=1792167231",
+            "videoImage": "https://as-cdn30.top/p/CHjpXgFvpYuoXEybcSDRaQD7VoviWksndTrX8_ChFng80zawMZPnok25VDzmD4kFI8mgx4XPj9zUoDamgWFJSA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "0c9ebb2ded806d7ffda75cd0b95eb70c",
+                "streamUrl": "https://ravok.buzz/cdn/hls/734811fbaed2b257d9d5c2b6e803ee85/master.m3u8?md5=mo9vDjbUFkoxn5KC5Ik43A&expires=1792167231",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/734811fbaed2b257d9d5c2b6e803ee85/master.m3u8?md5=mo9vDjbUFkoxn5KC5Ik43A&expires=1792167231",
+                "videoSource": "https://ravok.buzz/cdn/hls/734811fbaed2b257d9d5c2b6e803ee85/master.m3u8?md5=mo9vDjbUFkoxn5KC5Ik43A&expires=1792167231",
+                "link": "https://ravok.buzz/cdn/hls/734811fbaed2b257d9d5c2b6e803ee85/master.m3u8?md5=mo9vDjbUFkoxn5KC5Ik43A&expires=1792167231",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/CHjpXgFvpYuoXEybcSDRaQD7VoviWksndTrX8_ChFng80zawMZPnok25VDzmD4kFI8mgx4XPj9zUoDamgWFJSA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "6as2kJ9FR"
+        }
+      },
+      "fetched_at": "2026-10-16T14:14:01Z"
+    },
+    {
+      "id": "episode/darling-in-the-franxx-1x6",
+      "episode_id": "episode/darling-in-the-franxx-1x6",
+      "title": "Alone and Lonesome",
+      "episode_name": "Alone and Lonesome",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/14844/06.webp",
+      "abyssid": "10630",
+      "abyssId": "10630",
+      "playxid": "4dcf435435894a4d0972046fc566af76",
+      "playXID": "4dcf435435894a4d0972046fc566af76",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "10630",
+        "playXID": "4dcf435435894a4d0972046fc566af76",
+        "streamId": "10630",
+        "dubPlayerSrc": "/dub-player/t/10630/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=4dcf435435894a4d0972046fc566af76&abyssId=10630"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "10630",
+        "playXID": "4dcf435435894a4d0972046fc566af76",
+        "streamId": "10630",
+        "dubPlayerSrc": "/dub-player/t/10630/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=4dcf435435894a4d0972046fc566af76&abyssId=10630"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/4dcf435435894a4d0972046fc566af76",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/4dcf435435894a4d0972046fc566af76"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "10630",
+        "abyssId": "10630",
+        "playXID": "4dcf435435894a4d0972046fc566af76",
+        "title": "Darling in the FranXX",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "Uy35011CH"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "RR8iPktNI"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "ZtakThPpW"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "UDG66z6ws"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "mjzGW-kFWd"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/ad3a44ba025c64e9eb5e3a3ad06ad598/master.m3u8?md5=VBiB0PCkudvFAfVruc4hlQ&expires=1792167233",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/ad3a44ba025c64e9eb5e3a3ad06ad598/master.m3u8?md5=VBiB0PCkudvFAfVruc4hlQ&expires=1792167233",
+            "videoSource": "https://ravok.buzz/cdn/hls/ad3a44ba025c64e9eb5e3a3ad06ad598/master.m3u8?md5=VBiB0PCkudvFAfVruc4hlQ&expires=1792167233",
+            "videoImage": "https://as-cdn30.top/p/Gj8Q0DAQulCN4fTIlFMrzF-G-5RU4vVRIBsCh3-g4F-H2fDg3LyWblyZVp7n3MgdlQuKf7rjdpg7gDQLFxa3jw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "4dcf435435894a4d0972046fc566af76",
+                "streamUrl": "https://ravok.buzz/cdn/hls/ad3a44ba025c64e9eb5e3a3ad06ad598/master.m3u8?md5=VBiB0PCkudvFAfVruc4hlQ&expires=1792167233",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/ad3a44ba025c64e9eb5e3a3ad06ad598/master.m3u8?md5=VBiB0PCkudvFAfVruc4hlQ&expires=1792167233",
+                "videoSource": "https://ravok.buzz/cdn/hls/ad3a44ba025c64e9eb5e3a3ad06ad598/master.m3u8?md5=VBiB0PCkudvFAfVruc4hlQ&expires=1792167233",
+                "link": "https://ravok.buzz/cdn/hls/ad3a44ba025c64e9eb5e3a3ad06ad598/master.m3u8?md5=VBiB0PCkudvFAfVruc4hlQ&expires=1792167233",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/Gj8Q0DAQulCN4fTIlFMrzF-G-5RU4vVRIBsCh3-g4F-H2fDg3LyWblyZVp7n3MgdlQuKf7rjdpg7gDQLFxa3jw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "Uy35011CH"
+        }
+      },
+      "fetched_at": "2026-10-16T14:14:03Z"
+    },
+    {
+      "id": "episode/darling-in-the-franxx-1x8",
+      "episode_id": "episode/darling-in-the-franxx-1x8",
+      "title": "Alone and Lonesome",
+      "episode_name": "Alone and Lonesome",
+      "episode_number": 8,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/14844/08.webp",
+      "abyssid": "10632",
+      "abyssId": "10632",
+      "playxid": "1cd3882394520876dc88d1472aa2a93f",
+      "playXID": "1cd3882394520876dc88d1472aa2a93f",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "10632",
+        "playXID": "1cd3882394520876dc88d1472aa2a93f",
+        "streamId": "10632",
+        "dubPlayerSrc": "/dub-player/t/10632/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=1cd3882394520876dc88d1472aa2a93f&abyssId=10632"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "10632",
+        "playXID": "1cd3882394520876dc88d1472aa2a93f",
+        "streamId": "10632",
+        "dubPlayerSrc": "/dub-player/t/10632/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=1cd3882394520876dc88d1472aa2a93f&abyssId=10632"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/1cd3882394520876dc88d1472aa2a93f",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/1cd3882394520876dc88d1472aa2a93f"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "10632",
+        "abyssId": "10632",
+        "playXID": "1cd3882394520876dc88d1472aa2a93f",
+        "title": "Darling in the FranXX",
+        "season": 1,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "kvSO55IQRc"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "rIVqM-tvw"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "OXdWmhuCR"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "SN-sy50BE"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "J7GR9eBIw"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/39f73526453638e145ff279660d9107e/master.m3u8?md5=mKc-pL8yb0y7j90J8x-eGw&expires=1792167233",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/39f73526453638e145ff279660d9107e/master.m3u8?md5=mKc-pL8yb0y7j90J8x-eGw&expires=1792167233",
+            "videoSource": "https://ravok.buzz/cdn/hls/39f73526453638e145ff279660d9107e/master.m3u8?md5=mKc-pL8yb0y7j90J8x-eGw&expires=1792167233",
+            "videoImage": "https://as-cdn31.top/p/EwYK31bDHKbAcx-0U3ZXY9bNRGZ3A8Yt68RUcSRrUVVUcp2c-Lks6LIbR1pJYir76IXlK89BGIqcYAvP5elOVw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "1cd3882394520876dc88d1472aa2a93f",
+                "streamUrl": "https://ravok.buzz/cdn/hls/39f73526453638e145ff279660d9107e/master.m3u8?md5=mKc-pL8yb0y7j90J8x-eGw&expires=1792167233",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/39f73526453638e145ff279660d9107e/master.m3u8?md5=mKc-pL8yb0y7j90J8x-eGw&expires=1792167233",
+                "videoSource": "https://ravok.buzz/cdn/hls/39f73526453638e145ff279660d9107e/master.m3u8?md5=mKc-pL8yb0y7j90J8x-eGw&expires=1792167233",
+                "link": "https://ravok.buzz/cdn/hls/39f73526453638e145ff279660d9107e/master.m3u8?md5=mKc-pL8yb0y7j90J8x-eGw&expires=1792167233",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/EwYK31bDHKbAcx-0U3ZXY9bNRGZ3A8Yt68RUcSRrUVVUcp2c-Lks6LIbR1pJYir76IXlK89BGIqcYAvP5elOVw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "kvSO55IQRc"
+        }
+      },
+      "fetched_at": "2026-10-16T14:14:03Z"
+    },
+    {
+      "id": "episode/darling-in-the-franxx-1x9",
+      "episode_id": "episode/darling-in-the-franxx-1x9",
+      "title": "Alone and Lonesome",
+      "episode_name": "Alone and Lonesome",
+      "episode_number": 9,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/14844/09.webp",
+      "abyssid": "10633",
+      "abyssId": "10633",
+      "playxid": "41a60377ba920919939d83326ebee5a1",
+      "playXID": "41a60377ba920919939d83326ebee5a1",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "10633",
+        "playXID": "41a60377ba920919939d83326ebee5a1",
+        "streamId": "10633",
+        "dubPlayerSrc": "/dub-player/t/10633/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=41a60377ba920919939d83326ebee5a1&abyssId=10633"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "10633",
+        "playXID": "41a60377ba920919939d83326ebee5a1",
+        "streamId": "10633",
+        "dubPlayerSrc": "/dub-player/t/10633/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=41a60377ba920919939d83326ebee5a1&abyssId=10633"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/41a60377ba920919939d83326ebee5a1",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/41a60377ba920919939d83326ebee5a1"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "10633",
+        "abyssId": "10633",
+        "playXID": "41a60377ba920919939d83326ebee5a1",
+        "title": "Darling in the FranXX",
+        "season": 1,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "Bzee0RcII"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "TDTUi4EhZ"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "lVdkLmg0C"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "L4bGfLpry"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "4VcbSwA7P"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/6db4f854515f6e908544ddf46dfe8a6f/master.m3u8?md5=LlVQwnsjXCG-3HIoGshmfg&expires=1792167233",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/6db4f854515f6e908544ddf46dfe8a6f/master.m3u8?md5=LlVQwnsjXCG-3HIoGshmfg&expires=1792167233",
+            "videoSource": "https://ravok.buzz/cdn/hls/6db4f854515f6e908544ddf46dfe8a6f/master.m3u8?md5=LlVQwnsjXCG-3HIoGshmfg&expires=1792167233",
+            "videoImage": "https://as-cdn29.top/p/AEL9Za_kGmQGIgXYYdk7kPjFNnEDlT-MwW8hItKbleGjVkHjJG7ytz9y1QsSv2QW02MNuc9VCY8L_5JXvDtXFA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "41a60377ba920919939d83326ebee5a1",
+                "streamUrl": "https://ravok.buzz/cdn/hls/6db4f854515f6e908544ddf46dfe8a6f/master.m3u8?md5=LlVQwnsjXCG-3HIoGshmfg&expires=1792167233",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/6db4f854515f6e908544ddf46dfe8a6f/master.m3u8?md5=LlVQwnsjXCG-3HIoGshmfg&expires=1792167233",
+                "videoSource": "https://ravok.buzz/cdn/hls/6db4f854515f6e908544ddf46dfe8a6f/master.m3u8?md5=LlVQwnsjXCG-3HIoGshmfg&expires=1792167233",
+                "link": "https://ravok.buzz/cdn/hls/6db4f854515f6e908544ddf46dfe8a6f/master.m3u8?md5=LlVQwnsjXCG-3HIoGshmfg&expires=1792167233",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/AEL9Za_kGmQGIgXYYdk7kPjFNnEDlT-MwW8hItKbleGjVkHjJG7ytz9y1QsSv2QW02MNuc9VCY8L_5JXvDtXFA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "Bzee0RcII"
+        }
+      },
+      "fetched_at": "2026-10-16T14:14:03Z"
+    },
+    {
+      "id": "episode/darling-in-the-franxx-1x10",
+      "episode_id": "episode/darling-in-the-franxx-1x10",
+      "title": "Alone and Lonesome",
+      "episode_name": "Alone and Lonesome",
+      "episode_number": 10,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/14844/10.webp",
+      "abyssid": "10634",
+      "abyssId": "10634",
+      "playxid": "ebb71045453f38676c40deb9864f811d",
+      "playXID": "ebb71045453f38676c40deb9864f811d",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "10634",
+        "playXID": "ebb71045453f38676c40deb9864f811d",
+        "streamId": "10634",
+        "dubPlayerSrc": "/dub-player/t/10634/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ebb71045453f38676c40deb9864f811d&abyssId=10634"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "10634",
+        "playXID": "ebb71045453f38676c40deb9864f811d",
+        "streamId": "10634",
+        "dubPlayerSrc": "/dub-player/t/10634/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ebb71045453f38676c40deb9864f811d&abyssId=10634"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/ebb71045453f38676c40deb9864f811d",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/ebb71045453f38676c40deb9864f811d"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "10634",
+        "abyssId": "10634",
+        "playXID": "ebb71045453f38676c40deb9864f811d",
+        "title": "Darling in the FranXX",
+        "season": 1,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "K3BIhmoHm"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "ArmNJc9vx"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "r6PvgazWi"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "EKMqaaRk6"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "yI0tQo-RD-"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/0e4aa142aec4831beb7851a1c7c0dce6/master.m3u8?md5=S48pS2Z57F6ySqXK5BSnvA&expires=1792167233",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/0e4aa142aec4831beb7851a1c7c0dce6/master.m3u8?md5=S48pS2Z57F6ySqXK5BSnvA&expires=1792167233",
+            "videoSource": "https://ravok.buzz/cdn/hls/0e4aa142aec4831beb7851a1c7c0dce6/master.m3u8?md5=S48pS2Z57F6ySqXK5BSnvA&expires=1792167233",
+            "videoImage": "https://as-cdn29.top/p/uo4tE_wCY_gL7XBvBfu6pZh6YtW1ZVLO_wDbwUrXYPlrlNEy0HE_50pI8gXd1HLxkM4TKihmm4y5gAwDNM2--g.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "ebb71045453f38676c40deb9864f811d",
+                "streamUrl": "https://ravok.buzz/cdn/hls/0e4aa142aec4831beb7851a1c7c0dce6/master.m3u8?md5=S48pS2Z57F6ySqXK5BSnvA&expires=1792167233",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/0e4aa142aec4831beb7851a1c7c0dce6/master.m3u8?md5=S48pS2Z57F6ySqXK5BSnvA&expires=1792167233",
+                "videoSource": "https://ravok.buzz/cdn/hls/0e4aa142aec4831beb7851a1c7c0dce6/master.m3u8?md5=S48pS2Z57F6ySqXK5BSnvA&expires=1792167233",
+                "link": "https://ravok.buzz/cdn/hls/0e4aa142aec4831beb7851a1c7c0dce6/master.m3u8?md5=S48pS2Z57F6ySqXK5BSnvA&expires=1792167233",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/uo4tE_wCY_gL7XBvBfu6pZh6YtW1ZVLO_wDbwUrXYPlrlNEy0HE_50pI8gXd1HLxkM4TKihmm4y5gAwDNM2--g.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "K3BIhmoHm"
+        }
+      },
+      "fetched_at": "2026-10-16T14:14:03Z"
+    },
+    {
+      "id": "episode/darling-in-the-franxx-1x12",
+      "episode_id": "episode/darling-in-the-franxx-1x12",
+      "title": "Alone and Lonesome",
+      "episode_name": "Alone and Lonesome",
+      "episode_number": 12,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/14844/12.webp",
+      "abyssid": "10636",
+      "abyssId": "10636",
+      "playxid": "2b3bf3eee2475e03885a110e9acaab61",
+      "playXID": "2b3bf3eee2475e03885a110e9acaab61",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "10636",
+        "playXID": "2b3bf3eee2475e03885a110e9acaab61",
+        "streamId": "10636",
+        "dubPlayerSrc": "/dub-player/t/10636/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2b3bf3eee2475e03885a110e9acaab61&abyssId=10636"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "10636",
+        "playXID": "2b3bf3eee2475e03885a110e9acaab61",
+        "streamId": "10636",
+        "dubPlayerSrc": "/dub-player/t/10636/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2b3bf3eee2475e03885a110e9acaab61&abyssId=10636"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/2b3bf3eee2475e03885a110e9acaab61",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/2b3bf3eee2475e03885a110e9acaab61"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "10636",
+        "abyssId": "10636",
+        "playXID": "2b3bf3eee2475e03885a110e9acaab61",
+        "title": "Darling in the FranXX",
+        "season": 1,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "NLleP0RUX"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "KKRuZCKqQ"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "Bv4x6-qLd"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "ZDtFBCKPV"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "SFGL04cVJ"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/2f57a80037f2848e247f1035af7cff4b/master.m3u8?md5=a6Hhx2rtYsv0wEsWNaRw_A&expires=1792167235",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/2f57a80037f2848e247f1035af7cff4b/master.m3u8?md5=a6Hhx2rtYsv0wEsWNaRw_A&expires=1792167235",
+            "videoSource": "https://ravok.buzz/cdn/hls/2f57a80037f2848e247f1035af7cff4b/master.m3u8?md5=a6Hhx2rtYsv0wEsWNaRw_A&expires=1792167235",
+            "videoImage": "https://as-cdn27.top/p/NvwQZPa-ofnFcjLYVTxSOccscB5raSAujGm4BQyjxw8PEc1-EiZmNjxqnr3Hv7qSUFPzPoSSWoDiBL5SQABabw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "2b3bf3eee2475e03885a110e9acaab61",
+                "streamUrl": "https://ravok.buzz/cdn/hls/2f57a80037f2848e247f1035af7cff4b/master.m3u8?md5=a6Hhx2rtYsv0wEsWNaRw_A&expires=1792167235",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/2f57a80037f2848e247f1035af7cff4b/master.m3u8?md5=a6Hhx2rtYsv0wEsWNaRw_A&expires=1792167235",
+                "videoSource": "https://ravok.buzz/cdn/hls/2f57a80037f2848e247f1035af7cff4b/master.m3u8?md5=a6Hhx2rtYsv0wEsWNaRw_A&expires=1792167235",
+                "link": "https://ravok.buzz/cdn/hls/2f57a80037f2848e247f1035af7cff4b/master.m3u8?md5=a6Hhx2rtYsv0wEsWNaRw_A&expires=1792167235",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/NvwQZPa-ofnFcjLYVTxSOccscB5raSAujGm4BQyjxw8PEc1-EiZmNjxqnr3Hv7qSUFPzPoSSWoDiBL5SQABabw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "NLleP0RUX"
+        }
+      },
+      "fetched_at": "2026-10-16T14:14:05Z"
+    },
+    {
+      "id": "episode/darling-in-the-franxx-1x11",
+      "episode_id": "episode/darling-in-the-franxx-1x11",
+      "title": "Alone and Lonesome",
+      "episode_name": "Alone and Lonesome",
+      "episode_number": 11,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/14844/11.webp",
+      "abyssid": "10635",
+      "abyssId": "10635",
+      "playxid": "0f3d014eead934bbdbacb62a01dc4831",
+      "playXID": "0f3d014eead934bbdbacb62a01dc4831",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "10635",
+        "playXID": "0f3d014eead934bbdbacb62a01dc4831",
+        "streamId": "10635",
+        "dubPlayerSrc": "/dub-player/t/10635/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=0f3d014eead934bbdbacb62a01dc4831&abyssId=10635"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "10635",
+        "playXID": "0f3d014eead934bbdbacb62a01dc4831",
+        "streamId": "10635",
+        "dubPlayerSrc": "/dub-player/t/10635/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=0f3d014eead934bbdbacb62a01dc4831&abyssId=10635"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/0f3d014eead934bbdbacb62a01dc4831",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/0f3d014eead934bbdbacb62a01dc4831"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "10635",
+        "abyssId": "10635",
+        "playXID": "0f3d014eead934bbdbacb62a01dc4831",
+        "title": "Darling in the FranXX",
+        "season": 1,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "et95slCjD"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "rHFQNlTc72"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "lp36QpDgC"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "1bFBQ5reN"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "wpJeuSyCb"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/b8141a7b15ae1a679646e4a467b71e55/master.m3u8?md5=NP2JM4Ce6L0S-77sqlcj-w&expires=1792167235",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/b8141a7b15ae1a679646e4a467b71e55/master.m3u8?md5=NP2JM4Ce6L0S-77sqlcj-w&expires=1792167235",
+            "videoSource": "https://ravok.buzz/cdn/hls/b8141a7b15ae1a679646e4a467b71e55/master.m3u8?md5=NP2JM4Ce6L0S-77sqlcj-w&expires=1792167235",
+            "videoImage": "https://as-cdn29.top/p/VPPdbi1EdHtyJMW3z_kMnD6EY4SXQ77qCVvRCy8FeewCMEevMcE3WymUVTu4a3qXG5PmZeyECH5CzIv_q0DNew.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "0f3d014eead934bbdbacb62a01dc4831",
+                "streamUrl": "https://ravok.buzz/cdn/hls/b8141a7b15ae1a679646e4a467b71e55/master.m3u8?md5=NP2JM4Ce6L0S-77sqlcj-w&expires=1792167235",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/b8141a7b15ae1a679646e4a467b71e55/master.m3u8?md5=NP2JM4Ce6L0S-77sqlcj-w&expires=1792167235",
+                "videoSource": "https://ravok.buzz/cdn/hls/b8141a7b15ae1a679646e4a467b71e55/master.m3u8?md5=NP2JM4Ce6L0S-77sqlcj-w&expires=1792167235",
+                "link": "https://ravok.buzz/cdn/hls/b8141a7b15ae1a679646e4a467b71e55/master.m3u8?md5=NP2JM4Ce6L0S-77sqlcj-w&expires=1792167235",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/VPPdbi1EdHtyJMW3z_kMnD6EY4SXQ77qCVvRCy8FeewCMEevMcE3WymUVTu4a3qXG5PmZeyECH5CzIv_q0DNew.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "et95slCjD"
+        }
+      },
+      "fetched_at": "2026-10-16T14:14:05Z"
+    },
+    {
+      "id": "episode/darling-in-the-franxx-1x13",
+      "episode_id": "episode/darling-in-the-franxx-1x13",
+      "title": "Alone and Lonesome",
+      "episode_name": "Alone and Lonesome",
+      "episode_number": 13,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/14844/13.webp",
+      "abyssid": "10637",
+      "abyssId": "10637",
+      "playxid": "83f2550373f2f19492aa30fbd5b57512",
+      "playXID": "83f2550373f2f19492aa30fbd5b57512",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "10637",
+        "playXID": "83f2550373f2f19492aa30fbd5b57512",
+        "streamId": "10637",
+        "dubPlayerSrc": "/dub-player/t/10637/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=83f2550373f2f19492aa30fbd5b57512&abyssId=10637"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "10637",
+        "playXID": "83f2550373f2f19492aa30fbd5b57512",
+        "streamId": "10637",
+        "dubPlayerSrc": "/dub-player/t/10637/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=83f2550373f2f19492aa30fbd5b57512&abyssId=10637"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/83f2550373f2f19492aa30fbd5b57512",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/83f2550373f2f19492aa30fbd5b57512"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "10637",
+        "abyssId": "10637",
+        "playXID": "83f2550373f2f19492aa30fbd5b57512",
+        "title": "Darling in the FranXX",
+        "season": 1,
+        "episode": 13,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "eFofwiAQc"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "ugVUEJ-U1"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "IRfTvhIdF"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "pfasRESot"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "xwl9hmuOn"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/dbb4e363978b07c9b4fead5cd6ce8b7e/master.m3u8?md5=zgMhHMypNNgpPopb13alUw&expires=1792167236",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/dbb4e363978b07c9b4fead5cd6ce8b7e/master.m3u8?md5=zgMhHMypNNgpPopb13alUw&expires=1792167236",
+            "videoSource": "https://ravok.buzz/cdn/hls/dbb4e363978b07c9b4fead5cd6ce8b7e/master.m3u8?md5=zgMhHMypNNgpPopb13alUw&expires=1792167236",
+            "videoImage": "https://as-cdn27.top/p/5QldRsHW4LBvdt9A4HN323H_l4dR7yPuD9NgtUKtlxAvLdTJZfDY52E1wOfnG3LGG2sR03XY9wrbDQhJWjz4QA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "83f2550373f2f19492aa30fbd5b57512",
+                "streamUrl": "https://ravok.buzz/cdn/hls/dbb4e363978b07c9b4fead5cd6ce8b7e/master.m3u8?md5=zgMhHMypNNgpPopb13alUw&expires=1792167236",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/dbb4e363978b07c9b4fead5cd6ce8b7e/master.m3u8?md5=zgMhHMypNNgpPopb13alUw&expires=1792167236",
+                "videoSource": "https://ravok.buzz/cdn/hls/dbb4e363978b07c9b4fead5cd6ce8b7e/master.m3u8?md5=zgMhHMypNNgpPopb13alUw&expires=1792167236",
+                "link": "https://ravok.buzz/cdn/hls/dbb4e363978b07c9b4fead5cd6ce8b7e/master.m3u8?md5=zgMhHMypNNgpPopb13alUw&expires=1792167236",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/5QldRsHW4LBvdt9A4HN323H_l4dR7yPuD9NgtUKtlxAvLdTJZfDY52E1wOfnG3LGG2sR03XY9wrbDQhJWjz4QA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "eFofwiAQc"
+        }
+      },
+      "fetched_at": "2026-10-16T14:14:05Z"
+    },
+    {
+      "id": "episode/darling-in-the-franxx-1x14",
+      "episode_id": "episode/darling-in-the-franxx-1x14",
+      "title": "Alone and Lonesome",
+      "episode_name": "Alone and Lonesome",
+      "episode_number": 14,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/14844/14.webp",
+      "abyssid": "10638",
+      "abyssId": "10638",
+      "playxid": "bc7316929fe1545bf0b98d114ee3ecb8",
+      "playXID": "bc7316929fe1545bf0b98d114ee3ecb8",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "10638",
+        "playXID": "bc7316929fe1545bf0b98d114ee3ecb8",
+        "streamId": "10638",
+        "dubPlayerSrc": "/dub-player/t/10638/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=bc7316929fe1545bf0b98d114ee3ecb8&abyssId=10638"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "10638",
+        "playXID": "bc7316929fe1545bf0b98d114ee3ecb8",
+        "streamId": "10638",
+        "dubPlayerSrc": "/dub-player/t/10638/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=bc7316929fe1545bf0b98d114ee3ecb8&abyssId=10638"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/bc7316929fe1545bf0b98d114ee3ecb8",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/bc7316929fe1545bf0b98d114ee3ecb8"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "10638",
+        "abyssId": "10638",
+        "playXID": "bc7316929fe1545bf0b98d114ee3ecb8",
+        "title": "Darling in the FranXX",
+        "season": 1,
+        "episode": 14,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "wAjFwI9XI"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "FensnhlC1"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "CppvkiqYt"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "0mr60wrzL"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "rwr_xGInY"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/7d2d315249ac90fb472aa5660f4f1c5b/master.m3u8?md5=YYPu5qGhq_RqhILjy9gXcg&expires=1792167236",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/7d2d315249ac90fb472aa5660f4f1c5b/master.m3u8?md5=YYPu5qGhq_RqhILjy9gXcg&expires=1792167236",
+            "videoSource": "https://ravok.buzz/cdn/hls/7d2d315249ac90fb472aa5660f4f1c5b/master.m3u8?md5=YYPu5qGhq_RqhILjy9gXcg&expires=1792167236",
+            "videoImage": "https://as-cdn29.top/p/TO7lrC1DL9vXGeG2wP10OWW_dE1_8_aIalb4VdmlRulZM_foidEkE5cgyZRltdDh11txGuSkSbadUQR1FJ0fHg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "bc7316929fe1545bf0b98d114ee3ecb8",
+                "streamUrl": "https://ravok.buzz/cdn/hls/7d2d315249ac90fb472aa5660f4f1c5b/master.m3u8?md5=YYPu5qGhq_RqhILjy9gXcg&expires=1792167236",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/7d2d315249ac90fb472aa5660f4f1c5b/master.m3u8?md5=YYPu5qGhq_RqhILjy9gXcg&expires=1792167236",
+                "videoSource": "https://ravok.buzz/cdn/hls/7d2d315249ac90fb472aa5660f4f1c5b/master.m3u8?md5=YYPu5qGhq_RqhILjy9gXcg&expires=1792167236",
+                "link": "https://ravok.buzz/cdn/hls/7d2d315249ac90fb472aa5660f4f1c5b/master.m3u8?md5=YYPu5qGhq_RqhILjy9gXcg&expires=1792167236",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/TO7lrC1DL9vXGeG2wP10OWW_dE1_8_aIalb4VdmlRulZM_foidEkE5cgyZRltdDh11txGuSkSbadUQR1FJ0fHg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "wAjFwI9XI"
+        }
+      },
+      "fetched_at": "2026-10-16T14:14:06Z"
+    },
+    {
+      "id": "episode/darling-in-the-franxx-1x16",
+      "episode_id": "episode/darling-in-the-franxx-1x16",
+      "title": "Alone and Lonesome",
+      "episode_name": "Alone and Lonesome",
+      "episode_number": 16,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/14844/16.webp",
+      "abyssid": "10640",
+      "abyssId": "10640",
+      "playxid": "81c8727c62e800be708dbf37c4695dff",
+      "playXID": "81c8727c62e800be708dbf37c4695dff",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "10640",
+        "playXID": "81c8727c62e800be708dbf37c4695dff",
+        "streamId": "10640",
+        "dubPlayerSrc": "/dub-player/t/10640/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=81c8727c62e800be708dbf37c4695dff&abyssId=10640"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "10640",
+        "playXID": "81c8727c62e800be708dbf37c4695dff",
+        "streamId": "10640",
+        "dubPlayerSrc": "/dub-player/t/10640/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=81c8727c62e800be708dbf37c4695dff&abyssId=10640"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/81c8727c62e800be708dbf37c4695dff",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/81c8727c62e800be708dbf37c4695dff"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "10640",
+        "abyssId": "10640",
+        "playXID": "81c8727c62e800be708dbf37c4695dff",
+        "title": "Darling in the FranXX",
+        "season": 1,
+        "episode": 16,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "FlVLmN0BM"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "c2LIwAI07"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "iCD3K7_c3"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "H1fb-7xdI"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "aBVB7k43o"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/fdc13c022b5020bb824ff8f50666780e/master.m3u8?md5=_RybFOzaTffvPkmBdvz07g&expires=1792167237",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/fdc13c022b5020bb824ff8f50666780e/master.m3u8?md5=_RybFOzaTffvPkmBdvz07g&expires=1792167237",
+            "videoSource": "https://ravok.buzz/cdn/hls/fdc13c022b5020bb824ff8f50666780e/master.m3u8?md5=_RybFOzaTffvPkmBdvz07g&expires=1792167237",
+            "videoImage": "https://as-cdn28.top/p/DZKUzTsTsLzgX17z85gTpDDKTiWoZ4xHS1_2APBqJDcO17AhC5BuZ4QVivZeDiKn2Py7fcBz2O3T3Aj2G7DlXw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "81c8727c62e800be708dbf37c4695dff",
+                "streamUrl": "https://ravok.buzz/cdn/hls/fdc13c022b5020bb824ff8f50666780e/master.m3u8?md5=_RybFOzaTffvPkmBdvz07g&expires=1792167237",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/fdc13c022b5020bb824ff8f50666780e/master.m3u8?md5=_RybFOzaTffvPkmBdvz07g&expires=1792167237",
+                "videoSource": "https://ravok.buzz/cdn/hls/fdc13c022b5020bb824ff8f50666780e/master.m3u8?md5=_RybFOzaTffvPkmBdvz07g&expires=1792167237",
+                "link": "https://ravok.buzz/cdn/hls/fdc13c022b5020bb824ff8f50666780e/master.m3u8?md5=_RybFOzaTffvPkmBdvz07g&expires=1792167237",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/DZKUzTsTsLzgX17z85gTpDDKTiWoZ4xHS1_2APBqJDcO17AhC5BuZ4QVivZeDiKn2Py7fcBz2O3T3Aj2G7DlXw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "FlVLmN0BM"
+        }
+      },
+      "fetched_at": "2026-10-16T14:14:07Z"
+    },
+    {
+      "id": "episode/darling-in-the-franxx-1x7",
+      "episode_id": "episode/darling-in-the-franxx-1x7",
+      "title": "Alone and Lonesome",
+      "episode_name": "Alone and Lonesome",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/14844/07.webp",
+      "abyssid": "10631",
+      "abyssId": "10631",
+      "playxid": "ebd6d2f5d60ff9afaeda1a81fc53e2d0",
+      "playXID": "ebd6d2f5d60ff9afaeda1a81fc53e2d0",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "10631",
+        "playXID": "ebd6d2f5d60ff9afaeda1a81fc53e2d0",
+        "streamId": "10631",
+        "dubPlayerSrc": "/dub-player/t/10631/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ebd6d2f5d60ff9afaeda1a81fc53e2d0&abyssId=10631"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "10631",
+        "playXID": "ebd6d2f5d60ff9afaeda1a81fc53e2d0",
+        "streamId": "10631",
+        "dubPlayerSrc": "/dub-player/t/10631/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ebd6d2f5d60ff9afaeda1a81fc53e2d0&abyssId=10631"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/ebd6d2f5d60ff9afaeda1a81fc53e2d0",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/ebd6d2f5d60ff9afaeda1a81fc53e2d0"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "10631",
+        "abyssId": "10631",
+        "playXID": "ebd6d2f5d60ff9afaeda1a81fc53e2d0",
+        "title": "Darling in the FranXX",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "D8gt7tS8Q"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "PhIYhuX1j"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "3wt1pkXmX"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "hfnKQeC2J"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "WORKJtSm6"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/b794b173cb85dab42edb283f0f3edcda/master.m3u8?md5=UEDhAcQAd-E4FKwD7nNHTA&expires=1792167237",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/b794b173cb85dab42edb283f0f3edcda/master.m3u8?md5=UEDhAcQAd-E4FKwD7nNHTA&expires=1792167237",
+            "videoSource": "https://ravok.buzz/cdn/hls/b794b173cb85dab42edb283f0f3edcda/master.m3u8?md5=UEDhAcQAd-E4FKwD7nNHTA&expires=1792167237",
+            "videoImage": "https://as-cdn28.top/p/o-QK6tDdmyYJHqppFlW_uYDfKDeyn_V9iuAyiktcIGpyg0qKg74caugkOdWd0l2D34kNMLz5SWrnL1DAFi49OQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "ebd6d2f5d60ff9afaeda1a81fc53e2d0",
+                "streamUrl": "https://ravok.buzz/cdn/hls/b794b173cb85dab42edb283f0f3edcda/master.m3u8?md5=UEDhAcQAd-E4FKwD7nNHTA&expires=1792167237",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/b794b173cb85dab42edb283f0f3edcda/master.m3u8?md5=UEDhAcQAd-E4FKwD7nNHTA&expires=1792167237",
+                "videoSource": "https://ravok.buzz/cdn/hls/b794b173cb85dab42edb283f0f3edcda/master.m3u8?md5=UEDhAcQAd-E4FKwD7nNHTA&expires=1792167237",
+                "link": "https://ravok.buzz/cdn/hls/b794b173cb85dab42edb283f0f3edcda/master.m3u8?md5=UEDhAcQAd-E4FKwD7nNHTA&expires=1792167237",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/o-QK6tDdmyYJHqppFlW_uYDfKDeyn_V9iuAyiktcIGpyg0qKg74caugkOdWd0l2D34kNMLz5SWrnL1DAFi49OQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "D8gt7tS8Q"
+        }
+      },
+      "fetched_at": "2026-10-16T14:14:07Z"
+    },
+    {
+      "id": "episode/darling-in-the-franxx-1x15",
+      "episode_id": "episode/darling-in-the-franxx-1x15",
+      "title": "Alone and Lonesome",
+      "episode_name": "Alone and Lonesome",
+      "episode_number": 15,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/14844/15.webp",
+      "abyssid": "10639",
+      "abyssId": "10639",
+      "playxid": "490640b43519c77281cb2f8471e61a71",
+      "playXID": "490640b43519c77281cb2f8471e61a71",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "10639",
+        "playXID": "490640b43519c77281cb2f8471e61a71",
+        "streamId": "10639",
+        "dubPlayerSrc": "/dub-player/t/10639/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=490640b43519c77281cb2f8471e61a71&abyssId=10639"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "10639",
+        "playXID": "490640b43519c77281cb2f8471e61a71",
+        "streamId": "10639",
+        "dubPlayerSrc": "/dub-player/t/10639/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=490640b43519c77281cb2f8471e61a71&abyssId=10639"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/490640b43519c77281cb2f8471e61a71",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/490640b43519c77281cb2f8471e61a71"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "10639",
+        "abyssId": "10639",
+        "playXID": "490640b43519c77281cb2f8471e61a71",
+        "title": "Darling in the FranXX",
+        "season": 1,
+        "episode": 15,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "wwgzg0TjO"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "zeu813Joj"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "2LvjvHhdT"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "q2mIHlZop"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "Ot3IsxDeX"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/53f61d0adc4f78f685a2e6e97881272d/master.m3u8?md5=9CauKkldgrGNokUYn3kuAA&expires=1792167237",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/53f61d0adc4f78f685a2e6e97881272d/master.m3u8?md5=9CauKkldgrGNokUYn3kuAA&expires=1792167237",
+            "videoSource": "https://ravok.buzz/cdn/hls/53f61d0adc4f78f685a2e6e97881272d/master.m3u8?md5=9CauKkldgrGNokUYn3kuAA&expires=1792167237",
+            "videoImage": "https://as-cdn27.top/p/xL7VhvLLcHwUsGY4_oduQzKAKAbXscrCIIwxWH1kWInqaqVaRXDLN3c_2qC7_lD-G6ZEj4UBbdEoGPDRJSYTxQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "490640b43519c77281cb2f8471e61a71",
+                "streamUrl": "https://ravok.buzz/cdn/hls/53f61d0adc4f78f685a2e6e97881272d/master.m3u8?md5=9CauKkldgrGNokUYn3kuAA&expires=1792167237",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/53f61d0adc4f78f685a2e6e97881272d/master.m3u8?md5=9CauKkldgrGNokUYn3kuAA&expires=1792167237",
+                "videoSource": "https://ravok.buzz/cdn/hls/53f61d0adc4f78f685a2e6e97881272d/master.m3u8?md5=9CauKkldgrGNokUYn3kuAA&expires=1792167237",
+                "link": "https://ravok.buzz/cdn/hls/53f61d0adc4f78f685a2e6e97881272d/master.m3u8?md5=9CauKkldgrGNokUYn3kuAA&expires=1792167237",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/xL7VhvLLcHwUsGY4_oduQzKAKAbXscrCIIwxWH1kWInqaqVaRXDLN3c_2qC7_lD-G6ZEj4UBbdEoGPDRJSYTxQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "wwgzg0TjO"
+        }
+      },
+      "fetched_at": "2026-10-16T14:14:07Z"
+    },
+    {
+      "id": "episode/darling-in-the-franxx-1x17",
+      "episode_id": "episode/darling-in-the-franxx-1x17",
+      "title": "Alone and Lonesome",
+      "episode_name": "Alone and Lonesome",
+      "episode_number": 17,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/14844/17.webp",
+      "abyssid": "10641",
+      "abyssId": "10641",
+      "playxid": "42d6c7d61481d1c21bd1635f59edae05",
+      "playXID": "42d6c7d61481d1c21bd1635f59edae05",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "10641",
+        "playXID": "42d6c7d61481d1c21bd1635f59edae05",
+        "streamId": "10641",
+        "dubPlayerSrc": "/dub-player/t/10641/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=42d6c7d61481d1c21bd1635f59edae05&abyssId=10641"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "10641",
+        "playXID": "42d6c7d61481d1c21bd1635f59edae05",
+        "streamId": "10641",
+        "dubPlayerSrc": "/dub-player/t/10641/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=42d6c7d61481d1c21bd1635f59edae05&abyssId=10641"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/42d6c7d61481d1c21bd1635f59edae05",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/42d6c7d61481d1c21bd1635f59edae05"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "10641",
+        "abyssId": "10641",
+        "playXID": "42d6c7d61481d1c21bd1635f59edae05",
+        "title": "Darling in the FranXX",
+        "season": 1,
+        "episode": 17,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "Pn9chAJ-G"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "cbqsBD12-"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "Byto6z1RG"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "vWbqFiSX4"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "i6r3Tia6C"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/a4012d27e6143c2bbefaf856863d1c85/master.m3u8?md5=DTD65siw1rMfE1ep0nNucw&expires=1792167238",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/a4012d27e6143c2bbefaf856863d1c85/master.m3u8?md5=DTD65siw1rMfE1ep0nNucw&expires=1792167238",
+            "videoSource": "https://ravok.buzz/cdn/hls/a4012d27e6143c2bbefaf856863d1c85/master.m3u8?md5=DTD65siw1rMfE1ep0nNucw&expires=1792167238",
+            "videoImage": "https://as-cdn27.top/p/UjQLKD8AAhrUuQphabJJMqDFLaJRDUqPT_BD2qOYQ4ZPkFhqRk2DBrb5-yqzwgA1BjjEzxjtINWaeH5E8Ll-QA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "42d6c7d61481d1c21bd1635f59edae05",
+                "streamUrl": "https://ravok.buzz/cdn/hls/a4012d27e6143c2bbefaf856863d1c85/master.m3u8?md5=DTD65siw1rMfE1ep0nNucw&expires=1792167238",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/a4012d27e6143c2bbefaf856863d1c85/master.m3u8?md5=DTD65siw1rMfE1ep0nNucw&expires=1792167238",
+                "videoSource": "https://ravok.buzz/cdn/hls/a4012d27e6143c2bbefaf856863d1c85/master.m3u8?md5=DTD65siw1rMfE1ep0nNucw&expires=1792167238",
+                "link": "https://ravok.buzz/cdn/hls/a4012d27e6143c2bbefaf856863d1c85/master.m3u8?md5=DTD65siw1rMfE1ep0nNucw&expires=1792167238",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/UjQLKD8AAhrUuQphabJJMqDFLaJRDUqPT_BD2qOYQ4ZPkFhqRk2DBrb5-yqzwgA1BjjEzxjtINWaeH5E8Ll-QA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "Pn9chAJ-G"
+        }
+      },
+      "fetched_at": "2026-10-16T14:14:08Z"
+    },
+    {
+      "id": "episode/darling-in-the-franxx-1x18",
+      "episode_id": "episode/darling-in-the-franxx-1x18",
+      "title": "Alone and Lonesome",
+      "episode_name": "Alone and Lonesome",
+      "episode_number": 18,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/14844/18.webp",
+      "abyssid": "10642",
+      "abyssId": "10642",
+      "playxid": "5607fe8879e4fd269e88387e8cb30b7e",
+      "playXID": "5607fe8879e4fd269e88387e8cb30b7e",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "10642",
+        "playXID": "5607fe8879e4fd269e88387e8cb30b7e",
+        "streamId": "10642",
+        "dubPlayerSrc": "/dub-player/t/10642/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=5607fe8879e4fd269e88387e8cb30b7e&abyssId=10642"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "10642",
+        "playXID": "5607fe8879e4fd269e88387e8cb30b7e",
+        "streamId": "10642",
+        "dubPlayerSrc": "/dub-player/t/10642/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=5607fe8879e4fd269e88387e8cb30b7e&abyssId=10642"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/5607fe8879e4fd269e88387e8cb30b7e",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/5607fe8879e4fd269e88387e8cb30b7e"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "10642",
+        "abyssId": "10642",
+        "playXID": "5607fe8879e4fd269e88387e8cb30b7e",
+        "title": "Darling in the FranXX",
+        "season": 1,
+        "episode": 18,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "GCDIuWLzl"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "YFYp417_p"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "J3fwT1syT"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "TL1-9aXABO"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "0MPHeybF3"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/aa63e5b5b03b60469666b54ef65b36e4/master.m3u8?md5=ZFrwZaJJIiMED_R8yIrBGA&expires=1792167238",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/aa63e5b5b03b60469666b54ef65b36e4/master.m3u8?md5=ZFrwZaJJIiMED_R8yIrBGA&expires=1792167238",
+            "videoSource": "https://ravok.buzz/cdn/hls/aa63e5b5b03b60469666b54ef65b36e4/master.m3u8?md5=ZFrwZaJJIiMED_R8yIrBGA&expires=1792167238",
+            "videoImage": "https://as-cdn27.top/p/nlXAGuPwGXrS3g8JWgHZGLBekU-WS0uoiObJirs9l4b_uPLS0iprmdalvf6FmNGOgCcloJdG8smtTxM5levV-Q.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "5607fe8879e4fd269e88387e8cb30b7e",
+                "streamUrl": "https://ravok.buzz/cdn/hls/aa63e5b5b03b60469666b54ef65b36e4/master.m3u8?md5=ZFrwZaJJIiMED_R8yIrBGA&expires=1792167238",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/aa63e5b5b03b60469666b54ef65b36e4/master.m3u8?md5=ZFrwZaJJIiMED_R8yIrBGA&expires=1792167238",
+                "videoSource": "https://ravok.buzz/cdn/hls/aa63e5b5b03b60469666b54ef65b36e4/master.m3u8?md5=ZFrwZaJJIiMED_R8yIrBGA&expires=1792167238",
+                "link": "https://ravok.buzz/cdn/hls/aa63e5b5b03b60469666b54ef65b36e4/master.m3u8?md5=ZFrwZaJJIiMED_R8yIrBGA&expires=1792167238",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/nlXAGuPwGXrS3g8JWgHZGLBekU-WS0uoiObJirs9l4b_uPLS0iprmdalvf6FmNGOgCcloJdG8smtTxM5levV-Q.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "GCDIuWLzl"
+        }
+      },
+      "fetched_at": "2026-10-16T14:14:08Z"
+    },
+    {
+      "id": "episode/darling-in-the-franxx-1x19",
+      "episode_id": "episode/darling-in-the-franxx-1x19",
+      "title": "Alone and Lonesome",
+      "episode_name": "Alone and Lonesome",
+      "episode_number": 19,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/14844/19.webp",
+      "abyssid": "10643",
+      "abyssId": "10643",
+      "playxid": "db1915052d15f7815c8b88e879465a1e",
+      "playXID": "db1915052d15f7815c8b88e879465a1e",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "10643",
+        "playXID": "db1915052d15f7815c8b88e879465a1e",
+        "streamId": "10643",
+        "dubPlayerSrc": "/dub-player/t/10643/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=db1915052d15f7815c8b88e879465a1e&abyssId=10643"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "10643",
+        "playXID": "db1915052d15f7815c8b88e879465a1e",
+        "streamId": "10643",
+        "dubPlayerSrc": "/dub-player/t/10643/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=db1915052d15f7815c8b88e879465a1e&abyssId=10643"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/db1915052d15f7815c8b88e879465a1e",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/db1915052d15f7815c8b88e879465a1e"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "10643",
+        "abyssId": "10643",
+        "playXID": "db1915052d15f7815c8b88e879465a1e",
+        "title": "Darling in the FranXX",
+        "season": 1,
+        "episode": 19,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "MAQfbngM1"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "LT2VqIDqz"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "TN6kNyI2h"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "ZeEvF3Sfm"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "A56a2TaYy"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/cea7cb5e50af3ce48f63488ef4636a35/master.m3u8?md5=NGdsN7Rm7Hn5sGFzbY7zIw&expires=1792167239",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/cea7cb5e50af3ce48f63488ef4636a35/master.m3u8?md5=NGdsN7Rm7Hn5sGFzbY7zIw&expires=1792167239",
+            "videoSource": "https://ravok.buzz/cdn/hls/cea7cb5e50af3ce48f63488ef4636a35/master.m3u8?md5=NGdsN7Rm7Hn5sGFzbY7zIw&expires=1792167239",
+            "videoImage": "https://as-cdn31.top/p/Tc0rwF8HWWLFczTKob-EIqn4RImraI0fsR3gxQ9wyHoww4gR2H6JCygDXdT1gVVyC099YB1lxZXOXVjmtYr7zQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "db1915052d15f7815c8b88e879465a1e",
+                "streamUrl": "https://ravok.buzz/cdn/hls/cea7cb5e50af3ce48f63488ef4636a35/master.m3u8?md5=NGdsN7Rm7Hn5sGFzbY7zIw&expires=1792167239",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/cea7cb5e50af3ce48f63488ef4636a35/master.m3u8?md5=NGdsN7Rm7Hn5sGFzbY7zIw&expires=1792167239",
+                "videoSource": "https://ravok.buzz/cdn/hls/cea7cb5e50af3ce48f63488ef4636a35/master.m3u8?md5=NGdsN7Rm7Hn5sGFzbY7zIw&expires=1792167239",
+                "link": "https://ravok.buzz/cdn/hls/cea7cb5e50af3ce48f63488ef4636a35/master.m3u8?md5=NGdsN7Rm7Hn5sGFzbY7zIw&expires=1792167239",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/Tc0rwF8HWWLFczTKob-EIqn4RImraI0fsR3gxQ9wyHoww4gR2H6JCygDXdT1gVVyC099YB1lxZXOXVjmtYr7zQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "MAQfbngM1"
+        }
+      },
+      "fetched_at": "2026-10-16T14:14:09Z"
+    },
+    {
+      "id": "episode/darling-in-the-franxx-1x20",
+      "episode_id": "episode/darling-in-the-franxx-1x20",
+      "title": "Alone and Lonesome",
+      "episode_name": "Alone and Lonesome",
+      "episode_number": 20,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/14844/20.webp",
+      "abyssid": "10644",
+      "abyssId": "10644",
+      "playxid": "253f7b5d921338af34da817c00f42753",
+      "playXID": "253f7b5d921338af34da817c00f42753",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "10644",
+        "playXID": "253f7b5d921338af34da817c00f42753",
+        "streamId": "10644",
+        "dubPlayerSrc": "/dub-player/t/10644/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=253f7b5d921338af34da817c00f42753&abyssId=10644"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "10644",
+        "playXID": "253f7b5d921338af34da817c00f42753",
+        "streamId": "10644",
+        "dubPlayerSrc": "/dub-player/t/10644/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=253f7b5d921338af34da817c00f42753&abyssId=10644"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/253f7b5d921338af34da817c00f42753",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/253f7b5d921338af34da817c00f42753"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "10644",
+        "abyssId": "10644",
+        "playXID": "253f7b5d921338af34da817c00f42753",
+        "title": "Darling in the FranXX",
+        "season": 1,
+        "episode": 20,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "gWMOtpMo2"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "OKgR7qvET"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "fhSGwGSRQ"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "27P7ee1sI"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "dgCpk09aio"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/d8d4f1a4ad5673bd4b62b77782aed0a7/master.m3u8?md5=d2q5lImQgUDwtt5B4i7ZIA&expires=1792167240",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/d8d4f1a4ad5673bd4b62b77782aed0a7/master.m3u8?md5=d2q5lImQgUDwtt5B4i7ZIA&expires=1792167240",
+            "videoSource": "https://ravok.buzz/cdn/hls/d8d4f1a4ad5673bd4b62b77782aed0a7/master.m3u8?md5=d2q5lImQgUDwtt5B4i7ZIA&expires=1792167240",
+            "videoImage": "https://as-cdn28.top/p/1kkeDP1qw9zdyUmBIhHPWnQ4_3MzHMyRP3jB2nRhBJ-m_1yMM31wGSBDs4MG0kLfKS0qi7R_j-tLxURniJWgmw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "253f7b5d921338af34da817c00f42753",
+                "streamUrl": "https://ravok.buzz/cdn/hls/d8d4f1a4ad5673bd4b62b77782aed0a7/master.m3u8?md5=d2q5lImQgUDwtt5B4i7ZIA&expires=1792167240",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/d8d4f1a4ad5673bd4b62b77782aed0a7/master.m3u8?md5=d2q5lImQgUDwtt5B4i7ZIA&expires=1792167240",
+                "videoSource": "https://ravok.buzz/cdn/hls/d8d4f1a4ad5673bd4b62b77782aed0a7/master.m3u8?md5=d2q5lImQgUDwtt5B4i7ZIA&expires=1792167240",
+                "link": "https://ravok.buzz/cdn/hls/d8d4f1a4ad5673bd4b62b77782aed0a7/master.m3u8?md5=d2q5lImQgUDwtt5B4i7ZIA&expires=1792167240",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/1kkeDP1qw9zdyUmBIhHPWnQ4_3MzHMyRP3jB2nRhBJ-m_1yMM31wGSBDs4MG0kLfKS0qi7R_j-tLxURniJWgmw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "gWMOtpMo2"
+        }
+      },
+      "fetched_at": "2026-10-16T14:14:10Z"
+    },
+    {
+      "id": "episode/darling-in-the-franxx-1x21",
+      "episode_id": "episode/darling-in-the-franxx-1x21",
+      "title": "Alone and Lonesome",
+      "episode_name": "Alone and Lonesome",
+      "episode_number": 21,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/14844/21.webp",
+      "abyssid": "10645",
+      "abyssId": "10645",
+      "playxid": "3fb451ca2e89b3a13095b059d8705b15",
+      "playXID": "3fb451ca2e89b3a13095b059d8705b15",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "10645",
+        "playXID": "3fb451ca2e89b3a13095b059d8705b15",
+        "streamId": "10645",
+        "dubPlayerSrc": "/dub-player/t/10645/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=3fb451ca2e89b3a13095b059d8705b15&abyssId=10645"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "10645",
+        "playXID": "3fb451ca2e89b3a13095b059d8705b15",
+        "streamId": "10645",
+        "dubPlayerSrc": "/dub-player/t/10645/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=3fb451ca2e89b3a13095b059d8705b15&abyssId=10645"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/3fb451ca2e89b3a13095b059d8705b15",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/3fb451ca2e89b3a13095b059d8705b15"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "10645",
+        "abyssId": "10645",
+        "playXID": "3fb451ca2e89b3a13095b059d8705b15",
+        "title": "Darling in the FranXX",
+        "season": 1,
+        "episode": 21,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "wdhBwAN60"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "u3gwRQds0"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "nF50MjfQD"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "6hEQ5f6rI"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "WSK0E8i8_"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/0f50de35243d4c2bbfd3fdf8479e80e4/master.m3u8?md5=iNs9WK2th7qVaW82aVAGTw&expires=1792167240",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/0f50de35243d4c2bbfd3fdf8479e80e4/master.m3u8?md5=iNs9WK2th7qVaW82aVAGTw&expires=1792167240",
+            "videoSource": "https://ravok.buzz/cdn/hls/0f50de35243d4c2bbfd3fdf8479e80e4/master.m3u8?md5=iNs9WK2th7qVaW82aVAGTw&expires=1792167240",
+            "videoImage": "https://as-cdn27.top/p/2X_9X3vYYheoJELbho6MAZ3PoSulLR6zXeT1s5CwmDZFS-opNJGiPn213kBTdP7Vbbh2oVs5JHKDS03nEpgyUQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "3fb451ca2e89b3a13095b059d8705b15",
+                "streamUrl": "https://ravok.buzz/cdn/hls/0f50de35243d4c2bbfd3fdf8479e80e4/master.m3u8?md5=iNs9WK2th7qVaW82aVAGTw&expires=1792167240",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/0f50de35243d4c2bbfd3fdf8479e80e4/master.m3u8?md5=iNs9WK2th7qVaW82aVAGTw&expires=1792167240",
+                "videoSource": "https://ravok.buzz/cdn/hls/0f50de35243d4c2bbfd3fdf8479e80e4/master.m3u8?md5=iNs9WK2th7qVaW82aVAGTw&expires=1792167240",
+                "link": "https://ravok.buzz/cdn/hls/0f50de35243d4c2bbfd3fdf8479e80e4/master.m3u8?md5=iNs9WK2th7qVaW82aVAGTw&expires=1792167240",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/2X_9X3vYYheoJELbho6MAZ3PoSulLR6zXeT1s5CwmDZFS-opNJGiPn213kBTdP7Vbbh2oVs5JHKDS03nEpgyUQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "wdhBwAN60"
+        }
+      },
+      "fetched_at": "2026-10-16T14:14:10Z"
+    },
+    {
+      "id": "episode/darling-in-the-franxx-1x22",
+      "episode_id": "episode/darling-in-the-franxx-1x22",
+      "title": "Alone and Lonesome",
+      "episode_name": "Alone and Lonesome",
+      "episode_number": 22,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/14844/22.webp",
+      "abyssid": "10646",
+      "abyssId": "10646",
+      "playxid": "df12ecd077efc8c23881028604dbb8cc",
+      "playXID": "df12ecd077efc8c23881028604dbb8cc",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "10646",
+        "playXID": "df12ecd077efc8c23881028604dbb8cc",
+        "streamId": "10646",
+        "dubPlayerSrc": "/dub-player/t/10646/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=df12ecd077efc8c23881028604dbb8cc&abyssId=10646"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "10646",
+        "playXID": "df12ecd077efc8c23881028604dbb8cc",
+        "streamId": "10646",
+        "dubPlayerSrc": "/dub-player/t/10646/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=df12ecd077efc8c23881028604dbb8cc&abyssId=10646"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/df12ecd077efc8c23881028604dbb8cc",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/df12ecd077efc8c23881028604dbb8cc"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "10646",
+        "abyssId": "10646",
+        "playXID": "df12ecd077efc8c23881028604dbb8cc",
+        "title": "Darling in the FranXX",
+        "season": 1,
+        "episode": 22,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "rpYZALsIV"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "c7FE_YGDi"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "fq58U--Fr"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "Zyx2UT9rc"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "mTtyFbKFB"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/e057bf252f1a1abc8101cf693fa4bca1/master.m3u8?md5=_7EutevIdKgGJPGu6NLErQ&expires=1792167241",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/e057bf252f1a1abc8101cf693fa4bca1/master.m3u8?md5=_7EutevIdKgGJPGu6NLErQ&expires=1792167241",
+            "videoSource": "https://ravok.buzz/cdn/hls/e057bf252f1a1abc8101cf693fa4bca1/master.m3u8?md5=_7EutevIdKgGJPGu6NLErQ&expires=1792167241",
+            "videoImage": "https://as-cdn27.top/p/2ZjWPw3qdulhUuE07bA-jNFTknCF_hKeFW-dGdkW2W1vh6yKYsiJ-13hgRZvexlO79dZuqBmbe1-WwqOaGcwwA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "df12ecd077efc8c23881028604dbb8cc",
+                "streamUrl": "https://ravok.buzz/cdn/hls/e057bf252f1a1abc8101cf693fa4bca1/master.m3u8?md5=_7EutevIdKgGJPGu6NLErQ&expires=1792167241",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/e057bf252f1a1abc8101cf693fa4bca1/master.m3u8?md5=_7EutevIdKgGJPGu6NLErQ&expires=1792167241",
+                "videoSource": "https://ravok.buzz/cdn/hls/e057bf252f1a1abc8101cf693fa4bca1/master.m3u8?md5=_7EutevIdKgGJPGu6NLErQ&expires=1792167241",
+                "link": "https://ravok.buzz/cdn/hls/e057bf252f1a1abc8101cf693fa4bca1/master.m3u8?md5=_7EutevIdKgGJPGu6NLErQ&expires=1792167241",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/2ZjWPw3qdulhUuE07bA-jNFTknCF_hKeFW-dGdkW2W1vh6yKYsiJ-13hgRZvexlO79dZuqBmbe1-WwqOaGcwwA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "rpYZALsIV"
+        }
+      },
+      "fetched_at": "2026-10-16T14:14:10Z"
+    },
+    {
+      "id": "episode/darling-in-the-franxx-1x23",
+      "episode_id": "episode/darling-in-the-franxx-1x23",
+      "title": "Alone and Lonesome",
+      "episode_name": "Alone and Lonesome",
+      "episode_number": 23,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/14844/23.webp",
+      "abyssid": "10647",
+      "abyssId": "10647",
+      "playxid": "471c75ee6643a10934502bdafee198fb",
+      "playXID": "471c75ee6643a10934502bdafee198fb",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "10647",
+        "playXID": "471c75ee6643a10934502bdafee198fb",
+        "streamId": "10647",
+        "dubPlayerSrc": "/dub-player/t/10647/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=471c75ee6643a10934502bdafee198fb&abyssId=10647"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "10647",
+        "playXID": "471c75ee6643a10934502bdafee198fb",
+        "streamId": "10647",
+        "dubPlayerSrc": "/dub-player/t/10647/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=471c75ee6643a10934502bdafee198fb&abyssId=10647"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/471c75ee6643a10934502bdafee198fb",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/471c75ee6643a10934502bdafee198fb"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "10647",
+        "abyssId": "10647",
+        "playXID": "471c75ee6643a10934502bdafee198fb",
+        "title": "Darling in the FranXX",
+        "season": 1,
+        "episode": 23,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "Vh-lhY_nE"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "Pjqo2Yp9P"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "d-xLNW8YL"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "HemPJvemn"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "CdCFaeflw"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/4c63443b944136910746bf5f8f12c621/master.m3u8?md5=RfBw3TVLL8VYVHAKQ0ZDQg&expires=1792167241",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/4c63443b944136910746bf5f8f12c621/master.m3u8?md5=RfBw3TVLL8VYVHAKQ0ZDQg&expires=1792167241",
+            "videoSource": "https://ravok.buzz/cdn/hls/4c63443b944136910746bf5f8f12c621/master.m3u8?md5=RfBw3TVLL8VYVHAKQ0ZDQg&expires=1792167241",
+            "videoImage": "https://as-cdn31.top/p/SVEEY9paldytzKg-KmOmjabDwKUg97A6xYSWDBUMbpm6FluSfAiYXcWvpJ2KxNtdJxlHjydQjNolmz80p9Iz8w.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "471c75ee6643a10934502bdafee198fb",
+                "streamUrl": "https://ravok.buzz/cdn/hls/4c63443b944136910746bf5f8f12c621/master.m3u8?md5=RfBw3TVLL8VYVHAKQ0ZDQg&expires=1792167241",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/4c63443b944136910746bf5f8f12c621/master.m3u8?md5=RfBw3TVLL8VYVHAKQ0ZDQg&expires=1792167241",
+                "videoSource": "https://ravok.buzz/cdn/hls/4c63443b944136910746bf5f8f12c621/master.m3u8?md5=RfBw3TVLL8VYVHAKQ0ZDQg&expires=1792167241",
+                "link": "https://ravok.buzz/cdn/hls/4c63443b944136910746bf5f8f12c621/master.m3u8?md5=RfBw3TVLL8VYVHAKQ0ZDQg&expires=1792167241",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/SVEEY9paldytzKg-KmOmjabDwKUg97A6xYSWDBUMbpm6FluSfAiYXcWvpJ2KxNtdJxlHjydQjNolmz80p9Iz8w.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "Vh-lhY_nE"
+        }
+      },
+      "fetched_at": "2026-10-16T14:14:11Z"
+    },
+    {
+      "id": "episode/darling-in-the-franxx-1x24",
+      "episode_id": "episode/darling-in-the-franxx-1x24",
+      "title": "Alone and Lonesome",
+      "episode_name": "Alone and Lonesome",
+      "episode_number": 24,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/14844/24.webp",
+      "abyssid": "10648",
+      "abyssId": "10648",
+      "playxid": "8c00dee24c9878fea090ed070b44f1ab",
+      "playXID": "8c00dee24c9878fea090ed070b44f1ab",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "10648",
+        "playXID": "8c00dee24c9878fea090ed070b44f1ab",
+        "streamId": "10648",
+        "dubPlayerSrc": "/dub-player/t/10648/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8c00dee24c9878fea090ed070b44f1ab&abyssId=10648"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "10648",
+        "playXID": "8c00dee24c9878fea090ed070b44f1ab",
+        "streamId": "10648",
+        "dubPlayerSrc": "/dub-player/t/10648/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8c00dee24c9878fea090ed070b44f1ab&abyssId=10648"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/8c00dee24c9878fea090ed070b44f1ab",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/8c00dee24c9878fea090ed070b44f1ab"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "10648",
+        "abyssId": "10648",
+        "playXID": "8c00dee24c9878fea090ed070b44f1ab",
+        "title": "Darling in the FranXX",
+        "season": 1,
+        "episode": 24,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "CJAe_ha9o"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "TF1I0bv-D"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "FS4S-W5Og"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "mhpiUU76V"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "q2m3VBYJ2"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/2b8674e2ba41ae79e3b77a2103bd1a07/master.m3u8?md5=L2luvVQJndrkXeku23QwzA&expires=1792167241",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/2b8674e2ba41ae79e3b77a2103bd1a07/master.m3u8?md5=L2luvVQJndrkXeku23QwzA&expires=1792167241",
+            "videoSource": "https://ravok.buzz/cdn/hls/2b8674e2ba41ae79e3b77a2103bd1a07/master.m3u8?md5=L2luvVQJndrkXeku23QwzA&expires=1792167241",
+            "videoImage": "https://as-cdn31.top/p/MG6dGYvT_sFFdstypO6nT1Tpas3btbCU5e1lVA7ew-Lzlg4BIOJc7Qd838vjrWlntIysdgVHJupOX3ogYmwJfQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "8c00dee24c9878fea090ed070b44f1ab",
+                "streamUrl": "https://ravok.buzz/cdn/hls/2b8674e2ba41ae79e3b77a2103bd1a07/master.m3u8?md5=L2luvVQJndrkXeku23QwzA&expires=1792167241",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/2b8674e2ba41ae79e3b77a2103bd1a07/master.m3u8?md5=L2luvVQJndrkXeku23QwzA&expires=1792167241",
+                "videoSource": "https://ravok.buzz/cdn/hls/2b8674e2ba41ae79e3b77a2103bd1a07/master.m3u8?md5=L2luvVQJndrkXeku23QwzA&expires=1792167241",
+                "link": "https://ravok.buzz/cdn/hls/2b8674e2ba41ae79e3b77a2103bd1a07/master.m3u8?md5=L2luvVQJndrkXeku23QwzA&expires=1792167241",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/MG6dGYvT_sFFdstypO6nT1Tpas3btbCU5e1lVA7ew-Lzlg4BIOJc7Qd838vjrWlntIysdgVHJupOX3ogYmwJfQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "CJAe_ha9o"
+        }
+      },
+      "fetched_at": "2026-10-16T14:14:11Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T14:13:58Z",
+  "updated_at": "2026-10-16T14:14:11Z"
+}

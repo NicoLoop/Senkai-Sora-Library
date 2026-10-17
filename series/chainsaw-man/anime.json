@@ -1,0 +1,1353 @@
+{
+  "id": "series/chainsaw-man",
+  "series_name": "Chainsaw Man",
+  "title": "Chainsaw Man",
+  "banner": "https://image.tmdb.org/t/p/w1280/5DUMPBSnHOZsbBv81GFXZXvDpo6.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/npdB6eFzizki0WaZ1OvKcJrWe97.jpg",
+  "genra": [
+    "Action",
+    "Fantasy",
+    "Gore",
+    "Shounen"
+  ],
+  "genres": [
+    "Action",
+    "Fantasy",
+    "Gore",
+    "Shounen"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Japanese"
+  ],
+  "synopsis": "Denji is robbed of a normal teenage life, left with nothing but his deadbeat father's overwhelming debt. His only companion is his pet, the chainsaw devil Pochita, with whom he slays devils for money that inevitably ends up in the yakuza's pockets. All Denji can do is dream of a good, simple life: one with delicious food and a beautiful girlfriend by his side. But an act of greedy betrayal by the yakuza leads to Denji's brutal, untimely death, crushing all hope of him ever achieving happiness. Remarkably, an old contract allows Pochita to merge with the deceased Denji and bestow devil powers on him, changing him into a hybrid able to transform his body parts into chainsaws. Because Denji's new abilities pose a significant risk to society, the Public Safety Bureau's elite devil hunter Makima takes him in, letting him live as long as he obeys her command. Guided by the promise of a content life alongside an attractive woman, Denji devotes everything and fights with all his might to make his naive dreams a reality.",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Dog & Chainsaw",
+          "id": "episode/chainsaw-man-1x1",
+          "image": "https://img.watchanimeworld.one/images/14748/01.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "Arrival in Tokyo",
+          "id": "episode/chainsaw-man-1x2",
+          "image": "https://img.watchanimeworld.one/images/14749/02.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "Meowy's Whereabouts",
+          "id": "episode/chainsaw-man-1x3",
+          "image": "https://img.watchanimeworld.one/images/14749/03.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "Rescue",
+          "id": "episode/chainsaw-man-1x4",
+          "image": "https://img.watchanimeworld.one/images/14749/04.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "Gun Devil",
+          "id": "episode/chainsaw-man-1x5",
+          "image": "https://img.watchanimeworld.one/images/14749/05.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "Kill Denji",
+          "id": "episode/chainsaw-man-1x6",
+          "image": "https://img.watchanimeworld.one/images/14749/06.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "The Taste of a Kiss",
+          "id": "episode/chainsaw-man-1x7",
+          "image": "https://img.watchanimeworld.one/images/14749/07.webp",
+          "season": 1
+        },
+        {
+          "episode": 8,
+          "title": "Gunfire",
+          "id": "episode/chainsaw-man-1x8",
+          "image": "https://img.watchanimeworld.one/images/14749/08.webp",
+          "season": 1
+        },
+        {
+          "episode": 9,
+          "title": "From Kyoto",
+          "id": "episode/chainsaw-man-1x9",
+          "image": "https://img.watchanimeworld.one/images/14749/09.webp",
+          "season": 1
+        },
+        {
+          "episode": 10,
+          "title": "Bruised & Battered",
+          "id": "episode/chainsaw-man-1x10",
+          "image": "https://img.watchanimeworld.one/images/14749/10.webp",
+          "season": 1
+        },
+        {
+          "episode": 11,
+          "title": "Mission Start",
+          "id": "episode/chainsaw-man-1x11",
+          "image": "https://img.watchanimeworld.one/images/14749/11.webp",
+          "season": 1
+        },
+        {
+          "episode": 12,
+          "title": "Katana vs. Chainsaw",
+          "id": "episode/chainsaw-man-1x12",
+          "image": "https://img.watchanimeworld.one/images/14749/12.webp",
+          "season": 1
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/chainsaw-man-1x1",
+      "episode_id": "episode/chainsaw-man-1x1",
+      "title": "Dog & Chainsaw",
+      "episode_name": "Dog & Chainsaw",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/14748/01.webp",
+      "abyssid": "10507",
+      "abyssId": "10507",
+      "playxid": "0ebcc77dc72360d0eb8e9504c78d38bd",
+      "playXID": "0ebcc77dc72360d0eb8e9504c78d38bd",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "10507",
+        "playXID": "0ebcc77dc72360d0eb8e9504c78d38bd",
+        "streamId": "10507",
+        "dubPlayerSrc": "/dub-player/t/10507/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=0ebcc77dc72360d0eb8e9504c78d38bd&abyssId=10507"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "10507",
+        "playXID": "0ebcc77dc72360d0eb8e9504c78d38bd",
+        "streamId": "10507",
+        "dubPlayerSrc": "/dub-player/t/10507/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=0ebcc77dc72360d0eb8e9504c78d38bd&abyssId=10507"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/0ebcc77dc72360d0eb8e9504c78d38bd",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/0ebcc77dc72360d0eb8e9504c78d38bd"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "10507",
+        "abyssId": "10507",
+        "playXID": "0ebcc77dc72360d0eb8e9504c78d38bd",
+        "title": "Chainsaw Man",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "e-HxqgLPR"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "k3HSUiV_V"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "wLSbrVaRN"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/2734ac63b839abfd373b3fa4aa9771f5/master.m3u8?md5=CsYqQ9Hm2ZqzOtwEOPXuYQ&expires=1792167246",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/2734ac63b839abfd373b3fa4aa9771f5/master.m3u8?md5=CsYqQ9Hm2ZqzOtwEOPXuYQ&expires=1792167246",
+            "videoSource": "https://ravok.buzz/cdn/hls/2734ac63b839abfd373b3fa4aa9771f5/master.m3u8?md5=CsYqQ9Hm2ZqzOtwEOPXuYQ&expires=1792167246",
+            "videoImage": "https://as-cdn27.top/p/zHt5Ahq7SokkNwdxtDESoiPGHiMM6fwtu8Gy1zTzE99peY8U2xcRp0JkKcJKxoMUDCz_Q9dwSotebzBwJ5F39g.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "0ebcc77dc72360d0eb8e9504c78d38bd",
+                "streamUrl": "https://ravok.buzz/cdn/hls/2734ac63b839abfd373b3fa4aa9771f5/master.m3u8?md5=CsYqQ9Hm2ZqzOtwEOPXuYQ&expires=1792167246",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/2734ac63b839abfd373b3fa4aa9771f5/master.m3u8?md5=CsYqQ9Hm2ZqzOtwEOPXuYQ&expires=1792167246",
+                "videoSource": "https://ravok.buzz/cdn/hls/2734ac63b839abfd373b3fa4aa9771f5/master.m3u8?md5=CsYqQ9Hm2ZqzOtwEOPXuYQ&expires=1792167246",
+                "link": "https://ravok.buzz/cdn/hls/2734ac63b839abfd373b3fa4aa9771f5/master.m3u8?md5=CsYqQ9Hm2ZqzOtwEOPXuYQ&expires=1792167246",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/zHt5Ahq7SokkNwdxtDESoiPGHiMM6fwtu8Gy1zTzE99peY8U2xcRp0JkKcJKxoMUDCz_Q9dwSotebzBwJ5F39g.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "e-HxqgLPR"
+        }
+      },
+      "fetched_at": "2026-10-16T14:14:16Z"
+    },
+    {
+      "id": "episode/chainsaw-man-1x2",
+      "episode_id": "episode/chainsaw-man-1x2",
+      "title": "Dog & Chainsaw",
+      "episode_name": "Dog & Chainsaw",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/14749/02.webp",
+      "abyssid": "10508",
+      "abyssId": "10508",
+      "playxid": "d88518acbcc3d08d1f18da62f9bb26ec",
+      "playXID": "d88518acbcc3d08d1f18da62f9bb26ec",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "10508",
+        "playXID": "d88518acbcc3d08d1f18da62f9bb26ec",
+        "streamId": "10508",
+        "dubPlayerSrc": "/dub-player/t/10508/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d88518acbcc3d08d1f18da62f9bb26ec&abyssId=10508"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "10508",
+        "playXID": "d88518acbcc3d08d1f18da62f9bb26ec",
+        "streamId": "10508",
+        "dubPlayerSrc": "/dub-player/t/10508/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d88518acbcc3d08d1f18da62f9bb26ec&abyssId=10508"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/d88518acbcc3d08d1f18da62f9bb26ec",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/d88518acbcc3d08d1f18da62f9bb26ec"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "10508",
+        "abyssId": "10508",
+        "playXID": "d88518acbcc3d08d1f18da62f9bb26ec",
+        "title": "Chainsaw Man",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "G6Y30Nmio"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "IMMLuq-Vz"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "Fso1BSah9"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/27faf5109ff6773d46cef224aa071ba5/master.m3u8?md5=GmrASzjOhk-jEdevPPn0KA&expires=1792167246",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/27faf5109ff6773d46cef224aa071ba5/master.m3u8?md5=GmrASzjOhk-jEdevPPn0KA&expires=1792167246",
+            "videoSource": "https://ravok.buzz/cdn/hls/27faf5109ff6773d46cef224aa071ba5/master.m3u8?md5=GmrASzjOhk-jEdevPPn0KA&expires=1792167246",
+            "videoImage": "https://as-cdn29.top/p/PhdnAQN2GIz-ZR7bOOT8AfVeSaOLe5UJE9wVBsn6wWq66iLcGSW-LK7ezPYCrib_AOeQOeIA54QG98MJUEScSQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "d88518acbcc3d08d1f18da62f9bb26ec",
+                "streamUrl": "https://ravok.buzz/cdn/hls/27faf5109ff6773d46cef224aa071ba5/master.m3u8?md5=GmrASzjOhk-jEdevPPn0KA&expires=1792167246",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/27faf5109ff6773d46cef224aa071ba5/master.m3u8?md5=GmrASzjOhk-jEdevPPn0KA&expires=1792167246",
+                "videoSource": "https://ravok.buzz/cdn/hls/27faf5109ff6773d46cef224aa071ba5/master.m3u8?md5=GmrASzjOhk-jEdevPPn0KA&expires=1792167246",
+                "link": "https://ravok.buzz/cdn/hls/27faf5109ff6773d46cef224aa071ba5/master.m3u8?md5=GmrASzjOhk-jEdevPPn0KA&expires=1792167246",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/PhdnAQN2GIz-ZR7bOOT8AfVeSaOLe5UJE9wVBsn6wWq66iLcGSW-LK7ezPYCrib_AOeQOeIA54QG98MJUEScSQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "G6Y30Nmio"
+        }
+      },
+      "fetched_at": "2026-10-16T14:14:16Z"
+    },
+    {
+      "id": "episode/chainsaw-man-1x4",
+      "episode_id": "episode/chainsaw-man-1x4",
+      "title": "Dog & Chainsaw",
+      "episode_name": "Dog & Chainsaw",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/14749/04.webp",
+      "abyssid": "10510",
+      "abyssId": "10510",
+      "playxid": "87ec2f451208df97228105657edb717f",
+      "playXID": "87ec2f451208df97228105657edb717f",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "10510",
+        "playXID": "87ec2f451208df97228105657edb717f",
+        "streamId": "10510",
+        "dubPlayerSrc": "/dub-player/t/10510/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=87ec2f451208df97228105657edb717f&abyssId=10510"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "10510",
+        "playXID": "87ec2f451208df97228105657edb717f",
+        "streamId": "10510",
+        "dubPlayerSrc": "/dub-player/t/10510/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=87ec2f451208df97228105657edb717f&abyssId=10510"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/87ec2f451208df97228105657edb717f",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/87ec2f451208df97228105657edb717f"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "10510",
+        "abyssId": "10510",
+        "playXID": "87ec2f451208df97228105657edb717f",
+        "title": "Chainsaw Man",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "FwMOtjgVy"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "GYFBQ-4h0"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "oTIMGR8LL"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/7b2c9697c8afad045354ab510203b081/master.m3u8?md5=SZoulruXcHNfjvfrpHrncA&expires=1792167246",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/7b2c9697c8afad045354ab510203b081/master.m3u8?md5=SZoulruXcHNfjvfrpHrncA&expires=1792167246",
+            "videoSource": "https://ravok.buzz/cdn/hls/7b2c9697c8afad045354ab510203b081/master.m3u8?md5=SZoulruXcHNfjvfrpHrncA&expires=1792167246",
+            "videoImage": "https://as-cdn30.top/p/iJgvJQ4FMkoO1gb8ri-RluTNBzCRqJFHqWfE0AiG0Hdz5Z04wtJZIOLQzovSpEQSitg5eLbdgXvlQ3BhLaDxAg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "87ec2f451208df97228105657edb717f",
+                "streamUrl": "https://ravok.buzz/cdn/hls/7b2c9697c8afad045354ab510203b081/master.m3u8?md5=SZoulruXcHNfjvfrpHrncA&expires=1792167246",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/7b2c9697c8afad045354ab510203b081/master.m3u8?md5=SZoulruXcHNfjvfrpHrncA&expires=1792167246",
+                "videoSource": "https://ravok.buzz/cdn/hls/7b2c9697c8afad045354ab510203b081/master.m3u8?md5=SZoulruXcHNfjvfrpHrncA&expires=1792167246",
+                "link": "https://ravok.buzz/cdn/hls/7b2c9697c8afad045354ab510203b081/master.m3u8?md5=SZoulruXcHNfjvfrpHrncA&expires=1792167246",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/iJgvJQ4FMkoO1gb8ri-RluTNBzCRqJFHqWfE0AiG0Hdz5Z04wtJZIOLQzovSpEQSitg5eLbdgXvlQ3BhLaDxAg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "FwMOtjgVy"
+        }
+      },
+      "fetched_at": "2026-10-16T14:14:16Z"
+    },
+    {
+      "id": "episode/chainsaw-man-1x3",
+      "episode_id": "episode/chainsaw-man-1x3",
+      "title": "Dog & Chainsaw",
+      "episode_name": "Dog & Chainsaw",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/14749/03.webp",
+      "abyssid": "10509",
+      "abyssId": "10509",
+      "playxid": "309fee4e541e51de2e41f21bebb342aa",
+      "playXID": "309fee4e541e51de2e41f21bebb342aa",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "10509",
+        "playXID": "309fee4e541e51de2e41f21bebb342aa",
+        "streamId": "10509",
+        "dubPlayerSrc": "/dub-player/t/10509/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=309fee4e541e51de2e41f21bebb342aa&abyssId=10509"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "10509",
+        "playXID": "309fee4e541e51de2e41f21bebb342aa",
+        "streamId": "10509",
+        "dubPlayerSrc": "/dub-player/t/10509/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=309fee4e541e51de2e41f21bebb342aa&abyssId=10509"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/309fee4e541e51de2e41f21bebb342aa",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/309fee4e541e51de2e41f21bebb342aa"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "10509",
+        "abyssId": "10509",
+        "playXID": "309fee4e541e51de2e41f21bebb342aa",
+        "title": "Chainsaw Man",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "QgoalEP8Y"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "Xj-MvalRU"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "k7VSug6qP"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/ac387553358296d3ef80cad2c00b9c65/master.m3u8?md5=1-5hK6KFc1Kad6-nMVL3kA&expires=1792167246",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/ac387553358296d3ef80cad2c00b9c65/master.m3u8?md5=1-5hK6KFc1Kad6-nMVL3kA&expires=1792167246",
+            "videoSource": "https://ravok.buzz/cdn/hls/ac387553358296d3ef80cad2c00b9c65/master.m3u8?md5=1-5hK6KFc1Kad6-nMVL3kA&expires=1792167246",
+            "videoImage": "https://as-cdn31.top/p/P5v0Jzr3XXVB-FAjXgJvidZs9gt2rMWvh4eUZTR4x_r3uR2n_ISdg-1-C80wK-r3kN8iyvOQVXrW_DjhXhth3g.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "309fee4e541e51de2e41f21bebb342aa",
+                "streamUrl": "https://ravok.buzz/cdn/hls/ac387553358296d3ef80cad2c00b9c65/master.m3u8?md5=1-5hK6KFc1Kad6-nMVL3kA&expires=1792167246",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/ac387553358296d3ef80cad2c00b9c65/master.m3u8?md5=1-5hK6KFc1Kad6-nMVL3kA&expires=1792167246",
+                "videoSource": "https://ravok.buzz/cdn/hls/ac387553358296d3ef80cad2c00b9c65/master.m3u8?md5=1-5hK6KFc1Kad6-nMVL3kA&expires=1792167246",
+                "link": "https://ravok.buzz/cdn/hls/ac387553358296d3ef80cad2c00b9c65/master.m3u8?md5=1-5hK6KFc1Kad6-nMVL3kA&expires=1792167246",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/P5v0Jzr3XXVB-FAjXgJvidZs9gt2rMWvh4eUZTR4x_r3uR2n_ISdg-1-C80wK-r3kN8iyvOQVXrW_DjhXhth3g.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "QgoalEP8Y"
+        }
+      },
+      "fetched_at": "2026-10-16T14:14:16Z"
+    },
+    {
+      "id": "episode/chainsaw-man-1x5",
+      "episode_id": "episode/chainsaw-man-1x5",
+      "title": "Dog & Chainsaw",
+      "episode_name": "Dog & Chainsaw",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/14749/05.webp",
+      "abyssid": "10511",
+      "abyssId": "10511",
+      "playxid": "9c19a2aa1d84e04b0bd4bc888792bd1e",
+      "playXID": "9c19a2aa1d84e04b0bd4bc888792bd1e",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "10511",
+        "playXID": "9c19a2aa1d84e04b0bd4bc888792bd1e",
+        "streamId": "10511",
+        "dubPlayerSrc": "/dub-player/t/10511/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9c19a2aa1d84e04b0bd4bc888792bd1e&abyssId=10511"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "10511",
+        "playXID": "9c19a2aa1d84e04b0bd4bc888792bd1e",
+        "streamId": "10511",
+        "dubPlayerSrc": "/dub-player/t/10511/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9c19a2aa1d84e04b0bd4bc888792bd1e&abyssId=10511"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/9c19a2aa1d84e04b0bd4bc888792bd1e",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/9c19a2aa1d84e04b0bd4bc888792bd1e"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "10511",
+        "abyssId": "10511",
+        "playXID": "9c19a2aa1d84e04b0bd4bc888792bd1e",
+        "title": "Chainsaw Man",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "MiGRpe3MR"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "66DQGAnb8"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "_0Ro6r1HO"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/8c4d04f0e07029f7544f7479f0baefcf/master.m3u8?md5=N6EbCwkr_tjX3_e73KLg5Q&expires=1792167247",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/8c4d04f0e07029f7544f7479f0baefcf/master.m3u8?md5=N6EbCwkr_tjX3_e73KLg5Q&expires=1792167247",
+            "videoSource": "https://ravok.buzz/cdn/hls/8c4d04f0e07029f7544f7479f0baefcf/master.m3u8?md5=N6EbCwkr_tjX3_e73KLg5Q&expires=1792167247",
+            "videoImage": "https://as-cdn28.top/p/FB48TpJqMzTB3kumf8_SVq7y5CdkuqKqeqh801qBsHdNI9SZwNkAzcj7EvrGBNQjsIcwwAWnDtkvX1QEn5eLVw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "9c19a2aa1d84e04b0bd4bc888792bd1e",
+                "streamUrl": "https://ravok.buzz/cdn/hls/8c4d04f0e07029f7544f7479f0baefcf/master.m3u8?md5=N6EbCwkr_tjX3_e73KLg5Q&expires=1792167247",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/8c4d04f0e07029f7544f7479f0baefcf/master.m3u8?md5=N6EbCwkr_tjX3_e73KLg5Q&expires=1792167247",
+                "videoSource": "https://ravok.buzz/cdn/hls/8c4d04f0e07029f7544f7479f0baefcf/master.m3u8?md5=N6EbCwkr_tjX3_e73KLg5Q&expires=1792167247",
+                "link": "https://ravok.buzz/cdn/hls/8c4d04f0e07029f7544f7479f0baefcf/master.m3u8?md5=N6EbCwkr_tjX3_e73KLg5Q&expires=1792167247",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/FB48TpJqMzTB3kumf8_SVq7y5CdkuqKqeqh801qBsHdNI9SZwNkAzcj7EvrGBNQjsIcwwAWnDtkvX1QEn5eLVw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "MiGRpe3MR"
+        }
+      },
+      "fetched_at": "2026-10-16T14:14:16Z"
+    },
+    {
+      "id": "episode/chainsaw-man-1x6",
+      "episode_id": "episode/chainsaw-man-1x6",
+      "title": "Dog & Chainsaw",
+      "episode_name": "Dog & Chainsaw",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/14749/06.webp",
+      "abyssid": "10512",
+      "abyssId": "10512",
+      "playxid": "83e8ef518174e1eb6be4a0778d050c9d",
+      "playXID": "83e8ef518174e1eb6be4a0778d050c9d",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "10512",
+        "playXID": "83e8ef518174e1eb6be4a0778d050c9d",
+        "streamId": "10512",
+        "dubPlayerSrc": "/dub-player/t/10512/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=83e8ef518174e1eb6be4a0778d050c9d&abyssId=10512"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "10512",
+        "playXID": "83e8ef518174e1eb6be4a0778d050c9d",
+        "streamId": "10512",
+        "dubPlayerSrc": "/dub-player/t/10512/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=83e8ef518174e1eb6be4a0778d050c9d&abyssId=10512"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/83e8ef518174e1eb6be4a0778d050c9d",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/83e8ef518174e1eb6be4a0778d050c9d"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "10512",
+        "abyssId": "10512",
+        "playXID": "83e8ef518174e1eb6be4a0778d050c9d",
+        "title": "Chainsaw Man",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "pr2FUTwPG"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "ZYEt01jGX"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "vWhF1AOep"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/4003ca1355d4322571b6387181aa204c/master.m3u8?md5=ZwWyhiet8HI40mh8c03oNg&expires=1792167248",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/4003ca1355d4322571b6387181aa204c/master.m3u8?md5=ZwWyhiet8HI40mh8c03oNg&expires=1792167248",
+            "videoSource": "https://ravok.buzz/cdn/hls/4003ca1355d4322571b6387181aa204c/master.m3u8?md5=ZwWyhiet8HI40mh8c03oNg&expires=1792167248",
+            "videoImage": "https://as-cdn31.top/p/L2rADxfdHcnr9G1LeFD4BWqXYXoya6IIledC_Z_gHfpmhbfMpLkypHspM-Py1sfZtl0IWsAny-aVU_JDLdxUSg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "83e8ef518174e1eb6be4a0778d050c9d",
+                "streamUrl": "https://ravok.buzz/cdn/hls/4003ca1355d4322571b6387181aa204c/master.m3u8?md5=ZwWyhiet8HI40mh8c03oNg&expires=1792167248",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/4003ca1355d4322571b6387181aa204c/master.m3u8?md5=ZwWyhiet8HI40mh8c03oNg&expires=1792167248",
+                "videoSource": "https://ravok.buzz/cdn/hls/4003ca1355d4322571b6387181aa204c/master.m3u8?md5=ZwWyhiet8HI40mh8c03oNg&expires=1792167248",
+                "link": "https://ravok.buzz/cdn/hls/4003ca1355d4322571b6387181aa204c/master.m3u8?md5=ZwWyhiet8HI40mh8c03oNg&expires=1792167248",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/L2rADxfdHcnr9G1LeFD4BWqXYXoya6IIledC_Z_gHfpmhbfMpLkypHspM-Py1sfZtl0IWsAny-aVU_JDLdxUSg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "pr2FUTwPG"
+        }
+      },
+      "fetched_at": "2026-10-16T14:14:18Z"
+    },
+    {
+      "id": "episode/chainsaw-man-1x7",
+      "episode_id": "episode/chainsaw-man-1x7",
+      "title": "Dog & Chainsaw",
+      "episode_name": "Dog & Chainsaw",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/14749/07.webp",
+      "abyssid": "10513",
+      "abyssId": "10513",
+      "playxid": "9e984c108157cea74c894b5cf34efc44",
+      "playXID": "9e984c108157cea74c894b5cf34efc44",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "10513",
+        "playXID": "9e984c108157cea74c894b5cf34efc44",
+        "streamId": "10513",
+        "dubPlayerSrc": "/dub-player/t/10513/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9e984c108157cea74c894b5cf34efc44&abyssId=10513"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "10513",
+        "playXID": "9e984c108157cea74c894b5cf34efc44",
+        "streamId": "10513",
+        "dubPlayerSrc": "/dub-player/t/10513/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9e984c108157cea74c894b5cf34efc44&abyssId=10513"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/9e984c108157cea74c894b5cf34efc44",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/9e984c108157cea74c894b5cf34efc44"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "10513",
+        "abyssId": "10513",
+        "playXID": "9e984c108157cea74c894b5cf34efc44",
+        "title": "Chainsaw Man",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "Z1XKAelmH"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "Wj7Hd0aF7"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "COa-eyFNQ"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/ec4d87065638f01f0c16ad10a3572128/master.m3u8?md5=aKJEja_c6u0PP_5LHUCFWQ&expires=1792167248",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/ec4d87065638f01f0c16ad10a3572128/master.m3u8?md5=aKJEja_c6u0PP_5LHUCFWQ&expires=1792167248",
+            "videoSource": "https://ravok.buzz/cdn/hls/ec4d87065638f01f0c16ad10a3572128/master.m3u8?md5=aKJEja_c6u0PP_5LHUCFWQ&expires=1792167248",
+            "videoImage": "https://as-cdn29.top/p/p_RFzh50hAQs4yw-w8vVQUQ-QjazH6Zd7opQpFIQUbNdr1ML9dNZg48RJHgQECxxyOSGkEqjcbrdAg-LBOquVw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "9e984c108157cea74c894b5cf34efc44",
+                "streamUrl": "https://ravok.buzz/cdn/hls/ec4d87065638f01f0c16ad10a3572128/master.m3u8?md5=aKJEja_c6u0PP_5LHUCFWQ&expires=1792167248",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/ec4d87065638f01f0c16ad10a3572128/master.m3u8?md5=aKJEja_c6u0PP_5LHUCFWQ&expires=1792167248",
+                "videoSource": "https://ravok.buzz/cdn/hls/ec4d87065638f01f0c16ad10a3572128/master.m3u8?md5=aKJEja_c6u0PP_5LHUCFWQ&expires=1792167248",
+                "link": "https://ravok.buzz/cdn/hls/ec4d87065638f01f0c16ad10a3572128/master.m3u8?md5=aKJEja_c6u0PP_5LHUCFWQ&expires=1792167248",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/p_RFzh50hAQs4yw-w8vVQUQ-QjazH6Zd7opQpFIQUbNdr1ML9dNZg48RJHgQECxxyOSGkEqjcbrdAg-LBOquVw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "Z1XKAelmH"
+        }
+      },
+      "fetched_at": "2026-10-16T14:14:18Z"
+    },
+    {
+      "id": "episode/chainsaw-man-1x8",
+      "episode_id": "episode/chainsaw-man-1x8",
+      "title": "Dog & Chainsaw",
+      "episode_name": "Dog & Chainsaw",
+      "episode_number": 8,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/14749/08.webp",
+      "abyssid": "10514",
+      "abyssId": "10514",
+      "playxid": "c559da2ba967eb820766939a658022c8",
+      "playXID": "c559da2ba967eb820766939a658022c8",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "10514",
+        "playXID": "c559da2ba967eb820766939a658022c8",
+        "streamId": "10514",
+        "dubPlayerSrc": "/dub-player/t/10514/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c559da2ba967eb820766939a658022c8&abyssId=10514"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "10514",
+        "playXID": "c559da2ba967eb820766939a658022c8",
+        "streamId": "10514",
+        "dubPlayerSrc": "/dub-player/t/10514/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c559da2ba967eb820766939a658022c8&abyssId=10514"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/c559da2ba967eb820766939a658022c8",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/c559da2ba967eb820766939a658022c8"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "10514",
+        "abyssId": "10514",
+        "playXID": "c559da2ba967eb820766939a658022c8",
+        "title": "Chainsaw Man",
+        "season": 1,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "meFbGwTaX"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "lRQWanTYd"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "EChxUjjSX"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/5a4d3661c76ba6fa21da7abb760c433c/master.m3u8?md5=zAh2DuW61EJSmHxvzEeK1A&expires=1792167248",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/5a4d3661c76ba6fa21da7abb760c433c/master.m3u8?md5=zAh2DuW61EJSmHxvzEeK1A&expires=1792167248",
+            "videoSource": "https://ravok.buzz/cdn/hls/5a4d3661c76ba6fa21da7abb760c433c/master.m3u8?md5=zAh2DuW61EJSmHxvzEeK1A&expires=1792167248",
+            "videoImage": "https://as-cdn31.top/p/6-F1pwsM4_Db8CY1m5xo1k20gnNjhRNv_i79oT_QemWG8vyd1iZjvor58zMc4g6bKeagTxg5148L-FXaLQ3QEQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "c559da2ba967eb820766939a658022c8",
+                "streamUrl": "https://ravok.buzz/cdn/hls/5a4d3661c76ba6fa21da7abb760c433c/master.m3u8?md5=zAh2DuW61EJSmHxvzEeK1A&expires=1792167248",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/5a4d3661c76ba6fa21da7abb760c433c/master.m3u8?md5=zAh2DuW61EJSmHxvzEeK1A&expires=1792167248",
+                "videoSource": "https://ravok.buzz/cdn/hls/5a4d3661c76ba6fa21da7abb760c433c/master.m3u8?md5=zAh2DuW61EJSmHxvzEeK1A&expires=1792167248",
+                "link": "https://ravok.buzz/cdn/hls/5a4d3661c76ba6fa21da7abb760c433c/master.m3u8?md5=zAh2DuW61EJSmHxvzEeK1A&expires=1792167248",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/6-F1pwsM4_Db8CY1m5xo1k20gnNjhRNv_i79oT_QemWG8vyd1iZjvor58zMc4g6bKeagTxg5148L-FXaLQ3QEQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "meFbGwTaX"
+        }
+      },
+      "fetched_at": "2026-10-16T14:14:18Z"
+    },
+    {
+      "id": "episode/chainsaw-man-1x9",
+      "episode_id": "episode/chainsaw-man-1x9",
+      "title": "Dog & Chainsaw",
+      "episode_name": "Dog & Chainsaw",
+      "episode_number": 9,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/14749/09.webp",
+      "abyssid": "10515",
+      "abyssId": "10515",
+      "playxid": "1bc0249a6412ef49b07fe6f62e6dc8de",
+      "playXID": "1bc0249a6412ef49b07fe6f62e6dc8de",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "10515",
+        "playXID": "1bc0249a6412ef49b07fe6f62e6dc8de",
+        "streamId": "10515",
+        "dubPlayerSrc": "/dub-player/t/10515/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=1bc0249a6412ef49b07fe6f62e6dc8de&abyssId=10515"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "10515",
+        "playXID": "1bc0249a6412ef49b07fe6f62e6dc8de",
+        "streamId": "10515",
+        "dubPlayerSrc": "/dub-player/t/10515/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=1bc0249a6412ef49b07fe6f62e6dc8de&abyssId=10515"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/1bc0249a6412ef49b07fe6f62e6dc8de",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/1bc0249a6412ef49b07fe6f62e6dc8de"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "10515",
+        "abyssId": "10515",
+        "playXID": "1bc0249a6412ef49b07fe6f62e6dc8de",
+        "title": "Chainsaw Man",
+        "season": 1,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "tGOEAAxR4"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "L__eyP9BP"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "NuCULjTDb"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/28aba5a007887b546cb6ad5584807d8e/master.m3u8?md5=gs9WLKyFm7WLlWqrGn7nqA&expires=1792167248",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/28aba5a007887b546cb6ad5584807d8e/master.m3u8?md5=gs9WLKyFm7WLlWqrGn7nqA&expires=1792167248",
+            "videoSource": "https://ravok.buzz/cdn/hls/28aba5a007887b546cb6ad5584807d8e/master.m3u8?md5=gs9WLKyFm7WLlWqrGn7nqA&expires=1792167248",
+            "videoImage": "https://as-cdn30.top/p/deGNFqy29UnSI9kAKADBK2TKfUWxr-3-6iFU4Pgr23hDfKO7dcZVtHtR9j-nNnsMhRu0irviOxHNNymjOQDPsg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "1bc0249a6412ef49b07fe6f62e6dc8de",
+                "streamUrl": "https://ravok.buzz/cdn/hls/28aba5a007887b546cb6ad5584807d8e/master.m3u8?md5=gs9WLKyFm7WLlWqrGn7nqA&expires=1792167248",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/28aba5a007887b546cb6ad5584807d8e/master.m3u8?md5=gs9WLKyFm7WLlWqrGn7nqA&expires=1792167248",
+                "videoSource": "https://ravok.buzz/cdn/hls/28aba5a007887b546cb6ad5584807d8e/master.m3u8?md5=gs9WLKyFm7WLlWqrGn7nqA&expires=1792167248",
+                "link": "https://ravok.buzz/cdn/hls/28aba5a007887b546cb6ad5584807d8e/master.m3u8?md5=gs9WLKyFm7WLlWqrGn7nqA&expires=1792167248",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/deGNFqy29UnSI9kAKADBK2TKfUWxr-3-6iFU4Pgr23hDfKO7dcZVtHtR9j-nNnsMhRu0irviOxHNNymjOQDPsg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "tGOEAAxR4"
+        }
+      },
+      "fetched_at": "2026-10-16T14:14:18Z"
+    },
+    {
+      "id": "episode/chainsaw-man-1x10",
+      "episode_id": "episode/chainsaw-man-1x10",
+      "title": "Dog & Chainsaw",
+      "episode_name": "Dog & Chainsaw",
+      "episode_number": 10,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/14749/10.webp",
+      "abyssid": "10516",
+      "abyssId": "10516",
+      "playxid": "f3173935ed8ac4bf073c1bcd63171f8a",
+      "playXID": "f3173935ed8ac4bf073c1bcd63171f8a",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "10516",
+        "playXID": "f3173935ed8ac4bf073c1bcd63171f8a",
+        "streamId": "10516",
+        "dubPlayerSrc": "/dub-player/t/10516/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f3173935ed8ac4bf073c1bcd63171f8a&abyssId=10516"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "10516",
+        "playXID": "f3173935ed8ac4bf073c1bcd63171f8a",
+        "streamId": "10516",
+        "dubPlayerSrc": "/dub-player/t/10516/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f3173935ed8ac4bf073c1bcd63171f8a&abyssId=10516"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/f3173935ed8ac4bf073c1bcd63171f8a",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/f3173935ed8ac4bf073c1bcd63171f8a"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "10516",
+        "abyssId": "10516",
+        "playXID": "f3173935ed8ac4bf073c1bcd63171f8a",
+        "title": "Chainsaw Man",
+        "season": 1,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "DLsqoBNZf"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "kRs8wt29n"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "GHXnmLa_a"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/e0bd757c9f7617ad81ee1d781fa42a2f/master.m3u8?md5=-_Kiim1OKEa1LpfQ7EIkYA&expires=1792167249",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/e0bd757c9f7617ad81ee1d781fa42a2f/master.m3u8?md5=-_Kiim1OKEa1LpfQ7EIkYA&expires=1792167249",
+            "videoSource": "https://ravok.buzz/cdn/hls/e0bd757c9f7617ad81ee1d781fa42a2f/master.m3u8?md5=-_Kiim1OKEa1LpfQ7EIkYA&expires=1792167249",
+            "videoImage": "https://as-cdn27.top/p/7skNuX_7OLOp-E_Qf6sMjvtrLOx_Eeym8GsKL0KcqGWDar-jAUgM2gvcYIZ6M-_KLlPiZA3wqScdvWQK0ky1gQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "f3173935ed8ac4bf073c1bcd63171f8a",
+                "streamUrl": "https://ravok.buzz/cdn/hls/e0bd757c9f7617ad81ee1d781fa42a2f/master.m3u8?md5=-_Kiim1OKEa1LpfQ7EIkYA&expires=1792167249",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/e0bd757c9f7617ad81ee1d781fa42a2f/master.m3u8?md5=-_Kiim1OKEa1LpfQ7EIkYA&expires=1792167249",
+                "videoSource": "https://ravok.buzz/cdn/hls/e0bd757c9f7617ad81ee1d781fa42a2f/master.m3u8?md5=-_Kiim1OKEa1LpfQ7EIkYA&expires=1792167249",
+                "link": "https://ravok.buzz/cdn/hls/e0bd757c9f7617ad81ee1d781fa42a2f/master.m3u8?md5=-_Kiim1OKEa1LpfQ7EIkYA&expires=1792167249",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/7skNuX_7OLOp-E_Qf6sMjvtrLOx_Eeym8GsKL0KcqGWDar-jAUgM2gvcYIZ6M-_KLlPiZA3wqScdvWQK0ky1gQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "DLsqoBNZf"
+        }
+      },
+      "fetched_at": "2026-10-16T14:14:19Z"
+    },
+    {
+      "id": "episode/chainsaw-man-1x11",
+      "episode_id": "episode/chainsaw-man-1x11",
+      "title": "Dog & Chainsaw",
+      "episode_name": "Dog & Chainsaw",
+      "episode_number": 11,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/14749/11.webp",
+      "abyssid": "10517",
+      "abyssId": "10517",
+      "playxid": "a368b0de8b91cfb3f91892fbf1ebd4b2",
+      "playXID": "a368b0de8b91cfb3f91892fbf1ebd4b2",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "10517",
+        "playXID": "a368b0de8b91cfb3f91892fbf1ebd4b2",
+        "streamId": "10517",
+        "dubPlayerSrc": "/dub-player/t/10517/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a368b0de8b91cfb3f91892fbf1ebd4b2&abyssId=10517"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "10517",
+        "playXID": "a368b0de8b91cfb3f91892fbf1ebd4b2",
+        "streamId": "10517",
+        "dubPlayerSrc": "/dub-player/t/10517/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a368b0de8b91cfb3f91892fbf1ebd4b2&abyssId=10517"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/a368b0de8b91cfb3f91892fbf1ebd4b2",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/a368b0de8b91cfb3f91892fbf1ebd4b2"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "10517",
+        "abyssId": "10517",
+        "playXID": "a368b0de8b91cfb3f91892fbf1ebd4b2",
+        "title": "Chainsaw Man",
+        "season": 1,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "054pcXdCx"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "RvxV_c46U"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "XWY9TG9Ry"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/b7b996d086d763f792d415f12722d11f/master.m3u8?md5=AIBgG3EWsAt2jc2s-uQyGg&expires=1792167250",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/b7b996d086d763f792d415f12722d11f/master.m3u8?md5=AIBgG3EWsAt2jc2s-uQyGg&expires=1792167250",
+            "videoSource": "https://ravok.buzz/cdn/hls/b7b996d086d763f792d415f12722d11f/master.m3u8?md5=AIBgG3EWsAt2jc2s-uQyGg&expires=1792167250",
+            "videoImage": "https://as-cdn29.top/p/1yRARCo-M0auw3XnvBylXLhv9uj3i_OHmeOc79rPtFvKAhfG2fjbWc5qTU3A5KxkR3PTQq4QFwFfW9fo6d2utQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "a368b0de8b91cfb3f91892fbf1ebd4b2",
+                "streamUrl": "https://ravok.buzz/cdn/hls/b7b996d086d763f792d415f12722d11f/master.m3u8?md5=AIBgG3EWsAt2jc2s-uQyGg&expires=1792167250",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/b7b996d086d763f792d415f12722d11f/master.m3u8?md5=AIBgG3EWsAt2jc2s-uQyGg&expires=1792167250",
+                "videoSource": "https://ravok.buzz/cdn/hls/b7b996d086d763f792d415f12722d11f/master.m3u8?md5=AIBgG3EWsAt2jc2s-uQyGg&expires=1792167250",
+                "link": "https://ravok.buzz/cdn/hls/b7b996d086d763f792d415f12722d11f/master.m3u8?md5=AIBgG3EWsAt2jc2s-uQyGg&expires=1792167250",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/1yRARCo-M0auw3XnvBylXLhv9uj3i_OHmeOc79rPtFvKAhfG2fjbWc5qTU3A5KxkR3PTQq4QFwFfW9fo6d2utQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "054pcXdCx"
+        }
+      },
+      "fetched_at": "2026-10-16T14:14:20Z"
+    },
+    {
+      "id": "episode/chainsaw-man-1x12",
+      "episode_id": "episode/chainsaw-man-1x12",
+      "title": "Dog & Chainsaw",
+      "episode_name": "Dog & Chainsaw",
+      "episode_number": 12,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/14749/12.webp",
+      "abyssid": "10518",
+      "abyssId": "10518",
+      "playxid": "2da6a99a5ce7553b10fb03803d4994a9",
+      "playXID": "2da6a99a5ce7553b10fb03803d4994a9",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "10518",
+        "playXID": "2da6a99a5ce7553b10fb03803d4994a9",
+        "streamId": "10518",
+        "dubPlayerSrc": "/dub-player/t/10518/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2da6a99a5ce7553b10fb03803d4994a9&abyssId=10518"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "10518",
+        "playXID": "2da6a99a5ce7553b10fb03803d4994a9",
+        "streamId": "10518",
+        "dubPlayerSrc": "/dub-player/t/10518/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2da6a99a5ce7553b10fb03803d4994a9&abyssId=10518"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/2da6a99a5ce7553b10fb03803d4994a9",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/2da6a99a5ce7553b10fb03803d4994a9"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "10518",
+        "abyssId": "10518",
+        "playXID": "2da6a99a5ce7553b10fb03803d4994a9",
+        "title": "Chainsaw Man",
+        "season": 1,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "DrQbN55RVv"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "PG4Bpk2CV"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "1GC3d5qYY"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/6eb0d19df43e72352ff0be0e55e5752a/master.m3u8?md5=JmR03cyycGVZAHfd9kdX2A&expires=1792167250",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/6eb0d19df43e72352ff0be0e55e5752a/master.m3u8?md5=JmR03cyycGVZAHfd9kdX2A&expires=1792167250",
+            "videoSource": "https://ravok.buzz/cdn/hls/6eb0d19df43e72352ff0be0e55e5752a/master.m3u8?md5=JmR03cyycGVZAHfd9kdX2A&expires=1792167250",
+            "videoImage": "https://as-cdn30.top/p/j1eKumilv1VCFi24_3ac7p9_AmifkwjNgBm2LpxnFd3_BrMN1yfYh471r4evO6-fNanG0k4ULWinDI8z0L-o2Q.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "2da6a99a5ce7553b10fb03803d4994a9",
+                "streamUrl": "https://ravok.buzz/cdn/hls/6eb0d19df43e72352ff0be0e55e5752a/master.m3u8?md5=JmR03cyycGVZAHfd9kdX2A&expires=1792167250",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/6eb0d19df43e72352ff0be0e55e5752a/master.m3u8?md5=JmR03cyycGVZAHfd9kdX2A&expires=1792167250",
+                "videoSource": "https://ravok.buzz/cdn/hls/6eb0d19df43e72352ff0be0e55e5752a/master.m3u8?md5=JmR03cyycGVZAHfd9kdX2A&expires=1792167250",
+                "link": "https://ravok.buzz/cdn/hls/6eb0d19df43e72352ff0be0e55e5752a/master.m3u8?md5=JmR03cyycGVZAHfd9kdX2A&expires=1792167250",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/j1eKumilv1VCFi24_3ac7p9_AmifkwjNgBm2LpxnFd3_BrMN1yfYh471r4evO6-fNanG0k4ULWinDI8z0L-o2Q.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "DrQbN55RVv"
+        }
+      },
+      "fetched_at": "2026-10-16T14:14:20Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T14:14:13Z",
+  "updated_at": "2026-10-16T14:14:20Z"
+}

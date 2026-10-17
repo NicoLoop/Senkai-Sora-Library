@@ -1,0 +1,4303 @@
+{
+  "id": "series/baki-hanma",
+  "series_name": "Baki Hanma",
+  "title": "Baki Hanma",
+  "banner": "https://image.tmdb.org/t/p/w1280/7Scw0BdXGWzbDY3tDjKu8WervN2.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/x145FSI9xJ6UbkxfabUsY2SFbu3.jpg",
+  "genra": [
+    "Action",
+    "Gore",
+    "Shounen",
+    "Sports"
+  ],
+  "genres": [
+    "Action",
+    "Gore",
+    "Shounen",
+    "Sports"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Japanese"
+  ],
+  "synopsis": "To gain the skills he needs to surpass his powerful father, Baki enters Arizona State Prison to take on the notorious inmate known as Mr. Unchained.",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 2,
+  "totalEpisodes": 39,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Baki Hanma 1x1",
+          "id": "episode/baki-hanma-1x1",
+          "image": "https://img.watchanimeworld.one/img/thumb_1902_s1e1.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "Baki Hanma 1x2",
+          "id": "episode/baki-hanma-1x2",
+          "image": "https://img.watchanimeworld.one/img/thumb_1902_s1e2.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "Baki Hanma 1x3",
+          "id": "episode/baki-hanma-1x3",
+          "image": "https://img.watchanimeworld.one/img/thumb_1902_s1e3.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "Baki Hanma 1x4",
+          "id": "episode/baki-hanma-1x4",
+          "image": "https://img.watchanimeworld.one/img/thumb_1902_s1e4.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "Baki Hanma 1x5",
+          "id": "episode/baki-hanma-1x5",
+          "image": "https://img.watchanimeworld.one/img/thumb_1902_s1e5.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "Baki Hanma 1x6",
+          "id": "episode/baki-hanma-1x6",
+          "image": "https://img.watchanimeworld.one/img/thumb_1902_s1e6.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "Baki Hanma 1x7",
+          "id": "episode/baki-hanma-1x7",
+          "image": "https://img.watchanimeworld.one/img/thumb_1902_s1e7.webp",
+          "season": 1
+        },
+        {
+          "episode": 8,
+          "title": "Baki Hanma 1x8",
+          "id": "episode/baki-hanma-1x8",
+          "image": "https://img.watchanimeworld.one/img/thumb_1902_s1e8.webp",
+          "season": 1
+        },
+        {
+          "episode": 9,
+          "title": "Baki Hanma 1x9",
+          "id": "episode/baki-hanma-1x9",
+          "image": "https://img.watchanimeworld.one/img/thumb_1902_s1e9.webp",
+          "season": 1
+        },
+        {
+          "episode": 10,
+          "title": "Baki Hanma 1x10",
+          "id": "episode/baki-hanma-1x10",
+          "image": "https://img.watchanimeworld.one/img/thumb_1902_s1e10.webp",
+          "season": 1
+        },
+        {
+          "episode": 11,
+          "title": "Baki Hanma 1x11",
+          "id": "episode/baki-hanma-1x11",
+          "image": "https://img.watchanimeworld.one/img/thumb_1902_s1e11.webp",
+          "season": 1
+        },
+        {
+          "episode": 12,
+          "title": "Baki Hanma 1x12",
+          "id": "episode/baki-hanma-1x12",
+          "image": "https://img.watchanimeworld.one/img/thumb_1902_s1e12.webp",
+          "season": 1
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "name": "Season 2",
+      "episodesCount": 27,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Baki Hanma 2x1",
+          "id": "episode/baki-hanma-2x1",
+          "image": "https://img.watchanimeworld.one/img/thumb_1902_s2e1.webp",
+          "season": 2
+        },
+        {
+          "episode": 2,
+          "title": "Baki Hanma 2x2",
+          "id": "episode/baki-hanma-2x2",
+          "image": "https://img.watchanimeworld.one/img/thumb_1902_s2e2.webp",
+          "season": 2
+        },
+        {
+          "episode": 3,
+          "title": "Baki Hanma 2x3",
+          "id": "episode/baki-hanma-2x3",
+          "image": "https://img.watchanimeworld.one/img/thumb_1902_s2e3.webp",
+          "season": 2
+        },
+        {
+          "episode": 4,
+          "title": "Baki Hanma 2x4",
+          "id": "episode/baki-hanma-2x4",
+          "image": "https://img.watchanimeworld.one/img/thumb_1902_s2e4.webp",
+          "season": 2
+        },
+        {
+          "episode": 5,
+          "title": "Baki Hanma 2x5",
+          "id": "episode/baki-hanma-2x5",
+          "image": "https://img.watchanimeworld.one/img/thumb_1902_s2e5.webp",
+          "season": 2
+        },
+        {
+          "episode": 6,
+          "title": "Baki Hanma 2x6",
+          "id": "episode/baki-hanma-2x6",
+          "image": "https://img.watchanimeworld.one/img/thumb_1902_s2e6.webp",
+          "season": 2
+        },
+        {
+          "episode": 7,
+          "title": "Baki Hanma 2x7",
+          "id": "episode/baki-hanma-2x7",
+          "image": "https://img.watchanimeworld.one/img/thumb_1902_s2e7.webp",
+          "season": 2
+        },
+        {
+          "episode": 8,
+          "title": "Baki Hanma 2x8",
+          "id": "episode/baki-hanma-2x8",
+          "image": "https://img.watchanimeworld.one/img/thumb_1902_s2e8.webp",
+          "season": 2
+        },
+        {
+          "episode": 9,
+          "title": "Baki Hanma 2x9",
+          "id": "episode/baki-hanma-2x9",
+          "image": "https://img.watchanimeworld.one/img/thumb_1902_s2e9.webp",
+          "season": 2
+        },
+        {
+          "episode": 10,
+          "title": "Baki Hanma 2x10",
+          "id": "episode/baki-hanma-2x10",
+          "image": "https://img.watchanimeworld.one/img/thumb_1902_s2e10.webp",
+          "season": 2
+        },
+        {
+          "episode": 11,
+          "title": "Baki Hanma 2x11",
+          "id": "episode/baki-hanma-2x11",
+          "image": "https://img.watchanimeworld.one/img/thumb_1902_s2e11.webp",
+          "season": 2
+        },
+        {
+          "episode": 12,
+          "title": "Baki Hanma 2x12",
+          "id": "episode/baki-hanma-2x12",
+          "image": "https://img.watchanimeworld.one/img/thumb_1902_s2e12.webp",
+          "season": 2
+        },
+        {
+          "episode": 13,
+          "title": "Baki Hanma 2x13",
+          "id": "episode/baki-hanma-2x13",
+          "image": "https://img.watchanimeworld.one/img/thumb_1902_s2e13.webp",
+          "season": 2
+        },
+        {
+          "episode": 14,
+          "title": "Baki Hanma 2x14",
+          "id": "episode/baki-hanma-2x14",
+          "image": "https://img.watchanimeworld.one/img/thumb_1902_s2e14.webp",
+          "season": 2
+        },
+        {
+          "episode": 15,
+          "title": "Baki Hanma 2x15",
+          "id": "episode/baki-hanma-2x15",
+          "image": "https://img.watchanimeworld.one/img/thumb_1902_s2e15.webp",
+          "season": 2
+        },
+        {
+          "episode": 16,
+          "title": "Baki Hanma 2x16",
+          "id": "episode/baki-hanma-2x16",
+          "image": "https://img.watchanimeworld.one/img/thumb_1902_s2e16.webp",
+          "season": 2
+        },
+        {
+          "episode": 17,
+          "title": "Baki Hanma 2x17",
+          "id": "episode/baki-hanma-2x17",
+          "image": "https://img.watchanimeworld.one/img/thumb_1902_s2e17.webp",
+          "season": 2
+        },
+        {
+          "episode": 18,
+          "title": "Baki Hanma 2x18",
+          "id": "episode/baki-hanma-2x18",
+          "image": "https://img.watchanimeworld.one/img/thumb_1902_s2e18.webp",
+          "season": 2
+        },
+        {
+          "episode": 19,
+          "title": "Baki Hanma 2x19",
+          "id": "episode/baki-hanma-2x19",
+          "image": "https://img.watchanimeworld.one/img/thumb_1902_s2e19.webp",
+          "season": 2
+        },
+        {
+          "episode": 20,
+          "title": "Baki Hanma 2x20",
+          "id": "episode/baki-hanma-2x20",
+          "image": "https://img.watchanimeworld.one/img/thumb_1902_s2e20.webp",
+          "season": 2
+        },
+        {
+          "episode": 21,
+          "title": "Baki Hanma 2x21",
+          "id": "episode/baki-hanma-2x21",
+          "image": "https://img.watchanimeworld.one/img/thumb_1902_s2e21.webp",
+          "season": 2
+        },
+        {
+          "episode": 22,
+          "title": "Baki Hanma 2x22",
+          "id": "episode/baki-hanma-2x22",
+          "image": "https://img.watchanimeworld.one/img/thumb_1902_s2e22.webp",
+          "season": 2
+        },
+        {
+          "episode": 23,
+          "title": "Baki Hanma 2x23",
+          "id": "episode/baki-hanma-2x23",
+          "image": "https://img.watchanimeworld.one/img/thumb_1902_s2e23.webp",
+          "season": 2
+        },
+        {
+          "episode": 24,
+          "title": "Baki Hanma 2x24",
+          "id": "episode/baki-hanma-2x24",
+          "image": "https://img.watchanimeworld.one/img/thumb_1902_s2e24.webp",
+          "season": 2
+        },
+        {
+          "episode": 25,
+          "title": "Baki Hanma 2x25",
+          "id": "episode/baki-hanma-2x25",
+          "image": "https://img.watchanimeworld.one/img/thumb_1902_s2e25.webp",
+          "season": 2
+        },
+        {
+          "episode": 26,
+          "title": "Baki Hanma 2x26",
+          "id": "episode/baki-hanma-2x26",
+          "image": "https://img.watchanimeworld.one/img/thumb_1902_s2e26.webp",
+          "season": 2
+        },
+        {
+          "episode": 27,
+          "title": "Baki Hanma 2x27",
+          "id": "episode/baki-hanma-2x27",
+          "image": "https://img.watchanimeworld.one/img/thumb_1902_s2e27.webp",
+          "season": 2
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/baki-hanma-1x4",
+      "episode_id": "episode/baki-hanma-1x4",
+      "title": "Baki Hanma 1x1",
+      "episode_name": "Baki Hanma 1x1",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1902_s1e4.webp",
+      "abyssid": "16449",
+      "abyssId": "16449",
+      "playxid": "762409ca2be073c4a6ca7962d7c72a30",
+      "playXID": "762409ca2be073c4a6ca7962d7c72a30",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16449",
+        "playXID": "762409ca2be073c4a6ca7962d7c72a30",
+        "streamId": "16449",
+        "dubPlayerSrc": "/dub-player/t/16449/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=762409ca2be073c4a6ca7962d7c72a30&abyssId=16449"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16449",
+        "playXID": "762409ca2be073c4a6ca7962d7c72a30",
+        "streamId": "16449",
+        "dubPlayerSrc": "/dub-player/t/16449/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=762409ca2be073c4a6ca7962d7c72a30&abyssId=16449"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/762409ca2be073c4a6ca7962d7c72a30",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/762409ca2be073c4a6ca7962d7c72a30"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16449",
+        "abyssId": "16449",
+        "playXID": "762409ca2be073c4a6ca7962d7c72a30",
+        "title": "Baki Hanma",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "7kBwouISP"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "nAA0yj1pD"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "hNJryN3cmn"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/3ac94ca3cc6506b43969da9c037fa044/master.m3u8?md5=tzNEK4jyzM0eSCu0LWH9uw&expires=1792166416",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/3ac94ca3cc6506b43969da9c037fa044/master.m3u8?md5=tzNEK4jyzM0eSCu0LWH9uw&expires=1792166416",
+            "videoSource": "https://ravok.buzz/cdn/hls/3ac94ca3cc6506b43969da9c037fa044/master.m3u8?md5=tzNEK4jyzM0eSCu0LWH9uw&expires=1792166416",
+            "videoImage": "https://as-cdn30.top/p/V3fYEeBwvImCCan2PI7H_b0I064OPjxAujOZUoHz8cD3eoYt3s-iguP1CSG5Ow4Ge9Xbmr1GssGli28Gehv5_Q.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "762409ca2be073c4a6ca7962d7c72a30",
+                "streamUrl": "https://ravok.buzz/cdn/hls/3ac94ca3cc6506b43969da9c037fa044/master.m3u8?md5=tzNEK4jyzM0eSCu0LWH9uw&expires=1792166416",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/3ac94ca3cc6506b43969da9c037fa044/master.m3u8?md5=tzNEK4jyzM0eSCu0LWH9uw&expires=1792166416",
+                "videoSource": "https://ravok.buzz/cdn/hls/3ac94ca3cc6506b43969da9c037fa044/master.m3u8?md5=tzNEK4jyzM0eSCu0LWH9uw&expires=1792166416",
+                "link": "https://ravok.buzz/cdn/hls/3ac94ca3cc6506b43969da9c037fa044/master.m3u8?md5=tzNEK4jyzM0eSCu0LWH9uw&expires=1792166416",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/V3fYEeBwvImCCan2PI7H_b0I064OPjxAujOZUoHz8cD3eoYt3s-iguP1CSG5Ow4Ge9Xbmr1GssGli28Gehv5_Q.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "7kBwouISP"
+        }
+      },
+      "fetched_at": "2026-10-16T14:00:26Z"
+    },
+    {
+      "id": "episode/baki-hanma-1x1",
+      "episode_id": "episode/baki-hanma-1x1",
+      "title": "Baki Hanma 1x1",
+      "episode_name": "Baki Hanma 1x1",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1902_s1e1.webp",
+      "abyssid": "16446",
+      "abyssId": "16446",
+      "playxid": "a382db0a40615cdbe363ae0b4b2eb262",
+      "playXID": "a382db0a40615cdbe363ae0b4b2eb262",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16446",
+        "playXID": "a382db0a40615cdbe363ae0b4b2eb262",
+        "streamId": "16446",
+        "dubPlayerSrc": "/dub-player/t/16446/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a382db0a40615cdbe363ae0b4b2eb262&abyssId=16446"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16446",
+        "playXID": "a382db0a40615cdbe363ae0b4b2eb262",
+        "streamId": "16446",
+        "dubPlayerSrc": "/dub-player/t/16446/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a382db0a40615cdbe363ae0b4b2eb262&abyssId=16446"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/a382db0a40615cdbe363ae0b4b2eb262",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/a382db0a40615cdbe363ae0b4b2eb262"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16446",
+        "abyssId": "16446",
+        "playXID": "a382db0a40615cdbe363ae0b4b2eb262",
+        "title": "Baki Hanma",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "sl7-enJBI"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "rz8fb2XPA"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "2gyBoxfUi"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/8441bdd79a6be334335516ddfa87e20b/master.m3u8?md5=eFJLBe6HeFRDrwhqg6yp3w&expires=1792166416",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/8441bdd79a6be334335516ddfa87e20b/master.m3u8?md5=eFJLBe6HeFRDrwhqg6yp3w&expires=1792166416",
+            "videoSource": "https://ravok.buzz/cdn/hls/8441bdd79a6be334335516ddfa87e20b/master.m3u8?md5=eFJLBe6HeFRDrwhqg6yp3w&expires=1792166416",
+            "videoImage": "https://as-cdn31.top/p/PWUkyYWWV7nf9nByPqNXuZc0wZ4LhRDHjuv7zqJjsWXr6RxrFZjlv3-hZ2HYrX2ia18fi6-bLUqOVaL6uiTk4A.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "a382db0a40615cdbe363ae0b4b2eb262",
+                "streamUrl": "https://ravok.buzz/cdn/hls/8441bdd79a6be334335516ddfa87e20b/master.m3u8?md5=eFJLBe6HeFRDrwhqg6yp3w&expires=1792166416",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/8441bdd79a6be334335516ddfa87e20b/master.m3u8?md5=eFJLBe6HeFRDrwhqg6yp3w&expires=1792166416",
+                "videoSource": "https://ravok.buzz/cdn/hls/8441bdd79a6be334335516ddfa87e20b/master.m3u8?md5=eFJLBe6HeFRDrwhqg6yp3w&expires=1792166416",
+                "link": "https://ravok.buzz/cdn/hls/8441bdd79a6be334335516ddfa87e20b/master.m3u8?md5=eFJLBe6HeFRDrwhqg6yp3w&expires=1792166416",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/PWUkyYWWV7nf9nByPqNXuZc0wZ4LhRDHjuv7zqJjsWXr6RxrFZjlv3-hZ2HYrX2ia18fi6-bLUqOVaL6uiTk4A.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "sl7-enJBI"
+        }
+      },
+      "fetched_at": "2026-10-16T14:00:26Z"
+    },
+    {
+      "id": "episode/baki-hanma-1x2",
+      "episode_id": "episode/baki-hanma-1x2",
+      "title": "Baki Hanma 1x1",
+      "episode_name": "Baki Hanma 1x1",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1902_s1e2.webp",
+      "abyssid": "16447",
+      "abyssId": "16447",
+      "playxid": "547dcee2f9ccacd21cb7a6a758ca8697",
+      "playXID": "547dcee2f9ccacd21cb7a6a758ca8697",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16447",
+        "playXID": "547dcee2f9ccacd21cb7a6a758ca8697",
+        "streamId": "16447",
+        "dubPlayerSrc": "/dub-player/t/16447/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=547dcee2f9ccacd21cb7a6a758ca8697&abyssId=16447"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16447",
+        "playXID": "547dcee2f9ccacd21cb7a6a758ca8697",
+        "streamId": "16447",
+        "dubPlayerSrc": "/dub-player/t/16447/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=547dcee2f9ccacd21cb7a6a758ca8697&abyssId=16447"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/547dcee2f9ccacd21cb7a6a758ca8697",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/547dcee2f9ccacd21cb7a6a758ca8697"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16447",
+        "abyssId": "16447",
+        "playXID": "547dcee2f9ccacd21cb7a6a758ca8697",
+        "title": "Baki Hanma",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "EwwnQoYK9"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "KiBy-eDFj"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "GEOmq_p6_"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/150bca434c1e31c2511c50a3f83f1a9e/master.m3u8?md5=Wek9jhb9R0p6_KA2nV6ayg&expires=1792166417",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/150bca434c1e31c2511c50a3f83f1a9e/master.m3u8?md5=Wek9jhb9R0p6_KA2nV6ayg&expires=1792166417",
+            "videoSource": "https://ravok.buzz/cdn/hls/150bca434c1e31c2511c50a3f83f1a9e/master.m3u8?md5=Wek9jhb9R0p6_KA2nV6ayg&expires=1792166417",
+            "videoImage": "https://as-cdn29.top/p/7Y2hESHLvtNy20e464ErtMnVciGjAQJaIBE3nHW-Iq6XasoRL9ZS8EA0Aeee5FrT95Bpi204I1q9Vk_JXct7iw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "547dcee2f9ccacd21cb7a6a758ca8697",
+                "streamUrl": "https://ravok.buzz/cdn/hls/150bca434c1e31c2511c50a3f83f1a9e/master.m3u8?md5=Wek9jhb9R0p6_KA2nV6ayg&expires=1792166417",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/150bca434c1e31c2511c50a3f83f1a9e/master.m3u8?md5=Wek9jhb9R0p6_KA2nV6ayg&expires=1792166417",
+                "videoSource": "https://ravok.buzz/cdn/hls/150bca434c1e31c2511c50a3f83f1a9e/master.m3u8?md5=Wek9jhb9R0p6_KA2nV6ayg&expires=1792166417",
+                "link": "https://ravok.buzz/cdn/hls/150bca434c1e31c2511c50a3f83f1a9e/master.m3u8?md5=Wek9jhb9R0p6_KA2nV6ayg&expires=1792166417",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/7Y2hESHLvtNy20e464ErtMnVciGjAQJaIBE3nHW-Iq6XasoRL9ZS8EA0Aeee5FrT95Bpi204I1q9Vk_JXct7iw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "EwwnQoYK9"
+        }
+      },
+      "fetched_at": "2026-10-16T14:00:27Z"
+    },
+    {
+      "id": "episode/baki-hanma-1x3",
+      "episode_id": "episode/baki-hanma-1x3",
+      "title": "Baki Hanma 1x1",
+      "episode_name": "Baki Hanma 1x1",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1902_s1e3.webp",
+      "abyssid": "16448",
+      "abyssId": "16448",
+      "playxid": "a36d22467b9c3af222b5e231e3b23791",
+      "playXID": "a36d22467b9c3af222b5e231e3b23791",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16448",
+        "playXID": "a36d22467b9c3af222b5e231e3b23791",
+        "streamId": "16448",
+        "dubPlayerSrc": "/dub-player/t/16448/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a36d22467b9c3af222b5e231e3b23791&abyssId=16448"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16448",
+        "playXID": "a36d22467b9c3af222b5e231e3b23791",
+        "streamId": "16448",
+        "dubPlayerSrc": "/dub-player/t/16448/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a36d22467b9c3af222b5e231e3b23791&abyssId=16448"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/a36d22467b9c3af222b5e231e3b23791",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/a36d22467b9c3af222b5e231e3b23791"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16448",
+        "abyssId": "16448",
+        "playXID": "a36d22467b9c3af222b5e231e3b23791",
+        "title": "Baki Hanma",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "ncQfGaErT"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "6M-BO7mrn"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "4s7J7MrpN"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/efcbe49e35fab052355e99f80c6097d3/master.m3u8?md5=LpYgkbAXN_DmW9mI-prxdw&expires=1792166417",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/efcbe49e35fab052355e99f80c6097d3/master.m3u8?md5=LpYgkbAXN_DmW9mI-prxdw&expires=1792166417",
+            "videoSource": "https://ravok.buzz/cdn/hls/efcbe49e35fab052355e99f80c6097d3/master.m3u8?md5=LpYgkbAXN_DmW9mI-prxdw&expires=1792166417",
+            "videoImage": "https://as-cdn28.top/p/0NpvcCuhcSym2Rf9iF9KQRXcpvPZl9S8V3Oyq6s82jNwbbTmpCTrbepizzmAClmTaO5vd74zhZkfLUn0RtZd5w.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "a36d22467b9c3af222b5e231e3b23791",
+                "streamUrl": "https://ravok.buzz/cdn/hls/efcbe49e35fab052355e99f80c6097d3/master.m3u8?md5=LpYgkbAXN_DmW9mI-prxdw&expires=1792166417",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/efcbe49e35fab052355e99f80c6097d3/master.m3u8?md5=LpYgkbAXN_DmW9mI-prxdw&expires=1792166417",
+                "videoSource": "https://ravok.buzz/cdn/hls/efcbe49e35fab052355e99f80c6097d3/master.m3u8?md5=LpYgkbAXN_DmW9mI-prxdw&expires=1792166417",
+                "link": "https://ravok.buzz/cdn/hls/efcbe49e35fab052355e99f80c6097d3/master.m3u8?md5=LpYgkbAXN_DmW9mI-prxdw&expires=1792166417",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/0NpvcCuhcSym2Rf9iF9KQRXcpvPZl9S8V3Oyq6s82jNwbbTmpCTrbepizzmAClmTaO5vd74zhZkfLUn0RtZd5w.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "ncQfGaErT"
+        }
+      },
+      "fetched_at": "2026-10-16T14:00:27Z"
+    },
+    {
+      "id": "episode/baki-hanma-1x5",
+      "episode_id": "episode/baki-hanma-1x5",
+      "title": "Baki Hanma 1x1",
+      "episode_name": "Baki Hanma 1x1",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1902_s1e5.webp",
+      "abyssid": "16450",
+      "abyssId": "16450",
+      "playxid": "bf13848f7f02f488b2e12e009a8b0df3",
+      "playXID": "bf13848f7f02f488b2e12e009a8b0df3",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16450",
+        "playXID": "bf13848f7f02f488b2e12e009a8b0df3",
+        "streamId": "16450",
+        "dubPlayerSrc": "/dub-player/t/16450/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=bf13848f7f02f488b2e12e009a8b0df3&abyssId=16450"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16450",
+        "playXID": "bf13848f7f02f488b2e12e009a8b0df3",
+        "streamId": "16450",
+        "dubPlayerSrc": "/dub-player/t/16450/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=bf13848f7f02f488b2e12e009a8b0df3&abyssId=16450"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/bf13848f7f02f488b2e12e009a8b0df3",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/bf13848f7f02f488b2e12e009a8b0df3"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16450",
+        "abyssId": "16450",
+        "playXID": "bf13848f7f02f488b2e12e009a8b0df3",
+        "title": "Baki Hanma",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "IQDV5LoDK"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "eY6yta_Hk"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "l_K1hjnOe"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/ead06df46727b6aeabe63369ba7a3585/master.m3u8?md5=YMiZ8XBJcBRjSKLJKPE0og&expires=1792166418",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/ead06df46727b6aeabe63369ba7a3585/master.m3u8?md5=YMiZ8XBJcBRjSKLJKPE0og&expires=1792166418",
+            "videoSource": "https://ravok.buzz/cdn/hls/ead06df46727b6aeabe63369ba7a3585/master.m3u8?md5=YMiZ8XBJcBRjSKLJKPE0og&expires=1792166418",
+            "videoImage": "https://as-cdn31.top/p/uR3ozLTZcKxekiQ9ZGsQiSfarbiUt3Lo0VyMdgZFWMfpF2HL_qxx7lK1ie-Qtd5zfOHvgZD626-T5AItVXp-6Q.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "bf13848f7f02f488b2e12e009a8b0df3",
+                "streamUrl": "https://ravok.buzz/cdn/hls/ead06df46727b6aeabe63369ba7a3585/master.m3u8?md5=YMiZ8XBJcBRjSKLJKPE0og&expires=1792166418",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/ead06df46727b6aeabe63369ba7a3585/master.m3u8?md5=YMiZ8XBJcBRjSKLJKPE0og&expires=1792166418",
+                "videoSource": "https://ravok.buzz/cdn/hls/ead06df46727b6aeabe63369ba7a3585/master.m3u8?md5=YMiZ8XBJcBRjSKLJKPE0og&expires=1792166418",
+                "link": "https://ravok.buzz/cdn/hls/ead06df46727b6aeabe63369ba7a3585/master.m3u8?md5=YMiZ8XBJcBRjSKLJKPE0og&expires=1792166418",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/uR3ozLTZcKxekiQ9ZGsQiSfarbiUt3Lo0VyMdgZFWMfpF2HL_qxx7lK1ie-Qtd5zfOHvgZD626-T5AItVXp-6Q.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "IQDV5LoDK"
+        }
+      },
+      "fetched_at": "2026-10-16T14:00:28Z"
+    },
+    {
+      "id": "episode/baki-hanma-1x6",
+      "episode_id": "episode/baki-hanma-1x6",
+      "title": "Baki Hanma 1x1",
+      "episode_name": "Baki Hanma 1x1",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1902_s1e6.webp",
+      "abyssid": "16451",
+      "abyssId": "16451",
+      "playxid": "cf3c6554ad00bedbfcad15f7ea7d5879",
+      "playXID": "cf3c6554ad00bedbfcad15f7ea7d5879",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16451",
+        "playXID": "cf3c6554ad00bedbfcad15f7ea7d5879",
+        "streamId": "16451",
+        "dubPlayerSrc": "/dub-player/t/16451/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=cf3c6554ad00bedbfcad15f7ea7d5879&abyssId=16451"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16451",
+        "playXID": "cf3c6554ad00bedbfcad15f7ea7d5879",
+        "streamId": "16451",
+        "dubPlayerSrc": "/dub-player/t/16451/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=cf3c6554ad00bedbfcad15f7ea7d5879&abyssId=16451"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/cf3c6554ad00bedbfcad15f7ea7d5879",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/cf3c6554ad00bedbfcad15f7ea7d5879"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16451",
+        "abyssId": "16451",
+        "playXID": "cf3c6554ad00bedbfcad15f7ea7d5879",
+        "title": "Baki Hanma",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "74tM0jv-6"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "9WM332Ssi"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "oNDv0Lds1"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/621217f842d761bf0242355afcc0827a/master.m3u8?md5=6D-2KqjMq4pEU0wT1qtYUg&expires=1792166419",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/621217f842d761bf0242355afcc0827a/master.m3u8?md5=6D-2KqjMq4pEU0wT1qtYUg&expires=1792166419",
+            "videoSource": "https://ravok.buzz/cdn/hls/621217f842d761bf0242355afcc0827a/master.m3u8?md5=6D-2KqjMq4pEU0wT1qtYUg&expires=1792166419",
+            "videoImage": "https://as-cdn30.top/p/a47dXhP1Q3-txmyfOQHOEZYs7SKprCODZVwjAiT8jREyeO2gx49LFinBpEdXSyk9wR3HiF--SgL1eVWq9FbHqg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "cf3c6554ad00bedbfcad15f7ea7d5879",
+                "streamUrl": "https://ravok.buzz/cdn/hls/621217f842d761bf0242355afcc0827a/master.m3u8?md5=6D-2KqjMq4pEU0wT1qtYUg&expires=1792166419",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/621217f842d761bf0242355afcc0827a/master.m3u8?md5=6D-2KqjMq4pEU0wT1qtYUg&expires=1792166419",
+                "videoSource": "https://ravok.buzz/cdn/hls/621217f842d761bf0242355afcc0827a/master.m3u8?md5=6D-2KqjMq4pEU0wT1qtYUg&expires=1792166419",
+                "link": "https://ravok.buzz/cdn/hls/621217f842d761bf0242355afcc0827a/master.m3u8?md5=6D-2KqjMq4pEU0wT1qtYUg&expires=1792166419",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/a47dXhP1Q3-txmyfOQHOEZYs7SKprCODZVwjAiT8jREyeO2gx49LFinBpEdXSyk9wR3HiF--SgL1eVWq9FbHqg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "74tM0jv-6"
+        }
+      },
+      "fetched_at": "2026-10-16T14:00:29Z"
+    },
+    {
+      "id": "episode/baki-hanma-1x7",
+      "episode_id": "episode/baki-hanma-1x7",
+      "title": "Baki Hanma 1x1",
+      "episode_name": "Baki Hanma 1x1",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1902_s1e7.webp",
+      "abyssid": "16452",
+      "abyssId": "16452",
+      "playxid": "036ad3e516c5bf3a4b3be35b137bcbb8",
+      "playXID": "036ad3e516c5bf3a4b3be35b137bcbb8",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16452",
+        "playXID": "036ad3e516c5bf3a4b3be35b137bcbb8",
+        "streamId": "16452",
+        "dubPlayerSrc": "/dub-player/t/16452/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=036ad3e516c5bf3a4b3be35b137bcbb8&abyssId=16452"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16452",
+        "playXID": "036ad3e516c5bf3a4b3be35b137bcbb8",
+        "streamId": "16452",
+        "dubPlayerSrc": "/dub-player/t/16452/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=036ad3e516c5bf3a4b3be35b137bcbb8&abyssId=16452"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/036ad3e516c5bf3a4b3be35b137bcbb8",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/036ad3e516c5bf3a4b3be35b137bcbb8"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16452",
+        "abyssId": "16452",
+        "playXID": "036ad3e516c5bf3a4b3be35b137bcbb8",
+        "title": "Baki Hanma",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "T4yEhzYbK"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "xVRCTNYgh"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "rlWYpIMov"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/4ca4a5399dd562ab5c98210c93a9a0d7/master.m3u8?md5=Cs2pvUExYp6U-PloeUGPBw&expires=1792166419",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/4ca4a5399dd562ab5c98210c93a9a0d7/master.m3u8?md5=Cs2pvUExYp6U-PloeUGPBw&expires=1792166419",
+            "videoSource": "https://ravok.buzz/cdn/hls/4ca4a5399dd562ab5c98210c93a9a0d7/master.m3u8?md5=Cs2pvUExYp6U-PloeUGPBw&expires=1792166419",
+            "videoImage": "https://as-cdn27.top/p/t3vDi19Q7GP2__I9oibid2PmR0aUdeqf0EXqPDaMWZ6MzYntzdrLVOzzXpNjzO9mRyeNVs63xPQKrx4HXZINGg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "036ad3e516c5bf3a4b3be35b137bcbb8",
+                "streamUrl": "https://ravok.buzz/cdn/hls/4ca4a5399dd562ab5c98210c93a9a0d7/master.m3u8?md5=Cs2pvUExYp6U-PloeUGPBw&expires=1792166419",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/4ca4a5399dd562ab5c98210c93a9a0d7/master.m3u8?md5=Cs2pvUExYp6U-PloeUGPBw&expires=1792166419",
+                "videoSource": "https://ravok.buzz/cdn/hls/4ca4a5399dd562ab5c98210c93a9a0d7/master.m3u8?md5=Cs2pvUExYp6U-PloeUGPBw&expires=1792166419",
+                "link": "https://ravok.buzz/cdn/hls/4ca4a5399dd562ab5c98210c93a9a0d7/master.m3u8?md5=Cs2pvUExYp6U-PloeUGPBw&expires=1792166419",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/t3vDi19Q7GP2__I9oibid2PmR0aUdeqf0EXqPDaMWZ6MzYntzdrLVOzzXpNjzO9mRyeNVs63xPQKrx4HXZINGg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "T4yEhzYbK"
+        }
+      },
+      "fetched_at": "2026-10-16T14:00:30Z"
+    },
+    {
+      "id": "episode/baki-hanma-1x8",
+      "episode_id": "episode/baki-hanma-1x8",
+      "title": "Baki Hanma 1x1",
+      "episode_name": "Baki Hanma 1x1",
+      "episode_number": 8,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1902_s1e8.webp",
+      "abyssid": "16453",
+      "abyssId": "16453",
+      "playxid": "2d66aed7a5328a988f77cbaec59fc047",
+      "playXID": "2d66aed7a5328a988f77cbaec59fc047",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16453",
+        "playXID": "2d66aed7a5328a988f77cbaec59fc047",
+        "streamId": "16453",
+        "dubPlayerSrc": "/dub-player/t/16453/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2d66aed7a5328a988f77cbaec59fc047&abyssId=16453"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16453",
+        "playXID": "2d66aed7a5328a988f77cbaec59fc047",
+        "streamId": "16453",
+        "dubPlayerSrc": "/dub-player/t/16453/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2d66aed7a5328a988f77cbaec59fc047&abyssId=16453"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/2d66aed7a5328a988f77cbaec59fc047",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/2d66aed7a5328a988f77cbaec59fc047"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16453",
+        "abyssId": "16453",
+        "playXID": "2d66aed7a5328a988f77cbaec59fc047",
+        "title": "Baki Hanma",
+        "season": 1,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "CHqlr9__x"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "5LuUI2lt8"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "0ElRQGVVj"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/2f9fe93923fbadf2694bb744e3988fce/master.m3u8?md5=UAqK2BIfulZdIecRc_jgEQ&expires=1792166420",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/2f9fe93923fbadf2694bb744e3988fce/master.m3u8?md5=UAqK2BIfulZdIecRc_jgEQ&expires=1792166420",
+            "videoSource": "https://ravok.buzz/cdn/hls/2f9fe93923fbadf2694bb744e3988fce/master.m3u8?md5=UAqK2BIfulZdIecRc_jgEQ&expires=1792166420",
+            "videoImage": "https://as-cdn31.top/p/WrgnKyf-95CoeHlWhg7Llu1UlEq9pYqhfvJsfYAsc5VzJjfVrYN5rh1tpcEE_C14CY_qz5O6k__hA3v4I7gotg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "2d66aed7a5328a988f77cbaec59fc047",
+                "streamUrl": "https://ravok.buzz/cdn/hls/2f9fe93923fbadf2694bb744e3988fce/master.m3u8?md5=UAqK2BIfulZdIecRc_jgEQ&expires=1792166420",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/2f9fe93923fbadf2694bb744e3988fce/master.m3u8?md5=UAqK2BIfulZdIecRc_jgEQ&expires=1792166420",
+                "videoSource": "https://ravok.buzz/cdn/hls/2f9fe93923fbadf2694bb744e3988fce/master.m3u8?md5=UAqK2BIfulZdIecRc_jgEQ&expires=1792166420",
+                "link": "https://ravok.buzz/cdn/hls/2f9fe93923fbadf2694bb744e3988fce/master.m3u8?md5=UAqK2BIfulZdIecRc_jgEQ&expires=1792166420",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/WrgnKyf-95CoeHlWhg7Llu1UlEq9pYqhfvJsfYAsc5VzJjfVrYN5rh1tpcEE_C14CY_qz5O6k__hA3v4I7gotg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "CHqlr9__x"
+        }
+      },
+      "fetched_at": "2026-10-16T14:00:30Z"
+    },
+    {
+      "id": "episode/baki-hanma-1x9",
+      "episode_id": "episode/baki-hanma-1x9",
+      "title": "Baki Hanma 1x1",
+      "episode_name": "Baki Hanma 1x1",
+      "episode_number": 9,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1902_s1e9.webp",
+      "abyssid": "16454",
+      "abyssId": "16454",
+      "playxid": "37a2dff33c3da75c1ea08be45a9f8da6",
+      "playXID": "37a2dff33c3da75c1ea08be45a9f8da6",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16454",
+        "playXID": "37a2dff33c3da75c1ea08be45a9f8da6",
+        "streamId": "16454",
+        "dubPlayerSrc": "/dub-player/t/16454/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=37a2dff33c3da75c1ea08be45a9f8da6&abyssId=16454"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16454",
+        "playXID": "37a2dff33c3da75c1ea08be45a9f8da6",
+        "streamId": "16454",
+        "dubPlayerSrc": "/dub-player/t/16454/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=37a2dff33c3da75c1ea08be45a9f8da6&abyssId=16454"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/37a2dff33c3da75c1ea08be45a9f8da6",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/37a2dff33c3da75c1ea08be45a9f8da6"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16454",
+        "abyssId": "16454",
+        "playXID": "37a2dff33c3da75c1ea08be45a9f8da6",
+        "title": "Baki Hanma",
+        "season": 1,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "pqpcfpF3H"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "XuRfTgAZ0"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "VAMItyJkP"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/1ad57a03e5376f636c9b1485d676e62f/master.m3u8?md5=N6rGqVgVogeFFqtZaSREkQ&expires=1792166421",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/1ad57a03e5376f636c9b1485d676e62f/master.m3u8?md5=N6rGqVgVogeFFqtZaSREkQ&expires=1792166421",
+            "videoSource": "https://ravok.buzz/cdn/hls/1ad57a03e5376f636c9b1485d676e62f/master.m3u8?md5=N6rGqVgVogeFFqtZaSREkQ&expires=1792166421",
+            "videoImage": "https://as-cdn28.top/p/31DSsN60FLILUpkOI_9x27pvmSGt7OIlB9u8antLxtmFRzQhWFI-mpSLJVW_pZGjr6yypuP-5CMExvRiLvn0-w.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "37a2dff33c3da75c1ea08be45a9f8da6",
+                "streamUrl": "https://ravok.buzz/cdn/hls/1ad57a03e5376f636c9b1485d676e62f/master.m3u8?md5=N6rGqVgVogeFFqtZaSREkQ&expires=1792166421",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/1ad57a03e5376f636c9b1485d676e62f/master.m3u8?md5=N6rGqVgVogeFFqtZaSREkQ&expires=1792166421",
+                "videoSource": "https://ravok.buzz/cdn/hls/1ad57a03e5376f636c9b1485d676e62f/master.m3u8?md5=N6rGqVgVogeFFqtZaSREkQ&expires=1792166421",
+                "link": "https://ravok.buzz/cdn/hls/1ad57a03e5376f636c9b1485d676e62f/master.m3u8?md5=N6rGqVgVogeFFqtZaSREkQ&expires=1792166421",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/31DSsN60FLILUpkOI_9x27pvmSGt7OIlB9u8antLxtmFRzQhWFI-mpSLJVW_pZGjr6yypuP-5CMExvRiLvn0-w.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "pqpcfpF3H"
+        }
+      },
+      "fetched_at": "2026-10-16T14:00:31Z"
+    },
+    {
+      "id": "episode/baki-hanma-1x10",
+      "episode_id": "episode/baki-hanma-1x10",
+      "title": "Baki Hanma 1x1",
+      "episode_name": "Baki Hanma 1x1",
+      "episode_number": 10,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1902_s1e10.webp",
+      "abyssid": "16455",
+      "abyssId": "16455",
+      "playxid": "946af3555203afdb63e571b873e419f6",
+      "playXID": "946af3555203afdb63e571b873e419f6",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16455",
+        "playXID": "946af3555203afdb63e571b873e419f6",
+        "streamId": "16455",
+        "dubPlayerSrc": "/dub-player/t/16455/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=946af3555203afdb63e571b873e419f6&abyssId=16455"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16455",
+        "playXID": "946af3555203afdb63e571b873e419f6",
+        "streamId": "16455",
+        "dubPlayerSrc": "/dub-player/t/16455/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=946af3555203afdb63e571b873e419f6&abyssId=16455"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/946af3555203afdb63e571b873e419f6",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/946af3555203afdb63e571b873e419f6"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16455",
+        "abyssId": "16455",
+        "playXID": "946af3555203afdb63e571b873e419f6",
+        "title": "Baki Hanma",
+        "season": 1,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "CwNP6tvt6"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "MxEfCTMih"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "nly-zum7F"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/b416efdb272235343d29861c01046272/master.m3u8?md5=6k7PuI0CQVNNjA80T3oMMw&expires=1792166420",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/b416efdb272235343d29861c01046272/master.m3u8?md5=6k7PuI0CQVNNjA80T3oMMw&expires=1792166420",
+            "videoSource": "https://ravok.buzz/cdn/hls/b416efdb272235343d29861c01046272/master.m3u8?md5=6k7PuI0CQVNNjA80T3oMMw&expires=1792166420",
+            "videoImage": "https://as-cdn31.top/p/1ocqqX2nhWE0b7H2Fvhyu4-wtMtPWagyA9qfuFHKr4CfGMW-aIRcsj_mfzsiwTbT3ftlt6h8NsuenAkcVNtaVQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "946af3555203afdb63e571b873e419f6",
+                "streamUrl": "https://ravok.buzz/cdn/hls/b416efdb272235343d29861c01046272/master.m3u8?md5=6k7PuI0CQVNNjA80T3oMMw&expires=1792166420",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/b416efdb272235343d29861c01046272/master.m3u8?md5=6k7PuI0CQVNNjA80T3oMMw&expires=1792166420",
+                "videoSource": "https://ravok.buzz/cdn/hls/b416efdb272235343d29861c01046272/master.m3u8?md5=6k7PuI0CQVNNjA80T3oMMw&expires=1792166420",
+                "link": "https://ravok.buzz/cdn/hls/b416efdb272235343d29861c01046272/master.m3u8?md5=6k7PuI0CQVNNjA80T3oMMw&expires=1792166420",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/1ocqqX2nhWE0b7H2Fvhyu4-wtMtPWagyA9qfuFHKr4CfGMW-aIRcsj_mfzsiwTbT3ftlt6h8NsuenAkcVNtaVQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "CwNP6tvt6"
+        }
+      },
+      "fetched_at": "2026-10-16T14:00:32Z"
+    },
+    {
+      "id": "episode/baki-hanma-1x11",
+      "episode_id": "episode/baki-hanma-1x11",
+      "title": "Baki Hanma 1x1",
+      "episode_name": "Baki Hanma 1x1",
+      "episode_number": 11,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1902_s1e11.webp",
+      "abyssid": "16456",
+      "abyssId": "16456",
+      "playxid": "dbfce512dcdabc6b6e2724b6ec44efda",
+      "playXID": "dbfce512dcdabc6b6e2724b6ec44efda",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16456",
+        "playXID": "dbfce512dcdabc6b6e2724b6ec44efda",
+        "streamId": "16456",
+        "dubPlayerSrc": "/dub-player/t/16456/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=dbfce512dcdabc6b6e2724b6ec44efda&abyssId=16456"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16456",
+        "playXID": "dbfce512dcdabc6b6e2724b6ec44efda",
+        "streamId": "16456",
+        "dubPlayerSrc": "/dub-player/t/16456/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=dbfce512dcdabc6b6e2724b6ec44efda&abyssId=16456"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/dbfce512dcdabc6b6e2724b6ec44efda",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/dbfce512dcdabc6b6e2724b6ec44efda"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16456",
+        "abyssId": "16456",
+        "playXID": "dbfce512dcdabc6b6e2724b6ec44efda",
+        "title": "Baki Hanma",
+        "season": 1,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "bqcsLLxBv"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "7CmTf8lrB"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "-ln0T4-OG"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/f207d45389bed5c73f8356df1abc049a/master.m3u8?md5=rSEmt7l0l2o_kJSVe4FrHg&expires=1792166422",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/f207d45389bed5c73f8356df1abc049a/master.m3u8?md5=rSEmt7l0l2o_kJSVe4FrHg&expires=1792166422",
+            "videoSource": "https://ravok.buzz/cdn/hls/f207d45389bed5c73f8356df1abc049a/master.m3u8?md5=rSEmt7l0l2o_kJSVe4FrHg&expires=1792166422",
+            "videoImage": "https://as-cdn31.top/p/YlmQsUe_qlQErA2udq0UFo59e3T_dNxOm7w4M_aTAD8BDKv32B1Okx_KYbejl_NNjlwPvVJSl3iCsBKR5U3EHw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "dbfce512dcdabc6b6e2724b6ec44efda",
+                "streamUrl": "https://ravok.buzz/cdn/hls/f207d45389bed5c73f8356df1abc049a/master.m3u8?md5=rSEmt7l0l2o_kJSVe4FrHg&expires=1792166422",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/f207d45389bed5c73f8356df1abc049a/master.m3u8?md5=rSEmt7l0l2o_kJSVe4FrHg&expires=1792166422",
+                "videoSource": "https://ravok.buzz/cdn/hls/f207d45389bed5c73f8356df1abc049a/master.m3u8?md5=rSEmt7l0l2o_kJSVe4FrHg&expires=1792166422",
+                "link": "https://ravok.buzz/cdn/hls/f207d45389bed5c73f8356df1abc049a/master.m3u8?md5=rSEmt7l0l2o_kJSVe4FrHg&expires=1792166422",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/YlmQsUe_qlQErA2udq0UFo59e3T_dNxOm7w4M_aTAD8BDKv32B1Okx_KYbejl_NNjlwPvVJSl3iCsBKR5U3EHw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "bqcsLLxBv"
+        }
+      },
+      "fetched_at": "2026-10-16T14:00:32Z"
+    },
+    {
+      "id": "episode/baki-hanma-1x12",
+      "episode_id": "episode/baki-hanma-1x12",
+      "title": "Baki Hanma 1x1",
+      "episode_name": "Baki Hanma 1x1",
+      "episode_number": 12,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1902_s1e12.webp",
+      "abyssid": "16457",
+      "abyssId": "16457",
+      "playxid": "fc5f86251458722c799d1830fa0c2c1f",
+      "playXID": "fc5f86251458722c799d1830fa0c2c1f",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16457",
+        "playXID": "fc5f86251458722c799d1830fa0c2c1f",
+        "streamId": "16457",
+        "dubPlayerSrc": "/dub-player/t/16457/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=fc5f86251458722c799d1830fa0c2c1f&abyssId=16457"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16457",
+        "playXID": "fc5f86251458722c799d1830fa0c2c1f",
+        "streamId": "16457",
+        "dubPlayerSrc": "/dub-player/t/16457/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=fc5f86251458722c799d1830fa0c2c1f&abyssId=16457"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/fc5f86251458722c799d1830fa0c2c1f",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/fc5f86251458722c799d1830fa0c2c1f"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16457",
+        "abyssId": "16457",
+        "playXID": "fc5f86251458722c799d1830fa0c2c1f",
+        "title": "Baki Hanma",
+        "season": 1,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "18WqYra_jh"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "Ezbxy9euj"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "qNBAAXVfh"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/8d469edc631de4f23c5e8556e5906b93/master.m3u8?md5=tipvx98Tyr70TmpR0aX6Ww&expires=1792166422",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/8d469edc631de4f23c5e8556e5906b93/master.m3u8?md5=tipvx98Tyr70TmpR0aX6Ww&expires=1792166422",
+            "videoSource": "https://ravok.buzz/cdn/hls/8d469edc631de4f23c5e8556e5906b93/master.m3u8?md5=tipvx98Tyr70TmpR0aX6Ww&expires=1792166422",
+            "videoImage": "https://as-cdn31.top/p/H76nGQjHFS_0CC-2nL4hTQcqEBKb9PZAoZgMZLyjv5UONuMJ5DbrRdR1of6qI46U3EnbOEJSIBwoYe0Pjlp34w.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "fc5f86251458722c799d1830fa0c2c1f",
+                "streamUrl": "https://ravok.buzz/cdn/hls/8d469edc631de4f23c5e8556e5906b93/master.m3u8?md5=tipvx98Tyr70TmpR0aX6Ww&expires=1792166422",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/8d469edc631de4f23c5e8556e5906b93/master.m3u8?md5=tipvx98Tyr70TmpR0aX6Ww&expires=1792166422",
+                "videoSource": "https://ravok.buzz/cdn/hls/8d469edc631de4f23c5e8556e5906b93/master.m3u8?md5=tipvx98Tyr70TmpR0aX6Ww&expires=1792166422",
+                "link": "https://ravok.buzz/cdn/hls/8d469edc631de4f23c5e8556e5906b93/master.m3u8?md5=tipvx98Tyr70TmpR0aX6Ww&expires=1792166422",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/H76nGQjHFS_0CC-2nL4hTQcqEBKb9PZAoZgMZLyjv5UONuMJ5DbrRdR1of6qI46U3EnbOEJSIBwoYe0Pjlp34w.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "18WqYra_jh"
+        }
+      },
+      "fetched_at": "2026-10-16T14:00:32Z"
+    },
+    {
+      "id": "episode/baki-hanma-2x1",
+      "episode_id": "episode/baki-hanma-2x1",
+      "title": "Baki Hanma 2x1",
+      "episode_name": "Baki Hanma 2x1",
+      "episode_number": 1,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_1902_s2e1.webp",
+      "abyssid": "16459",
+      "abyssId": "16459",
+      "playxid": "76fb6fb9cbea7011e49166d9d4ddbc48",
+      "playXID": "76fb6fb9cbea7011e49166d9d4ddbc48",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16459",
+        "playXID": "76fb6fb9cbea7011e49166d9d4ddbc48",
+        "streamId": "16459",
+        "dubPlayerSrc": "/dub-player/t/16459/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=76fb6fb9cbea7011e49166d9d4ddbc48&abyssId=16459"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16459",
+        "playXID": "76fb6fb9cbea7011e49166d9d4ddbc48",
+        "streamId": "16459",
+        "dubPlayerSrc": "/dub-player/t/16459/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=76fb6fb9cbea7011e49166d9d4ddbc48&abyssId=16459"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/76fb6fb9cbea7011e49166d9d4ddbc48",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/76fb6fb9cbea7011e49166d9d4ddbc48"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16459",
+        "abyssId": "16459",
+        "playXID": "76fb6fb9cbea7011e49166d9d4ddbc48",
+        "title": "Baki Hanma",
+        "season": 2,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "k2BC4b5mS"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "s2Y0coUJy"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "aqWfo8AgP"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/b6df4fd0c9466d4b18e17a823299086e/master.m3u8?md5=8D75H7wNPK8g0Drc1xf_6Q&expires=1792166422",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/b6df4fd0c9466d4b18e17a823299086e/master.m3u8?md5=8D75H7wNPK8g0Drc1xf_6Q&expires=1792166422",
+            "videoSource": "https://ravok.buzz/cdn/hls/b6df4fd0c9466d4b18e17a823299086e/master.m3u8?md5=8D75H7wNPK8g0Drc1xf_6Q&expires=1792166422",
+            "videoImage": "https://as-cdn30.top/p/EQpiOq8GnusDUltNyAlSyo-v8MUUdY0QnVElMIkB0B6OS6FKQlktsDuq2Ax_FBLEuqwsClGhY4qqgAa7EwxysQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "76fb6fb9cbea7011e49166d9d4ddbc48",
+                "streamUrl": "https://ravok.buzz/cdn/hls/b6df4fd0c9466d4b18e17a823299086e/master.m3u8?md5=8D75H7wNPK8g0Drc1xf_6Q&expires=1792166422",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/b6df4fd0c9466d4b18e17a823299086e/master.m3u8?md5=8D75H7wNPK8g0Drc1xf_6Q&expires=1792166422",
+                "videoSource": "https://ravok.buzz/cdn/hls/b6df4fd0c9466d4b18e17a823299086e/master.m3u8?md5=8D75H7wNPK8g0Drc1xf_6Q&expires=1792166422",
+                "link": "https://ravok.buzz/cdn/hls/b6df4fd0c9466d4b18e17a823299086e/master.m3u8?md5=8D75H7wNPK8g0Drc1xf_6Q&expires=1792166422",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/EQpiOq8GnusDUltNyAlSyo-v8MUUdY0QnVElMIkB0B6OS6FKQlktsDuq2Ax_FBLEuqwsClGhY4qqgAa7EwxysQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "k2BC4b5mS"
+        }
+      },
+      "fetched_at": "2026-10-16T14:00:32Z"
+    },
+    {
+      "id": "episode/baki-hanma-2x2",
+      "episode_id": "episode/baki-hanma-2x2",
+      "title": "Baki Hanma 2x1",
+      "episode_name": "Baki Hanma 2x1",
+      "episode_number": 2,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_1902_s2e2.webp",
+      "abyssid": "16460",
+      "abyssId": "16460",
+      "playxid": "790ed1befbc24b257db60ed066b6d3cb",
+      "playXID": "790ed1befbc24b257db60ed066b6d3cb",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16460",
+        "playXID": "790ed1befbc24b257db60ed066b6d3cb",
+        "streamId": "16460",
+        "dubPlayerSrc": "/dub-player/t/16460/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=790ed1befbc24b257db60ed066b6d3cb&abyssId=16460"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16460",
+        "playXID": "790ed1befbc24b257db60ed066b6d3cb",
+        "streamId": "16460",
+        "dubPlayerSrc": "/dub-player/t/16460/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=790ed1befbc24b257db60ed066b6d3cb&abyssId=16460"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/790ed1befbc24b257db60ed066b6d3cb",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/790ed1befbc24b257db60ed066b6d3cb"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16460",
+        "abyssId": "16460",
+        "playXID": "790ed1befbc24b257db60ed066b6d3cb",
+        "title": "Baki Hanma",
+        "season": 2,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "vuToXuGvS"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "x9J8P8atP"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "Ye4-5xdvm"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/b37d2e4e40f6722ec52e2085ce87d238/master.m3u8?md5=ToNU5X6jCthUgKEA5U8Yug&expires=1792166423",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/b37d2e4e40f6722ec52e2085ce87d238/master.m3u8?md5=ToNU5X6jCthUgKEA5U8Yug&expires=1792166423",
+            "videoSource": "https://ravok.buzz/cdn/hls/b37d2e4e40f6722ec52e2085ce87d238/master.m3u8?md5=ToNU5X6jCthUgKEA5U8Yug&expires=1792166423",
+            "videoImage": "https://as-cdn30.top/p/lmEsOMn9j0bKdehsTe2ryZFwlZCv-UqvdBnUxQjGtcjGveK7amJ996qGjs47MY6iDIvjv1HcGRt6DSEc_QUwoA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "790ed1befbc24b257db60ed066b6d3cb",
+                "streamUrl": "https://ravok.buzz/cdn/hls/b37d2e4e40f6722ec52e2085ce87d238/master.m3u8?md5=ToNU5X6jCthUgKEA5U8Yug&expires=1792166423",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/b37d2e4e40f6722ec52e2085ce87d238/master.m3u8?md5=ToNU5X6jCthUgKEA5U8Yug&expires=1792166423",
+                "videoSource": "https://ravok.buzz/cdn/hls/b37d2e4e40f6722ec52e2085ce87d238/master.m3u8?md5=ToNU5X6jCthUgKEA5U8Yug&expires=1792166423",
+                "link": "https://ravok.buzz/cdn/hls/b37d2e4e40f6722ec52e2085ce87d238/master.m3u8?md5=ToNU5X6jCthUgKEA5U8Yug&expires=1792166423",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/lmEsOMn9j0bKdehsTe2ryZFwlZCv-UqvdBnUxQjGtcjGveK7amJ996qGjs47MY6iDIvjv1HcGRt6DSEc_QUwoA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "vuToXuGvS"
+        }
+      },
+      "fetched_at": "2026-10-16T14:00:33Z"
+    },
+    {
+      "id": "episode/baki-hanma-2x3",
+      "episode_id": "episode/baki-hanma-2x3",
+      "title": "Baki Hanma 2x1",
+      "episode_name": "Baki Hanma 2x1",
+      "episode_number": 3,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_1902_s2e3.webp",
+      "abyssid": "16461",
+      "abyssId": "16461",
+      "playxid": "3574cbb1010b32b07dd7f645153ee35c",
+      "playXID": "3574cbb1010b32b07dd7f645153ee35c",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16461",
+        "playXID": "3574cbb1010b32b07dd7f645153ee35c",
+        "streamId": "16461",
+        "dubPlayerSrc": "/dub-player/t/16461/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=3574cbb1010b32b07dd7f645153ee35c&abyssId=16461"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16461",
+        "playXID": "3574cbb1010b32b07dd7f645153ee35c",
+        "streamId": "16461",
+        "dubPlayerSrc": "/dub-player/t/16461/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=3574cbb1010b32b07dd7f645153ee35c&abyssId=16461"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/3574cbb1010b32b07dd7f645153ee35c",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/3574cbb1010b32b07dd7f645153ee35c"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16461",
+        "abyssId": "16461",
+        "playXID": "3574cbb1010b32b07dd7f645153ee35c",
+        "title": "Baki Hanma",
+        "season": 2,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "T_RY8KXu_"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "sQ5HAfJGe"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "ZFwieR4vK"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/bf7a4f375a5d5d16a1692f24486a8e4b/master.m3u8?md5=9ovoYlNMcJkKaeeIbKgM-g&expires=1792166424",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/bf7a4f375a5d5d16a1692f24486a8e4b/master.m3u8?md5=9ovoYlNMcJkKaeeIbKgM-g&expires=1792166424",
+            "videoSource": "https://ravok.buzz/cdn/hls/bf7a4f375a5d5d16a1692f24486a8e4b/master.m3u8?md5=9ovoYlNMcJkKaeeIbKgM-g&expires=1792166424",
+            "videoImage": "https://as-cdn31.top/p/bcjQVO1FU5Z2LOSJXCVACRXFSTDR8jUEAWoUSwpQjS1fxXdN4-c9UxefweswXXUZycPPUMi1-WasRf4MWESj9g.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "3574cbb1010b32b07dd7f645153ee35c",
+                "streamUrl": "https://ravok.buzz/cdn/hls/bf7a4f375a5d5d16a1692f24486a8e4b/master.m3u8?md5=9ovoYlNMcJkKaeeIbKgM-g&expires=1792166424",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/bf7a4f375a5d5d16a1692f24486a8e4b/master.m3u8?md5=9ovoYlNMcJkKaeeIbKgM-g&expires=1792166424",
+                "videoSource": "https://ravok.buzz/cdn/hls/bf7a4f375a5d5d16a1692f24486a8e4b/master.m3u8?md5=9ovoYlNMcJkKaeeIbKgM-g&expires=1792166424",
+                "link": "https://ravok.buzz/cdn/hls/bf7a4f375a5d5d16a1692f24486a8e4b/master.m3u8?md5=9ovoYlNMcJkKaeeIbKgM-g&expires=1792166424",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/bcjQVO1FU5Z2LOSJXCVACRXFSTDR8jUEAWoUSwpQjS1fxXdN4-c9UxefweswXXUZycPPUMi1-WasRf4MWESj9g.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "T_RY8KXu_"
+        }
+      },
+      "fetched_at": "2026-10-16T14:00:34Z"
+    },
+    {
+      "id": "episode/baki-hanma-2x4",
+      "episode_id": "episode/baki-hanma-2x4",
+      "title": "Baki Hanma 2x1",
+      "episode_name": "Baki Hanma 2x1",
+      "episode_number": 4,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_1902_s2e4.webp",
+      "abyssid": "16462",
+      "abyssId": "16462",
+      "playxid": "48090e338b20a9d004c2ef18a335f3cf",
+      "playXID": "48090e338b20a9d004c2ef18a335f3cf",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16462",
+        "playXID": "48090e338b20a9d004c2ef18a335f3cf",
+        "streamId": "16462",
+        "dubPlayerSrc": "/dub-player/t/16462/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=48090e338b20a9d004c2ef18a335f3cf&abyssId=16462"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16462",
+        "playXID": "48090e338b20a9d004c2ef18a335f3cf",
+        "streamId": "16462",
+        "dubPlayerSrc": "/dub-player/t/16462/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=48090e338b20a9d004c2ef18a335f3cf&abyssId=16462"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/48090e338b20a9d004c2ef18a335f3cf",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/48090e338b20a9d004c2ef18a335f3cf"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16462",
+        "abyssId": "16462",
+        "playXID": "48090e338b20a9d004c2ef18a335f3cf",
+        "title": "Baki Hanma",
+        "season": 2,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "TUFV1AvFg"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "rLLEFubEI"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "TvvjYL37Y"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/adcf4075858a7ab70e74081d8570228f/master.m3u8?md5=Qd3d1aWCcgBZvhdJ-oZ52A&expires=1792166424",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/adcf4075858a7ab70e74081d8570228f/master.m3u8?md5=Qd3d1aWCcgBZvhdJ-oZ52A&expires=1792166424",
+            "videoSource": "https://ravok.buzz/cdn/hls/adcf4075858a7ab70e74081d8570228f/master.m3u8?md5=Qd3d1aWCcgBZvhdJ-oZ52A&expires=1792166424",
+            "videoImage": "https://as-cdn30.top/p/-BdLFGlQ8rLIFLLHNwSzrs7fELwsXzhlOWxERvFvaMm3NiFmf1ecV1jJV6UZqjOSU_CIv67V5LxC43dTPgu-QQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "48090e338b20a9d004c2ef18a335f3cf",
+                "streamUrl": "https://ravok.buzz/cdn/hls/adcf4075858a7ab70e74081d8570228f/master.m3u8?md5=Qd3d1aWCcgBZvhdJ-oZ52A&expires=1792166424",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/adcf4075858a7ab70e74081d8570228f/master.m3u8?md5=Qd3d1aWCcgBZvhdJ-oZ52A&expires=1792166424",
+                "videoSource": "https://ravok.buzz/cdn/hls/adcf4075858a7ab70e74081d8570228f/master.m3u8?md5=Qd3d1aWCcgBZvhdJ-oZ52A&expires=1792166424",
+                "link": "https://ravok.buzz/cdn/hls/adcf4075858a7ab70e74081d8570228f/master.m3u8?md5=Qd3d1aWCcgBZvhdJ-oZ52A&expires=1792166424",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/-BdLFGlQ8rLIFLLHNwSzrs7fELwsXzhlOWxERvFvaMm3NiFmf1ecV1jJV6UZqjOSU_CIv67V5LxC43dTPgu-QQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "TUFV1AvFg"
+        }
+      },
+      "fetched_at": "2026-10-16T14:00:34Z"
+    },
+    {
+      "id": "episode/baki-hanma-2x5",
+      "episode_id": "episode/baki-hanma-2x5",
+      "title": "Baki Hanma 2x1",
+      "episode_name": "Baki Hanma 2x1",
+      "episode_number": 5,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_1902_s2e5.webp",
+      "abyssid": "16463",
+      "abyssId": "16463",
+      "playxid": "6e2c22ab08479b1da4206a0c5d7da31e",
+      "playXID": "6e2c22ab08479b1da4206a0c5d7da31e",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16463",
+        "playXID": "6e2c22ab08479b1da4206a0c5d7da31e",
+        "streamId": "16463",
+        "dubPlayerSrc": "/dub-player/t/16463/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6e2c22ab08479b1da4206a0c5d7da31e&abyssId=16463"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16463",
+        "playXID": "6e2c22ab08479b1da4206a0c5d7da31e",
+        "streamId": "16463",
+        "dubPlayerSrc": "/dub-player/t/16463/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6e2c22ab08479b1da4206a0c5d7da31e&abyssId=16463"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/6e2c22ab08479b1da4206a0c5d7da31e",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/6e2c22ab08479b1da4206a0c5d7da31e"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16463",
+        "abyssId": "16463",
+        "playXID": "6e2c22ab08479b1da4206a0c5d7da31e",
+        "title": "Baki Hanma",
+        "season": 2,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "rM1kEANay"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "9T8ZeU_TV"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "11zIAfGLw"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/e63d359c377b57e757965eac7bc711df/master.m3u8?md5=tJ0CvrltuRXPcTLU7onMOQ&expires=1792166424",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/e63d359c377b57e757965eac7bc711df/master.m3u8?md5=tJ0CvrltuRXPcTLU7onMOQ&expires=1792166424",
+            "videoSource": "https://ravok.buzz/cdn/hls/e63d359c377b57e757965eac7bc711df/master.m3u8?md5=tJ0CvrltuRXPcTLU7onMOQ&expires=1792166424",
+            "videoImage": "https://as-cdn28.top/p/2qv1N6NEAPtfi-7MP1W_XrwSKTmI_0zM9qrh7O1WGTdo_Rnoqw74UrSJsB32q34F9nBiysBeB9YyzFoFTJz2nA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "6e2c22ab08479b1da4206a0c5d7da31e",
+                "streamUrl": "https://ravok.buzz/cdn/hls/e63d359c377b57e757965eac7bc711df/master.m3u8?md5=tJ0CvrltuRXPcTLU7onMOQ&expires=1792166424",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/e63d359c377b57e757965eac7bc711df/master.m3u8?md5=tJ0CvrltuRXPcTLU7onMOQ&expires=1792166424",
+                "videoSource": "https://ravok.buzz/cdn/hls/e63d359c377b57e757965eac7bc711df/master.m3u8?md5=tJ0CvrltuRXPcTLU7onMOQ&expires=1792166424",
+                "link": "https://ravok.buzz/cdn/hls/e63d359c377b57e757965eac7bc711df/master.m3u8?md5=tJ0CvrltuRXPcTLU7onMOQ&expires=1792166424",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/2qv1N6NEAPtfi-7MP1W_XrwSKTmI_0zM9qrh7O1WGTdo_Rnoqw74UrSJsB32q34F9nBiysBeB9YyzFoFTJz2nA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "rM1kEANay"
+        }
+      },
+      "fetched_at": "2026-10-16T14:00:34Z"
+    },
+    {
+      "id": "episode/baki-hanma-2x6",
+      "episode_id": "episode/baki-hanma-2x6",
+      "title": "Baki Hanma 2x1",
+      "episode_name": "Baki Hanma 2x1",
+      "episode_number": 6,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_1902_s2e6.webp",
+      "abyssid": "16464",
+      "abyssId": "16464",
+      "playxid": "e9bbcc76e4c32d0a1276efc5e6c1d6c8",
+      "playXID": "e9bbcc76e4c32d0a1276efc5e6c1d6c8",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16464",
+        "playXID": "e9bbcc76e4c32d0a1276efc5e6c1d6c8",
+        "streamId": "16464",
+        "dubPlayerSrc": "/dub-player/t/16464/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e9bbcc76e4c32d0a1276efc5e6c1d6c8&abyssId=16464"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16464",
+        "playXID": "e9bbcc76e4c32d0a1276efc5e6c1d6c8",
+        "streamId": "16464",
+        "dubPlayerSrc": "/dub-player/t/16464/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e9bbcc76e4c32d0a1276efc5e6c1d6c8&abyssId=16464"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/e9bbcc76e4c32d0a1276efc5e6c1d6c8",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/e9bbcc76e4c32d0a1276efc5e6c1d6c8"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16464",
+        "abyssId": "16464",
+        "playXID": "e9bbcc76e4c32d0a1276efc5e6c1d6c8",
+        "title": "Baki Hanma",
+        "season": 2,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "iWc6VPdWZ"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "dNDe_WyOm"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "XgsYitjnN"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/93bd8cf53d0561e06291874fed36a8f2/master.m3u8?md5=LZtjDHG9zY6-UIVG8PZFMQ&expires=1792166425",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/93bd8cf53d0561e06291874fed36a8f2/master.m3u8?md5=LZtjDHG9zY6-UIVG8PZFMQ&expires=1792166425",
+            "videoSource": "https://ravok.buzz/cdn/hls/93bd8cf53d0561e06291874fed36a8f2/master.m3u8?md5=LZtjDHG9zY6-UIVG8PZFMQ&expires=1792166425",
+            "videoImage": "https://as-cdn28.top/p/cg7MlV9HkU_X4MAkVhejbuIFVi6nqKpvFF_ewZjwNQvwlDFlF_wtUxvZMt_JhcVupbAvly_LPJzw9Ah5yJglMw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "e9bbcc76e4c32d0a1276efc5e6c1d6c8",
+                "streamUrl": "https://ravok.buzz/cdn/hls/93bd8cf53d0561e06291874fed36a8f2/master.m3u8?md5=LZtjDHG9zY6-UIVG8PZFMQ&expires=1792166425",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/93bd8cf53d0561e06291874fed36a8f2/master.m3u8?md5=LZtjDHG9zY6-UIVG8PZFMQ&expires=1792166425",
+                "videoSource": "https://ravok.buzz/cdn/hls/93bd8cf53d0561e06291874fed36a8f2/master.m3u8?md5=LZtjDHG9zY6-UIVG8PZFMQ&expires=1792166425",
+                "link": "https://ravok.buzz/cdn/hls/93bd8cf53d0561e06291874fed36a8f2/master.m3u8?md5=LZtjDHG9zY6-UIVG8PZFMQ&expires=1792166425",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/cg7MlV9HkU_X4MAkVhejbuIFVi6nqKpvFF_ewZjwNQvwlDFlF_wtUxvZMt_JhcVupbAvly_LPJzw9Ah5yJglMw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "iWc6VPdWZ"
+        }
+      },
+      "fetched_at": "2026-10-16T14:00:35Z"
+    },
+    {
+      "id": "episode/baki-hanma-2x7",
+      "episode_id": "episode/baki-hanma-2x7",
+      "title": "Baki Hanma 2x1",
+      "episode_name": "Baki Hanma 2x1",
+      "episode_number": 7,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_1902_s2e7.webp",
+      "abyssid": "16465",
+      "abyssId": "16465",
+      "playxid": "4915f20d2c36611cb101e95e5c34b4e7",
+      "playXID": "4915f20d2c36611cb101e95e5c34b4e7",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16465",
+        "playXID": "4915f20d2c36611cb101e95e5c34b4e7",
+        "streamId": "16465",
+        "dubPlayerSrc": "/dub-player/t/16465/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=4915f20d2c36611cb101e95e5c34b4e7&abyssId=16465"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16465",
+        "playXID": "4915f20d2c36611cb101e95e5c34b4e7",
+        "streamId": "16465",
+        "dubPlayerSrc": "/dub-player/t/16465/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=4915f20d2c36611cb101e95e5c34b4e7&abyssId=16465"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/4915f20d2c36611cb101e95e5c34b4e7",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/4915f20d2c36611cb101e95e5c34b4e7"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16465",
+        "abyssId": "16465",
+        "playXID": "4915f20d2c36611cb101e95e5c34b4e7",
+        "title": "Baki Hanma",
+        "season": 2,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "OC_AETQwp"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "iT_sobUUr"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "1WUX_Mcr_S"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/c3e51e268ee5e76720b679868e99a944/master.m3u8?md5=OwuyNxYFXy8Dqr9GaZbhYw&expires=1792166425",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/c3e51e268ee5e76720b679868e99a944/master.m3u8?md5=OwuyNxYFXy8Dqr9GaZbhYw&expires=1792166425",
+            "videoSource": "https://ravok.buzz/cdn/hls/c3e51e268ee5e76720b679868e99a944/master.m3u8?md5=OwuyNxYFXy8Dqr9GaZbhYw&expires=1792166425",
+            "videoImage": "https://as-cdn31.top/p/AHUtpn2LLHIhcmcP0UzIKqS-jsrFYOVoaOkQnd6AshMcF5Zq6SCHJihKs2Y-vjzPLLxC8ORvq7fs4Bk3i1GaEQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "4915f20d2c36611cb101e95e5c34b4e7",
+                "streamUrl": "https://ravok.buzz/cdn/hls/c3e51e268ee5e76720b679868e99a944/master.m3u8?md5=OwuyNxYFXy8Dqr9GaZbhYw&expires=1792166425",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/c3e51e268ee5e76720b679868e99a944/master.m3u8?md5=OwuyNxYFXy8Dqr9GaZbhYw&expires=1792166425",
+                "videoSource": "https://ravok.buzz/cdn/hls/c3e51e268ee5e76720b679868e99a944/master.m3u8?md5=OwuyNxYFXy8Dqr9GaZbhYw&expires=1792166425",
+                "link": "https://ravok.buzz/cdn/hls/c3e51e268ee5e76720b679868e99a944/master.m3u8?md5=OwuyNxYFXy8Dqr9GaZbhYw&expires=1792166425",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/AHUtpn2LLHIhcmcP0UzIKqS-jsrFYOVoaOkQnd6AshMcF5Zq6SCHJihKs2Y-vjzPLLxC8ORvq7fs4Bk3i1GaEQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "OC_AETQwp"
+        }
+      },
+      "fetched_at": "2026-10-16T14:00:35Z"
+    },
+    {
+      "id": "episode/baki-hanma-2x8",
+      "episode_id": "episode/baki-hanma-2x8",
+      "title": "Baki Hanma 2x1",
+      "episode_name": "Baki Hanma 2x1",
+      "episode_number": 8,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_1902_s2e8.webp",
+      "abyssid": "16466",
+      "abyssId": "16466",
+      "playxid": "e1f9b39289e1893622852cf8de6e14db",
+      "playXID": "e1f9b39289e1893622852cf8de6e14db",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16466",
+        "playXID": "e1f9b39289e1893622852cf8de6e14db",
+        "streamId": "16466",
+        "dubPlayerSrc": "/dub-player/t/16466/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e1f9b39289e1893622852cf8de6e14db&abyssId=16466"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16466",
+        "playXID": "e1f9b39289e1893622852cf8de6e14db",
+        "streamId": "16466",
+        "dubPlayerSrc": "/dub-player/t/16466/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e1f9b39289e1893622852cf8de6e14db&abyssId=16466"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/e1f9b39289e1893622852cf8de6e14db",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/e1f9b39289e1893622852cf8de6e14db"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16466",
+        "abyssId": "16466",
+        "playXID": "e1f9b39289e1893622852cf8de6e14db",
+        "title": "Baki Hanma",
+        "season": 2,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "WPEGGOGrY"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "CR80lCGuQ"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "i0YMtO3fc"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/a7b29733371760efad00a147a1c1e47d/master.m3u8?md5=6TK-p0ICNAZEMkKOXtr5Lw&expires=1792166426",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/a7b29733371760efad00a147a1c1e47d/master.m3u8?md5=6TK-p0ICNAZEMkKOXtr5Lw&expires=1792166426",
+            "videoSource": "https://ravok.buzz/cdn/hls/a7b29733371760efad00a147a1c1e47d/master.m3u8?md5=6TK-p0ICNAZEMkKOXtr5Lw&expires=1792166426",
+            "videoImage": "https://as-cdn31.top/p/_WOLlXdWnDFZ4ZDiB1kwqFVw7SP8VO3Dg7iAW8MK_Cmqgr7nd6ArB2_kMfIO2yXSA0fyAslo9TLpm3VoXhjt1g.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "e1f9b39289e1893622852cf8de6e14db",
+                "streamUrl": "https://ravok.buzz/cdn/hls/a7b29733371760efad00a147a1c1e47d/master.m3u8?md5=6TK-p0ICNAZEMkKOXtr5Lw&expires=1792166426",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/a7b29733371760efad00a147a1c1e47d/master.m3u8?md5=6TK-p0ICNAZEMkKOXtr5Lw&expires=1792166426",
+                "videoSource": "https://ravok.buzz/cdn/hls/a7b29733371760efad00a147a1c1e47d/master.m3u8?md5=6TK-p0ICNAZEMkKOXtr5Lw&expires=1792166426",
+                "link": "https://ravok.buzz/cdn/hls/a7b29733371760efad00a147a1c1e47d/master.m3u8?md5=6TK-p0ICNAZEMkKOXtr5Lw&expires=1792166426",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/_WOLlXdWnDFZ4ZDiB1kwqFVw7SP8VO3Dg7iAW8MK_Cmqgr7nd6ArB2_kMfIO2yXSA0fyAslo9TLpm3VoXhjt1g.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "WPEGGOGrY"
+        }
+      },
+      "fetched_at": "2026-10-16T14:00:36Z"
+    },
+    {
+      "id": "episode/baki-hanma-2x10",
+      "episode_id": "episode/baki-hanma-2x10",
+      "title": "Baki Hanma 2x1",
+      "episode_name": "Baki Hanma 2x1",
+      "episode_number": 10,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_1902_s2e10.webp",
+      "abyssid": "16468",
+      "abyssId": "16468",
+      "playxid": "a0340694826ab06bae7fe3167683c669",
+      "playXID": "a0340694826ab06bae7fe3167683c669",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16468",
+        "playXID": "a0340694826ab06bae7fe3167683c669",
+        "streamId": "16468",
+        "dubPlayerSrc": "/dub-player/t/16468/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a0340694826ab06bae7fe3167683c669&abyssId=16468"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16468",
+        "playXID": "a0340694826ab06bae7fe3167683c669",
+        "streamId": "16468",
+        "dubPlayerSrc": "/dub-player/t/16468/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a0340694826ab06bae7fe3167683c669&abyssId=16468"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/a0340694826ab06bae7fe3167683c669",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/a0340694826ab06bae7fe3167683c669"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16468",
+        "abyssId": "16468",
+        "playXID": "a0340694826ab06bae7fe3167683c669",
+        "title": "Baki Hanma",
+        "season": 2,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "oR3B9LyMd"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "9mXUmE6W2"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "tr33d4OGB"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/30e148ea040e9340f43349c07b086976/master.m3u8?md5=jU0tzmrwp6tF0yfdHIDFSg&expires=1792166426",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/30e148ea040e9340f43349c07b086976/master.m3u8?md5=jU0tzmrwp6tF0yfdHIDFSg&expires=1792166426",
+            "videoSource": "https://ravok.buzz/cdn/hls/30e148ea040e9340f43349c07b086976/master.m3u8?md5=jU0tzmrwp6tF0yfdHIDFSg&expires=1792166426",
+            "videoImage": "https://as-cdn27.top/p/DSpK2jlLS6f1XdQOSzGc2OW8p19eEwwomQoSfrSKquSRuUrj_GI6yWaO4NIrvHR5IimeUbNXfEZuv6guqRsY0g.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "a0340694826ab06bae7fe3167683c669",
+                "streamUrl": "https://ravok.buzz/cdn/hls/30e148ea040e9340f43349c07b086976/master.m3u8?md5=jU0tzmrwp6tF0yfdHIDFSg&expires=1792166426",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/30e148ea040e9340f43349c07b086976/master.m3u8?md5=jU0tzmrwp6tF0yfdHIDFSg&expires=1792166426",
+                "videoSource": "https://ravok.buzz/cdn/hls/30e148ea040e9340f43349c07b086976/master.m3u8?md5=jU0tzmrwp6tF0yfdHIDFSg&expires=1792166426",
+                "link": "https://ravok.buzz/cdn/hls/30e148ea040e9340f43349c07b086976/master.m3u8?md5=jU0tzmrwp6tF0yfdHIDFSg&expires=1792166426",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/DSpK2jlLS6f1XdQOSzGc2OW8p19eEwwomQoSfrSKquSRuUrj_GI6yWaO4NIrvHR5IimeUbNXfEZuv6guqRsY0g.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "oR3B9LyMd"
+        }
+      },
+      "fetched_at": "2026-10-16T14:00:36Z"
+    },
+    {
+      "id": "episode/baki-hanma-2x11",
+      "episode_id": "episode/baki-hanma-2x11",
+      "title": "Baki Hanma 2x1",
+      "episode_name": "Baki Hanma 2x1",
+      "episode_number": 11,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_1902_s2e11.webp",
+      "abyssid": "16469",
+      "abyssId": "16469",
+      "playxid": "238f646b998ed51f3d0c612d5a373414",
+      "playXID": "238f646b998ed51f3d0c612d5a373414",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16469",
+        "playXID": "238f646b998ed51f3d0c612d5a373414",
+        "streamId": "16469",
+        "dubPlayerSrc": "/dub-player/t/16469/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=238f646b998ed51f3d0c612d5a373414&abyssId=16469"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16469",
+        "playXID": "238f646b998ed51f3d0c612d5a373414",
+        "streamId": "16469",
+        "dubPlayerSrc": "/dub-player/t/16469/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=238f646b998ed51f3d0c612d5a373414&abyssId=16469"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/238f646b998ed51f3d0c612d5a373414",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/238f646b998ed51f3d0c612d5a373414"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16469",
+        "abyssId": "16469",
+        "playXID": "238f646b998ed51f3d0c612d5a373414",
+        "title": "Baki Hanma",
+        "season": 2,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "tMktzYNvJ"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "XEMVZOdFP"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "FAWji-YR4"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/3efef4ff1b927dbd65640e51e7eda3dd/master.m3u8?md5=hu_7GpCcyDdSaF3cGb9Qxg&expires=1792166427",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/3efef4ff1b927dbd65640e51e7eda3dd/master.m3u8?md5=hu_7GpCcyDdSaF3cGb9Qxg&expires=1792166427",
+            "videoSource": "https://ravok.buzz/cdn/hls/3efef4ff1b927dbd65640e51e7eda3dd/master.m3u8?md5=hu_7GpCcyDdSaF3cGb9Qxg&expires=1792166427",
+            "videoImage": "https://as-cdn29.top/p/rCWPwb-zwjX7Ds8oK5XPD8d4TFU0IA0v5SBvVGUDso3f3saMExHo-oEWoLhLG9GOZLmmYwUQ3OJeGB5nptr3yQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "238f646b998ed51f3d0c612d5a373414",
+                "streamUrl": "https://ravok.buzz/cdn/hls/3efef4ff1b927dbd65640e51e7eda3dd/master.m3u8?md5=hu_7GpCcyDdSaF3cGb9Qxg&expires=1792166427",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/3efef4ff1b927dbd65640e51e7eda3dd/master.m3u8?md5=hu_7GpCcyDdSaF3cGb9Qxg&expires=1792166427",
+                "videoSource": "https://ravok.buzz/cdn/hls/3efef4ff1b927dbd65640e51e7eda3dd/master.m3u8?md5=hu_7GpCcyDdSaF3cGb9Qxg&expires=1792166427",
+                "link": "https://ravok.buzz/cdn/hls/3efef4ff1b927dbd65640e51e7eda3dd/master.m3u8?md5=hu_7GpCcyDdSaF3cGb9Qxg&expires=1792166427",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/rCWPwb-zwjX7Ds8oK5XPD8d4TFU0IA0v5SBvVGUDso3f3saMExHo-oEWoLhLG9GOZLmmYwUQ3OJeGB5nptr3yQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "tMktzYNvJ"
+        }
+      },
+      "fetched_at": "2026-10-16T14:00:37Z"
+    },
+    {
+      "id": "episode/baki-hanma-2x12",
+      "episode_id": "episode/baki-hanma-2x12",
+      "title": "Baki Hanma 2x1",
+      "episode_name": "Baki Hanma 2x1",
+      "episode_number": 12,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_1902_s2e12.webp",
+      "abyssid": "16470",
+      "abyssId": "16470",
+      "playxid": "f78a3fbff320d57c670af3fcdafebc7e",
+      "playXID": "f78a3fbff320d57c670af3fcdafebc7e",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16470",
+        "playXID": "f78a3fbff320d57c670af3fcdafebc7e",
+        "streamId": "16470",
+        "dubPlayerSrc": "/dub-player/t/16470/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f78a3fbff320d57c670af3fcdafebc7e&abyssId=16470"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16470",
+        "playXID": "f78a3fbff320d57c670af3fcdafebc7e",
+        "streamId": "16470",
+        "dubPlayerSrc": "/dub-player/t/16470/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f78a3fbff320d57c670af3fcdafebc7e&abyssId=16470"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/f78a3fbff320d57c670af3fcdafebc7e",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/f78a3fbff320d57c670af3fcdafebc7e"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16470",
+        "abyssId": "16470",
+        "playXID": "f78a3fbff320d57c670af3fcdafebc7e",
+        "title": "Baki Hanma",
+        "season": 2,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "InuGGiKUI"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "hp2IO9fN2"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "NKYneu9rl"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/e99b0123a136f274d923f575534893ef/master.m3u8?md5=QpHBhb5R6zdwrCbhUHNSAA&expires=1792166428",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/e99b0123a136f274d923f575534893ef/master.m3u8?md5=QpHBhb5R6zdwrCbhUHNSAA&expires=1792166428",
+            "videoSource": "https://ravok.buzz/cdn/hls/e99b0123a136f274d923f575534893ef/master.m3u8?md5=QpHBhb5R6zdwrCbhUHNSAA&expires=1792166428",
+            "videoImage": "https://as-cdn31.top/p/Fb4zooAKn0vf2PhnjRlTnybix3LjShWKxx_useWJPWy9EtjOdqXmuMeEP7ffbcKsVofpXLRACkZ2SI234yv3PQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "f78a3fbff320d57c670af3fcdafebc7e",
+                "streamUrl": "https://ravok.buzz/cdn/hls/e99b0123a136f274d923f575534893ef/master.m3u8?md5=QpHBhb5R6zdwrCbhUHNSAA&expires=1792166428",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/e99b0123a136f274d923f575534893ef/master.m3u8?md5=QpHBhb5R6zdwrCbhUHNSAA&expires=1792166428",
+                "videoSource": "https://ravok.buzz/cdn/hls/e99b0123a136f274d923f575534893ef/master.m3u8?md5=QpHBhb5R6zdwrCbhUHNSAA&expires=1792166428",
+                "link": "https://ravok.buzz/cdn/hls/e99b0123a136f274d923f575534893ef/master.m3u8?md5=QpHBhb5R6zdwrCbhUHNSAA&expires=1792166428",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/Fb4zooAKn0vf2PhnjRlTnybix3LjShWKxx_useWJPWy9EtjOdqXmuMeEP7ffbcKsVofpXLRACkZ2SI234yv3PQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "InuGGiKUI"
+        }
+      },
+      "fetched_at": "2026-10-16T14:00:38Z"
+    },
+    {
+      "id": "episode/baki-hanma-2x13",
+      "episode_id": "episode/baki-hanma-2x13",
+      "title": "Baki Hanma 2x1",
+      "episode_name": "Baki Hanma 2x1",
+      "episode_number": 13,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_1902_s2e13.webp",
+      "abyssid": "16471",
+      "abyssId": "16471",
+      "playxid": "6b41fd33b36a1ce27fc0a3b8f9d8df4c",
+      "playXID": "6b41fd33b36a1ce27fc0a3b8f9d8df4c",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16471",
+        "playXID": "6b41fd33b36a1ce27fc0a3b8f9d8df4c",
+        "streamId": "16471",
+        "dubPlayerSrc": "/dub-player/t/16471/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6b41fd33b36a1ce27fc0a3b8f9d8df4c&abyssId=16471"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16471",
+        "playXID": "6b41fd33b36a1ce27fc0a3b8f9d8df4c",
+        "streamId": "16471",
+        "dubPlayerSrc": "/dub-player/t/16471/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6b41fd33b36a1ce27fc0a3b8f9d8df4c&abyssId=16471"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/6b41fd33b36a1ce27fc0a3b8f9d8df4c",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/6b41fd33b36a1ce27fc0a3b8f9d8df4c"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16471",
+        "abyssId": "16471",
+        "playXID": "6b41fd33b36a1ce27fc0a3b8f9d8df4c",
+        "title": "Baki Hanma",
+        "season": 2,
+        "episode": 13,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "Qb_wzoRq_"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "YAPB4tZnp"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "N7K0YbFge"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/04c77bea050582b8013bf5936c0276e5/master.m3u8?md5=AVlgueM7agpjuMthAG6PIg&expires=1792166428",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/04c77bea050582b8013bf5936c0276e5/master.m3u8?md5=AVlgueM7agpjuMthAG6PIg&expires=1792166428",
+            "videoSource": "https://ravok.buzz/cdn/hls/04c77bea050582b8013bf5936c0276e5/master.m3u8?md5=AVlgueM7agpjuMthAG6PIg&expires=1792166428",
+            "videoImage": "https://as-cdn28.top/p/uZCPxFO-lNjadqr3wibugCHXOMlEXo4HliTHI9POBepvm-K8wuMCTftatM8tajx4EhgSRiZ2-xQbCT6-6wgkRA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "6b41fd33b36a1ce27fc0a3b8f9d8df4c",
+                "streamUrl": "https://ravok.buzz/cdn/hls/04c77bea050582b8013bf5936c0276e5/master.m3u8?md5=AVlgueM7agpjuMthAG6PIg&expires=1792166428",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/04c77bea050582b8013bf5936c0276e5/master.m3u8?md5=AVlgueM7agpjuMthAG6PIg&expires=1792166428",
+                "videoSource": "https://ravok.buzz/cdn/hls/04c77bea050582b8013bf5936c0276e5/master.m3u8?md5=AVlgueM7agpjuMthAG6PIg&expires=1792166428",
+                "link": "https://ravok.buzz/cdn/hls/04c77bea050582b8013bf5936c0276e5/master.m3u8?md5=AVlgueM7agpjuMthAG6PIg&expires=1792166428",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/uZCPxFO-lNjadqr3wibugCHXOMlEXo4HliTHI9POBepvm-K8wuMCTftatM8tajx4EhgSRiZ2-xQbCT6-6wgkRA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "Qb_wzoRq_"
+        }
+      },
+      "fetched_at": "2026-10-16T14:00:38Z"
+    },
+    {
+      "id": "episode/baki-hanma-2x14",
+      "episode_id": "episode/baki-hanma-2x14",
+      "title": "Baki Hanma 2x1",
+      "episode_name": "Baki Hanma 2x1",
+      "episode_number": 14,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_1902_s2e14.webp",
+      "abyssid": "16472",
+      "abyssId": "16472",
+      "playxid": "93819e80e5e3693840fa1f2c327b51b5",
+      "playXID": "93819e80e5e3693840fa1f2c327b51b5",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16472",
+        "playXID": "93819e80e5e3693840fa1f2c327b51b5",
+        "streamId": "16472",
+        "dubPlayerSrc": "/dub-player/t/16472/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=93819e80e5e3693840fa1f2c327b51b5&abyssId=16472"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16472",
+        "playXID": "93819e80e5e3693840fa1f2c327b51b5",
+        "streamId": "16472",
+        "dubPlayerSrc": "/dub-player/t/16472/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=93819e80e5e3693840fa1f2c327b51b5&abyssId=16472"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/93819e80e5e3693840fa1f2c327b51b5",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/93819e80e5e3693840fa1f2c327b51b5"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16472",
+        "abyssId": "16472",
+        "playXID": "93819e80e5e3693840fa1f2c327b51b5",
+        "title": "Baki Hanma",
+        "season": 2,
+        "episode": 14,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "TVOKleZO5J"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "e2QlRS8cw"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "rq6sZFWqj"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/03b129787be45a9fcf44dddb1ba2ae28/master.m3u8?md5=BkK0uFDBIu8VAKA58-IUqQ&expires=1792166428",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/03b129787be45a9fcf44dddb1ba2ae28/master.m3u8?md5=BkK0uFDBIu8VAKA58-IUqQ&expires=1792166428",
+            "videoSource": "https://ravok.buzz/cdn/hls/03b129787be45a9fcf44dddb1ba2ae28/master.m3u8?md5=BkK0uFDBIu8VAKA58-IUqQ&expires=1792166428",
+            "videoImage": "https://as-cdn29.top/p/hRgoR6aGW8_ZZEoysGEKkl-d29lPw8xbP4sHKAweUPJJR7hvwI2nyVC2QBRTCSLzpwGhWNTUaZgtKwiu0K3Trw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "93819e80e5e3693840fa1f2c327b51b5",
+                "streamUrl": "https://ravok.buzz/cdn/hls/03b129787be45a9fcf44dddb1ba2ae28/master.m3u8?md5=BkK0uFDBIu8VAKA58-IUqQ&expires=1792166428",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/03b129787be45a9fcf44dddb1ba2ae28/master.m3u8?md5=BkK0uFDBIu8VAKA58-IUqQ&expires=1792166428",
+                "videoSource": "https://ravok.buzz/cdn/hls/03b129787be45a9fcf44dddb1ba2ae28/master.m3u8?md5=BkK0uFDBIu8VAKA58-IUqQ&expires=1792166428",
+                "link": "https://ravok.buzz/cdn/hls/03b129787be45a9fcf44dddb1ba2ae28/master.m3u8?md5=BkK0uFDBIu8VAKA58-IUqQ&expires=1792166428",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/hRgoR6aGW8_ZZEoysGEKkl-d29lPw8xbP4sHKAweUPJJR7hvwI2nyVC2QBRTCSLzpwGhWNTUaZgtKwiu0K3Trw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "TVOKleZO5J"
+        }
+      },
+      "fetched_at": "2026-10-16T14:00:38Z"
+    },
+    {
+      "id": "episode/baki-hanma-2x15",
+      "episode_id": "episode/baki-hanma-2x15",
+      "title": "Baki Hanma 2x1",
+      "episode_name": "Baki Hanma 2x1",
+      "episode_number": 15,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_1902_s2e15.webp",
+      "abyssid": "16473",
+      "abyssId": "16473",
+      "playxid": "1f30c0ce8636ff2c424549971dcab5d8",
+      "playXID": "1f30c0ce8636ff2c424549971dcab5d8",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16473",
+        "playXID": "1f30c0ce8636ff2c424549971dcab5d8",
+        "streamId": "16473",
+        "dubPlayerSrc": "/dub-player/t/16473/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=1f30c0ce8636ff2c424549971dcab5d8&abyssId=16473"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16473",
+        "playXID": "1f30c0ce8636ff2c424549971dcab5d8",
+        "streamId": "16473",
+        "dubPlayerSrc": "/dub-player/t/16473/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=1f30c0ce8636ff2c424549971dcab5d8&abyssId=16473"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/1f30c0ce8636ff2c424549971dcab5d8",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/1f30c0ce8636ff2c424549971dcab5d8"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16473",
+        "abyssId": "16473",
+        "playXID": "1f30c0ce8636ff2c424549971dcab5d8",
+        "title": "Baki Hanma",
+        "season": 2,
+        "episode": 15,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "-BHvLOmvT"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "96JWfQI-X"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "5jk7AwHww"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/3b76fe9ae1308f769bfc3db9367b664b/master.m3u8?md5=8rAJd99D-Dj6F2-OeV53ng&expires=1792166429",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/3b76fe9ae1308f769bfc3db9367b664b/master.m3u8?md5=8rAJd99D-Dj6F2-OeV53ng&expires=1792166429",
+            "videoSource": "https://ravok.buzz/cdn/hls/3b76fe9ae1308f769bfc3db9367b664b/master.m3u8?md5=8rAJd99D-Dj6F2-OeV53ng&expires=1792166429",
+            "videoImage": "https://as-cdn29.top/p/lQFnni3MUgD4-d2rag9ceA1ovkMvHHn0YpJc40Kp67r3ti5XZdYmSXxmfUnJ5_tzHzBCWLZ5PwxnW2YvGvpZEQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "1f30c0ce8636ff2c424549971dcab5d8",
+                "streamUrl": "https://ravok.buzz/cdn/hls/3b76fe9ae1308f769bfc3db9367b664b/master.m3u8?md5=8rAJd99D-Dj6F2-OeV53ng&expires=1792166429",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/3b76fe9ae1308f769bfc3db9367b664b/master.m3u8?md5=8rAJd99D-Dj6F2-OeV53ng&expires=1792166429",
+                "videoSource": "https://ravok.buzz/cdn/hls/3b76fe9ae1308f769bfc3db9367b664b/master.m3u8?md5=8rAJd99D-Dj6F2-OeV53ng&expires=1792166429",
+                "link": "https://ravok.buzz/cdn/hls/3b76fe9ae1308f769bfc3db9367b664b/master.m3u8?md5=8rAJd99D-Dj6F2-OeV53ng&expires=1792166429",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/lQFnni3MUgD4-d2rag9ceA1ovkMvHHn0YpJc40Kp67r3ti5XZdYmSXxmfUnJ5_tzHzBCWLZ5PwxnW2YvGvpZEQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "-BHvLOmvT"
+        }
+      },
+      "fetched_at": "2026-10-16T14:00:39Z"
+    },
+    {
+      "id": "episode/baki-hanma-2x18",
+      "episode_id": "episode/baki-hanma-2x18",
+      "title": "Baki Hanma 2x1",
+      "episode_name": "Baki Hanma 2x1",
+      "episode_number": 18,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_1902_s2e18.webp",
+      "abyssid": "16476",
+      "abyssId": "16476",
+      "playxid": "73a2ef803debeee21de0e42f9c91aa6c",
+      "playXID": "73a2ef803debeee21de0e42f9c91aa6c",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16476",
+        "playXID": "73a2ef803debeee21de0e42f9c91aa6c",
+        "streamId": "16476",
+        "dubPlayerSrc": "/dub-player/t/16476/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=73a2ef803debeee21de0e42f9c91aa6c&abyssId=16476"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16476",
+        "playXID": "73a2ef803debeee21de0e42f9c91aa6c",
+        "streamId": "16476",
+        "dubPlayerSrc": "/dub-player/t/16476/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=73a2ef803debeee21de0e42f9c91aa6c&abyssId=16476"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/73a2ef803debeee21de0e42f9c91aa6c",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/73a2ef803debeee21de0e42f9c91aa6c"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16476",
+        "abyssId": "16476",
+        "playXID": "73a2ef803debeee21de0e42f9c91aa6c",
+        "title": "Baki Hanma",
+        "season": 2,
+        "episode": 18,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "WeI0-oE5K"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "F06c3DhEK"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "4K20VU5FU"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/e138dc732e5b2c8affd6a77fba08f71c/master.m3u8?md5=mrEAFvKD6a6KVYABMEucRQ&expires=1792166431",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/e138dc732e5b2c8affd6a77fba08f71c/master.m3u8?md5=mrEAFvKD6a6KVYABMEucRQ&expires=1792166431",
+            "videoSource": "https://ravok.buzz/cdn/hls/e138dc732e5b2c8affd6a77fba08f71c/master.m3u8?md5=mrEAFvKD6a6KVYABMEucRQ&expires=1792166431",
+            "videoImage": "https://as-cdn29.top/p/yT_S829ePiPheiuDF3Z4sbAua-AqXX3cUsZoC569m7LckWiCm0hd9eANqplgyw9z_KiGeL-53tKX-41_5CUbDA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "73a2ef803debeee21de0e42f9c91aa6c",
+                "streamUrl": "https://ravok.buzz/cdn/hls/e138dc732e5b2c8affd6a77fba08f71c/master.m3u8?md5=mrEAFvKD6a6KVYABMEucRQ&expires=1792166431",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/e138dc732e5b2c8affd6a77fba08f71c/master.m3u8?md5=mrEAFvKD6a6KVYABMEucRQ&expires=1792166431",
+                "videoSource": "https://ravok.buzz/cdn/hls/e138dc732e5b2c8affd6a77fba08f71c/master.m3u8?md5=mrEAFvKD6a6KVYABMEucRQ&expires=1792166431",
+                "link": "https://ravok.buzz/cdn/hls/e138dc732e5b2c8affd6a77fba08f71c/master.m3u8?md5=mrEAFvKD6a6KVYABMEucRQ&expires=1792166431",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/yT_S829ePiPheiuDF3Z4sbAua-AqXX3cUsZoC569m7LckWiCm0hd9eANqplgyw9z_KiGeL-53tKX-41_5CUbDA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "WeI0-oE5K"
+        }
+      },
+      "fetched_at": "2026-10-16T14:00:41Z"
+    },
+    {
+      "id": "episode/baki-hanma-2x16",
+      "episode_id": "episode/baki-hanma-2x16",
+      "title": "Baki Hanma 2x1",
+      "episode_name": "Baki Hanma 2x1",
+      "episode_number": 16,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_1902_s2e16.webp",
+      "abyssid": "16474",
+      "abyssId": "16474",
+      "playxid": "5f745f6c801324b8334d1ec452b5740f",
+      "playXID": "5f745f6c801324b8334d1ec452b5740f",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16474",
+        "playXID": "5f745f6c801324b8334d1ec452b5740f",
+        "streamId": "16474",
+        "dubPlayerSrc": "/dub-player/t/16474/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=5f745f6c801324b8334d1ec452b5740f&abyssId=16474"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16474",
+        "playXID": "5f745f6c801324b8334d1ec452b5740f",
+        "streamId": "16474",
+        "dubPlayerSrc": "/dub-player/t/16474/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=5f745f6c801324b8334d1ec452b5740f&abyssId=16474"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/5f745f6c801324b8334d1ec452b5740f",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/5f745f6c801324b8334d1ec452b5740f"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16474",
+        "abyssId": "16474",
+        "playXID": "5f745f6c801324b8334d1ec452b5740f",
+        "title": "Baki Hanma",
+        "season": 2,
+        "episode": 16,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "BvDpzurGm"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "mF7dRFXbj"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "pIhmDSpeo"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/e67111a7ada48607b53486b8be8bfa25/master.m3u8?md5=fns9NqVaQpjgLDVW0tUZZg&expires=1792166430",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/e67111a7ada48607b53486b8be8bfa25/master.m3u8?md5=fns9NqVaQpjgLDVW0tUZZg&expires=1792166430",
+            "videoSource": "https://ravok.buzz/cdn/hls/e67111a7ada48607b53486b8be8bfa25/master.m3u8?md5=fns9NqVaQpjgLDVW0tUZZg&expires=1792166430",
+            "videoImage": "https://as-cdn27.top/p/34hZcoj9zYFNkbUMkq2eQiWGDwPL5hQjeWSMKZyTo9rmP3l4PVIO_F5_lGXB5-W7V1LOCi3jBgoCsEN89OpnNg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "5f745f6c801324b8334d1ec452b5740f",
+                "streamUrl": "https://ravok.buzz/cdn/hls/e67111a7ada48607b53486b8be8bfa25/master.m3u8?md5=fns9NqVaQpjgLDVW0tUZZg&expires=1792166430",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/e67111a7ada48607b53486b8be8bfa25/master.m3u8?md5=fns9NqVaQpjgLDVW0tUZZg&expires=1792166430",
+                "videoSource": "https://ravok.buzz/cdn/hls/e67111a7ada48607b53486b8be8bfa25/master.m3u8?md5=fns9NqVaQpjgLDVW0tUZZg&expires=1792166430",
+                "link": "https://ravok.buzz/cdn/hls/e67111a7ada48607b53486b8be8bfa25/master.m3u8?md5=fns9NqVaQpjgLDVW0tUZZg&expires=1792166430",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/34hZcoj9zYFNkbUMkq2eQiWGDwPL5hQjeWSMKZyTo9rmP3l4PVIO_F5_lGXB5-W7V1LOCi3jBgoCsEN89OpnNg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "BvDpzurGm"
+        }
+      },
+      "fetched_at": "2026-10-16T14:00:41Z"
+    },
+    {
+      "id": "episode/baki-hanma-2x9",
+      "episode_id": "episode/baki-hanma-2x9",
+      "title": "Baki Hanma 2x1",
+      "episode_name": "Baki Hanma 2x1",
+      "episode_number": 9,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_1902_s2e9.webp",
+      "abyssid": "16467",
+      "abyssId": "16467",
+      "playxid": "d169e16da608a6a8d61bc64a2d333e8a",
+      "playXID": "d169e16da608a6a8d61bc64a2d333e8a",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16467",
+        "playXID": "d169e16da608a6a8d61bc64a2d333e8a",
+        "streamId": "16467",
+        "dubPlayerSrc": "/dub-player/t/16467/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d169e16da608a6a8d61bc64a2d333e8a&abyssId=16467"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16467",
+        "playXID": "d169e16da608a6a8d61bc64a2d333e8a",
+        "streamId": "16467",
+        "dubPlayerSrc": "/dub-player/t/16467/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d169e16da608a6a8d61bc64a2d333e8a&abyssId=16467"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/d169e16da608a6a8d61bc64a2d333e8a",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/d169e16da608a6a8d61bc64a2d333e8a"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16467",
+        "abyssId": "16467",
+        "playXID": "d169e16da608a6a8d61bc64a2d333e8a",
+        "title": "Baki Hanma",
+        "season": 2,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "o7DHb4kSP"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "KvUcWgXmP"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "ODxE9Kfzd"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/1d06e1057b69aea270111fd434cfba63/master.m3u8?md5=4RXfvAorpXJMeqvk2TAx2g&expires=1792166430",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/1d06e1057b69aea270111fd434cfba63/master.m3u8?md5=4RXfvAorpXJMeqvk2TAx2g&expires=1792166430",
+            "videoSource": "https://ravok.buzz/cdn/hls/1d06e1057b69aea270111fd434cfba63/master.m3u8?md5=4RXfvAorpXJMeqvk2TAx2g&expires=1792166430",
+            "videoImage": "https://as-cdn30.top/p/zNCOwohegOA6mpsAXQF4YF4ZyAMZ4FAYFs6bRg5Q9bBaM6YB0z5FsK5bP_XACatE2X-mthg7c9Ek0Dzq8XLVZA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "d169e16da608a6a8d61bc64a2d333e8a",
+                "streamUrl": "https://ravok.buzz/cdn/hls/1d06e1057b69aea270111fd434cfba63/master.m3u8?md5=4RXfvAorpXJMeqvk2TAx2g&expires=1792166430",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/1d06e1057b69aea270111fd434cfba63/master.m3u8?md5=4RXfvAorpXJMeqvk2TAx2g&expires=1792166430",
+                "videoSource": "https://ravok.buzz/cdn/hls/1d06e1057b69aea270111fd434cfba63/master.m3u8?md5=4RXfvAorpXJMeqvk2TAx2g&expires=1792166430",
+                "link": "https://ravok.buzz/cdn/hls/1d06e1057b69aea270111fd434cfba63/master.m3u8?md5=4RXfvAorpXJMeqvk2TAx2g&expires=1792166430",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/zNCOwohegOA6mpsAXQF4YF4ZyAMZ4FAYFs6bRg5Q9bBaM6YB0z5FsK5bP_XACatE2X-mthg7c9Ek0Dzq8XLVZA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "o7DHb4kSP"
+        }
+      },
+      "fetched_at": "2026-10-16T14:00:41Z"
+    },
+    {
+      "id": "episode/baki-hanma-2x17",
+      "episode_id": "episode/baki-hanma-2x17",
+      "title": "Baki Hanma 2x1",
+      "episode_name": "Baki Hanma 2x1",
+      "episode_number": 17,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_1902_s2e17.webp",
+      "abyssid": "16475",
+      "abyssId": "16475",
+      "playxid": "97cbc42bf29a147e4a2c287664032734",
+      "playXID": "97cbc42bf29a147e4a2c287664032734",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16475",
+        "playXID": "97cbc42bf29a147e4a2c287664032734",
+        "streamId": "16475",
+        "dubPlayerSrc": "/dub-player/t/16475/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=97cbc42bf29a147e4a2c287664032734&abyssId=16475"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16475",
+        "playXID": "97cbc42bf29a147e4a2c287664032734",
+        "streamId": "16475",
+        "dubPlayerSrc": "/dub-player/t/16475/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=97cbc42bf29a147e4a2c287664032734&abyssId=16475"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/97cbc42bf29a147e4a2c287664032734",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/97cbc42bf29a147e4a2c287664032734"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16475",
+        "abyssId": "16475",
+        "playXID": "97cbc42bf29a147e4a2c287664032734",
+        "title": "Baki Hanma",
+        "season": 2,
+        "episode": 17,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "YI8lwqwQo"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "Tr69OXDtt"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "a-mq82WN3"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/d2324aada594a840ab86de090e22fd47/master.m3u8?md5=cswJWX6MJikWsoqw__achg&expires=1792166432",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/d2324aada594a840ab86de090e22fd47/master.m3u8?md5=cswJWX6MJikWsoqw__achg&expires=1792166432",
+            "videoSource": "https://ravok.buzz/cdn/hls/d2324aada594a840ab86de090e22fd47/master.m3u8?md5=cswJWX6MJikWsoqw__achg&expires=1792166432",
+            "videoImage": "https://as-cdn30.top/p/RkJ8gNKP07BPiN9FStpAvbogfMqa2phqvHCli7IQkDkdw3zhg57eq0k1PYXMIRswRgGJ_CPaSKqN9-YMIuD5ig.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "97cbc42bf29a147e4a2c287664032734",
+                "streamUrl": "https://ravok.buzz/cdn/hls/d2324aada594a840ab86de090e22fd47/master.m3u8?md5=cswJWX6MJikWsoqw__achg&expires=1792166432",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/d2324aada594a840ab86de090e22fd47/master.m3u8?md5=cswJWX6MJikWsoqw__achg&expires=1792166432",
+                "videoSource": "https://ravok.buzz/cdn/hls/d2324aada594a840ab86de090e22fd47/master.m3u8?md5=cswJWX6MJikWsoqw__achg&expires=1792166432",
+                "link": "https://ravok.buzz/cdn/hls/d2324aada594a840ab86de090e22fd47/master.m3u8?md5=cswJWX6MJikWsoqw__achg&expires=1792166432",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/RkJ8gNKP07BPiN9FStpAvbogfMqa2phqvHCli7IQkDkdw3zhg57eq0k1PYXMIRswRgGJ_CPaSKqN9-YMIuD5ig.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "YI8lwqwQo"
+        }
+      },
+      "fetched_at": "2026-10-16T14:00:42Z"
+    },
+    {
+      "id": "episode/baki-hanma-2x19",
+      "episode_id": "episode/baki-hanma-2x19",
+      "title": "Baki Hanma 2x1",
+      "episode_name": "Baki Hanma 2x1",
+      "episode_number": 19,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_1902_s2e19.webp",
+      "abyssid": "16477",
+      "abyssId": "16477",
+      "playxid": "efb534de6f86b9996e556b05ddf72357",
+      "playXID": "efb534de6f86b9996e556b05ddf72357",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16477",
+        "playXID": "efb534de6f86b9996e556b05ddf72357",
+        "streamId": "16477",
+        "dubPlayerSrc": "/dub-player/t/16477/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=efb534de6f86b9996e556b05ddf72357&abyssId=16477"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16477",
+        "playXID": "efb534de6f86b9996e556b05ddf72357",
+        "streamId": "16477",
+        "dubPlayerSrc": "/dub-player/t/16477/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=efb534de6f86b9996e556b05ddf72357&abyssId=16477"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/efb534de6f86b9996e556b05ddf72357",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/efb534de6f86b9996e556b05ddf72357"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16477",
+        "abyssId": "16477",
+        "playXID": "efb534de6f86b9996e556b05ddf72357",
+        "title": "Baki Hanma",
+        "season": 2,
+        "episode": 19,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "rNel_dQBkj"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "_ImrZUwk-"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "vLTSf_FMN"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/92a25a4de52b71f754aed87a73cbfa1d/master.m3u8?md5=vTe18VUK_IEe4AJDHPixKQ&expires=1792166432",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/92a25a4de52b71f754aed87a73cbfa1d/master.m3u8?md5=vTe18VUK_IEe4AJDHPixKQ&expires=1792166432",
+            "videoSource": "https://ravok.buzz/cdn/hls/92a25a4de52b71f754aed87a73cbfa1d/master.m3u8?md5=vTe18VUK_IEe4AJDHPixKQ&expires=1792166432",
+            "videoImage": "https://as-cdn28.top/p/JKk4DlWaOEmWjWTwFJueVoQITi7QzF8KdGUTP7v37tdqizSwkUnmK0l71qwoAgG5kjaT1HIpg22JvyQSL4sx4Q.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "efb534de6f86b9996e556b05ddf72357",
+                "streamUrl": "https://ravok.buzz/cdn/hls/92a25a4de52b71f754aed87a73cbfa1d/master.m3u8?md5=vTe18VUK_IEe4AJDHPixKQ&expires=1792166432",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/92a25a4de52b71f754aed87a73cbfa1d/master.m3u8?md5=vTe18VUK_IEe4AJDHPixKQ&expires=1792166432",
+                "videoSource": "https://ravok.buzz/cdn/hls/92a25a4de52b71f754aed87a73cbfa1d/master.m3u8?md5=vTe18VUK_IEe4AJDHPixKQ&expires=1792166432",
+                "link": "https://ravok.buzz/cdn/hls/92a25a4de52b71f754aed87a73cbfa1d/master.m3u8?md5=vTe18VUK_IEe4AJDHPixKQ&expires=1792166432",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/JKk4DlWaOEmWjWTwFJueVoQITi7QzF8KdGUTP7v37tdqizSwkUnmK0l71qwoAgG5kjaT1HIpg22JvyQSL4sx4Q.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "rNel_dQBkj"
+        }
+      },
+      "fetched_at": "2026-10-16T14:00:42Z"
+    },
+    {
+      "id": "episode/baki-hanma-2x20",
+      "episode_id": "episode/baki-hanma-2x20",
+      "title": "Baki Hanma 2x1",
+      "episode_name": "Baki Hanma 2x1",
+      "episode_number": 20,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_1902_s2e20.webp",
+      "abyssid": "16478",
+      "abyssId": "16478",
+      "playxid": "6ec3ff0c922ce84561ce5162f912b47e",
+      "playXID": "6ec3ff0c922ce84561ce5162f912b47e",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16478",
+        "playXID": "6ec3ff0c922ce84561ce5162f912b47e",
+        "streamId": "16478",
+        "dubPlayerSrc": "/dub-player/t/16478/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6ec3ff0c922ce84561ce5162f912b47e&abyssId=16478"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16478",
+        "playXID": "6ec3ff0c922ce84561ce5162f912b47e",
+        "streamId": "16478",
+        "dubPlayerSrc": "/dub-player/t/16478/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6ec3ff0c922ce84561ce5162f912b47e&abyssId=16478"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/6ec3ff0c922ce84561ce5162f912b47e",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/6ec3ff0c922ce84561ce5162f912b47e"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16478",
+        "abyssId": "16478",
+        "playXID": "6ec3ff0c922ce84561ce5162f912b47e",
+        "title": "Baki Hanma",
+        "season": 2,
+        "episode": 20,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "O73WN5QTJ"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "90altyWyW"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "RjqkHL6gL"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/dc25df8d6e815ca04226fc12cad30ed2/master.m3u8?md5=fq5fg1WYqzYDsrCAevq3rQ&expires=1792166433",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/dc25df8d6e815ca04226fc12cad30ed2/master.m3u8?md5=fq5fg1WYqzYDsrCAevq3rQ&expires=1792166433",
+            "videoSource": "https://ravok.buzz/cdn/hls/dc25df8d6e815ca04226fc12cad30ed2/master.m3u8?md5=fq5fg1WYqzYDsrCAevq3rQ&expires=1792166433",
+            "videoImage": "https://as-cdn27.top/p/dX9NAp7dctViCr9kTmf9KAURRJvaCv4FwtfaQoMFhIPzmSXiIeiKqDrC97NhRv8kGKsAgzvxtpWlJ8c4MPV6Uw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "6ec3ff0c922ce84561ce5162f912b47e",
+                "streamUrl": "https://ravok.buzz/cdn/hls/dc25df8d6e815ca04226fc12cad30ed2/master.m3u8?md5=fq5fg1WYqzYDsrCAevq3rQ&expires=1792166433",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/dc25df8d6e815ca04226fc12cad30ed2/master.m3u8?md5=fq5fg1WYqzYDsrCAevq3rQ&expires=1792166433",
+                "videoSource": "https://ravok.buzz/cdn/hls/dc25df8d6e815ca04226fc12cad30ed2/master.m3u8?md5=fq5fg1WYqzYDsrCAevq3rQ&expires=1792166433",
+                "link": "https://ravok.buzz/cdn/hls/dc25df8d6e815ca04226fc12cad30ed2/master.m3u8?md5=fq5fg1WYqzYDsrCAevq3rQ&expires=1792166433",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/dX9NAp7dctViCr9kTmf9KAURRJvaCv4FwtfaQoMFhIPzmSXiIeiKqDrC97NhRv8kGKsAgzvxtpWlJ8c4MPV6Uw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "O73WN5QTJ"
+        }
+      },
+      "fetched_at": "2026-10-16T14:00:43Z"
+    },
+    {
+      "id": "episode/baki-hanma-2x21",
+      "episode_id": "episode/baki-hanma-2x21",
+      "title": "Baki Hanma 2x1",
+      "episode_name": "Baki Hanma 2x1",
+      "episode_number": 21,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_1902_s2e21.webp",
+      "abyssid": "16479",
+      "abyssId": "16479",
+      "playxid": "907372450aa412b4647b9b8a64967f71",
+      "playXID": "907372450aa412b4647b9b8a64967f71",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16479",
+        "playXID": "907372450aa412b4647b9b8a64967f71",
+        "streamId": "16479",
+        "dubPlayerSrc": "/dub-player/t/16479/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=907372450aa412b4647b9b8a64967f71&abyssId=16479"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16479",
+        "playXID": "907372450aa412b4647b9b8a64967f71",
+        "streamId": "16479",
+        "dubPlayerSrc": "/dub-player/t/16479/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=907372450aa412b4647b9b8a64967f71&abyssId=16479"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/907372450aa412b4647b9b8a64967f71",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/907372450aa412b4647b9b8a64967f71"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16479",
+        "abyssId": "16479",
+        "playXID": "907372450aa412b4647b9b8a64967f71",
+        "title": "Baki Hanma",
+        "season": 2,
+        "episode": 21,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "0hvgH7r4E"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "OOw7s8vbq"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "-vOwwFLpK"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/af6695a45cb83f40e118061c5b571a29/master.m3u8?md5=hjz6nlwvq1z1m-FMIYxFQQ&expires=1792166433",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/af6695a45cb83f40e118061c5b571a29/master.m3u8?md5=hjz6nlwvq1z1m-FMIYxFQQ&expires=1792166433",
+            "videoSource": "https://ravok.buzz/cdn/hls/af6695a45cb83f40e118061c5b571a29/master.m3u8?md5=hjz6nlwvq1z1m-FMIYxFQQ&expires=1792166433",
+            "videoImage": "https://as-cdn31.top/p/bc478Wr4xDi8hODfj-avWRmWAIX7Z8joIxa3_I39UOWq0sfRbhiQDaos7UYFnVp45n8b8SDPXcvZnA7K0LHdyQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "907372450aa412b4647b9b8a64967f71",
+                "streamUrl": "https://ravok.buzz/cdn/hls/af6695a45cb83f40e118061c5b571a29/master.m3u8?md5=hjz6nlwvq1z1m-FMIYxFQQ&expires=1792166433",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/af6695a45cb83f40e118061c5b571a29/master.m3u8?md5=hjz6nlwvq1z1m-FMIYxFQQ&expires=1792166433",
+                "videoSource": "https://ravok.buzz/cdn/hls/af6695a45cb83f40e118061c5b571a29/master.m3u8?md5=hjz6nlwvq1z1m-FMIYxFQQ&expires=1792166433",
+                "link": "https://ravok.buzz/cdn/hls/af6695a45cb83f40e118061c5b571a29/master.m3u8?md5=hjz6nlwvq1z1m-FMIYxFQQ&expires=1792166433",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/bc478Wr4xDi8hODfj-avWRmWAIX7Z8joIxa3_I39UOWq0sfRbhiQDaos7UYFnVp45n8b8SDPXcvZnA7K0LHdyQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "0hvgH7r4E"
+        }
+      },
+      "fetched_at": "2026-10-16T14:00:43Z"
+    },
+    {
+      "id": "episode/baki-hanma-2x22",
+      "episode_id": "episode/baki-hanma-2x22",
+      "title": "Baki Hanma 2x1",
+      "episode_name": "Baki Hanma 2x1",
+      "episode_number": 22,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_1902_s2e22.webp",
+      "abyssid": "16480",
+      "abyssId": "16480",
+      "playxid": "604541b9b9f266538ed001ea49fcc956",
+      "playXID": "604541b9b9f266538ed001ea49fcc956",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16480",
+        "playXID": "604541b9b9f266538ed001ea49fcc956",
+        "streamId": "16480",
+        "dubPlayerSrc": "/dub-player/t/16480/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=604541b9b9f266538ed001ea49fcc956&abyssId=16480"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16480",
+        "playXID": "604541b9b9f266538ed001ea49fcc956",
+        "streamId": "16480",
+        "dubPlayerSrc": "/dub-player/t/16480/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=604541b9b9f266538ed001ea49fcc956&abyssId=16480"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/604541b9b9f266538ed001ea49fcc956",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/604541b9b9f266538ed001ea49fcc956"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16480",
+        "abyssId": "16480",
+        "playXID": "604541b9b9f266538ed001ea49fcc956",
+        "title": "Baki Hanma",
+        "season": 2,
+        "episode": 22,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "7C81-T6ML"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "DNL997geF"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "lG8voG4q6"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/5885f902bdafb7434c9329d5da5d4736/master.m3u8?md5=GzTyucHCcXvm2pdetHzFZQ&expires=1792166433",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/5885f902bdafb7434c9329d5da5d4736/master.m3u8?md5=GzTyucHCcXvm2pdetHzFZQ&expires=1792166433",
+            "videoSource": "https://ravok.buzz/cdn/hls/5885f902bdafb7434c9329d5da5d4736/master.m3u8?md5=GzTyucHCcXvm2pdetHzFZQ&expires=1792166433",
+            "videoImage": "https://as-cdn29.top/p/pdfa47vI3M0meKeBxH3l1ICc_fnMEt9ZJVXYQ7K-yGv5GLcxgM_CZHZKD43912LAXqjLnWgqN2hmlc2mbFvkYA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "604541b9b9f266538ed001ea49fcc956",
+                "streamUrl": "https://ravok.buzz/cdn/hls/5885f902bdafb7434c9329d5da5d4736/master.m3u8?md5=GzTyucHCcXvm2pdetHzFZQ&expires=1792166433",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/5885f902bdafb7434c9329d5da5d4736/master.m3u8?md5=GzTyucHCcXvm2pdetHzFZQ&expires=1792166433",
+                "videoSource": "https://ravok.buzz/cdn/hls/5885f902bdafb7434c9329d5da5d4736/master.m3u8?md5=GzTyucHCcXvm2pdetHzFZQ&expires=1792166433",
+                "link": "https://ravok.buzz/cdn/hls/5885f902bdafb7434c9329d5da5d4736/master.m3u8?md5=GzTyucHCcXvm2pdetHzFZQ&expires=1792166433",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/pdfa47vI3M0meKeBxH3l1ICc_fnMEt9ZJVXYQ7K-yGv5GLcxgM_CZHZKD43912LAXqjLnWgqN2hmlc2mbFvkYA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "7C81-T6ML"
+        }
+      },
+      "fetched_at": "2026-10-16T14:00:43Z"
+    },
+    {
+      "id": "episode/baki-hanma-2x23",
+      "episode_id": "episode/baki-hanma-2x23",
+      "title": "Baki Hanma 2x1",
+      "episode_name": "Baki Hanma 2x1",
+      "episode_number": 23,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_1902_s2e23.webp",
+      "abyssid": "16481",
+      "abyssId": "16481",
+      "playxid": "7f041c0dc0bc74c00d04f562504d778a",
+      "playXID": "7f041c0dc0bc74c00d04f562504d778a",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16481",
+        "playXID": "7f041c0dc0bc74c00d04f562504d778a",
+        "streamId": "16481",
+        "dubPlayerSrc": "/dub-player/t/16481/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=7f041c0dc0bc74c00d04f562504d778a&abyssId=16481"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16481",
+        "playXID": "7f041c0dc0bc74c00d04f562504d778a",
+        "streamId": "16481",
+        "dubPlayerSrc": "/dub-player/t/16481/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=7f041c0dc0bc74c00d04f562504d778a&abyssId=16481"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/7f041c0dc0bc74c00d04f562504d778a",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/7f041c0dc0bc74c00d04f562504d778a"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16481",
+        "abyssId": "16481",
+        "playXID": "7f041c0dc0bc74c00d04f562504d778a",
+        "title": "Baki Hanma",
+        "season": 2,
+        "episode": 23,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "9dK9-JsDN"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "ywjdlLZDG"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "RYWq8Uavc"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/ea5671808ad65ac15b287cb89aaf4466/master.m3u8?md5=v6UtX3BicesumVZQ9IaVsA&expires=1792166434",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/ea5671808ad65ac15b287cb89aaf4466/master.m3u8?md5=v6UtX3BicesumVZQ9IaVsA&expires=1792166434",
+            "videoSource": "https://ravok.buzz/cdn/hls/ea5671808ad65ac15b287cb89aaf4466/master.m3u8?md5=v6UtX3BicesumVZQ9IaVsA&expires=1792166434",
+            "videoImage": "https://as-cdn27.top/p/DvsqXznqH7YFXGgIuGon5Soy6f2CjXbUskAeTtwQi7d3vROZc5PmCNRpEtXu6mFGxIWJvxpPwDEbAh2Tgt_zkw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "7f041c0dc0bc74c00d04f562504d778a",
+                "streamUrl": "https://ravok.buzz/cdn/hls/ea5671808ad65ac15b287cb89aaf4466/master.m3u8?md5=v6UtX3BicesumVZQ9IaVsA&expires=1792166434",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/ea5671808ad65ac15b287cb89aaf4466/master.m3u8?md5=v6UtX3BicesumVZQ9IaVsA&expires=1792166434",
+                "videoSource": "https://ravok.buzz/cdn/hls/ea5671808ad65ac15b287cb89aaf4466/master.m3u8?md5=v6UtX3BicesumVZQ9IaVsA&expires=1792166434",
+                "link": "https://ravok.buzz/cdn/hls/ea5671808ad65ac15b287cb89aaf4466/master.m3u8?md5=v6UtX3BicesumVZQ9IaVsA&expires=1792166434",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/DvsqXznqH7YFXGgIuGon5Soy6f2CjXbUskAeTtwQi7d3vROZc5PmCNRpEtXu6mFGxIWJvxpPwDEbAh2Tgt_zkw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "9dK9-JsDN"
+        }
+      },
+      "fetched_at": "2026-10-16T14:00:44Z"
+    },
+    {
+      "id": "episode/baki-hanma-2x24",
+      "episode_id": "episode/baki-hanma-2x24",
+      "title": "Baki Hanma 2x1",
+      "episode_name": "Baki Hanma 2x1",
+      "episode_number": 24,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_1902_s2e24.webp",
+      "abyssid": "16482",
+      "abyssId": "16482",
+      "playxid": "26ad18ebce74087e6885d52a53bd72ae",
+      "playXID": "26ad18ebce74087e6885d52a53bd72ae",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16482",
+        "playXID": "26ad18ebce74087e6885d52a53bd72ae",
+        "streamId": "16482",
+        "dubPlayerSrc": "/dub-player/t/16482/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=26ad18ebce74087e6885d52a53bd72ae&abyssId=16482"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16482",
+        "playXID": "26ad18ebce74087e6885d52a53bd72ae",
+        "streamId": "16482",
+        "dubPlayerSrc": "/dub-player/t/16482/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=26ad18ebce74087e6885d52a53bd72ae&abyssId=16482"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/26ad18ebce74087e6885d52a53bd72ae",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/26ad18ebce74087e6885d52a53bd72ae"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16482",
+        "abyssId": "16482",
+        "playXID": "26ad18ebce74087e6885d52a53bd72ae",
+        "title": "Baki Hanma",
+        "season": 2,
+        "episode": 24,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "OuHEW03-Z"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "HB2EukL3r"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "vzwDyQRTL"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/adc7b5dc03e5300c02593f822540d784/master.m3u8?md5=aDbc0P_d3whO6yqjFAwKEQ&expires=1792166434",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/adc7b5dc03e5300c02593f822540d784/master.m3u8?md5=aDbc0P_d3whO6yqjFAwKEQ&expires=1792166434",
+            "videoSource": "https://ravok.buzz/cdn/hls/adc7b5dc03e5300c02593f822540d784/master.m3u8?md5=aDbc0P_d3whO6yqjFAwKEQ&expires=1792166434",
+            "videoImage": "https://as-cdn31.top/p/oVp82Ekz-YOo4YfQZyxmql_egzCskbsqPfbjJ8wISoogrNTVsnFn9H1wfKTFDIH3UlWDHob71G2gBWCbNAew8g.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "26ad18ebce74087e6885d52a53bd72ae",
+                "streamUrl": "https://ravok.buzz/cdn/hls/adc7b5dc03e5300c02593f822540d784/master.m3u8?md5=aDbc0P_d3whO6yqjFAwKEQ&expires=1792166434",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/adc7b5dc03e5300c02593f822540d784/master.m3u8?md5=aDbc0P_d3whO6yqjFAwKEQ&expires=1792166434",
+                "videoSource": "https://ravok.buzz/cdn/hls/adc7b5dc03e5300c02593f822540d784/master.m3u8?md5=aDbc0P_d3whO6yqjFAwKEQ&expires=1792166434",
+                "link": "https://ravok.buzz/cdn/hls/adc7b5dc03e5300c02593f822540d784/master.m3u8?md5=aDbc0P_d3whO6yqjFAwKEQ&expires=1792166434",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/oVp82Ekz-YOo4YfQZyxmql_egzCskbsqPfbjJ8wISoogrNTVsnFn9H1wfKTFDIH3UlWDHob71G2gBWCbNAew8g.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "OuHEW03-Z"
+        }
+      },
+      "fetched_at": "2026-10-16T14:00:44Z"
+    },
+    {
+      "id": "episode/baki-hanma-2x25",
+      "episode_id": "episode/baki-hanma-2x25",
+      "title": "Baki Hanma 2x1",
+      "episode_name": "Baki Hanma 2x1",
+      "episode_number": 25,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_1902_s2e25.webp",
+      "abyssid": "16483",
+      "abyssId": "16483",
+      "playxid": "5d5945691b9139b2876f663bba098c83",
+      "playXID": "5d5945691b9139b2876f663bba098c83",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16483",
+        "playXID": "5d5945691b9139b2876f663bba098c83",
+        "streamId": "16483",
+        "dubPlayerSrc": "/dub-player/t/16483/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=5d5945691b9139b2876f663bba098c83&abyssId=16483"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16483",
+        "playXID": "5d5945691b9139b2876f663bba098c83",
+        "streamId": "16483",
+        "dubPlayerSrc": "/dub-player/t/16483/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=5d5945691b9139b2876f663bba098c83&abyssId=16483"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/5d5945691b9139b2876f663bba098c83",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/5d5945691b9139b2876f663bba098c83"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16483",
+        "abyssId": "16483",
+        "playXID": "5d5945691b9139b2876f663bba098c83",
+        "title": "Baki Hanma",
+        "season": 2,
+        "episode": 25,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "suJMaXBGm"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "9vMTH2vMt"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "5QL5bG-3Y"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/a3e7c5c2c251ad036712a8078099f8b0/master.m3u8?md5=7WAK5EMGuQ8yuClEMR58Yg&expires=1792166435",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/a3e7c5c2c251ad036712a8078099f8b0/master.m3u8?md5=7WAK5EMGuQ8yuClEMR58Yg&expires=1792166435",
+            "videoSource": "https://ravok.buzz/cdn/hls/a3e7c5c2c251ad036712a8078099f8b0/master.m3u8?md5=7WAK5EMGuQ8yuClEMR58Yg&expires=1792166435",
+            "videoImage": "https://as-cdn28.top/p/yT0UbR820OGRMhg5FhJfV6AZJJXmoEzM86SyxR_2FjPqdan2MLENYGwGbWyVRIB_p_VvlKxPYEWlOQypOLIcXA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "5d5945691b9139b2876f663bba098c83",
+                "streamUrl": "https://ravok.buzz/cdn/hls/a3e7c5c2c251ad036712a8078099f8b0/master.m3u8?md5=7WAK5EMGuQ8yuClEMR58Yg&expires=1792166435",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/a3e7c5c2c251ad036712a8078099f8b0/master.m3u8?md5=7WAK5EMGuQ8yuClEMR58Yg&expires=1792166435",
+                "videoSource": "https://ravok.buzz/cdn/hls/a3e7c5c2c251ad036712a8078099f8b0/master.m3u8?md5=7WAK5EMGuQ8yuClEMR58Yg&expires=1792166435",
+                "link": "https://ravok.buzz/cdn/hls/a3e7c5c2c251ad036712a8078099f8b0/master.m3u8?md5=7WAK5EMGuQ8yuClEMR58Yg&expires=1792166435",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/yT0UbR820OGRMhg5FhJfV6AZJJXmoEzM86SyxR_2FjPqdan2MLENYGwGbWyVRIB_p_VvlKxPYEWlOQypOLIcXA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "suJMaXBGm"
+        }
+      },
+      "fetched_at": "2026-10-16T14:00:45Z"
+    },
+    {
+      "id": "episode/baki-hanma-2x26",
+      "episode_id": "episode/baki-hanma-2x26",
+      "title": "Baki Hanma 2x1",
+      "episode_name": "Baki Hanma 2x1",
+      "episode_number": 26,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_1902_s2e26.webp",
+      "abyssid": "16484",
+      "abyssId": "16484",
+      "playxid": "033ee034918011e4e34a7f97d464261f",
+      "playXID": "033ee034918011e4e34a7f97d464261f",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16484",
+        "playXID": "033ee034918011e4e34a7f97d464261f",
+        "streamId": "16484",
+        "dubPlayerSrc": "/dub-player/t/16484/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=033ee034918011e4e34a7f97d464261f&abyssId=16484"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16484",
+        "playXID": "033ee034918011e4e34a7f97d464261f",
+        "streamId": "16484",
+        "dubPlayerSrc": "/dub-player/t/16484/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=033ee034918011e4e34a7f97d464261f&abyssId=16484"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/033ee034918011e4e34a7f97d464261f",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/033ee034918011e4e34a7f97d464261f"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16484",
+        "abyssId": "16484",
+        "playXID": "033ee034918011e4e34a7f97d464261f",
+        "title": "Baki Hanma",
+        "season": 2,
+        "episode": 26,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "ZMS468l_N"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "D9ap-ZMHY"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "zYQE-XduU"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/05f904a15b1a0e3631a7a2bad88f34d9/master.m3u8?md5=NUlHhAkQQRxnM3nrW2yI6w&expires=1792166435",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/05f904a15b1a0e3631a7a2bad88f34d9/master.m3u8?md5=NUlHhAkQQRxnM3nrW2yI6w&expires=1792166435",
+            "videoSource": "https://ravok.buzz/cdn/hls/05f904a15b1a0e3631a7a2bad88f34d9/master.m3u8?md5=NUlHhAkQQRxnM3nrW2yI6w&expires=1792166435",
+            "videoImage": "https://as-cdn28.top/p/Xkughuzopzlts6-YoZoOetWrXceHjpckfDJDUQL_LAOCdR8YtBd9v5GtW6PDLM3OBux1kw2Qs3J7NvXib1-4Sg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "033ee034918011e4e34a7f97d464261f",
+                "streamUrl": "https://ravok.buzz/cdn/hls/05f904a15b1a0e3631a7a2bad88f34d9/master.m3u8?md5=NUlHhAkQQRxnM3nrW2yI6w&expires=1792166435",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/05f904a15b1a0e3631a7a2bad88f34d9/master.m3u8?md5=NUlHhAkQQRxnM3nrW2yI6w&expires=1792166435",
+                "videoSource": "https://ravok.buzz/cdn/hls/05f904a15b1a0e3631a7a2bad88f34d9/master.m3u8?md5=NUlHhAkQQRxnM3nrW2yI6w&expires=1792166435",
+                "link": "https://ravok.buzz/cdn/hls/05f904a15b1a0e3631a7a2bad88f34d9/master.m3u8?md5=NUlHhAkQQRxnM3nrW2yI6w&expires=1792166435",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/Xkughuzopzlts6-YoZoOetWrXceHjpckfDJDUQL_LAOCdR8YtBd9v5GtW6PDLM3OBux1kw2Qs3J7NvXib1-4Sg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "ZMS468l_N"
+        }
+      },
+      "fetched_at": "2026-10-16T14:00:45Z"
+    },
+    {
+      "id": "episode/baki-hanma-2x27",
+      "episode_id": "episode/baki-hanma-2x27",
+      "title": "Baki Hanma 2x1",
+      "episode_name": "Baki Hanma 2x1",
+      "episode_number": 27,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_1902_s2e27.webp",
+      "abyssid": "16485",
+      "abyssId": "16485",
+      "playxid": "83d5a9ee8867f73d6f2c485d89296d1d",
+      "playXID": "83d5a9ee8867f73d6f2c485d89296d1d",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16485",
+        "playXID": "83d5a9ee8867f73d6f2c485d89296d1d",
+        "streamId": "16485",
+        "dubPlayerSrc": "/dub-player/t/16485/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=83d5a9ee8867f73d6f2c485d89296d1d&abyssId=16485"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16485",
+        "playXID": "83d5a9ee8867f73d6f2c485d89296d1d",
+        "streamId": "16485",
+        "dubPlayerSrc": "/dub-player/t/16485/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=83d5a9ee8867f73d6f2c485d89296d1d&abyssId=16485"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/83d5a9ee8867f73d6f2c485d89296d1d",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/83d5a9ee8867f73d6f2c485d89296d1d"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16485",
+        "abyssId": "16485",
+        "playXID": "83d5a9ee8867f73d6f2c485d89296d1d",
+        "title": "Baki Hanma",
+        "season": 2,
+        "episode": 27,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "Zhn4jOX82"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "mw3ibV5Wz"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "mFBPcqw_V"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/e4434ca602240b66c796b5fc6e0e5171/master.m3u8?md5=ElB9o32KgKfIVZFDk6D-bQ&expires=1792166435",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/e4434ca602240b66c796b5fc6e0e5171/master.m3u8?md5=ElB9o32KgKfIVZFDk6D-bQ&expires=1792166435",
+            "videoSource": "https://ravok.buzz/cdn/hls/e4434ca602240b66c796b5fc6e0e5171/master.m3u8?md5=ElB9o32KgKfIVZFDk6D-bQ&expires=1792166435",
+            "videoImage": "https://as-cdn28.top/p/OA2Dx7g9pQe0TxtAa6wJynggGMcx99F4SeBSHnd_hgFzUBqIi7qKFAEzCEiwKvmrtEQdnvmA_ZnP0_bJLv7KPQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "83d5a9ee8867f73d6f2c485d89296d1d",
+                "streamUrl": "https://ravok.buzz/cdn/hls/e4434ca602240b66c796b5fc6e0e5171/master.m3u8?md5=ElB9o32KgKfIVZFDk6D-bQ&expires=1792166435",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/e4434ca602240b66c796b5fc6e0e5171/master.m3u8?md5=ElB9o32KgKfIVZFDk6D-bQ&expires=1792166435",
+                "videoSource": "https://ravok.buzz/cdn/hls/e4434ca602240b66c796b5fc6e0e5171/master.m3u8?md5=ElB9o32KgKfIVZFDk6D-bQ&expires=1792166435",
+                "link": "https://ravok.buzz/cdn/hls/e4434ca602240b66c796b5fc6e0e5171/master.m3u8?md5=ElB9o32KgKfIVZFDk6D-bQ&expires=1792166435",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/OA2Dx7g9pQe0TxtAa6wJynggGMcx99F4SeBSHnd_hgFzUBqIi7qKFAEzCEiwKvmrtEQdnvmA_ZnP0_bJLv7KPQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "Zhn4jOX82"
+        }
+      },
+      "fetched_at": "2026-10-16T14:00:46Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T14:00:23Z",
+  "updated_at": "2026-10-16T14:00:46Z"
+}

@@ -1,0 +1,1330 @@
+{
+  "id": "series/the-beginning-after-the-end",
+  "series_name": "The Beginning After the End",
+  "title": "The Beginning After the End",
+  "banner": "https://image.tmdb.org/t/p/w1280/u42yAt7tZVMizlei8zF6mJUSx2Q.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/az0jQSgRLezKw5uHaEjPH20NexD.jpg",
+  "genra": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Reincarnation"
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Reincarnation"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Japanese"
+  ],
+  "synopsis": "After a mysterious death, King Grey is reborn as Arthur Leywin on the magical continent of Dicathen. Although he enters his second life as a baby, his previous wisdom remains. He begins to master magic and forge his own path as the years go by, seeking to correct the mistakes of his past life.",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 12,
+  "seasons": [
+    {
+      "season": 2,
+      "name": "Season 2",
+      "episodesCount": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "The Beginning After the End 2x1",
+          "id": "episode/the-beginning-after-the-end-2x1",
+          "image": "https://img.watchanimeworld.one/img/thumb_1567_s2e1.webp",
+          "season": 2
+        },
+        {
+          "episode": 2,
+          "title": "The Beginning After the End 2x2",
+          "id": "episode/the-beginning-after-the-end-2x2",
+          "image": "https://img.watchanimeworld.one/img/thumb_1567_s2e2.webp",
+          "season": 2
+        },
+        {
+          "episode": 3,
+          "title": "The Beginning After the End 2x3",
+          "id": "episode/the-beginning-after-the-end-2x3",
+          "image": "https://img.watchanimeworld.one/img/thumb_1567_s2e3.webp",
+          "season": 2
+        },
+        {
+          "episode": 4,
+          "title": "The Beginning After the End 2x4",
+          "id": "episode/the-beginning-after-the-end-2x4",
+          "image": "https://img.watchanimeworld.one/img/thumb_1567_s2e4.webp",
+          "season": 2
+        },
+        {
+          "episode": 5,
+          "title": "The Beginning After the End 2x5",
+          "id": "episode/the-beginning-after-the-end-2x5",
+          "image": "https://img.watchanimeworld.one/img/thumb_1567_s2e5.webp",
+          "season": 2
+        },
+        {
+          "episode": 6,
+          "title": "The Beginning After the End 2x6",
+          "id": "episode/the-beginning-after-the-end-2x6",
+          "image": "https://img.watchanimeworld.one/img/thumb_1567_s2e6.webp",
+          "season": 2
+        },
+        {
+          "episode": 7,
+          "title": "The Beginning After the End 2x7",
+          "id": "episode/the-beginning-after-the-end-2x7",
+          "image": "https://img.watchanimeworld.one/img/thumb_1567_s2e7.webp",
+          "season": 2
+        },
+        {
+          "episode": 8,
+          "title": "The Beginning After the End 2x8",
+          "id": "episode/the-beginning-after-the-end-2x8",
+          "image": "https://img.watchanimeworld.one/img/thumb_1567_s2e8.webp",
+          "season": 2
+        },
+        {
+          "episode": 9,
+          "title": "The Beginning After the End 2x9",
+          "id": "episode/the-beginning-after-the-end-2x9",
+          "image": "https://img.watchanimeworld.one/img/thumb_1567_s2e9.webp",
+          "season": 2
+        },
+        {
+          "episode": 10,
+          "title": "The Beginning After the End 2x10",
+          "id": "episode/the-beginning-after-the-end-2x10",
+          "image": "https://img.watchanimeworld.one/img/thumb_1567_s2e10.webp",
+          "season": 2
+        },
+        {
+          "episode": 11,
+          "title": "The Beginning After the End 2x11",
+          "id": "episode/the-beginning-after-the-end-2x11",
+          "image": "https://img.watchanimeworld.one/img/thumb_1567_s2e11.webp",
+          "season": 2
+        },
+        {
+          "episode": 12,
+          "title": "The Beginning After the End 2x12",
+          "id": "episode/the-beginning-after-the-end-2x12",
+          "image": "https://img.watchanimeworld.one/img/thumb_1567_s2e12.webp",
+          "season": 2
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/the-beginning-after-the-end-2x1",
+      "episode_id": "episode/the-beginning-after-the-end-2x1",
+      "title": "The Beginning After the End 2x1",
+      "episode_name": "The Beginning After the End 2x1",
+      "episode_number": 1,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_1567_s2e1.webp",
+      "abyssid": "18233",
+      "abyssId": "18233",
+      "playxid": "d1aad48723acc40982b008f41d334de0",
+      "playXID": "d1aad48723acc40982b008f41d334de0",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18233",
+        "playXID": "d1aad48723acc40982b008f41d334de0",
+        "streamId": "18233",
+        "dubPlayerSrc": "/dub-player/t/18233/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d1aad48723acc40982b008f41d334de0&abyssId=18233"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18233",
+        "playXID": "d1aad48723acc40982b008f41d334de0",
+        "streamId": "18233",
+        "dubPlayerSrc": "/dub-player/t/18233/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d1aad48723acc40982b008f41d334de0&abyssId=18233"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/eae6b5d089d0b287174df2742875b515",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/eae6b5d089d0b287174df2742875b515"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18233",
+        "abyssId": "18233",
+        "playXID": "d1aad48723acc40982b008f41d334de0",
+        "title": "The Beginning After the End",
+        "season": 2,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "9SkquhQDn"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "_xoLW8sA5"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "zdUXCkPca"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/56058bd38ea0f4e75421fc8acb55e715/master.m3u8?md5=l5AYRM8DGphWKkoRcgEZEA&expires=1792166613",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/56058bd38ea0f4e75421fc8acb55e715/master.m3u8?md5=l5AYRM8DGphWKkoRcgEZEA&expires=1792166613",
+            "videoSource": "https://ravok.buzz/cdn/hls/56058bd38ea0f4e75421fc8acb55e715/master.m3u8?md5=l5AYRM8DGphWKkoRcgEZEA&expires=1792166613",
+            "videoImage": "https://as-cdn28.top/p/HJDHH3eUOKVd_oZMkWKAZ6_wi3D_tUsp3MfgxAFEBmLeKeIWgv2yyWRRVaAzxo3MLq0GrzL-x-UqgEpqlwv92A.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "d1aad48723acc40982b008f41d334de0",
+                "streamUrl": "https://ravok.buzz/cdn/hls/56058bd38ea0f4e75421fc8acb55e715/master.m3u8?md5=l5AYRM8DGphWKkoRcgEZEA&expires=1792166613",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/56058bd38ea0f4e75421fc8acb55e715/master.m3u8?md5=l5AYRM8DGphWKkoRcgEZEA&expires=1792166613",
+                "videoSource": "https://ravok.buzz/cdn/hls/56058bd38ea0f4e75421fc8acb55e715/master.m3u8?md5=l5AYRM8DGphWKkoRcgEZEA&expires=1792166613",
+                "link": "https://ravok.buzz/cdn/hls/56058bd38ea0f4e75421fc8acb55e715/master.m3u8?md5=l5AYRM8DGphWKkoRcgEZEA&expires=1792166613",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/HJDHH3eUOKVd_oZMkWKAZ6_wi3D_tUsp3MfgxAFEBmLeKeIWgv2yyWRRVaAzxo3MLq0GrzL-x-UqgEpqlwv92A.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "9SkquhQDn"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:43Z"
+    },
+    {
+      "id": "episode/the-beginning-after-the-end-2x4",
+      "episode_id": "episode/the-beginning-after-the-end-2x4",
+      "title": "The Beginning After the End 2x1",
+      "episode_name": "The Beginning After the End 2x1",
+      "episode_number": 4,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_1567_s2e4.webp",
+      "abyssid": "18281",
+      "abyssId": "18281",
+      "playxid": "416d82333549f01f83244e2439bedc6f",
+      "playXID": "416d82333549f01f83244e2439bedc6f",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18281",
+        "playXID": "416d82333549f01f83244e2439bedc6f",
+        "streamId": "18281",
+        "dubPlayerSrc": "/dub-player/t/18281/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=416d82333549f01f83244e2439bedc6f&abyssId=18281"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18281",
+        "playXID": "416d82333549f01f83244e2439bedc6f",
+        "streamId": "18281",
+        "dubPlayerSrc": "/dub-player/t/18281/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=416d82333549f01f83244e2439bedc6f&abyssId=18281"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/dd43ce3fc206f289b17ba20a92fb329d",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/dd43ce3fc206f289b17ba20a92fb329d"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18281",
+        "abyssId": "18281",
+        "playXID": "416d82333549f01f83244e2439bedc6f",
+        "title": "The Beginning After the End",
+        "season": 2,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "ocjeKbsJT"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "yvHtQhVAe"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "jf_eOrhbz"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/e502e464a51929453ecceda3e91643bc/master.m3u8?md5=FJGB-5rt9WgEtyabuAjA2A&expires=1792166613",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/e502e464a51929453ecceda3e91643bc/master.m3u8?md5=FJGB-5rt9WgEtyabuAjA2A&expires=1792166613",
+            "videoSource": "https://ravok.buzz/cdn/hls/e502e464a51929453ecceda3e91643bc/master.m3u8?md5=FJGB-5rt9WgEtyabuAjA2A&expires=1792166613",
+            "videoImage": "https://as-cdn28.top/p/Xk23XRQAhAgtVitzaNksZl2X50IM5E3LtPJ7BStGI72Ca7x8GXzab_qAp9WhIz7j0oPukDbUdsSRd3r7A37_UQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "416d82333549f01f83244e2439bedc6f",
+                "streamUrl": "https://ravok.buzz/cdn/hls/e502e464a51929453ecceda3e91643bc/master.m3u8?md5=FJGB-5rt9WgEtyabuAjA2A&expires=1792166613",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/e502e464a51929453ecceda3e91643bc/master.m3u8?md5=FJGB-5rt9WgEtyabuAjA2A&expires=1792166613",
+                "videoSource": "https://ravok.buzz/cdn/hls/e502e464a51929453ecceda3e91643bc/master.m3u8?md5=FJGB-5rt9WgEtyabuAjA2A&expires=1792166613",
+                "link": "https://ravok.buzz/cdn/hls/e502e464a51929453ecceda3e91643bc/master.m3u8?md5=FJGB-5rt9WgEtyabuAjA2A&expires=1792166613",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/Xk23XRQAhAgtVitzaNksZl2X50IM5E3LtPJ7BStGI72Ca7x8GXzab_qAp9WhIz7j0oPukDbUdsSRd3r7A37_UQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "ocjeKbsJT"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:43Z"
+    },
+    {
+      "id": "episode/the-beginning-after-the-end-2x2",
+      "episode_id": "episode/the-beginning-after-the-end-2x2",
+      "title": "The Beginning After the End 2x1",
+      "episode_name": "The Beginning After the End 2x1",
+      "episode_number": 2,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_1567_s2e2.webp",
+      "abyssid": "18234",
+      "abyssId": "18234",
+      "playxid": "cb06cacdc67e0e6166ffbd26108a268e",
+      "playXID": "cb06cacdc67e0e6166ffbd26108a268e",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18234",
+        "playXID": "cb06cacdc67e0e6166ffbd26108a268e",
+        "streamId": "18234",
+        "dubPlayerSrc": "/dub-player/t/18234/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=cb06cacdc67e0e6166ffbd26108a268e&abyssId=18234"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18234",
+        "playXID": "cb06cacdc67e0e6166ffbd26108a268e",
+        "streamId": "18234",
+        "dubPlayerSrc": "/dub-player/t/18234/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=cb06cacdc67e0e6166ffbd26108a268e&abyssId=18234"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/72f9f967c43ce5c44ea12bf78ae63eaf",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/72f9f967c43ce5c44ea12bf78ae63eaf"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18234",
+        "abyssId": "18234",
+        "playXID": "cb06cacdc67e0e6166ffbd26108a268e",
+        "title": "The Beginning After the End",
+        "season": 2,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "VvDnmkg0g"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "azWzmFGaN"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "xi1tQWVSV"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/62afcd1a3cf501ec3eb3340978fbd47a/master.m3u8?md5=k-SM2Cm0_hoZLzoXiNDmxQ&expires=1792166613",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/62afcd1a3cf501ec3eb3340978fbd47a/master.m3u8?md5=k-SM2Cm0_hoZLzoXiNDmxQ&expires=1792166613",
+            "videoSource": "https://ravok.buzz/cdn/hls/62afcd1a3cf501ec3eb3340978fbd47a/master.m3u8?md5=k-SM2Cm0_hoZLzoXiNDmxQ&expires=1792166613",
+            "videoImage": "https://as-cdn27.top/p/KYxpVlA5bbkBVIdbTPiq5pUYJNJ4Q-WBLudXcdrFYIyAyHE6cliqvKASPQCsyXMJsWZMuPvIxVjHatWqSzoW3w.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "cb06cacdc67e0e6166ffbd26108a268e",
+                "streamUrl": "https://ravok.buzz/cdn/hls/62afcd1a3cf501ec3eb3340978fbd47a/master.m3u8?md5=k-SM2Cm0_hoZLzoXiNDmxQ&expires=1792166613",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/62afcd1a3cf501ec3eb3340978fbd47a/master.m3u8?md5=k-SM2Cm0_hoZLzoXiNDmxQ&expires=1792166613",
+                "videoSource": "https://ravok.buzz/cdn/hls/62afcd1a3cf501ec3eb3340978fbd47a/master.m3u8?md5=k-SM2Cm0_hoZLzoXiNDmxQ&expires=1792166613",
+                "link": "https://ravok.buzz/cdn/hls/62afcd1a3cf501ec3eb3340978fbd47a/master.m3u8?md5=k-SM2Cm0_hoZLzoXiNDmxQ&expires=1792166613",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/KYxpVlA5bbkBVIdbTPiq5pUYJNJ4Q-WBLudXcdrFYIyAyHE6cliqvKASPQCsyXMJsWZMuPvIxVjHatWqSzoW3w.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "VvDnmkg0g"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:43Z"
+    },
+    {
+      "id": "episode/the-beginning-after-the-end-2x5",
+      "episode_id": "episode/the-beginning-after-the-end-2x5",
+      "title": "The Beginning After the End 2x1",
+      "episode_name": "The Beginning After the End 2x1",
+      "episode_number": 5,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_1567_s2e5.webp",
+      "abyssid": "18295",
+      "abyssId": "18295",
+      "playxid": "e836b5ebd3143577c69cda6109cc209e",
+      "playXID": "e836b5ebd3143577c69cda6109cc209e",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18295",
+        "playXID": "e836b5ebd3143577c69cda6109cc209e",
+        "streamId": "18295",
+        "dubPlayerSrc": "/dub-player/t/18295/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e836b5ebd3143577c69cda6109cc209e&abyssId=18295"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18295",
+        "playXID": "e836b5ebd3143577c69cda6109cc209e",
+        "streamId": "18295",
+        "dubPlayerSrc": "/dub-player/t/18295/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e836b5ebd3143577c69cda6109cc209e&abyssId=18295"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/b9460526dc7daf0e629f28efca761e7a",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/b9460526dc7daf0e629f28efca761e7a"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18295",
+        "abyssId": "18295",
+        "playXID": "e836b5ebd3143577c69cda6109cc209e",
+        "title": "The Beginning After the End",
+        "season": 2,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "QKREoLkeX"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "3huE9yary"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "oIwFQNw8P"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/5578780411ae46a66485ba69778abb6d/master.m3u8?md5=exl_dFhiudIQn_GHw1Xv_g&expires=1792166613",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/5578780411ae46a66485ba69778abb6d/master.m3u8?md5=exl_dFhiudIQn_GHw1Xv_g&expires=1792166613",
+            "videoSource": "https://ravok.buzz/cdn/hls/5578780411ae46a66485ba69778abb6d/master.m3u8?md5=exl_dFhiudIQn_GHw1Xv_g&expires=1792166613",
+            "videoImage": "https://as-cdn30.top/p/FE-ocAgi0OAKN2Dbk-O-baDt51ys9Qh-f29E09DnJ7qxQO9wcJx3158TDDuAPgt9QTS2mFGIw3ixFNhrjvSRCQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "e836b5ebd3143577c69cda6109cc209e",
+                "streamUrl": "https://ravok.buzz/cdn/hls/5578780411ae46a66485ba69778abb6d/master.m3u8?md5=exl_dFhiudIQn_GHw1Xv_g&expires=1792166613",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/5578780411ae46a66485ba69778abb6d/master.m3u8?md5=exl_dFhiudIQn_GHw1Xv_g&expires=1792166613",
+                "videoSource": "https://ravok.buzz/cdn/hls/5578780411ae46a66485ba69778abb6d/master.m3u8?md5=exl_dFhiudIQn_GHw1Xv_g&expires=1792166613",
+                "link": "https://ravok.buzz/cdn/hls/5578780411ae46a66485ba69778abb6d/master.m3u8?md5=exl_dFhiudIQn_GHw1Xv_g&expires=1792166613",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/FE-ocAgi0OAKN2Dbk-O-baDt51ys9Qh-f29E09DnJ7qxQO9wcJx3158TDDuAPgt9QTS2mFGIw3ixFNhrjvSRCQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "QKREoLkeX"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:43Z"
+    },
+    {
+      "id": "episode/the-beginning-after-the-end-2x3",
+      "episode_id": "episode/the-beginning-after-the-end-2x3",
+      "title": "The Beginning After the End 2x1",
+      "episode_name": "The Beginning After the End 2x1",
+      "episode_number": 3,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_1567_s2e3.webp",
+      "abyssid": "18268",
+      "abyssId": "18268",
+      "playxid": "341cd8064bf4c9916fd60639ee7a5a9b",
+      "playXID": "341cd8064bf4c9916fd60639ee7a5a9b",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18268",
+        "playXID": "341cd8064bf4c9916fd60639ee7a5a9b",
+        "streamId": "18268",
+        "dubPlayerSrc": "/dub-player/t/18268/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=341cd8064bf4c9916fd60639ee7a5a9b&abyssId=18268"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18268",
+        "playXID": "341cd8064bf4c9916fd60639ee7a5a9b",
+        "streamId": "18268",
+        "dubPlayerSrc": "/dub-player/t/18268/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=341cd8064bf4c9916fd60639ee7a5a9b&abyssId=18268"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/29e513cb9c9729c89c181c0d863f1a5b",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/29e513cb9c9729c89c181c0d863f1a5b"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18268",
+        "abyssId": "18268",
+        "playXID": "341cd8064bf4c9916fd60639ee7a5a9b",
+        "title": "The Beginning After the End",
+        "season": 2,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "wSs3HYs-q"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "aYWbbzgac"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "yreogwfZI"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/b6585fd24eb9f6625c94df1ebd4a4f32/master.m3u8?md5=52x9fajCCmEQnKXBh9RKcw&expires=1792166613",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/b6585fd24eb9f6625c94df1ebd4a4f32/master.m3u8?md5=52x9fajCCmEQnKXBh9RKcw&expires=1792166613",
+            "videoSource": "https://ravok.buzz/cdn/hls/b6585fd24eb9f6625c94df1ebd4a4f32/master.m3u8?md5=52x9fajCCmEQnKXBh9RKcw&expires=1792166613",
+            "videoImage": "https://as-cdn31.top/p/LIzJG32gc-E3biOLJwPmKxPVK6pBWCMMX57lz8G_yoICF8CaJyv5fnI-9NTLfRXc-KWJtUGeSv1VZwUFVD7hdQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "341cd8064bf4c9916fd60639ee7a5a9b",
+                "streamUrl": "https://ravok.buzz/cdn/hls/b6585fd24eb9f6625c94df1ebd4a4f32/master.m3u8?md5=52x9fajCCmEQnKXBh9RKcw&expires=1792166613",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/b6585fd24eb9f6625c94df1ebd4a4f32/master.m3u8?md5=52x9fajCCmEQnKXBh9RKcw&expires=1792166613",
+                "videoSource": "https://ravok.buzz/cdn/hls/b6585fd24eb9f6625c94df1ebd4a4f32/master.m3u8?md5=52x9fajCCmEQnKXBh9RKcw&expires=1792166613",
+                "link": "https://ravok.buzz/cdn/hls/b6585fd24eb9f6625c94df1ebd4a4f32/master.m3u8?md5=52x9fajCCmEQnKXBh9RKcw&expires=1792166613",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/LIzJG32gc-E3biOLJwPmKxPVK6pBWCMMX57lz8G_yoICF8CaJyv5fnI-9NTLfRXc-KWJtUGeSv1VZwUFVD7hdQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "wSs3HYs-q"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:43Z"
+    },
+    {
+      "id": "episode/the-beginning-after-the-end-2x6",
+      "episode_id": "episode/the-beginning-after-the-end-2x6",
+      "title": "The Beginning After the End 2x1",
+      "episode_name": "The Beginning After the End 2x1",
+      "episode_number": 6,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_1567_s2e6.webp",
+      "abyssid": "18357",
+      "abyssId": "18357",
+      "playxid": "597e056a5873db884c0fe266918c9f07",
+      "playXID": "597e056a5873db884c0fe266918c9f07",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18357",
+        "playXID": "597e056a5873db884c0fe266918c9f07",
+        "streamId": "18357",
+        "dubPlayerSrc": "/dub-player/t/18357/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=597e056a5873db884c0fe266918c9f07&abyssId=18357"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18357",
+        "playXID": "597e056a5873db884c0fe266918c9f07",
+        "streamId": "18357",
+        "dubPlayerSrc": "/dub-player/t/18357/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=597e056a5873db884c0fe266918c9f07&abyssId=18357"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/07b9384642f8b2168c0f43aca65f9580",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/07b9384642f8b2168c0f43aca65f9580"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18357",
+        "abyssId": "18357",
+        "playXID": "597e056a5873db884c0fe266918c9f07",
+        "title": "The Beginning After the End",
+        "season": 2,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "nrdZ1bTRZ"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "8t7Qc_D3-"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "7JpdLNro7"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/2e9fef795807371e7a7cb9cbf3e64c01/master.m3u8?md5=UoeePWHcr7_YsDQk257lWA&expires=1792166615",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/2e9fef795807371e7a7cb9cbf3e64c01/master.m3u8?md5=UoeePWHcr7_YsDQk257lWA&expires=1792166615",
+            "videoSource": "https://ravok.buzz/cdn/hls/2e9fef795807371e7a7cb9cbf3e64c01/master.m3u8?md5=UoeePWHcr7_YsDQk257lWA&expires=1792166615",
+            "videoImage": "https://as-cdn28.top/p/k7NK7BogTZ9KyxP93XgyB0X-nEq5cyqr8LES_zL09AZddxL4d1Dghyy1M_dLJ2d95NmvU006tbvGCfPFkAgSIA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "597e056a5873db884c0fe266918c9f07",
+                "streamUrl": "https://ravok.buzz/cdn/hls/2e9fef795807371e7a7cb9cbf3e64c01/master.m3u8?md5=UoeePWHcr7_YsDQk257lWA&expires=1792166615",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/2e9fef795807371e7a7cb9cbf3e64c01/master.m3u8?md5=UoeePWHcr7_YsDQk257lWA&expires=1792166615",
+                "videoSource": "https://ravok.buzz/cdn/hls/2e9fef795807371e7a7cb9cbf3e64c01/master.m3u8?md5=UoeePWHcr7_YsDQk257lWA&expires=1792166615",
+                "link": "https://ravok.buzz/cdn/hls/2e9fef795807371e7a7cb9cbf3e64c01/master.m3u8?md5=UoeePWHcr7_YsDQk257lWA&expires=1792166615",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/k7NK7BogTZ9KyxP93XgyB0X-nEq5cyqr8LES_zL09AZddxL4d1Dghyy1M_dLJ2d95NmvU006tbvGCfPFkAgSIA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "nrdZ1bTRZ"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:45Z"
+    },
+    {
+      "id": "episode/the-beginning-after-the-end-2x8",
+      "episode_id": "episode/the-beginning-after-the-end-2x8",
+      "title": "The Beginning After the End 2x1",
+      "episode_name": "The Beginning After the End 2x1",
+      "episode_number": 8,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_1567_s2e8.webp",
+      "abyssid": "18380",
+      "abyssId": "18380",
+      "playxid": "3ef430bcac19166ddf205dd8cdf4edca",
+      "playXID": "3ef430bcac19166ddf205dd8cdf4edca",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18380",
+        "playXID": "3ef430bcac19166ddf205dd8cdf4edca",
+        "streamId": "18380",
+        "dubPlayerSrc": "/dub-player/t/18380/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=3ef430bcac19166ddf205dd8cdf4edca&abyssId=18380"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18380",
+        "playXID": "3ef430bcac19166ddf205dd8cdf4edca",
+        "streamId": "18380",
+        "dubPlayerSrc": "/dub-player/t/18380/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=3ef430bcac19166ddf205dd8cdf4edca&abyssId=18380"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/751867da54051e8825bb700aec021413",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/751867da54051e8825bb700aec021413"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18380",
+        "abyssId": "18380",
+        "playXID": "3ef430bcac19166ddf205dd8cdf4edca",
+        "title": "The Beginning After the End",
+        "season": 2,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "uSyZwUti6"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "VBPNFMCwb"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "ee0XaF6MI"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/194605e16ebcc29889b328b98d8c7707/master.m3u8?md5=ymCoS-g1TgFFOM0h_TMG8g&expires=1792166615",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/194605e16ebcc29889b328b98d8c7707/master.m3u8?md5=ymCoS-g1TgFFOM0h_TMG8g&expires=1792166615",
+            "videoSource": "https://ravok.buzz/cdn/hls/194605e16ebcc29889b328b98d8c7707/master.m3u8?md5=ymCoS-g1TgFFOM0h_TMG8g&expires=1792166615",
+            "videoImage": "https://as-cdn29.top/p/nygSUYWl4pmJsqKKQdC6OZ2XArHxyjt_XhZ70uaLZ_rDPIJ-gGbop2BNi6yVg9YHohTDJSWDOqp9aCmJ--YKLA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "3ef430bcac19166ddf205dd8cdf4edca",
+                "streamUrl": "https://ravok.buzz/cdn/hls/194605e16ebcc29889b328b98d8c7707/master.m3u8?md5=ymCoS-g1TgFFOM0h_TMG8g&expires=1792166615",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/194605e16ebcc29889b328b98d8c7707/master.m3u8?md5=ymCoS-g1TgFFOM0h_TMG8g&expires=1792166615",
+                "videoSource": "https://ravok.buzz/cdn/hls/194605e16ebcc29889b328b98d8c7707/master.m3u8?md5=ymCoS-g1TgFFOM0h_TMG8g&expires=1792166615",
+                "link": "https://ravok.buzz/cdn/hls/194605e16ebcc29889b328b98d8c7707/master.m3u8?md5=ymCoS-g1TgFFOM0h_TMG8g&expires=1792166615",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/nygSUYWl4pmJsqKKQdC6OZ2XArHxyjt_XhZ70uaLZ_rDPIJ-gGbop2BNi6yVg9YHohTDJSWDOqp9aCmJ--YKLA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "uSyZwUti6"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:45Z"
+    },
+    {
+      "id": "episode/the-beginning-after-the-end-2x10",
+      "episode_id": "episode/the-beginning-after-the-end-2x10",
+      "title": "The Beginning After the End 2x1",
+      "episode_name": "The Beginning After the End 2x1",
+      "episode_number": 10,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_1567_s2e10.webp",
+      "abyssid": "18416",
+      "abyssId": "18416",
+      "playxid": "2a3eac42d756ec782ecca7dcd94259d7",
+      "playXID": "2a3eac42d756ec782ecca7dcd94259d7",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18416",
+        "playXID": "2a3eac42d756ec782ecca7dcd94259d7",
+        "streamId": "18416",
+        "dubPlayerSrc": "/dub-player/t/18416/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2a3eac42d756ec782ecca7dcd94259d7&abyssId=18416"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18416",
+        "playXID": "2a3eac42d756ec782ecca7dcd94259d7",
+        "streamId": "18416",
+        "dubPlayerSrc": "/dub-player/t/18416/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2a3eac42d756ec782ecca7dcd94259d7&abyssId=18416"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/5862f23182fd612174fbdeabb70628ff",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/5862f23182fd612174fbdeabb70628ff"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18416",
+        "abyssId": "18416",
+        "playXID": "2a3eac42d756ec782ecca7dcd94259d7",
+        "title": "The Beginning After the End",
+        "season": 2,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "8OsY6jdYi"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "oZ-shNbPk"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "IiOeFCaF4"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/cba52111e64f72a269da971ba9ca4966/master.m3u8?md5=-olRI-gMpD7u6ichwtjCEw&expires=1792166615",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/cba52111e64f72a269da971ba9ca4966/master.m3u8?md5=-olRI-gMpD7u6ichwtjCEw&expires=1792166615",
+            "videoSource": "https://ravok.buzz/cdn/hls/cba52111e64f72a269da971ba9ca4966/master.m3u8?md5=-olRI-gMpD7u6ichwtjCEw&expires=1792166615",
+            "videoImage": "https://as-cdn29.top/p/A_oP2bH1tLjdJ-r-abFHm7Ng9zj--9YB4jjq3EhtH_RiomchsrjmZY8EOl18e_vdioPjz5Opkv0L9taBZDM-IA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "2a3eac42d756ec782ecca7dcd94259d7",
+                "streamUrl": "https://ravok.buzz/cdn/hls/cba52111e64f72a269da971ba9ca4966/master.m3u8?md5=-olRI-gMpD7u6ichwtjCEw&expires=1792166615",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/cba52111e64f72a269da971ba9ca4966/master.m3u8?md5=-olRI-gMpD7u6ichwtjCEw&expires=1792166615",
+                "videoSource": "https://ravok.buzz/cdn/hls/cba52111e64f72a269da971ba9ca4966/master.m3u8?md5=-olRI-gMpD7u6ichwtjCEw&expires=1792166615",
+                "link": "https://ravok.buzz/cdn/hls/cba52111e64f72a269da971ba9ca4966/master.m3u8?md5=-olRI-gMpD7u6ichwtjCEw&expires=1792166615",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/A_oP2bH1tLjdJ-r-abFHm7Ng9zj--9YB4jjq3EhtH_RiomchsrjmZY8EOl18e_vdioPjz5Opkv0L9taBZDM-IA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "8OsY6jdYi"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:45Z"
+    },
+    {
+      "id": "episode/the-beginning-after-the-end-2x9",
+      "episode_id": "episode/the-beginning-after-the-end-2x9",
+      "title": "The Beginning After the End 2x1",
+      "episode_name": "The Beginning After the End 2x1",
+      "episode_number": 9,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_1567_s2e9.webp",
+      "abyssid": "18401",
+      "abyssId": "18401",
+      "playxid": "fbcb037387e821a6b1898467b076c0d5",
+      "playXID": "fbcb037387e821a6b1898467b076c0d5",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18401",
+        "playXID": "fbcb037387e821a6b1898467b076c0d5",
+        "streamId": "18401",
+        "dubPlayerSrc": "/dub-player/t/18401/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=fbcb037387e821a6b1898467b076c0d5&abyssId=18401"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18401",
+        "playXID": "fbcb037387e821a6b1898467b076c0d5",
+        "streamId": "18401",
+        "dubPlayerSrc": "/dub-player/t/18401/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=fbcb037387e821a6b1898467b076c0d5&abyssId=18401"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/481f0dd7ae83e18513be0b4e400a9535",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/481f0dd7ae83e18513be0b4e400a9535"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18401",
+        "abyssId": "18401",
+        "playXID": "fbcb037387e821a6b1898467b076c0d5",
+        "title": "The Beginning After the End",
+        "season": 2,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "-GRAHpP3Z"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "YC8rd0MrP"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "lSdLyIe2i"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/acc69f0a8d4cbee65d209b29b13e40b0/master.m3u8?md5=zr8apY-Ht9hdK0RMu-mTWA&expires=1792166615",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/acc69f0a8d4cbee65d209b29b13e40b0/master.m3u8?md5=zr8apY-Ht9hdK0RMu-mTWA&expires=1792166615",
+            "videoSource": "https://ravok.buzz/cdn/hls/acc69f0a8d4cbee65d209b29b13e40b0/master.m3u8?md5=zr8apY-Ht9hdK0RMu-mTWA&expires=1792166615",
+            "videoImage": "https://as-cdn29.top/p/CYtJa-C0x4rVaHlh3b8DnEXKskH2aJU5h69AjkifJbTLZdluZiObX_ng-ye8OasHGJP4x0-osW2oBDXAilmN0w.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "fbcb037387e821a6b1898467b076c0d5",
+                "streamUrl": "https://ravok.buzz/cdn/hls/acc69f0a8d4cbee65d209b29b13e40b0/master.m3u8?md5=zr8apY-Ht9hdK0RMu-mTWA&expires=1792166615",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/acc69f0a8d4cbee65d209b29b13e40b0/master.m3u8?md5=zr8apY-Ht9hdK0RMu-mTWA&expires=1792166615",
+                "videoSource": "https://ravok.buzz/cdn/hls/acc69f0a8d4cbee65d209b29b13e40b0/master.m3u8?md5=zr8apY-Ht9hdK0RMu-mTWA&expires=1792166615",
+                "link": "https://ravok.buzz/cdn/hls/acc69f0a8d4cbee65d209b29b13e40b0/master.m3u8?md5=zr8apY-Ht9hdK0RMu-mTWA&expires=1792166615",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/CYtJa-C0x4rVaHlh3b8DnEXKskH2aJU5h69AjkifJbTLZdluZiObX_ng-ye8OasHGJP4x0-osW2oBDXAilmN0w.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "-GRAHpP3Z"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:45Z"
+    },
+    {
+      "id": "episode/the-beginning-after-the-end-2x7",
+      "episode_id": "episode/the-beginning-after-the-end-2x7",
+      "title": "The Beginning After the End 2x1",
+      "episode_name": "The Beginning After the End 2x1",
+      "episode_number": 7,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_1567_s2e7.webp",
+      "abyssid": "18358",
+      "abyssId": "18358",
+      "playxid": "226c83c0e446949220eda1fca3401803",
+      "playXID": "226c83c0e446949220eda1fca3401803",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18358",
+        "playXID": "226c83c0e446949220eda1fca3401803",
+        "streamId": "18358",
+        "dubPlayerSrc": "/dub-player/t/18358/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=226c83c0e446949220eda1fca3401803&abyssId=18358"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18358",
+        "playXID": "226c83c0e446949220eda1fca3401803",
+        "streamId": "18358",
+        "dubPlayerSrc": "/dub-player/t/18358/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=226c83c0e446949220eda1fca3401803&abyssId=18358"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/df6a6e36561c763b1f1ef7984bdb5124",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/df6a6e36561c763b1f1ef7984bdb5124"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18358",
+        "abyssId": "18358",
+        "playXID": "226c83c0e446949220eda1fca3401803",
+        "title": "The Beginning After the End",
+        "season": 2,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "6kzl9-5zD"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "qgJAwHLP_"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "HvAGuW6UT"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/ea911a1466542c9ec9e4bf9c2458153e/master.m3u8?md5=TA0J-UQNaChbi3WmmuCHjw&expires=1792166615",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/ea911a1466542c9ec9e4bf9c2458153e/master.m3u8?md5=TA0J-UQNaChbi3WmmuCHjw&expires=1792166615",
+            "videoSource": "https://ravok.buzz/cdn/hls/ea911a1466542c9ec9e4bf9c2458153e/master.m3u8?md5=TA0J-UQNaChbi3WmmuCHjw&expires=1792166615",
+            "videoImage": "https://as-cdn27.top/p/CFPI4gycpEdCeA6IL4Vm36JySNOBQhRiiu5RQLb9PypVArgljTPLXMU7VSXi04F3iRno_-korMU-Q5YNGiWx9w.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "226c83c0e446949220eda1fca3401803",
+                "streamUrl": "https://ravok.buzz/cdn/hls/ea911a1466542c9ec9e4bf9c2458153e/master.m3u8?md5=TA0J-UQNaChbi3WmmuCHjw&expires=1792166615",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/ea911a1466542c9ec9e4bf9c2458153e/master.m3u8?md5=TA0J-UQNaChbi3WmmuCHjw&expires=1792166615",
+                "videoSource": "https://ravok.buzz/cdn/hls/ea911a1466542c9ec9e4bf9c2458153e/master.m3u8?md5=TA0J-UQNaChbi3WmmuCHjw&expires=1792166615",
+                "link": "https://ravok.buzz/cdn/hls/ea911a1466542c9ec9e4bf9c2458153e/master.m3u8?md5=TA0J-UQNaChbi3WmmuCHjw&expires=1792166615",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/CFPI4gycpEdCeA6IL4Vm36JySNOBQhRiiu5RQLb9PypVArgljTPLXMU7VSXi04F3iRno_-korMU-Q5YNGiWx9w.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "6kzl9-5zD"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:45Z"
+    },
+    {
+      "id": "episode/the-beginning-after-the-end-2x11",
+      "episode_id": "episode/the-beginning-after-the-end-2x11",
+      "title": "The Beginning After the End 2x1",
+      "episode_name": "The Beginning After the End 2x1",
+      "episode_number": 11,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_1567_s2e11.webp",
+      "abyssid": "18457",
+      "abyssId": "18457",
+      "playxid": "7b71cd05d1201966672ed91687adaa03",
+      "playXID": "7b71cd05d1201966672ed91687adaa03",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18457",
+        "playXID": "7b71cd05d1201966672ed91687adaa03",
+        "streamId": "18457",
+        "dubPlayerSrc": "/dub-player/t/18457/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=7b71cd05d1201966672ed91687adaa03&abyssId=18457"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18457",
+        "playXID": "7b71cd05d1201966672ed91687adaa03",
+        "streamId": "18457",
+        "dubPlayerSrc": "/dub-player/t/18457/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=7b71cd05d1201966672ed91687adaa03&abyssId=18457"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/23f3edf04bc94958c8edbd1f02d9e135",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/23f3edf04bc94958c8edbd1f02d9e135"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18457",
+        "abyssId": "18457",
+        "playXID": "7b71cd05d1201966672ed91687adaa03",
+        "title": "The Beginning After the End",
+        "season": 2,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "DBE8ReOOo"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "QQiNsPSl_"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "brnuyW1iKB"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/b9650f5c7abc0d4d78e9d24842f2ab5b/master.m3u8?md5=5VU0kAW1DUDdngIK0G6vFg&expires=1792166617",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/b9650f5c7abc0d4d78e9d24842f2ab5b/master.m3u8?md5=5VU0kAW1DUDdngIK0G6vFg&expires=1792166617",
+            "videoSource": "https://ravok.buzz/cdn/hls/b9650f5c7abc0d4d78e9d24842f2ab5b/master.m3u8?md5=5VU0kAW1DUDdngIK0G6vFg&expires=1792166617",
+            "videoImage": "https://as-cdn28.top/p/_2xnUi3qWSr3IJxSHD6BI6-L2MH2kZ_m9_ED0eJ1paQPW60tE9jTOZ0QjguDIY261ieIJUjfR0sEu-fUjAtuCg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "7b71cd05d1201966672ed91687adaa03",
+                "streamUrl": "https://ravok.buzz/cdn/hls/b9650f5c7abc0d4d78e9d24842f2ab5b/master.m3u8?md5=5VU0kAW1DUDdngIK0G6vFg&expires=1792166617",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/b9650f5c7abc0d4d78e9d24842f2ab5b/master.m3u8?md5=5VU0kAW1DUDdngIK0G6vFg&expires=1792166617",
+                "videoSource": "https://ravok.buzz/cdn/hls/b9650f5c7abc0d4d78e9d24842f2ab5b/master.m3u8?md5=5VU0kAW1DUDdngIK0G6vFg&expires=1792166617",
+                "link": "https://ravok.buzz/cdn/hls/b9650f5c7abc0d4d78e9d24842f2ab5b/master.m3u8?md5=5VU0kAW1DUDdngIK0G6vFg&expires=1792166617",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/_2xnUi3qWSr3IJxSHD6BI6-L2MH2kZ_m9_ED0eJ1paQPW60tE9jTOZ0QjguDIY261ieIJUjfR0sEu-fUjAtuCg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "DBE8ReOOo"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:47Z"
+    },
+    {
+      "id": "episode/the-beginning-after-the-end-2x12",
+      "episode_id": "episode/the-beginning-after-the-end-2x12",
+      "title": "The Beginning After the End 2x1",
+      "episode_name": "The Beginning After the End 2x1",
+      "episode_number": 12,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_1567_s2e12.webp",
+      "abyssid": "18640",
+      "abyssId": "18640",
+      "playxid": "19f3ca179d09e8518d25a28d8e4e443f",
+      "playXID": "19f3ca179d09e8518d25a28d8e4e443f",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18640",
+        "playXID": "19f3ca179d09e8518d25a28d8e4e443f",
+        "streamId": "18640",
+        "dubPlayerSrc": "/dub-player/t/18640/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=19f3ca179d09e8518d25a28d8e4e443f&abyssId=18640"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18640",
+        "playXID": "19f3ca179d09e8518d25a28d8e4e443f",
+        "streamId": "18640",
+        "dubPlayerSrc": "/dub-player/t/18640/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=19f3ca179d09e8518d25a28d8e4e443f&abyssId=18640"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/19f3ca179d09e8518d25a28d8e4e443f",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/19f3ca179d09e8518d25a28d8e4e443f"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18640",
+        "abyssId": "18640",
+        "playXID": "19f3ca179d09e8518d25a28d8e4e443f",
+        "title": "The Beginning After the End",
+        "season": 2,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "gjvvHrdiH"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "egStto2Wu"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "_NYqhddJf"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "gjvvHrdiH"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:52Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T14:03:41Z",
+  "updated_at": "2026-10-16T14:03:52Z"
+}

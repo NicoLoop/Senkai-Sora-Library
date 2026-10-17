@@ -1,0 +1,4759 @@
+{
+  "id": "series/tower-of-god",
+  "series_name": "Tower of God",
+  "title": "Tower of God",
+  "banner": "https://image.tmdb.org/t/p/w1280/bkvkJyLqOk2ZbELDEukEAXEatrt.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/vF62NCc1IQ0EUWvD1o9rE4X62kh.jpg",
+  "genra": [
+    "Action",
+    "Adventure",
+    "Drama",
+    "Fantasy",
+    "Mystery"
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama",
+    "Fantasy",
+    "Mystery"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Japanese"
+  ],
+  "synopsis": "Reach the top, and everything will be yours. At the top of the tower exists everything in this world, and all of it can be yours. You can become a god. This is the story of the beginning and the end of Rachel, the girl who climbed the tower so she could see the stars, and Bam, the boy who needed nothing but her.",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 2,
+  "totalEpisodes": 39,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 13,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Ball",
+          "id": "episode/tower-of-god-1x1",
+          "image": "https://img.watchanimeworld.one/img/thumb_286_s1e1.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "3/400",
+          "id": "episode/tower-of-god-1x2",
+          "image": "https://img.watchanimeworld.one/img/thumb_286_s1e2.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "The Correct Door",
+          "id": "episode/tower-of-god-1x3",
+          "image": "https://img.watchanimeworld.one/img/thumb_286_s1e3.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "The Green April",
+          "id": "episode/tower-of-god-1x4",
+          "image": "https://img.watchanimeworld.one/img/thumb_286_s1e4.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "The Crown's Fate",
+          "id": "episode/tower-of-god-1x5",
+          "image": "https://img.watchanimeworld.one/img/thumb_286_s1e5.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "Position Selection",
+          "id": "episode/tower-of-god-1x6",
+          "image": "https://img.watchanimeworld.one/img/thumb_286_s1e6.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "Lunch and Tag",
+          "id": "episode/tower-of-god-1x7",
+          "image": "https://img.watchanimeworld.one/img/thumb_286_s1e7.webp",
+          "season": 1
+        },
+        {
+          "episode": 8,
+          "title": "Khun's Strategy",
+          "id": "episode/tower-of-god-1x8",
+          "image": "https://img.watchanimeworld.one/img/thumb_286_s1e8.webp",
+          "season": 1
+        },
+        {
+          "episode": 9,
+          "title": "The One-Horned Ogre",
+          "id": "episode/tower-of-god-1x9",
+          "image": "https://img.watchanimeworld.one/img/thumb_286_s1e9.webp",
+          "season": 1
+        },
+        {
+          "episode": 10,
+          "title": "Beyond the Sadness",
+          "id": "episode/tower-of-god-1x10",
+          "image": "https://img.watchanimeworld.one/img/thumb_286_s1e10.webp",
+          "season": 1
+        },
+        {
+          "episode": 11,
+          "title": "Underwater Hunt (Part 1)",
+          "id": "episode/tower-of-god-1x11",
+          "image": "https://img.watchanimeworld.one/img/thumb_286_s1e11.webp",
+          "season": 1
+        },
+        {
+          "episode": 12,
+          "title": "Underwater Hunt (Part 2)",
+          "id": "episode/tower-of-god-1x12",
+          "image": "https://img.watchanimeworld.one/img/thumb_286_s1e12.webp",
+          "season": 1
+        },
+        {
+          "episode": 13,
+          "title": "Tower of God.",
+          "id": "episode/tower-of-god-1x13",
+          "image": "https://img.watchanimeworld.one/img/thumb_286_s1e13.webp",
+          "season": 1
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "name": "Season 2",
+      "episodesCount": 26,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Last Chance",
+          "id": "episode/tower-of-god-2x1",
+          "image": "https://img.watchanimeworld.one/img/thumb_286_s2e1.webp",
+          "season": 2
+        },
+        {
+          "episode": 2,
+          "title": "The Strongest Regular",
+          "id": "episode/tower-of-god-2x2",
+          "image": "https://img.watchanimeworld.one/img/thumb_286_s2e2.webp",
+          "season": 2
+        },
+        {
+          "episode": 3,
+          "title": "The Trustworthy Room",
+          "id": "episode/tower-of-god-2x3",
+          "image": "https://img.watchanimeworld.one/img/thumb_286_s2e3.webp",
+          "season": 2
+        },
+        {
+          "episode": 4,
+          "title": "Ramen and the Great Big Sky",
+          "id": "episode/tower-of-god-2x4",
+          "image": "https://img.watchanimeworld.one/img/thumb_286_s2e4.webp",
+          "season": 2
+        },
+        {
+          "episode": 5,
+          "title": "The Other Team",
+          "id": "episode/tower-of-god-2x5",
+          "image": "https://img.watchanimeworld.one/img/thumb_286_s2e5.webp",
+          "season": 2
+        },
+        {
+          "episode": 6,
+          "title": "Zygaena's Flower",
+          "id": "episode/tower-of-god-2x6",
+          "image": "https://img.watchanimeworld.one/img/thumb_286_s2e6.webp",
+          "season": 2
+        },
+        {
+          "episode": 7,
+          "title": "Mazino Magic",
+          "id": "episode/tower-of-god-2x7",
+          "image": "https://img.watchanimeworld.one/img/thumb_286_s2e7.webp",
+          "season": 2
+        },
+        {
+          "episode": 8,
+          "title": "Her Name Is Emily",
+          "id": "episode/tower-of-god-2x8",
+          "image": "https://img.watchanimeworld.one/img/thumb_286_s2e8.webp",
+          "season": 2
+        },
+        {
+          "episode": 9,
+          "title": "One-Winged Devil",
+          "id": "episode/tower-of-god-2x9",
+          "image": "https://img.watchanimeworld.one/img/thumb_286_s2e9.webp",
+          "season": 2
+        },
+        {
+          "episode": 10,
+          "title": "The Hand of Arlen",
+          "id": "episode/tower-of-god-2x10",
+          "image": "https://img.watchanimeworld.one/img/thumb_286_s2e10.webp",
+          "season": 2
+        },
+        {
+          "episode": 11,
+          "title": "A Thick and Distant Wall",
+          "id": "episode/tower-of-god-2x11",
+          "image": "https://img.watchanimeworld.one/img/thumb_286_s2e11.webp",
+          "season": 2
+        },
+        {
+          "episode": 12,
+          "title": "A New Trial",
+          "id": "episode/tower-of-god-2x12",
+          "image": "https://img.watchanimeworld.one/img/thumb_286_s2e12.webp",
+          "season": 2
+        },
+        {
+          "episode": 13,
+          "title": "Archimedes",
+          "id": "episode/tower-of-god-2x13",
+          "image": "https://img.watchanimeworld.one/img/thumb_286_s2e13.webp",
+          "season": 2
+        },
+        {
+          "episode": 14,
+          "title": "Meeting the Traveler",
+          "id": "episode/tower-of-god-2x14",
+          "image": "https://img.watchanimeworld.one/image/286/2/14.webp",
+          "season": 2
+        },
+        {
+          "episode": 15,
+          "title": "The Promise of That Day",
+          "id": "episode/tower-of-god-2x15",
+          "image": "https://img.watchanimeworld.one/image/286/2/15.webp",
+          "season": 2
+        },
+        {
+          "episode": 16,
+          "title": "The 25th Bam",
+          "id": "episode/tower-of-god-2x16",
+          "image": "https://img.watchanimeworld.one/img/thumb_286_s2e16.webp",
+          "season": 2
+        },
+        {
+          "episode": 17,
+          "title": "Funky!",
+          "id": "episode/tower-of-god-2x17",
+          "image": "https://img.watchanimeworld.one/img/thumb_286_s2e17.webp",
+          "season": 2
+        },
+        {
+          "episode": 18,
+          "title": "The Mad Dog and the Lizard",
+          "id": "episode/tower-of-god-2x18",
+          "image": "https://img.watchanimeworld.one/img/thumb_286_s2e18.webp",
+          "season": 2
+        },
+        {
+          "episode": 19,
+          "title": "Tower of God 2x19",
+          "id": "episode/tower-of-god-2x19",
+          "image": "https://img.watchanimeworld.one/img/thumb_286_s2e19.webp",
+          "season": 2
+        },
+        {
+          "episode": 20,
+          "title": "Tower of God 2x20",
+          "id": "episode/tower-of-god-2x20",
+          "image": "https://img.watchanimeworld.one/img/thumb_286_s2e20.webp",
+          "season": 2
+        },
+        {
+          "episode": 21,
+          "title": "Tower of God 2x21",
+          "id": "episode/tower-of-god-2x21",
+          "image": "https://img.watchanimeworld.one/img/thumb_286_s2e21.webp",
+          "season": 2
+        },
+        {
+          "episode": 22,
+          "title": "Tower of God 2x22",
+          "id": "episode/tower-of-god-2x22",
+          "image": "https://img.watchanimeworld.one/img/thumb_286_s2e22.webp",
+          "season": 2
+        },
+        {
+          "episode": 23,
+          "title": "Tower of God 2x23",
+          "id": "episode/tower-of-god-2x23",
+          "image": "https://img.watchanimeworld.one/img/thumb_286_s2e23.webp",
+          "season": 2
+        },
+        {
+          "episode": 24,
+          "title": "Tower of God 2x24",
+          "id": "episode/tower-of-god-2x24",
+          "image": "https://img.watchanimeworld.one/img/thumb_286_s2e24.webp",
+          "season": 2
+        },
+        {
+          "episode": 25,
+          "title": "Tower of God 2x25",
+          "id": "episode/tower-of-god-2x25",
+          "image": "https://img.watchanimeworld.one/img/thumb_286_s2e25.webp",
+          "season": 2
+        },
+        {
+          "episode": 26,
+          "title": "Tower of God 2x26",
+          "id": "episode/tower-of-god-2x26",
+          "image": "https://img.watchanimeworld.one/img/thumb_286_s2e26.webp",
+          "season": 2
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/tower-of-god-1x1",
+      "episode_id": "episode/tower-of-god-1x1",
+      "title": "Ball",
+      "episode_name": "Ball",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_286_s1e1.webp",
+      "abyssid": "7787",
+      "abyssId": "7787",
+      "playxid": "c8720c9e82b818798e7b391fd62adf33",
+      "playXID": "c8720c9e82b818798e7b391fd62adf33",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "7787",
+        "playXID": "c8720c9e82b818798e7b391fd62adf33",
+        "streamId": "7787",
+        "dubPlayerSrc": "/dub-player/t/7787/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c8720c9e82b818798e7b391fd62adf33&abyssId=7787"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "7787",
+        "playXID": "c8720c9e82b818798e7b391fd62adf33",
+        "streamId": "7787",
+        "dubPlayerSrc": "/dub-player/t/7787/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c8720c9e82b818798e7b391fd62adf33&abyssId=7787"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/c8720c9e82b818798e7b391fd62adf33",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/c8720c9e82b818798e7b391fd62adf33"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "7787",
+        "abyssId": "7787",
+        "playXID": "c8720c9e82b818798e7b391fd62adf33",
+        "title": "Tower of God",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "XrMXOcbkV"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "m1FYBWsYal"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "jmgAUkRC8"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "yPaYVzHh8Z"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "EhBeXUWUo"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/87b10e4b1e4bbded1d2d64b3e7601b83/master.m3u8?md5=HiaqCQPygOEWlXOFFN_HHg&expires=1792167494",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/87b10e4b1e4bbded1d2d64b3e7601b83/master.m3u8?md5=HiaqCQPygOEWlXOFFN_HHg&expires=1792167494",
+            "videoSource": "https://ravok.buzz/cdn/hls/87b10e4b1e4bbded1d2d64b3e7601b83/master.m3u8?md5=HiaqCQPygOEWlXOFFN_HHg&expires=1792167494",
+            "videoImage": "https://as-cdn27.top/p/4PDLDT8Etw52hJzTDM4k2okaUBS60zOHDNW2OKFYn3IJjfJDJExcE2vcX3iEbbqzbeZSi6EN4cVZ1S3i5JqLqQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "c8720c9e82b818798e7b391fd62adf33",
+                "streamUrl": "https://ravok.buzz/cdn/hls/87b10e4b1e4bbded1d2d64b3e7601b83/master.m3u8?md5=HiaqCQPygOEWlXOFFN_HHg&expires=1792167494",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/87b10e4b1e4bbded1d2d64b3e7601b83/master.m3u8?md5=HiaqCQPygOEWlXOFFN_HHg&expires=1792167494",
+                "videoSource": "https://ravok.buzz/cdn/hls/87b10e4b1e4bbded1d2d64b3e7601b83/master.m3u8?md5=HiaqCQPygOEWlXOFFN_HHg&expires=1792167494",
+                "link": "https://ravok.buzz/cdn/hls/87b10e4b1e4bbded1d2d64b3e7601b83/master.m3u8?md5=HiaqCQPygOEWlXOFFN_HHg&expires=1792167494",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/4PDLDT8Etw52hJzTDM4k2okaUBS60zOHDNW2OKFYn3IJjfJDJExcE2vcX3iEbbqzbeZSi6EN4cVZ1S3i5JqLqQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "XrMXOcbkV"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:24Z"
+    },
+    {
+      "id": "episode/tower-of-god-1x5",
+      "episode_id": "episode/tower-of-god-1x5",
+      "title": "Ball",
+      "episode_name": "Ball",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_286_s1e5.webp",
+      "abyssid": "7791",
+      "abyssId": "7791",
+      "playxid": "2e945b99f24f789d68d85ee332131c93",
+      "playXID": "2e945b99f24f789d68d85ee332131c93",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "7791",
+        "playXID": "2e945b99f24f789d68d85ee332131c93",
+        "streamId": "7791",
+        "dubPlayerSrc": "/dub-player/t/7791/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2e945b99f24f789d68d85ee332131c93&abyssId=7791"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "7791",
+        "playXID": "2e945b99f24f789d68d85ee332131c93",
+        "streamId": "7791",
+        "dubPlayerSrc": "/dub-player/t/7791/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2e945b99f24f789d68d85ee332131c93&abyssId=7791"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/2e945b99f24f789d68d85ee332131c93",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/2e945b99f24f789d68d85ee332131c93"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "7791",
+        "abyssId": "7791",
+        "playXID": "2e945b99f24f789d68d85ee332131c93",
+        "title": "Tower of God",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "brRnLwORkl"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "lNdpwAykM"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "4SCH3mwRh"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "wJ-bM2qj3"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "HUJHVP8O0"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/7b913ebc26062520203afcf4dba02884/master.m3u8?md5=NsE5mzXJ6uM_uB8xDN_F0g&expires=1792167494",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/7b913ebc26062520203afcf4dba02884/master.m3u8?md5=NsE5mzXJ6uM_uB8xDN_F0g&expires=1792167494",
+            "videoSource": "https://ravok.buzz/cdn/hls/7b913ebc26062520203afcf4dba02884/master.m3u8?md5=NsE5mzXJ6uM_uB8xDN_F0g&expires=1792167494",
+            "videoImage": "https://as-cdn28.top/p/dLLpI_LOd1dsSiTp-46OWr9K42jQbmdOpO5o58jtGELfuYZkr2b1gNTtdlMpBFUkqU0TzSJrjQ5qPbxLgU-WSw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "2e945b99f24f789d68d85ee332131c93",
+                "streamUrl": "https://ravok.buzz/cdn/hls/7b913ebc26062520203afcf4dba02884/master.m3u8?md5=NsE5mzXJ6uM_uB8xDN_F0g&expires=1792167494",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/7b913ebc26062520203afcf4dba02884/master.m3u8?md5=NsE5mzXJ6uM_uB8xDN_F0g&expires=1792167494",
+                "videoSource": "https://ravok.buzz/cdn/hls/7b913ebc26062520203afcf4dba02884/master.m3u8?md5=NsE5mzXJ6uM_uB8xDN_F0g&expires=1792167494",
+                "link": "https://ravok.buzz/cdn/hls/7b913ebc26062520203afcf4dba02884/master.m3u8?md5=NsE5mzXJ6uM_uB8xDN_F0g&expires=1792167494",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/dLLpI_LOd1dsSiTp-46OWr9K42jQbmdOpO5o58jtGELfuYZkr2b1gNTtdlMpBFUkqU0TzSJrjQ5qPbxLgU-WSw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "brRnLwORkl"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:24Z"
+    },
+    {
+      "id": "episode/tower-of-god-1x3",
+      "episode_id": "episode/tower-of-god-1x3",
+      "title": "Ball",
+      "episode_name": "Ball",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_286_s1e3.webp",
+      "abyssid": "7789",
+      "abyssId": "7789",
+      "playxid": "a45613e8740e38fe7d019d79fbf8712b",
+      "playXID": "a45613e8740e38fe7d019d79fbf8712b",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "7789",
+        "playXID": "a45613e8740e38fe7d019d79fbf8712b",
+        "streamId": "7789",
+        "dubPlayerSrc": "/dub-player/t/7789/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a45613e8740e38fe7d019d79fbf8712b&abyssId=7789"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "7789",
+        "playXID": "a45613e8740e38fe7d019d79fbf8712b",
+        "streamId": "7789",
+        "dubPlayerSrc": "/dub-player/t/7789/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a45613e8740e38fe7d019d79fbf8712b&abyssId=7789"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/a45613e8740e38fe7d019d79fbf8712b",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/a45613e8740e38fe7d019d79fbf8712b"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "7789",
+        "abyssId": "7789",
+        "playXID": "a45613e8740e38fe7d019d79fbf8712b",
+        "title": "Tower of God",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "0XOdXhUIU"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "lU73oMS4U"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "IqkZfEoa8"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "80xqAjJZs"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "mbMuUXo5H"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/5dee96c5d088e47dbc13f6f3cd8a1acb/master.m3u8?md5=cT69yCVY1CUUJhGvwWqPNw&expires=1792167495",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/5dee96c5d088e47dbc13f6f3cd8a1acb/master.m3u8?md5=cT69yCVY1CUUJhGvwWqPNw&expires=1792167495",
+            "videoSource": "https://ravok.buzz/cdn/hls/5dee96c5d088e47dbc13f6f3cd8a1acb/master.m3u8?md5=cT69yCVY1CUUJhGvwWqPNw&expires=1792167495",
+            "videoImage": "https://as-cdn27.top/p/RWRfOItsza9uX9vCYRGa6PKsVPszKqJugWA1w_Tsmq_6VjQ-DhYjo0wNeTHSGmC5B8T5ZDAyUCJ8n7OsQe3NWQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "a45613e8740e38fe7d019d79fbf8712b",
+                "streamUrl": "https://ravok.buzz/cdn/hls/5dee96c5d088e47dbc13f6f3cd8a1acb/master.m3u8?md5=cT69yCVY1CUUJhGvwWqPNw&expires=1792167495",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/5dee96c5d088e47dbc13f6f3cd8a1acb/master.m3u8?md5=cT69yCVY1CUUJhGvwWqPNw&expires=1792167495",
+                "videoSource": "https://ravok.buzz/cdn/hls/5dee96c5d088e47dbc13f6f3cd8a1acb/master.m3u8?md5=cT69yCVY1CUUJhGvwWqPNw&expires=1792167495",
+                "link": "https://ravok.buzz/cdn/hls/5dee96c5d088e47dbc13f6f3cd8a1acb/master.m3u8?md5=cT69yCVY1CUUJhGvwWqPNw&expires=1792167495",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/RWRfOItsza9uX9vCYRGa6PKsVPszKqJugWA1w_Tsmq_6VjQ-DhYjo0wNeTHSGmC5B8T5ZDAyUCJ8n7OsQe3NWQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "0XOdXhUIU"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:25Z"
+    },
+    {
+      "id": "episode/tower-of-god-1x2",
+      "episode_id": "episode/tower-of-god-1x2",
+      "title": "Ball",
+      "episode_name": "Ball",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_286_s1e2.webp",
+      "abyssid": "7788",
+      "abyssId": "7788",
+      "playxid": "a8578be2fe9a67d039ee7b4f18697286",
+      "playXID": "a8578be2fe9a67d039ee7b4f18697286",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "7788",
+        "playXID": "a8578be2fe9a67d039ee7b4f18697286",
+        "streamId": "7788",
+        "dubPlayerSrc": "/dub-player/t/7788/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a8578be2fe9a67d039ee7b4f18697286&abyssId=7788"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "7788",
+        "playXID": "a8578be2fe9a67d039ee7b4f18697286",
+        "streamId": "7788",
+        "dubPlayerSrc": "/dub-player/t/7788/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a8578be2fe9a67d039ee7b4f18697286&abyssId=7788"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/a8578be2fe9a67d039ee7b4f18697286",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/a8578be2fe9a67d039ee7b4f18697286"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "7788",
+        "abyssId": "7788",
+        "playXID": "a8578be2fe9a67d039ee7b4f18697286",
+        "title": "Tower of God",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "5S_4uxptB"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "-cWCc3Sqh"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "_1SQT5Hwh"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "xw8PD3kGS"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "SnLkEa3wl"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/a96e4da8765c5b03ea2c425a601ca796/master.m3u8?md5=NRhT3rIA8jyf3YRNBvIZ0A&expires=1792167495",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/a96e4da8765c5b03ea2c425a601ca796/master.m3u8?md5=NRhT3rIA8jyf3YRNBvIZ0A&expires=1792167495",
+            "videoSource": "https://ravok.buzz/cdn/hls/a96e4da8765c5b03ea2c425a601ca796/master.m3u8?md5=NRhT3rIA8jyf3YRNBvIZ0A&expires=1792167495",
+            "videoImage": "https://as-cdn30.top/p/IUKbZdnXBKNgoaW2g8XF_QwO4DtBliSBhcbyFok9j1ho2U28ThEkFzG4agDvkSseluLqF2HNXQt5Ef20jpd0DA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "a8578be2fe9a67d039ee7b4f18697286",
+                "streamUrl": "https://ravok.buzz/cdn/hls/a96e4da8765c5b03ea2c425a601ca796/master.m3u8?md5=NRhT3rIA8jyf3YRNBvIZ0A&expires=1792167495",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/a96e4da8765c5b03ea2c425a601ca796/master.m3u8?md5=NRhT3rIA8jyf3YRNBvIZ0A&expires=1792167495",
+                "videoSource": "https://ravok.buzz/cdn/hls/a96e4da8765c5b03ea2c425a601ca796/master.m3u8?md5=NRhT3rIA8jyf3YRNBvIZ0A&expires=1792167495",
+                "link": "https://ravok.buzz/cdn/hls/a96e4da8765c5b03ea2c425a601ca796/master.m3u8?md5=NRhT3rIA8jyf3YRNBvIZ0A&expires=1792167495",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/IUKbZdnXBKNgoaW2g8XF_QwO4DtBliSBhcbyFok9j1ho2U28ThEkFzG4agDvkSseluLqF2HNXQt5Ef20jpd0DA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "5S_4uxptB"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:25Z"
+    },
+    {
+      "id": "episode/tower-of-god-1x4",
+      "episode_id": "episode/tower-of-god-1x4",
+      "title": "Ball",
+      "episode_name": "Ball",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_286_s1e4.webp",
+      "abyssid": "7790",
+      "abyssId": "7790",
+      "playxid": "279dc09a13b9dc662c574a804d650d95",
+      "playXID": "279dc09a13b9dc662c574a804d650d95",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "7790",
+        "playXID": "279dc09a13b9dc662c574a804d650d95",
+        "streamId": "7790",
+        "dubPlayerSrc": "/dub-player/t/7790/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=279dc09a13b9dc662c574a804d650d95&abyssId=7790"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "7790",
+        "playXID": "279dc09a13b9dc662c574a804d650d95",
+        "streamId": "7790",
+        "dubPlayerSrc": "/dub-player/t/7790/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=279dc09a13b9dc662c574a804d650d95&abyssId=7790"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/279dc09a13b9dc662c574a804d650d95",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/279dc09a13b9dc662c574a804d650d95"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "7790",
+        "abyssId": "7790",
+        "playXID": "279dc09a13b9dc662c574a804d650d95",
+        "title": "Tower of God",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "Oy6YgyJp6S"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "frgOH83ll"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "GDHWD8da8"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "IAwng4R9t"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "3es_UgoZU"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/22ece4900fa0e8037e1dd108cf29da9a/master.m3u8?md5=nQHE5abI3aByZfPGt_HmkA&expires=1792167495",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/22ece4900fa0e8037e1dd108cf29da9a/master.m3u8?md5=nQHE5abI3aByZfPGt_HmkA&expires=1792167495",
+            "videoSource": "https://ravok.buzz/cdn/hls/22ece4900fa0e8037e1dd108cf29da9a/master.m3u8?md5=nQHE5abI3aByZfPGt_HmkA&expires=1792167495",
+            "videoImage": "https://as-cdn29.top/p/xYfh39rUSnP2uXDCn05SDmIc75g3PyxMOrRH3SXBsmwuIBIBdaJQ7JpI7PN06UZ6OmrYSdSDloDoa0b4zI_mLg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "279dc09a13b9dc662c574a804d650d95",
+                "streamUrl": "https://ravok.buzz/cdn/hls/22ece4900fa0e8037e1dd108cf29da9a/master.m3u8?md5=nQHE5abI3aByZfPGt_HmkA&expires=1792167495",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/22ece4900fa0e8037e1dd108cf29da9a/master.m3u8?md5=nQHE5abI3aByZfPGt_HmkA&expires=1792167495",
+                "videoSource": "https://ravok.buzz/cdn/hls/22ece4900fa0e8037e1dd108cf29da9a/master.m3u8?md5=nQHE5abI3aByZfPGt_HmkA&expires=1792167495",
+                "link": "https://ravok.buzz/cdn/hls/22ece4900fa0e8037e1dd108cf29da9a/master.m3u8?md5=nQHE5abI3aByZfPGt_HmkA&expires=1792167495",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/xYfh39rUSnP2uXDCn05SDmIc75g3PyxMOrRH3SXBsmwuIBIBdaJQ7JpI7PN06UZ6OmrYSdSDloDoa0b4zI_mLg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "Oy6YgyJp6S"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:25Z"
+    },
+    {
+      "id": "episode/tower-of-god-1x7",
+      "episode_id": "episode/tower-of-god-1x7",
+      "title": "Ball",
+      "episode_name": "Ball",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_286_s1e7.webp",
+      "abyssid": "7793",
+      "abyssId": "7793",
+      "playxid": "2df41f38afef75d8c599483001daf2e1",
+      "playXID": "2df41f38afef75d8c599483001daf2e1",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "7793",
+        "playXID": "2df41f38afef75d8c599483001daf2e1",
+        "streamId": "7793",
+        "dubPlayerSrc": "/dub-player/t/7793/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2df41f38afef75d8c599483001daf2e1&abyssId=7793"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "7793",
+        "playXID": "2df41f38afef75d8c599483001daf2e1",
+        "streamId": "7793",
+        "dubPlayerSrc": "/dub-player/t/7793/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2df41f38afef75d8c599483001daf2e1&abyssId=7793"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/2df41f38afef75d8c599483001daf2e1",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/2df41f38afef75d8c599483001daf2e1"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "7793",
+        "abyssId": "7793",
+        "playXID": "2df41f38afef75d8c599483001daf2e1",
+        "title": "Tower of God",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "AGFlAxMmK"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "56kM8qL9Q"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "UCI9iLX6qW"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "gSQKJXVlT"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "AYWljKHfJ"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/fced7bb6c9e7cad94fe6c0a9174894b7/master.m3u8?md5=2oOYDClR1OjIfsgWHbiwEw&expires=1792167498",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/fced7bb6c9e7cad94fe6c0a9174894b7/master.m3u8?md5=2oOYDClR1OjIfsgWHbiwEw&expires=1792167498",
+            "videoSource": "https://ravok.buzz/cdn/hls/fced7bb6c9e7cad94fe6c0a9174894b7/master.m3u8?md5=2oOYDClR1OjIfsgWHbiwEw&expires=1792167498",
+            "videoImage": "https://as-cdn31.top/p/fZbquiu8rB2LD0vPQsWeIt0Db3OHAxjlklcCuFe3fZsKr-O6fIpKs5UFl2GVGlZDj2ZNof_6R_i0272d8utwrg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "2df41f38afef75d8c599483001daf2e1",
+                "streamUrl": "https://ravok.buzz/cdn/hls/fced7bb6c9e7cad94fe6c0a9174894b7/master.m3u8?md5=2oOYDClR1OjIfsgWHbiwEw&expires=1792167498",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/fced7bb6c9e7cad94fe6c0a9174894b7/master.m3u8?md5=2oOYDClR1OjIfsgWHbiwEw&expires=1792167498",
+                "videoSource": "https://ravok.buzz/cdn/hls/fced7bb6c9e7cad94fe6c0a9174894b7/master.m3u8?md5=2oOYDClR1OjIfsgWHbiwEw&expires=1792167498",
+                "link": "https://ravok.buzz/cdn/hls/fced7bb6c9e7cad94fe6c0a9174894b7/master.m3u8?md5=2oOYDClR1OjIfsgWHbiwEw&expires=1792167498",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/fZbquiu8rB2LD0vPQsWeIt0Db3OHAxjlklcCuFe3fZsKr-O6fIpKs5UFl2GVGlZDj2ZNof_6R_i0272d8utwrg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "AGFlAxMmK"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:28Z"
+    },
+    {
+      "id": "episode/tower-of-god-1x6",
+      "episode_id": "episode/tower-of-god-1x6",
+      "title": "Ball",
+      "episode_name": "Ball",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_286_s1e6.webp",
+      "abyssid": "7792",
+      "abyssId": "7792",
+      "playxid": "0d8e7181cecfb125aee394596b658287",
+      "playXID": "0d8e7181cecfb125aee394596b658287",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "7792",
+        "playXID": "0d8e7181cecfb125aee394596b658287",
+        "streamId": "7792",
+        "dubPlayerSrc": "/dub-player/t/7792/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=0d8e7181cecfb125aee394596b658287&abyssId=7792"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "7792",
+        "playXID": "0d8e7181cecfb125aee394596b658287",
+        "streamId": "7792",
+        "dubPlayerSrc": "/dub-player/t/7792/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=0d8e7181cecfb125aee394596b658287&abyssId=7792"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/0d8e7181cecfb125aee394596b658287",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/0d8e7181cecfb125aee394596b658287"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "7792",
+        "abyssId": "7792",
+        "playXID": "0d8e7181cecfb125aee394596b658287",
+        "title": "Tower of God",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "wtT_NnBhH"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "9J9H5r0sB"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "al6FQPEOa"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "yXPQdmF4K"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "P0-GOvAvJ"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/b55d00ff6769e223218d7cb456ce826f/master.m3u8?md5=iQFOUelpu0X-xQLRSkYLLA&expires=1792167498",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/b55d00ff6769e223218d7cb456ce826f/master.m3u8?md5=iQFOUelpu0X-xQLRSkYLLA&expires=1792167498",
+            "videoSource": "https://ravok.buzz/cdn/hls/b55d00ff6769e223218d7cb456ce826f/master.m3u8?md5=iQFOUelpu0X-xQLRSkYLLA&expires=1792167498",
+            "videoImage": "https://as-cdn30.top/p/rTdrQyjoWpobMlp2TQufxFuw6_L24aZla0lqut6SvECFAq7SzHOW0L3-1tg9VkQEE54hbeg6tCDuAipTs9wzXg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "0d8e7181cecfb125aee394596b658287",
+                "streamUrl": "https://ravok.buzz/cdn/hls/b55d00ff6769e223218d7cb456ce826f/master.m3u8?md5=iQFOUelpu0X-xQLRSkYLLA&expires=1792167498",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/b55d00ff6769e223218d7cb456ce826f/master.m3u8?md5=iQFOUelpu0X-xQLRSkYLLA&expires=1792167498",
+                "videoSource": "https://ravok.buzz/cdn/hls/b55d00ff6769e223218d7cb456ce826f/master.m3u8?md5=iQFOUelpu0X-xQLRSkYLLA&expires=1792167498",
+                "link": "https://ravok.buzz/cdn/hls/b55d00ff6769e223218d7cb456ce826f/master.m3u8?md5=iQFOUelpu0X-xQLRSkYLLA&expires=1792167498",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/rTdrQyjoWpobMlp2TQufxFuw6_L24aZla0lqut6SvECFAq7SzHOW0L3-1tg9VkQEE54hbeg6tCDuAipTs9wzXg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "wtT_NnBhH"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:28Z"
+    },
+    {
+      "id": "episode/tower-of-god-1x10",
+      "episode_id": "episode/tower-of-god-1x10",
+      "title": "Ball",
+      "episode_name": "Ball",
+      "episode_number": 10,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_286_s1e10.webp",
+      "abyssid": "7796",
+      "abyssId": "7796",
+      "playxid": "5a20abd7831fa1ebd199086e4a69a49a",
+      "playXID": "5a20abd7831fa1ebd199086e4a69a49a",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "7796",
+        "playXID": "5a20abd7831fa1ebd199086e4a69a49a",
+        "streamId": "7796",
+        "dubPlayerSrc": "/dub-player/t/7796/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=5a20abd7831fa1ebd199086e4a69a49a&abyssId=7796"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "7796",
+        "playXID": "5a20abd7831fa1ebd199086e4a69a49a",
+        "streamId": "7796",
+        "dubPlayerSrc": "/dub-player/t/7796/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=5a20abd7831fa1ebd199086e4a69a49a&abyssId=7796"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/5a20abd7831fa1ebd199086e4a69a49a",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/5a20abd7831fa1ebd199086e4a69a49a"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "7796",
+        "abyssId": "7796",
+        "playXID": "5a20abd7831fa1ebd199086e4a69a49a",
+        "title": "Tower of God",
+        "season": 1,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "Tv2hznwbi"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "KYEQ1JnNA"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "DIfMW33XM"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "FSA28sAar"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "xFRFJwrEu"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/cad54f737167405c4cf6eef0554c2115/master.m3u8?md5=-wVhd4wcRUkd6WgWfx2v6A&expires=1792167498",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/cad54f737167405c4cf6eef0554c2115/master.m3u8?md5=-wVhd4wcRUkd6WgWfx2v6A&expires=1792167498",
+            "videoSource": "https://ravok.buzz/cdn/hls/cad54f737167405c4cf6eef0554c2115/master.m3u8?md5=-wVhd4wcRUkd6WgWfx2v6A&expires=1792167498",
+            "videoImage": "https://as-cdn31.top/p/lHH4362ArlnaHq6WioSdpT3iMbIjqAbQG6Q4M0Zy1KE3LiG17oIdRjfe7U9I7HF9i3O41gG8Ssy8HLtpXzkxJQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "5a20abd7831fa1ebd199086e4a69a49a",
+                "streamUrl": "https://ravok.buzz/cdn/hls/cad54f737167405c4cf6eef0554c2115/master.m3u8?md5=-wVhd4wcRUkd6WgWfx2v6A&expires=1792167498",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/cad54f737167405c4cf6eef0554c2115/master.m3u8?md5=-wVhd4wcRUkd6WgWfx2v6A&expires=1792167498",
+                "videoSource": "https://ravok.buzz/cdn/hls/cad54f737167405c4cf6eef0554c2115/master.m3u8?md5=-wVhd4wcRUkd6WgWfx2v6A&expires=1792167498",
+                "link": "https://ravok.buzz/cdn/hls/cad54f737167405c4cf6eef0554c2115/master.m3u8?md5=-wVhd4wcRUkd6WgWfx2v6A&expires=1792167498",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/lHH4362ArlnaHq6WioSdpT3iMbIjqAbQG6Q4M0Zy1KE3LiG17oIdRjfe7U9I7HF9i3O41gG8Ssy8HLtpXzkxJQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "Tv2hznwbi"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:28Z"
+    },
+    {
+      "id": "episode/tower-of-god-1x8",
+      "episode_id": "episode/tower-of-god-1x8",
+      "title": "Ball",
+      "episode_name": "Ball",
+      "episode_number": 8,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_286_s1e8.webp",
+      "abyssid": "7794",
+      "abyssId": "7794",
+      "playxid": "f416d0fbce436dde50730df3a12bba3b",
+      "playXID": "f416d0fbce436dde50730df3a12bba3b",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "7794",
+        "playXID": "f416d0fbce436dde50730df3a12bba3b",
+        "streamId": "7794",
+        "dubPlayerSrc": "/dub-player/t/7794/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f416d0fbce436dde50730df3a12bba3b&abyssId=7794"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "7794",
+        "playXID": "f416d0fbce436dde50730df3a12bba3b",
+        "streamId": "7794",
+        "dubPlayerSrc": "/dub-player/t/7794/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f416d0fbce436dde50730df3a12bba3b&abyssId=7794"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/f416d0fbce436dde50730df3a12bba3b",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/f416d0fbce436dde50730df3a12bba3b"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "7794",
+        "abyssId": "7794",
+        "playXID": "f416d0fbce436dde50730df3a12bba3b",
+        "title": "Tower of God",
+        "season": 1,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "aD1NDku_q"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "RXJaIEUQ_"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "86uhyF33o"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "VD6SMz6fo"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "J4hRQwqzS-"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/1db5411eeda8d40540836ed167163db3/master.m3u8?md5=sQTErNS5xSmfLa0NWevEjg&expires=1792167499",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/1db5411eeda8d40540836ed167163db3/master.m3u8?md5=sQTErNS5xSmfLa0NWevEjg&expires=1792167499",
+            "videoSource": "https://ravok.buzz/cdn/hls/1db5411eeda8d40540836ed167163db3/master.m3u8?md5=sQTErNS5xSmfLa0NWevEjg&expires=1792167499",
+            "videoImage": "https://as-cdn28.top/p/Mx9aI9nqtZ1OEK1FRNnDLlR5CbaCoXDDpNN5W4TRep0rDkNTyd_AfGftb5_qEKpLcjdDt-4I-Jgnan1KzAn5jA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "f416d0fbce436dde50730df3a12bba3b",
+                "streamUrl": "https://ravok.buzz/cdn/hls/1db5411eeda8d40540836ed167163db3/master.m3u8?md5=sQTErNS5xSmfLa0NWevEjg&expires=1792167499",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/1db5411eeda8d40540836ed167163db3/master.m3u8?md5=sQTErNS5xSmfLa0NWevEjg&expires=1792167499",
+                "videoSource": "https://ravok.buzz/cdn/hls/1db5411eeda8d40540836ed167163db3/master.m3u8?md5=sQTErNS5xSmfLa0NWevEjg&expires=1792167499",
+                "link": "https://ravok.buzz/cdn/hls/1db5411eeda8d40540836ed167163db3/master.m3u8?md5=sQTErNS5xSmfLa0NWevEjg&expires=1792167499",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/Mx9aI9nqtZ1OEK1FRNnDLlR5CbaCoXDDpNN5W4TRep0rDkNTyd_AfGftb5_qEKpLcjdDt-4I-Jgnan1KzAn5jA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "aD1NDku_q"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:28Z"
+    },
+    {
+      "id": "episode/tower-of-god-1x9",
+      "episode_id": "episode/tower-of-god-1x9",
+      "title": "Ball",
+      "episode_name": "Ball",
+      "episode_number": 9,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_286_s1e9.webp",
+      "abyssid": "7795",
+      "abyssId": "7795",
+      "playxid": "65f4086dbc18fa214f5a7a49bf55b981",
+      "playXID": "65f4086dbc18fa214f5a7a49bf55b981",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "7795",
+        "playXID": "65f4086dbc18fa214f5a7a49bf55b981",
+        "streamId": "7795",
+        "dubPlayerSrc": "/dub-player/t/7795/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=65f4086dbc18fa214f5a7a49bf55b981&abyssId=7795"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "7795",
+        "playXID": "65f4086dbc18fa214f5a7a49bf55b981",
+        "streamId": "7795",
+        "dubPlayerSrc": "/dub-player/t/7795/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=65f4086dbc18fa214f5a7a49bf55b981&abyssId=7795"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/65f4086dbc18fa214f5a7a49bf55b981",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/65f4086dbc18fa214f5a7a49bf55b981"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "7795",
+        "abyssId": "7795",
+        "playXID": "65f4086dbc18fa214f5a7a49bf55b981",
+        "title": "Tower of God",
+        "season": 1,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "30Yu90qHy"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "YZsM7mOUuA"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "B6d9J_Jq6"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "6ozoDbcoy"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "fzuGRG2KP"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/b7a6249accd9654549bf60c4c876997a/master.m3u8?md5=a_U15CJ1HfcDc552NU4J0Q&expires=1792167499",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/b7a6249accd9654549bf60c4c876997a/master.m3u8?md5=a_U15CJ1HfcDc552NU4J0Q&expires=1792167499",
+            "videoSource": "https://ravok.buzz/cdn/hls/b7a6249accd9654549bf60c4c876997a/master.m3u8?md5=a_U15CJ1HfcDc552NU4J0Q&expires=1792167499",
+            "videoImage": "https://as-cdn29.top/p/-eFI9dQUCc5yxcu2Gy0e5pRIxw0THHfM1A2nh3T2qME3DQ2uNxcWacuAUgz0TjPtvHeDMtUDKn9an3RxJCRZxQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "65f4086dbc18fa214f5a7a49bf55b981",
+                "streamUrl": "https://ravok.buzz/cdn/hls/b7a6249accd9654549bf60c4c876997a/master.m3u8?md5=a_U15CJ1HfcDc552NU4J0Q&expires=1792167499",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/b7a6249accd9654549bf60c4c876997a/master.m3u8?md5=a_U15CJ1HfcDc552NU4J0Q&expires=1792167499",
+                "videoSource": "https://ravok.buzz/cdn/hls/b7a6249accd9654549bf60c4c876997a/master.m3u8?md5=a_U15CJ1HfcDc552NU4J0Q&expires=1792167499",
+                "link": "https://ravok.buzz/cdn/hls/b7a6249accd9654549bf60c4c876997a/master.m3u8?md5=a_U15CJ1HfcDc552NU4J0Q&expires=1792167499",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/-eFI9dQUCc5yxcu2Gy0e5pRIxw0THHfM1A2nh3T2qME3DQ2uNxcWacuAUgz0TjPtvHeDMtUDKn9an3RxJCRZxQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "30Yu90qHy"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:29Z"
+    },
+    {
+      "id": "episode/tower-of-god-1x11",
+      "episode_id": "episode/tower-of-god-1x11",
+      "title": "Ball",
+      "episode_name": "Ball",
+      "episode_number": 11,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_286_s1e11.webp",
+      "abyssid": "7797",
+      "abyssId": "7797",
+      "playxid": "a82ed528e2511d3232d2c92e274ffe31",
+      "playXID": "a82ed528e2511d3232d2c92e274ffe31",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "7797",
+        "playXID": "a82ed528e2511d3232d2c92e274ffe31",
+        "streamId": "7797",
+        "dubPlayerSrc": "/dub-player/t/7797/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a82ed528e2511d3232d2c92e274ffe31&abyssId=7797"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "7797",
+        "playXID": "a82ed528e2511d3232d2c92e274ffe31",
+        "streamId": "7797",
+        "dubPlayerSrc": "/dub-player/t/7797/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a82ed528e2511d3232d2c92e274ffe31&abyssId=7797"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/a82ed528e2511d3232d2c92e274ffe31",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/a82ed528e2511d3232d2c92e274ffe31"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "7797",
+        "abyssId": "7797",
+        "playXID": "a82ed528e2511d3232d2c92e274ffe31",
+        "title": "Tower of God",
+        "season": 1,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "_EmUPHaU8"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "-ORF1wxPwr"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "rMeMmTLdX"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "ltYcf3fkS"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "ZcG3Uch1W"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/f6431326f33892ffd444ab73d2c4c734/master.m3u8?md5=oIG0pkp88mBMYaQPDkR5kQ&expires=1792167500",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/f6431326f33892ffd444ab73d2c4c734/master.m3u8?md5=oIG0pkp88mBMYaQPDkR5kQ&expires=1792167500",
+            "videoSource": "https://ravok.buzz/cdn/hls/f6431326f33892ffd444ab73d2c4c734/master.m3u8?md5=oIG0pkp88mBMYaQPDkR5kQ&expires=1792167500",
+            "videoImage": "https://as-cdn27.top/p/yMYPtqvEPNZ8RM3PwKdH-EoFSBf3qWWbitmXyjINaKwAx4Eh9JClzOlflUBjateyqPlVg6Co7HZ_9UPMMGfx8w.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "a82ed528e2511d3232d2c92e274ffe31",
+                "streamUrl": "https://ravok.buzz/cdn/hls/f6431326f33892ffd444ab73d2c4c734/master.m3u8?md5=oIG0pkp88mBMYaQPDkR5kQ&expires=1792167500",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/f6431326f33892ffd444ab73d2c4c734/master.m3u8?md5=oIG0pkp88mBMYaQPDkR5kQ&expires=1792167500",
+                "videoSource": "https://ravok.buzz/cdn/hls/f6431326f33892ffd444ab73d2c4c734/master.m3u8?md5=oIG0pkp88mBMYaQPDkR5kQ&expires=1792167500",
+                "link": "https://ravok.buzz/cdn/hls/f6431326f33892ffd444ab73d2c4c734/master.m3u8?md5=oIG0pkp88mBMYaQPDkR5kQ&expires=1792167500",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/yMYPtqvEPNZ8RM3PwKdH-EoFSBf3qWWbitmXyjINaKwAx4Eh9JClzOlflUBjateyqPlVg6Co7HZ_9UPMMGfx8w.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "_EmUPHaU8"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:30Z"
+    },
+    {
+      "id": "episode/tower-of-god-1x12",
+      "episode_id": "episode/tower-of-god-1x12",
+      "title": "Ball",
+      "episode_name": "Ball",
+      "episode_number": 12,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_286_s1e12.webp",
+      "abyssid": "7798",
+      "abyssId": "7798",
+      "playxid": "8be904ad045c578053fc6052578f9324",
+      "playXID": "8be904ad045c578053fc6052578f9324",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "7798",
+        "playXID": "8be904ad045c578053fc6052578f9324",
+        "streamId": "7798",
+        "dubPlayerSrc": "/dub-player/t/7798/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8be904ad045c578053fc6052578f9324&abyssId=7798"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "7798",
+        "playXID": "8be904ad045c578053fc6052578f9324",
+        "streamId": "7798",
+        "dubPlayerSrc": "/dub-player/t/7798/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8be904ad045c578053fc6052578f9324&abyssId=7798"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/8be904ad045c578053fc6052578f9324",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/8be904ad045c578053fc6052578f9324"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "7798",
+        "abyssId": "7798",
+        "playXID": "8be904ad045c578053fc6052578f9324",
+        "title": "Tower of God",
+        "season": 1,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "rx0m1SPD0"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "ITV5Hev2s"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "MYiSg3Ika"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "9OlhOr-raX"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "NEZESNUtQ"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/3b00c934f1fcea3b76f7e0d5474ce81f/master.m3u8?md5=VnRDCINvpwRA6xZC9YoePA&expires=1792167500",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/3b00c934f1fcea3b76f7e0d5474ce81f/master.m3u8?md5=VnRDCINvpwRA6xZC9YoePA&expires=1792167500",
+            "videoSource": "https://ravok.buzz/cdn/hls/3b00c934f1fcea3b76f7e0d5474ce81f/master.m3u8?md5=VnRDCINvpwRA6xZC9YoePA&expires=1792167500",
+            "videoImage": "https://as-cdn27.top/p/mBtMNwTDDpCQJacPv-ipmsxkySgPV7HCidPBD9xqNYZKmnBypGKs90bqgsR1Gfa1IIGjgqqJyH-snEGJ_PD6sQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "8be904ad045c578053fc6052578f9324",
+                "streamUrl": "https://ravok.buzz/cdn/hls/3b00c934f1fcea3b76f7e0d5474ce81f/master.m3u8?md5=VnRDCINvpwRA6xZC9YoePA&expires=1792167500",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/3b00c934f1fcea3b76f7e0d5474ce81f/master.m3u8?md5=VnRDCINvpwRA6xZC9YoePA&expires=1792167500",
+                "videoSource": "https://ravok.buzz/cdn/hls/3b00c934f1fcea3b76f7e0d5474ce81f/master.m3u8?md5=VnRDCINvpwRA6xZC9YoePA&expires=1792167500",
+                "link": "https://ravok.buzz/cdn/hls/3b00c934f1fcea3b76f7e0d5474ce81f/master.m3u8?md5=VnRDCINvpwRA6xZC9YoePA&expires=1792167500",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/mBtMNwTDDpCQJacPv-ipmsxkySgPV7HCidPBD9xqNYZKmnBypGKs90bqgsR1Gfa1IIGjgqqJyH-snEGJ_PD6sQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "rx0m1SPD0"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:30Z"
+    },
+    {
+      "id": "episode/tower-of-god-2x1",
+      "episode_id": "episode/tower-of-god-2x1",
+      "title": "Last Chance",
+      "episode_name": "Last Chance",
+      "episode_number": 1,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_286_s2e1.webp",
+      "abyssid": "7801",
+      "abyssId": "7801",
+      "playxid": "c27181a18d3b30d14d66a1a56c068548",
+      "playXID": "c27181a18d3b30d14d66a1a56c068548",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "7801",
+        "playXID": "c27181a18d3b30d14d66a1a56c068548",
+        "streamId": "7801",
+        "dubPlayerSrc": "/dub-player/t/7801/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c27181a18d3b30d14d66a1a56c068548&abyssId=7801"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "7801",
+        "playXID": "c27181a18d3b30d14d66a1a56c068548",
+        "streamId": "7801",
+        "dubPlayerSrc": "/dub-player/t/7801/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c27181a18d3b30d14d66a1a56c068548&abyssId=7801"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/c27181a18d3b30d14d66a1a56c068548",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/c27181a18d3b30d14d66a1a56c068548"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "7801",
+        "abyssId": "7801",
+        "playXID": "c27181a18d3b30d14d66a1a56c068548",
+        "title": "Tower of God",
+        "season": 2,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "OaJQebT_M"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "b5zye1k9_"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "sGJcpdiX1"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "R3Y8brXZZ"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "LvYNJdAdV"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/dd69a04e2ce698ac37d8459b7ddf71e7/master.m3u8?md5=n511aOmmdzEeXziG-hVMGQ&expires=1792167501",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/dd69a04e2ce698ac37d8459b7ddf71e7/master.m3u8?md5=n511aOmmdzEeXziG-hVMGQ&expires=1792167501",
+            "videoSource": "https://ravok.buzz/cdn/hls/dd69a04e2ce698ac37d8459b7ddf71e7/master.m3u8?md5=n511aOmmdzEeXziG-hVMGQ&expires=1792167501",
+            "videoImage": "https://as-cdn27.top/p/xQ2lDoi15BSpplqzdGA0ZKJoVSdllkiUDIfX3DoUjGYPRHf19b44Ayb5CyJ3nEqeO85xYW8X42UxXJDxpfuIZg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "c27181a18d3b30d14d66a1a56c068548",
+                "streamUrl": "https://ravok.buzz/cdn/hls/dd69a04e2ce698ac37d8459b7ddf71e7/master.m3u8?md5=n511aOmmdzEeXziG-hVMGQ&expires=1792167501",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/dd69a04e2ce698ac37d8459b7ddf71e7/master.m3u8?md5=n511aOmmdzEeXziG-hVMGQ&expires=1792167501",
+                "videoSource": "https://ravok.buzz/cdn/hls/dd69a04e2ce698ac37d8459b7ddf71e7/master.m3u8?md5=n511aOmmdzEeXziG-hVMGQ&expires=1792167501",
+                "link": "https://ravok.buzz/cdn/hls/dd69a04e2ce698ac37d8459b7ddf71e7/master.m3u8?md5=n511aOmmdzEeXziG-hVMGQ&expires=1792167501",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/xQ2lDoi15BSpplqzdGA0ZKJoVSdllkiUDIfX3DoUjGYPRHf19b44Ayb5CyJ3nEqeO85xYW8X42UxXJDxpfuIZg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "OaJQebT_M"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:31Z"
+    },
+    {
+      "id": "episode/tower-of-god-1x13",
+      "episode_id": "episode/tower-of-god-1x13",
+      "title": "Ball",
+      "episode_name": "Ball",
+      "episode_number": 13,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_286_s1e13.webp",
+      "abyssid": "7799",
+      "abyssId": "7799",
+      "playxid": "631fe0c7519b232b0a0f6b965af015a9",
+      "playXID": "631fe0c7519b232b0a0f6b965af015a9",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "7799",
+        "playXID": "631fe0c7519b232b0a0f6b965af015a9",
+        "streamId": "7799",
+        "dubPlayerSrc": "/dub-player/t/7799/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=631fe0c7519b232b0a0f6b965af015a9&abyssId=7799"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "7799",
+        "playXID": "631fe0c7519b232b0a0f6b965af015a9",
+        "streamId": "7799",
+        "dubPlayerSrc": "/dub-player/t/7799/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=631fe0c7519b232b0a0f6b965af015a9&abyssId=7799"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/631fe0c7519b232b0a0f6b965af015a9",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/631fe0c7519b232b0a0f6b965af015a9"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "7799",
+        "abyssId": "7799",
+        "playXID": "631fe0c7519b232b0a0f6b965af015a9",
+        "title": "Tower of God",
+        "season": 1,
+        "episode": 13,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "BnAzkDoDC"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "Sb2QMnkf5"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "0IlZEGvHz"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "ROgDdHUX1"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "77PJHx7Xt"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/c0ec92a01b199886f73b2c6d025e79f9/master.m3u8?md5=4xlf-xaJAPEixpzghBB50A&expires=1792167501",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/c0ec92a01b199886f73b2c6d025e79f9/master.m3u8?md5=4xlf-xaJAPEixpzghBB50A&expires=1792167501",
+            "videoSource": "https://ravok.buzz/cdn/hls/c0ec92a01b199886f73b2c6d025e79f9/master.m3u8?md5=4xlf-xaJAPEixpzghBB50A&expires=1792167501",
+            "videoImage": "https://as-cdn27.top/p/XkVfrhlTfaI3-UBgd0vVh6yqGhE22TOB29zIkK97d260Mfq55QTnKYH6dozxCYsOttsAkc1PWu7gGPbsn_PGsw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "631fe0c7519b232b0a0f6b965af015a9",
+                "streamUrl": "https://ravok.buzz/cdn/hls/c0ec92a01b199886f73b2c6d025e79f9/master.m3u8?md5=4xlf-xaJAPEixpzghBB50A&expires=1792167501",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/c0ec92a01b199886f73b2c6d025e79f9/master.m3u8?md5=4xlf-xaJAPEixpzghBB50A&expires=1792167501",
+                "videoSource": "https://ravok.buzz/cdn/hls/c0ec92a01b199886f73b2c6d025e79f9/master.m3u8?md5=4xlf-xaJAPEixpzghBB50A&expires=1792167501",
+                "link": "https://ravok.buzz/cdn/hls/c0ec92a01b199886f73b2c6d025e79f9/master.m3u8?md5=4xlf-xaJAPEixpzghBB50A&expires=1792167501",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/XkVfrhlTfaI3-UBgd0vVh6yqGhE22TOB29zIkK97d260Mfq55QTnKYH6dozxCYsOttsAkc1PWu7gGPbsn_PGsw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "BnAzkDoDC"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:31Z"
+    },
+    {
+      "id": "episode/tower-of-god-2x2",
+      "episode_id": "episode/tower-of-god-2x2",
+      "title": "Last Chance",
+      "episode_name": "Last Chance",
+      "episode_number": 2,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_286_s2e2.webp",
+      "abyssid": "7802",
+      "abyssId": "7802",
+      "playxid": "b326a08bb69d28ec5947c8438f12dd66",
+      "playXID": "b326a08bb69d28ec5947c8438f12dd66",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "7802",
+        "playXID": "b326a08bb69d28ec5947c8438f12dd66",
+        "streamId": "7802",
+        "dubPlayerSrc": "/dub-player/t/7802/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b326a08bb69d28ec5947c8438f12dd66&abyssId=7802"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "7802",
+        "playXID": "b326a08bb69d28ec5947c8438f12dd66",
+        "streamId": "7802",
+        "dubPlayerSrc": "/dub-player/t/7802/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b326a08bb69d28ec5947c8438f12dd66&abyssId=7802"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/b326a08bb69d28ec5947c8438f12dd66",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/b326a08bb69d28ec5947c8438f12dd66"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "7802",
+        "abyssId": "7802",
+        "playXID": "b326a08bb69d28ec5947c8438f12dd66",
+        "title": "Tower of God",
+        "season": 2,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "rfM3ODdEh"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "BeXqm1yGc"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "9votkYc2h"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "suFBHzSZl"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "O6T8fVI2L"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/a4a79bb1409b1ca4fb702be6fe781c1c/master.m3u8?md5=-bM_frVOcRZvxI8KREqQEA&expires=1792167501",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/a4a79bb1409b1ca4fb702be6fe781c1c/master.m3u8?md5=-bM_frVOcRZvxI8KREqQEA&expires=1792167501",
+            "videoSource": "https://ravok.buzz/cdn/hls/a4a79bb1409b1ca4fb702be6fe781c1c/master.m3u8?md5=-bM_frVOcRZvxI8KREqQEA&expires=1792167501",
+            "videoImage": "https://as-cdn29.top/p/-t5eniZrn92w9rM_JsfkzQRFS3Lxzx0NzwerKNty9uC4_lBi8-843hNcMH9S85zCGpybxwXvFnQ3Te0ekoOxQA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "b326a08bb69d28ec5947c8438f12dd66",
+                "streamUrl": "https://ravok.buzz/cdn/hls/a4a79bb1409b1ca4fb702be6fe781c1c/master.m3u8?md5=-bM_frVOcRZvxI8KREqQEA&expires=1792167501",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/a4a79bb1409b1ca4fb702be6fe781c1c/master.m3u8?md5=-bM_frVOcRZvxI8KREqQEA&expires=1792167501",
+                "videoSource": "https://ravok.buzz/cdn/hls/a4a79bb1409b1ca4fb702be6fe781c1c/master.m3u8?md5=-bM_frVOcRZvxI8KREqQEA&expires=1792167501",
+                "link": "https://ravok.buzz/cdn/hls/a4a79bb1409b1ca4fb702be6fe781c1c/master.m3u8?md5=-bM_frVOcRZvxI8KREqQEA&expires=1792167501",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/-t5eniZrn92w9rM_JsfkzQRFS3Lxzx0NzwerKNty9uC4_lBi8-843hNcMH9S85zCGpybxwXvFnQ3Te0ekoOxQA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "rfM3ODdEh"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:31Z"
+    },
+    {
+      "id": "episode/tower-of-god-2x4",
+      "episode_id": "episode/tower-of-god-2x4",
+      "title": "Last Chance",
+      "episode_name": "Last Chance",
+      "episode_number": 4,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_286_s2e4.webp",
+      "abyssid": "7804",
+      "abyssId": "7804",
+      "playxid": "9e6bc03970c47b5183cb2ee13799dcca",
+      "playXID": "9e6bc03970c47b5183cb2ee13799dcca",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "7804",
+        "playXID": "9e6bc03970c47b5183cb2ee13799dcca",
+        "streamId": "7804",
+        "dubPlayerSrc": "/dub-player/t/7804/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9e6bc03970c47b5183cb2ee13799dcca&abyssId=7804"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "7804",
+        "playXID": "9e6bc03970c47b5183cb2ee13799dcca",
+        "streamId": "7804",
+        "dubPlayerSrc": "/dub-player/t/7804/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9e6bc03970c47b5183cb2ee13799dcca&abyssId=7804"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/9e6bc03970c47b5183cb2ee13799dcca",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/9e6bc03970c47b5183cb2ee13799dcca"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "7804",
+        "abyssId": "7804",
+        "playXID": "9e6bc03970c47b5183cb2ee13799dcca",
+        "title": "Tower of God",
+        "season": 2,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "Anrx7URQ0"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "EqalCVBUL"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "yMzbNHixT"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "nHNy5LFL3"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "5dD7gVYaX"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/84d4b4435d02ab7e734abaf6b591763e/master.m3u8?md5=3_XiFATJ4E6rrNfc7YsB2g&expires=1792167503",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/84d4b4435d02ab7e734abaf6b591763e/master.m3u8?md5=3_XiFATJ4E6rrNfc7YsB2g&expires=1792167503",
+            "videoSource": "https://ravok.buzz/cdn/hls/84d4b4435d02ab7e734abaf6b591763e/master.m3u8?md5=3_XiFATJ4E6rrNfc7YsB2g&expires=1792167503",
+            "videoImage": "https://as-cdn30.top/p/kyuOI6xQ9koqZNTWnNIHQIFq2pnj0QA_S_svMxoSU5rUhkEyXzfO5A9LmZkWcx0BEc-fpNFiU76wZvNcuNhQOA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "9e6bc03970c47b5183cb2ee13799dcca",
+                "streamUrl": "https://ravok.buzz/cdn/hls/84d4b4435d02ab7e734abaf6b591763e/master.m3u8?md5=3_XiFATJ4E6rrNfc7YsB2g&expires=1792167503",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/84d4b4435d02ab7e734abaf6b591763e/master.m3u8?md5=3_XiFATJ4E6rrNfc7YsB2g&expires=1792167503",
+                "videoSource": "https://ravok.buzz/cdn/hls/84d4b4435d02ab7e734abaf6b591763e/master.m3u8?md5=3_XiFATJ4E6rrNfc7YsB2g&expires=1792167503",
+                "link": "https://ravok.buzz/cdn/hls/84d4b4435d02ab7e734abaf6b591763e/master.m3u8?md5=3_XiFATJ4E6rrNfc7YsB2g&expires=1792167503",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/kyuOI6xQ9koqZNTWnNIHQIFq2pnj0QA_S_svMxoSU5rUhkEyXzfO5A9LmZkWcx0BEc-fpNFiU76wZvNcuNhQOA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "Anrx7URQ0"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:33Z"
+    },
+    {
+      "id": "episode/tower-of-god-2x3",
+      "episode_id": "episode/tower-of-god-2x3",
+      "title": "Last Chance",
+      "episode_name": "Last Chance",
+      "episode_number": 3,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_286_s2e3.webp",
+      "abyssid": "7803",
+      "abyssId": "7803",
+      "playxid": "bc0573e9c47c22585365c4c8351b46b1",
+      "playXID": "bc0573e9c47c22585365c4c8351b46b1",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "7803",
+        "playXID": "bc0573e9c47c22585365c4c8351b46b1",
+        "streamId": "7803",
+        "dubPlayerSrc": "/dub-player/t/7803/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=bc0573e9c47c22585365c4c8351b46b1&abyssId=7803"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "7803",
+        "playXID": "bc0573e9c47c22585365c4c8351b46b1",
+        "streamId": "7803",
+        "dubPlayerSrc": "/dub-player/t/7803/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=bc0573e9c47c22585365c4c8351b46b1&abyssId=7803"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/bc0573e9c47c22585365c4c8351b46b1",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/bc0573e9c47c22585365c4c8351b46b1"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "7803",
+        "abyssId": "7803",
+        "playXID": "bc0573e9c47c22585365c4c8351b46b1",
+        "title": "Tower of God",
+        "season": 2,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "ALQ6ryTDZj"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "eHe9pYvGp"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "9vLbDZjJg"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "sE-lqK74L"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "njqhzUSQu"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/6eed5cbdd1acc32681349c26349a3818/master.m3u8?md5=YEUOF0hvYHmh4nRUaU5oOQ&expires=1792167503",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/6eed5cbdd1acc32681349c26349a3818/master.m3u8?md5=YEUOF0hvYHmh4nRUaU5oOQ&expires=1792167503",
+            "videoSource": "https://ravok.buzz/cdn/hls/6eed5cbdd1acc32681349c26349a3818/master.m3u8?md5=YEUOF0hvYHmh4nRUaU5oOQ&expires=1792167503",
+            "videoImage": "https://as-cdn30.top/p/z7nEz9UeTfxyWNcjaHX6hwLURV3gl1JO1yM3EPkZX7kRpRLZxNTlaY6MJgCU1m-cY17gnsPmqaz0qpjY4wfz9w.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "bc0573e9c47c22585365c4c8351b46b1",
+                "streamUrl": "https://ravok.buzz/cdn/hls/6eed5cbdd1acc32681349c26349a3818/master.m3u8?md5=YEUOF0hvYHmh4nRUaU5oOQ&expires=1792167503",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/6eed5cbdd1acc32681349c26349a3818/master.m3u8?md5=YEUOF0hvYHmh4nRUaU5oOQ&expires=1792167503",
+                "videoSource": "https://ravok.buzz/cdn/hls/6eed5cbdd1acc32681349c26349a3818/master.m3u8?md5=YEUOF0hvYHmh4nRUaU5oOQ&expires=1792167503",
+                "link": "https://ravok.buzz/cdn/hls/6eed5cbdd1acc32681349c26349a3818/master.m3u8?md5=YEUOF0hvYHmh4nRUaU5oOQ&expires=1792167503",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/z7nEz9UeTfxyWNcjaHX6hwLURV3gl1JO1yM3EPkZX7kRpRLZxNTlaY6MJgCU1m-cY17gnsPmqaz0qpjY4wfz9w.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "ALQ6ryTDZj"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:33Z"
+    },
+    {
+      "id": "episode/tower-of-god-2x5",
+      "episode_id": "episode/tower-of-god-2x5",
+      "title": "Last Chance",
+      "episode_name": "Last Chance",
+      "episode_number": 5,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_286_s2e5.webp",
+      "abyssid": "7805",
+      "abyssId": "7805",
+      "playxid": "266c430a5f40c90947ba9db582a37f54",
+      "playXID": "266c430a5f40c90947ba9db582a37f54",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "7805",
+        "playXID": "266c430a5f40c90947ba9db582a37f54",
+        "streamId": "7805",
+        "dubPlayerSrc": "/dub-player/t/7805/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=266c430a5f40c90947ba9db582a37f54&abyssId=7805"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "7805",
+        "playXID": "266c430a5f40c90947ba9db582a37f54",
+        "streamId": "7805",
+        "dubPlayerSrc": "/dub-player/t/7805/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=266c430a5f40c90947ba9db582a37f54&abyssId=7805"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/266c430a5f40c90947ba9db582a37f54",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/266c430a5f40c90947ba9db582a37f54"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "7805",
+        "abyssId": "7805",
+        "playXID": "266c430a5f40c90947ba9db582a37f54",
+        "title": "Tower of God",
+        "season": 2,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "HLlbwJnMH"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "4TMSC2Ryk"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "0Jijz8PiN"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "sUH-jESSA"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "-4h1LiJ4f"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/99b30efc3cf7c6a3b5dc3c5885ef7d31/master.m3u8?md5=RZBa0j5fjyE8i6-YwNr-eg&expires=1792167503",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/99b30efc3cf7c6a3b5dc3c5885ef7d31/master.m3u8?md5=RZBa0j5fjyE8i6-YwNr-eg&expires=1792167503",
+            "videoSource": "https://ravok.buzz/cdn/hls/99b30efc3cf7c6a3b5dc3c5885ef7d31/master.m3u8?md5=RZBa0j5fjyE8i6-YwNr-eg&expires=1792167503",
+            "videoImage": "https://as-cdn28.top/p/jObS9xzOAJJp9grDX60Oc6a9dy3P7IJozzgYLUPb36Nl8V7qwI87NSSHwt9Sdj2E8aiaEjEj0_R4_gmJSPotZg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "266c430a5f40c90947ba9db582a37f54",
+                "streamUrl": "https://ravok.buzz/cdn/hls/99b30efc3cf7c6a3b5dc3c5885ef7d31/master.m3u8?md5=RZBa0j5fjyE8i6-YwNr-eg&expires=1792167503",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/99b30efc3cf7c6a3b5dc3c5885ef7d31/master.m3u8?md5=RZBa0j5fjyE8i6-YwNr-eg&expires=1792167503",
+                "videoSource": "https://ravok.buzz/cdn/hls/99b30efc3cf7c6a3b5dc3c5885ef7d31/master.m3u8?md5=RZBa0j5fjyE8i6-YwNr-eg&expires=1792167503",
+                "link": "https://ravok.buzz/cdn/hls/99b30efc3cf7c6a3b5dc3c5885ef7d31/master.m3u8?md5=RZBa0j5fjyE8i6-YwNr-eg&expires=1792167503",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/jObS9xzOAJJp9grDX60Oc6a9dy3P7IJozzgYLUPb36Nl8V7qwI87NSSHwt9Sdj2E8aiaEjEj0_R4_gmJSPotZg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "HLlbwJnMH"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:33Z"
+    },
+    {
+      "id": "episode/tower-of-god-2x7",
+      "episode_id": "episode/tower-of-god-2x7",
+      "title": "Last Chance",
+      "episode_name": "Last Chance",
+      "episode_number": 7,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_286_s2e7.webp",
+      "abyssid": "7807",
+      "abyssId": "7807",
+      "playxid": "b844b947d3f4f2829acc21c79ee6ef5e",
+      "playXID": "b844b947d3f4f2829acc21c79ee6ef5e",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "7807",
+        "playXID": "b844b947d3f4f2829acc21c79ee6ef5e",
+        "streamId": "7807",
+        "dubPlayerSrc": "/dub-player/t/7807/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b844b947d3f4f2829acc21c79ee6ef5e&abyssId=7807"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "7807",
+        "playXID": "b844b947d3f4f2829acc21c79ee6ef5e",
+        "streamId": "7807",
+        "dubPlayerSrc": "/dub-player/t/7807/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b844b947d3f4f2829acc21c79ee6ef5e&abyssId=7807"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/b844b947d3f4f2829acc21c79ee6ef5e",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/b844b947d3f4f2829acc21c79ee6ef5e"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "7807",
+        "abyssId": "7807",
+        "playXID": "b844b947d3f4f2829acc21c79ee6ef5e",
+        "title": "Tower of God",
+        "season": 2,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "DrRAAJpTT"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "YM0sEDMmt"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "UIlYQ5ns2"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "7zTR6d_Um"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "JS-qqbXMx"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/489c8a929cee96bf2caa318671460a97/master.m3u8?md5=XTZH2oncMwVIQzVfBz2cHQ&expires=1792167504",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/489c8a929cee96bf2caa318671460a97/master.m3u8?md5=XTZH2oncMwVIQzVfBz2cHQ&expires=1792167504",
+            "videoSource": "https://ravok.buzz/cdn/hls/489c8a929cee96bf2caa318671460a97/master.m3u8?md5=XTZH2oncMwVIQzVfBz2cHQ&expires=1792167504",
+            "videoImage": "https://as-cdn31.top/p/NkFB9XzHNodOQ8ocZ7M2fDNtetuRPOOfuwFwqDBk7i4KsZxADp1km5Svsl_T78jrXAyAHrFJ5rHHNLcQaQ8wIw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "b844b947d3f4f2829acc21c79ee6ef5e",
+                "streamUrl": "https://ravok.buzz/cdn/hls/489c8a929cee96bf2caa318671460a97/master.m3u8?md5=XTZH2oncMwVIQzVfBz2cHQ&expires=1792167504",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/489c8a929cee96bf2caa318671460a97/master.m3u8?md5=XTZH2oncMwVIQzVfBz2cHQ&expires=1792167504",
+                "videoSource": "https://ravok.buzz/cdn/hls/489c8a929cee96bf2caa318671460a97/master.m3u8?md5=XTZH2oncMwVIQzVfBz2cHQ&expires=1792167504",
+                "link": "https://ravok.buzz/cdn/hls/489c8a929cee96bf2caa318671460a97/master.m3u8?md5=XTZH2oncMwVIQzVfBz2cHQ&expires=1792167504",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/NkFB9XzHNodOQ8ocZ7M2fDNtetuRPOOfuwFwqDBk7i4KsZxADp1km5Svsl_T78jrXAyAHrFJ5rHHNLcQaQ8wIw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "DrRAAJpTT"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:33Z"
+    },
+    {
+      "id": "episode/tower-of-god-2x6",
+      "episode_id": "episode/tower-of-god-2x6",
+      "title": "Last Chance",
+      "episode_name": "Last Chance",
+      "episode_number": 6,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_286_s2e6.webp",
+      "abyssid": "7806",
+      "abyssId": "7806",
+      "playxid": "164f545c22e17e5e9298b1c84b9e3e1e",
+      "playXID": "164f545c22e17e5e9298b1c84b9e3e1e",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "7806",
+        "playXID": "164f545c22e17e5e9298b1c84b9e3e1e",
+        "streamId": "7806",
+        "dubPlayerSrc": "/dub-player/t/7806/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=164f545c22e17e5e9298b1c84b9e3e1e&abyssId=7806"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "7806",
+        "playXID": "164f545c22e17e5e9298b1c84b9e3e1e",
+        "streamId": "7806",
+        "dubPlayerSrc": "/dub-player/t/7806/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=164f545c22e17e5e9298b1c84b9e3e1e&abyssId=7806"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/164f545c22e17e5e9298b1c84b9e3e1e",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/164f545c22e17e5e9298b1c84b9e3e1e"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "7806",
+        "abyssId": "7806",
+        "playXID": "164f545c22e17e5e9298b1c84b9e3e1e",
+        "title": "Tower of God",
+        "season": 2,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "qza95aX1S"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "vyZnduoBI"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "bFijpjPZp"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "uDHaEAZpSL"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "IjEtO5Vfy"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/789c24631f236e6e966d1ca22a66a48c/master.m3u8?md5=PJVHYeUJh6TXms8D1MvStw&expires=1792167504",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/789c24631f236e6e966d1ca22a66a48c/master.m3u8?md5=PJVHYeUJh6TXms8D1MvStw&expires=1792167504",
+            "videoSource": "https://ravok.buzz/cdn/hls/789c24631f236e6e966d1ca22a66a48c/master.m3u8?md5=PJVHYeUJh6TXms8D1MvStw&expires=1792167504",
+            "videoImage": "https://as-cdn31.top/p/tOIG2rp9RpwmExDunGaJxtmpPhyzTv-dDgYVo9vpBCKsoZxTam8W6jfXKo__8cJOgSp57AzBgNhGzUfwv_WY7A.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "164f545c22e17e5e9298b1c84b9e3e1e",
+                "streamUrl": "https://ravok.buzz/cdn/hls/789c24631f236e6e966d1ca22a66a48c/master.m3u8?md5=PJVHYeUJh6TXms8D1MvStw&expires=1792167504",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/789c24631f236e6e966d1ca22a66a48c/master.m3u8?md5=PJVHYeUJh6TXms8D1MvStw&expires=1792167504",
+                "videoSource": "https://ravok.buzz/cdn/hls/789c24631f236e6e966d1ca22a66a48c/master.m3u8?md5=PJVHYeUJh6TXms8D1MvStw&expires=1792167504",
+                "link": "https://ravok.buzz/cdn/hls/789c24631f236e6e966d1ca22a66a48c/master.m3u8?md5=PJVHYeUJh6TXms8D1MvStw&expires=1792167504",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/tOIG2rp9RpwmExDunGaJxtmpPhyzTv-dDgYVo9vpBCKsoZxTam8W6jfXKo__8cJOgSp57AzBgNhGzUfwv_WY7A.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "qza95aX1S"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:34Z"
+    },
+    {
+      "id": "episode/tower-of-god-2x10",
+      "episode_id": "episode/tower-of-god-2x10",
+      "title": "Last Chance",
+      "episode_name": "Last Chance",
+      "episode_number": 10,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_286_s2e10.webp",
+      "abyssid": "7810",
+      "abyssId": "7810",
+      "playxid": "17e0ce48c87a8885fe8b82c21cb17ecf",
+      "playXID": "17e0ce48c87a8885fe8b82c21cb17ecf",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "7810",
+        "playXID": "17e0ce48c87a8885fe8b82c21cb17ecf",
+        "streamId": "7810",
+        "dubPlayerSrc": "/dub-player/t/7810/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=17e0ce48c87a8885fe8b82c21cb17ecf&abyssId=7810"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "7810",
+        "playXID": "17e0ce48c87a8885fe8b82c21cb17ecf",
+        "streamId": "7810",
+        "dubPlayerSrc": "/dub-player/t/7810/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=17e0ce48c87a8885fe8b82c21cb17ecf&abyssId=7810"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/17e0ce48c87a8885fe8b82c21cb17ecf",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/17e0ce48c87a8885fe8b82c21cb17ecf"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "7810",
+        "abyssId": "7810",
+        "playXID": "17e0ce48c87a8885fe8b82c21cb17ecf",
+        "title": "Tower of God",
+        "season": 2,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "QXPbikEemz"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "zRWuPGEIH"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "aWgLG80v5"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "eGhFhRzjMK"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "T6ZQgwCyB"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/2096d861595acdb14e77653470b93a47/master.m3u8?md5=OoOQk4wTCGg59n-F1Tkqsw&expires=1792167506",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/2096d861595acdb14e77653470b93a47/master.m3u8?md5=OoOQk4wTCGg59n-F1Tkqsw&expires=1792167506",
+            "videoSource": "https://ravok.buzz/cdn/hls/2096d861595acdb14e77653470b93a47/master.m3u8?md5=OoOQk4wTCGg59n-F1Tkqsw&expires=1792167506",
+            "videoImage": "https://as-cdn28.top/p/VVPQvq5Sb-tcGRGSGa6wcPD-FE2DOLF3zhRIOyCNqGIHtJXEPY2lJe1oO3pv2NBR0GIW_MRFqUh8USgBZK91YQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "17e0ce48c87a8885fe8b82c21cb17ecf",
+                "streamUrl": "https://ravok.buzz/cdn/hls/2096d861595acdb14e77653470b93a47/master.m3u8?md5=OoOQk4wTCGg59n-F1Tkqsw&expires=1792167506",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/2096d861595acdb14e77653470b93a47/master.m3u8?md5=OoOQk4wTCGg59n-F1Tkqsw&expires=1792167506",
+                "videoSource": "https://ravok.buzz/cdn/hls/2096d861595acdb14e77653470b93a47/master.m3u8?md5=OoOQk4wTCGg59n-F1Tkqsw&expires=1792167506",
+                "link": "https://ravok.buzz/cdn/hls/2096d861595acdb14e77653470b93a47/master.m3u8?md5=OoOQk4wTCGg59n-F1Tkqsw&expires=1792167506",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/VVPQvq5Sb-tcGRGSGa6wcPD-FE2DOLF3zhRIOyCNqGIHtJXEPY2lJe1oO3pv2NBR0GIW_MRFqUh8USgBZK91YQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "QXPbikEemz"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:36Z"
+    },
+    {
+      "id": "episode/tower-of-god-2x8",
+      "episode_id": "episode/tower-of-god-2x8",
+      "title": "Last Chance",
+      "episode_name": "Last Chance",
+      "episode_number": 8,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_286_s2e8.webp",
+      "abyssid": "7808",
+      "abyssId": "7808",
+      "playxid": "8cad09283d1d6c5fb08daec8a576a72d",
+      "playXID": "8cad09283d1d6c5fb08daec8a576a72d",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "7808",
+        "playXID": "8cad09283d1d6c5fb08daec8a576a72d",
+        "streamId": "7808",
+        "dubPlayerSrc": "/dub-player/t/7808/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8cad09283d1d6c5fb08daec8a576a72d&abyssId=7808"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "7808",
+        "playXID": "8cad09283d1d6c5fb08daec8a576a72d",
+        "streamId": "7808",
+        "dubPlayerSrc": "/dub-player/t/7808/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8cad09283d1d6c5fb08daec8a576a72d&abyssId=7808"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/8cad09283d1d6c5fb08daec8a576a72d",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/8cad09283d1d6c5fb08daec8a576a72d"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "7808",
+        "abyssId": "7808",
+        "playXID": "8cad09283d1d6c5fb08daec8a576a72d",
+        "title": "Tower of God",
+        "season": 2,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "mqSBv8Y-x"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "iJ8P7YCj7"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "8jlLRtlX1"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "--rtbohPM"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "zfnHHfLrW"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/8b8f0bc913832c1e644bebd56aa2d919/master.m3u8?md5=5nOIkGHFtbgH851CTN1rHA&expires=1792167507",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/8b8f0bc913832c1e644bebd56aa2d919/master.m3u8?md5=5nOIkGHFtbgH851CTN1rHA&expires=1792167507",
+            "videoSource": "https://ravok.buzz/cdn/hls/8b8f0bc913832c1e644bebd56aa2d919/master.m3u8?md5=5nOIkGHFtbgH851CTN1rHA&expires=1792167507",
+            "videoImage": "https://as-cdn31.top/p/Rh7SEIWXxiZBU2eOhPxXTvdlN72GEF9qHY9bYD6MBGosHWmAH1-e3GWojD2Op3TMbzwIGvtbD2l3DB3AZkoveg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "8cad09283d1d6c5fb08daec8a576a72d",
+                "streamUrl": "https://ravok.buzz/cdn/hls/8b8f0bc913832c1e644bebd56aa2d919/master.m3u8?md5=5nOIkGHFtbgH851CTN1rHA&expires=1792167507",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/8b8f0bc913832c1e644bebd56aa2d919/master.m3u8?md5=5nOIkGHFtbgH851CTN1rHA&expires=1792167507",
+                "videoSource": "https://ravok.buzz/cdn/hls/8b8f0bc913832c1e644bebd56aa2d919/master.m3u8?md5=5nOIkGHFtbgH851CTN1rHA&expires=1792167507",
+                "link": "https://ravok.buzz/cdn/hls/8b8f0bc913832c1e644bebd56aa2d919/master.m3u8?md5=5nOIkGHFtbgH851CTN1rHA&expires=1792167507",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/Rh7SEIWXxiZBU2eOhPxXTvdlN72GEF9qHY9bYD6MBGosHWmAH1-e3GWojD2Op3TMbzwIGvtbD2l3DB3AZkoveg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "mqSBv8Y-x"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:36Z"
+    },
+    {
+      "id": "episode/tower-of-god-2x9",
+      "episode_id": "episode/tower-of-god-2x9",
+      "title": "Last Chance",
+      "episode_name": "Last Chance",
+      "episode_number": 9,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_286_s2e9.webp",
+      "abyssid": "7809",
+      "abyssId": "7809",
+      "playxid": "8a701b176cc140888936dad15c5d046a",
+      "playXID": "8a701b176cc140888936dad15c5d046a",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "7809",
+        "playXID": "8a701b176cc140888936dad15c5d046a",
+        "streamId": "7809",
+        "dubPlayerSrc": "/dub-player/t/7809/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8a701b176cc140888936dad15c5d046a&abyssId=7809"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "7809",
+        "playXID": "8a701b176cc140888936dad15c5d046a",
+        "streamId": "7809",
+        "dubPlayerSrc": "/dub-player/t/7809/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8a701b176cc140888936dad15c5d046a&abyssId=7809"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/8a701b176cc140888936dad15c5d046a",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/8a701b176cc140888936dad15c5d046a"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "7809",
+        "abyssId": "7809",
+        "playXID": "8a701b176cc140888936dad15c5d046a",
+        "title": "Tower of God",
+        "season": 2,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "mfBzSyJ_b"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "84LD6lIzL"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "BOXeB0wBg"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "TPggeZyi0"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "BW9m5v59Z"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/aacd6a168605acc9d6650617bd25d52b/master.m3u8?md5=NiuFbPbNEb_U5KBeuvQQ0w&expires=1792167507",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/aacd6a168605acc9d6650617bd25d52b/master.m3u8?md5=NiuFbPbNEb_U5KBeuvQQ0w&expires=1792167507",
+            "videoSource": "https://ravok.buzz/cdn/hls/aacd6a168605acc9d6650617bd25d52b/master.m3u8?md5=NiuFbPbNEb_U5KBeuvQQ0w&expires=1792167507",
+            "videoImage": "https://as-cdn31.top/p/n_C1au3PGa2g0B38IoWBSKD-CoG0f3iKPBK3ti7VSWW3Z9hct15Xt8qvsTiIqjzodqzo7syAfmw059m4HcuTjg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "8a701b176cc140888936dad15c5d046a",
+                "streamUrl": "https://ravok.buzz/cdn/hls/aacd6a168605acc9d6650617bd25d52b/master.m3u8?md5=NiuFbPbNEb_U5KBeuvQQ0w&expires=1792167507",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/aacd6a168605acc9d6650617bd25d52b/master.m3u8?md5=NiuFbPbNEb_U5KBeuvQQ0w&expires=1792167507",
+                "videoSource": "https://ravok.buzz/cdn/hls/aacd6a168605acc9d6650617bd25d52b/master.m3u8?md5=NiuFbPbNEb_U5KBeuvQQ0w&expires=1792167507",
+                "link": "https://ravok.buzz/cdn/hls/aacd6a168605acc9d6650617bd25d52b/master.m3u8?md5=NiuFbPbNEb_U5KBeuvQQ0w&expires=1792167507",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/n_C1au3PGa2g0B38IoWBSKD-CoG0f3iKPBK3ti7VSWW3Z9hct15Xt8qvsTiIqjzodqzo7syAfmw059m4HcuTjg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "mfBzSyJ_b"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:37Z"
+    },
+    {
+      "id": "episode/tower-of-god-2x12",
+      "episode_id": "episode/tower-of-god-2x12",
+      "title": "Last Chance",
+      "episode_name": "Last Chance",
+      "episode_number": 12,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_286_s2e12.webp",
+      "abyssid": "10814",
+      "abyssId": "10814",
+      "playxid": "a70a600d7c593ca50cc6639cd64ed71a",
+      "playXID": "a70a600d7c593ca50cc6639cd64ed71a",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "10814",
+        "playXID": "a70a600d7c593ca50cc6639cd64ed71a",
+        "streamId": "10814",
+        "dubPlayerSrc": "/dub-player/t/10814/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a70a600d7c593ca50cc6639cd64ed71a&abyssId=10814"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "10814",
+        "playXID": "a70a600d7c593ca50cc6639cd64ed71a",
+        "streamId": "10814",
+        "dubPlayerSrc": "/dub-player/t/10814/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a70a600d7c593ca50cc6639cd64ed71a&abyssId=10814"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/a70a600d7c593ca50cc6639cd64ed71a",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/a70a600d7c593ca50cc6639cd64ed71a"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "10814",
+        "abyssId": "10814",
+        "playXID": "a70a600d7c593ca50cc6639cd64ed71a",
+        "title": "Tower of God",
+        "season": 2,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "1XY7VkVec"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "jb8wCokjT"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "gMZhKw_ud"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "IHacgQshV"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "FfiJsVOdA"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/68f90ef02c0eab303a424500015daa95/master.m3u8?md5=Wh8OsCE2zLtd1OUMhixK2Q&expires=1792167507",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/68f90ef02c0eab303a424500015daa95/master.m3u8?md5=Wh8OsCE2zLtd1OUMhixK2Q&expires=1792167507",
+            "videoSource": "https://ravok.buzz/cdn/hls/68f90ef02c0eab303a424500015daa95/master.m3u8?md5=Wh8OsCE2zLtd1OUMhixK2Q&expires=1792167507",
+            "videoImage": "https://as-cdn30.top/p/vjQcQVQA7phAJ9xMWHA0vb7rzaObr3TbGtOJPaUh06yMDyeRwPAgw6KhVOzYPl2FJtANZxEEGBE8LI6l_ry1tg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "a70a600d7c593ca50cc6639cd64ed71a",
+                "streamUrl": "https://ravok.buzz/cdn/hls/68f90ef02c0eab303a424500015daa95/master.m3u8?md5=Wh8OsCE2zLtd1OUMhixK2Q&expires=1792167507",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/68f90ef02c0eab303a424500015daa95/master.m3u8?md5=Wh8OsCE2zLtd1OUMhixK2Q&expires=1792167507",
+                "videoSource": "https://ravok.buzz/cdn/hls/68f90ef02c0eab303a424500015daa95/master.m3u8?md5=Wh8OsCE2zLtd1OUMhixK2Q&expires=1792167507",
+                "link": "https://ravok.buzz/cdn/hls/68f90ef02c0eab303a424500015daa95/master.m3u8?md5=Wh8OsCE2zLtd1OUMhixK2Q&expires=1792167507",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/vjQcQVQA7phAJ9xMWHA0vb7rzaObr3TbGtOJPaUh06yMDyeRwPAgw6KhVOzYPl2FJtANZxEEGBE8LI6l_ry1tg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "1XY7VkVec"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:37Z"
+    },
+    {
+      "id": "episode/tower-of-god-2x11",
+      "episode_id": "episode/tower-of-god-2x11",
+      "title": "Last Chance",
+      "episode_name": "Last Chance",
+      "episode_number": 11,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_286_s2e11.webp",
+      "abyssid": "7811",
+      "abyssId": "7811",
+      "playxid": "a23f9327866d3bafd064964c9f0fcb6f",
+      "playXID": "a23f9327866d3bafd064964c9f0fcb6f",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "7811",
+        "playXID": "a23f9327866d3bafd064964c9f0fcb6f",
+        "streamId": "7811",
+        "dubPlayerSrc": "/dub-player/t/7811/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a23f9327866d3bafd064964c9f0fcb6f&abyssId=7811"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "7811",
+        "playXID": "a23f9327866d3bafd064964c9f0fcb6f",
+        "streamId": "7811",
+        "dubPlayerSrc": "/dub-player/t/7811/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a23f9327866d3bafd064964c9f0fcb6f&abyssId=7811"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/a23f9327866d3bafd064964c9f0fcb6f",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/a23f9327866d3bafd064964c9f0fcb6f"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "7811",
+        "abyssId": "7811",
+        "playXID": "a23f9327866d3bafd064964c9f0fcb6f",
+        "title": "Tower of God",
+        "season": 2,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "i5ELahhqx"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "5MD8q78Bn"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "yMY0fREUtH"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "_4iX7GjLT"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "RU0J4Kvs0"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/5014e4a3954b641ac76463122df90bf9/master.m3u8?md5=Z7AbdkTKbMkRqHqP98z2_Q&expires=1792167507",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/5014e4a3954b641ac76463122df90bf9/master.m3u8?md5=Z7AbdkTKbMkRqHqP98z2_Q&expires=1792167507",
+            "videoSource": "https://ravok.buzz/cdn/hls/5014e4a3954b641ac76463122df90bf9/master.m3u8?md5=Z7AbdkTKbMkRqHqP98z2_Q&expires=1792167507",
+            "videoImage": "https://as-cdn28.top/p/pUOpWW6ThrPgo_DJPQ3ejIry7THPOpxX068dzvdH2zJMXM_McgOH9avozUmvovZnlGxj_bhYPNMVr0KBHsUP5A.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "a23f9327866d3bafd064964c9f0fcb6f",
+                "streamUrl": "https://ravok.buzz/cdn/hls/5014e4a3954b641ac76463122df90bf9/master.m3u8?md5=Z7AbdkTKbMkRqHqP98z2_Q&expires=1792167507",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/5014e4a3954b641ac76463122df90bf9/master.m3u8?md5=Z7AbdkTKbMkRqHqP98z2_Q&expires=1792167507",
+                "videoSource": "https://ravok.buzz/cdn/hls/5014e4a3954b641ac76463122df90bf9/master.m3u8?md5=Z7AbdkTKbMkRqHqP98z2_Q&expires=1792167507",
+                "link": "https://ravok.buzz/cdn/hls/5014e4a3954b641ac76463122df90bf9/master.m3u8?md5=Z7AbdkTKbMkRqHqP98z2_Q&expires=1792167507",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/pUOpWW6ThrPgo_DJPQ3ejIry7THPOpxX068dzvdH2zJMXM_McgOH9avozUmvovZnlGxj_bhYPNMVr0KBHsUP5A.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "i5ELahhqx"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:37Z"
+    },
+    {
+      "id": "episode/tower-of-god-2x13",
+      "episode_id": "episode/tower-of-god-2x13",
+      "title": "Last Chance",
+      "episode_name": "Last Chance",
+      "episode_number": 13,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_286_s2e13.webp",
+      "abyssid": "10815",
+      "abyssId": "10815",
+      "playxid": "7d3f2fed7faf3501554970cd3c0d724e",
+      "playXID": "7d3f2fed7faf3501554970cd3c0d724e",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "10815",
+        "playXID": "7d3f2fed7faf3501554970cd3c0d724e",
+        "streamId": "10815",
+        "dubPlayerSrc": "/dub-player/t/10815/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=7d3f2fed7faf3501554970cd3c0d724e&abyssId=10815"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "10815",
+        "playXID": "7d3f2fed7faf3501554970cd3c0d724e",
+        "streamId": "10815",
+        "dubPlayerSrc": "/dub-player/t/10815/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=7d3f2fed7faf3501554970cd3c0d724e&abyssId=10815"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/7d3f2fed7faf3501554970cd3c0d724e",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/7d3f2fed7faf3501554970cd3c0d724e"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "10815",
+        "abyssId": "10815",
+        "playXID": "7d3f2fed7faf3501554970cd3c0d724e",
+        "title": "Tower of God",
+        "season": 2,
+        "episode": 13,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "EhNW5RDnN"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "kntiees09"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "jAZHyBuBP"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "5O7rBcBMS"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "-VgqYMdys"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/690ce01bce051f22f05ab4f5f946960f/master.m3u8?md5=5ouhMdfvosAY1UXpqqyvUw&expires=1792167509",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/690ce01bce051f22f05ab4f5f946960f/master.m3u8?md5=5ouhMdfvosAY1UXpqqyvUw&expires=1792167509",
+            "videoSource": "https://ravok.buzz/cdn/hls/690ce01bce051f22f05ab4f5f946960f/master.m3u8?md5=5ouhMdfvosAY1UXpqqyvUw&expires=1792167509",
+            "videoImage": "https://as-cdn29.top/p/PZ6rDgz5xfzLPBFNU4HVIeOP7mbLgIUIrdV91QM1Tci5fgX_azeR6NxqJeOn5JiDZz7XLi3JxRh0GpHk3Re1sw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "7d3f2fed7faf3501554970cd3c0d724e",
+                "streamUrl": "https://ravok.buzz/cdn/hls/690ce01bce051f22f05ab4f5f946960f/master.m3u8?md5=5ouhMdfvosAY1UXpqqyvUw&expires=1792167509",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/690ce01bce051f22f05ab4f5f946960f/master.m3u8?md5=5ouhMdfvosAY1UXpqqyvUw&expires=1792167509",
+                "videoSource": "https://ravok.buzz/cdn/hls/690ce01bce051f22f05ab4f5f946960f/master.m3u8?md5=5ouhMdfvosAY1UXpqqyvUw&expires=1792167509",
+                "link": "https://ravok.buzz/cdn/hls/690ce01bce051f22f05ab4f5f946960f/master.m3u8?md5=5ouhMdfvosAY1UXpqqyvUw&expires=1792167509",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/PZ6rDgz5xfzLPBFNU4HVIeOP7mbLgIUIrdV91QM1Tci5fgX_azeR6NxqJeOn5JiDZz7XLi3JxRh0GpHk3Re1sw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "EhNW5RDnN"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:39Z"
+    },
+    {
+      "id": "episode/tower-of-god-2x14",
+      "episode_id": "episode/tower-of-god-2x14",
+      "title": "Last Chance",
+      "episode_name": "Last Chance",
+      "episode_number": 14,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/image/286/2/14.webp",
+      "abyssid": "10816",
+      "abyssId": "10816",
+      "playxid": "83adc9225e4deb67d7ce42d58fe5157c",
+      "playXID": "83adc9225e4deb67d7ce42d58fe5157c",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "10816",
+        "playXID": "83adc9225e4deb67d7ce42d58fe5157c",
+        "streamId": "10816",
+        "dubPlayerSrc": "/dub-player/t/10816/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=83adc9225e4deb67d7ce42d58fe5157c&abyssId=10816"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "10816",
+        "playXID": "83adc9225e4deb67d7ce42d58fe5157c",
+        "streamId": "10816",
+        "dubPlayerSrc": "/dub-player/t/10816/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=83adc9225e4deb67d7ce42d58fe5157c&abyssId=10816"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/83adc9225e4deb67d7ce42d58fe5157c",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/83adc9225e4deb67d7ce42d58fe5157c"
+        },
+        {
+          "name": "Server 2",
+          "embedUrl": "https://bysewihe.com/e/qnjdj1scx6j4",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://bysewihe.com/e/qnjdj1scx6j4"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "10816",
+        "abyssId": "10816",
+        "playXID": "83adc9225e4deb67d7ce42d58fe5157c",
+        "title": "Tower of God",
+        "season": 2,
+        "episode": 14,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "Xs8U9tJrh"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "6IJr1c0ly"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "DJond9z01"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/5631763f64bb135253214c381013280f/master.m3u8?md5=6LDCyMxZhq6ewmWKRA1SpQ&expires=1792167510",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/5631763f64bb135253214c381013280f/master.m3u8?md5=6LDCyMxZhq6ewmWKRA1SpQ&expires=1792167510",
+            "videoSource": "https://ravok.buzz/cdn/hls/5631763f64bb135253214c381013280f/master.m3u8?md5=6LDCyMxZhq6ewmWKRA1SpQ&expires=1792167510",
+            "videoImage": "https://as-cdn29.top/p/hSEBkg83gRwHNzPNx7cm9ntjeyjBAxve5q0pfQrgGOB3i8a4sqDCaKNJ3OgD9HcM-Ui8kqG5Lq1giZiD4bjwQw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "83adc9225e4deb67d7ce42d58fe5157c",
+                "streamUrl": "https://ravok.buzz/cdn/hls/5631763f64bb135253214c381013280f/master.m3u8?md5=6LDCyMxZhq6ewmWKRA1SpQ&expires=1792167510",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/5631763f64bb135253214c381013280f/master.m3u8?md5=6LDCyMxZhq6ewmWKRA1SpQ&expires=1792167510",
+                "videoSource": "https://ravok.buzz/cdn/hls/5631763f64bb135253214c381013280f/master.m3u8?md5=6LDCyMxZhq6ewmWKRA1SpQ&expires=1792167510",
+                "link": "https://ravok.buzz/cdn/hls/5631763f64bb135253214c381013280f/master.m3u8?md5=6LDCyMxZhq6ewmWKRA1SpQ&expires=1792167510",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/hSEBkg83gRwHNzPNx7cm9ntjeyjBAxve5q0pfQrgGOB3i8a4sqDCaKNJ3OgD9HcM-Ui8kqG5Lq1giZiD4bjwQw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "Xs8U9tJrh"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:40Z"
+    },
+    {
+      "id": "episode/tower-of-god-2x15",
+      "episode_id": "episode/tower-of-god-2x15",
+      "title": "Last Chance",
+      "episode_name": "Last Chance",
+      "episode_number": 15,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/image/286/2/15.webp",
+      "abyssid": "11095",
+      "abyssId": "11095",
+      "playxid": "feab05aa91085b7a8012516bc3533958",
+      "playXID": "feab05aa91085b7a8012516bc3533958",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "11095",
+        "playXID": "feab05aa91085b7a8012516bc3533958",
+        "streamId": "11095",
+        "dubPlayerSrc": "/dub-player/t/11095/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=feab05aa91085b7a8012516bc3533958&abyssId=11095"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "11095",
+        "playXID": "feab05aa91085b7a8012516bc3533958",
+        "streamId": "11095",
+        "dubPlayerSrc": "/dub-player/t/11095/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=feab05aa91085b7a8012516bc3533958&abyssId=11095"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/feab05aa91085b7a8012516bc3533958",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/feab05aa91085b7a8012516bc3533958"
+        },
+        {
+          "name": "Server 2",
+          "embedUrl": "https://bysewihe.com/e/4n840yxmw8er",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://bysewihe.com/e/4n840yxmw8er"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "11095",
+        "abyssId": "11095",
+        "playXID": "feab05aa91085b7a8012516bc3533958",
+        "title": "Tower of God",
+        "season": 2,
+        "episode": 15,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "TuBd2TB0X"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "bOsgDoQWH"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "ZAljZutFj"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/6c483ab18b5f99bc0c0713318213eb68/master.m3u8?md5=oZpLSZhcie2fzrg_5EXzSg&expires=1792167510",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/6c483ab18b5f99bc0c0713318213eb68/master.m3u8?md5=oZpLSZhcie2fzrg_5EXzSg&expires=1792167510",
+            "videoSource": "https://ravok.buzz/cdn/hls/6c483ab18b5f99bc0c0713318213eb68/master.m3u8?md5=oZpLSZhcie2fzrg_5EXzSg&expires=1792167510",
+            "videoImage": "https://as-cdn31.top/p/bNQ1b7fOSk3csRM9OC-6xPLy6xCL74RMj84bmH3YE3iolxpUz4quNTRolGwDj7vjdl7Ht_ltd2BV3sUD8NV43A.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "feab05aa91085b7a8012516bc3533958",
+                "streamUrl": "https://ravok.buzz/cdn/hls/6c483ab18b5f99bc0c0713318213eb68/master.m3u8?md5=oZpLSZhcie2fzrg_5EXzSg&expires=1792167510",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/6c483ab18b5f99bc0c0713318213eb68/master.m3u8?md5=oZpLSZhcie2fzrg_5EXzSg&expires=1792167510",
+                "videoSource": "https://ravok.buzz/cdn/hls/6c483ab18b5f99bc0c0713318213eb68/master.m3u8?md5=oZpLSZhcie2fzrg_5EXzSg&expires=1792167510",
+                "link": "https://ravok.buzz/cdn/hls/6c483ab18b5f99bc0c0713318213eb68/master.m3u8?md5=oZpLSZhcie2fzrg_5EXzSg&expires=1792167510",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/bNQ1b7fOSk3csRM9OC-6xPLy6xCL74RMj84bmH3YE3iolxpUz4quNTRolGwDj7vjdl7Ht_ltd2BV3sUD8NV43A.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "TuBd2TB0X"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:40Z"
+    },
+    {
+      "id": "episode/tower-of-god-2x17",
+      "episode_id": "episode/tower-of-god-2x17",
+      "title": "Last Chance",
+      "episode_name": "Last Chance",
+      "episode_number": 17,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_286_s2e17.webp",
+      "abyssid": "11462",
+      "abyssId": "11462",
+      "playxid": "cfcfc30e3761dbef9fa08c44799f5ae5",
+      "playXID": "cfcfc30e3761dbef9fa08c44799f5ae5",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "11462",
+        "playXID": "cfcfc30e3761dbef9fa08c44799f5ae5",
+        "streamId": "11462",
+        "dubPlayerSrc": "/dub-player/t/11462/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=cfcfc30e3761dbef9fa08c44799f5ae5&abyssId=11462"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "11462",
+        "playXID": "cfcfc30e3761dbef9fa08c44799f5ae5",
+        "streamId": "11462",
+        "dubPlayerSrc": "/dub-player/t/11462/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=cfcfc30e3761dbef9fa08c44799f5ae5&abyssId=11462"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/cfcfc30e3761dbef9fa08c44799f5ae5",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/cfcfc30e3761dbef9fa08c44799f5ae5"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "11462",
+        "abyssId": "11462",
+        "playXID": "cfcfc30e3761dbef9fa08c44799f5ae5",
+        "title": "Tower of God",
+        "season": 2,
+        "episode": 17,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "f-K-UjEoh"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "AmXk6cMEz"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "ueNRAptv7"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "yM4wu2aK4"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "7KZy3obCg"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/a04f2abcb905cf32520aeb61a236a046/master.m3u8?md5=fJ6geFNEw6mhgjwgkQj-tg&expires=1792167510",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/a04f2abcb905cf32520aeb61a236a046/master.m3u8?md5=fJ6geFNEw6mhgjwgkQj-tg&expires=1792167510",
+            "videoSource": "https://ravok.buzz/cdn/hls/a04f2abcb905cf32520aeb61a236a046/master.m3u8?md5=fJ6geFNEw6mhgjwgkQj-tg&expires=1792167510",
+            "videoImage": "https://as-cdn30.top/p/1YZ8Whk4VyD5b-IuG-Wqty-8kV6wpcOkpr2_KgsTkqyH4GTOzMNS6ay3fSKj6xwu9FZPM06QHHfq__en6sHY5w.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "cfcfc30e3761dbef9fa08c44799f5ae5",
+                "streamUrl": "https://ravok.buzz/cdn/hls/a04f2abcb905cf32520aeb61a236a046/master.m3u8?md5=fJ6geFNEw6mhgjwgkQj-tg&expires=1792167510",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/a04f2abcb905cf32520aeb61a236a046/master.m3u8?md5=fJ6geFNEw6mhgjwgkQj-tg&expires=1792167510",
+                "videoSource": "https://ravok.buzz/cdn/hls/a04f2abcb905cf32520aeb61a236a046/master.m3u8?md5=fJ6geFNEw6mhgjwgkQj-tg&expires=1792167510",
+                "link": "https://ravok.buzz/cdn/hls/a04f2abcb905cf32520aeb61a236a046/master.m3u8?md5=fJ6geFNEw6mhgjwgkQj-tg&expires=1792167510",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/1YZ8Whk4VyD5b-IuG-Wqty-8kV6wpcOkpr2_KgsTkqyH4GTOzMNS6ay3fSKj6xwu9FZPM06QHHfq__en6sHY5w.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "f-K-UjEoh"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:40Z"
+    },
+    {
+      "id": "episode/tower-of-god-2x16",
+      "episode_id": "episode/tower-of-god-2x16",
+      "title": "Last Chance",
+      "episode_name": "Last Chance",
+      "episode_number": 16,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_286_s2e16.webp",
+      "abyssid": "11093",
+      "abyssId": "11093",
+      "playxid": "60bba73587de9c81e7eb9a508ef928b7",
+      "playXID": "60bba73587de9c81e7eb9a508ef928b7",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "11093",
+        "playXID": "60bba73587de9c81e7eb9a508ef928b7",
+        "streamId": "11093",
+        "dubPlayerSrc": "/dub-player/t/11093/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=60bba73587de9c81e7eb9a508ef928b7&abyssId=11093"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "11093",
+        "playXID": "60bba73587de9c81e7eb9a508ef928b7",
+        "streamId": "11093",
+        "dubPlayerSrc": "/dub-player/t/11093/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=60bba73587de9c81e7eb9a508ef928b7&abyssId=11093"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/60bba73587de9c81e7eb9a508ef928b7",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/60bba73587de9c81e7eb9a508ef928b7"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "11093",
+        "abyssId": "11093",
+        "playXID": "60bba73587de9c81e7eb9a508ef928b7",
+        "title": "Tower of God",
+        "season": 2,
+        "episode": 16,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "vaTcj4rDO"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "jfelUBaX1"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "EIVfSBz0n"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "R32M9NjIw"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "KfN-jBbr9"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/3ee233172dc8fe07c1f2a47bee55c23b/master.m3u8?md5=eJpdnTYiUQhZZaETZ5XPxw&expires=1792167510",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/3ee233172dc8fe07c1f2a47bee55c23b/master.m3u8?md5=eJpdnTYiUQhZZaETZ5XPxw&expires=1792167510",
+            "videoSource": "https://ravok.buzz/cdn/hls/3ee233172dc8fe07c1f2a47bee55c23b/master.m3u8?md5=eJpdnTYiUQhZZaETZ5XPxw&expires=1792167510",
+            "videoImage": "https://as-cdn27.top/p/T5kVC_M5GaLSEBEccVqUO6fF0Awl-EYJ5J6JGp_jfFZ1xjh4ow0ya4UOu98uDGetD3SDqjjLRBAVYRP6w33hIQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "60bba73587de9c81e7eb9a508ef928b7",
+                "streamUrl": "https://ravok.buzz/cdn/hls/3ee233172dc8fe07c1f2a47bee55c23b/master.m3u8?md5=eJpdnTYiUQhZZaETZ5XPxw&expires=1792167510",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/3ee233172dc8fe07c1f2a47bee55c23b/master.m3u8?md5=eJpdnTYiUQhZZaETZ5XPxw&expires=1792167510",
+                "videoSource": "https://ravok.buzz/cdn/hls/3ee233172dc8fe07c1f2a47bee55c23b/master.m3u8?md5=eJpdnTYiUQhZZaETZ5XPxw&expires=1792167510",
+                "link": "https://ravok.buzz/cdn/hls/3ee233172dc8fe07c1f2a47bee55c23b/master.m3u8?md5=eJpdnTYiUQhZZaETZ5XPxw&expires=1792167510",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/T5kVC_M5GaLSEBEccVqUO6fF0Awl-EYJ5J6JGp_jfFZ1xjh4ow0ya4UOu98uDGetD3SDqjjLRBAVYRP6w33hIQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "vaTcj4rDO"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:40Z"
+    },
+    {
+      "id": "episode/tower-of-god-2x18",
+      "episode_id": "episode/tower-of-god-2x18",
+      "title": "Last Chance",
+      "episode_name": "Last Chance",
+      "episode_number": 18,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_286_s2e18.webp",
+      "abyssid": "11581",
+      "abyssId": "11581",
+      "playxid": "0ee7e71061cf860ccf3b29c6823c7971",
+      "playXID": "0ee7e71061cf860ccf3b29c6823c7971",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "11581",
+        "playXID": "0ee7e71061cf860ccf3b29c6823c7971",
+        "streamId": "11581",
+        "dubPlayerSrc": "/dub-player/t/11581/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=0ee7e71061cf860ccf3b29c6823c7971&abyssId=11581"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "11581",
+        "playXID": "0ee7e71061cf860ccf3b29c6823c7971",
+        "streamId": "11581",
+        "dubPlayerSrc": "/dub-player/t/11581/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=0ee7e71061cf860ccf3b29c6823c7971&abyssId=11581"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/0ee7e71061cf860ccf3b29c6823c7971",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/0ee7e71061cf860ccf3b29c6823c7971"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "11581",
+        "abyssId": "11581",
+        "playXID": "0ee7e71061cf860ccf3b29c6823c7971",
+        "title": "Tower of God",
+        "season": 2,
+        "episode": 18,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "0ILVKNC2t"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "FohcRrozY"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "fSw5KMmt5"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "YSCP0TGZ_"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "dab_vQsrn"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/5b2ffe0f1133bc96c1049ed35baea959/master.m3u8?md5=TsPhE--Ia2Dvl4emoQDgIA&expires=1792167511",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/5b2ffe0f1133bc96c1049ed35baea959/master.m3u8?md5=TsPhE--Ia2Dvl4emoQDgIA&expires=1792167511",
+            "videoSource": "https://ravok.buzz/cdn/hls/5b2ffe0f1133bc96c1049ed35baea959/master.m3u8?md5=TsPhE--Ia2Dvl4emoQDgIA&expires=1792167511",
+            "videoImage": "https://as-cdn27.top/p/nPhDtSMIWgjjtFmhEerbegYuYZwJu5QALyNzgHSSLxKhqTylcimlnhHUZQtHxox-YQ5Dft5Uwq862m7p9gSZvQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "0ee7e71061cf860ccf3b29c6823c7971",
+                "streamUrl": "https://ravok.buzz/cdn/hls/5b2ffe0f1133bc96c1049ed35baea959/master.m3u8?md5=TsPhE--Ia2Dvl4emoQDgIA&expires=1792167511",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/5b2ffe0f1133bc96c1049ed35baea959/master.m3u8?md5=TsPhE--Ia2Dvl4emoQDgIA&expires=1792167511",
+                "videoSource": "https://ravok.buzz/cdn/hls/5b2ffe0f1133bc96c1049ed35baea959/master.m3u8?md5=TsPhE--Ia2Dvl4emoQDgIA&expires=1792167511",
+                "link": "https://ravok.buzz/cdn/hls/5b2ffe0f1133bc96c1049ed35baea959/master.m3u8?md5=TsPhE--Ia2Dvl4emoQDgIA&expires=1792167511",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/nPhDtSMIWgjjtFmhEerbegYuYZwJu5QALyNzgHSSLxKhqTylcimlnhHUZQtHxox-YQ5Dft5Uwq862m7p9gSZvQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "0ILVKNC2t"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:41Z"
+    },
+    {
+      "id": "episode/tower-of-god-2x19",
+      "episode_id": "episode/tower-of-god-2x19",
+      "title": "Last Chance",
+      "episode_name": "Last Chance",
+      "episode_number": 19,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_286_s2e19.webp",
+      "abyssid": "11829",
+      "abyssId": "11829",
+      "playxid": "b5bd9ec2c8ff3cb0c9f606c1a59ec4b9",
+      "playXID": "b5bd9ec2c8ff3cb0c9f606c1a59ec4b9",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "11829",
+        "playXID": "b5bd9ec2c8ff3cb0c9f606c1a59ec4b9",
+        "streamId": "11829",
+        "dubPlayerSrc": "/dub-player/t/11829/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b5bd9ec2c8ff3cb0c9f606c1a59ec4b9&abyssId=11829"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "11829",
+        "playXID": "b5bd9ec2c8ff3cb0c9f606c1a59ec4b9",
+        "streamId": "11829",
+        "dubPlayerSrc": "/dub-player/t/11829/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b5bd9ec2c8ff3cb0c9f606c1a59ec4b9&abyssId=11829"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/b5bd9ec2c8ff3cb0c9f606c1a59ec4b9",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/b5bd9ec2c8ff3cb0c9f606c1a59ec4b9"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "11829",
+        "abyssId": "11829",
+        "playXID": "b5bd9ec2c8ff3cb0c9f606c1a59ec4b9",
+        "title": "Tower of God",
+        "season": 2,
+        "episode": 19,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "wpNU2psof"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "kf0kIlIXe"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "NrDovuLCU"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "b1N7J7oxf"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "FTdMEc2Bu"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/5cdf550cc85bc484100e6b56d14a252c/master.m3u8?md5=ug7S88tZ4nhDH-XmQdN3RQ&expires=1792167513",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/5cdf550cc85bc484100e6b56d14a252c/master.m3u8?md5=ug7S88tZ4nhDH-XmQdN3RQ&expires=1792167513",
+            "videoSource": "https://ravok.buzz/cdn/hls/5cdf550cc85bc484100e6b56d14a252c/master.m3u8?md5=ug7S88tZ4nhDH-XmQdN3RQ&expires=1792167513",
+            "videoImage": "https://as-cdn31.top/p/wOwJo3ikLyPD6yFS4z6TtxX5ZoemZfgD5UM0A4GTy3j7qBFr9zPXcgbBa4Os0S3zMZllo70JaNYzOzD8ABfpcA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "b5bd9ec2c8ff3cb0c9f606c1a59ec4b9",
+                "streamUrl": "https://ravok.buzz/cdn/hls/5cdf550cc85bc484100e6b56d14a252c/master.m3u8?md5=ug7S88tZ4nhDH-XmQdN3RQ&expires=1792167513",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/5cdf550cc85bc484100e6b56d14a252c/master.m3u8?md5=ug7S88tZ4nhDH-XmQdN3RQ&expires=1792167513",
+                "videoSource": "https://ravok.buzz/cdn/hls/5cdf550cc85bc484100e6b56d14a252c/master.m3u8?md5=ug7S88tZ4nhDH-XmQdN3RQ&expires=1792167513",
+                "link": "https://ravok.buzz/cdn/hls/5cdf550cc85bc484100e6b56d14a252c/master.m3u8?md5=ug7S88tZ4nhDH-XmQdN3RQ&expires=1792167513",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/wOwJo3ikLyPD6yFS4z6TtxX5ZoemZfgD5UM0A4GTy3j7qBFr9zPXcgbBa4Os0S3zMZllo70JaNYzOzD8ABfpcA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "wpNU2psof"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:43Z"
+    },
+    {
+      "id": "episode/tower-of-god-2x20",
+      "episode_id": "episode/tower-of-god-2x20",
+      "title": "Last Chance",
+      "episode_name": "Last Chance",
+      "episode_number": 20,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_286_s2e20.webp",
+      "abyssid": "11830",
+      "abyssId": "11830",
+      "playxid": "e8dc153260a59d4f236cfd7439d5dfd3",
+      "playXID": "e8dc153260a59d4f236cfd7439d5dfd3",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "11830",
+        "playXID": "e8dc153260a59d4f236cfd7439d5dfd3",
+        "streamId": "11830",
+        "dubPlayerSrc": "/dub-player/t/11830/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e8dc153260a59d4f236cfd7439d5dfd3&abyssId=11830"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "11830",
+        "playXID": "e8dc153260a59d4f236cfd7439d5dfd3",
+        "streamId": "11830",
+        "dubPlayerSrc": "/dub-player/t/11830/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e8dc153260a59d4f236cfd7439d5dfd3&abyssId=11830"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/e8dc153260a59d4f236cfd7439d5dfd3",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/e8dc153260a59d4f236cfd7439d5dfd3"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "11830",
+        "abyssId": "11830",
+        "playXID": "e8dc153260a59d4f236cfd7439d5dfd3",
+        "title": "Tower of God",
+        "season": 2,
+        "episode": 20,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "wVJgpxXnR"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "x9-wwuZGNY"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "Ow6LFa12y"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "UADvPi6jT"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "wcH29Qk4i"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/eb0f0e43ad2c398195d3ca7055d8dda2/master.m3u8?md5=VUF3L_LPTIJF7rGEILvM0g&expires=1792167513",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/eb0f0e43ad2c398195d3ca7055d8dda2/master.m3u8?md5=VUF3L_LPTIJF7rGEILvM0g&expires=1792167513",
+            "videoSource": "https://ravok.buzz/cdn/hls/eb0f0e43ad2c398195d3ca7055d8dda2/master.m3u8?md5=VUF3L_LPTIJF7rGEILvM0g&expires=1792167513",
+            "videoImage": "https://as-cdn31.top/p/rBM84w5h3TzNpy3qZSggsxV6iWXOnfftmnpcx42woZGnbKWO6ejE2quiLDw1CrZvpu33YY28f71ZnNbgelyUEg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "e8dc153260a59d4f236cfd7439d5dfd3",
+                "streamUrl": "https://ravok.buzz/cdn/hls/eb0f0e43ad2c398195d3ca7055d8dda2/master.m3u8?md5=VUF3L_LPTIJF7rGEILvM0g&expires=1792167513",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/eb0f0e43ad2c398195d3ca7055d8dda2/master.m3u8?md5=VUF3L_LPTIJF7rGEILvM0g&expires=1792167513",
+                "videoSource": "https://ravok.buzz/cdn/hls/eb0f0e43ad2c398195d3ca7055d8dda2/master.m3u8?md5=VUF3L_LPTIJF7rGEILvM0g&expires=1792167513",
+                "link": "https://ravok.buzz/cdn/hls/eb0f0e43ad2c398195d3ca7055d8dda2/master.m3u8?md5=VUF3L_LPTIJF7rGEILvM0g&expires=1792167513",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/rBM84w5h3TzNpy3qZSggsxV6iWXOnfftmnpcx42woZGnbKWO6ejE2quiLDw1CrZvpu33YY28f71ZnNbgelyUEg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "wVJgpxXnR"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:43Z"
+    },
+    {
+      "id": "episode/tower-of-god-2x22",
+      "episode_id": "episode/tower-of-god-2x22",
+      "title": "Last Chance",
+      "episode_name": "Last Chance",
+      "episode_number": 22,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_286_s2e22.webp",
+      "abyssid": "11908",
+      "abyssId": "11908",
+      "playxid": "194309a52da9de185b531cfc697cfca8",
+      "playXID": "194309a52da9de185b531cfc697cfca8",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "11908",
+        "playXID": "194309a52da9de185b531cfc697cfca8",
+        "streamId": "11908",
+        "dubPlayerSrc": "/dub-player/t/11908/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=194309a52da9de185b531cfc697cfca8&abyssId=11908"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "11908",
+        "playXID": "194309a52da9de185b531cfc697cfca8",
+        "streamId": "11908",
+        "dubPlayerSrc": "/dub-player/t/11908/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=194309a52da9de185b531cfc697cfca8&abyssId=11908"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/194309a52da9de185b531cfc697cfca8",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/194309a52da9de185b531cfc697cfca8"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "11908",
+        "abyssId": "11908",
+        "playXID": "194309a52da9de185b531cfc697cfca8",
+        "title": "Tower of God",
+        "season": 2,
+        "episode": 22,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "Q7onZ2Ynu"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "7_eo1FPUQ"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "iq_seaUIT"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "N9CAs_yCh"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "u5SzKx7RT"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/ec3d87e0b09d54b7b5740d009919f1b5/master.m3u8?md5=WmiUk7vNbg8_IVwdhFJFPA&expires=1792167514",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/ec3d87e0b09d54b7b5740d009919f1b5/master.m3u8?md5=WmiUk7vNbg8_IVwdhFJFPA&expires=1792167514",
+            "videoSource": "https://ravok.buzz/cdn/hls/ec3d87e0b09d54b7b5740d009919f1b5/master.m3u8?md5=WmiUk7vNbg8_IVwdhFJFPA&expires=1792167514",
+            "videoImage": "https://as-cdn31.top/p/mvCP6ap1Ey2qB84GoIQm3qznw-vALIzoJv4CIe8BfqFeRUaECzk0AVmwIeKAd9WIyLNebIjYTavk88BPyXcwZw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "194309a52da9de185b531cfc697cfca8",
+                "streamUrl": "https://ravok.buzz/cdn/hls/ec3d87e0b09d54b7b5740d009919f1b5/master.m3u8?md5=WmiUk7vNbg8_IVwdhFJFPA&expires=1792167514",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/ec3d87e0b09d54b7b5740d009919f1b5/master.m3u8?md5=WmiUk7vNbg8_IVwdhFJFPA&expires=1792167514",
+                "videoSource": "https://ravok.buzz/cdn/hls/ec3d87e0b09d54b7b5740d009919f1b5/master.m3u8?md5=WmiUk7vNbg8_IVwdhFJFPA&expires=1792167514",
+                "link": "https://ravok.buzz/cdn/hls/ec3d87e0b09d54b7b5740d009919f1b5/master.m3u8?md5=WmiUk7vNbg8_IVwdhFJFPA&expires=1792167514",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/mvCP6ap1Ey2qB84GoIQm3qznw-vALIzoJv4CIe8BfqFeRUaECzk0AVmwIeKAd9WIyLNebIjYTavk88BPyXcwZw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "Q7onZ2Ynu"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:43Z"
+    },
+    {
+      "id": "episode/tower-of-god-2x21",
+      "episode_id": "episode/tower-of-god-2x21",
+      "title": "Last Chance",
+      "episode_name": "Last Chance",
+      "episode_number": 21,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_286_s2e21.webp",
+      "abyssid": "11855",
+      "abyssId": "11855",
+      "playxid": "8425bc94a44e3d1bb3c8c026b2702c00",
+      "playXID": "8425bc94a44e3d1bb3c8c026b2702c00",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "11855",
+        "playXID": "8425bc94a44e3d1bb3c8c026b2702c00",
+        "streamId": "11855",
+        "dubPlayerSrc": "/dub-player/t/11855/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8425bc94a44e3d1bb3c8c026b2702c00&abyssId=11855"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "11855",
+        "playXID": "8425bc94a44e3d1bb3c8c026b2702c00",
+        "streamId": "11855",
+        "dubPlayerSrc": "/dub-player/t/11855/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8425bc94a44e3d1bb3c8c026b2702c00&abyssId=11855"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/8425bc94a44e3d1bb3c8c026b2702c00",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/8425bc94a44e3d1bb3c8c026b2702c00"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "11855",
+        "abyssId": "11855",
+        "playXID": "8425bc94a44e3d1bb3c8c026b2702c00",
+        "title": "Tower of God",
+        "season": 2,
+        "episode": 21,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "AZWm8UwFK"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "WoFi0TTjv"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "O76lgiy7Kk"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "9qZGEdI25"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "4k0v8lsx8"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/48678d496ac808113be1d894573d3c17/master.m3u8?md5=ZJC88Q4jpHzRQ5Bb9c12rA&expires=1792167514",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/48678d496ac808113be1d894573d3c17/master.m3u8?md5=ZJC88Q4jpHzRQ5Bb9c12rA&expires=1792167514",
+            "videoSource": "https://ravok.buzz/cdn/hls/48678d496ac808113be1d894573d3c17/master.m3u8?md5=ZJC88Q4jpHzRQ5Bb9c12rA&expires=1792167514",
+            "videoImage": "https://as-cdn31.top/p/ikG5z-hBvAro_ofIyIT4HTqC5ztq6ZWoMoQakf2GMAD5S9wXcZan740nf8gGbkvfaJ8vBZjvNqlYuHpsZqZr9w.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "8425bc94a44e3d1bb3c8c026b2702c00",
+                "streamUrl": "https://ravok.buzz/cdn/hls/48678d496ac808113be1d894573d3c17/master.m3u8?md5=ZJC88Q4jpHzRQ5Bb9c12rA&expires=1792167514",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/48678d496ac808113be1d894573d3c17/master.m3u8?md5=ZJC88Q4jpHzRQ5Bb9c12rA&expires=1792167514",
+                "videoSource": "https://ravok.buzz/cdn/hls/48678d496ac808113be1d894573d3c17/master.m3u8?md5=ZJC88Q4jpHzRQ5Bb9c12rA&expires=1792167514",
+                "link": "https://ravok.buzz/cdn/hls/48678d496ac808113be1d894573d3c17/master.m3u8?md5=ZJC88Q4jpHzRQ5Bb9c12rA&expires=1792167514",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/ikG5z-hBvAro_ofIyIT4HTqC5ztq6ZWoMoQakf2GMAD5S9wXcZan740nf8gGbkvfaJ8vBZjvNqlYuHpsZqZr9w.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "AZWm8UwFK"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:44Z"
+    },
+    {
+      "id": "episode/tower-of-god-2x23",
+      "episode_id": "episode/tower-of-god-2x23",
+      "title": "Last Chance",
+      "episode_name": "Last Chance",
+      "episode_number": 23,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_286_s2e23.webp",
+      "abyssid": "11920",
+      "abyssId": "11920",
+      "playxid": "90949b6cfd26574a426edea70f6f3485",
+      "playXID": "90949b6cfd26574a426edea70f6f3485",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "11920",
+        "playXID": "90949b6cfd26574a426edea70f6f3485",
+        "streamId": "11920",
+        "dubPlayerSrc": "/dub-player/t/11920/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=90949b6cfd26574a426edea70f6f3485&abyssId=11920"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "11920",
+        "playXID": "90949b6cfd26574a426edea70f6f3485",
+        "streamId": "11920",
+        "dubPlayerSrc": "/dub-player/t/11920/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=90949b6cfd26574a426edea70f6f3485&abyssId=11920"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/90949b6cfd26574a426edea70f6f3485",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/90949b6cfd26574a426edea70f6f3485"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "11920",
+        "abyssId": "11920",
+        "playXID": "90949b6cfd26574a426edea70f6f3485",
+        "title": "Tower of God",
+        "season": 2,
+        "episode": 23,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "LSxA0BFkA"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "eGXwdocR6"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "NtdcBlRxfn"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "6GIq9eQUK"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "NalddVlmD"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/92bece9e69934b8808c3d8c9b97e0e0a/master.m3u8?md5=ENlQNaATGXaM_-oHteZYGw&expires=1792167515",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/92bece9e69934b8808c3d8c9b97e0e0a/master.m3u8?md5=ENlQNaATGXaM_-oHteZYGw&expires=1792167515",
+            "videoSource": "https://ravok.buzz/cdn/hls/92bece9e69934b8808c3d8c9b97e0e0a/master.m3u8?md5=ENlQNaATGXaM_-oHteZYGw&expires=1792167515",
+            "videoImage": "https://as-cdn31.top/p/bzZEEXQ9gfa4JnjuO5mNVi-qp7dtrYJF9C299sD5APaIXKxz1vmG04iA54ASI_DF3LICHg-zujR0-Ym1AKXqJQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "90949b6cfd26574a426edea70f6f3485",
+                "streamUrl": "https://ravok.buzz/cdn/hls/92bece9e69934b8808c3d8c9b97e0e0a/master.m3u8?md5=ENlQNaATGXaM_-oHteZYGw&expires=1792167515",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/92bece9e69934b8808c3d8c9b97e0e0a/master.m3u8?md5=ENlQNaATGXaM_-oHteZYGw&expires=1792167515",
+                "videoSource": "https://ravok.buzz/cdn/hls/92bece9e69934b8808c3d8c9b97e0e0a/master.m3u8?md5=ENlQNaATGXaM_-oHteZYGw&expires=1792167515",
+                "link": "https://ravok.buzz/cdn/hls/92bece9e69934b8808c3d8c9b97e0e0a/master.m3u8?md5=ENlQNaATGXaM_-oHteZYGw&expires=1792167515",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/bzZEEXQ9gfa4JnjuO5mNVi-qp7dtrYJF9C299sD5APaIXKxz1vmG04iA54ASI_DF3LICHg-zujR0-Ym1AKXqJQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "LSxA0BFkA"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:44Z"
+    },
+    {
+      "id": "episode/tower-of-god-2x24",
+      "episode_id": "episode/tower-of-god-2x24",
+      "title": "Last Chance",
+      "episode_name": "Last Chance",
+      "episode_number": 24,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_286_s2e24.webp",
+      "abyssid": "12161",
+      "abyssId": "12161",
+      "playxid": "29b2cd4a11745fefecc14912d2f95dd8",
+      "playXID": "29b2cd4a11745fefecc14912d2f95dd8",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12161",
+        "playXID": "29b2cd4a11745fefecc14912d2f95dd8",
+        "streamId": "12161",
+        "dubPlayerSrc": "/dub-player/t/12161/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=29b2cd4a11745fefecc14912d2f95dd8&abyssId=12161"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12161",
+        "playXID": "29b2cd4a11745fefecc14912d2f95dd8",
+        "streamId": "12161",
+        "dubPlayerSrc": "/dub-player/t/12161/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=29b2cd4a11745fefecc14912d2f95dd8&abyssId=12161"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/29b2cd4a11745fefecc14912d2f95dd8",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/29b2cd4a11745fefecc14912d2f95dd8"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12161",
+        "abyssId": "12161",
+        "playXID": "29b2cd4a11745fefecc14912d2f95dd8",
+        "title": "Tower of God",
+        "season": 2,
+        "episode": 24,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "1gFJL9T2N"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "rVdq7LDUl"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "uyUcGnSV7"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "gFTZg7quf"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "G88jTk-KZ"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/d70afbe9c05bec0b609337c711653497/master.m3u8?md5=llxU9RC2xEyYfBZ-raoDIg&expires=1792167515",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/d70afbe9c05bec0b609337c711653497/master.m3u8?md5=llxU9RC2xEyYfBZ-raoDIg&expires=1792167515",
+            "videoSource": "https://ravok.buzz/cdn/hls/d70afbe9c05bec0b609337c711653497/master.m3u8?md5=llxU9RC2xEyYfBZ-raoDIg&expires=1792167515",
+            "videoImage": "https://as-cdn30.top/p/w4oHZ-KeU26lF9y5grpbwmFcGLiitvCMHNGOaq1XkGRs0yf4zFpDbKDWBQlWzYTaTde1tgAEkkVXMckt-sUbIQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "29b2cd4a11745fefecc14912d2f95dd8",
+                "streamUrl": "https://ravok.buzz/cdn/hls/d70afbe9c05bec0b609337c711653497/master.m3u8?md5=llxU9RC2xEyYfBZ-raoDIg&expires=1792167515",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/d70afbe9c05bec0b609337c711653497/master.m3u8?md5=llxU9RC2xEyYfBZ-raoDIg&expires=1792167515",
+                "videoSource": "https://ravok.buzz/cdn/hls/d70afbe9c05bec0b609337c711653497/master.m3u8?md5=llxU9RC2xEyYfBZ-raoDIg&expires=1792167515",
+                "link": "https://ravok.buzz/cdn/hls/d70afbe9c05bec0b609337c711653497/master.m3u8?md5=llxU9RC2xEyYfBZ-raoDIg&expires=1792167515",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/w4oHZ-KeU26lF9y5grpbwmFcGLiitvCMHNGOaq1XkGRs0yf4zFpDbKDWBQlWzYTaTde1tgAEkkVXMckt-sUbIQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "1gFJL9T2N"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:45Z"
+    },
+    {
+      "id": "episode/tower-of-god-2x25",
+      "episode_id": "episode/tower-of-god-2x25",
+      "title": "Last Chance",
+      "episode_name": "Last Chance",
+      "episode_number": 25,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_286_s2e25.webp",
+      "abyssid": "12514",
+      "abyssId": "12514",
+      "playxid": "b899ce5418c4ff13144e96c1af4d6306",
+      "playXID": "b899ce5418c4ff13144e96c1af4d6306",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12514",
+        "playXID": "b899ce5418c4ff13144e96c1af4d6306",
+        "streamId": "12514",
+        "dubPlayerSrc": "/dub-player/t/12514/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b899ce5418c4ff13144e96c1af4d6306&abyssId=12514"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12514",
+        "playXID": "b899ce5418c4ff13144e96c1af4d6306",
+        "streamId": "12514",
+        "dubPlayerSrc": "/dub-player/t/12514/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b899ce5418c4ff13144e96c1af4d6306&abyssId=12514"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/b899ce5418c4ff13144e96c1af4d6306",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/b899ce5418c4ff13144e96c1af4d6306"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12514",
+        "abyssId": "12514",
+        "playXID": "b899ce5418c4ff13144e96c1af4d6306",
+        "title": "Tower of God",
+        "season": 2,
+        "episode": 25,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "Yr7McCPcc"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "FZwTE9CnF"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "Vh-xMeN2o"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "IBnph4rnf"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "BGXfDk2AS"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/44122e385732136fa6bead2c5225f917/master.m3u8?md5=gYOfwiEsXNzWsuSGlb1ruw&expires=1792167515",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/44122e385732136fa6bead2c5225f917/master.m3u8?md5=gYOfwiEsXNzWsuSGlb1ruw&expires=1792167515",
+            "videoSource": "https://ravok.buzz/cdn/hls/44122e385732136fa6bead2c5225f917/master.m3u8?md5=gYOfwiEsXNzWsuSGlb1ruw&expires=1792167515",
+            "videoImage": "https://as-cdn31.top/p/7RyeyX1Rut-3exc70JuvXUiSomRhVk8WbjXt13ODkgx-YtvnX8feuNYAA7_ChPQxozBNvqpMQgmhknPcvAJHpg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "b899ce5418c4ff13144e96c1af4d6306",
+                "streamUrl": "https://ravok.buzz/cdn/hls/44122e385732136fa6bead2c5225f917/master.m3u8?md5=gYOfwiEsXNzWsuSGlb1ruw&expires=1792167515",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/44122e385732136fa6bead2c5225f917/master.m3u8?md5=gYOfwiEsXNzWsuSGlb1ruw&expires=1792167515",
+                "videoSource": "https://ravok.buzz/cdn/hls/44122e385732136fa6bead2c5225f917/master.m3u8?md5=gYOfwiEsXNzWsuSGlb1ruw&expires=1792167515",
+                "link": "https://ravok.buzz/cdn/hls/44122e385732136fa6bead2c5225f917/master.m3u8?md5=gYOfwiEsXNzWsuSGlb1ruw&expires=1792167515",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/7RyeyX1Rut-3exc70JuvXUiSomRhVk8WbjXt13ODkgx-YtvnX8feuNYAA7_ChPQxozBNvqpMQgmhknPcvAJHpg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "Yr7McCPcc"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:45Z"
+    },
+    {
+      "id": "episode/tower-of-god-2x26",
+      "episode_id": "episode/tower-of-god-2x26",
+      "title": "Last Chance",
+      "episode_name": "Last Chance",
+      "episode_number": 26,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_286_s2e26.webp",
+      "abyssid": "12551",
+      "abyssId": "12551",
+      "playxid": "40a65e5a692bf1f5f1a81ec33021bda4",
+      "playXID": "40a65e5a692bf1f5f1a81ec33021bda4",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12551",
+        "playXID": "40a65e5a692bf1f5f1a81ec33021bda4",
+        "streamId": "12551",
+        "dubPlayerSrc": "/dub-player/t/12551/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=40a65e5a692bf1f5f1a81ec33021bda4&abyssId=12551"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12551",
+        "playXID": "40a65e5a692bf1f5f1a81ec33021bda4",
+        "streamId": "12551",
+        "dubPlayerSrc": "/dub-player/t/12551/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=40a65e5a692bf1f5f1a81ec33021bda4&abyssId=12551"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/40a65e5a692bf1f5f1a81ec33021bda4",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/40a65e5a692bf1f5f1a81ec33021bda4"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12551",
+        "abyssId": "12551",
+        "playXID": "40a65e5a692bf1f5f1a81ec33021bda4",
+        "title": "Tower of God",
+        "season": 2,
+        "episode": 26,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "GS88jl8Sm"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "D2B6UrIta"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "BAQZ587-e"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "OCdQ_wfz1"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "wpphJsE3p"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/73c71a254771193adf0735725a098a38/master.m3u8?md5=daCV0qGBsuQLhzmLj0zXYw&expires=1792167516",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/73c71a254771193adf0735725a098a38/master.m3u8?md5=daCV0qGBsuQLhzmLj0zXYw&expires=1792167516",
+            "videoSource": "https://ravok.buzz/cdn/hls/73c71a254771193adf0735725a098a38/master.m3u8?md5=daCV0qGBsuQLhzmLj0zXYw&expires=1792167516",
+            "videoImage": "https://as-cdn30.top/p/sLg5XD-4z7qh37_6d47tXXeNM_j8kzhpBdcnQL1WW01e_YxMYgcacgxwhgNowXsmb298EHR_QdDXTMWauiSc1A.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "40a65e5a692bf1f5f1a81ec33021bda4",
+                "streamUrl": "https://ravok.buzz/cdn/hls/73c71a254771193adf0735725a098a38/master.m3u8?md5=daCV0qGBsuQLhzmLj0zXYw&expires=1792167516",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/73c71a254771193adf0735725a098a38/master.m3u8?md5=daCV0qGBsuQLhzmLj0zXYw&expires=1792167516",
+                "videoSource": "https://ravok.buzz/cdn/hls/73c71a254771193adf0735725a098a38/master.m3u8?md5=daCV0qGBsuQLhzmLj0zXYw&expires=1792167516",
+                "link": "https://ravok.buzz/cdn/hls/73c71a254771193adf0735725a098a38/master.m3u8?md5=daCV0qGBsuQLhzmLj0zXYw&expires=1792167516",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/sLg5XD-4z7qh37_6d47tXXeNM_j8kzhpBdcnQL1WW01e_YxMYgcacgxwhgNowXsmb298EHR_QdDXTMWauiSc1A.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "GS88jl8Sm"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:45Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T14:18:21Z",
+  "updated_at": "2026-10-16T14:18:45Z"
+}

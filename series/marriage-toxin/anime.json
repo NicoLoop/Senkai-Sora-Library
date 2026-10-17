@@ -1,0 +1,1677 @@
+{
+  "id": "series/marriage-toxin",
+  "series_name": "Marriage Toxin",
+  "title": "Marriage Toxin",
+  "banner": "https://image.tmdb.org/t/p/w1280/lmJKqQMBrRYDwm5zCoubnQHl8rH.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/2b1akkaoutSo3xbykjAKnEb92Rs.jpg",
+  "genra": [
+    "Action",
+    "Adult Cast",
+    "Comedy",
+    "Romance",
+    "Shounen"
+  ],
+  "genres": [
+    "Action",
+    "Adult Cast",
+    "Comedy",
+    "Romance",
+    "Shounen"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Japanese",
+    "Tamil",
+    "Telugu"
+  ],
+  "synopsis": "For centuries, the deadly arts have been perfected by Masters, and Five Great Families hold the greatest power and influence. Hikaru Gero, an heir to the Gero family, lives in the underworld as an elite assassin. When his sister is pressured to produce an heir, Hikaru asks Mei Kinosaki, a brilliant marriage swindler, to find him a bride. The most challenging mission of his life begins!",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 13,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 13,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Marriage Toxin 1x1",
+          "id": "episode/marriage-toxin-1x1",
+          "image": "https://img.watchanimeworld.one/img/thumb_2029_s1e1.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "Marriage Toxin 1x2",
+          "id": "episode/marriage-toxin-1x2",
+          "image": "https://img.watchanimeworld.one/img/thumb_2029_s1e2.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "Marriage Toxin 1x3",
+          "id": "episode/marriage-toxin-1x3",
+          "image": "https://img.watchanimeworld.one/img/thumb_2029_s1e3.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "Marriage Toxin 1x4",
+          "id": "episode/marriage-toxin-1x4",
+          "image": "https://img.watchanimeworld.one/img/thumb_2029_s1e4.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "Marriage Toxin 1x5",
+          "id": "episode/marriage-toxin-1x5",
+          "image": "https://img.watchanimeworld.one/img/thumb_2029_s1e5.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "Marriage Toxin 1x6",
+          "id": "episode/marriage-toxin-1x6",
+          "image": "https://img.watchanimeworld.one/img/thumb_2029_s1e6.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "Marriage Toxin 1x7",
+          "id": "episode/marriage-toxin-1x7",
+          "image": "https://img.watchanimeworld.one/img/thumb_2029_s1e7.webp",
+          "season": 1
+        },
+        {
+          "episode": 8,
+          "title": "Marriage Toxin 1x8",
+          "id": "episode/marriage-toxin-1x8",
+          "image": "https://img.watchanimeworld.one/img/thumb_2029_s1e8.webp",
+          "season": 1
+        },
+        {
+          "episode": 9,
+          "title": "Marriage Toxin 1x9",
+          "id": "episode/marriage-toxin-1x9",
+          "image": "https://img.watchanimeworld.one/img/thumb_2029_s1e9.webp",
+          "season": 1
+        },
+        {
+          "episode": 10,
+          "title": "Marriage Toxin 1x10",
+          "id": "episode/marriage-toxin-1x10",
+          "image": "https://img.watchanimeworld.one/img/thumb_2029_s1e10.webp",
+          "season": 1
+        },
+        {
+          "episode": 11,
+          "title": "Marriage Toxin 1x11",
+          "id": "episode/marriage-toxin-1x11",
+          "image": "https://img.watchanimeworld.one/img/thumb_2029_s1e11.webp",
+          "season": 1
+        },
+        {
+          "episode": 12,
+          "title": "Marriage Toxin 1x12",
+          "id": "episode/marriage-toxin-1x12",
+          "image": "https://img.watchanimeworld.one/img/thumb_2029_s1e12.webp",
+          "season": 1
+        },
+        {
+          "episode": 13,
+          "title": "Marriage Toxin 1x13",
+          "id": "episode/marriage-toxin-1x13",
+          "image": "https://img.watchanimeworld.one/img/thumb_2029_s1e13.webp",
+          "season": 1
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/marriage-toxin-1x1",
+      "episode_id": "episode/marriage-toxin-1x1",
+      "title": "Marriage Toxin 1x1",
+      "episode_name": "Marriage Toxin 1x1",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2029_s1e1.webp",
+      "abyssid": "18231",
+      "abyssId": "18231",
+      "playxid": "6677753c451487e9632f1fa7612f1745",
+      "playXID": "6677753c451487e9632f1fa7612f1745",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18231",
+        "playXID": "6677753c451487e9632f1fa7612f1745",
+        "streamId": "18231",
+        "dubPlayerSrc": "/dub-player/t/18231/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6677753c451487e9632f1fa7612f1745&abyssId=18231"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18231",
+        "playXID": "6677753c451487e9632f1fa7612f1745",
+        "streamId": "18231",
+        "dubPlayerSrc": "/dub-player/t/18231/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6677753c451487e9632f1fa7612f1745&abyssId=18231"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/4a716f7ba05468f225127f29aa2040c5",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/4a716f7ba05468f225127f29aa2040c5"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18231",
+        "abyssId": "18231",
+        "playXID": "6677753c451487e9632f1fa7612f1745",
+        "title": "Marriage Toxin",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "yS4dnPPU2"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "-7r2rEENM"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "_ltXruTmR"
+              },
+              {
+                "language": "Malayalam",
+                "code": "mal",
+                "short": "ML",
+                "video_id": "r4gHj-0Z7"
+              },
+              {
+                "language": "Kannada",
+                "code": "kan",
+                "short": "KN",
+                "video_id": "5kOZoICVs"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "jkNqG-p9o"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/464daa5d67e9c2f6852cd5bba5cd7ee2/master.m3u8?md5=c27oP5uWAnR5gbn6SSgk4w&expires=1792165969",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/464daa5d67e9c2f6852cd5bba5cd7ee2/master.m3u8?md5=c27oP5uWAnR5gbn6SSgk4w&expires=1792165969",
+            "videoSource": "https://ravok.buzz/cdn/hls/464daa5d67e9c2f6852cd5bba5cd7ee2/master.m3u8?md5=c27oP5uWAnR5gbn6SSgk4w&expires=1792165969",
+            "videoImage": "https://as-cdn31.top/p/-MrY0Lpo0xjAhFcZ3WcKYO0dB_-kvB7Ll8vE_pV9eEUHrSWqvEesn7LJaGhQhhqdNcNmW_ARo-uHznq8-W5sGQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "6677753c451487e9632f1fa7612f1745",
+                "streamUrl": "https://ravok.buzz/cdn/hls/464daa5d67e9c2f6852cd5bba5cd7ee2/master.m3u8?md5=c27oP5uWAnR5gbn6SSgk4w&expires=1792165969",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/464daa5d67e9c2f6852cd5bba5cd7ee2/master.m3u8?md5=c27oP5uWAnR5gbn6SSgk4w&expires=1792165969",
+                "videoSource": "https://ravok.buzz/cdn/hls/464daa5d67e9c2f6852cd5bba5cd7ee2/master.m3u8?md5=c27oP5uWAnR5gbn6SSgk4w&expires=1792165969",
+                "link": "https://ravok.buzz/cdn/hls/464daa5d67e9c2f6852cd5bba5cd7ee2/master.m3u8?md5=c27oP5uWAnR5gbn6SSgk4w&expires=1792165969",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/-MrY0Lpo0xjAhFcZ3WcKYO0dB_-kvB7Ll8vE_pV9eEUHrSWqvEesn7LJaGhQhhqdNcNmW_ARo-uHznq8-W5sGQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "yS4dnPPU2"
+        }
+      },
+      "fetched_at": "2026-10-16T13:52:59Z"
+    },
+    {
+      "id": "episode/marriage-toxin-1x2",
+      "episode_id": "episode/marriage-toxin-1x2",
+      "title": "Marriage Toxin 1x1",
+      "episode_name": "Marriage Toxin 1x1",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2029_s1e2.webp",
+      "abyssid": "18242",
+      "abyssId": "18242",
+      "playxid": "075a3a646faea7bfa9cd8b86c51a026b",
+      "playXID": "075a3a646faea7bfa9cd8b86c51a026b",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18242",
+        "playXID": "075a3a646faea7bfa9cd8b86c51a026b",
+        "streamId": "18242",
+        "dubPlayerSrc": "/dub-player/t/18242/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=075a3a646faea7bfa9cd8b86c51a026b&abyssId=18242"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18242",
+        "playXID": "075a3a646faea7bfa9cd8b86c51a026b",
+        "streamId": "18242",
+        "dubPlayerSrc": "/dub-player/t/18242/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=075a3a646faea7bfa9cd8b86c51a026b&abyssId=18242"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/08357dda130ec9b85fa60db2cf979b7b",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/08357dda130ec9b85fa60db2cf979b7b"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18242",
+        "abyssId": "18242",
+        "playXID": "075a3a646faea7bfa9cd8b86c51a026b",
+        "title": "Marriage Toxin",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "yS4dnPPU2"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "-7r2rEENM"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "_ltXruTmR"
+              },
+              {
+                "language": "Malayalam",
+                "code": "mal",
+                "short": "ML",
+                "video_id": "r4gHj-0Z7"
+              },
+              {
+                "language": "Kannada",
+                "code": "kan",
+                "short": "KN",
+                "video_id": "5kOZoICVs"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "jkNqG-p9o"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/cf0c952eb9bc13ea3211a57a45b63054/master.m3u8?md5=bgApT9EaKpOqMv3PfPPA_w&expires=1792165969",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/cf0c952eb9bc13ea3211a57a45b63054/master.m3u8?md5=bgApT9EaKpOqMv3PfPPA_w&expires=1792165969",
+            "videoSource": "https://ravok.buzz/cdn/hls/cf0c952eb9bc13ea3211a57a45b63054/master.m3u8?md5=bgApT9EaKpOqMv3PfPPA_w&expires=1792165969",
+            "videoImage": "https://as-cdn31.top/p/bhIOa-6fvzqYI5UlIS5pOQSH7zVsdQlI3wDycOZDYxJUYI54t6_UHxDKhgKZ4Gf5DccYdcyWuXdI2z_a9N1ZfQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "075a3a646faea7bfa9cd8b86c51a026b",
+                "streamUrl": "https://ravok.buzz/cdn/hls/cf0c952eb9bc13ea3211a57a45b63054/master.m3u8?md5=bgApT9EaKpOqMv3PfPPA_w&expires=1792165969",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/cf0c952eb9bc13ea3211a57a45b63054/master.m3u8?md5=bgApT9EaKpOqMv3PfPPA_w&expires=1792165969",
+                "videoSource": "https://ravok.buzz/cdn/hls/cf0c952eb9bc13ea3211a57a45b63054/master.m3u8?md5=bgApT9EaKpOqMv3PfPPA_w&expires=1792165969",
+                "link": "https://ravok.buzz/cdn/hls/cf0c952eb9bc13ea3211a57a45b63054/master.m3u8?md5=bgApT9EaKpOqMv3PfPPA_w&expires=1792165969",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/bhIOa-6fvzqYI5UlIS5pOQSH7zVsdQlI3wDycOZDYxJUYI54t6_UHxDKhgKZ4Gf5DccYdcyWuXdI2z_a9N1ZfQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "yS4dnPPU2"
+        }
+      },
+      "fetched_at": "2026-10-16T13:52:59Z"
+    },
+    {
+      "id": "episode/marriage-toxin-1x3",
+      "episode_id": "episode/marriage-toxin-1x3",
+      "title": "Marriage Toxin 1x1",
+      "episode_name": "Marriage Toxin 1x1",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2029_s1e3.webp",
+      "abyssid": "18280",
+      "abyssId": "18280",
+      "playxid": "1ded5b4a39ea7331757bd9ae8bd5b9dd",
+      "playXID": "1ded5b4a39ea7331757bd9ae8bd5b9dd",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18280",
+        "playXID": "1ded5b4a39ea7331757bd9ae8bd5b9dd",
+        "streamId": "18280",
+        "dubPlayerSrc": "/dub-player/t/18280/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=1ded5b4a39ea7331757bd9ae8bd5b9dd&abyssId=18280"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18280",
+        "playXID": "1ded5b4a39ea7331757bd9ae8bd5b9dd",
+        "streamId": "18280",
+        "dubPlayerSrc": "/dub-player/t/18280/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=1ded5b4a39ea7331757bd9ae8bd5b9dd&abyssId=18280"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/82c04dc6225e97782704775949a97ea3",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/82c04dc6225e97782704775949a97ea3"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18280",
+        "abyssId": "18280",
+        "playXID": "1ded5b4a39ea7331757bd9ae8bd5b9dd",
+        "title": "Marriage Toxin",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "yS4dnPPU2"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "-7r2rEENM"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "_ltXruTmR"
+              },
+              {
+                "language": "Malayalam",
+                "code": "mal",
+                "short": "ML",
+                "video_id": "r4gHj-0Z7"
+              },
+              {
+                "language": "Kannada",
+                "code": "kan",
+                "short": "KN",
+                "video_id": "5kOZoICVs"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "jkNqG-p9o"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/33b817cba66f74738cb83fcf4f45fa01/master.m3u8?md5=Jd8cSxefEskYGP2KZmHesQ&expires=1792165969",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/33b817cba66f74738cb83fcf4f45fa01/master.m3u8?md5=Jd8cSxefEskYGP2KZmHesQ&expires=1792165969",
+            "videoSource": "https://ravok.buzz/cdn/hls/33b817cba66f74738cb83fcf4f45fa01/master.m3u8?md5=Jd8cSxefEskYGP2KZmHesQ&expires=1792165969",
+            "videoImage": "https://as-cdn31.top/p/4R9oJ74GSJ4Ncg1IOcuQsWfPjWeRjIf7BHyIwZDLvIUHgrR96O7oqodjPbQOVsyCyL_D5BXGwawHjbH0gCTf6Q.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "1ded5b4a39ea7331757bd9ae8bd5b9dd",
+                "streamUrl": "https://ravok.buzz/cdn/hls/33b817cba66f74738cb83fcf4f45fa01/master.m3u8?md5=Jd8cSxefEskYGP2KZmHesQ&expires=1792165969",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/33b817cba66f74738cb83fcf4f45fa01/master.m3u8?md5=Jd8cSxefEskYGP2KZmHesQ&expires=1792165969",
+                "videoSource": "https://ravok.buzz/cdn/hls/33b817cba66f74738cb83fcf4f45fa01/master.m3u8?md5=Jd8cSxefEskYGP2KZmHesQ&expires=1792165969",
+                "link": "https://ravok.buzz/cdn/hls/33b817cba66f74738cb83fcf4f45fa01/master.m3u8?md5=Jd8cSxefEskYGP2KZmHesQ&expires=1792165969",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/4R9oJ74GSJ4Ncg1IOcuQsWfPjWeRjIf7BHyIwZDLvIUHgrR96O7oqodjPbQOVsyCyL_D5BXGwawHjbH0gCTf6Q.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "yS4dnPPU2"
+        }
+      },
+      "fetched_at": "2026-10-16T13:52:59Z"
+    },
+    {
+      "id": "episode/marriage-toxin-1x5",
+      "episode_id": "episode/marriage-toxin-1x5",
+      "title": "Marriage Toxin 1x1",
+      "episode_name": "Marriage Toxin 1x1",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2029_s1e5.webp",
+      "abyssid": "18305",
+      "abyssId": "18305",
+      "playxid": "c53c2b3941332844173d3f3670297f16",
+      "playXID": "c53c2b3941332844173d3f3670297f16",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18305",
+        "playXID": "c53c2b3941332844173d3f3670297f16",
+        "streamId": "18305",
+        "dubPlayerSrc": "/dub-player/t/18305/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c53c2b3941332844173d3f3670297f16&abyssId=18305"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18305",
+        "playXID": "c53c2b3941332844173d3f3670297f16",
+        "streamId": "18305",
+        "dubPlayerSrc": "/dub-player/t/18305/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c53c2b3941332844173d3f3670297f16&abyssId=18305"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/2e544457e0583a48caeca4120b266684",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/2e544457e0583a48caeca4120b266684"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18305",
+        "abyssId": "18305",
+        "playXID": "c53c2b3941332844173d3f3670297f16",
+        "title": "Marriage Toxin",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "yS4dnPPU2"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "-7r2rEENM"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "_ltXruTmR"
+              },
+              {
+                "language": "Malayalam",
+                "code": "mal",
+                "short": "ML",
+                "video_id": "r4gHj-0Z7"
+              },
+              {
+                "language": "Kannada",
+                "code": "kan",
+                "short": "KN",
+                "video_id": "5kOZoICVs"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "jkNqG-p9o"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/55ee99fc65624157a8a8a2b48fe59fe4/master.m3u8?md5=gCpdnv33NgVOTR68dR18KA&expires=1792165969",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/55ee99fc65624157a8a8a2b48fe59fe4/master.m3u8?md5=gCpdnv33NgVOTR68dR18KA&expires=1792165969",
+            "videoSource": "https://ravok.buzz/cdn/hls/55ee99fc65624157a8a8a2b48fe59fe4/master.m3u8?md5=gCpdnv33NgVOTR68dR18KA&expires=1792165969",
+            "videoImage": "https://as-cdn29.top/p/woJHx-qB34OQjFTqvCN53VVFj5vU8T968cIvMBYIHXyD7w0G9xbS6bQLAQRM-RwoEtIKeQZ6CLBTg0CEBb2xLQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "c53c2b3941332844173d3f3670297f16",
+                "streamUrl": "https://ravok.buzz/cdn/hls/55ee99fc65624157a8a8a2b48fe59fe4/master.m3u8?md5=gCpdnv33NgVOTR68dR18KA&expires=1792165969",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/55ee99fc65624157a8a8a2b48fe59fe4/master.m3u8?md5=gCpdnv33NgVOTR68dR18KA&expires=1792165969",
+                "videoSource": "https://ravok.buzz/cdn/hls/55ee99fc65624157a8a8a2b48fe59fe4/master.m3u8?md5=gCpdnv33NgVOTR68dR18KA&expires=1792165969",
+                "link": "https://ravok.buzz/cdn/hls/55ee99fc65624157a8a8a2b48fe59fe4/master.m3u8?md5=gCpdnv33NgVOTR68dR18KA&expires=1792165969",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/woJHx-qB34OQjFTqvCN53VVFj5vU8T968cIvMBYIHXyD7w0G9xbS6bQLAQRM-RwoEtIKeQZ6CLBTg0CEBb2xLQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "yS4dnPPU2"
+        }
+      },
+      "fetched_at": "2026-10-16T13:53:00Z"
+    },
+    {
+      "id": "episode/marriage-toxin-1x6",
+      "episode_id": "episode/marriage-toxin-1x6",
+      "title": "Marriage Toxin 1x1",
+      "episode_name": "Marriage Toxin 1x1",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2029_s1e6.webp",
+      "abyssid": "18332",
+      "abyssId": "18332",
+      "playxid": "c73568630a7d05a2da9940e239c63242",
+      "playXID": "c73568630a7d05a2da9940e239c63242",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18332",
+        "playXID": "c73568630a7d05a2da9940e239c63242",
+        "streamId": "18332",
+        "dubPlayerSrc": "/dub-player/t/18332/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c73568630a7d05a2da9940e239c63242&abyssId=18332"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18332",
+        "playXID": "c73568630a7d05a2da9940e239c63242",
+        "streamId": "18332",
+        "dubPlayerSrc": "/dub-player/t/18332/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c73568630a7d05a2da9940e239c63242&abyssId=18332"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/c876da2dc35e298b13f5ce07b724065a",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/c876da2dc35e298b13f5ce07b724065a"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18332",
+        "abyssId": "18332",
+        "playXID": "c73568630a7d05a2da9940e239c63242",
+        "title": "Marriage Toxin",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "yS4dnPPU2"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "-7r2rEENM"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "_ltXruTmR"
+              },
+              {
+                "language": "Malayalam",
+                "code": "mal",
+                "short": "ML",
+                "video_id": "r4gHj-0Z7"
+              },
+              {
+                "language": "Kannada",
+                "code": "kan",
+                "short": "KN",
+                "video_id": "5kOZoICVs"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "jkNqG-p9o"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/a606743f5db1aa2f84a7298cbc3d0e45/master.m3u8?md5=LfH5kCYQVYWrV0BIEd8nDw&expires=1792165971",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/a606743f5db1aa2f84a7298cbc3d0e45/master.m3u8?md5=LfH5kCYQVYWrV0BIEd8nDw&expires=1792165971",
+            "videoSource": "https://ravok.buzz/cdn/hls/a606743f5db1aa2f84a7298cbc3d0e45/master.m3u8?md5=LfH5kCYQVYWrV0BIEd8nDw&expires=1792165971",
+            "videoImage": "https://as-cdn31.top/p/0WQDmjnu3pfNGDQc6GphWcbZ4ndcYSvrnteILm_HQxIIt4ko73J5DCzqveL8rYDtXWGjt-SAHeZkS_-Jw3DZRA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "c73568630a7d05a2da9940e239c63242",
+                "streamUrl": "https://ravok.buzz/cdn/hls/a606743f5db1aa2f84a7298cbc3d0e45/master.m3u8?md5=LfH5kCYQVYWrV0BIEd8nDw&expires=1792165971",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/a606743f5db1aa2f84a7298cbc3d0e45/master.m3u8?md5=LfH5kCYQVYWrV0BIEd8nDw&expires=1792165971",
+                "videoSource": "https://ravok.buzz/cdn/hls/a606743f5db1aa2f84a7298cbc3d0e45/master.m3u8?md5=LfH5kCYQVYWrV0BIEd8nDw&expires=1792165971",
+                "link": "https://ravok.buzz/cdn/hls/a606743f5db1aa2f84a7298cbc3d0e45/master.m3u8?md5=LfH5kCYQVYWrV0BIEd8nDw&expires=1792165971",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/0WQDmjnu3pfNGDQc6GphWcbZ4ndcYSvrnteILm_HQxIIt4ko73J5DCzqveL8rYDtXWGjt-SAHeZkS_-Jw3DZRA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "yS4dnPPU2"
+        }
+      },
+      "fetched_at": "2026-10-16T13:53:01Z"
+    },
+    {
+      "id": "episode/marriage-toxin-1x7",
+      "episode_id": "episode/marriage-toxin-1x7",
+      "title": "Marriage Toxin 1x1",
+      "episode_name": "Marriage Toxin 1x1",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2029_s1e7.webp",
+      "abyssid": "18378",
+      "abyssId": "18378",
+      "playxid": "bf232372187476bd5b8146e467fa85dc",
+      "playXID": "bf232372187476bd5b8146e467fa85dc",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18378",
+        "playXID": "bf232372187476bd5b8146e467fa85dc",
+        "streamId": "18378",
+        "dubPlayerSrc": "/dub-player/t/18378/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=bf232372187476bd5b8146e467fa85dc&abyssId=18378"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18378",
+        "playXID": "bf232372187476bd5b8146e467fa85dc",
+        "streamId": "18378",
+        "dubPlayerSrc": "/dub-player/t/18378/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=bf232372187476bd5b8146e467fa85dc&abyssId=18378"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/befa3b5d70e5d2e3ddf42758d16554ab",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/befa3b5d70e5d2e3ddf42758d16554ab"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18378",
+        "abyssId": "18378",
+        "playXID": "bf232372187476bd5b8146e467fa85dc",
+        "title": "Marriage Toxin",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "yS4dnPPU2"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "-7r2rEENM"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "_ltXruTmR"
+              },
+              {
+                "language": "Malayalam",
+                "code": "mal",
+                "short": "ML",
+                "video_id": "r4gHj-0Z7"
+              },
+              {
+                "language": "Kannada",
+                "code": "kan",
+                "short": "KN",
+                "video_id": "5kOZoICVs"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "jkNqG-p9o"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/2a197997e7b80bceeece6101e1a79209/master.m3u8?md5=99GstUGwDz1U5EFvnE8UiQ&expires=1792165971",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/2a197997e7b80bceeece6101e1a79209/master.m3u8?md5=99GstUGwDz1U5EFvnE8UiQ&expires=1792165971",
+            "videoSource": "https://ravok.buzz/cdn/hls/2a197997e7b80bceeece6101e1a79209/master.m3u8?md5=99GstUGwDz1U5EFvnE8UiQ&expires=1792165971",
+            "videoImage": "https://as-cdn27.top/p/erKCNEWd2-B57DVxWaHBPIF-uX4qqPYujQxs2J8FqJOfh7sFP_jwcZRGR0OvlmgCoz1kYzPioZvNL9B3yA6aqQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "bf232372187476bd5b8146e467fa85dc",
+                "streamUrl": "https://ravok.buzz/cdn/hls/2a197997e7b80bceeece6101e1a79209/master.m3u8?md5=99GstUGwDz1U5EFvnE8UiQ&expires=1792165971",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/2a197997e7b80bceeece6101e1a79209/master.m3u8?md5=99GstUGwDz1U5EFvnE8UiQ&expires=1792165971",
+                "videoSource": "https://ravok.buzz/cdn/hls/2a197997e7b80bceeece6101e1a79209/master.m3u8?md5=99GstUGwDz1U5EFvnE8UiQ&expires=1792165971",
+                "link": "https://ravok.buzz/cdn/hls/2a197997e7b80bceeece6101e1a79209/master.m3u8?md5=99GstUGwDz1U5EFvnE8UiQ&expires=1792165971",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/erKCNEWd2-B57DVxWaHBPIF-uX4qqPYujQxs2J8FqJOfh7sFP_jwcZRGR0OvlmgCoz1kYzPioZvNL9B3yA6aqQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "yS4dnPPU2"
+        }
+      },
+      "fetched_at": "2026-10-16T13:53:01Z"
+    },
+    {
+      "id": "episode/marriage-toxin-1x8",
+      "episode_id": "episode/marriage-toxin-1x8",
+      "title": "Marriage Toxin 1x1",
+      "episode_name": "Marriage Toxin 1x1",
+      "episode_number": 8,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2029_s1e8.webp",
+      "abyssid": "18397",
+      "abyssId": "18397",
+      "playxid": "d84ca991b2dbcb8e6d8e48e00f80dfd1",
+      "playXID": "d84ca991b2dbcb8e6d8e48e00f80dfd1",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18397",
+        "playXID": "d84ca991b2dbcb8e6d8e48e00f80dfd1",
+        "streamId": "18397",
+        "dubPlayerSrc": "/dub-player/t/18397/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d84ca991b2dbcb8e6d8e48e00f80dfd1&abyssId=18397"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18397",
+        "playXID": "d84ca991b2dbcb8e6d8e48e00f80dfd1",
+        "streamId": "18397",
+        "dubPlayerSrc": "/dub-player/t/18397/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d84ca991b2dbcb8e6d8e48e00f80dfd1&abyssId=18397"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/bf9b5a850f9afd054eb3bcd288c246c9",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/bf9b5a850f9afd054eb3bcd288c246c9"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18397",
+        "abyssId": "18397",
+        "playXID": "d84ca991b2dbcb8e6d8e48e00f80dfd1",
+        "title": "Marriage Toxin",
+        "season": 1,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "yS4dnPPU2"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "-7r2rEENM"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "_ltXruTmR"
+              },
+              {
+                "language": "Malayalam",
+                "code": "mal",
+                "short": "ML",
+                "video_id": "r4gHj-0Z7"
+              },
+              {
+                "language": "Kannada",
+                "code": "kan",
+                "short": "KN",
+                "video_id": "5kOZoICVs"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "jkNqG-p9o"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/f452625a0bbe13ddb9555009920f363d/master.m3u8?md5=rl2E0bbhGiPjY65-iWVX3g&expires=1792165971",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/f452625a0bbe13ddb9555009920f363d/master.m3u8?md5=rl2E0bbhGiPjY65-iWVX3g&expires=1792165971",
+            "videoSource": "https://ravok.buzz/cdn/hls/f452625a0bbe13ddb9555009920f363d/master.m3u8?md5=rl2E0bbhGiPjY65-iWVX3g&expires=1792165971",
+            "videoImage": "https://as-cdn27.top/p/kZ0fNI-JIgHTrhHhRP9nZJqn7Qrrs81CcHO2MAh9kRNWPm_NdpR6GZRxpYuJeVn0VGMfuFRLp_H0rnosLfgdDw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "d84ca991b2dbcb8e6d8e48e00f80dfd1",
+                "streamUrl": "https://ravok.buzz/cdn/hls/f452625a0bbe13ddb9555009920f363d/master.m3u8?md5=rl2E0bbhGiPjY65-iWVX3g&expires=1792165971",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/f452625a0bbe13ddb9555009920f363d/master.m3u8?md5=rl2E0bbhGiPjY65-iWVX3g&expires=1792165971",
+                "videoSource": "https://ravok.buzz/cdn/hls/f452625a0bbe13ddb9555009920f363d/master.m3u8?md5=rl2E0bbhGiPjY65-iWVX3g&expires=1792165971",
+                "link": "https://ravok.buzz/cdn/hls/f452625a0bbe13ddb9555009920f363d/master.m3u8?md5=rl2E0bbhGiPjY65-iWVX3g&expires=1792165971",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/kZ0fNI-JIgHTrhHhRP9nZJqn7Qrrs81CcHO2MAh9kRNWPm_NdpR6GZRxpYuJeVn0VGMfuFRLp_H0rnosLfgdDw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "yS4dnPPU2"
+        }
+      },
+      "fetched_at": "2026-10-16T13:53:01Z"
+    },
+    {
+      "id": "episode/marriage-toxin-1x9",
+      "episode_id": "episode/marriage-toxin-1x9",
+      "title": "Marriage Toxin 1x1",
+      "episode_name": "Marriage Toxin 1x1",
+      "episode_number": 9,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2029_s1e9.webp",
+      "abyssid": "18412",
+      "abyssId": "18412",
+      "playxid": "1eebbb55fd7a6ade3787002e5f87ceab",
+      "playXID": "1eebbb55fd7a6ade3787002e5f87ceab",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18412",
+        "playXID": "1eebbb55fd7a6ade3787002e5f87ceab",
+        "streamId": "18412",
+        "dubPlayerSrc": "/dub-player/t/18412/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=1eebbb55fd7a6ade3787002e5f87ceab&abyssId=18412"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18412",
+        "playXID": "1eebbb55fd7a6ade3787002e5f87ceab",
+        "streamId": "18412",
+        "dubPlayerSrc": "/dub-player/t/18412/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=1eebbb55fd7a6ade3787002e5f87ceab&abyssId=18412"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/7162d34e551d232ae0976c0dda4e107a",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/7162d34e551d232ae0976c0dda4e107a"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18412",
+        "abyssId": "18412",
+        "playXID": "1eebbb55fd7a6ade3787002e5f87ceab",
+        "title": "Marriage Toxin",
+        "season": 1,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "yS4dnPPU2"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "-7r2rEENM"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "_ltXruTmR"
+              },
+              {
+                "language": "Malayalam",
+                "code": "mal",
+                "short": "ML",
+                "video_id": "r4gHj-0Z7"
+              },
+              {
+                "language": "Kannada",
+                "code": "kan",
+                "short": "KN",
+                "video_id": "5kOZoICVs"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "jkNqG-p9o"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/930369e20c5b4f3ff6eea1bb5e12ac69/master.m3u8?md5=fRvlUQ3RI1WiZrZVuVeKaw&expires=1792165972",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/930369e20c5b4f3ff6eea1bb5e12ac69/master.m3u8?md5=fRvlUQ3RI1WiZrZVuVeKaw&expires=1792165972",
+            "videoSource": "https://ravok.buzz/cdn/hls/930369e20c5b4f3ff6eea1bb5e12ac69/master.m3u8?md5=fRvlUQ3RI1WiZrZVuVeKaw&expires=1792165972",
+            "videoImage": "https://as-cdn28.top/p/9RE4IIzrllWyPlUHkMMTqVUbF0jQY_tfoWXt1qhzQeYgCjxMQDsiu1QfRsuFPa8QwAzwGE5FL2GwdOB9Vc64aQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "1eebbb55fd7a6ade3787002e5f87ceab",
+                "streamUrl": "https://ravok.buzz/cdn/hls/930369e20c5b4f3ff6eea1bb5e12ac69/master.m3u8?md5=fRvlUQ3RI1WiZrZVuVeKaw&expires=1792165972",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/930369e20c5b4f3ff6eea1bb5e12ac69/master.m3u8?md5=fRvlUQ3RI1WiZrZVuVeKaw&expires=1792165972",
+                "videoSource": "https://ravok.buzz/cdn/hls/930369e20c5b4f3ff6eea1bb5e12ac69/master.m3u8?md5=fRvlUQ3RI1WiZrZVuVeKaw&expires=1792165972",
+                "link": "https://ravok.buzz/cdn/hls/930369e20c5b4f3ff6eea1bb5e12ac69/master.m3u8?md5=fRvlUQ3RI1WiZrZVuVeKaw&expires=1792165972",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/9RE4IIzrllWyPlUHkMMTqVUbF0jQY_tfoWXt1qhzQeYgCjxMQDsiu1QfRsuFPa8QwAzwGE5FL2GwdOB9Vc64aQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "yS4dnPPU2"
+        }
+      },
+      "fetched_at": "2026-10-16T13:53:02Z"
+    },
+    {
+      "id": "episode/marriage-toxin-1x4",
+      "episode_id": "episode/marriage-toxin-1x4",
+      "title": "Marriage Toxin 1x1",
+      "episode_name": "Marriage Toxin 1x1",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2029_s1e4.webp",
+      "abyssid": "18291",
+      "abyssId": "18291",
+      "playxid": "7ec49d235b3b7457aa6625a77f3d38d8",
+      "playXID": "7ec49d235b3b7457aa6625a77f3d38d8",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18291",
+        "playXID": "7ec49d235b3b7457aa6625a77f3d38d8",
+        "streamId": "18291",
+        "dubPlayerSrc": "/dub-player/t/18291/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=7ec49d235b3b7457aa6625a77f3d38d8&abyssId=18291"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18291",
+        "playXID": "7ec49d235b3b7457aa6625a77f3d38d8",
+        "streamId": "18291",
+        "dubPlayerSrc": "/dub-player/t/18291/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=7ec49d235b3b7457aa6625a77f3d38d8&abyssId=18291"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/7ec49d235b3b7457aa6625a77f3d38d8",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/7ec49d235b3b7457aa6625a77f3d38d8"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18291",
+        "abyssId": "18291",
+        "playXID": "7ec49d235b3b7457aa6625a77f3d38d8",
+        "title": "Marriage Toxin",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "yS4dnPPU2"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "-7r2rEENM"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "_ltXruTmR"
+              },
+              {
+                "language": "Malayalam",
+                "code": "mal",
+                "short": "ML",
+                "video_id": "r4gHj-0Z7"
+              },
+              {
+                "language": "Kannada",
+                "code": "kan",
+                "short": "KN",
+                "video_id": "5kOZoICVs"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "jkNqG-p9o"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "yS4dnPPU2"
+        }
+      },
+      "fetched_at": "2026-10-16T13:53:03Z"
+    },
+    {
+      "id": "episode/marriage-toxin-1x11",
+      "episode_id": "episode/marriage-toxin-1x11",
+      "title": "Marriage Toxin 1x1",
+      "episode_name": "Marriage Toxin 1x1",
+      "episode_number": 11,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2029_s1e11.webp",
+      "abyssid": "18522",
+      "abyssId": "18522",
+      "playxid": "24a13b72fc2a34c2eb4d78dfb243b712",
+      "playXID": "24a13b72fc2a34c2eb4d78dfb243b712",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18522",
+        "playXID": "24a13b72fc2a34c2eb4d78dfb243b712",
+        "streamId": "18522",
+        "dubPlayerSrc": "/dub-player/t/18522/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=24a13b72fc2a34c2eb4d78dfb243b712&abyssId=18522"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18522",
+        "playXID": "24a13b72fc2a34c2eb4d78dfb243b712",
+        "streamId": "18522",
+        "dubPlayerSrc": "/dub-player/t/18522/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=24a13b72fc2a34c2eb4d78dfb243b712&abyssId=18522"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/10112e4e12aa494db03ea2462302d34d",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/10112e4e12aa494db03ea2462302d34d"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18522",
+        "abyssId": "18522",
+        "playXID": "24a13b72fc2a34c2eb4d78dfb243b712",
+        "title": "Marriage Toxin",
+        "season": 1,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "yS4dnPPU2"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "-7r2rEENM"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "_ltXruTmR"
+              },
+              {
+                "language": "Malayalam",
+                "code": "mal",
+                "short": "ML",
+                "video_id": "r4gHj-0Z7"
+              },
+              {
+                "language": "Kannada",
+                "code": "kan",
+                "short": "KN",
+                "video_id": "5kOZoICVs"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "jkNqG-p9o"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/d37a90d8290283d91182a9508131d323/master.m3u8?md5=0ZpFjVivX4sg9kmKIVh5Bg&expires=1792165973",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/d37a90d8290283d91182a9508131d323/master.m3u8?md5=0ZpFjVivX4sg9kmKIVh5Bg&expires=1792165973",
+            "videoSource": "https://ravok.buzz/cdn/hls/d37a90d8290283d91182a9508131d323/master.m3u8?md5=0ZpFjVivX4sg9kmKIVh5Bg&expires=1792165973",
+            "videoImage": "https://as-cdn30.top/p/8rLG6sGJYg8pdGNfTKiDn7qSwKojau-uawQHkU46iquTWxcI8X47oJM31ywI4-G_gMSiRAboppqENItr0U0ctw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "24a13b72fc2a34c2eb4d78dfb243b712",
+                "streamUrl": "https://ravok.buzz/cdn/hls/d37a90d8290283d91182a9508131d323/master.m3u8?md5=0ZpFjVivX4sg9kmKIVh5Bg&expires=1792165973",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/d37a90d8290283d91182a9508131d323/master.m3u8?md5=0ZpFjVivX4sg9kmKIVh5Bg&expires=1792165973",
+                "videoSource": "https://ravok.buzz/cdn/hls/d37a90d8290283d91182a9508131d323/master.m3u8?md5=0ZpFjVivX4sg9kmKIVh5Bg&expires=1792165973",
+                "link": "https://ravok.buzz/cdn/hls/d37a90d8290283d91182a9508131d323/master.m3u8?md5=0ZpFjVivX4sg9kmKIVh5Bg&expires=1792165973",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/8rLG6sGJYg8pdGNfTKiDn7qSwKojau-uawQHkU46iquTWxcI8X47oJM31ywI4-G_gMSiRAboppqENItr0U0ctw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "yS4dnPPU2"
+        }
+      },
+      "fetched_at": "2026-10-16T13:53:03Z"
+    },
+    {
+      "id": "episode/marriage-toxin-1x12",
+      "episode_id": "episode/marriage-toxin-1x12",
+      "title": "Marriage Toxin 1x1",
+      "episode_name": "Marriage Toxin 1x1",
+      "episode_number": 12,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2029_s1e12.webp",
+      "abyssid": "18564",
+      "abyssId": "18564",
+      "playxid": "aa89c65eacea54244a447353ff659509",
+      "playXID": "aa89c65eacea54244a447353ff659509",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18564",
+        "playXID": "aa89c65eacea54244a447353ff659509",
+        "streamId": "18564",
+        "dubPlayerSrc": "/dub-player/t/18564/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=aa89c65eacea54244a447353ff659509&abyssId=18564"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18564",
+        "playXID": "aa89c65eacea54244a447353ff659509",
+        "streamId": "18564",
+        "dubPlayerSrc": "/dub-player/t/18564/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=aa89c65eacea54244a447353ff659509&abyssId=18564"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/6de1de23aac1b51733a0c789de180879",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/6de1de23aac1b51733a0c789de180879"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18564",
+        "abyssId": "18564",
+        "playXID": "aa89c65eacea54244a447353ff659509",
+        "title": "Marriage Toxin",
+        "season": 1,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "yS4dnPPU2"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "-7r2rEENM"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "_ltXruTmR"
+              },
+              {
+                "language": "Malayalam",
+                "code": "mal",
+                "short": "ML",
+                "video_id": "r4gHj-0Z7"
+              },
+              {
+                "language": "Kannada",
+                "code": "kan",
+                "short": "KN",
+                "video_id": "5kOZoICVs"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "jkNqG-p9o"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/6d6d3f463bc0b2999139cd45649f7627/master.m3u8?md5=5ccn7pTp5yHU_RWLH5kQ7g&expires=1792165973",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/6d6d3f463bc0b2999139cd45649f7627/master.m3u8?md5=5ccn7pTp5yHU_RWLH5kQ7g&expires=1792165973",
+            "videoSource": "https://ravok.buzz/cdn/hls/6d6d3f463bc0b2999139cd45649f7627/master.m3u8?md5=5ccn7pTp5yHU_RWLH5kQ7g&expires=1792165973",
+            "videoImage": "https://as-cdn30.top/p/yRSsDDgFins4VmUwTHmqpkBIqzA_coqO9E7HdQsM8ff_lmoI4F5fjOG-zbIcVOEzhtTprZ2sEuQYHDYReTLouA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "aa89c65eacea54244a447353ff659509",
+                "streamUrl": "https://ravok.buzz/cdn/hls/6d6d3f463bc0b2999139cd45649f7627/master.m3u8?md5=5ccn7pTp5yHU_RWLH5kQ7g&expires=1792165973",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/6d6d3f463bc0b2999139cd45649f7627/master.m3u8?md5=5ccn7pTp5yHU_RWLH5kQ7g&expires=1792165973",
+                "videoSource": "https://ravok.buzz/cdn/hls/6d6d3f463bc0b2999139cd45649f7627/master.m3u8?md5=5ccn7pTp5yHU_RWLH5kQ7g&expires=1792165973",
+                "link": "https://ravok.buzz/cdn/hls/6d6d3f463bc0b2999139cd45649f7627/master.m3u8?md5=5ccn7pTp5yHU_RWLH5kQ7g&expires=1792165973",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/yRSsDDgFins4VmUwTHmqpkBIqzA_coqO9E7HdQsM8ff_lmoI4F5fjOG-zbIcVOEzhtTprZ2sEuQYHDYReTLouA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "yS4dnPPU2"
+        }
+      },
+      "fetched_at": "2026-10-16T13:53:03Z"
+    },
+    {
+      "id": "episode/marriage-toxin-1x10",
+      "episode_id": "episode/marriage-toxin-1x10",
+      "title": "Marriage Toxin 1x1",
+      "episode_name": "Marriage Toxin 1x1",
+      "episode_number": 10,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2029_s1e10.webp",
+      "abyssid": "18428",
+      "abyssId": "18428",
+      "playxid": "d130125b5bba8462ae017c93319b79fd",
+      "playXID": "d130125b5bba8462ae017c93319b79fd",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18428",
+        "playXID": "d130125b5bba8462ae017c93319b79fd",
+        "streamId": "18428",
+        "dubPlayerSrc": "/dub-player/t/18428/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d130125b5bba8462ae017c93319b79fd&abyssId=18428"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18428",
+        "playXID": "d130125b5bba8462ae017c93319b79fd",
+        "streamId": "18428",
+        "dubPlayerSrc": "/dub-player/t/18428/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d130125b5bba8462ae017c93319b79fd&abyssId=18428"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/ef926983fef6f9c7f1207289ac8a0331",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/ef926983fef6f9c7f1207289ac8a0331"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18428",
+        "abyssId": "18428",
+        "playXID": "d130125b5bba8462ae017c93319b79fd",
+        "title": "Marriage Toxin",
+        "season": 1,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "yS4dnPPU2"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "-7r2rEENM"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "_ltXruTmR"
+              },
+              {
+                "language": "Malayalam",
+                "code": "mal",
+                "short": "ML",
+                "video_id": "r4gHj-0Z7"
+              },
+              {
+                "language": "Kannada",
+                "code": "kan",
+                "short": "KN",
+                "video_id": "5kOZoICVs"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "jkNqG-p9o"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/dc9b5dee6d0d40685404bf3598667719/master.m3u8?md5=RjNODXAMV1UIVEONLTOcYQ&expires=1792165974",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/dc9b5dee6d0d40685404bf3598667719/master.m3u8?md5=RjNODXAMV1UIVEONLTOcYQ&expires=1792165974",
+            "videoSource": "https://ravok.buzz/cdn/hls/dc9b5dee6d0d40685404bf3598667719/master.m3u8?md5=RjNODXAMV1UIVEONLTOcYQ&expires=1792165974",
+            "videoImage": "https://as-cdn28.top/p/kbbbhPtdOvFIeqAUd4RJ5wGTIypasZD9utmVdIB3K7u4XxgPkizwtbc751jLZQVJcabEPrUSOXEzJhzQz_b2Bw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "d130125b5bba8462ae017c93319b79fd",
+                "streamUrl": "https://ravok.buzz/cdn/hls/dc9b5dee6d0d40685404bf3598667719/master.m3u8?md5=RjNODXAMV1UIVEONLTOcYQ&expires=1792165974",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/dc9b5dee6d0d40685404bf3598667719/master.m3u8?md5=RjNODXAMV1UIVEONLTOcYQ&expires=1792165974",
+                "videoSource": "https://ravok.buzz/cdn/hls/dc9b5dee6d0d40685404bf3598667719/master.m3u8?md5=RjNODXAMV1UIVEONLTOcYQ&expires=1792165974",
+                "link": "https://ravok.buzz/cdn/hls/dc9b5dee6d0d40685404bf3598667719/master.m3u8?md5=RjNODXAMV1UIVEONLTOcYQ&expires=1792165974",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/kbbbhPtdOvFIeqAUd4RJ5wGTIypasZD9utmVdIB3K7u4XxgPkizwtbc751jLZQVJcabEPrUSOXEzJhzQz_b2Bw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "yS4dnPPU2"
+        }
+      },
+      "fetched_at": "2026-10-16T13:53:04Z"
+    },
+    {
+      "id": "episode/marriage-toxin-1x13",
+      "episode_id": "episode/marriage-toxin-1x13",
+      "title": "Marriage Toxin 1x1",
+      "episode_name": "Marriage Toxin 1x1",
+      "episode_number": 13,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2029_s1e13.webp",
+      "abyssid": "18725",
+      "abyssId": "18725",
+      "playxid": "5833f44355c400ad3efd00141ecca9a7",
+      "playXID": "5833f44355c400ad3efd00141ecca9a7",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18725",
+        "playXID": "5833f44355c400ad3efd00141ecca9a7",
+        "streamId": "18725",
+        "dubPlayerSrc": "/dub-player/t/18725/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=5833f44355c400ad3efd00141ecca9a7&abyssId=18725"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18725",
+        "playXID": "5833f44355c400ad3efd00141ecca9a7",
+        "streamId": "18725",
+        "dubPlayerSrc": "/dub-player/t/18725/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=5833f44355c400ad3efd00141ecca9a7&abyssId=18725"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/58766b2804f2d263ecd81e805e8a907b",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/58766b2804f2d263ecd81e805e8a907b"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18725",
+        "abyssId": "18725",
+        "playXID": "5833f44355c400ad3efd00141ecca9a7",
+        "title": "Marriage Toxin",
+        "season": 1,
+        "episode": 13,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "yS4dnPPU2"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "-7r2rEENM"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "_ltXruTmR"
+              },
+              {
+                "language": "Malayalam",
+                "code": "mal",
+                "short": "ML",
+                "video_id": "r4gHj-0Z7"
+              },
+              {
+                "language": "Kannada",
+                "code": "kan",
+                "short": "KN",
+                "video_id": "5kOZoICVs"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "jkNqG-p9o"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/9970d3783330e99c901829acb0f5d88c/master.m3u8?md5=YckpcshM0XoXgD_M_FUnHQ&expires=1792165974",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/9970d3783330e99c901829acb0f5d88c/master.m3u8?md5=YckpcshM0XoXgD_M_FUnHQ&expires=1792165974",
+            "videoSource": "https://ravok.buzz/cdn/hls/9970d3783330e99c901829acb0f5d88c/master.m3u8?md5=YckpcshM0XoXgD_M_FUnHQ&expires=1792165974",
+            "videoImage": "https://as-cdn30.top/p/x36cdBkY5AmFFCNX8sxE5puiOF66buSzU-GN-mhLC85yHkuKzO3ocgH1I1h28AvrFvk9BBlW1hqpIVTi8s6k1w.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "5833f44355c400ad3efd00141ecca9a7",
+                "streamUrl": "https://ravok.buzz/cdn/hls/9970d3783330e99c901829acb0f5d88c/master.m3u8?md5=YckpcshM0XoXgD_M_FUnHQ&expires=1792165974",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/9970d3783330e99c901829acb0f5d88c/master.m3u8?md5=YckpcshM0XoXgD_M_FUnHQ&expires=1792165974",
+                "videoSource": "https://ravok.buzz/cdn/hls/9970d3783330e99c901829acb0f5d88c/master.m3u8?md5=YckpcshM0XoXgD_M_FUnHQ&expires=1792165974",
+                "link": "https://ravok.buzz/cdn/hls/9970d3783330e99c901829acb0f5d88c/master.m3u8?md5=YckpcshM0XoXgD_M_FUnHQ&expires=1792165974",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/x36cdBkY5AmFFCNX8sxE5puiOF66buSzU-GN-mhLC85yHkuKzO3ocgH1I1h28AvrFvk9BBlW1hqpIVTi8s6k1w.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "yS4dnPPU2"
+        }
+      },
+      "fetched_at": "2026-10-16T13:53:04Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T13:52:57Z",
+  "updated_at": "2026-10-16T13:53:04Z"
+}

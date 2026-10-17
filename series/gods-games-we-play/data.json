@@ -1,0 +1,1618 @@
+{
+  "id": "series/gods-games-we-play",
+  "series_name": "Gods' Games We Play",
+  "title": "Gods' Games We Play",
+  "banner": "https://image.tmdb.org/t/p/w1280/s8gJHtPcbOdv7eGiBqE6m0izFG9.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/gkpFc791zeyQEO7Ds7mlnaC1cmj.jpg",
+  "genra": [
+    "Fantasy",
+    "Strategy",
+    "Suspense"
+  ],
+  "genres": [
+    "Fantasy",
+    "Strategy",
+    "Suspense"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Japanese",
+    "Tamil",
+    "Telugu"
+  ],
+  "synopsis": "In a world of idle gods, humans are forced into brain challenges with them. With three defeats, gods lose their right to challenge, while 10 victories spell human triumph. Fay, determined to achieve the impossible, enters the ultimate test of wits against the gods. Will he defy divinity, or is he just another loss in the making?",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 13,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 13,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Gods' Games We Play",
+          "id": "episode/gods-games-we-play-1x1",
+          "image": "https://img.watchanimeworld.one/images/12488/01.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "Hide-and-God-Seek",
+          "id": "episode/gods-games-we-play-1x2",
+          "image": "https://img.watchanimeworld.one/images/12488/02.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "I'm Pearl Diamond",
+          "id": "episode/gods-games-we-play-1x3",
+          "image": "https://img.watchanimeworld.one/images/12488/03.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "Uroboros",
+          "id": "episode/gods-games-we-play-1x4",
+          "image": "https://img.watchanimeworld.one/images/12488/04.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "World Games Tour",
+          "id": "episode/gods-games-we-play-1x5",
+          "image": "https://img.watchanimeworld.one/images/12488/05.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "Mind Arena",
+          "id": "episode/gods-games-we-play-1x6",
+          "image": "https://img.watchanimeworld.one/images/12488/06.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "Sunsteal Scramble",
+          "id": "episode/gods-games-we-play-1x7",
+          "image": "https://img.watchanimeworld.one/images/12488/07.webp",
+          "season": 1
+        },
+        {
+          "episode": 8,
+          "title": "Where has the Sun Gone?",
+          "id": "episode/gods-games-we-play-1x8",
+          "image": "https://img.watchanimeworld.one/images/12488/08.webp",
+          "season": 1
+        },
+        {
+          "episode": 9,
+          "title": "Bookmaker",
+          "id": "episode/gods-games-we-play-1x9",
+          "image": "https://img.watchanimeworld.one/images/12488/09.webp",
+          "season": 1
+        },
+        {
+          "episode": 10,
+          "title": "The Three Cheats the God Brings Forth",
+          "id": "episode/gods-games-we-play-1x10",
+          "image": "https://img.watchanimeworld.one/images/12488/10.webp",
+          "season": 1
+        },
+        {
+          "episode": 11,
+          "title": "The Labyrinth of No Return: Luceimia",
+          "id": "episode/gods-games-we-play-1x11",
+          "image": "https://img.watchanimeworld.one/images/12488/11.webp",
+          "season": 1
+        },
+        {
+          "episode": 12,
+          "title": "The Labyrinth of Death and Rebirth: Luceimia",
+          "id": "episode/gods-games-we-play-1x12",
+          "image": "https://img.watchanimeworld.one/images/12488/12.webp",
+          "season": 1
+        },
+        {
+          "episode": 13,
+          "title": "Good Game Well Played",
+          "id": "episode/gods-games-we-play-1x13",
+          "image": "https://img.watchanimeworld.one/images/12488/13.webp",
+          "season": 1
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/gods-games-we-play-1x4",
+      "episode_id": "episode/gods-games-we-play-1x4",
+      "title": "Gods' Games We Play",
+      "episode_name": "Gods' Games We Play",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/12488/04.webp",
+      "abyssid": "9098",
+      "abyssId": "9098",
+      "playxid": "487d4c6a324446b3fa45b30cfcee5337",
+      "playXID": "487d4c6a324446b3fa45b30cfcee5337",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "9098",
+        "playXID": "487d4c6a324446b3fa45b30cfcee5337",
+        "streamId": "9098",
+        "dubPlayerSrc": "/dub-player/t/9098/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=487d4c6a324446b3fa45b30cfcee5337&abyssId=9098"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "9098",
+        "playXID": "487d4c6a324446b3fa45b30cfcee5337",
+        "streamId": "9098",
+        "dubPlayerSrc": "/dub-player/t/9098/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=487d4c6a324446b3fa45b30cfcee5337&abyssId=9098"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/487d4c6a324446b3fa45b30cfcee5337",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/487d4c6a324446b3fa45b30cfcee5337"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "9098",
+        "abyssId": "9098",
+        "playXID": "487d4c6a324446b3fa45b30cfcee5337",
+        "title": "Gods' Games We Play",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "Jnx6SfG406"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "_pyKpKD3u"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "ILVo0LwDC"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "dH7jvmbvk"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "H6kDbtTz4"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/962629695e2ce04c2a23477c28388247/master.m3u8?md5=l9OkQcp6m7nJRUFEqp5SRQ&expires=1792167486",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/962629695e2ce04c2a23477c28388247/master.m3u8?md5=l9OkQcp6m7nJRUFEqp5SRQ&expires=1792167486",
+            "videoSource": "https://ravok.buzz/cdn/hls/962629695e2ce04c2a23477c28388247/master.m3u8?md5=l9OkQcp6m7nJRUFEqp5SRQ&expires=1792167486",
+            "videoImage": "https://as-cdn31.top/p/6ukcCqW7egGzmfEZqCl3gT9biJpI4DGFcGeNRhazam-hlNYqNQ66rVnACK4e5tAcEQq33N9W0oyrHiFUKivAWA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "487d4c6a324446b3fa45b30cfcee5337",
+                "streamUrl": "https://ravok.buzz/cdn/hls/962629695e2ce04c2a23477c28388247/master.m3u8?md5=l9OkQcp6m7nJRUFEqp5SRQ&expires=1792167486",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/962629695e2ce04c2a23477c28388247/master.m3u8?md5=l9OkQcp6m7nJRUFEqp5SRQ&expires=1792167486",
+                "videoSource": "https://ravok.buzz/cdn/hls/962629695e2ce04c2a23477c28388247/master.m3u8?md5=l9OkQcp6m7nJRUFEqp5SRQ&expires=1792167486",
+                "link": "https://ravok.buzz/cdn/hls/962629695e2ce04c2a23477c28388247/master.m3u8?md5=l9OkQcp6m7nJRUFEqp5SRQ&expires=1792167486",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/6ukcCqW7egGzmfEZqCl3gT9biJpI4DGFcGeNRhazam-hlNYqNQ66rVnACK4e5tAcEQq33N9W0oyrHiFUKivAWA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "Jnx6SfG406"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:16Z"
+    },
+    {
+      "id": "episode/gods-games-we-play-1x3",
+      "episode_id": "episode/gods-games-we-play-1x3",
+      "title": "Gods' Games We Play",
+      "episode_name": "Gods' Games We Play",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/12488/03.webp",
+      "abyssid": "9097",
+      "abyssId": "9097",
+      "playxid": "2952351097998ac1240cb2ab7333a3d2",
+      "playXID": "2952351097998ac1240cb2ab7333a3d2",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "9097",
+        "playXID": "2952351097998ac1240cb2ab7333a3d2",
+        "streamId": "9097",
+        "dubPlayerSrc": "/dub-player/t/9097/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2952351097998ac1240cb2ab7333a3d2&abyssId=9097"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "9097",
+        "playXID": "2952351097998ac1240cb2ab7333a3d2",
+        "streamId": "9097",
+        "dubPlayerSrc": "/dub-player/t/9097/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2952351097998ac1240cb2ab7333a3d2&abyssId=9097"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/2952351097998ac1240cb2ab7333a3d2",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/2952351097998ac1240cb2ab7333a3d2"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "9097",
+        "abyssId": "9097",
+        "playXID": "2952351097998ac1240cb2ab7333a3d2",
+        "title": "Gods' Games We Play",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "UjTBW8P1w"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "6vjsBpwgd"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "AXHS7BSRw"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "quWUOW_Bi"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "EnJjxyqIJ"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/c0b89babe082d9048dfd46d240276ed4/master.m3u8?md5=Rl2WuM2SffEeqURYVYJnSQ&expires=1792167486",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/c0b89babe082d9048dfd46d240276ed4/master.m3u8?md5=Rl2WuM2SffEeqURYVYJnSQ&expires=1792167486",
+            "videoSource": "https://ravok.buzz/cdn/hls/c0b89babe082d9048dfd46d240276ed4/master.m3u8?md5=Rl2WuM2SffEeqURYVYJnSQ&expires=1792167486",
+            "videoImage": "https://as-cdn29.top/p/8XNuobKRgBfhUq1ngsjZONB4_nn38UORBbGI-il8c05olUcNq9gSEq6aS1laeKY8WsoO7z8FglRgWZKukmzlOQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "2952351097998ac1240cb2ab7333a3d2",
+                "streamUrl": "https://ravok.buzz/cdn/hls/c0b89babe082d9048dfd46d240276ed4/master.m3u8?md5=Rl2WuM2SffEeqURYVYJnSQ&expires=1792167486",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/c0b89babe082d9048dfd46d240276ed4/master.m3u8?md5=Rl2WuM2SffEeqURYVYJnSQ&expires=1792167486",
+                "videoSource": "https://ravok.buzz/cdn/hls/c0b89babe082d9048dfd46d240276ed4/master.m3u8?md5=Rl2WuM2SffEeqURYVYJnSQ&expires=1792167486",
+                "link": "https://ravok.buzz/cdn/hls/c0b89babe082d9048dfd46d240276ed4/master.m3u8?md5=Rl2WuM2SffEeqURYVYJnSQ&expires=1792167486",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/8XNuobKRgBfhUq1ngsjZONB4_nn38UORBbGI-il8c05olUcNq9gSEq6aS1laeKY8WsoO7z8FglRgWZKukmzlOQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "UjTBW8P1w"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:16Z"
+    },
+    {
+      "id": "episode/gods-games-we-play-1x1",
+      "episode_id": "episode/gods-games-we-play-1x1",
+      "title": "Gods' Games We Play",
+      "episode_name": "Gods' Games We Play",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/12488/01.webp",
+      "abyssid": "7923",
+      "abyssId": "7923",
+      "playxid": "3dd9424294b0292b6e89ea2bba2e1144",
+      "playXID": "3dd9424294b0292b6e89ea2bba2e1144",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "7923",
+        "playXID": "3dd9424294b0292b6e89ea2bba2e1144",
+        "streamId": "7923",
+        "dubPlayerSrc": "/dub-player/t/7923/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=3dd9424294b0292b6e89ea2bba2e1144&abyssId=7923"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "7923",
+        "playXID": "3dd9424294b0292b6e89ea2bba2e1144",
+        "streamId": "7923",
+        "dubPlayerSrc": "/dub-player/t/7923/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=3dd9424294b0292b6e89ea2bba2e1144&abyssId=7923"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/3dd9424294b0292b6e89ea2bba2e1144",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/3dd9424294b0292b6e89ea2bba2e1144"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "7923",
+        "abyssId": "7923",
+        "playXID": "3dd9424294b0292b6e89ea2bba2e1144",
+        "title": "Gods' Games We Play",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "RwTkBQ7n3"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "uAvfpN7NP"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "yefbbclzC"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "D4Lznp3uG"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "zDPl-Pl0Y"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/c917864d42b6d3614c433796955f5207/master.m3u8?md5=xklCTdujdLtSNO_fpcCQVQ&expires=1792167486",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/c917864d42b6d3614c433796955f5207/master.m3u8?md5=xklCTdujdLtSNO_fpcCQVQ&expires=1792167486",
+            "videoSource": "https://ravok.buzz/cdn/hls/c917864d42b6d3614c433796955f5207/master.m3u8?md5=xklCTdujdLtSNO_fpcCQVQ&expires=1792167486",
+            "videoImage": "https://as-cdn29.top/p/hL-NgB4Eho3WjYH706WLdWYgHPC6eWIdfukXo1sLwff5RS8yjXV4kOndRb3xKPYy5SDIhtT9rzlg_tClxJU59g.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "3dd9424294b0292b6e89ea2bba2e1144",
+                "streamUrl": "https://ravok.buzz/cdn/hls/c917864d42b6d3614c433796955f5207/master.m3u8?md5=xklCTdujdLtSNO_fpcCQVQ&expires=1792167486",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/c917864d42b6d3614c433796955f5207/master.m3u8?md5=xklCTdujdLtSNO_fpcCQVQ&expires=1792167486",
+                "videoSource": "https://ravok.buzz/cdn/hls/c917864d42b6d3614c433796955f5207/master.m3u8?md5=xklCTdujdLtSNO_fpcCQVQ&expires=1792167486",
+                "link": "https://ravok.buzz/cdn/hls/c917864d42b6d3614c433796955f5207/master.m3u8?md5=xklCTdujdLtSNO_fpcCQVQ&expires=1792167486",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/hL-NgB4Eho3WjYH706WLdWYgHPC6eWIdfukXo1sLwff5RS8yjXV4kOndRb3xKPYy5SDIhtT9rzlg_tClxJU59g.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "RwTkBQ7n3"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:16Z"
+    },
+    {
+      "id": "episode/gods-games-we-play-1x5",
+      "episode_id": "episode/gods-games-we-play-1x5",
+      "title": "Gods' Games We Play",
+      "episode_name": "Gods' Games We Play",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/12488/05.webp",
+      "abyssid": "9099",
+      "abyssId": "9099",
+      "playxid": "d4dd111a4fd973394238aca5c05bebe3",
+      "playXID": "d4dd111a4fd973394238aca5c05bebe3",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "9099",
+        "playXID": "d4dd111a4fd973394238aca5c05bebe3",
+        "streamId": "9099",
+        "dubPlayerSrc": "/dub-player/t/9099/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d4dd111a4fd973394238aca5c05bebe3&abyssId=9099"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "9099",
+        "playXID": "d4dd111a4fd973394238aca5c05bebe3",
+        "streamId": "9099",
+        "dubPlayerSrc": "/dub-player/t/9099/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d4dd111a4fd973394238aca5c05bebe3&abyssId=9099"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/d4dd111a4fd973394238aca5c05bebe3",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/d4dd111a4fd973394238aca5c05bebe3"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "9099",
+        "abyssId": "9099",
+        "playXID": "d4dd111a4fd973394238aca5c05bebe3",
+        "title": "Gods' Games We Play",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "LJvj4GrlH"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "wlBnNuXxW"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "ZU6eu1jg0"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "gyGS065Hm"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "1cD1KVINd"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/6bfddb6fa8d05e2f8cb1a9404fd2acfe/master.m3u8?md5=egZK-vbbMI9CQuPisJ0XCg&expires=1792167486",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/6bfddb6fa8d05e2f8cb1a9404fd2acfe/master.m3u8?md5=egZK-vbbMI9CQuPisJ0XCg&expires=1792167486",
+            "videoSource": "https://ravok.buzz/cdn/hls/6bfddb6fa8d05e2f8cb1a9404fd2acfe/master.m3u8?md5=egZK-vbbMI9CQuPisJ0XCg&expires=1792167486",
+            "videoImage": "https://as-cdn27.top/p/P5fVk43oSMQWOGVjBC96jMf2IfuA-14IyCRTJNurb3JqrrPhQPVjvc6ZGBBT29Iyojw13QVLIlDEBEedX-9sQw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "d4dd111a4fd973394238aca5c05bebe3",
+                "streamUrl": "https://ravok.buzz/cdn/hls/6bfddb6fa8d05e2f8cb1a9404fd2acfe/master.m3u8?md5=egZK-vbbMI9CQuPisJ0XCg&expires=1792167486",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/6bfddb6fa8d05e2f8cb1a9404fd2acfe/master.m3u8?md5=egZK-vbbMI9CQuPisJ0XCg&expires=1792167486",
+                "videoSource": "https://ravok.buzz/cdn/hls/6bfddb6fa8d05e2f8cb1a9404fd2acfe/master.m3u8?md5=egZK-vbbMI9CQuPisJ0XCg&expires=1792167486",
+                "link": "https://ravok.buzz/cdn/hls/6bfddb6fa8d05e2f8cb1a9404fd2acfe/master.m3u8?md5=egZK-vbbMI9CQuPisJ0XCg&expires=1792167486",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/P5fVk43oSMQWOGVjBC96jMf2IfuA-14IyCRTJNurb3JqrrPhQPVjvc6ZGBBT29Iyojw13QVLIlDEBEedX-9sQw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "LJvj4GrlH"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:16Z"
+    },
+    {
+      "id": "episode/gods-games-we-play-1x2",
+      "episode_id": "episode/gods-games-we-play-1x2",
+      "title": "Gods' Games We Play",
+      "episode_name": "Gods' Games We Play",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/12488/02.webp",
+      "abyssid": "11768",
+      "abyssId": "11768",
+      "playxid": "b166b57d195370cd41f80dd29ed523d9",
+      "playXID": "b166b57d195370cd41f80dd29ed523d9",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "11768",
+        "playXID": "b166b57d195370cd41f80dd29ed523d9",
+        "streamId": "11768",
+        "dubPlayerSrc": "/dub-player/t/11768/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b166b57d195370cd41f80dd29ed523d9&abyssId=11768"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "11768",
+        "playXID": "b166b57d195370cd41f80dd29ed523d9",
+        "streamId": "11768",
+        "dubPlayerSrc": "/dub-player/t/11768/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b166b57d195370cd41f80dd29ed523d9&abyssId=11768"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/b166b57d195370cd41f80dd29ed523d9",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/b166b57d195370cd41f80dd29ed523d9"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "11768",
+        "abyssId": "11768",
+        "playXID": "b166b57d195370cd41f80dd29ed523d9",
+        "title": "Gods' Games We Play",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "k0wKd4gtVV"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "TXDQjqf2i"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "2qe3xhq1o"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "jodByMzAk"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "UcLZe2TxG"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/34eb175264a95dd693f22c34951b68eb/master.m3u8?md5=72Gm5rRYtF6hHF2fyqqy_w&expires=1792167486",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/34eb175264a95dd693f22c34951b68eb/master.m3u8?md5=72Gm5rRYtF6hHF2fyqqy_w&expires=1792167486",
+            "videoSource": "https://ravok.buzz/cdn/hls/34eb175264a95dd693f22c34951b68eb/master.m3u8?md5=72Gm5rRYtF6hHF2fyqqy_w&expires=1792167486",
+            "videoImage": "https://as-cdn31.top/p/iO-LmlArGCiNvX-fl1qBZ89AoYPvXCASXDA274XlPiy9kINIzeX2mlJ1OEaVUczau6JKrJxkovU_7FL69pUKiQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "b166b57d195370cd41f80dd29ed523d9",
+                "streamUrl": "https://ravok.buzz/cdn/hls/34eb175264a95dd693f22c34951b68eb/master.m3u8?md5=72Gm5rRYtF6hHF2fyqqy_w&expires=1792167486",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/34eb175264a95dd693f22c34951b68eb/master.m3u8?md5=72Gm5rRYtF6hHF2fyqqy_w&expires=1792167486",
+                "videoSource": "https://ravok.buzz/cdn/hls/34eb175264a95dd693f22c34951b68eb/master.m3u8?md5=72Gm5rRYtF6hHF2fyqqy_w&expires=1792167486",
+                "link": "https://ravok.buzz/cdn/hls/34eb175264a95dd693f22c34951b68eb/master.m3u8?md5=72Gm5rRYtF6hHF2fyqqy_w&expires=1792167486",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/iO-LmlArGCiNvX-fl1qBZ89AoYPvXCASXDA274XlPiy9kINIzeX2mlJ1OEaVUczau6JKrJxkovU_7FL69pUKiQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "k0wKd4gtVV"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:16Z"
+    },
+    {
+      "id": "episode/gods-games-we-play-1x6",
+      "episode_id": "episode/gods-games-we-play-1x6",
+      "title": "Gods' Games We Play",
+      "episode_name": "Gods' Games We Play",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/12488/06.webp",
+      "abyssid": "9100",
+      "abyssId": "9100",
+      "playxid": "b6e32320fa6bc5a588b90183b95dc028",
+      "playXID": "b6e32320fa6bc5a588b90183b95dc028",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "9100",
+        "playXID": "b6e32320fa6bc5a588b90183b95dc028",
+        "streamId": "9100",
+        "dubPlayerSrc": "/dub-player/t/9100/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b6e32320fa6bc5a588b90183b95dc028&abyssId=9100"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "9100",
+        "playXID": "b6e32320fa6bc5a588b90183b95dc028",
+        "streamId": "9100",
+        "dubPlayerSrc": "/dub-player/t/9100/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b6e32320fa6bc5a588b90183b95dc028&abyssId=9100"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/b6e32320fa6bc5a588b90183b95dc028",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/b6e32320fa6bc5a588b90183b95dc028"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "9100",
+        "abyssId": "9100",
+        "playXID": "b6e32320fa6bc5a588b90183b95dc028",
+        "title": "Gods' Games We Play",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "_tMhqB-JE"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "iJsh9_NYh"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "oeu8wBFJW"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "vkX36Y_EH"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "pg6h7HV8k"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/a8453c8149ffcd4133d6a9784169764f/master.m3u8?md5=PQhe7pu-pZ28h_-b7LuN2g&expires=1792167488",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/a8453c8149ffcd4133d6a9784169764f/master.m3u8?md5=PQhe7pu-pZ28h_-b7LuN2g&expires=1792167488",
+            "videoSource": "https://ravok.buzz/cdn/hls/a8453c8149ffcd4133d6a9784169764f/master.m3u8?md5=PQhe7pu-pZ28h_-b7LuN2g&expires=1792167488",
+            "videoImage": "https://as-cdn29.top/p/j3EQIQp6RMD3kXHM50dOWgKDI9aka6JVcYXFIQWFateVYDcf6YkvAe6oZV_xPqtthksbydOFmIhGOQlqkG--cw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "b6e32320fa6bc5a588b90183b95dc028",
+                "streamUrl": "https://ravok.buzz/cdn/hls/a8453c8149ffcd4133d6a9784169764f/master.m3u8?md5=PQhe7pu-pZ28h_-b7LuN2g&expires=1792167488",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/a8453c8149ffcd4133d6a9784169764f/master.m3u8?md5=PQhe7pu-pZ28h_-b7LuN2g&expires=1792167488",
+                "videoSource": "https://ravok.buzz/cdn/hls/a8453c8149ffcd4133d6a9784169764f/master.m3u8?md5=PQhe7pu-pZ28h_-b7LuN2g&expires=1792167488",
+                "link": "https://ravok.buzz/cdn/hls/a8453c8149ffcd4133d6a9784169764f/master.m3u8?md5=PQhe7pu-pZ28h_-b7LuN2g&expires=1792167488",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/j3EQIQp6RMD3kXHM50dOWgKDI9aka6JVcYXFIQWFateVYDcf6YkvAe6oZV_xPqtthksbydOFmIhGOQlqkG--cw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "_tMhqB-JE"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:17Z"
+    },
+    {
+      "id": "episode/gods-games-we-play-1x8",
+      "episode_id": "episode/gods-games-we-play-1x8",
+      "title": "Gods' Games We Play",
+      "episode_name": "Gods' Games We Play",
+      "episode_number": 8,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/12488/08.webp",
+      "abyssid": "9102",
+      "abyssId": "9102",
+      "playxid": "90aef91f0d9e7c3be322bd7bae41617d",
+      "playXID": "90aef91f0d9e7c3be322bd7bae41617d",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "9102",
+        "playXID": "90aef91f0d9e7c3be322bd7bae41617d",
+        "streamId": "9102",
+        "dubPlayerSrc": "/dub-player/t/9102/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=90aef91f0d9e7c3be322bd7bae41617d&abyssId=9102"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "9102",
+        "playXID": "90aef91f0d9e7c3be322bd7bae41617d",
+        "streamId": "9102",
+        "dubPlayerSrc": "/dub-player/t/9102/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=90aef91f0d9e7c3be322bd7bae41617d&abyssId=9102"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/90aef91f0d9e7c3be322bd7bae41617d",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/90aef91f0d9e7c3be322bd7bae41617d"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "9102",
+        "abyssId": "9102",
+        "playXID": "90aef91f0d9e7c3be322bd7bae41617d",
+        "title": "Gods' Games We Play",
+        "season": 1,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "1e5Squdbx"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "yrRAJAd1S"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "VBNbbf6oJ"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "TTmV4DGN3P"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "p6N0r5btp"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/74c9f596df525d55bb5de527d174baa5/master.m3u8?md5=lGKsMeMrgHP57Pi13tRHrw&expires=1792167488",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/74c9f596df525d55bb5de527d174baa5/master.m3u8?md5=lGKsMeMrgHP57Pi13tRHrw&expires=1792167488",
+            "videoSource": "https://ravok.buzz/cdn/hls/74c9f596df525d55bb5de527d174baa5/master.m3u8?md5=lGKsMeMrgHP57Pi13tRHrw&expires=1792167488",
+            "videoImage": "https://as-cdn28.top/p/OsNHH_7JBFMh_xT3h3XyN6-KgoMxgVmo9UCyFNYY5Z9TtGCD3HacDKqmxq6wVqIb_BG1ewoxIVAanF1g2BCa1w.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "90aef91f0d9e7c3be322bd7bae41617d",
+                "streamUrl": "https://ravok.buzz/cdn/hls/74c9f596df525d55bb5de527d174baa5/master.m3u8?md5=lGKsMeMrgHP57Pi13tRHrw&expires=1792167488",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/74c9f596df525d55bb5de527d174baa5/master.m3u8?md5=lGKsMeMrgHP57Pi13tRHrw&expires=1792167488",
+                "videoSource": "https://ravok.buzz/cdn/hls/74c9f596df525d55bb5de527d174baa5/master.m3u8?md5=lGKsMeMrgHP57Pi13tRHrw&expires=1792167488",
+                "link": "https://ravok.buzz/cdn/hls/74c9f596df525d55bb5de527d174baa5/master.m3u8?md5=lGKsMeMrgHP57Pi13tRHrw&expires=1792167488",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/OsNHH_7JBFMh_xT3h3XyN6-KgoMxgVmo9UCyFNYY5Z9TtGCD3HacDKqmxq6wVqIb_BG1ewoxIVAanF1g2BCa1w.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "1e5Squdbx"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:18Z"
+    },
+    {
+      "id": "episode/gods-games-we-play-1x10",
+      "episode_id": "episode/gods-games-we-play-1x10",
+      "title": "Gods' Games We Play",
+      "episode_name": "Gods' Games We Play",
+      "episode_number": 10,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/12488/10.webp",
+      "abyssid": "9104",
+      "abyssId": "9104",
+      "playxid": "10907813b97e249163587e6246612e21",
+      "playXID": "10907813b97e249163587e6246612e21",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "9104",
+        "playXID": "10907813b97e249163587e6246612e21",
+        "streamId": "9104",
+        "dubPlayerSrc": "/dub-player/t/9104/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=10907813b97e249163587e6246612e21&abyssId=9104"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "9104",
+        "playXID": "10907813b97e249163587e6246612e21",
+        "streamId": "9104",
+        "dubPlayerSrc": "/dub-player/t/9104/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=10907813b97e249163587e6246612e21&abyssId=9104"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/10907813b97e249163587e6246612e21",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/10907813b97e249163587e6246612e21"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "9104",
+        "abyssId": "9104",
+        "playXID": "10907813b97e249163587e6246612e21",
+        "title": "Gods' Games We Play",
+        "season": 1,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "9Gl6g7iz7"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "675_XpaTv"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "bi1jx5Yqo"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "6MstLI12W"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "vS5bJpPMu"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/b39d984db3a61eb927a886dbc090da45/master.m3u8?md5=iHji6sLLEPfMW20N8tSkPw&expires=1792167488",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/b39d984db3a61eb927a886dbc090da45/master.m3u8?md5=iHji6sLLEPfMW20N8tSkPw&expires=1792167488",
+            "videoSource": "https://ravok.buzz/cdn/hls/b39d984db3a61eb927a886dbc090da45/master.m3u8?md5=iHji6sLLEPfMW20N8tSkPw&expires=1792167488",
+            "videoImage": "https://as-cdn31.top/p/qTHLsYIAS-2KZxSnR6oTfDzxkVPa9yL17255I1J5c-sgKpoz-hyNEeJzTOqNUCXaeRUEPAtxu4IOjr4uM_cwhg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "10907813b97e249163587e6246612e21",
+                "streamUrl": "https://ravok.buzz/cdn/hls/b39d984db3a61eb927a886dbc090da45/master.m3u8?md5=iHji6sLLEPfMW20N8tSkPw&expires=1792167488",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/b39d984db3a61eb927a886dbc090da45/master.m3u8?md5=iHji6sLLEPfMW20N8tSkPw&expires=1792167488",
+                "videoSource": "https://ravok.buzz/cdn/hls/b39d984db3a61eb927a886dbc090da45/master.m3u8?md5=iHji6sLLEPfMW20N8tSkPw&expires=1792167488",
+                "link": "https://ravok.buzz/cdn/hls/b39d984db3a61eb927a886dbc090da45/master.m3u8?md5=iHji6sLLEPfMW20N8tSkPw&expires=1792167488",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/qTHLsYIAS-2KZxSnR6oTfDzxkVPa9yL17255I1J5c-sgKpoz-hyNEeJzTOqNUCXaeRUEPAtxu4IOjr4uM_cwhg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "9Gl6g7iz7"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:18Z"
+    },
+    {
+      "id": "episode/gods-games-we-play-1x7",
+      "episode_id": "episode/gods-games-we-play-1x7",
+      "title": "Gods' Games We Play",
+      "episode_name": "Gods' Games We Play",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/12488/07.webp",
+      "abyssid": "9101",
+      "abyssId": "9101",
+      "playxid": "1a3f91fead97497b1a96d6104ad339f6",
+      "playXID": "1a3f91fead97497b1a96d6104ad339f6",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "9101",
+        "playXID": "1a3f91fead97497b1a96d6104ad339f6",
+        "streamId": "9101",
+        "dubPlayerSrc": "/dub-player/t/9101/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=1a3f91fead97497b1a96d6104ad339f6&abyssId=9101"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "9101",
+        "playXID": "1a3f91fead97497b1a96d6104ad339f6",
+        "streamId": "9101",
+        "dubPlayerSrc": "/dub-player/t/9101/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=1a3f91fead97497b1a96d6104ad339f6&abyssId=9101"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/1a3f91fead97497b1a96d6104ad339f6",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/1a3f91fead97497b1a96d6104ad339f6"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "9101",
+        "abyssId": "9101",
+        "playXID": "1a3f91fead97497b1a96d6104ad339f6",
+        "title": "Gods' Games We Play",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "fl2Atj7jr"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "GrPXSj84c"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "qquEPlxXV"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "-sD5itmQD"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "5VrOQezRB"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/377a06a7cbde8a18bd178712b01fb3d4/master.m3u8?md5=s4ncVuFKLsH2pbXyDNAigg&expires=1792167488",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/377a06a7cbde8a18bd178712b01fb3d4/master.m3u8?md5=s4ncVuFKLsH2pbXyDNAigg&expires=1792167488",
+            "videoSource": "https://ravok.buzz/cdn/hls/377a06a7cbde8a18bd178712b01fb3d4/master.m3u8?md5=s4ncVuFKLsH2pbXyDNAigg&expires=1792167488",
+            "videoImage": "https://as-cdn30.top/p/NeEbgG6GyrAB3p9z0mWMLInxE_xtO5kf87paXIYN4Y2on-A9tvyttKNY74wT8IiWMAMiNsDRm63GtArzI-9Pfg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "1a3f91fead97497b1a96d6104ad339f6",
+                "streamUrl": "https://ravok.buzz/cdn/hls/377a06a7cbde8a18bd178712b01fb3d4/master.m3u8?md5=s4ncVuFKLsH2pbXyDNAigg&expires=1792167488",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/377a06a7cbde8a18bd178712b01fb3d4/master.m3u8?md5=s4ncVuFKLsH2pbXyDNAigg&expires=1792167488",
+                "videoSource": "https://ravok.buzz/cdn/hls/377a06a7cbde8a18bd178712b01fb3d4/master.m3u8?md5=s4ncVuFKLsH2pbXyDNAigg&expires=1792167488",
+                "link": "https://ravok.buzz/cdn/hls/377a06a7cbde8a18bd178712b01fb3d4/master.m3u8?md5=s4ncVuFKLsH2pbXyDNAigg&expires=1792167488",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/NeEbgG6GyrAB3p9z0mWMLInxE_xtO5kf87paXIYN4Y2on-A9tvyttKNY74wT8IiWMAMiNsDRm63GtArzI-9Pfg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "fl2Atj7jr"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:18Z"
+    },
+    {
+      "id": "episode/gods-games-we-play-1x9",
+      "episode_id": "episode/gods-games-we-play-1x9",
+      "title": "Gods' Games We Play",
+      "episode_name": "Gods' Games We Play",
+      "episode_number": 9,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/12488/09.webp",
+      "abyssid": "9103",
+      "abyssId": "9103",
+      "playxid": "3147da8ab4a0437c15ef51a5cc7f2dc4",
+      "playXID": "3147da8ab4a0437c15ef51a5cc7f2dc4",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "9103",
+        "playXID": "3147da8ab4a0437c15ef51a5cc7f2dc4",
+        "streamId": "9103",
+        "dubPlayerSrc": "/dub-player/t/9103/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=3147da8ab4a0437c15ef51a5cc7f2dc4&abyssId=9103"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "9103",
+        "playXID": "3147da8ab4a0437c15ef51a5cc7f2dc4",
+        "streamId": "9103",
+        "dubPlayerSrc": "/dub-player/t/9103/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=3147da8ab4a0437c15ef51a5cc7f2dc4&abyssId=9103"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/3147da8ab4a0437c15ef51a5cc7f2dc4",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/3147da8ab4a0437c15ef51a5cc7f2dc4"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "9103",
+        "abyssId": "9103",
+        "playXID": "3147da8ab4a0437c15ef51a5cc7f2dc4",
+        "title": "Gods' Games We Play",
+        "season": 1,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "eI8sGKmOu"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "F_nPxJz-2"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "3P9DflYSP"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "VxLuuiCmk"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "fuHrpfWCp"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/aeef32fd006cdcff88771c95a0929f3f/master.m3u8?md5=Kz_JDwuEUEqr4l7ejyTCWg&expires=1792167488",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/aeef32fd006cdcff88771c95a0929f3f/master.m3u8?md5=Kz_JDwuEUEqr4l7ejyTCWg&expires=1792167488",
+            "videoSource": "https://ravok.buzz/cdn/hls/aeef32fd006cdcff88771c95a0929f3f/master.m3u8?md5=Kz_JDwuEUEqr4l7ejyTCWg&expires=1792167488",
+            "videoImage": "https://as-cdn30.top/p/7MIU7oAQ1gKJ8W_D17S-VsAtLYS5FNlBoC-4PmB3JWq0UsXGiIhgNTFvnyLa6HBLFb6DRk5Sj6-GR4MxRZYcKQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "3147da8ab4a0437c15ef51a5cc7f2dc4",
+                "streamUrl": "https://ravok.buzz/cdn/hls/aeef32fd006cdcff88771c95a0929f3f/master.m3u8?md5=Kz_JDwuEUEqr4l7ejyTCWg&expires=1792167488",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/aeef32fd006cdcff88771c95a0929f3f/master.m3u8?md5=Kz_JDwuEUEqr4l7ejyTCWg&expires=1792167488",
+                "videoSource": "https://ravok.buzz/cdn/hls/aeef32fd006cdcff88771c95a0929f3f/master.m3u8?md5=Kz_JDwuEUEqr4l7ejyTCWg&expires=1792167488",
+                "link": "https://ravok.buzz/cdn/hls/aeef32fd006cdcff88771c95a0929f3f/master.m3u8?md5=Kz_JDwuEUEqr4l7ejyTCWg&expires=1792167488",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/7MIU7oAQ1gKJ8W_D17S-VsAtLYS5FNlBoC-4PmB3JWq0UsXGiIhgNTFvnyLa6HBLFb6DRk5Sj6-GR4MxRZYcKQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "eI8sGKmOu"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:18Z"
+    },
+    {
+      "id": "episode/gods-games-we-play-1x11",
+      "episode_id": "episode/gods-games-we-play-1x11",
+      "title": "Gods' Games We Play",
+      "episode_name": "Gods' Games We Play",
+      "episode_number": 11,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/12488/11.webp",
+      "abyssid": "9105",
+      "abyssId": "9105",
+      "playxid": "758a06618c69880a6cee5314ee42d52f",
+      "playXID": "758a06618c69880a6cee5314ee42d52f",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "9105",
+        "playXID": "758a06618c69880a6cee5314ee42d52f",
+        "streamId": "9105",
+        "dubPlayerSrc": "/dub-player/t/9105/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=758a06618c69880a6cee5314ee42d52f&abyssId=9105"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "9105",
+        "playXID": "758a06618c69880a6cee5314ee42d52f",
+        "streamId": "9105",
+        "dubPlayerSrc": "/dub-player/t/9105/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=758a06618c69880a6cee5314ee42d52f&abyssId=9105"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/758a06618c69880a6cee5314ee42d52f",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/758a06618c69880a6cee5314ee42d52f"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "9105",
+        "abyssId": "9105",
+        "playXID": "758a06618c69880a6cee5314ee42d52f",
+        "title": "Gods' Games We Play",
+        "season": 1,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "Lr8UPe5NK"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "P2VPzHp58"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "VH5z8-zKI"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "-TkkajwgD"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "YXndWmr7W"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/ef4869eb0783ba1ea91e48b8ffb83c6f/master.m3u8?md5=md5YHF7__r7e3lSWqGiZMg&expires=1792167489",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/ef4869eb0783ba1ea91e48b8ffb83c6f/master.m3u8?md5=md5YHF7__r7e3lSWqGiZMg&expires=1792167489",
+            "videoSource": "https://ravok.buzz/cdn/hls/ef4869eb0783ba1ea91e48b8ffb83c6f/master.m3u8?md5=md5YHF7__r7e3lSWqGiZMg&expires=1792167489",
+            "videoImage": "https://as-cdn31.top/p/zzLIJ87rB59ObAWxz-yDLsAKBSpSRBEUci-DWAvlA11MTIFqAxLJOZAu1YblJaVpWbHK-uRJxjGRK7qJveXLNA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "758a06618c69880a6cee5314ee42d52f",
+                "streamUrl": "https://ravok.buzz/cdn/hls/ef4869eb0783ba1ea91e48b8ffb83c6f/master.m3u8?md5=md5YHF7__r7e3lSWqGiZMg&expires=1792167489",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/ef4869eb0783ba1ea91e48b8ffb83c6f/master.m3u8?md5=md5YHF7__r7e3lSWqGiZMg&expires=1792167489",
+                "videoSource": "https://ravok.buzz/cdn/hls/ef4869eb0783ba1ea91e48b8ffb83c6f/master.m3u8?md5=md5YHF7__r7e3lSWqGiZMg&expires=1792167489",
+                "link": "https://ravok.buzz/cdn/hls/ef4869eb0783ba1ea91e48b8ffb83c6f/master.m3u8?md5=md5YHF7__r7e3lSWqGiZMg&expires=1792167489",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/zzLIJ87rB59ObAWxz-yDLsAKBSpSRBEUci-DWAvlA11MTIFqAxLJOZAu1YblJaVpWbHK-uRJxjGRK7qJveXLNA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "Lr8UPe5NK"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:19Z"
+    },
+    {
+      "id": "episode/gods-games-we-play-1x12",
+      "episode_id": "episode/gods-games-we-play-1x12",
+      "title": "Gods' Games We Play",
+      "episode_name": "Gods' Games We Play",
+      "episode_number": 12,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/12488/12.webp",
+      "abyssid": "9106",
+      "abyssId": "9106",
+      "playxid": "df1f1d20ee86704251795841e6a9405a",
+      "playXID": "df1f1d20ee86704251795841e6a9405a",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "9106",
+        "playXID": "df1f1d20ee86704251795841e6a9405a",
+        "streamId": "9106",
+        "dubPlayerSrc": "/dub-player/t/9106/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=df1f1d20ee86704251795841e6a9405a&abyssId=9106"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "9106",
+        "playXID": "df1f1d20ee86704251795841e6a9405a",
+        "streamId": "9106",
+        "dubPlayerSrc": "/dub-player/t/9106/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=df1f1d20ee86704251795841e6a9405a&abyssId=9106"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/df1f1d20ee86704251795841e6a9405a",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/df1f1d20ee86704251795841e6a9405a"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "9106",
+        "abyssId": "9106",
+        "playXID": "df1f1d20ee86704251795841e6a9405a",
+        "title": "Gods' Games We Play",
+        "season": 1,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "3NYAvq5wc"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "yi00J3AfB"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "EebW7UjiE"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "3-OowTc3MQ"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "IPyB0nRCG"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/d8821e08764a664e4801b119621a6a63/master.m3u8?md5=tt9gRUu79A_Btb9oKxYOzg&expires=1792167490",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/d8821e08764a664e4801b119621a6a63/master.m3u8?md5=tt9gRUu79A_Btb9oKxYOzg&expires=1792167490",
+            "videoSource": "https://ravok.buzz/cdn/hls/d8821e08764a664e4801b119621a6a63/master.m3u8?md5=tt9gRUu79A_Btb9oKxYOzg&expires=1792167490",
+            "videoImage": "https://as-cdn28.top/p/twWk4RREQLW0yRQ-L2fZa4UDHioIKYwjN4OMyPy2c-qso67Ti5cjnsdHEskYJ_uKbVyV27NP5cgMLc79DN6C8g.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "df1f1d20ee86704251795841e6a9405a",
+                "streamUrl": "https://ravok.buzz/cdn/hls/d8821e08764a664e4801b119621a6a63/master.m3u8?md5=tt9gRUu79A_Btb9oKxYOzg&expires=1792167490",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/d8821e08764a664e4801b119621a6a63/master.m3u8?md5=tt9gRUu79A_Btb9oKxYOzg&expires=1792167490",
+                "videoSource": "https://ravok.buzz/cdn/hls/d8821e08764a664e4801b119621a6a63/master.m3u8?md5=tt9gRUu79A_Btb9oKxYOzg&expires=1792167490",
+                "link": "https://ravok.buzz/cdn/hls/d8821e08764a664e4801b119621a6a63/master.m3u8?md5=tt9gRUu79A_Btb9oKxYOzg&expires=1792167490",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/twWk4RREQLW0yRQ-L2fZa4UDHioIKYwjN4OMyPy2c-qso67Ti5cjnsdHEskYJ_uKbVyV27NP5cgMLc79DN6C8g.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "3NYAvq5wc"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:20Z"
+    },
+    {
+      "id": "episode/gods-games-we-play-1x13",
+      "episode_id": "episode/gods-games-we-play-1x13",
+      "title": "Gods' Games We Play",
+      "episode_name": "Gods' Games We Play",
+      "episode_number": 13,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/12488/13.webp",
+      "abyssid": "9107",
+      "abyssId": "9107",
+      "playxid": "be6c7b094f88532b6c6b35bbcd525ee8",
+      "playXID": "be6c7b094f88532b6c6b35bbcd525ee8",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "9107",
+        "playXID": "be6c7b094f88532b6c6b35bbcd525ee8",
+        "streamId": "9107",
+        "dubPlayerSrc": "/dub-player/t/9107/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=be6c7b094f88532b6c6b35bbcd525ee8&abyssId=9107"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "9107",
+        "playXID": "be6c7b094f88532b6c6b35bbcd525ee8",
+        "streamId": "9107",
+        "dubPlayerSrc": "/dub-player/t/9107/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=be6c7b094f88532b6c6b35bbcd525ee8&abyssId=9107"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/be6c7b094f88532b6c6b35bbcd525ee8",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/be6c7b094f88532b6c6b35bbcd525ee8"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "9107",
+        "abyssId": "9107",
+        "playXID": "be6c7b094f88532b6c6b35bbcd525ee8",
+        "title": "Gods' Games We Play",
+        "season": 1,
+        "episode": 13,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "7zfUerhVt"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "hYwZli0SO"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "M-Pt5rv3d"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "JF4spQWAh"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "Ud938mVv_"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/df70e8d3ef19453afbc43bdebb46a852/master.m3u8?md5=7WAZ4LGau4OEmf7czfQ8IA&expires=1792167490",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/df70e8d3ef19453afbc43bdebb46a852/master.m3u8?md5=7WAZ4LGau4OEmf7czfQ8IA&expires=1792167490",
+            "videoSource": "https://ravok.buzz/cdn/hls/df70e8d3ef19453afbc43bdebb46a852/master.m3u8?md5=7WAZ4LGau4OEmf7czfQ8IA&expires=1792167490",
+            "videoImage": "https://as-cdn30.top/p/VDXb67PgNPby9tHzN7a1T4vnP5uqpUv_PVOvRsTAQWPoyLAIJI6rFGKkNBs_OhKmUzJlpPv8sB852Nl76jG3PA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "be6c7b094f88532b6c6b35bbcd525ee8",
+                "streamUrl": "https://ravok.buzz/cdn/hls/df70e8d3ef19453afbc43bdebb46a852/master.m3u8?md5=7WAZ4LGau4OEmf7czfQ8IA&expires=1792167490",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/df70e8d3ef19453afbc43bdebb46a852/master.m3u8?md5=7WAZ4LGau4OEmf7czfQ8IA&expires=1792167490",
+                "videoSource": "https://ravok.buzz/cdn/hls/df70e8d3ef19453afbc43bdebb46a852/master.m3u8?md5=7WAZ4LGau4OEmf7czfQ8IA&expires=1792167490",
+                "link": "https://ravok.buzz/cdn/hls/df70e8d3ef19453afbc43bdebb46a852/master.m3u8?md5=7WAZ4LGau4OEmf7czfQ8IA&expires=1792167490",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/VDXb67PgNPby9tHzN7a1T4vnP5uqpUv_PVOvRsTAQWPoyLAIJI6rFGKkNBs_OhKmUzJlpPv8sB852Nl76jG3PA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "7zfUerhVt"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:20Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T14:18:13Z",
+  "updated_at": "2026-10-16T14:18:20Z"
+}

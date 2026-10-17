@@ -1,0 +1,718 @@
+{
+  "id": "series/smoking-behind-the-supermarket-with-you",
+  "series_name": "Smoking Behind the Supermarket with You",
+  "title": "Smoking Behind the Supermarket with You",
+  "banner": "https://image.tmdb.org/t/p/w1280/gkmE41A5ev5M299hLgX3JrWAM16.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/gHVfuuOXPVs0ltFbOZQjxpXtSSH.jpg",
+  "genra": [
+    "Adult Cast",
+    "Comedy",
+    "Drama",
+    "Romance",
+    "Slice of Life"
+  ],
+  "genres": [
+    "Adult Cast",
+    "Comedy",
+    "Drama",
+    "Romance",
+    "Slice of Life"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Japanese"
+  ],
+  "synopsis": "Sasaki is an overworked salaryman drifting through the corporate grind, sustained by cigarettes and the cheerful service and smile of Yamada, the clerk at his favorite supermarket. But one night after a grueling shift, he arrives late to find Yamada nowhere to be seen. With nowhere left to smoke, his spirits sink—until a pierced young woman calls out to him: “You can smoke here.”",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 7,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 7,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Smoking Behind the Supermarket with You 1x1",
+          "id": "episode/smoking-behind-the-supermarket-with-you-1x1",
+          "image": "https://img.watchanimeworld.one/img/thumb_2088_s1e1.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "Smoking Behind the Supermarket with You 1x2",
+          "id": "episode/smoking-behind-the-supermarket-with-you-1x2",
+          "image": "https://img.watchanimeworld.one/img/thumb_2088_s1e2.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "Smoking Behind the Supermarket with You 1x3",
+          "id": "episode/smoking-behind-the-supermarket-with-you-1x3",
+          "image": "https://img.watchanimeworld.one/img/thumb_2088_s1e3.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "Smoking Behind the Supermarket with You 1x4",
+          "id": "episode/smoking-behind-the-supermarket-with-you-1x4",
+          "image": "https://img.watchanimeworld.one/img/thumb_2088_s1e4.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "Smoking Behind the Supermarket with You 1x5",
+          "id": "episode/smoking-behind-the-supermarket-with-you-1x5",
+          "image": "https://img.watchanimeworld.one/img/thumb_2088_s1e5.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "Smoking Behind the Supermarket with You 1x6",
+          "id": "episode/smoking-behind-the-supermarket-with-you-1x6",
+          "image": "https://img.watchanimeworld.one/img/thumb_2088_s1e6.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "Smoking Behind the Supermarket with You 1x7",
+          "id": "episode/smoking-behind-the-supermarket-with-you-1x7",
+          "image": "https://img.watchanimeworld.one/img/thumb_2088_s1e7.webp",
+          "season": 1
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/smoking-behind-the-supermarket-with-you-1x4",
+      "episode_id": "episode/smoking-behind-the-supermarket-with-you-1x4",
+      "title": "Smoking Behind the Supermarket with You 1x1",
+      "episode_name": "Smoking Behind the Supermarket with You 1x1",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2088_s1e4.webp",
+      "abyssid": null,
+      "abyssId": null,
+      "playxid": "5e640b4ed00c3f1ecfae9c8bc239613b",
+      "playXID": "5e640b4ed00c3f1ecfae9c8bc239613b",
+      "stream_info": {
+        "hasDubPlayer": false,
+        "abyssId": null,
+        "playXID": "5e640b4ed00c3f1ecfae9c8bc239613b",
+        "streamId": null,
+        "dubPlayerSrc": null,
+        "message": "No episode sources found",
+        "serversEndpoint": "/stream/servers/?playXID=5e640b4ed00c3f1ecfae9c8bc239613b"
+      },
+      "streamInfo": {
+        "hasDubPlayer": false,
+        "abyssId": null,
+        "playXID": "5e640b4ed00c3f1ecfae9c8bc239613b",
+        "streamId": null,
+        "dubPlayerSrc": null,
+        "message": "No episode sources found",
+        "serversEndpoint": "/stream/servers/?playXID=5e640b4ed00c3f1ecfae9c8bc239613b"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/6b671804c2c646575eb7eac41d3e2a9e",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/6b671804c2c646575eb7eac41d3e2a9e"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "5e640b4ed00c3f1ecfae9c8bc239613b",
+        "abyssId": null,
+        "playXID": "5e640b4ed00c3f1ecfae9c8bc239613b",
+        "title": "Episode Stream",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/5e72fe9fd4ae37c29d626a366ec5cd1e/master.m3u8?md5=KuQX1JYRhsx1Mf50MI9zgw&expires=1792165861",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/5e72fe9fd4ae37c29d626a366ec5cd1e/master.m3u8?md5=KuQX1JYRhsx1Mf50MI9zgw&expires=1792165861",
+            "videoSource": "https://ravok.buzz/cdn/hls/5e72fe9fd4ae37c29d626a366ec5cd1e/master.m3u8?md5=KuQX1JYRhsx1Mf50MI9zgw&expires=1792165861",
+            "videoImage": "https://as-cdn30.top/p/ab4HOm_HISrPAm1cVZTFYhB8xlUpdz4X0c9Av2yDrdWgTgKwTLz0YEN46--k8LWC_2SQ305FYcvYt6v3XTLOuQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "5e640b4ed00c3f1ecfae9c8bc239613b",
+                "streamUrl": "https://ravok.buzz/cdn/hls/5e72fe9fd4ae37c29d626a366ec5cd1e/master.m3u8?md5=KuQX1JYRhsx1Mf50MI9zgw&expires=1792165861",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/5e72fe9fd4ae37c29d626a366ec5cd1e/master.m3u8?md5=KuQX1JYRhsx1Mf50MI9zgw&expires=1792165861",
+                "videoSource": "https://ravok.buzz/cdn/hls/5e72fe9fd4ae37c29d626a366ec5cd1e/master.m3u8?md5=KuQX1JYRhsx1Mf50MI9zgw&expires=1792165861",
+                "link": "https://ravok.buzz/cdn/hls/5e72fe9fd4ae37c29d626a366ec5cd1e/master.m3u8?md5=KuQX1JYRhsx1Mf50MI9zgw&expires=1792165861",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/ab4HOm_HISrPAm1cVZTFYhB8xlUpdz4X0c9Av2yDrdWgTgKwTLz0YEN46--k8LWC_2SQ305FYcvYt6v3XTLOuQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "playx",
+          "language": "multi",
+          "video_id": "5e640b4ed00c3f1ecfae9c8bc239613b",
+          "streamUrl": "https://ravok.buzz/cdn/hls/5e72fe9fd4ae37c29d626a366ec5cd1e/master.m3u8?md5=KuQX1JYRhsx1Mf50MI9zgw&expires=1792165861"
+        }
+      },
+      "fetched_at": "2026-10-16T13:51:11Z"
+    },
+    {
+      "id": "episode/smoking-behind-the-supermarket-with-you-1x1",
+      "episode_id": "episode/smoking-behind-the-supermarket-with-you-1x1",
+      "title": "Smoking Behind the Supermarket with You 1x1",
+      "episode_name": "Smoking Behind the Supermarket with You 1x1",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2088_s1e1.webp",
+      "abyssid": "18566",
+      "abyssId": "18566",
+      "playxid": "8cb958257e5a77381e730fc3ce4b8b32",
+      "playXID": "8cb958257e5a77381e730fc3ce4b8b32",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18566",
+        "playXID": "8cb958257e5a77381e730fc3ce4b8b32",
+        "streamId": "18566",
+        "dubPlayerSrc": "/dub-player/t/18566/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8cb958257e5a77381e730fc3ce4b8b32&abyssId=18566"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18566",
+        "playXID": "8cb958257e5a77381e730fc3ce4b8b32",
+        "streamId": "18566",
+        "dubPlayerSrc": "/dub-player/t/18566/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8cb958257e5a77381e730fc3ce4b8b32&abyssId=18566"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/26f442e45f3939150bec252fdc0f6466",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/26f442e45f3939150bec252fdc0f6466"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18566",
+        "abyssId": "18566",
+        "playXID": "8cb958257e5a77381e730fc3ce4b8b32",
+        "title": "Smoking Behind the Supermarket with You",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "v7TuppsNY"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "bM-sZrgVi"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "qzYUsc6v0"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/2122945bb8214cc81008eba57ba86494/master.m3u8?md5=ww1QbDrmLEALfkkzmC8kHg&expires=1792165861",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/2122945bb8214cc81008eba57ba86494/master.m3u8?md5=ww1QbDrmLEALfkkzmC8kHg&expires=1792165861",
+            "videoSource": "https://ravok.buzz/cdn/hls/2122945bb8214cc81008eba57ba86494/master.m3u8?md5=ww1QbDrmLEALfkkzmC8kHg&expires=1792165861",
+            "videoImage": "https://as-cdn30.top/p/UGp4-Iq2tR8Y8Rt7huuu-ABeOW_JH0LvxTUQukMIbXg-ce7sNM8i54O678QKSs1QJf2J8jXcdKi7sCz__OlZDA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "8cb958257e5a77381e730fc3ce4b8b32",
+                "streamUrl": "https://ravok.buzz/cdn/hls/2122945bb8214cc81008eba57ba86494/master.m3u8?md5=ww1QbDrmLEALfkkzmC8kHg&expires=1792165861",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/2122945bb8214cc81008eba57ba86494/master.m3u8?md5=ww1QbDrmLEALfkkzmC8kHg&expires=1792165861",
+                "videoSource": "https://ravok.buzz/cdn/hls/2122945bb8214cc81008eba57ba86494/master.m3u8?md5=ww1QbDrmLEALfkkzmC8kHg&expires=1792165861",
+                "link": "https://ravok.buzz/cdn/hls/2122945bb8214cc81008eba57ba86494/master.m3u8?md5=ww1QbDrmLEALfkkzmC8kHg&expires=1792165861",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/UGp4-Iq2tR8Y8Rt7huuu-ABeOW_JH0LvxTUQukMIbXg-ce7sNM8i54O678QKSs1QJf2J8jXcdKi7sCz__OlZDA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "v7TuppsNY"
+        }
+      },
+      "fetched_at": "2026-10-16T13:51:11Z"
+    },
+    {
+      "id": "episode/smoking-behind-the-supermarket-with-you-1x2",
+      "episode_id": "episode/smoking-behind-the-supermarket-with-you-1x2",
+      "title": "Smoking Behind the Supermarket with You 1x1",
+      "episode_name": "Smoking Behind the Supermarket with You 1x1",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2088_s1e2.webp",
+      "abyssid": "18683",
+      "abyssId": "18683",
+      "playxid": "26f6abfa0d7725fef678e371897d5df0",
+      "playXID": "26f6abfa0d7725fef678e371897d5df0",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18683",
+        "playXID": "26f6abfa0d7725fef678e371897d5df0",
+        "streamId": "18683",
+        "dubPlayerSrc": "/dub-player/t/18683/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=26f6abfa0d7725fef678e371897d5df0&abyssId=18683"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18683",
+        "playXID": "26f6abfa0d7725fef678e371897d5df0",
+        "streamId": "18683",
+        "dubPlayerSrc": "/dub-player/t/18683/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=26f6abfa0d7725fef678e371897d5df0&abyssId=18683"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/9f15b5ad99f971093794839c9c45cd15",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/9f15b5ad99f971093794839c9c45cd15"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18683",
+        "abyssId": "18683",
+        "playXID": "26f6abfa0d7725fef678e371897d5df0",
+        "title": "Smoking Behind the Supermarket with You",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "pxXVLx4bc"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "y_-JKyWDT"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "BGt6pfqeM"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/cfd8e3eefadab8a5ed9cad76a70232b8/master.m3u8?md5=tKEIWNRnRCyCiPRVDD5tCg&expires=1792165861",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/cfd8e3eefadab8a5ed9cad76a70232b8/master.m3u8?md5=tKEIWNRnRCyCiPRVDD5tCg&expires=1792165861",
+            "videoSource": "https://ravok.buzz/cdn/hls/cfd8e3eefadab8a5ed9cad76a70232b8/master.m3u8?md5=tKEIWNRnRCyCiPRVDD5tCg&expires=1792165861",
+            "videoImage": "https://as-cdn29.top/p/y_QF61D655t_4nkMrB0ZzTXAOYK7O2OgfHqqKHB1N0qKD_YnjiegS6qrEgB55ZLJg6-r5hu_PqOH80pTC03aSQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "26f6abfa0d7725fef678e371897d5df0",
+                "streamUrl": "https://ravok.buzz/cdn/hls/cfd8e3eefadab8a5ed9cad76a70232b8/master.m3u8?md5=tKEIWNRnRCyCiPRVDD5tCg&expires=1792165861",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/cfd8e3eefadab8a5ed9cad76a70232b8/master.m3u8?md5=tKEIWNRnRCyCiPRVDD5tCg&expires=1792165861",
+                "videoSource": "https://ravok.buzz/cdn/hls/cfd8e3eefadab8a5ed9cad76a70232b8/master.m3u8?md5=tKEIWNRnRCyCiPRVDD5tCg&expires=1792165861",
+                "link": "https://ravok.buzz/cdn/hls/cfd8e3eefadab8a5ed9cad76a70232b8/master.m3u8?md5=tKEIWNRnRCyCiPRVDD5tCg&expires=1792165861",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/y_QF61D655t_4nkMrB0ZzTXAOYK7O2OgfHqqKHB1N0qKD_YnjiegS6qrEgB55ZLJg6-r5hu_PqOH80pTC03aSQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "pxXVLx4bc"
+        }
+      },
+      "fetched_at": "2026-10-16T13:51:11Z"
+    },
+    {
+      "id": "episode/smoking-behind-the-supermarket-with-you-1x5",
+      "episode_id": "episode/smoking-behind-the-supermarket-with-you-1x5",
+      "title": "Smoking Behind the Supermarket with You 1x1",
+      "episode_name": "Smoking Behind the Supermarket with You 1x1",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2088_s1e5.webp",
+      "abyssid": null,
+      "abyssId": null,
+      "playxid": "9c2a685b97edf0e75fd9df1c075cd379",
+      "playXID": "9c2a685b97edf0e75fd9df1c075cd379",
+      "stream_info": {
+        "hasDubPlayer": false,
+        "abyssId": null,
+        "playXID": "9c2a685b97edf0e75fd9df1c075cd379",
+        "streamId": null,
+        "dubPlayerSrc": null,
+        "message": "No episode sources found",
+        "serversEndpoint": "/stream/servers/?playXID=9c2a685b97edf0e75fd9df1c075cd379"
+      },
+      "streamInfo": {
+        "hasDubPlayer": false,
+        "abyssId": null,
+        "playXID": "9c2a685b97edf0e75fd9df1c075cd379",
+        "streamId": null,
+        "dubPlayerSrc": null,
+        "message": "No episode sources found",
+        "serversEndpoint": "/stream/servers/?playXID=9c2a685b97edf0e75fd9df1c075cd379"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/d119a02021ce7f2804da25fd308f24b0",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/d119a02021ce7f2804da25fd308f24b0"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "9c2a685b97edf0e75fd9df1c075cd379",
+        "abyssId": null,
+        "playXID": "9c2a685b97edf0e75fd9df1c075cd379",
+        "title": "Episode Stream",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/955f7de2ae99218600f79d64ac3c8d82/master.m3u8?md5=_vHPTEz1KlowL1w3ysfTsw&expires=1792165862",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/955f7de2ae99218600f79d64ac3c8d82/master.m3u8?md5=_vHPTEz1KlowL1w3ysfTsw&expires=1792165862",
+            "videoSource": "https://ravok.buzz/cdn/hls/955f7de2ae99218600f79d64ac3c8d82/master.m3u8?md5=_vHPTEz1KlowL1w3ysfTsw&expires=1792165862",
+            "videoImage": "https://as-cdn28.top/p/6RCIIx6fd6npJVBCa775s_Wh6sUhxf1aIqgbHo5U8m5UlVUKjiRFx5AJhIlJlgY-IGbYkMeMMenZCCEFNpquYA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "9c2a685b97edf0e75fd9df1c075cd379",
+                "streamUrl": "https://ravok.buzz/cdn/hls/955f7de2ae99218600f79d64ac3c8d82/master.m3u8?md5=_vHPTEz1KlowL1w3ysfTsw&expires=1792165862",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/955f7de2ae99218600f79d64ac3c8d82/master.m3u8?md5=_vHPTEz1KlowL1w3ysfTsw&expires=1792165862",
+                "videoSource": "https://ravok.buzz/cdn/hls/955f7de2ae99218600f79d64ac3c8d82/master.m3u8?md5=_vHPTEz1KlowL1w3ysfTsw&expires=1792165862",
+                "link": "https://ravok.buzz/cdn/hls/955f7de2ae99218600f79d64ac3c8d82/master.m3u8?md5=_vHPTEz1KlowL1w3ysfTsw&expires=1792165862",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/6RCIIx6fd6npJVBCa775s_Wh6sUhxf1aIqgbHo5U8m5UlVUKjiRFx5AJhIlJlgY-IGbYkMeMMenZCCEFNpquYA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "playx",
+          "language": "multi",
+          "video_id": "9c2a685b97edf0e75fd9df1c075cd379",
+          "streamUrl": "https://ravok.buzz/cdn/hls/955f7de2ae99218600f79d64ac3c8d82/master.m3u8?md5=_vHPTEz1KlowL1w3ysfTsw&expires=1792165862"
+        }
+      },
+      "fetched_at": "2026-10-16T13:51:12Z"
+    },
+    {
+      "id": "episode/smoking-behind-the-supermarket-with-you-1x3",
+      "episode_id": "episode/smoking-behind-the-supermarket-with-you-1x3",
+      "title": "Smoking Behind the Supermarket with You 1x1",
+      "episode_name": "Smoking Behind the Supermarket with You 1x1",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2088_s1e3.webp",
+      "abyssid": "18736",
+      "abyssId": "18736",
+      "playxid": "e16a7577e3b4c37bdea8a8d99ac27660",
+      "playXID": "e16a7577e3b4c37bdea8a8d99ac27660",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18736",
+        "playXID": "e16a7577e3b4c37bdea8a8d99ac27660",
+        "streamId": "18736",
+        "dubPlayerSrc": "/dub-player/t/18736/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e16a7577e3b4c37bdea8a8d99ac27660&abyssId=18736"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18736",
+        "playXID": "e16a7577e3b4c37bdea8a8d99ac27660",
+        "streamId": "18736",
+        "dubPlayerSrc": "/dub-player/t/18736/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e16a7577e3b4c37bdea8a8d99ac27660&abyssId=18736"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/ef154aea8a44ebae574d0371fb6233c3",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/ef154aea8a44ebae574d0371fb6233c3"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18736",
+        "abyssId": "18736",
+        "playXID": "e16a7577e3b4c37bdea8a8d99ac27660",
+        "title": "Smoking Behind the Supermarket with You",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "5U8jAFhPe"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "0ZUo5wnCe"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "dszxq1dpu"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/f9220f064804e641a8aa4d740ae4e94b/master.m3u8?md5=r0JUAdz-feDaQNEBF-QNeg&expires=1792165863",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/f9220f064804e641a8aa4d740ae4e94b/master.m3u8?md5=r0JUAdz-feDaQNEBF-QNeg&expires=1792165863",
+            "videoSource": "https://ravok.buzz/cdn/hls/f9220f064804e641a8aa4d740ae4e94b/master.m3u8?md5=r0JUAdz-feDaQNEBF-QNeg&expires=1792165863",
+            "videoImage": "https://as-cdn27.top/p/nXEgN81rsNWAbcITPA1DrsMOrlG-DOe1cNbjpcbAGZqT3OTqUZyQqFaTDb9G6zFDNomUHJZ9HhDCAfLRGl1fwQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "e16a7577e3b4c37bdea8a8d99ac27660",
+                "streamUrl": "https://ravok.buzz/cdn/hls/f9220f064804e641a8aa4d740ae4e94b/master.m3u8?md5=r0JUAdz-feDaQNEBF-QNeg&expires=1792165863",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/f9220f064804e641a8aa4d740ae4e94b/master.m3u8?md5=r0JUAdz-feDaQNEBF-QNeg&expires=1792165863",
+                "videoSource": "https://ravok.buzz/cdn/hls/f9220f064804e641a8aa4d740ae4e94b/master.m3u8?md5=r0JUAdz-feDaQNEBF-QNeg&expires=1792165863",
+                "link": "https://ravok.buzz/cdn/hls/f9220f064804e641a8aa4d740ae4e94b/master.m3u8?md5=r0JUAdz-feDaQNEBF-QNeg&expires=1792165863",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/nXEgN81rsNWAbcITPA1DrsMOrlG-DOe1cNbjpcbAGZqT3OTqUZyQqFaTDb9G6zFDNomUHJZ9HhDCAfLRGl1fwQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "5U8jAFhPe"
+        }
+      },
+      "fetched_at": "2026-10-16T13:51:14Z"
+    },
+    {
+      "id": "episode/smoking-behind-the-supermarket-with-you-1x6",
+      "episode_id": "episode/smoking-behind-the-supermarket-with-you-1x6",
+      "title": "Smoking Behind the Supermarket with You 1x1",
+      "episode_name": "Smoking Behind the Supermarket with You 1x1",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2088_s1e6.webp",
+      "abyssid": null,
+      "abyssId": null,
+      "playxid": "b71faf915b91184a5c4dc56c7d6262da",
+      "playXID": "b71faf915b91184a5c4dc56c7d6262da",
+      "stream_info": {
+        "hasDubPlayer": false,
+        "abyssId": null,
+        "playXID": "b71faf915b91184a5c4dc56c7d6262da",
+        "streamId": null,
+        "dubPlayerSrc": null,
+        "message": "No episode sources found",
+        "serversEndpoint": "/stream/servers/?playXID=b71faf915b91184a5c4dc56c7d6262da"
+      },
+      "streamInfo": {
+        "hasDubPlayer": false,
+        "abyssId": null,
+        "playXID": "b71faf915b91184a5c4dc56c7d6262da",
+        "streamId": null,
+        "dubPlayerSrc": null,
+        "message": "No episode sources found",
+        "serversEndpoint": "/stream/servers/?playXID=b71faf915b91184a5c4dc56c7d6262da"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/43cc251c33e8376d80f506ae8e4323eb",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/43cc251c33e8376d80f506ae8e4323eb"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "b71faf915b91184a5c4dc56c7d6262da",
+        "abyssId": null,
+        "playXID": "b71faf915b91184a5c4dc56c7d6262da",
+        "title": "Episode Stream",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/39ba735cb71079839f20f35d8395ffd2/master.m3u8?md5=Ph04dBgJlJvc9qKj938PUA&expires=1792165864",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/39ba735cb71079839f20f35d8395ffd2/master.m3u8?md5=Ph04dBgJlJvc9qKj938PUA&expires=1792165864",
+            "videoSource": "https://ravok.buzz/cdn/hls/39ba735cb71079839f20f35d8395ffd2/master.m3u8?md5=Ph04dBgJlJvc9qKj938PUA&expires=1792165864",
+            "videoImage": "https://as-cdn31.top/p/wRQYUz3CNgsPawNW7edrNwQySJQ_bSTnGkdnlCntOIWvQ9f-bopoheeqxYJPVMKo-o3JqKWIN8wyetXyUc3Gpg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "b71faf915b91184a5c4dc56c7d6262da",
+                "streamUrl": "https://ravok.buzz/cdn/hls/39ba735cb71079839f20f35d8395ffd2/master.m3u8?md5=Ph04dBgJlJvc9qKj938PUA&expires=1792165864",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/39ba735cb71079839f20f35d8395ffd2/master.m3u8?md5=Ph04dBgJlJvc9qKj938PUA&expires=1792165864",
+                "videoSource": "https://ravok.buzz/cdn/hls/39ba735cb71079839f20f35d8395ffd2/master.m3u8?md5=Ph04dBgJlJvc9qKj938PUA&expires=1792165864",
+                "link": "https://ravok.buzz/cdn/hls/39ba735cb71079839f20f35d8395ffd2/master.m3u8?md5=Ph04dBgJlJvc9qKj938PUA&expires=1792165864",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/wRQYUz3CNgsPawNW7edrNwQySJQ_bSTnGkdnlCntOIWvQ9f-bopoheeqxYJPVMKo-o3JqKWIN8wyetXyUc3Gpg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "playx",
+          "language": "multi",
+          "video_id": "b71faf915b91184a5c4dc56c7d6262da",
+          "streamUrl": "https://ravok.buzz/cdn/hls/39ba735cb71079839f20f35d8395ffd2/master.m3u8?md5=Ph04dBgJlJvc9qKj938PUA&expires=1792165864"
+        }
+      },
+      "fetched_at": "2026-10-16T13:51:14Z"
+    },
+    {
+      "id": "episode/smoking-behind-the-supermarket-with-you-1x7",
+      "episode_id": "episode/smoking-behind-the-supermarket-with-you-1x7",
+      "title": "Smoking Behind the Supermarket with You 1x1",
+      "episode_name": "Smoking Behind the Supermarket with You 1x1",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2088_s1e7.webp",
+      "abyssid": null,
+      "abyssId": null,
+      "playxid": "99bc147ed9068c9f2dbfc242373977eb",
+      "playXID": "99bc147ed9068c9f2dbfc242373977eb",
+      "stream_info": {
+        "hasDubPlayer": false,
+        "abyssId": null,
+        "playXID": "99bc147ed9068c9f2dbfc242373977eb",
+        "streamId": null,
+        "dubPlayerSrc": null,
+        "message": "No episode sources found",
+        "serversEndpoint": "/stream/servers/?playXID=99bc147ed9068c9f2dbfc242373977eb"
+      },
+      "streamInfo": {
+        "hasDubPlayer": false,
+        "abyssId": null,
+        "playXID": "99bc147ed9068c9f2dbfc242373977eb",
+        "streamId": null,
+        "dubPlayerSrc": null,
+        "message": "No episode sources found",
+        "serversEndpoint": "/stream/servers/?playXID=99bc147ed9068c9f2dbfc242373977eb"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/93960d5fb44e9016051aac44fb34f9f6",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/93960d5fb44e9016051aac44fb34f9f6"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "99bc147ed9068c9f2dbfc242373977eb",
+        "abyssId": null,
+        "playXID": "99bc147ed9068c9f2dbfc242373977eb",
+        "title": "Episode Stream",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/0487a5c918b927cfd9c12439196b21ad/master.m3u8?md5=MTVJdouxIU0TkV2isp5C3g&expires=1792165865",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/0487a5c918b927cfd9c12439196b21ad/master.m3u8?md5=MTVJdouxIU0TkV2isp5C3g&expires=1792165865",
+            "videoSource": "https://ravok.buzz/cdn/hls/0487a5c918b927cfd9c12439196b21ad/master.m3u8?md5=MTVJdouxIU0TkV2isp5C3g&expires=1792165865",
+            "videoImage": "https://as-cdn30.top/p/fpc-ZNRVzxVPWJ4t93Vn_vwlWJmMdLQ6UCUDro5FZ9CjHBFWJW5Sq8fh5tPCNo1-Cfn9WWtvMA1oJdmYlcm2ZA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "99bc147ed9068c9f2dbfc242373977eb",
+                "streamUrl": "https://ravok.buzz/cdn/hls/0487a5c918b927cfd9c12439196b21ad/master.m3u8?md5=MTVJdouxIU0TkV2isp5C3g&expires=1792165865",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/0487a5c918b927cfd9c12439196b21ad/master.m3u8?md5=MTVJdouxIU0TkV2isp5C3g&expires=1792165865",
+                "videoSource": "https://ravok.buzz/cdn/hls/0487a5c918b927cfd9c12439196b21ad/master.m3u8?md5=MTVJdouxIU0TkV2isp5C3g&expires=1792165865",
+                "link": "https://ravok.buzz/cdn/hls/0487a5c918b927cfd9c12439196b21ad/master.m3u8?md5=MTVJdouxIU0TkV2isp5C3g&expires=1792165865",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/fpc-ZNRVzxVPWJ4t93Vn_vwlWJmMdLQ6UCUDro5FZ9CjHBFWJW5Sq8fh5tPCNo1-Cfn9WWtvMA1oJdmYlcm2ZA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "playx",
+          "language": "multi",
+          "video_id": "99bc147ed9068c9f2dbfc242373977eb",
+          "streamUrl": "https://ravok.buzz/cdn/hls/0487a5c918b927cfd9c12439196b21ad/master.m3u8?md5=MTVJdouxIU0TkV2isp5C3g&expires=1792165865"
+        }
+      },
+      "fetched_at": "2026-10-16T13:51:15Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T13:51:08Z",
+  "updated_at": "2026-10-16T13:51:15Z"
+}

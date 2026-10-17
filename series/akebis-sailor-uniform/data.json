@@ -1,0 +1,1497 @@
+{
+  "id": "series/akebis-sailor-uniform",
+  "series_name": "Akebi's Sailor Uniform",
+  "title": "Akebi's Sailor Uniform",
+  "banner": "https://image.tmdb.org/t/p/w1280/A7jnN3Qf7garU996UKf8wQm7I52.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/kGMOxl3o9QNeRzAvmeDJaaxLrtV.jpg",
+  "genra": [
+    "Comedy",
+    "School",
+    "Slice of Life"
+  ],
+  "genres": [
+    "Comedy",
+    "School",
+    "Slice of Life"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Japanese",
+    "Tamil",
+    "Telugu"
+  ],
+  "synopsis": "Robai Private Academy is a well-known girls’ junior high school in the countryside. Komichi Akebi is a girl who, for a certain reason, has dreamed of wearing a Robai Academy sailor uniform. Her dream comes true, and her heart races as the day of the school entrance ceremony arrives. With her heart set on her new sailor uniform, Komichi embarks on the junior high school life of her dreams. Komichi dashes headlong through days full of “firsts”—classmates, school lunches, club activities, and more—in this sparkling diary of girlhood. “I hope I can make a lot of friends.”",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "The Sailor Uniform I Always Wanted",
+          "id": "episode/akebis-sailor-uniform-1x1",
+          "image": "https://img.watchanimeworld.one/img/thumb_296_s1e1.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "See You Tomorrow",
+          "id": "episode/akebis-sailor-uniform-1x2",
+          "image": "https://img.watchanimeworld.one/img/thumb_296_s1e2.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "Have You Decided on a Club?",
+          "id": "episode/akebis-sailor-uniform-1x3",
+          "image": "https://img.watchanimeworld.one/img/thumb_296_s1e3.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "My Image?",
+          "id": "episode/akebis-sailor-uniform-1x4",
+          "image": "https://img.watchanimeworld.one/img/thumb_296_s1e4.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "I Want to Learn Lots",
+          "id": "episode/akebis-sailor-uniform-1x5",
+          "image": "https://img.watchanimeworld.one/img/thumb_296_s1e5.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "There's No School Tomorrow, Right?",
+          "id": "episode/akebis-sailor-uniform-1x6",
+          "image": "https://img.watchanimeworld.one/img/thumb_296_s1e6.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "Please Let Me Hear It",
+          "id": "episode/akebis-sailor-uniform-1x7",
+          "image": "https://img.watchanimeworld.one/img/thumb_296_s1e7.webp",
+          "season": 1
+        },
+        {
+          "episode": 8,
+          "title": "I Want to Win Next Time",
+          "id": "episode/akebis-sailor-uniform-1x8",
+          "image": "https://img.watchanimeworld.one/img/thumb_296_s1e8.webp",
+          "season": 1
+        },
+        {
+          "episode": 9,
+          "title": "Ready... Up!",
+          "id": "episode/akebis-sailor-uniform-1x9",
+          "image": "https://img.watchanimeworld.one/img/thumb_296_s1e9.webp",
+          "season": 1
+        },
+        {
+          "episode": 10,
+          "title": "Fight On! Fight On!",
+          "id": "episode/akebis-sailor-uniform-1x10",
+          "image": "https://img.watchanimeworld.one/img/thumb_296_s1e10.webp",
+          "season": 1
+        },
+        {
+          "episode": 11,
+          "title": "Sharing This Time... With Everyone..",
+          "id": "episode/akebis-sailor-uniform-1x11",
+          "image": "https://img.watchanimeworld.one/img/thumb_296_s1e11.webp",
+          "season": 1
+        },
+        {
+          "episode": 12,
+          "title": "I'm Not Alone",
+          "id": "episode/akebis-sailor-uniform-1x12",
+          "image": "https://img.watchanimeworld.one/img/thumb_296_s1e12.webp",
+          "season": 1
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/akebis-sailor-uniform-1x3",
+      "episode_id": "episode/akebis-sailor-uniform-1x3",
+      "title": "The Sailor Uniform I Always Wanted",
+      "episode_name": "The Sailor Uniform I Always Wanted",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_296_s1e3.webp",
+      "abyssid": "7912",
+      "abyssId": "7912",
+      "playxid": "735475d64a23bbf3e94a5c49c5749349",
+      "playXID": "735475d64a23bbf3e94a5c49c5749349",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "7912",
+        "playXID": "735475d64a23bbf3e94a5c49c5749349",
+        "streamId": "7912",
+        "dubPlayerSrc": "/dub-player/t/7912/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=735475d64a23bbf3e94a5c49c5749349&abyssId=7912"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "7912",
+        "playXID": "735475d64a23bbf3e94a5c49c5749349",
+        "streamId": "7912",
+        "dubPlayerSrc": "/dub-player/t/7912/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=735475d64a23bbf3e94a5c49c5749349&abyssId=7912"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/735475d64a23bbf3e94a5c49c5749349",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/735475d64a23bbf3e94a5c49c5749349"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "7912",
+        "abyssId": "7912",
+        "playXID": "735475d64a23bbf3e94a5c49c5749349",
+        "title": "Akebi's Sailor Uniform",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "bnR4qX6RW"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "_xkDN4wsR6"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "BgF34rh_V"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "umQqTfNX0"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "fQ5eXvyzO"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/0fdf9173abb524e9b17152f2ed7539c5/master.m3u8?md5=ZymMbPy5gbr74BwWwDFtiA&expires=1792167486",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/0fdf9173abb524e9b17152f2ed7539c5/master.m3u8?md5=ZymMbPy5gbr74BwWwDFtiA&expires=1792167486",
+            "videoSource": "https://ravok.buzz/cdn/hls/0fdf9173abb524e9b17152f2ed7539c5/master.m3u8?md5=ZymMbPy5gbr74BwWwDFtiA&expires=1792167486",
+            "videoImage": "https://as-cdn31.top/p/vnHdl-ovzuUiawKHx-FufCZaUpjYwc8pcczJxACDTR71RXJURdeCN-eCXskYPIA1lI5P2QVJtbTovSDoSAvuvQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "735475d64a23bbf3e94a5c49c5749349",
+                "streamUrl": "https://ravok.buzz/cdn/hls/0fdf9173abb524e9b17152f2ed7539c5/master.m3u8?md5=ZymMbPy5gbr74BwWwDFtiA&expires=1792167486",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/0fdf9173abb524e9b17152f2ed7539c5/master.m3u8?md5=ZymMbPy5gbr74BwWwDFtiA&expires=1792167486",
+                "videoSource": "https://ravok.buzz/cdn/hls/0fdf9173abb524e9b17152f2ed7539c5/master.m3u8?md5=ZymMbPy5gbr74BwWwDFtiA&expires=1792167486",
+                "link": "https://ravok.buzz/cdn/hls/0fdf9173abb524e9b17152f2ed7539c5/master.m3u8?md5=ZymMbPy5gbr74BwWwDFtiA&expires=1792167486",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/vnHdl-ovzuUiawKHx-FufCZaUpjYwc8pcczJxACDTR71RXJURdeCN-eCXskYPIA1lI5P2QVJtbTovSDoSAvuvQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "bnR4qX6RW"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:16Z"
+    },
+    {
+      "id": "episode/akebis-sailor-uniform-1x5",
+      "episode_id": "episode/akebis-sailor-uniform-1x5",
+      "title": "The Sailor Uniform I Always Wanted",
+      "episode_name": "The Sailor Uniform I Always Wanted",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_296_s1e5.webp",
+      "abyssid": "7914",
+      "abyssId": "7914",
+      "playxid": "6c880a6dcc8d00284516ecd4d8c35e18",
+      "playXID": "6c880a6dcc8d00284516ecd4d8c35e18",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "7914",
+        "playXID": "6c880a6dcc8d00284516ecd4d8c35e18",
+        "streamId": "7914",
+        "dubPlayerSrc": "/dub-player/t/7914/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6c880a6dcc8d00284516ecd4d8c35e18&abyssId=7914"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "7914",
+        "playXID": "6c880a6dcc8d00284516ecd4d8c35e18",
+        "streamId": "7914",
+        "dubPlayerSrc": "/dub-player/t/7914/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6c880a6dcc8d00284516ecd4d8c35e18&abyssId=7914"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/6c880a6dcc8d00284516ecd4d8c35e18",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/6c880a6dcc8d00284516ecd4d8c35e18"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "7914",
+        "abyssId": "7914",
+        "playXID": "6c880a6dcc8d00284516ecd4d8c35e18",
+        "title": "Akebi's Sailor Uniform",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "gOnCRc2PS"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "3u5SR1RwA"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "Q2U-n-9OO"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "lYO_iaYCL"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "inbLWttzY"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/b3d884939385c389430f586b927fc840/master.m3u8?md5=3DQYbizKuT4OEOznY6uwyQ&expires=1792167486",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/b3d884939385c389430f586b927fc840/master.m3u8?md5=3DQYbizKuT4OEOznY6uwyQ&expires=1792167486",
+            "videoSource": "https://ravok.buzz/cdn/hls/b3d884939385c389430f586b927fc840/master.m3u8?md5=3DQYbizKuT4OEOznY6uwyQ&expires=1792167486",
+            "videoImage": "https://as-cdn28.top/p/WLYEitcNS0_mzJ-VZnkSm6RLPAoi4peu_NdKIu83CNUaNQtEJrIuRuDyfbnZNFKXvNWz-e2sZ1LgeHHULYT8fw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "6c880a6dcc8d00284516ecd4d8c35e18",
+                "streamUrl": "https://ravok.buzz/cdn/hls/b3d884939385c389430f586b927fc840/master.m3u8?md5=3DQYbizKuT4OEOznY6uwyQ&expires=1792167486",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/b3d884939385c389430f586b927fc840/master.m3u8?md5=3DQYbizKuT4OEOznY6uwyQ&expires=1792167486",
+                "videoSource": "https://ravok.buzz/cdn/hls/b3d884939385c389430f586b927fc840/master.m3u8?md5=3DQYbizKuT4OEOznY6uwyQ&expires=1792167486",
+                "link": "https://ravok.buzz/cdn/hls/b3d884939385c389430f586b927fc840/master.m3u8?md5=3DQYbizKuT4OEOznY6uwyQ&expires=1792167486",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/WLYEitcNS0_mzJ-VZnkSm6RLPAoi4peu_NdKIu83CNUaNQtEJrIuRuDyfbnZNFKXvNWz-e2sZ1LgeHHULYT8fw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "gOnCRc2PS"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:16Z"
+    },
+    {
+      "id": "episode/akebis-sailor-uniform-1x1",
+      "episode_id": "episode/akebis-sailor-uniform-1x1",
+      "title": "The Sailor Uniform I Always Wanted",
+      "episode_name": "The Sailor Uniform I Always Wanted",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_296_s1e1.webp",
+      "abyssid": "7910",
+      "abyssId": "7910",
+      "playxid": "e634049c03e28b417afb5c6eba635b4a",
+      "playXID": "e634049c03e28b417afb5c6eba635b4a",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "7910",
+        "playXID": "e634049c03e28b417afb5c6eba635b4a",
+        "streamId": "7910",
+        "dubPlayerSrc": "/dub-player/t/7910/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e634049c03e28b417afb5c6eba635b4a&abyssId=7910"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "7910",
+        "playXID": "e634049c03e28b417afb5c6eba635b4a",
+        "streamId": "7910",
+        "dubPlayerSrc": "/dub-player/t/7910/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e634049c03e28b417afb5c6eba635b4a&abyssId=7910"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/e634049c03e28b417afb5c6eba635b4a",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/e634049c03e28b417afb5c6eba635b4a"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "7910",
+        "abyssId": "7910",
+        "playXID": "e634049c03e28b417afb5c6eba635b4a",
+        "title": "Akebi's Sailor Uniform",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "PS7N6lXMS"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "6ktjONegZ"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "ZW1bzrCHGn"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "bk1Nn3Q4e"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "tnTuVETP4"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/a6530161298f0b4063dd2940be2e7851/master.m3u8?md5=Nu7p_2gpwQ-6IBx6SArteA&expires=1792167486",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/a6530161298f0b4063dd2940be2e7851/master.m3u8?md5=Nu7p_2gpwQ-6IBx6SArteA&expires=1792167486",
+            "videoSource": "https://ravok.buzz/cdn/hls/a6530161298f0b4063dd2940be2e7851/master.m3u8?md5=Nu7p_2gpwQ-6IBx6SArteA&expires=1792167486",
+            "videoImage": "https://as-cdn28.top/p/ZQ4eeVGhwLMUVznvgR0AgDfrqE8wHlFQdn8BoY4i9Ro48-tVU4jk7iCNEtGegMw-zpdeMohit27XvH4k4Hs1kg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "e634049c03e28b417afb5c6eba635b4a",
+                "streamUrl": "https://ravok.buzz/cdn/hls/a6530161298f0b4063dd2940be2e7851/master.m3u8?md5=Nu7p_2gpwQ-6IBx6SArteA&expires=1792167486",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/a6530161298f0b4063dd2940be2e7851/master.m3u8?md5=Nu7p_2gpwQ-6IBx6SArteA&expires=1792167486",
+                "videoSource": "https://ravok.buzz/cdn/hls/a6530161298f0b4063dd2940be2e7851/master.m3u8?md5=Nu7p_2gpwQ-6IBx6SArteA&expires=1792167486",
+                "link": "https://ravok.buzz/cdn/hls/a6530161298f0b4063dd2940be2e7851/master.m3u8?md5=Nu7p_2gpwQ-6IBx6SArteA&expires=1792167486",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/ZQ4eeVGhwLMUVznvgR0AgDfrqE8wHlFQdn8BoY4i9Ro48-tVU4jk7iCNEtGegMw-zpdeMohit27XvH4k4Hs1kg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "PS7N6lXMS"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:16Z"
+    },
+    {
+      "id": "episode/akebis-sailor-uniform-1x4",
+      "episode_id": "episode/akebis-sailor-uniform-1x4",
+      "title": "The Sailor Uniform I Always Wanted",
+      "episode_name": "The Sailor Uniform I Always Wanted",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_296_s1e4.webp",
+      "abyssid": "7913",
+      "abyssId": "7913",
+      "playxid": "8914ffd4d04a8aabc106672929f0a16b",
+      "playXID": "8914ffd4d04a8aabc106672929f0a16b",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "7913",
+        "playXID": "8914ffd4d04a8aabc106672929f0a16b",
+        "streamId": "7913",
+        "dubPlayerSrc": "/dub-player/t/7913/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8914ffd4d04a8aabc106672929f0a16b&abyssId=7913"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "7913",
+        "playXID": "8914ffd4d04a8aabc106672929f0a16b",
+        "streamId": "7913",
+        "dubPlayerSrc": "/dub-player/t/7913/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8914ffd4d04a8aabc106672929f0a16b&abyssId=7913"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/8914ffd4d04a8aabc106672929f0a16b",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/8914ffd4d04a8aabc106672929f0a16b"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "7913",
+        "abyssId": "7913",
+        "playXID": "8914ffd4d04a8aabc106672929f0a16b",
+        "title": "Akebi's Sailor Uniform",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "-TUuBCHrG"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "yAwinl6XZl"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "MNzkb85GT"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "35xmudllb"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "P2j148sBg"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/22509ca2a226c715bdab619d74204a23/master.m3u8?md5=lfglopIN4YV5dKyzJw--pg&expires=1792167486",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/22509ca2a226c715bdab619d74204a23/master.m3u8?md5=lfglopIN4YV5dKyzJw--pg&expires=1792167486",
+            "videoSource": "https://ravok.buzz/cdn/hls/22509ca2a226c715bdab619d74204a23/master.m3u8?md5=lfglopIN4YV5dKyzJw--pg&expires=1792167486",
+            "videoImage": "https://as-cdn30.top/p/sMDiREoe1xSe1mCxFXRljDybpiBOZ4jS95YH0Pbpt32Vd6wyNib9HFl3ONFryUGFiSdVPqszHvYtergBzHUdPw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "8914ffd4d04a8aabc106672929f0a16b",
+                "streamUrl": "https://ravok.buzz/cdn/hls/22509ca2a226c715bdab619d74204a23/master.m3u8?md5=lfglopIN4YV5dKyzJw--pg&expires=1792167486",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/22509ca2a226c715bdab619d74204a23/master.m3u8?md5=lfglopIN4YV5dKyzJw--pg&expires=1792167486",
+                "videoSource": "https://ravok.buzz/cdn/hls/22509ca2a226c715bdab619d74204a23/master.m3u8?md5=lfglopIN4YV5dKyzJw--pg&expires=1792167486",
+                "link": "https://ravok.buzz/cdn/hls/22509ca2a226c715bdab619d74204a23/master.m3u8?md5=lfglopIN4YV5dKyzJw--pg&expires=1792167486",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/sMDiREoe1xSe1mCxFXRljDybpiBOZ4jS95YH0Pbpt32Vd6wyNib9HFl3ONFryUGFiSdVPqszHvYtergBzHUdPw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "-TUuBCHrG"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:16Z"
+    },
+    {
+      "id": "episode/akebis-sailor-uniform-1x2",
+      "episode_id": "episode/akebis-sailor-uniform-1x2",
+      "title": "The Sailor Uniform I Always Wanted",
+      "episode_name": "The Sailor Uniform I Always Wanted",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_296_s1e2.webp",
+      "abyssid": "7911",
+      "abyssId": "7911",
+      "playxid": "292065eda399bc70b6714a2f4915e413",
+      "playXID": "292065eda399bc70b6714a2f4915e413",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "7911",
+        "playXID": "292065eda399bc70b6714a2f4915e413",
+        "streamId": "7911",
+        "dubPlayerSrc": "/dub-player/t/7911/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=292065eda399bc70b6714a2f4915e413&abyssId=7911"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "7911",
+        "playXID": "292065eda399bc70b6714a2f4915e413",
+        "streamId": "7911",
+        "dubPlayerSrc": "/dub-player/t/7911/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=292065eda399bc70b6714a2f4915e413&abyssId=7911"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/292065eda399bc70b6714a2f4915e413",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/292065eda399bc70b6714a2f4915e413"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "7911",
+        "abyssId": "7911",
+        "playXID": "292065eda399bc70b6714a2f4915e413",
+        "title": "Akebi's Sailor Uniform",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "V2I8kVcdZ"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "cSP0YQYyB"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "L5xFY9eHp"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "l_q-usErs"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "Blh6LbTSn"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/00cb5f49fa88e775ff6b68f0268ca2f5/master.m3u8?md5=h0fZBSZBOniEmQy3lq5bWg&expires=1792167486",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/00cb5f49fa88e775ff6b68f0268ca2f5/master.m3u8?md5=h0fZBSZBOniEmQy3lq5bWg&expires=1792167486",
+            "videoSource": "https://ravok.buzz/cdn/hls/00cb5f49fa88e775ff6b68f0268ca2f5/master.m3u8?md5=h0fZBSZBOniEmQy3lq5bWg&expires=1792167486",
+            "videoImage": "https://as-cdn29.top/p/KarzWbjL2gAKtC4jTbPqPg7Wfxz9OwFD0gkV_7BzpOkPuKAGTY4pPI8LNViihHdAHhZYAN5vraB2C2GL-URp8A.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "292065eda399bc70b6714a2f4915e413",
+                "streamUrl": "https://ravok.buzz/cdn/hls/00cb5f49fa88e775ff6b68f0268ca2f5/master.m3u8?md5=h0fZBSZBOniEmQy3lq5bWg&expires=1792167486",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/00cb5f49fa88e775ff6b68f0268ca2f5/master.m3u8?md5=h0fZBSZBOniEmQy3lq5bWg&expires=1792167486",
+                "videoSource": "https://ravok.buzz/cdn/hls/00cb5f49fa88e775ff6b68f0268ca2f5/master.m3u8?md5=h0fZBSZBOniEmQy3lq5bWg&expires=1792167486",
+                "link": "https://ravok.buzz/cdn/hls/00cb5f49fa88e775ff6b68f0268ca2f5/master.m3u8?md5=h0fZBSZBOniEmQy3lq5bWg&expires=1792167486",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/KarzWbjL2gAKtC4jTbPqPg7Wfxz9OwFD0gkV_7BzpOkPuKAGTY4pPI8LNViihHdAHhZYAN5vraB2C2GL-URp8A.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "V2I8kVcdZ"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:16Z"
+    },
+    {
+      "id": "episode/akebis-sailor-uniform-1x6",
+      "episode_id": "episode/akebis-sailor-uniform-1x6",
+      "title": "The Sailor Uniform I Always Wanted",
+      "episode_name": "The Sailor Uniform I Always Wanted",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_296_s1e6.webp",
+      "abyssid": "7915",
+      "abyssId": "7915",
+      "playxid": "8576d5a526fe75112fee46cc3a77e927",
+      "playXID": "8576d5a526fe75112fee46cc3a77e927",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "7915",
+        "playXID": "8576d5a526fe75112fee46cc3a77e927",
+        "streamId": "7915",
+        "dubPlayerSrc": "/dub-player/t/7915/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8576d5a526fe75112fee46cc3a77e927&abyssId=7915"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "7915",
+        "playXID": "8576d5a526fe75112fee46cc3a77e927",
+        "streamId": "7915",
+        "dubPlayerSrc": "/dub-player/t/7915/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8576d5a526fe75112fee46cc3a77e927&abyssId=7915"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/8576d5a526fe75112fee46cc3a77e927",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/8576d5a526fe75112fee46cc3a77e927"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "7915",
+        "abyssId": "7915",
+        "playXID": "8576d5a526fe75112fee46cc3a77e927",
+        "title": "Akebi's Sailor Uniform",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "R7-OX4fu9"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "95oHVm18W"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "J439BUOKE"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "Tj2F9X9O2"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "hQLZCjJOV"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/47a9aecc898c5bdb9067cbe8d6f504ad/master.m3u8?md5=49dHA_BNM-dbIKQQdwbClw&expires=1792167488",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/47a9aecc898c5bdb9067cbe8d6f504ad/master.m3u8?md5=49dHA_BNM-dbIKQQdwbClw&expires=1792167488",
+            "videoSource": "https://ravok.buzz/cdn/hls/47a9aecc898c5bdb9067cbe8d6f504ad/master.m3u8?md5=49dHA_BNM-dbIKQQdwbClw&expires=1792167488",
+            "videoImage": "https://as-cdn29.top/p/GWEJjwAot8YAX5AByZrmDUhoQnBm5Hwl-cCSkW594KtVeUgC0LLlm92WVM59a0SehQDrrz8VJCSfyR-PTiWH_A.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "8576d5a526fe75112fee46cc3a77e927",
+                "streamUrl": "https://ravok.buzz/cdn/hls/47a9aecc898c5bdb9067cbe8d6f504ad/master.m3u8?md5=49dHA_BNM-dbIKQQdwbClw&expires=1792167488",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/47a9aecc898c5bdb9067cbe8d6f504ad/master.m3u8?md5=49dHA_BNM-dbIKQQdwbClw&expires=1792167488",
+                "videoSource": "https://ravok.buzz/cdn/hls/47a9aecc898c5bdb9067cbe8d6f504ad/master.m3u8?md5=49dHA_BNM-dbIKQQdwbClw&expires=1792167488",
+                "link": "https://ravok.buzz/cdn/hls/47a9aecc898c5bdb9067cbe8d6f504ad/master.m3u8?md5=49dHA_BNM-dbIKQQdwbClw&expires=1792167488",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/GWEJjwAot8YAX5AByZrmDUhoQnBm5Hwl-cCSkW594KtVeUgC0LLlm92WVM59a0SehQDrrz8VJCSfyR-PTiWH_A.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "R7-OX4fu9"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:18Z"
+    },
+    {
+      "id": "episode/akebis-sailor-uniform-1x7",
+      "episode_id": "episode/akebis-sailor-uniform-1x7",
+      "title": "The Sailor Uniform I Always Wanted",
+      "episode_name": "The Sailor Uniform I Always Wanted",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_296_s1e7.webp",
+      "abyssid": "7916",
+      "abyssId": "7916",
+      "playxid": "9ef7f0360a59458d3fc8146ac7df4c71",
+      "playXID": "9ef7f0360a59458d3fc8146ac7df4c71",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "7916",
+        "playXID": "9ef7f0360a59458d3fc8146ac7df4c71",
+        "streamId": "7916",
+        "dubPlayerSrc": "/dub-player/t/7916/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9ef7f0360a59458d3fc8146ac7df4c71&abyssId=7916"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "7916",
+        "playXID": "9ef7f0360a59458d3fc8146ac7df4c71",
+        "streamId": "7916",
+        "dubPlayerSrc": "/dub-player/t/7916/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9ef7f0360a59458d3fc8146ac7df4c71&abyssId=7916"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/9ef7f0360a59458d3fc8146ac7df4c71",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/9ef7f0360a59458d3fc8146ac7df4c71"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "7916",
+        "abyssId": "7916",
+        "playXID": "9ef7f0360a59458d3fc8146ac7df4c71",
+        "title": "Akebi's Sailor Uniform",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "8AvwKrTOg-"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "N0Bcnkewh"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "819FRIXXj"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "aYdT0D47j"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "rqfM69SJP"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/012cf5b96a49b19dad7cec308994840b/master.m3u8?md5=zbgwOeWJyFtXeQa7NEMQyQ&expires=1792167488",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/012cf5b96a49b19dad7cec308994840b/master.m3u8?md5=zbgwOeWJyFtXeQa7NEMQyQ&expires=1792167488",
+            "videoSource": "https://ravok.buzz/cdn/hls/012cf5b96a49b19dad7cec308994840b/master.m3u8?md5=zbgwOeWJyFtXeQa7NEMQyQ&expires=1792167488",
+            "videoImage": "https://as-cdn28.top/p/qOvGw0ks6agyjIRpyUSXrqOvdLfarQ9bh6dAsvoTT8WyYyRiZQx3xxw5cCQouDF5IHoV517rvLcilgnxNSkAVA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "9ef7f0360a59458d3fc8146ac7df4c71",
+                "streamUrl": "https://ravok.buzz/cdn/hls/012cf5b96a49b19dad7cec308994840b/master.m3u8?md5=zbgwOeWJyFtXeQa7NEMQyQ&expires=1792167488",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/012cf5b96a49b19dad7cec308994840b/master.m3u8?md5=zbgwOeWJyFtXeQa7NEMQyQ&expires=1792167488",
+                "videoSource": "https://ravok.buzz/cdn/hls/012cf5b96a49b19dad7cec308994840b/master.m3u8?md5=zbgwOeWJyFtXeQa7NEMQyQ&expires=1792167488",
+                "link": "https://ravok.buzz/cdn/hls/012cf5b96a49b19dad7cec308994840b/master.m3u8?md5=zbgwOeWJyFtXeQa7NEMQyQ&expires=1792167488",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/qOvGw0ks6agyjIRpyUSXrqOvdLfarQ9bh6dAsvoTT8WyYyRiZQx3xxw5cCQouDF5IHoV517rvLcilgnxNSkAVA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "8AvwKrTOg-"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:18Z"
+    },
+    {
+      "id": "episode/akebis-sailor-uniform-1x8",
+      "episode_id": "episode/akebis-sailor-uniform-1x8",
+      "title": "The Sailor Uniform I Always Wanted",
+      "episode_name": "The Sailor Uniform I Always Wanted",
+      "episode_number": 8,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_296_s1e8.webp",
+      "abyssid": "7917",
+      "abyssId": "7917",
+      "playxid": "a44e2cf4330786124defe8c615147077",
+      "playXID": "a44e2cf4330786124defe8c615147077",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "7917",
+        "playXID": "a44e2cf4330786124defe8c615147077",
+        "streamId": "7917",
+        "dubPlayerSrc": "/dub-player/t/7917/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a44e2cf4330786124defe8c615147077&abyssId=7917"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "7917",
+        "playXID": "a44e2cf4330786124defe8c615147077",
+        "streamId": "7917",
+        "dubPlayerSrc": "/dub-player/t/7917/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a44e2cf4330786124defe8c615147077&abyssId=7917"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/a44e2cf4330786124defe8c615147077",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/a44e2cf4330786124defe8c615147077"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "7917",
+        "abyssId": "7917",
+        "playXID": "a44e2cf4330786124defe8c615147077",
+        "title": "Akebi's Sailor Uniform",
+        "season": 1,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "G8AZNAujM"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "KJeAXeQWH"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "LQA8VuZ-I"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "56wJ_sEt4"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "oNygItw2G"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/f85739143c85ebb167cd50cdc6728701/master.m3u8?md5=UWp0UWG8zW2duqh_RW-RaA&expires=1792167488",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/f85739143c85ebb167cd50cdc6728701/master.m3u8?md5=UWp0UWG8zW2duqh_RW-RaA&expires=1792167488",
+            "videoSource": "https://ravok.buzz/cdn/hls/f85739143c85ebb167cd50cdc6728701/master.m3u8?md5=UWp0UWG8zW2duqh_RW-RaA&expires=1792167488",
+            "videoImage": "https://as-cdn31.top/p/Lumvtdh_6iErgIyWf52QYLM5KqNMpmJWkN-j4TIUADPeCQqqmWp-owE-HD3rBd8ndWaQaD_RegHIfCEz6AkhKg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "a44e2cf4330786124defe8c615147077",
+                "streamUrl": "https://ravok.buzz/cdn/hls/f85739143c85ebb167cd50cdc6728701/master.m3u8?md5=UWp0UWG8zW2duqh_RW-RaA&expires=1792167488",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/f85739143c85ebb167cd50cdc6728701/master.m3u8?md5=UWp0UWG8zW2duqh_RW-RaA&expires=1792167488",
+                "videoSource": "https://ravok.buzz/cdn/hls/f85739143c85ebb167cd50cdc6728701/master.m3u8?md5=UWp0UWG8zW2duqh_RW-RaA&expires=1792167488",
+                "link": "https://ravok.buzz/cdn/hls/f85739143c85ebb167cd50cdc6728701/master.m3u8?md5=UWp0UWG8zW2duqh_RW-RaA&expires=1792167488",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/Lumvtdh_6iErgIyWf52QYLM5KqNMpmJWkN-j4TIUADPeCQqqmWp-owE-HD3rBd8ndWaQaD_RegHIfCEz6AkhKg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "G8AZNAujM"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:18Z"
+    },
+    {
+      "id": "episode/akebis-sailor-uniform-1x9",
+      "episode_id": "episode/akebis-sailor-uniform-1x9",
+      "title": "The Sailor Uniform I Always Wanted",
+      "episode_name": "The Sailor Uniform I Always Wanted",
+      "episode_number": 9,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_296_s1e9.webp",
+      "abyssid": "7918",
+      "abyssId": "7918",
+      "playxid": "abae4fa50fab94b30315453f4c8833fc",
+      "playXID": "abae4fa50fab94b30315453f4c8833fc",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "7918",
+        "playXID": "abae4fa50fab94b30315453f4c8833fc",
+        "streamId": "7918",
+        "dubPlayerSrc": "/dub-player/t/7918/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=abae4fa50fab94b30315453f4c8833fc&abyssId=7918"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "7918",
+        "playXID": "abae4fa50fab94b30315453f4c8833fc",
+        "streamId": "7918",
+        "dubPlayerSrc": "/dub-player/t/7918/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=abae4fa50fab94b30315453f4c8833fc&abyssId=7918"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/abae4fa50fab94b30315453f4c8833fc",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/abae4fa50fab94b30315453f4c8833fc"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "7918",
+        "abyssId": "7918",
+        "playXID": "abae4fa50fab94b30315453f4c8833fc",
+        "title": "Akebi's Sailor Uniform",
+        "season": 1,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "OJmmc6Dtv"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "K5edkgusBV"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "NEO6drTUB"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "J_0AYJNOb"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "1K7_uNuka"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/1960cdbb6d3ec225928575e2a9828346/master.m3u8?md5=5BEsYJDlOyLpzoQCR2SN5A&expires=1792167489",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/1960cdbb6d3ec225928575e2a9828346/master.m3u8?md5=5BEsYJDlOyLpzoQCR2SN5A&expires=1792167489",
+            "videoSource": "https://ravok.buzz/cdn/hls/1960cdbb6d3ec225928575e2a9828346/master.m3u8?md5=5BEsYJDlOyLpzoQCR2SN5A&expires=1792167489",
+            "videoImage": "https://as-cdn27.top/p/lQm318aR3VJyoStkNp_sFhWgfK3GihE6dSLmrdZE9yvUHVm6Pj1QcRv4DDxKtyl-XDwNqNxu9l2bQxwm3MwN3w.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "abae4fa50fab94b30315453f4c8833fc",
+                "streamUrl": "https://ravok.buzz/cdn/hls/1960cdbb6d3ec225928575e2a9828346/master.m3u8?md5=5BEsYJDlOyLpzoQCR2SN5A&expires=1792167489",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/1960cdbb6d3ec225928575e2a9828346/master.m3u8?md5=5BEsYJDlOyLpzoQCR2SN5A&expires=1792167489",
+                "videoSource": "https://ravok.buzz/cdn/hls/1960cdbb6d3ec225928575e2a9828346/master.m3u8?md5=5BEsYJDlOyLpzoQCR2SN5A&expires=1792167489",
+                "link": "https://ravok.buzz/cdn/hls/1960cdbb6d3ec225928575e2a9828346/master.m3u8?md5=5BEsYJDlOyLpzoQCR2SN5A&expires=1792167489",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/lQm318aR3VJyoStkNp_sFhWgfK3GihE6dSLmrdZE9yvUHVm6Pj1QcRv4DDxKtyl-XDwNqNxu9l2bQxwm3MwN3w.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "OJmmc6Dtv"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:18Z"
+    },
+    {
+      "id": "episode/akebis-sailor-uniform-1x10",
+      "episode_id": "episode/akebis-sailor-uniform-1x10",
+      "title": "The Sailor Uniform I Always Wanted",
+      "episode_name": "The Sailor Uniform I Always Wanted",
+      "episode_number": 10,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_296_s1e10.webp",
+      "abyssid": "7919",
+      "abyssId": "7919",
+      "playxid": "4d313014289733d0243aaf733ebb4ba3",
+      "playXID": "4d313014289733d0243aaf733ebb4ba3",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "7919",
+        "playXID": "4d313014289733d0243aaf733ebb4ba3",
+        "streamId": "7919",
+        "dubPlayerSrc": "/dub-player/t/7919/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=4d313014289733d0243aaf733ebb4ba3&abyssId=7919"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "7919",
+        "playXID": "4d313014289733d0243aaf733ebb4ba3",
+        "streamId": "7919",
+        "dubPlayerSrc": "/dub-player/t/7919/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=4d313014289733d0243aaf733ebb4ba3&abyssId=7919"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/4d313014289733d0243aaf733ebb4ba3",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/4d313014289733d0243aaf733ebb4ba3"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "7919",
+        "abyssId": "7919",
+        "playXID": "4d313014289733d0243aaf733ebb4ba3",
+        "title": "Akebi's Sailor Uniform",
+        "season": 1,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "zE7GO2z9y"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "D1CANpPpl"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "AMoQbmL3_x"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "thXP0g8KI"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "D2oSpeG_v"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/267945a81c5c6b04283b4d51dc50f224/master.m3u8?md5=Yzeey5elEsAjCXOZnvkCrA&expires=1792167489",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/267945a81c5c6b04283b4d51dc50f224/master.m3u8?md5=Yzeey5elEsAjCXOZnvkCrA&expires=1792167489",
+            "videoSource": "https://ravok.buzz/cdn/hls/267945a81c5c6b04283b4d51dc50f224/master.m3u8?md5=Yzeey5elEsAjCXOZnvkCrA&expires=1792167489",
+            "videoImage": "https://as-cdn31.top/p/xFtaUM1SAsHDte6QwcmkXWbItZcmpFdgHyAZGf5XJqh5zLZpLnHB5D5QLV95kKH_eCsnuMZiWo6QuWyWE4A4hA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "4d313014289733d0243aaf733ebb4ba3",
+                "streamUrl": "https://ravok.buzz/cdn/hls/267945a81c5c6b04283b4d51dc50f224/master.m3u8?md5=Yzeey5elEsAjCXOZnvkCrA&expires=1792167489",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/267945a81c5c6b04283b4d51dc50f224/master.m3u8?md5=Yzeey5elEsAjCXOZnvkCrA&expires=1792167489",
+                "videoSource": "https://ravok.buzz/cdn/hls/267945a81c5c6b04283b4d51dc50f224/master.m3u8?md5=Yzeey5elEsAjCXOZnvkCrA&expires=1792167489",
+                "link": "https://ravok.buzz/cdn/hls/267945a81c5c6b04283b4d51dc50f224/master.m3u8?md5=Yzeey5elEsAjCXOZnvkCrA&expires=1792167489",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/xFtaUM1SAsHDte6QwcmkXWbItZcmpFdgHyAZGf5XJqh5zLZpLnHB5D5QLV95kKH_eCsnuMZiWo6QuWyWE4A4hA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "zE7GO2z9y"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:19Z"
+    },
+    {
+      "id": "episode/akebis-sailor-uniform-1x11",
+      "episode_id": "episode/akebis-sailor-uniform-1x11",
+      "title": "The Sailor Uniform I Always Wanted",
+      "episode_name": "The Sailor Uniform I Always Wanted",
+      "episode_number": 11,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_296_s1e11.webp",
+      "abyssid": "7920",
+      "abyssId": "7920",
+      "playxid": "160994f39d798d2894a3f0a756ecb6b5",
+      "playXID": "160994f39d798d2894a3f0a756ecb6b5",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "7920",
+        "playXID": "160994f39d798d2894a3f0a756ecb6b5",
+        "streamId": "7920",
+        "dubPlayerSrc": "/dub-player/t/7920/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=160994f39d798d2894a3f0a756ecb6b5&abyssId=7920"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "7920",
+        "playXID": "160994f39d798d2894a3f0a756ecb6b5",
+        "streamId": "7920",
+        "dubPlayerSrc": "/dub-player/t/7920/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=160994f39d798d2894a3f0a756ecb6b5&abyssId=7920"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/160994f39d798d2894a3f0a756ecb6b5",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/160994f39d798d2894a3f0a756ecb6b5"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "7920",
+        "abyssId": "7920",
+        "playXID": "160994f39d798d2894a3f0a756ecb6b5",
+        "title": "Akebi's Sailor Uniform",
+        "season": 1,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "faVYTB8vM"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "6zkAcV_NK"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "MfcQrZsnM"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "qLGdVdIXW"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "lQ-y5fT0d"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/00432add7e0cd93170bd9a1954b4118c/master.m3u8?md5=L_h4-sRdK6tk6V3EumaqJQ&expires=1792167490",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/00432add7e0cd93170bd9a1954b4118c/master.m3u8?md5=L_h4-sRdK6tk6V3EumaqJQ&expires=1792167490",
+            "videoSource": "https://ravok.buzz/cdn/hls/00432add7e0cd93170bd9a1954b4118c/master.m3u8?md5=L_h4-sRdK6tk6V3EumaqJQ&expires=1792167490",
+            "videoImage": "https://as-cdn27.top/p/AwV-sxKUBvIt4E-wFU704vpUsL_B3JDNCiwysluoQS0GxRIxsCDHX6IKMcXFLcfCY3_SAwDDzqSXNXgU2WaG2g.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "160994f39d798d2894a3f0a756ecb6b5",
+                "streamUrl": "https://ravok.buzz/cdn/hls/00432add7e0cd93170bd9a1954b4118c/master.m3u8?md5=L_h4-sRdK6tk6V3EumaqJQ&expires=1792167490",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/00432add7e0cd93170bd9a1954b4118c/master.m3u8?md5=L_h4-sRdK6tk6V3EumaqJQ&expires=1792167490",
+                "videoSource": "https://ravok.buzz/cdn/hls/00432add7e0cd93170bd9a1954b4118c/master.m3u8?md5=L_h4-sRdK6tk6V3EumaqJQ&expires=1792167490",
+                "link": "https://ravok.buzz/cdn/hls/00432add7e0cd93170bd9a1954b4118c/master.m3u8?md5=L_h4-sRdK6tk6V3EumaqJQ&expires=1792167490",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/AwV-sxKUBvIt4E-wFU704vpUsL_B3JDNCiwysluoQS0GxRIxsCDHX6IKMcXFLcfCY3_SAwDDzqSXNXgU2WaG2g.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "faVYTB8vM"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:20Z"
+    },
+    {
+      "id": "episode/akebis-sailor-uniform-1x12",
+      "episode_id": "episode/akebis-sailor-uniform-1x12",
+      "title": "The Sailor Uniform I Always Wanted",
+      "episode_name": "The Sailor Uniform I Always Wanted",
+      "episode_number": 12,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_296_s1e12.webp",
+      "abyssid": "7921",
+      "abyssId": "7921",
+      "playxid": "cb6c911e39782fc05f3a76c581a36fe7",
+      "playXID": "cb6c911e39782fc05f3a76c581a36fe7",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "7921",
+        "playXID": "cb6c911e39782fc05f3a76c581a36fe7",
+        "streamId": "7921",
+        "dubPlayerSrc": "/dub-player/t/7921/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=cb6c911e39782fc05f3a76c581a36fe7&abyssId=7921"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "7921",
+        "playXID": "cb6c911e39782fc05f3a76c581a36fe7",
+        "streamId": "7921",
+        "dubPlayerSrc": "/dub-player/t/7921/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=cb6c911e39782fc05f3a76c581a36fe7&abyssId=7921"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/cb6c911e39782fc05f3a76c581a36fe7",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/cb6c911e39782fc05f3a76c581a36fe7"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "7921",
+        "abyssId": "7921",
+        "playXID": "cb6c911e39782fc05f3a76c581a36fe7",
+        "title": "Akebi's Sailor Uniform",
+        "season": 1,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "0xmeVVcNy"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "hd0-XPlpp"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "doEvhKX52"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "lP9retWvx"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "Pa3YjAqL2"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/c0990f8048b1b28f130b4e52d53c1789/master.m3u8?md5=wBqxTOz7EpXBW3Sa84pRbQ&expires=1792167490",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/c0990f8048b1b28f130b4e52d53c1789/master.m3u8?md5=wBqxTOz7EpXBW3Sa84pRbQ&expires=1792167490",
+            "videoSource": "https://ravok.buzz/cdn/hls/c0990f8048b1b28f130b4e52d53c1789/master.m3u8?md5=wBqxTOz7EpXBW3Sa84pRbQ&expires=1792167490",
+            "videoImage": "https://as-cdn29.top/p/jeJC094tK0AeEbnN1bEWaW9zo3hkq0gbRXe9H2d_ZXrkG1DwprdM-IeF3aUf6p3kJGzE7zynLXnA8QgL96EGwA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "cb6c911e39782fc05f3a76c581a36fe7",
+                "streamUrl": "https://ravok.buzz/cdn/hls/c0990f8048b1b28f130b4e52d53c1789/master.m3u8?md5=wBqxTOz7EpXBW3Sa84pRbQ&expires=1792167490",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/c0990f8048b1b28f130b4e52d53c1789/master.m3u8?md5=wBqxTOz7EpXBW3Sa84pRbQ&expires=1792167490",
+                "videoSource": "https://ravok.buzz/cdn/hls/c0990f8048b1b28f130b4e52d53c1789/master.m3u8?md5=wBqxTOz7EpXBW3Sa84pRbQ&expires=1792167490",
+                "link": "https://ravok.buzz/cdn/hls/c0990f8048b1b28f130b4e52d53c1789/master.m3u8?md5=wBqxTOz7EpXBW3Sa84pRbQ&expires=1792167490",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/jeJC094tK0AeEbnN1bEWaW9zo3hkq0gbRXe9H2d_ZXrkG1DwprdM-IeF3aUf6p3kJGzE7zynLXnA8QgL96EGwA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "0xmeVVcNy"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:20Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T14:18:14Z",
+  "updated_at": "2026-10-16T14:18:20Z"
+}

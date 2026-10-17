@@ -1,0 +1,1485 @@
+{
+  "id": "series/you-are-ms-servant",
+  "series_name": "You are Ms. Servant",
+  "title": "You are Ms. Servant",
+  "banner": "https://image.tmdb.org/t/p/w1280/5eelBNuepJBm8ufMiZPRvZIS97F.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/eyFOI6GkIN9JI1qaGLpEkrRlXdc.jpg",
+  "genra": [
+    "Comedy",
+    "Romance",
+    "Slice of Life"
+  ],
+  "genres": [
+    "Comedy",
+    "Romance",
+    "Slice of Life"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Japanese",
+    "Tamil",
+    "Telugu"
+  ],
+  "synopsis": "Hitoyoshi, a high school kid who lives alone, hears a knock on his door. He opens it to find a strange girl offering to be his maid. She has beautiful black hair, graceful manners, and…a dark past as an assassin. But despite her deadly background and lack of household skills, Hitoyoshi takes her in. As she adjusts to her new life, she begins to experience emotions she’s never felt before.",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "My Fateful Encounter with You",
+          "id": "episode/you-are-ms-servant-1x1",
+          "image": "https://img.watchanimeworld.one/image/1064/1/1.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "You Want to Know.",
+          "id": "episode/you-are-ms-servant-1x2",
+          "image": "https://img.watchanimeworld.one/image/1064/1/2.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "You are Ms. Yuki.",
+          "id": "episode/you-are-ms-servant-1x3",
+          "image": "https://img.watchanimeworld.one/image/1064/1/3.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "You Won't Miss Out.",
+          "id": "episode/you-are-ms-servant-1x4",
+          "image": "https://img.watchanimeworld.one/image/1064/1/4.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "What You Want to Protect.",
+          "id": "episode/you-are-ms-servant-1x5",
+          "image": "https://img.watchanimeworld.one/image/1064/1/5.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "You are Ms. Servant 1x6",
+          "id": "episode/you-are-ms-servant-1x6",
+          "image": "https://img.watchanimeworld.one/image/1064/1/6.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "You are Ms. Servant 1x7",
+          "id": "episode/you-are-ms-servant-1x7",
+          "image": "https://img.watchanimeworld.one/image/1064/1/7.webp",
+          "season": 1
+        },
+        {
+          "episode": 8,
+          "title": "You are Ms. Servant 1x8",
+          "id": "episode/you-are-ms-servant-1x8",
+          "image": "https://img.watchanimeworld.one/image/1064/1/8.webp",
+          "season": 1
+        },
+        {
+          "episode": 9,
+          "title": "You are Ms. Servant 1x9",
+          "id": "episode/you-are-ms-servant-1x9",
+          "image": "https://img.watchanimeworld.one/image/1064/1/9.webp",
+          "season": 1
+        },
+        {
+          "episode": 10,
+          "title": "You are Ms. Servant 1x10",
+          "id": "episode/you-are-ms-servant-1x10",
+          "image": "https://img.watchanimeworld.one/image/1064/1/10.webp",
+          "season": 1
+        },
+        {
+          "episode": 11,
+          "title": "You are Ms. Servant 1x11",
+          "id": "episode/you-are-ms-servant-1x11",
+          "image": "https://img.watchanimeworld.one/image/1064/1/11.webp",
+          "season": 1
+        },
+        {
+          "episode": 12,
+          "title": "You are Ms. Servant 1x12",
+          "id": "episode/you-are-ms-servant-1x12",
+          "image": "https://img.watchanimeworld.one/image/1064/1/12.webp",
+          "season": 1
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/you-are-ms-servant-1x1",
+      "episode_id": "episode/you-are-ms-servant-1x1",
+      "title": "My Fateful Encounter with You",
+      "episode_name": "My Fateful Encounter with You",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1064/1/1.webp",
+      "abyssid": "11183",
+      "abyssId": "11183",
+      "playxid": "8ce6790cc6a94e65f17f908f462fae85",
+      "playXID": "8ce6790cc6a94e65f17f908f462fae85",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "11183",
+        "playXID": "8ce6790cc6a94e65f17f908f462fae85",
+        "streamId": "11183",
+        "dubPlayerSrc": "/dub-player/t/11183/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8ce6790cc6a94e65f17f908f462fae85&abyssId=11183"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "11183",
+        "playXID": "8ce6790cc6a94e65f17f908f462fae85",
+        "streamId": "11183",
+        "dubPlayerSrc": "/dub-player/t/11183/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8ce6790cc6a94e65f17f908f462fae85&abyssId=11183"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/8ce6790cc6a94e65f17f908f462fae85",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/8ce6790cc6a94e65f17f908f462fae85"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "11183",
+        "abyssId": "11183",
+        "playXID": "8ce6790cc6a94e65f17f908f462fae85",
+        "title": "You are Ms. Servant",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "YsAIGChkS"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "syIFV22sn"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "DTzspntVk"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "Co9Cu3PoJ"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "TF4xPWB6e"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/b3ffa41b29f518cb9e0086c1699f6344/master.m3u8?md5=4NP8hG6U3qaCPrA0dMYDJA&expires=1792167157",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/b3ffa41b29f518cb9e0086c1699f6344/master.m3u8?md5=4NP8hG6U3qaCPrA0dMYDJA&expires=1792167157",
+            "videoSource": "https://ravok.buzz/cdn/hls/b3ffa41b29f518cb9e0086c1699f6344/master.m3u8?md5=4NP8hG6U3qaCPrA0dMYDJA&expires=1792167157",
+            "videoImage": "https://as-cdn28.top/p/xwmu8VOMgcfRc8VYqR8Kn3rp7ULEmEbMNDbsBrPcWiDNLy4yUNGp6cN1WmcN-Hj_nmbE9HFDZ1BonLkUFmhCrw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "8ce6790cc6a94e65f17f908f462fae85",
+                "streamUrl": "https://ravok.buzz/cdn/hls/b3ffa41b29f518cb9e0086c1699f6344/master.m3u8?md5=4NP8hG6U3qaCPrA0dMYDJA&expires=1792167157",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/b3ffa41b29f518cb9e0086c1699f6344/master.m3u8?md5=4NP8hG6U3qaCPrA0dMYDJA&expires=1792167157",
+                "videoSource": "https://ravok.buzz/cdn/hls/b3ffa41b29f518cb9e0086c1699f6344/master.m3u8?md5=4NP8hG6U3qaCPrA0dMYDJA&expires=1792167157",
+                "link": "https://ravok.buzz/cdn/hls/b3ffa41b29f518cb9e0086c1699f6344/master.m3u8?md5=4NP8hG6U3qaCPrA0dMYDJA&expires=1792167157",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/xwmu8VOMgcfRc8VYqR8Kn3rp7ULEmEbMNDbsBrPcWiDNLy4yUNGp6cN1WmcN-Hj_nmbE9HFDZ1BonLkUFmhCrw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "YsAIGChkS"
+        }
+      },
+      "fetched_at": "2026-10-16T14:12:47Z"
+    },
+    {
+      "id": "episode/you-are-ms-servant-1x2",
+      "episode_id": "episode/you-are-ms-servant-1x2",
+      "title": "My Fateful Encounter with You",
+      "episode_name": "My Fateful Encounter with You",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1064/1/2.webp",
+      "abyssid": "11182",
+      "abyssId": "11182",
+      "playxid": "208e43f0e45c4c78cafadb83d2888cb6",
+      "playXID": "208e43f0e45c4c78cafadb83d2888cb6",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "11182",
+        "playXID": "208e43f0e45c4c78cafadb83d2888cb6",
+        "streamId": "11182",
+        "dubPlayerSrc": "/dub-player/t/11182/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=208e43f0e45c4c78cafadb83d2888cb6&abyssId=11182"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "11182",
+        "playXID": "208e43f0e45c4c78cafadb83d2888cb6",
+        "streamId": "11182",
+        "dubPlayerSrc": "/dub-player/t/11182/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=208e43f0e45c4c78cafadb83d2888cb6&abyssId=11182"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/208e43f0e45c4c78cafadb83d2888cb6",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/208e43f0e45c4c78cafadb83d2888cb6"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "11182",
+        "abyssId": "11182",
+        "playXID": "208e43f0e45c4c78cafadb83d2888cb6",
+        "title": "You are Ms. Servant",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "e6NVJQvcU"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "5zCaqK-tf"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "FKnU38yYV0"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "UiWtY86Wz"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "LfEn1T043"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/d06e77c9248be076885a8089a4e82d3e/master.m3u8?md5=HWaRM2EMpvV9GM3SLc-u0g&expires=1792167157",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/d06e77c9248be076885a8089a4e82d3e/master.m3u8?md5=HWaRM2EMpvV9GM3SLc-u0g&expires=1792167157",
+            "videoSource": "https://ravok.buzz/cdn/hls/d06e77c9248be076885a8089a4e82d3e/master.m3u8?md5=HWaRM2EMpvV9GM3SLc-u0g&expires=1792167157",
+            "videoImage": "https://as-cdn27.top/p/nBlo410ftydFcuWIjQ4sdmsYAVM7twcV2ADT-8suHkmaBHlzL6eehu1zs7IN_umusYl_-gqP7MqzCc9IurRwkQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "208e43f0e45c4c78cafadb83d2888cb6",
+                "streamUrl": "https://ravok.buzz/cdn/hls/d06e77c9248be076885a8089a4e82d3e/master.m3u8?md5=HWaRM2EMpvV9GM3SLc-u0g&expires=1792167157",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/d06e77c9248be076885a8089a4e82d3e/master.m3u8?md5=HWaRM2EMpvV9GM3SLc-u0g&expires=1792167157",
+                "videoSource": "https://ravok.buzz/cdn/hls/d06e77c9248be076885a8089a4e82d3e/master.m3u8?md5=HWaRM2EMpvV9GM3SLc-u0g&expires=1792167157",
+                "link": "https://ravok.buzz/cdn/hls/d06e77c9248be076885a8089a4e82d3e/master.m3u8?md5=HWaRM2EMpvV9GM3SLc-u0g&expires=1792167157",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/nBlo410ftydFcuWIjQ4sdmsYAVM7twcV2ADT-8suHkmaBHlzL6eehu1zs7IN_umusYl_-gqP7MqzCc9IurRwkQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "e6NVJQvcU"
+        }
+      },
+      "fetched_at": "2026-10-16T14:12:47Z"
+    },
+    {
+      "id": "episode/you-are-ms-servant-1x4",
+      "episode_id": "episode/you-are-ms-servant-1x4",
+      "title": "My Fateful Encounter with You",
+      "episode_name": "My Fateful Encounter with You",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1064/1/4.webp",
+      "abyssid": "11397",
+      "abyssId": "11397",
+      "playxid": "e744f91c29ec99f0e662c9177946c627",
+      "playXID": "e744f91c29ec99f0e662c9177946c627",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "11397",
+        "playXID": "e744f91c29ec99f0e662c9177946c627",
+        "streamId": "11397",
+        "dubPlayerSrc": "/dub-player/t/11397/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e744f91c29ec99f0e662c9177946c627&abyssId=11397"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "11397",
+        "playXID": "e744f91c29ec99f0e662c9177946c627",
+        "streamId": "11397",
+        "dubPlayerSrc": "/dub-player/t/11397/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e744f91c29ec99f0e662c9177946c627&abyssId=11397"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/e744f91c29ec99f0e662c9177946c627",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/e744f91c29ec99f0e662c9177946c627"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "11397",
+        "abyssId": "11397",
+        "playXID": "e744f91c29ec99f0e662c9177946c627",
+        "title": "You are Ms. Servant",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "kY-jsKrud"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "A-TUBTJgb"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "qr1Fb6qWJX"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "uskhNsm4o"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "nlNS4CZxl"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/c0b642316184cefb8e5702cdf92c5e54/master.m3u8?md5=_S2VtGSlqZlwtevf4A2Adw&expires=1792167157",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/c0b642316184cefb8e5702cdf92c5e54/master.m3u8?md5=_S2VtGSlqZlwtevf4A2Adw&expires=1792167157",
+            "videoSource": "https://ravok.buzz/cdn/hls/c0b642316184cefb8e5702cdf92c5e54/master.m3u8?md5=_S2VtGSlqZlwtevf4A2Adw&expires=1792167157",
+            "videoImage": "https://as-cdn30.top/p/ZZBfG265xdcVkGnPEhV5vUOAVDCVkZrsMRGB1C4mEWXFfLe_VSkRCuWba_xWtJKpKAHPKh3qlwESY1wBhObsJg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "e744f91c29ec99f0e662c9177946c627",
+                "streamUrl": "https://ravok.buzz/cdn/hls/c0b642316184cefb8e5702cdf92c5e54/master.m3u8?md5=_S2VtGSlqZlwtevf4A2Adw&expires=1792167157",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/c0b642316184cefb8e5702cdf92c5e54/master.m3u8?md5=_S2VtGSlqZlwtevf4A2Adw&expires=1792167157",
+                "videoSource": "https://ravok.buzz/cdn/hls/c0b642316184cefb8e5702cdf92c5e54/master.m3u8?md5=_S2VtGSlqZlwtevf4A2Adw&expires=1792167157",
+                "link": "https://ravok.buzz/cdn/hls/c0b642316184cefb8e5702cdf92c5e54/master.m3u8?md5=_S2VtGSlqZlwtevf4A2Adw&expires=1792167157",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/ZZBfG265xdcVkGnPEhV5vUOAVDCVkZrsMRGB1C4mEWXFfLe_VSkRCuWba_xWtJKpKAHPKh3qlwESY1wBhObsJg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "kY-jsKrud"
+        }
+      },
+      "fetched_at": "2026-10-16T14:12:47Z"
+    },
+    {
+      "id": "episode/you-are-ms-servant-1x3",
+      "episode_id": "episode/you-are-ms-servant-1x3",
+      "title": "My Fateful Encounter with You",
+      "episode_name": "My Fateful Encounter with You",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1064/1/3.webp",
+      "abyssid": "11181",
+      "abyssId": "11181",
+      "playxid": "4588e674d3f0faf985047d4c3f13ed0d",
+      "playXID": "4588e674d3f0faf985047d4c3f13ed0d",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "11181",
+        "playXID": "4588e674d3f0faf985047d4c3f13ed0d",
+        "streamId": "11181",
+        "dubPlayerSrc": "/dub-player/t/11181/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=4588e674d3f0faf985047d4c3f13ed0d&abyssId=11181"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "11181",
+        "playXID": "4588e674d3f0faf985047d4c3f13ed0d",
+        "streamId": "11181",
+        "dubPlayerSrc": "/dub-player/t/11181/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=4588e674d3f0faf985047d4c3f13ed0d&abyssId=11181"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/4588e674d3f0faf985047d4c3f13ed0d",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/4588e674d3f0faf985047d4c3f13ed0d"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "11181",
+        "abyssId": "11181",
+        "playXID": "4588e674d3f0faf985047d4c3f13ed0d",
+        "title": "You are Ms. Servant",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "QUh9576B1"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "N4YeTEqQg"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "NtPziQTcs"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "aKV-FV2QL"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "y2_3vvqtM"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/95280e5189d4b6151dbaa9a8d44f0dbd/master.m3u8?md5=oZZVsFek0K7ynk6mzu6o9w&expires=1792167157",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/95280e5189d4b6151dbaa9a8d44f0dbd/master.m3u8?md5=oZZVsFek0K7ynk6mzu6o9w&expires=1792167157",
+            "videoSource": "https://ravok.buzz/cdn/hls/95280e5189d4b6151dbaa9a8d44f0dbd/master.m3u8?md5=oZZVsFek0K7ynk6mzu6o9w&expires=1792167157",
+            "videoImage": "https://as-cdn31.top/p/FNff3jPIm6VRTxcVlcPi1Q_4fclkACWQOpw6tHRK7qkoYiy7w23PW2xQGSk6XBeUpEVPFRROloTeNDVh52-2Jw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "4588e674d3f0faf985047d4c3f13ed0d",
+                "streamUrl": "https://ravok.buzz/cdn/hls/95280e5189d4b6151dbaa9a8d44f0dbd/master.m3u8?md5=oZZVsFek0K7ynk6mzu6o9w&expires=1792167157",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/95280e5189d4b6151dbaa9a8d44f0dbd/master.m3u8?md5=oZZVsFek0K7ynk6mzu6o9w&expires=1792167157",
+                "videoSource": "https://ravok.buzz/cdn/hls/95280e5189d4b6151dbaa9a8d44f0dbd/master.m3u8?md5=oZZVsFek0K7ynk6mzu6o9w&expires=1792167157",
+                "link": "https://ravok.buzz/cdn/hls/95280e5189d4b6151dbaa9a8d44f0dbd/master.m3u8?md5=oZZVsFek0K7ynk6mzu6o9w&expires=1792167157",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/FNff3jPIm6VRTxcVlcPi1Q_4fclkACWQOpw6tHRK7qkoYiy7w23PW2xQGSk6XBeUpEVPFRROloTeNDVh52-2Jw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "QUh9576B1"
+        }
+      },
+      "fetched_at": "2026-10-16T14:12:47Z"
+    },
+    {
+      "id": "episode/you-are-ms-servant-1x5",
+      "episode_id": "episode/you-are-ms-servant-1x5",
+      "title": "My Fateful Encounter with You",
+      "episode_name": "My Fateful Encounter with You",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1064/1/5.webp",
+      "abyssid": "11563",
+      "abyssId": "11563",
+      "playxid": "1f50893f80d6830d62765ffad7721742",
+      "playXID": "1f50893f80d6830d62765ffad7721742",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "11563",
+        "playXID": "1f50893f80d6830d62765ffad7721742",
+        "streamId": "11563",
+        "dubPlayerSrc": "/dub-player/t/11563/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=1f50893f80d6830d62765ffad7721742&abyssId=11563"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "11563",
+        "playXID": "1f50893f80d6830d62765ffad7721742",
+        "streamId": "11563",
+        "dubPlayerSrc": "/dub-player/t/11563/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=1f50893f80d6830d62765ffad7721742&abyssId=11563"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/1f50893f80d6830d62765ffad7721742",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/1f50893f80d6830d62765ffad7721742"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "11563",
+        "abyssId": "11563",
+        "playXID": "1f50893f80d6830d62765ffad7721742",
+        "title": "You are Ms. Servant",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "q_66LXSdf"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "OVWR8jNvw"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "utZlJA1Dp"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "QW3Hd0Lmx"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "uyMYxVnJw"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/428490af006009bdf4b77c42e0d6b198/master.m3u8?md5=ecPyqeEbNWxOlxHwk-srpQ&expires=1792167157",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/428490af006009bdf4b77c42e0d6b198/master.m3u8?md5=ecPyqeEbNWxOlxHwk-srpQ&expires=1792167157",
+            "videoSource": "https://ravok.buzz/cdn/hls/428490af006009bdf4b77c42e0d6b198/master.m3u8?md5=ecPyqeEbNWxOlxHwk-srpQ&expires=1792167157",
+            "videoImage": "https://as-cdn31.top/p/C9U0F2xRf-Av_6C_Rr_eBGsaSFKtjbLJQ-IfYT6EU3qKKy5LjAhd8yJ8mJ_1LvGUn67eS39No5ssWETIwPbpJg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "1f50893f80d6830d62765ffad7721742",
+                "streamUrl": "https://ravok.buzz/cdn/hls/428490af006009bdf4b77c42e0d6b198/master.m3u8?md5=ecPyqeEbNWxOlxHwk-srpQ&expires=1792167157",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/428490af006009bdf4b77c42e0d6b198/master.m3u8?md5=ecPyqeEbNWxOlxHwk-srpQ&expires=1792167157",
+                "videoSource": "https://ravok.buzz/cdn/hls/428490af006009bdf4b77c42e0d6b198/master.m3u8?md5=ecPyqeEbNWxOlxHwk-srpQ&expires=1792167157",
+                "link": "https://ravok.buzz/cdn/hls/428490af006009bdf4b77c42e0d6b198/master.m3u8?md5=ecPyqeEbNWxOlxHwk-srpQ&expires=1792167157",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/C9U0F2xRf-Av_6C_Rr_eBGsaSFKtjbLJQ-IfYT6EU3qKKy5LjAhd8yJ8mJ_1LvGUn67eS39No5ssWETIwPbpJg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "q_66LXSdf"
+        }
+      },
+      "fetched_at": "2026-10-16T14:12:47Z"
+    },
+    {
+      "id": "episode/you-are-ms-servant-1x6",
+      "episode_id": "episode/you-are-ms-servant-1x6",
+      "title": "My Fateful Encounter with You",
+      "episode_name": "My Fateful Encounter with You",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1064/1/6.webp",
+      "abyssid": "11622",
+      "abyssId": "11622",
+      "playxid": "3a835d3215755c435ef4fe9965a3f2a0",
+      "playXID": "3a835d3215755c435ef4fe9965a3f2a0",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "11622",
+        "playXID": "3a835d3215755c435ef4fe9965a3f2a0",
+        "streamId": "11622",
+        "dubPlayerSrc": "/dub-player/t/11622/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=3a835d3215755c435ef4fe9965a3f2a0&abyssId=11622"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "11622",
+        "playXID": "3a835d3215755c435ef4fe9965a3f2a0",
+        "streamId": "11622",
+        "dubPlayerSrc": "/dub-player/t/11622/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=3a835d3215755c435ef4fe9965a3f2a0&abyssId=11622"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/3a835d3215755c435ef4fe9965a3f2a0",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/3a835d3215755c435ef4fe9965a3f2a0"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "11622",
+        "abyssId": "11622",
+        "playXID": "3a835d3215755c435ef4fe9965a3f2a0",
+        "title": "You are Ms. Servant",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "ynTpNj1Ig"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "cZ7Q2Foo7"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "yyEyobqiT"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "hb7gG33gF"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "eqVuYwIob"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/330ec2b04ed797c0bb4ec9374fb67c79/master.m3u8?md5=7CRA7S485rNxTwwsdhGqCQ&expires=1792167159",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/330ec2b04ed797c0bb4ec9374fb67c79/master.m3u8?md5=7CRA7S485rNxTwwsdhGqCQ&expires=1792167159",
+            "videoSource": "https://ravok.buzz/cdn/hls/330ec2b04ed797c0bb4ec9374fb67c79/master.m3u8?md5=7CRA7S485rNxTwwsdhGqCQ&expires=1792167159",
+            "videoImage": "https://as-cdn27.top/p/KxZjKe3Fh9i9qqu_dowA4CT9Zm0rQz7SEXV9oJaXvyPh5F1as82F2XeFcWymXMJlOEZR3H5l90nE_QApo19HkQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "3a835d3215755c435ef4fe9965a3f2a0",
+                "streamUrl": "https://ravok.buzz/cdn/hls/330ec2b04ed797c0bb4ec9374fb67c79/master.m3u8?md5=7CRA7S485rNxTwwsdhGqCQ&expires=1792167159",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/330ec2b04ed797c0bb4ec9374fb67c79/master.m3u8?md5=7CRA7S485rNxTwwsdhGqCQ&expires=1792167159",
+                "videoSource": "https://ravok.buzz/cdn/hls/330ec2b04ed797c0bb4ec9374fb67c79/master.m3u8?md5=7CRA7S485rNxTwwsdhGqCQ&expires=1792167159",
+                "link": "https://ravok.buzz/cdn/hls/330ec2b04ed797c0bb4ec9374fb67c79/master.m3u8?md5=7CRA7S485rNxTwwsdhGqCQ&expires=1792167159",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/KxZjKe3Fh9i9qqu_dowA4CT9Zm0rQz7SEXV9oJaXvyPh5F1as82F2XeFcWymXMJlOEZR3H5l90nE_QApo19HkQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "ynTpNj1Ig"
+        }
+      },
+      "fetched_at": "2026-10-16T14:12:49Z"
+    },
+    {
+      "id": "episode/you-are-ms-servant-1x8",
+      "episode_id": "episode/you-are-ms-servant-1x8",
+      "title": "My Fateful Encounter with You",
+      "episode_name": "My Fateful Encounter with You",
+      "episode_number": 8,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1064/1/8.webp",
+      "abyssid": "11851",
+      "abyssId": "11851",
+      "playxid": "55b37c5c270e5d84c793e486d798c01d",
+      "playXID": "55b37c5c270e5d84c793e486d798c01d",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "11851",
+        "playXID": "55b37c5c270e5d84c793e486d798c01d",
+        "streamId": "11851",
+        "dubPlayerSrc": "/dub-player/t/11851/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=55b37c5c270e5d84c793e486d798c01d&abyssId=11851"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "11851",
+        "playXID": "55b37c5c270e5d84c793e486d798c01d",
+        "streamId": "11851",
+        "dubPlayerSrc": "/dub-player/t/11851/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=55b37c5c270e5d84c793e486d798c01d&abyssId=11851"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/55b37c5c270e5d84c793e486d798c01d",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/55b37c5c270e5d84c793e486d798c01d"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "11851",
+        "abyssId": "11851",
+        "playXID": "55b37c5c270e5d84c793e486d798c01d",
+        "title": "You are Ms. Servant",
+        "season": 1,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "1ECnOZbdp"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "bpXvOV6Xy"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "BaMczhpLV"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "IkPJ5xk28"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "rfAqRu4g7"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/2702aa9db76bd69a6926c39cca297536/master.m3u8?md5=VRhPdZEfBLem8kXDdxmsVQ&expires=1792167159",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/2702aa9db76bd69a6926c39cca297536/master.m3u8?md5=VRhPdZEfBLem8kXDdxmsVQ&expires=1792167159",
+            "videoSource": "https://ravok.buzz/cdn/hls/2702aa9db76bd69a6926c39cca297536/master.m3u8?md5=VRhPdZEfBLem8kXDdxmsVQ&expires=1792167159",
+            "videoImage": "https://as-cdn27.top/p/IsN70TKbxC0P0PmbJlaQten3o5aTl-a0eYSTVxS74OOhp4rOIG262AL8FoSL2va_XmTgCo5WGyZpcFQnvhL3og.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "55b37c5c270e5d84c793e486d798c01d",
+                "streamUrl": "https://ravok.buzz/cdn/hls/2702aa9db76bd69a6926c39cca297536/master.m3u8?md5=VRhPdZEfBLem8kXDdxmsVQ&expires=1792167159",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/2702aa9db76bd69a6926c39cca297536/master.m3u8?md5=VRhPdZEfBLem8kXDdxmsVQ&expires=1792167159",
+                "videoSource": "https://ravok.buzz/cdn/hls/2702aa9db76bd69a6926c39cca297536/master.m3u8?md5=VRhPdZEfBLem8kXDdxmsVQ&expires=1792167159",
+                "link": "https://ravok.buzz/cdn/hls/2702aa9db76bd69a6926c39cca297536/master.m3u8?md5=VRhPdZEfBLem8kXDdxmsVQ&expires=1792167159",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/IsN70TKbxC0P0PmbJlaQten3o5aTl-a0eYSTVxS74OOhp4rOIG262AL8FoSL2va_XmTgCo5WGyZpcFQnvhL3og.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "1ECnOZbdp"
+        }
+      },
+      "fetched_at": "2026-10-16T14:12:49Z"
+    },
+    {
+      "id": "episode/you-are-ms-servant-1x7",
+      "episode_id": "episode/you-are-ms-servant-1x7",
+      "title": "My Fateful Encounter with You",
+      "episode_name": "My Fateful Encounter with You",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1064/1/7.webp",
+      "abyssid": "11810",
+      "abyssId": "11810",
+      "playxid": "5c04925674920eb58467fb52ce4ef728",
+      "playXID": "5c04925674920eb58467fb52ce4ef728",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "11810",
+        "playXID": "5c04925674920eb58467fb52ce4ef728",
+        "streamId": "11810",
+        "dubPlayerSrc": "/dub-player/t/11810/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=5c04925674920eb58467fb52ce4ef728&abyssId=11810"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "11810",
+        "playXID": "5c04925674920eb58467fb52ce4ef728",
+        "streamId": "11810",
+        "dubPlayerSrc": "/dub-player/t/11810/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=5c04925674920eb58467fb52ce4ef728&abyssId=11810"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/5c04925674920eb58467fb52ce4ef728",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/5c04925674920eb58467fb52ce4ef728"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "11810",
+        "abyssId": "11810",
+        "playXID": "5c04925674920eb58467fb52ce4ef728",
+        "title": "You are Ms. Servant",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "uvJ3cOjU6"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "IP4xj64J0"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "Aq1fmgyT-"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "4PW2Xu1kJ"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "3uNje7kHt"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/08c9e323812dcff65e40f58672d8c7af/master.m3u8?md5=Rc0aG5uv3FD0C7wGvk0BsQ&expires=1792167159",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/08c9e323812dcff65e40f58672d8c7af/master.m3u8?md5=Rc0aG5uv3FD0C7wGvk0BsQ&expires=1792167159",
+            "videoSource": "https://ravok.buzz/cdn/hls/08c9e323812dcff65e40f58672d8c7af/master.m3u8?md5=Rc0aG5uv3FD0C7wGvk0BsQ&expires=1792167159",
+            "videoImage": "https://as-cdn28.top/p/J37pqbA2z6M_9GPdOfJqVS8hFD1YLGGWQS2A-YxfZsDxl2dMM2oAYeCdXfNCqlyjV2BdAl3hJ6OC8UIL5Ekj7A.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "5c04925674920eb58467fb52ce4ef728",
+                "streamUrl": "https://ravok.buzz/cdn/hls/08c9e323812dcff65e40f58672d8c7af/master.m3u8?md5=Rc0aG5uv3FD0C7wGvk0BsQ&expires=1792167159",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/08c9e323812dcff65e40f58672d8c7af/master.m3u8?md5=Rc0aG5uv3FD0C7wGvk0BsQ&expires=1792167159",
+                "videoSource": "https://ravok.buzz/cdn/hls/08c9e323812dcff65e40f58672d8c7af/master.m3u8?md5=Rc0aG5uv3FD0C7wGvk0BsQ&expires=1792167159",
+                "link": "https://ravok.buzz/cdn/hls/08c9e323812dcff65e40f58672d8c7af/master.m3u8?md5=Rc0aG5uv3FD0C7wGvk0BsQ&expires=1792167159",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/J37pqbA2z6M_9GPdOfJqVS8hFD1YLGGWQS2A-YxfZsDxl2dMM2oAYeCdXfNCqlyjV2BdAl3hJ6OC8UIL5Ekj7A.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "uvJ3cOjU6"
+        }
+      },
+      "fetched_at": "2026-10-16T14:12:49Z"
+    },
+    {
+      "id": "episode/you-are-ms-servant-1x9",
+      "episode_id": "episode/you-are-ms-servant-1x9",
+      "title": "My Fateful Encounter with You",
+      "episode_name": "My Fateful Encounter with You",
+      "episode_number": 9,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1064/1/9.webp",
+      "abyssid": "11899",
+      "abyssId": "11899",
+      "playxid": "f18ee45840e18329939acf1095cdc5a9",
+      "playXID": "f18ee45840e18329939acf1095cdc5a9",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "11899",
+        "playXID": "f18ee45840e18329939acf1095cdc5a9",
+        "streamId": "11899",
+        "dubPlayerSrc": "/dub-player/t/11899/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f18ee45840e18329939acf1095cdc5a9&abyssId=11899"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "11899",
+        "playXID": "f18ee45840e18329939acf1095cdc5a9",
+        "streamId": "11899",
+        "dubPlayerSrc": "/dub-player/t/11899/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f18ee45840e18329939acf1095cdc5a9&abyssId=11899"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/f18ee45840e18329939acf1095cdc5a9",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/f18ee45840e18329939acf1095cdc5a9"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "11899",
+        "abyssId": "11899",
+        "playXID": "f18ee45840e18329939acf1095cdc5a9",
+        "title": "You are Ms. Servant",
+        "season": 1,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "qJk2BnxDe"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "hEEi7JAZV"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "S-zOZNKJs"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "2Ar7VsdKk"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "eIKPrvUoP"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/3b1ec9faba0da7d4c6f0ea81602abc0d/master.m3u8?md5=iS5nQjVFoOixqJ-l1I99lA&expires=1792167159",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/3b1ec9faba0da7d4c6f0ea81602abc0d/master.m3u8?md5=iS5nQjVFoOixqJ-l1I99lA&expires=1792167159",
+            "videoSource": "https://ravok.buzz/cdn/hls/3b1ec9faba0da7d4c6f0ea81602abc0d/master.m3u8?md5=iS5nQjVFoOixqJ-l1I99lA&expires=1792167159",
+            "videoImage": "https://as-cdn30.top/p/P1-Syh7dx-30zuhxDGr9K-Yd-V1o394VQF4R6PjB2lAEcylf-lxc1a3GEpDjTqk_IcU6A3FZj3LWCmF2eWwYNA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "f18ee45840e18329939acf1095cdc5a9",
+                "streamUrl": "https://ravok.buzz/cdn/hls/3b1ec9faba0da7d4c6f0ea81602abc0d/master.m3u8?md5=iS5nQjVFoOixqJ-l1I99lA&expires=1792167159",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/3b1ec9faba0da7d4c6f0ea81602abc0d/master.m3u8?md5=iS5nQjVFoOixqJ-l1I99lA&expires=1792167159",
+                "videoSource": "https://ravok.buzz/cdn/hls/3b1ec9faba0da7d4c6f0ea81602abc0d/master.m3u8?md5=iS5nQjVFoOixqJ-l1I99lA&expires=1792167159",
+                "link": "https://ravok.buzz/cdn/hls/3b1ec9faba0da7d4c6f0ea81602abc0d/master.m3u8?md5=iS5nQjVFoOixqJ-l1I99lA&expires=1792167159",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/P1-Syh7dx-30zuhxDGr9K-Yd-V1o394VQF4R6PjB2lAEcylf-lxc1a3GEpDjTqk_IcU6A3FZj3LWCmF2eWwYNA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "qJk2BnxDe"
+        }
+      },
+      "fetched_at": "2026-10-16T14:12:49Z"
+    },
+    {
+      "id": "episode/you-are-ms-servant-1x10",
+      "episode_id": "episode/you-are-ms-servant-1x10",
+      "title": "My Fateful Encounter with You",
+      "episode_name": "My Fateful Encounter with You",
+      "episode_number": 10,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1064/1/10.webp",
+      "abyssid": "11919",
+      "abyssId": "11919",
+      "playxid": "3b220b436e5f3d917a1e649a0dc0281c",
+      "playXID": "3b220b436e5f3d917a1e649a0dc0281c",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "11919",
+        "playXID": "3b220b436e5f3d917a1e649a0dc0281c",
+        "streamId": "11919",
+        "dubPlayerSrc": "/dub-player/t/11919/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=3b220b436e5f3d917a1e649a0dc0281c&abyssId=11919"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "11919",
+        "playXID": "3b220b436e5f3d917a1e649a0dc0281c",
+        "streamId": "11919",
+        "dubPlayerSrc": "/dub-player/t/11919/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=3b220b436e5f3d917a1e649a0dc0281c&abyssId=11919"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/3b220b436e5f3d917a1e649a0dc0281c",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/3b220b436e5f3d917a1e649a0dc0281c"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "11919",
+        "abyssId": "11919",
+        "playXID": "3b220b436e5f3d917a1e649a0dc0281c",
+        "title": "You are Ms. Servant",
+        "season": 1,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "dEIF2mFZD"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "LpChaw97t"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "pQ4QxDALo"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "kPil4d8-0K"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "o0vTu1mXH"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/40c312b87dfe7211b1c816440493dda8/master.m3u8?md5=mULF0xnwOyVW2WKQzJgfYA&expires=1792167160",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/40c312b87dfe7211b1c816440493dda8/master.m3u8?md5=mULF0xnwOyVW2WKQzJgfYA&expires=1792167160",
+            "videoSource": "https://ravok.buzz/cdn/hls/40c312b87dfe7211b1c816440493dda8/master.m3u8?md5=mULF0xnwOyVW2WKQzJgfYA&expires=1792167160",
+            "videoImage": "https://as-cdn29.top/p/EERajGX2NlcwQwzi0AWIchTGK33f0wIQT8ukIFoSOpUjoMMqYT6ccQ63hfCUAAGAq0Ca6UKmYoOsoh3ue0WprQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "3b220b436e5f3d917a1e649a0dc0281c",
+                "streamUrl": "https://ravok.buzz/cdn/hls/40c312b87dfe7211b1c816440493dda8/master.m3u8?md5=mULF0xnwOyVW2WKQzJgfYA&expires=1792167160",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/40c312b87dfe7211b1c816440493dda8/master.m3u8?md5=mULF0xnwOyVW2WKQzJgfYA&expires=1792167160",
+                "videoSource": "https://ravok.buzz/cdn/hls/40c312b87dfe7211b1c816440493dda8/master.m3u8?md5=mULF0xnwOyVW2WKQzJgfYA&expires=1792167160",
+                "link": "https://ravok.buzz/cdn/hls/40c312b87dfe7211b1c816440493dda8/master.m3u8?md5=mULF0xnwOyVW2WKQzJgfYA&expires=1792167160",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/EERajGX2NlcwQwzi0AWIchTGK33f0wIQT8ukIFoSOpUjoMMqYT6ccQ63hfCUAAGAq0Ca6UKmYoOsoh3ue0WprQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "dEIF2mFZD"
+        }
+      },
+      "fetched_at": "2026-10-16T14:12:49Z"
+    },
+    {
+      "id": "episode/you-are-ms-servant-1x11",
+      "episode_id": "episode/you-are-ms-servant-1x11",
+      "title": "My Fateful Encounter with You",
+      "episode_name": "My Fateful Encounter with You",
+      "episode_number": 11,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1064/1/11.webp",
+      "abyssid": "12158",
+      "abyssId": "12158",
+      "playxid": "0ae0bdb82228b0a7815175d8b8cd4b80",
+      "playXID": "0ae0bdb82228b0a7815175d8b8cd4b80",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12158",
+        "playXID": "0ae0bdb82228b0a7815175d8b8cd4b80",
+        "streamId": "12158",
+        "dubPlayerSrc": "/dub-player/t/12158/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=0ae0bdb82228b0a7815175d8b8cd4b80&abyssId=12158"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12158",
+        "playXID": "0ae0bdb82228b0a7815175d8b8cd4b80",
+        "streamId": "12158",
+        "dubPlayerSrc": "/dub-player/t/12158/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=0ae0bdb82228b0a7815175d8b8cd4b80&abyssId=12158"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/0ae0bdb82228b0a7815175d8b8cd4b80",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/0ae0bdb82228b0a7815175d8b8cd4b80"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12158",
+        "abyssId": "12158",
+        "playXID": "0ae0bdb82228b0a7815175d8b8cd4b80",
+        "title": "You are Ms. Servant",
+        "season": 1,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "inVq-NVDb"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "6E-rmb-bN"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "ZjFpWWnul"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "jWbujSZr6"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/2f7d2979dba459be49094ac02c7c2133/master.m3u8?md5=YraI_CPyEq6aGlj1MgwOfg&expires=1792167161",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/2f7d2979dba459be49094ac02c7c2133/master.m3u8?md5=YraI_CPyEq6aGlj1MgwOfg&expires=1792167161",
+            "videoSource": "https://ravok.buzz/cdn/hls/2f7d2979dba459be49094ac02c7c2133/master.m3u8?md5=YraI_CPyEq6aGlj1MgwOfg&expires=1792167161",
+            "videoImage": "https://as-cdn29.top/p/WkKoSOsElndu4WPSvwX8b2MBlD8imNsDTmaLGH3XZVMy_Fqy1uRM5VUFvIjiPWN8m9ZryJV7vetUuGpiCou-yw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "0ae0bdb82228b0a7815175d8b8cd4b80",
+                "streamUrl": "https://ravok.buzz/cdn/hls/2f7d2979dba459be49094ac02c7c2133/master.m3u8?md5=YraI_CPyEq6aGlj1MgwOfg&expires=1792167161",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/2f7d2979dba459be49094ac02c7c2133/master.m3u8?md5=YraI_CPyEq6aGlj1MgwOfg&expires=1792167161",
+                "videoSource": "https://ravok.buzz/cdn/hls/2f7d2979dba459be49094ac02c7c2133/master.m3u8?md5=YraI_CPyEq6aGlj1MgwOfg&expires=1792167161",
+                "link": "https://ravok.buzz/cdn/hls/2f7d2979dba459be49094ac02c7c2133/master.m3u8?md5=YraI_CPyEq6aGlj1MgwOfg&expires=1792167161",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/WkKoSOsElndu4WPSvwX8b2MBlD8imNsDTmaLGH3XZVMy_Fqy1uRM5VUFvIjiPWN8m9ZryJV7vetUuGpiCou-yw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "inVq-NVDb"
+        }
+      },
+      "fetched_at": "2026-10-16T14:12:51Z"
+    },
+    {
+      "id": "episode/you-are-ms-servant-1x12",
+      "episode_id": "episode/you-are-ms-servant-1x12",
+      "title": "My Fateful Encounter with You",
+      "episode_name": "My Fateful Encounter with You",
+      "episode_number": 12,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1064/1/12.webp",
+      "abyssid": "12510",
+      "abyssId": "12510",
+      "playxid": "c02d0450cdd75ce7595f5eaeb5f041a3",
+      "playXID": "c02d0450cdd75ce7595f5eaeb5f041a3",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12510",
+        "playXID": "c02d0450cdd75ce7595f5eaeb5f041a3",
+        "streamId": "12510",
+        "dubPlayerSrc": "/dub-player/t/12510/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c02d0450cdd75ce7595f5eaeb5f041a3&abyssId=12510"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12510",
+        "playXID": "c02d0450cdd75ce7595f5eaeb5f041a3",
+        "streamId": "12510",
+        "dubPlayerSrc": "/dub-player/t/12510/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c02d0450cdd75ce7595f5eaeb5f041a3&abyssId=12510"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/c02d0450cdd75ce7595f5eaeb5f041a3",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/c02d0450cdd75ce7595f5eaeb5f041a3"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12510",
+        "abyssId": "12510",
+        "playXID": "c02d0450cdd75ce7595f5eaeb5f041a3",
+        "title": "You are Ms. Servant",
+        "season": 1,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "JXvzx_Oj3"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "WjnUdJYN6"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "oVCONUyRK1"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "beqfuIyEY"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/03f62fe9c69b1d11fd2b3e93e1c44f69/master.m3u8?md5=KHqg7E4wkTfu_Td_ySGlEw&expires=1792167161",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/03f62fe9c69b1d11fd2b3e93e1c44f69/master.m3u8?md5=KHqg7E4wkTfu_Td_ySGlEw&expires=1792167161",
+            "videoSource": "https://ravok.buzz/cdn/hls/03f62fe9c69b1d11fd2b3e93e1c44f69/master.m3u8?md5=KHqg7E4wkTfu_Td_ySGlEw&expires=1792167161",
+            "videoImage": "https://as-cdn30.top/p/vMktKdY3Z4OVsX7ntyfiUelSWVZUrFtveNjV4sMxtcc7gLtoY7f-nFI1xLer-MsqWSGsdcWGyQk-jCrheGS-ag.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "c02d0450cdd75ce7595f5eaeb5f041a3",
+                "streamUrl": "https://ravok.buzz/cdn/hls/03f62fe9c69b1d11fd2b3e93e1c44f69/master.m3u8?md5=KHqg7E4wkTfu_Td_ySGlEw&expires=1792167161",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/03f62fe9c69b1d11fd2b3e93e1c44f69/master.m3u8?md5=KHqg7E4wkTfu_Td_ySGlEw&expires=1792167161",
+                "videoSource": "https://ravok.buzz/cdn/hls/03f62fe9c69b1d11fd2b3e93e1c44f69/master.m3u8?md5=KHqg7E4wkTfu_Td_ySGlEw&expires=1792167161",
+                "link": "https://ravok.buzz/cdn/hls/03f62fe9c69b1d11fd2b3e93e1c44f69/master.m3u8?md5=KHqg7E4wkTfu_Td_ySGlEw&expires=1792167161",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/vMktKdY3Z4OVsX7ntyfiUelSWVZUrFtveNjV4sMxtcc7gLtoY7f-nFI1xLer-MsqWSGsdcWGyQk-jCrheGS-ag.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "JXvzx_Oj3"
+        }
+      },
+      "fetched_at": "2026-10-16T14:12:51Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T14:12:45Z",
+  "updated_at": "2026-10-16T14:12:51Z"
+}

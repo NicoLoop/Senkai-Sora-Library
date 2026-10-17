@@ -1,0 +1,1617 @@
+{
+  "id": "series/true-beauty",
+  "series_name": "True Beauty",
+  "title": "True Beauty",
+  "banner": "https://image.tmdb.org/t/p/w1280/yNQT7fVLhopmytPytN6VVPgrMoX.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/9gpc8kIhNEG7r0VTkyI9aVBxdO3.jpg",
+  "genra": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Tamil",
+    "Telugu"
+  ],
+  "synopsis": "Once bullied for her looks, Jugyeong transforms herself using the art of makeup. When she joins a new school with a True Beauty goddess competition, offering winners the chance of recruitment by entertainment agencies, she instantly becomes a top candidate! But her new identity is at stake when heartthrob Suho Lee accidentally sees her bare face. Will her elite status be short-lived?",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 13,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 13,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "True Beauty 1x1",
+          "id": "episode/true-beauty-1x1",
+          "image": "https://img.watchanimeworld.one/image/1228/1/1.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "True Beauty 1x2",
+          "id": "episode/true-beauty-1x2",
+          "image": "https://img.watchanimeworld.one/image/1228/1/2.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "True Beauty 1x3",
+          "id": "episode/true-beauty-1x3",
+          "image": "https://img.watchanimeworld.one/image/1228/1/3.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "True Beauty 1x4",
+          "id": "episode/true-beauty-1x4",
+          "image": "https://img.watchanimeworld.one/image/1228/1/4.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "True Beauty 1x5",
+          "id": "episode/true-beauty-1x5",
+          "image": "https://img.watchanimeworld.one/image/1228/1/5.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "True Beauty 1x6",
+          "id": "episode/true-beauty-1x6",
+          "image": "https://img.watchanimeworld.one/image/1228/1/6.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "True Beauty 1x7",
+          "id": "episode/true-beauty-1x7",
+          "image": "https://img.watchanimeworld.one/image/1228/1/7.webp",
+          "season": 1
+        },
+        {
+          "episode": 8,
+          "title": "True Beauty 1x8",
+          "id": "episode/true-beauty-1x8",
+          "image": "https://img.watchanimeworld.one/image/1228/1/8.webp",
+          "season": 1
+        },
+        {
+          "episode": 9,
+          "title": "True Beauty 1x9",
+          "id": "episode/true-beauty-1x9",
+          "image": "https://img.watchanimeworld.one/image/1228/1/9.webp",
+          "season": 1
+        },
+        {
+          "episode": 10,
+          "title": "True Beauty 1x10",
+          "id": "episode/true-beauty-1x10",
+          "image": "https://img.watchanimeworld.one/image/1228/1/10.webp",
+          "season": 1
+        },
+        {
+          "episode": 11,
+          "title": "True Beauty 1x11",
+          "id": "episode/true-beauty-1x11",
+          "image": "https://img.watchanimeworld.one/image/1228/1/11.webp",
+          "season": 1
+        },
+        {
+          "episode": 12,
+          "title": "True Beauty 1x12",
+          "id": "episode/true-beauty-1x12",
+          "image": "https://img.watchanimeworld.one/image/1228/1/12.webp",
+          "season": 1
+        },
+        {
+          "episode": 13,
+          "title": "True Beauty 1x13",
+          "id": "episode/true-beauty-1x13",
+          "image": "https://img.watchanimeworld.one/image/1228/1/13.webp",
+          "season": 1
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/true-beauty-1x4",
+      "episode_id": "episode/true-beauty-1x4",
+      "title": "True Beauty 1x1",
+      "episode_name": "True Beauty 1x1",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1228/1/4.webp",
+      "abyssid": "12430",
+      "abyssId": "12430",
+      "playxid": "5527eaab87a00dbe1614481ef174f285",
+      "playXID": "5527eaab87a00dbe1614481ef174f285",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12430",
+        "playXID": "5527eaab87a00dbe1614481ef174f285",
+        "streamId": "12430",
+        "dubPlayerSrc": "/dub-player/t/12430/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=5527eaab87a00dbe1614481ef174f285&abyssId=12430"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12430",
+        "playXID": "5527eaab87a00dbe1614481ef174f285",
+        "streamId": "12430",
+        "dubPlayerSrc": "/dub-player/t/12430/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=5527eaab87a00dbe1614481ef174f285&abyssId=12430"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/5527eaab87a00dbe1614481ef174f285",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/5527eaab87a00dbe1614481ef174f285"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12430",
+        "abyssId": "12430",
+        "playXID": "5527eaab87a00dbe1614481ef174f285",
+        "title": "True Beauty",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "qZywXOord"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "4XoT7yP2wE"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "Cvwz8JemM"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "JAJ56xLVK"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "otXin_vH5"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/1dc0f13018a166fc805b75909e79bd06/master.m3u8?md5=0ibQmGdySr99bRNTvZe-Aw&expires=1792166963",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/1dc0f13018a166fc805b75909e79bd06/master.m3u8?md5=0ibQmGdySr99bRNTvZe-Aw&expires=1792166963",
+            "videoSource": "https://ravok.buzz/cdn/hls/1dc0f13018a166fc805b75909e79bd06/master.m3u8?md5=0ibQmGdySr99bRNTvZe-Aw&expires=1792166963",
+            "videoImage": "https://as-cdn27.top/p/hkGnnKePhQ9MXAqlJJCws-xSfitf00zs9dQGCzPj7-ptc7scVzL0CMmoOJ3UReDpYAtr-LYBuiO3XeaNwp_H6w.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "5527eaab87a00dbe1614481ef174f285",
+                "streamUrl": "https://ravok.buzz/cdn/hls/1dc0f13018a166fc805b75909e79bd06/master.m3u8?md5=0ibQmGdySr99bRNTvZe-Aw&expires=1792166963",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/1dc0f13018a166fc805b75909e79bd06/master.m3u8?md5=0ibQmGdySr99bRNTvZe-Aw&expires=1792166963",
+                "videoSource": "https://ravok.buzz/cdn/hls/1dc0f13018a166fc805b75909e79bd06/master.m3u8?md5=0ibQmGdySr99bRNTvZe-Aw&expires=1792166963",
+                "link": "https://ravok.buzz/cdn/hls/1dc0f13018a166fc805b75909e79bd06/master.m3u8?md5=0ibQmGdySr99bRNTvZe-Aw&expires=1792166963",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/hkGnnKePhQ9MXAqlJJCws-xSfitf00zs9dQGCzPj7-ptc7scVzL0CMmoOJ3UReDpYAtr-LYBuiO3XeaNwp_H6w.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "qZywXOord"
+        }
+      },
+      "fetched_at": "2026-10-16T14:09:33Z"
+    },
+    {
+      "id": "episode/true-beauty-1x5",
+      "episode_id": "episode/true-beauty-1x5",
+      "title": "True Beauty 1x1",
+      "episode_name": "True Beauty 1x1",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1228/1/5.webp",
+      "abyssid": "12431",
+      "abyssId": "12431",
+      "playxid": "17a3120e4e5fbdc3cb5b5f946809b06a",
+      "playXID": "17a3120e4e5fbdc3cb5b5f946809b06a",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12431",
+        "playXID": "17a3120e4e5fbdc3cb5b5f946809b06a",
+        "streamId": "12431",
+        "dubPlayerSrc": "/dub-player/t/12431/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=17a3120e4e5fbdc3cb5b5f946809b06a&abyssId=12431"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12431",
+        "playXID": "17a3120e4e5fbdc3cb5b5f946809b06a",
+        "streamId": "12431",
+        "dubPlayerSrc": "/dub-player/t/12431/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=17a3120e4e5fbdc3cb5b5f946809b06a&abyssId=12431"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/17a3120e4e5fbdc3cb5b5f946809b06a",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/17a3120e4e5fbdc3cb5b5f946809b06a"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12431",
+        "abyssId": "12431",
+        "playXID": "17a3120e4e5fbdc3cb5b5f946809b06a",
+        "title": "True Beauty",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "8ap3Mlzgy"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "5H1Lc1TmS"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "tgw_rT3nFK"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "xmPeJDqiq"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "tzvaR2RTa"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/467fe24ae445060d0b430526b8f4e4f8/master.m3u8?md5=TEdf29lWemVhZrj1KDaKlg&expires=1792166963",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/467fe24ae445060d0b430526b8f4e4f8/master.m3u8?md5=TEdf29lWemVhZrj1KDaKlg&expires=1792166963",
+            "videoSource": "https://ravok.buzz/cdn/hls/467fe24ae445060d0b430526b8f4e4f8/master.m3u8?md5=TEdf29lWemVhZrj1KDaKlg&expires=1792166963",
+            "videoImage": "https://as-cdn27.top/p/D_S_c6Ng-gX5SFJiBVetrU76aqfJxdk45_vK_rYp3ThTJgr3AfpAejWyCNpaxJUKa7S3zCCWzGuOhuj9b28EWw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "17a3120e4e5fbdc3cb5b5f946809b06a",
+                "streamUrl": "https://ravok.buzz/cdn/hls/467fe24ae445060d0b430526b8f4e4f8/master.m3u8?md5=TEdf29lWemVhZrj1KDaKlg&expires=1792166963",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/467fe24ae445060d0b430526b8f4e4f8/master.m3u8?md5=TEdf29lWemVhZrj1KDaKlg&expires=1792166963",
+                "videoSource": "https://ravok.buzz/cdn/hls/467fe24ae445060d0b430526b8f4e4f8/master.m3u8?md5=TEdf29lWemVhZrj1KDaKlg&expires=1792166963",
+                "link": "https://ravok.buzz/cdn/hls/467fe24ae445060d0b430526b8f4e4f8/master.m3u8?md5=TEdf29lWemVhZrj1KDaKlg&expires=1792166963",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/D_S_c6Ng-gX5SFJiBVetrU76aqfJxdk45_vK_rYp3ThTJgr3AfpAejWyCNpaxJUKa7S3zCCWzGuOhuj9b28EWw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "8ap3Mlzgy"
+        }
+      },
+      "fetched_at": "2026-10-16T14:09:33Z"
+    },
+    {
+      "id": "episode/true-beauty-1x3",
+      "episode_id": "episode/true-beauty-1x3",
+      "title": "True Beauty 1x1",
+      "episode_name": "True Beauty 1x1",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1228/1/3.webp",
+      "abyssid": "12429",
+      "abyssId": "12429",
+      "playxid": "5c7a3b81a677c639c76989610183c0e0",
+      "playXID": "5c7a3b81a677c639c76989610183c0e0",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12429",
+        "playXID": "5c7a3b81a677c639c76989610183c0e0",
+        "streamId": "12429",
+        "dubPlayerSrc": "/dub-player/t/12429/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=5c7a3b81a677c639c76989610183c0e0&abyssId=12429"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12429",
+        "playXID": "5c7a3b81a677c639c76989610183c0e0",
+        "streamId": "12429",
+        "dubPlayerSrc": "/dub-player/t/12429/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=5c7a3b81a677c639c76989610183c0e0&abyssId=12429"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/5c7a3b81a677c639c76989610183c0e0",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/5c7a3b81a677c639c76989610183c0e0"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12429",
+        "abyssId": "12429",
+        "playXID": "5c7a3b81a677c639c76989610183c0e0",
+        "title": "True Beauty",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "x4JxfGTJP"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "Cz4X6C83U"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "yufy1ei8a"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "ZQBkj6V1r"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "pBx67YLAw"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/f8a80831135f648faaea3624c3354c18/master.m3u8?md5=fEEKStIrGXK6sItz70CpZw&expires=1792166963",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/f8a80831135f648faaea3624c3354c18/master.m3u8?md5=fEEKStIrGXK6sItz70CpZw&expires=1792166963",
+            "videoSource": "https://ravok.buzz/cdn/hls/f8a80831135f648faaea3624c3354c18/master.m3u8?md5=fEEKStIrGXK6sItz70CpZw&expires=1792166963",
+            "videoImage": "https://as-cdn28.top/p/J4W8VAcIvBz8aS9d0h6A1gjD10e_nPRF3Gvk1XdrTsbMLh1oeR0fvKX4qwT0Sr_hmwBIci5wPHGfLFMf-awIzg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "5c7a3b81a677c639c76989610183c0e0",
+                "streamUrl": "https://ravok.buzz/cdn/hls/f8a80831135f648faaea3624c3354c18/master.m3u8?md5=fEEKStIrGXK6sItz70CpZw&expires=1792166963",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/f8a80831135f648faaea3624c3354c18/master.m3u8?md5=fEEKStIrGXK6sItz70CpZw&expires=1792166963",
+                "videoSource": "https://ravok.buzz/cdn/hls/f8a80831135f648faaea3624c3354c18/master.m3u8?md5=fEEKStIrGXK6sItz70CpZw&expires=1792166963",
+                "link": "https://ravok.buzz/cdn/hls/f8a80831135f648faaea3624c3354c18/master.m3u8?md5=fEEKStIrGXK6sItz70CpZw&expires=1792166963",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/J4W8VAcIvBz8aS9d0h6A1gjD10e_nPRF3Gvk1XdrTsbMLh1oeR0fvKX4qwT0Sr_hmwBIci5wPHGfLFMf-awIzg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "x4JxfGTJP"
+        }
+      },
+      "fetched_at": "2026-10-16T14:09:34Z"
+    },
+    {
+      "id": "episode/true-beauty-1x2",
+      "episode_id": "episode/true-beauty-1x2",
+      "title": "True Beauty 1x1",
+      "episode_name": "True Beauty 1x1",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1228/1/2.webp",
+      "abyssid": "12428",
+      "abyssId": "12428",
+      "playxid": "11833d4b4ec685c371ae6d1a65cc341e",
+      "playXID": "11833d4b4ec685c371ae6d1a65cc341e",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12428",
+        "playXID": "11833d4b4ec685c371ae6d1a65cc341e",
+        "streamId": "12428",
+        "dubPlayerSrc": "/dub-player/t/12428/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=11833d4b4ec685c371ae6d1a65cc341e&abyssId=12428"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12428",
+        "playXID": "11833d4b4ec685c371ae6d1a65cc341e",
+        "streamId": "12428",
+        "dubPlayerSrc": "/dub-player/t/12428/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=11833d4b4ec685c371ae6d1a65cc341e&abyssId=12428"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/11833d4b4ec685c371ae6d1a65cc341e",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/11833d4b4ec685c371ae6d1a65cc341e"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12428",
+        "abyssId": "12428",
+        "playXID": "11833d4b4ec685c371ae6d1a65cc341e",
+        "title": "True Beauty",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "R-1fK5xYj"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "Bu0pDBChn"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "wxphjBL7J"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "0go0wMd0t"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "ICsB6OlXL"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/722a3eacca979c46fdaff9686d0857ea/master.m3u8?md5=qbG6aPvZ65Rexsze8bBVlQ&expires=1792166964",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/722a3eacca979c46fdaff9686d0857ea/master.m3u8?md5=qbG6aPvZ65Rexsze8bBVlQ&expires=1792166964",
+            "videoSource": "https://ravok.buzz/cdn/hls/722a3eacca979c46fdaff9686d0857ea/master.m3u8?md5=qbG6aPvZ65Rexsze8bBVlQ&expires=1792166964",
+            "videoImage": "https://as-cdn30.top/p/jJ_tGlBVNMqN-5_LCy_hOG5qra1oqG4qtnVROWl4IJ7YjqQfB8dHPPEyqoWVvfEv0NHR128ZifL55LriLJBVow.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "11833d4b4ec685c371ae6d1a65cc341e",
+                "streamUrl": "https://ravok.buzz/cdn/hls/722a3eacca979c46fdaff9686d0857ea/master.m3u8?md5=qbG6aPvZ65Rexsze8bBVlQ&expires=1792166964",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/722a3eacca979c46fdaff9686d0857ea/master.m3u8?md5=qbG6aPvZ65Rexsze8bBVlQ&expires=1792166964",
+                "videoSource": "https://ravok.buzz/cdn/hls/722a3eacca979c46fdaff9686d0857ea/master.m3u8?md5=qbG6aPvZ65Rexsze8bBVlQ&expires=1792166964",
+                "link": "https://ravok.buzz/cdn/hls/722a3eacca979c46fdaff9686d0857ea/master.m3u8?md5=qbG6aPvZ65Rexsze8bBVlQ&expires=1792166964",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/jJ_tGlBVNMqN-5_LCy_hOG5qra1oqG4qtnVROWl4IJ7YjqQfB8dHPPEyqoWVvfEv0NHR128ZifL55LriLJBVow.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "R-1fK5xYj"
+        }
+      },
+      "fetched_at": "2026-10-16T14:09:34Z"
+    },
+    {
+      "id": "episode/true-beauty-1x1",
+      "episode_id": "episode/true-beauty-1x1",
+      "title": "True Beauty 1x1",
+      "episode_name": "True Beauty 1x1",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1228/1/1.webp",
+      "abyssid": "12427",
+      "abyssId": "12427",
+      "playxid": "49e863b146f3b5470ee222ee84669b1c",
+      "playXID": "49e863b146f3b5470ee222ee84669b1c",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12427",
+        "playXID": "49e863b146f3b5470ee222ee84669b1c",
+        "streamId": "12427",
+        "dubPlayerSrc": "/dub-player/t/12427/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=49e863b146f3b5470ee222ee84669b1c&abyssId=12427"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12427",
+        "playXID": "49e863b146f3b5470ee222ee84669b1c",
+        "streamId": "12427",
+        "dubPlayerSrc": "/dub-player/t/12427/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=49e863b146f3b5470ee222ee84669b1c&abyssId=12427"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/49e863b146f3b5470ee222ee84669b1c",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/49e863b146f3b5470ee222ee84669b1c"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12427",
+        "abyssId": "12427",
+        "playXID": "49e863b146f3b5470ee222ee84669b1c",
+        "title": "True Beauty",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "b9UExP45I"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "D-tqoLdR_"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "Zt9Mbqge5"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "Y0CvH0pYh"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "4YLrgn2fJ"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/f7ffd914feab941ea3a9f2a075f3089a/master.m3u8?md5=9AK6Qe40bNOMiG5GrEifng&expires=1792166964",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/f7ffd914feab941ea3a9f2a075f3089a/master.m3u8?md5=9AK6Qe40bNOMiG5GrEifng&expires=1792166964",
+            "videoSource": "https://ravok.buzz/cdn/hls/f7ffd914feab941ea3a9f2a075f3089a/master.m3u8?md5=9AK6Qe40bNOMiG5GrEifng&expires=1792166964",
+            "videoImage": "https://as-cdn28.top/p/uGo0dSiTtbV5OyTexByqBdKtUencBObwA2Ck0AlwtsIyVpFUoAZASWKs-2vnSTj55cpF6fF1f9ya1Sjm5j_bRA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "49e863b146f3b5470ee222ee84669b1c",
+                "streamUrl": "https://ravok.buzz/cdn/hls/f7ffd914feab941ea3a9f2a075f3089a/master.m3u8?md5=9AK6Qe40bNOMiG5GrEifng&expires=1792166964",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/f7ffd914feab941ea3a9f2a075f3089a/master.m3u8?md5=9AK6Qe40bNOMiG5GrEifng&expires=1792166964",
+                "videoSource": "https://ravok.buzz/cdn/hls/f7ffd914feab941ea3a9f2a075f3089a/master.m3u8?md5=9AK6Qe40bNOMiG5GrEifng&expires=1792166964",
+                "link": "https://ravok.buzz/cdn/hls/f7ffd914feab941ea3a9f2a075f3089a/master.m3u8?md5=9AK6Qe40bNOMiG5GrEifng&expires=1792166964",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/uGo0dSiTtbV5OyTexByqBdKtUencBObwA2Ck0AlwtsIyVpFUoAZASWKs-2vnSTj55cpF6fF1f9ya1Sjm5j_bRA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "b9UExP45I"
+        }
+      },
+      "fetched_at": "2026-10-16T14:09:34Z"
+    },
+    {
+      "id": "episode/true-beauty-1x6",
+      "episode_id": "episode/true-beauty-1x6",
+      "title": "True Beauty 1x1",
+      "episode_name": "True Beauty 1x1",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1228/1/6.webp",
+      "abyssid": "12432",
+      "abyssId": "12432",
+      "playxid": "20568692db622456cc42a2e853ca21f8",
+      "playXID": "20568692db622456cc42a2e853ca21f8",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12432",
+        "playXID": "20568692db622456cc42a2e853ca21f8",
+        "streamId": "12432",
+        "dubPlayerSrc": "/dub-player/t/12432/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=20568692db622456cc42a2e853ca21f8&abyssId=12432"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12432",
+        "playXID": "20568692db622456cc42a2e853ca21f8",
+        "streamId": "12432",
+        "dubPlayerSrc": "/dub-player/t/12432/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=20568692db622456cc42a2e853ca21f8&abyssId=12432"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/20568692db622456cc42a2e853ca21f8",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/20568692db622456cc42a2e853ca21f8"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12432",
+        "abyssId": "12432",
+        "playXID": "20568692db622456cc42a2e853ca21f8",
+        "title": "True Beauty",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "htrzh8jB_"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "b-YkPQi_V"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "V6VayRpXRY"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "DE11KNskQ"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "TvzJJ90v9"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/6640e71c202b738e777682e02377701a/master.m3u8?md5=gw2DggPS2B6LIqlzB81hvg&expires=1792166965",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/6640e71c202b738e777682e02377701a/master.m3u8?md5=gw2DggPS2B6LIqlzB81hvg&expires=1792166965",
+            "videoSource": "https://ravok.buzz/cdn/hls/6640e71c202b738e777682e02377701a/master.m3u8?md5=gw2DggPS2B6LIqlzB81hvg&expires=1792166965",
+            "videoImage": "https://as-cdn29.top/p/hRyIHNRY577DfGbeyA2ExO3AiVlp4mpsaZu6_xJ9Ym5mh1FPAiWEsih8O4Wwj3J4JgIT87QUBKKW-VXPsAAaqQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "20568692db622456cc42a2e853ca21f8",
+                "streamUrl": "https://ravok.buzz/cdn/hls/6640e71c202b738e777682e02377701a/master.m3u8?md5=gw2DggPS2B6LIqlzB81hvg&expires=1792166965",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/6640e71c202b738e777682e02377701a/master.m3u8?md5=gw2DggPS2B6LIqlzB81hvg&expires=1792166965",
+                "videoSource": "https://ravok.buzz/cdn/hls/6640e71c202b738e777682e02377701a/master.m3u8?md5=gw2DggPS2B6LIqlzB81hvg&expires=1792166965",
+                "link": "https://ravok.buzz/cdn/hls/6640e71c202b738e777682e02377701a/master.m3u8?md5=gw2DggPS2B6LIqlzB81hvg&expires=1792166965",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/hRyIHNRY577DfGbeyA2ExO3AiVlp4mpsaZu6_xJ9Ym5mh1FPAiWEsih8O4Wwj3J4JgIT87QUBKKW-VXPsAAaqQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "htrzh8jB_"
+        }
+      },
+      "fetched_at": "2026-10-16T14:09:35Z"
+    },
+    {
+      "id": "episode/true-beauty-1x7",
+      "episode_id": "episode/true-beauty-1x7",
+      "title": "True Beauty 1x1",
+      "episode_name": "True Beauty 1x1",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1228/1/7.webp",
+      "abyssid": "12433",
+      "abyssId": "12433",
+      "playxid": "e0854e3c03ec877be65d351b90680d46",
+      "playXID": "e0854e3c03ec877be65d351b90680d46",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12433",
+        "playXID": "e0854e3c03ec877be65d351b90680d46",
+        "streamId": "12433",
+        "dubPlayerSrc": "/dub-player/t/12433/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e0854e3c03ec877be65d351b90680d46&abyssId=12433"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12433",
+        "playXID": "e0854e3c03ec877be65d351b90680d46",
+        "streamId": "12433",
+        "dubPlayerSrc": "/dub-player/t/12433/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e0854e3c03ec877be65d351b90680d46&abyssId=12433"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/e0854e3c03ec877be65d351b90680d46",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/e0854e3c03ec877be65d351b90680d46"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12433",
+        "abyssId": "12433",
+        "playXID": "e0854e3c03ec877be65d351b90680d46",
+        "title": "True Beauty",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "Z7u0RzbSS"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "JkNV9Jn6u"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "DitK0ndVc"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "251EmJdH7"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "ntKqR1hJFI"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/513dcae6579a32810b032937c7410532/master.m3u8?md5=BB1-dkIos9Oy4ejnNrTyEg&expires=1792166966",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/513dcae6579a32810b032937c7410532/master.m3u8?md5=BB1-dkIos9Oy4ejnNrTyEg&expires=1792166966",
+            "videoSource": "https://ravok.buzz/cdn/hls/513dcae6579a32810b032937c7410532/master.m3u8?md5=BB1-dkIos9Oy4ejnNrTyEg&expires=1792166966",
+            "videoImage": "https://as-cdn29.top/p/EOLMS7tQV8DaGlgdUi0hHyl2CAcOCOjK2qDAF75rTDmzhkZ-ciedlR5scSrEPQG6LeN4ED_ilIzRLFg9yhFqaw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "e0854e3c03ec877be65d351b90680d46",
+                "streamUrl": "https://ravok.buzz/cdn/hls/513dcae6579a32810b032937c7410532/master.m3u8?md5=BB1-dkIos9Oy4ejnNrTyEg&expires=1792166966",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/513dcae6579a32810b032937c7410532/master.m3u8?md5=BB1-dkIos9Oy4ejnNrTyEg&expires=1792166966",
+                "videoSource": "https://ravok.buzz/cdn/hls/513dcae6579a32810b032937c7410532/master.m3u8?md5=BB1-dkIos9Oy4ejnNrTyEg&expires=1792166966",
+                "link": "https://ravok.buzz/cdn/hls/513dcae6579a32810b032937c7410532/master.m3u8?md5=BB1-dkIos9Oy4ejnNrTyEg&expires=1792166966",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/EOLMS7tQV8DaGlgdUi0hHyl2CAcOCOjK2qDAF75rTDmzhkZ-ciedlR5scSrEPQG6LeN4ED_ilIzRLFg9yhFqaw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "Z7u0RzbSS"
+        }
+      },
+      "fetched_at": "2026-10-16T14:09:35Z"
+    },
+    {
+      "id": "episode/true-beauty-1x8",
+      "episode_id": "episode/true-beauty-1x8",
+      "title": "True Beauty 1x1",
+      "episode_name": "True Beauty 1x1",
+      "episode_number": 8,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1228/1/8.webp",
+      "abyssid": "12434",
+      "abyssId": "12434",
+      "playxid": "1bd2caf96a17d892c2c7e9959549cfc7",
+      "playXID": "1bd2caf96a17d892c2c7e9959549cfc7",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12434",
+        "playXID": "1bd2caf96a17d892c2c7e9959549cfc7",
+        "streamId": "12434",
+        "dubPlayerSrc": "/dub-player/t/12434/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=1bd2caf96a17d892c2c7e9959549cfc7&abyssId=12434"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12434",
+        "playXID": "1bd2caf96a17d892c2c7e9959549cfc7",
+        "streamId": "12434",
+        "dubPlayerSrc": "/dub-player/t/12434/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=1bd2caf96a17d892c2c7e9959549cfc7&abyssId=12434"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/1bd2caf96a17d892c2c7e9959549cfc7",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/1bd2caf96a17d892c2c7e9959549cfc7"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12434",
+        "abyssId": "12434",
+        "playXID": "1bd2caf96a17d892c2c7e9959549cfc7",
+        "title": "True Beauty",
+        "season": 1,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "LhN2EZQxO"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "1D_keTA0S"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "0rF0vLyVn"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "_XMT161LZ"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "4a6O1WPoA"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/b7f9012d2505b4f65083b1ea88f82c5f/master.m3u8?md5=cm2K4WG7WOV9URBet3JsFQ&expires=1792166966",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/b7f9012d2505b4f65083b1ea88f82c5f/master.m3u8?md5=cm2K4WG7WOV9URBet3JsFQ&expires=1792166966",
+            "videoSource": "https://ravok.buzz/cdn/hls/b7f9012d2505b4f65083b1ea88f82c5f/master.m3u8?md5=cm2K4WG7WOV9URBet3JsFQ&expires=1792166966",
+            "videoImage": "https://as-cdn28.top/p/MJZFhKMQdwU0GAP9DG4FwfIQ-BM4gVNr6M0U5x8_kBgTUX3aB_hv4Ywx8MC5S0R8wkFnrii2lvTGg0tbKMF_GA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "1bd2caf96a17d892c2c7e9959549cfc7",
+                "streamUrl": "https://ravok.buzz/cdn/hls/b7f9012d2505b4f65083b1ea88f82c5f/master.m3u8?md5=cm2K4WG7WOV9URBet3JsFQ&expires=1792166966",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/b7f9012d2505b4f65083b1ea88f82c5f/master.m3u8?md5=cm2K4WG7WOV9URBet3JsFQ&expires=1792166966",
+                "videoSource": "https://ravok.buzz/cdn/hls/b7f9012d2505b4f65083b1ea88f82c5f/master.m3u8?md5=cm2K4WG7WOV9URBet3JsFQ&expires=1792166966",
+                "link": "https://ravok.buzz/cdn/hls/b7f9012d2505b4f65083b1ea88f82c5f/master.m3u8?md5=cm2K4WG7WOV9URBet3JsFQ&expires=1792166966",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/MJZFhKMQdwU0GAP9DG4FwfIQ-BM4gVNr6M0U5x8_kBgTUX3aB_hv4Ywx8MC5S0R8wkFnrii2lvTGg0tbKMF_GA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "LhN2EZQxO"
+        }
+      },
+      "fetched_at": "2026-10-16T14:09:35Z"
+    },
+    {
+      "id": "episode/true-beauty-1x9",
+      "episode_id": "episode/true-beauty-1x9",
+      "title": "True Beauty 1x1",
+      "episode_name": "True Beauty 1x1",
+      "episode_number": 9,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1228/1/9.webp",
+      "abyssid": "12435",
+      "abyssId": "12435",
+      "playxid": "bc3744cb38c6cf6b17e8814a9c2688a3",
+      "playXID": "bc3744cb38c6cf6b17e8814a9c2688a3",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12435",
+        "playXID": "bc3744cb38c6cf6b17e8814a9c2688a3",
+        "streamId": "12435",
+        "dubPlayerSrc": "/dub-player/t/12435/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=bc3744cb38c6cf6b17e8814a9c2688a3&abyssId=12435"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12435",
+        "playXID": "bc3744cb38c6cf6b17e8814a9c2688a3",
+        "streamId": "12435",
+        "dubPlayerSrc": "/dub-player/t/12435/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=bc3744cb38c6cf6b17e8814a9c2688a3&abyssId=12435"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/bc3744cb38c6cf6b17e8814a9c2688a3",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/bc3744cb38c6cf6b17e8814a9c2688a3"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12435",
+        "abyssId": "12435",
+        "playXID": "bc3744cb38c6cf6b17e8814a9c2688a3",
+        "title": "True Beauty",
+        "season": 1,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "hv1r4N6-Z"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "7FdI_yy8l"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "n4CqvNox0"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "PeRago2IW"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "mnm3MkBDm"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/9f1f906833a370b20b64828fd36e3e53/master.m3u8?md5=nJO2YM1tInS3VJW9dkdb6g&expires=1792166966",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/9f1f906833a370b20b64828fd36e3e53/master.m3u8?md5=nJO2YM1tInS3VJW9dkdb6g&expires=1792166966",
+            "videoSource": "https://ravok.buzz/cdn/hls/9f1f906833a370b20b64828fd36e3e53/master.m3u8?md5=nJO2YM1tInS3VJW9dkdb6g&expires=1792166966",
+            "videoImage": "https://as-cdn30.top/p/K8I8FnngJKPN75CoBR_7AzH-R_Oz1S4kZd-hxJxvZGEnbzXeq9uHuUhd7qI9LEC3he_JjsDPpPYl8d-lDki5XQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "bc3744cb38c6cf6b17e8814a9c2688a3",
+                "streamUrl": "https://ravok.buzz/cdn/hls/9f1f906833a370b20b64828fd36e3e53/master.m3u8?md5=nJO2YM1tInS3VJW9dkdb6g&expires=1792166966",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/9f1f906833a370b20b64828fd36e3e53/master.m3u8?md5=nJO2YM1tInS3VJW9dkdb6g&expires=1792166966",
+                "videoSource": "https://ravok.buzz/cdn/hls/9f1f906833a370b20b64828fd36e3e53/master.m3u8?md5=nJO2YM1tInS3VJW9dkdb6g&expires=1792166966",
+                "link": "https://ravok.buzz/cdn/hls/9f1f906833a370b20b64828fd36e3e53/master.m3u8?md5=nJO2YM1tInS3VJW9dkdb6g&expires=1792166966",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/K8I8FnngJKPN75CoBR_7AzH-R_Oz1S4kZd-hxJxvZGEnbzXeq9uHuUhd7qI9LEC3he_JjsDPpPYl8d-lDki5XQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "hv1r4N6-Z"
+        }
+      },
+      "fetched_at": "2026-10-16T14:09:35Z"
+    },
+    {
+      "id": "episode/true-beauty-1x10",
+      "episode_id": "episode/true-beauty-1x10",
+      "title": "True Beauty 1x1",
+      "episode_name": "True Beauty 1x1",
+      "episode_number": 10,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1228/1/10.webp",
+      "abyssid": "12436",
+      "abyssId": "12436",
+      "playxid": "d800149d2f947ad4d64f34668f8b20f6",
+      "playXID": "d800149d2f947ad4d64f34668f8b20f6",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12436",
+        "playXID": "d800149d2f947ad4d64f34668f8b20f6",
+        "streamId": "12436",
+        "dubPlayerSrc": "/dub-player/t/12436/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d800149d2f947ad4d64f34668f8b20f6&abyssId=12436"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12436",
+        "playXID": "d800149d2f947ad4d64f34668f8b20f6",
+        "streamId": "12436",
+        "dubPlayerSrc": "/dub-player/t/12436/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d800149d2f947ad4d64f34668f8b20f6&abyssId=12436"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/d800149d2f947ad4d64f34668f8b20f6",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/d800149d2f947ad4d64f34668f8b20f6"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12436",
+        "abyssId": "12436",
+        "playXID": "d800149d2f947ad4d64f34668f8b20f6",
+        "title": "True Beauty",
+        "season": 1,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "UTC1Ph2Fj"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "ArMeydeMq"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "MGB9iBqCX"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "tSrpKNnB4"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "eMTwhk8s9"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/a8c9ccf1aba9371682495ea681f34db2/master.m3u8?md5=OPyxz-dQA2urZ00AZogJJA&expires=1792166966",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/a8c9ccf1aba9371682495ea681f34db2/master.m3u8?md5=OPyxz-dQA2urZ00AZogJJA&expires=1792166966",
+            "videoSource": "https://ravok.buzz/cdn/hls/a8c9ccf1aba9371682495ea681f34db2/master.m3u8?md5=OPyxz-dQA2urZ00AZogJJA&expires=1792166966",
+            "videoImage": "https://as-cdn28.top/p/2-uYDdntCh9IfADPVHs2tdaxT8lNHu34D4wJiccGQAicowl8l6KDYUHoAMC4BFA15vR7KkZAi586uDhumXziWw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "d800149d2f947ad4d64f34668f8b20f6",
+                "streamUrl": "https://ravok.buzz/cdn/hls/a8c9ccf1aba9371682495ea681f34db2/master.m3u8?md5=OPyxz-dQA2urZ00AZogJJA&expires=1792166966",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/a8c9ccf1aba9371682495ea681f34db2/master.m3u8?md5=OPyxz-dQA2urZ00AZogJJA&expires=1792166966",
+                "videoSource": "https://ravok.buzz/cdn/hls/a8c9ccf1aba9371682495ea681f34db2/master.m3u8?md5=OPyxz-dQA2urZ00AZogJJA&expires=1792166966",
+                "link": "https://ravok.buzz/cdn/hls/a8c9ccf1aba9371682495ea681f34db2/master.m3u8?md5=OPyxz-dQA2urZ00AZogJJA&expires=1792166966",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/2-uYDdntCh9IfADPVHs2tdaxT8lNHu34D4wJiccGQAicowl8l6KDYUHoAMC4BFA15vR7KkZAi586uDhumXziWw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "UTC1Ph2Fj"
+        }
+      },
+      "fetched_at": "2026-10-16T14:09:36Z"
+    },
+    {
+      "id": "episode/true-beauty-1x11",
+      "episode_id": "episode/true-beauty-1x11",
+      "title": "True Beauty 1x1",
+      "episode_name": "True Beauty 1x1",
+      "episode_number": 11,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1228/1/11.webp",
+      "abyssid": "12437",
+      "abyssId": "12437",
+      "playxid": "255ea887b8bca36797426dfb35a809cc",
+      "playXID": "255ea887b8bca36797426dfb35a809cc",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12437",
+        "playXID": "255ea887b8bca36797426dfb35a809cc",
+        "streamId": "12437",
+        "dubPlayerSrc": "/dub-player/t/12437/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=255ea887b8bca36797426dfb35a809cc&abyssId=12437"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12437",
+        "playXID": "255ea887b8bca36797426dfb35a809cc",
+        "streamId": "12437",
+        "dubPlayerSrc": "/dub-player/t/12437/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=255ea887b8bca36797426dfb35a809cc&abyssId=12437"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/255ea887b8bca36797426dfb35a809cc",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/255ea887b8bca36797426dfb35a809cc"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12437",
+        "abyssId": "12437",
+        "playXID": "255ea887b8bca36797426dfb35a809cc",
+        "title": "True Beauty",
+        "season": 1,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "5BKWjV4lby"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "JdUkpevRP"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "R4aWWYJZy"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "VOopGEzUF"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "ld7Llp2J7"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/a6c396806c4ea6233bf02b42a0651aff/master.m3u8?md5=6XvpObMbib4wqfP4ncxenw&expires=1792166967",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/a6c396806c4ea6233bf02b42a0651aff/master.m3u8?md5=6XvpObMbib4wqfP4ncxenw&expires=1792166967",
+            "videoSource": "https://ravok.buzz/cdn/hls/a6c396806c4ea6233bf02b42a0651aff/master.m3u8?md5=6XvpObMbib4wqfP4ncxenw&expires=1792166967",
+            "videoImage": "https://as-cdn28.top/p/ln9bUB5022aNw6vnk-F4uaQ32Pa2YEs0SMJegbecpJRaDxeVNNLI1vvDrRixBMTVvLLuh8Q6qsgLkSJIy5L6mw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "255ea887b8bca36797426dfb35a809cc",
+                "streamUrl": "https://ravok.buzz/cdn/hls/a6c396806c4ea6233bf02b42a0651aff/master.m3u8?md5=6XvpObMbib4wqfP4ncxenw&expires=1792166967",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/a6c396806c4ea6233bf02b42a0651aff/master.m3u8?md5=6XvpObMbib4wqfP4ncxenw&expires=1792166967",
+                "videoSource": "https://ravok.buzz/cdn/hls/a6c396806c4ea6233bf02b42a0651aff/master.m3u8?md5=6XvpObMbib4wqfP4ncxenw&expires=1792166967",
+                "link": "https://ravok.buzz/cdn/hls/a6c396806c4ea6233bf02b42a0651aff/master.m3u8?md5=6XvpObMbib4wqfP4ncxenw&expires=1792166967",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/ln9bUB5022aNw6vnk-F4uaQ32Pa2YEs0SMJegbecpJRaDxeVNNLI1vvDrRixBMTVvLLuh8Q6qsgLkSJIy5L6mw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "5BKWjV4lby"
+        }
+      },
+      "fetched_at": "2026-10-16T14:09:37Z"
+    },
+    {
+      "id": "episode/true-beauty-1x12",
+      "episode_id": "episode/true-beauty-1x12",
+      "title": "True Beauty 1x1",
+      "episode_name": "True Beauty 1x1",
+      "episode_number": 12,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1228/1/12.webp",
+      "abyssid": "12438",
+      "abyssId": "12438",
+      "playxid": "ad62cfd33e3870262d6bf5331c1f13b0",
+      "playXID": "ad62cfd33e3870262d6bf5331c1f13b0",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12438",
+        "playXID": "ad62cfd33e3870262d6bf5331c1f13b0",
+        "streamId": "12438",
+        "dubPlayerSrc": "/dub-player/t/12438/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ad62cfd33e3870262d6bf5331c1f13b0&abyssId=12438"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12438",
+        "playXID": "ad62cfd33e3870262d6bf5331c1f13b0",
+        "streamId": "12438",
+        "dubPlayerSrc": "/dub-player/t/12438/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ad62cfd33e3870262d6bf5331c1f13b0&abyssId=12438"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/ad62cfd33e3870262d6bf5331c1f13b0",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/ad62cfd33e3870262d6bf5331c1f13b0"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12438",
+        "abyssId": "12438",
+        "playXID": "ad62cfd33e3870262d6bf5331c1f13b0",
+        "title": "True Beauty",
+        "season": 1,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "sTV20e8X6"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "Att_c_UkJ"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "ruqaJA3t3"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "zu_NazkYm"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "VFpI52T_z"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/2e45441b51c3088117317b506872ac3a/master.m3u8?md5=buipbALO-sD82EvPfUpIzg&expires=1792166967",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/2e45441b51c3088117317b506872ac3a/master.m3u8?md5=buipbALO-sD82EvPfUpIzg&expires=1792166967",
+            "videoSource": "https://ravok.buzz/cdn/hls/2e45441b51c3088117317b506872ac3a/master.m3u8?md5=buipbALO-sD82EvPfUpIzg&expires=1792166967",
+            "videoImage": "https://as-cdn28.top/p/i4Kr5b8_n9IOR8yoayhfEicNcKc8KgZpW3oHvY7X5OW3UJJ9uI0ZNrucK2EE7oOi7s7Z3k-fL-ycUuN4YmxmUg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "ad62cfd33e3870262d6bf5331c1f13b0",
+                "streamUrl": "https://ravok.buzz/cdn/hls/2e45441b51c3088117317b506872ac3a/master.m3u8?md5=buipbALO-sD82EvPfUpIzg&expires=1792166967",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/2e45441b51c3088117317b506872ac3a/master.m3u8?md5=buipbALO-sD82EvPfUpIzg&expires=1792166967",
+                "videoSource": "https://ravok.buzz/cdn/hls/2e45441b51c3088117317b506872ac3a/master.m3u8?md5=buipbALO-sD82EvPfUpIzg&expires=1792166967",
+                "link": "https://ravok.buzz/cdn/hls/2e45441b51c3088117317b506872ac3a/master.m3u8?md5=buipbALO-sD82EvPfUpIzg&expires=1792166967",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/i4Kr5b8_n9IOR8yoayhfEicNcKc8KgZpW3oHvY7X5OW3UJJ9uI0ZNrucK2EE7oOi7s7Z3k-fL-ycUuN4YmxmUg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "sTV20e8X6"
+        }
+      },
+      "fetched_at": "2026-10-16T14:09:37Z"
+    },
+    {
+      "id": "episode/true-beauty-1x13",
+      "episode_id": "episode/true-beauty-1x13",
+      "title": "True Beauty 1x1",
+      "episode_name": "True Beauty 1x1",
+      "episode_number": 13,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1228/1/13.webp",
+      "abyssid": "12439",
+      "abyssId": "12439",
+      "playxid": "2cd2915e69546904e4e5d4a2ac9e1652",
+      "playXID": "2cd2915e69546904e4e5d4a2ac9e1652",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12439",
+        "playXID": "2cd2915e69546904e4e5d4a2ac9e1652",
+        "streamId": "12439",
+        "dubPlayerSrc": "/dub-player/t/12439/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2cd2915e69546904e4e5d4a2ac9e1652&abyssId=12439"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12439",
+        "playXID": "2cd2915e69546904e4e5d4a2ac9e1652",
+        "streamId": "12439",
+        "dubPlayerSrc": "/dub-player/t/12439/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2cd2915e69546904e4e5d4a2ac9e1652&abyssId=12439"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/2cd2915e69546904e4e5d4a2ac9e1652",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/2cd2915e69546904e4e5d4a2ac9e1652"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12439",
+        "abyssId": "12439",
+        "playXID": "2cd2915e69546904e4e5d4a2ac9e1652",
+        "title": "True Beauty",
+        "season": 1,
+        "episode": 13,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "QTt-wEuLL"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "Dc7cZCl-b"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "a3OPUL-FL"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "af6mWCQHo"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "rypH-pSv6"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/b20eb4bfd97b154a404646a47a764fef/master.m3u8?md5=-H-DGtrPEr0PhXdlvOU-MQ&expires=1792166968",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/b20eb4bfd97b154a404646a47a764fef/master.m3u8?md5=-H-DGtrPEr0PhXdlvOU-MQ&expires=1792166968",
+            "videoSource": "https://ravok.buzz/cdn/hls/b20eb4bfd97b154a404646a47a764fef/master.m3u8?md5=-H-DGtrPEr0PhXdlvOU-MQ&expires=1792166968",
+            "videoImage": "https://as-cdn28.top/p/LMXYj1RsDTWiuzLzW5NXkJUEzbaqGyjbd9LjZfksD5s0UE9JHXGXqTUKcFK_YXYFr_zgL8KiwYwfMClH30i-EQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "2cd2915e69546904e4e5d4a2ac9e1652",
+                "streamUrl": "https://ravok.buzz/cdn/hls/b20eb4bfd97b154a404646a47a764fef/master.m3u8?md5=-H-DGtrPEr0PhXdlvOU-MQ&expires=1792166968",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/b20eb4bfd97b154a404646a47a764fef/master.m3u8?md5=-H-DGtrPEr0PhXdlvOU-MQ&expires=1792166968",
+                "videoSource": "https://ravok.buzz/cdn/hls/b20eb4bfd97b154a404646a47a764fef/master.m3u8?md5=-H-DGtrPEr0PhXdlvOU-MQ&expires=1792166968",
+                "link": "https://ravok.buzz/cdn/hls/b20eb4bfd97b154a404646a47a764fef/master.m3u8?md5=-H-DGtrPEr0PhXdlvOU-MQ&expires=1792166968",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/LMXYj1RsDTWiuzLzW5NXkJUEzbaqGyjbd9LjZfksD5s0UE9JHXGXqTUKcFK_YXYFr_zgL8KiwYwfMClH30i-EQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "QTt-wEuLL"
+        }
+      },
+      "fetched_at": "2026-10-16T14:09:37Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T14:09:32Z",
+  "updated_at": "2026-10-16T14:09:38Z"
+}

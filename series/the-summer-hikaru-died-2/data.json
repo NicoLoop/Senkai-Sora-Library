@@ -1,0 +1,1361 @@
+{
+  "id": "series/the-summer-hikaru-died-2",
+  "series_name": "The Summer Hikaru Died",
+  "title": "The Summer Hikaru Died",
+  "banner": "https://image.tmdb.org/t/p/w1280/dd9AaCFF8QspyepM8pcYixefZOh.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/x0wiTO87UMiVCUe24nKaHlp7AIc.jpg",
+  "genra": [
+    "Drama",
+    "Fantasy",
+    "Horror",
+    "Mystery",
+    "Psychological",
+    "Sci-Fi",
+    "Supernatural",
+    "Thriller"
+  ],
+  "genres": [
+    "Drama",
+    "Fantasy",
+    "Horror",
+    "Mystery",
+    "Psychological",
+    "Sci-Fi",
+    "Supernatural",
+    "Thriller"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Japanese"
+  ],
+  "synopsis": "Six months ago, Hikaru vanished for a week. Now, as his best friend Yoshiki senses something amiss and confronts him, the harrowing truth emerges.",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "The Summer Hikaru Died 1x1",
+          "id": "episode/the-summer-hikaru-died-1x1",
+          "image": "https://img.watchanimeworld.one/img/thumb_2164_s1e1.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "The Summer Hikaru Died 1x2",
+          "id": "episode/the-summer-hikaru-died-1x2",
+          "image": "https://img.watchanimeworld.one/img/thumb_2164_s1e2.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "The Summer Hikaru Died 1x3",
+          "id": "episode/the-summer-hikaru-died-1x3",
+          "image": "https://img.watchanimeworld.one/img/thumb_2164_s1e3.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "The Summer Hikaru Died 1x4",
+          "id": "episode/the-summer-hikaru-died-1x4",
+          "image": "https://img.watchanimeworld.one/img/thumb_2164_s1e4.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "The Summer Hikaru Died 1x5",
+          "id": "episode/the-summer-hikaru-died-1x5",
+          "image": "https://img.watchanimeworld.one/img/thumb_2164_s1e5.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "The Summer Hikaru Died 1x6",
+          "id": "episode/the-summer-hikaru-died-1x6",
+          "image": "https://img.watchanimeworld.one/img/thumb_2164_s1e6.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "The Summer Hikaru Died 1x7",
+          "id": "episode/the-summer-hikaru-died-1x7",
+          "image": "https://img.watchanimeworld.one/img/thumb_2164_s1e7.webp",
+          "season": 1
+        },
+        {
+          "episode": 8,
+          "title": "The Summer Hikaru Died 1x8",
+          "id": "episode/the-summer-hikaru-died-1x8",
+          "image": "https://img.watchanimeworld.one/img/thumb_2164_s1e8.webp",
+          "season": 1
+        },
+        {
+          "episode": 9,
+          "title": "The Summer Hikaru Died 1x9",
+          "id": "episode/the-summer-hikaru-died-1x9",
+          "image": "https://img.watchanimeworld.one/img/thumb_2164_s1e9.webp",
+          "season": 1
+        },
+        {
+          "episode": 10,
+          "title": "The Summer Hikaru Died 1x10",
+          "id": "episode/the-summer-hikaru-died-1x10",
+          "image": "https://img.watchanimeworld.one/img/thumb_2164_s1e10.webp",
+          "season": 1
+        },
+        {
+          "episode": 11,
+          "title": "The Summer Hikaru Died 1x11",
+          "id": "episode/the-summer-hikaru-died-1x11",
+          "image": "https://img.watchanimeworld.one/img/thumb_2164_s1e11.webp",
+          "season": 1
+        },
+        {
+          "episode": 12,
+          "title": "The Summer Hikaru Died 1x12",
+          "id": "episode/the-summer-hikaru-died-1x12",
+          "image": "https://img.watchanimeworld.one/img/thumb_2164_s1e12.webp",
+          "season": 1
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/the-summer-hikaru-died-1x4",
+      "episode_id": "episode/the-summer-hikaru-died-1x4",
+      "title": "The Summer Hikaru Died 1x1",
+      "episode_name": "The Summer Hikaru Died 1x1",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2164_s1e4.webp",
+      "abyssid": "17320",
+      "abyssId": "17320",
+      "playxid": "2f16fd62828c3604806fc60d69dcf495",
+      "playXID": "2f16fd62828c3604806fc60d69dcf495",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17320",
+        "playXID": "2f16fd62828c3604806fc60d69dcf495",
+        "streamId": "17320",
+        "dubPlayerSrc": "/dub-player/t/17320/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2f16fd62828c3604806fc60d69dcf495&abyssId=17320"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17320",
+        "playXID": "2f16fd62828c3604806fc60d69dcf495",
+        "streamId": "17320",
+        "dubPlayerSrc": "/dub-player/t/17320/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2f16fd62828c3604806fc60d69dcf495&abyssId=17320"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/2f16fd62828c3604806fc60d69dcf495",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/2f16fd62828c3604806fc60d69dcf495"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17320",
+        "abyssId": "17320",
+        "playXID": "2f16fd62828c3604806fc60d69dcf495",
+        "title": "The Summer Hikaru Died",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "0-eav6KX5"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "kEC6fPqgB"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "IQamne_e-"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/ee7eaa602bbc11c59514d1bb30b51f62/master.m3u8?md5=LqhmI-nd8BcYgx-kn0lwnw&expires=1792166114",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/ee7eaa602bbc11c59514d1bb30b51f62/master.m3u8?md5=LqhmI-nd8BcYgx-kn0lwnw&expires=1792166114",
+            "videoSource": "https://ravok.buzz/cdn/hls/ee7eaa602bbc11c59514d1bb30b51f62/master.m3u8?md5=LqhmI-nd8BcYgx-kn0lwnw&expires=1792166114",
+            "videoImage": "https://as-cdn30.top/p/fbydrIIuPS-yt2_4hClEXmaULgSglUYuAXfd-WL74cX-VLkybSh3MRSFPbF39fTxlViAjSurC_r-htA0Ut54ow.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "2f16fd62828c3604806fc60d69dcf495",
+                "streamUrl": "https://ravok.buzz/cdn/hls/ee7eaa602bbc11c59514d1bb30b51f62/master.m3u8?md5=LqhmI-nd8BcYgx-kn0lwnw&expires=1792166114",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/ee7eaa602bbc11c59514d1bb30b51f62/master.m3u8?md5=LqhmI-nd8BcYgx-kn0lwnw&expires=1792166114",
+                "videoSource": "https://ravok.buzz/cdn/hls/ee7eaa602bbc11c59514d1bb30b51f62/master.m3u8?md5=LqhmI-nd8BcYgx-kn0lwnw&expires=1792166114",
+                "link": "https://ravok.buzz/cdn/hls/ee7eaa602bbc11c59514d1bb30b51f62/master.m3u8?md5=LqhmI-nd8BcYgx-kn0lwnw&expires=1792166114",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/fbydrIIuPS-yt2_4hClEXmaULgSglUYuAXfd-WL74cX-VLkybSh3MRSFPbF39fTxlViAjSurC_r-htA0Ut54ow.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "0-eav6KX5"
+        }
+      },
+      "fetched_at": "2026-10-16T13:55:24Z"
+    },
+    {
+      "id": "episode/the-summer-hikaru-died-1x1",
+      "episode_id": "episode/the-summer-hikaru-died-1x1",
+      "title": "The Summer Hikaru Died 1x1",
+      "episode_name": "The Summer Hikaru Died 1x1",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2164_s1e1.webp",
+      "abyssid": "17317",
+      "abyssId": "17317",
+      "playxid": "ff2d0926d6b07ff0179183a9d687989e",
+      "playXID": "ff2d0926d6b07ff0179183a9d687989e",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17317",
+        "playXID": "ff2d0926d6b07ff0179183a9d687989e",
+        "streamId": "17317",
+        "dubPlayerSrc": "/dub-player/t/17317/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ff2d0926d6b07ff0179183a9d687989e&abyssId=17317"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17317",
+        "playXID": "ff2d0926d6b07ff0179183a9d687989e",
+        "streamId": "17317",
+        "dubPlayerSrc": "/dub-player/t/17317/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ff2d0926d6b07ff0179183a9d687989e&abyssId=17317"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/ff2d0926d6b07ff0179183a9d687989e",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/ff2d0926d6b07ff0179183a9d687989e"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17317",
+        "abyssId": "17317",
+        "playXID": "ff2d0926d6b07ff0179183a9d687989e",
+        "title": "The Summer Hikaru Died",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "xd8GtBmZv"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "6QNKf35B_"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "7_Q0evP3O"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/044e128b9cbe414bd1ee506fe62ec197/master.m3u8?md5=PtWJ1SUlymijL9M9cA2_SQ&expires=1792166114",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/044e128b9cbe414bd1ee506fe62ec197/master.m3u8?md5=PtWJ1SUlymijL9M9cA2_SQ&expires=1792166114",
+            "videoSource": "https://ravok.buzz/cdn/hls/044e128b9cbe414bd1ee506fe62ec197/master.m3u8?md5=PtWJ1SUlymijL9M9cA2_SQ&expires=1792166114",
+            "videoImage": "https://as-cdn28.top/p/vN50vHlBhUNF7PIncUUvESjiIhQRxy_VdIRhcIMc0X6hhAUwLs1SWSwVr_aqyG1Ba08g0WW6lYDnlSGL55I96A.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "ff2d0926d6b07ff0179183a9d687989e",
+                "streamUrl": "https://ravok.buzz/cdn/hls/044e128b9cbe414bd1ee506fe62ec197/master.m3u8?md5=PtWJ1SUlymijL9M9cA2_SQ&expires=1792166114",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/044e128b9cbe414bd1ee506fe62ec197/master.m3u8?md5=PtWJ1SUlymijL9M9cA2_SQ&expires=1792166114",
+                "videoSource": "https://ravok.buzz/cdn/hls/044e128b9cbe414bd1ee506fe62ec197/master.m3u8?md5=PtWJ1SUlymijL9M9cA2_SQ&expires=1792166114",
+                "link": "https://ravok.buzz/cdn/hls/044e128b9cbe414bd1ee506fe62ec197/master.m3u8?md5=PtWJ1SUlymijL9M9cA2_SQ&expires=1792166114",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/vN50vHlBhUNF7PIncUUvESjiIhQRxy_VdIRhcIMc0X6hhAUwLs1SWSwVr_aqyG1Ba08g0WW6lYDnlSGL55I96A.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "xd8GtBmZv"
+        }
+      },
+      "fetched_at": "2026-10-16T13:55:24Z"
+    },
+    {
+      "id": "episode/the-summer-hikaru-died-1x3",
+      "episode_id": "episode/the-summer-hikaru-died-1x3",
+      "title": "The Summer Hikaru Died 1x1",
+      "episode_name": "The Summer Hikaru Died 1x1",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2164_s1e3.webp",
+      "abyssid": "17319",
+      "abyssId": "17319",
+      "playxid": "6f18c1b79cf5eb73fd82769c7099a71d",
+      "playXID": "6f18c1b79cf5eb73fd82769c7099a71d",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17319",
+        "playXID": "6f18c1b79cf5eb73fd82769c7099a71d",
+        "streamId": "17319",
+        "dubPlayerSrc": "/dub-player/t/17319/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6f18c1b79cf5eb73fd82769c7099a71d&abyssId=17319"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17319",
+        "playXID": "6f18c1b79cf5eb73fd82769c7099a71d",
+        "streamId": "17319",
+        "dubPlayerSrc": "/dub-player/t/17319/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6f18c1b79cf5eb73fd82769c7099a71d&abyssId=17319"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/6f18c1b79cf5eb73fd82769c7099a71d",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/6f18c1b79cf5eb73fd82769c7099a71d"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17319",
+        "abyssId": "17319",
+        "playXID": "6f18c1b79cf5eb73fd82769c7099a71d",
+        "title": "The Summer Hikaru Died",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "RhAX1AT29"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "e7NhqiIZG"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "yTQgmJH21"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/65768a32a677ef33c720fd6cb7a57de9/master.m3u8?md5=JKOrYiuZVn8ZYy9IC_tisw&expires=1792166114",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/65768a32a677ef33c720fd6cb7a57de9/master.m3u8?md5=JKOrYiuZVn8ZYy9IC_tisw&expires=1792166114",
+            "videoSource": "https://ravok.buzz/cdn/hls/65768a32a677ef33c720fd6cb7a57de9/master.m3u8?md5=JKOrYiuZVn8ZYy9IC_tisw&expires=1792166114",
+            "videoImage": "https://as-cdn31.top/p/F3uGZN7-EJK24-TbfqBfBLKL9eQGifqfpmF7uCaNsgfjTeYWF5jr_bZZtcC-DzFLyRezULF4x-SVf5SdX3-6oA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "6f18c1b79cf5eb73fd82769c7099a71d",
+                "streamUrl": "https://ravok.buzz/cdn/hls/65768a32a677ef33c720fd6cb7a57de9/master.m3u8?md5=JKOrYiuZVn8ZYy9IC_tisw&expires=1792166114",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/65768a32a677ef33c720fd6cb7a57de9/master.m3u8?md5=JKOrYiuZVn8ZYy9IC_tisw&expires=1792166114",
+                "videoSource": "https://ravok.buzz/cdn/hls/65768a32a677ef33c720fd6cb7a57de9/master.m3u8?md5=JKOrYiuZVn8ZYy9IC_tisw&expires=1792166114",
+                "link": "https://ravok.buzz/cdn/hls/65768a32a677ef33c720fd6cb7a57de9/master.m3u8?md5=JKOrYiuZVn8ZYy9IC_tisw&expires=1792166114",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/F3uGZN7-EJK24-TbfqBfBLKL9eQGifqfpmF7uCaNsgfjTeYWF5jr_bZZtcC-DzFLyRezULF4x-SVf5SdX3-6oA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "RhAX1AT29"
+        }
+      },
+      "fetched_at": "2026-10-16T13:55:24Z"
+    },
+    {
+      "id": "episode/the-summer-hikaru-died-1x2",
+      "episode_id": "episode/the-summer-hikaru-died-1x2",
+      "title": "The Summer Hikaru Died 1x1",
+      "episode_name": "The Summer Hikaru Died 1x1",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2164_s1e2.webp",
+      "abyssid": "17318",
+      "abyssId": "17318",
+      "playxid": "13d3be50c8094e8c1ddef177d73fd1fe",
+      "playXID": "13d3be50c8094e8c1ddef177d73fd1fe",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17318",
+        "playXID": "13d3be50c8094e8c1ddef177d73fd1fe",
+        "streamId": "17318",
+        "dubPlayerSrc": "/dub-player/t/17318/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=13d3be50c8094e8c1ddef177d73fd1fe&abyssId=17318"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17318",
+        "playXID": "13d3be50c8094e8c1ddef177d73fd1fe",
+        "streamId": "17318",
+        "dubPlayerSrc": "/dub-player/t/17318/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=13d3be50c8094e8c1ddef177d73fd1fe&abyssId=17318"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/13d3be50c8094e8c1ddef177d73fd1fe",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/13d3be50c8094e8c1ddef177d73fd1fe"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17318",
+        "abyssId": "17318",
+        "playXID": "13d3be50c8094e8c1ddef177d73fd1fe",
+        "title": "The Summer Hikaru Died",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "sUAbe7N2PR"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "KZ0nzcgjL"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "ZO-7fzaZs"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/bf0072453ae66d10d32868b025aac7ad/master.m3u8?md5=CiUp5xuTL6MDVEBMYbZyvA&expires=1792166114",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/bf0072453ae66d10d32868b025aac7ad/master.m3u8?md5=CiUp5xuTL6MDVEBMYbZyvA&expires=1792166114",
+            "videoSource": "https://ravok.buzz/cdn/hls/bf0072453ae66d10d32868b025aac7ad/master.m3u8?md5=CiUp5xuTL6MDVEBMYbZyvA&expires=1792166114",
+            "videoImage": "https://as-cdn28.top/p/WcWqiN39FhuwzZ9ihXISk3cZtW8JiJ4JLwAavZ725p5qNeOk95c_Tl71AiSb7O_zD-o8tm7-wznxb_4oGWeAwg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "13d3be50c8094e8c1ddef177d73fd1fe",
+                "streamUrl": "https://ravok.buzz/cdn/hls/bf0072453ae66d10d32868b025aac7ad/master.m3u8?md5=CiUp5xuTL6MDVEBMYbZyvA&expires=1792166114",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/bf0072453ae66d10d32868b025aac7ad/master.m3u8?md5=CiUp5xuTL6MDVEBMYbZyvA&expires=1792166114",
+                "videoSource": "https://ravok.buzz/cdn/hls/bf0072453ae66d10d32868b025aac7ad/master.m3u8?md5=CiUp5xuTL6MDVEBMYbZyvA&expires=1792166114",
+                "link": "https://ravok.buzz/cdn/hls/bf0072453ae66d10d32868b025aac7ad/master.m3u8?md5=CiUp5xuTL6MDVEBMYbZyvA&expires=1792166114",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/WcWqiN39FhuwzZ9ihXISk3cZtW8JiJ4JLwAavZ725p5qNeOk95c_Tl71AiSb7O_zD-o8tm7-wznxb_4oGWeAwg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "sUAbe7N2PR"
+        }
+      },
+      "fetched_at": "2026-10-16T13:55:24Z"
+    },
+    {
+      "id": "episode/the-summer-hikaru-died-1x5",
+      "episode_id": "episode/the-summer-hikaru-died-1x5",
+      "title": "The Summer Hikaru Died 1x1",
+      "episode_name": "The Summer Hikaru Died 1x1",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2164_s1e5.webp",
+      "abyssid": "17321",
+      "abyssId": "17321",
+      "playxid": "3308c5f83a73a5b9effdc8caffa4afcc",
+      "playXID": "3308c5f83a73a5b9effdc8caffa4afcc",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17321",
+        "playXID": "3308c5f83a73a5b9effdc8caffa4afcc",
+        "streamId": "17321",
+        "dubPlayerSrc": "/dub-player/t/17321/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=3308c5f83a73a5b9effdc8caffa4afcc&abyssId=17321"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17321",
+        "playXID": "3308c5f83a73a5b9effdc8caffa4afcc",
+        "streamId": "17321",
+        "dubPlayerSrc": "/dub-player/t/17321/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=3308c5f83a73a5b9effdc8caffa4afcc&abyssId=17321"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/3308c5f83a73a5b9effdc8caffa4afcc",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/3308c5f83a73a5b9effdc8caffa4afcc"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17321",
+        "abyssId": "17321",
+        "playXID": "3308c5f83a73a5b9effdc8caffa4afcc",
+        "title": "The Summer Hikaru Died",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "apSdMsn_J"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "kY19yDKQL"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "fbJhClAq2"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/4719702aebefd8fc23f0d8d300ea1f5b/master.m3u8?md5=RIbIqAkYixQarrqglhdIKQ&expires=1792166114",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/4719702aebefd8fc23f0d8d300ea1f5b/master.m3u8?md5=RIbIqAkYixQarrqglhdIKQ&expires=1792166114",
+            "videoSource": "https://ravok.buzz/cdn/hls/4719702aebefd8fc23f0d8d300ea1f5b/master.m3u8?md5=RIbIqAkYixQarrqglhdIKQ&expires=1792166114",
+            "videoImage": "https://as-cdn29.top/p/2KcSamlb8iPrWdnR6iZKHmhC8GIXSVOGtCeJbygmhA8iNNMKyY7EUiLwsNzrH1QkTWhtPPoIaen-C229ANPbxw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "3308c5f83a73a5b9effdc8caffa4afcc",
+                "streamUrl": "https://ravok.buzz/cdn/hls/4719702aebefd8fc23f0d8d300ea1f5b/master.m3u8?md5=RIbIqAkYixQarrqglhdIKQ&expires=1792166114",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/4719702aebefd8fc23f0d8d300ea1f5b/master.m3u8?md5=RIbIqAkYixQarrqglhdIKQ&expires=1792166114",
+                "videoSource": "https://ravok.buzz/cdn/hls/4719702aebefd8fc23f0d8d300ea1f5b/master.m3u8?md5=RIbIqAkYixQarrqglhdIKQ&expires=1792166114",
+                "link": "https://ravok.buzz/cdn/hls/4719702aebefd8fc23f0d8d300ea1f5b/master.m3u8?md5=RIbIqAkYixQarrqglhdIKQ&expires=1792166114",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/2KcSamlb8iPrWdnR6iZKHmhC8GIXSVOGtCeJbygmhA8iNNMKyY7EUiLwsNzrH1QkTWhtPPoIaen-C229ANPbxw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "apSdMsn_J"
+        }
+      },
+      "fetched_at": "2026-10-16T13:55:24Z"
+    },
+    {
+      "id": "episode/the-summer-hikaru-died-1x6",
+      "episode_id": "episode/the-summer-hikaru-died-1x6",
+      "title": "The Summer Hikaru Died 1x1",
+      "episode_name": "The Summer Hikaru Died 1x1",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2164_s1e6.webp",
+      "abyssid": "17322",
+      "abyssId": "17322",
+      "playxid": "6a1eb08082e599be20b641013fb8901c",
+      "playXID": "6a1eb08082e599be20b641013fb8901c",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17322",
+        "playXID": "6a1eb08082e599be20b641013fb8901c",
+        "streamId": "17322",
+        "dubPlayerSrc": "/dub-player/t/17322/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6a1eb08082e599be20b641013fb8901c&abyssId=17322"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17322",
+        "playXID": "6a1eb08082e599be20b641013fb8901c",
+        "streamId": "17322",
+        "dubPlayerSrc": "/dub-player/t/17322/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6a1eb08082e599be20b641013fb8901c&abyssId=17322"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/6a1eb08082e599be20b641013fb8901c",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/6a1eb08082e599be20b641013fb8901c"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17322",
+        "abyssId": "17322",
+        "playXID": "6a1eb08082e599be20b641013fb8901c",
+        "title": "The Summer Hikaru Died",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "IEXqRbEkq"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "twF4sIPSP"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "EHNJMe8Rg"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/8db00c9986d4a9ec2d26b8eda4fdf705/master.m3u8?md5=baKG2ErVGXs1flTyqsaqFQ&expires=1792166116",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/8db00c9986d4a9ec2d26b8eda4fdf705/master.m3u8?md5=baKG2ErVGXs1flTyqsaqFQ&expires=1792166116",
+            "videoSource": "https://ravok.buzz/cdn/hls/8db00c9986d4a9ec2d26b8eda4fdf705/master.m3u8?md5=baKG2ErVGXs1flTyqsaqFQ&expires=1792166116",
+            "videoImage": "https://as-cdn28.top/p/F0r042FVZJ5kXb8dRLyOGe1Q6RVod2YGw-kJTPcX4v2cWbBXRWNetjw2Oond4Pi8CFU4lGbRkJ80Xpiu3_wToQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "6a1eb08082e599be20b641013fb8901c",
+                "streamUrl": "https://ravok.buzz/cdn/hls/8db00c9986d4a9ec2d26b8eda4fdf705/master.m3u8?md5=baKG2ErVGXs1flTyqsaqFQ&expires=1792166116",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/8db00c9986d4a9ec2d26b8eda4fdf705/master.m3u8?md5=baKG2ErVGXs1flTyqsaqFQ&expires=1792166116",
+                "videoSource": "https://ravok.buzz/cdn/hls/8db00c9986d4a9ec2d26b8eda4fdf705/master.m3u8?md5=baKG2ErVGXs1flTyqsaqFQ&expires=1792166116",
+                "link": "https://ravok.buzz/cdn/hls/8db00c9986d4a9ec2d26b8eda4fdf705/master.m3u8?md5=baKG2ErVGXs1flTyqsaqFQ&expires=1792166116",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/F0r042FVZJ5kXb8dRLyOGe1Q6RVod2YGw-kJTPcX4v2cWbBXRWNetjw2Oond4Pi8CFU4lGbRkJ80Xpiu3_wToQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "IEXqRbEkq"
+        }
+      },
+      "fetched_at": "2026-10-16T13:55:26Z"
+    },
+    {
+      "id": "episode/the-summer-hikaru-died-1x9",
+      "episode_id": "episode/the-summer-hikaru-died-1x9",
+      "title": "The Summer Hikaru Died 1x1",
+      "episode_name": "The Summer Hikaru Died 1x1",
+      "episode_number": 9,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2164_s1e9.webp",
+      "abyssid": "17325",
+      "abyssId": "17325",
+      "playxid": "5424eee00c1ab222f20cea406d120812",
+      "playXID": "5424eee00c1ab222f20cea406d120812",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17325",
+        "playXID": "5424eee00c1ab222f20cea406d120812",
+        "streamId": "17325",
+        "dubPlayerSrc": "/dub-player/t/17325/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=5424eee00c1ab222f20cea406d120812&abyssId=17325"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17325",
+        "playXID": "5424eee00c1ab222f20cea406d120812",
+        "streamId": "17325",
+        "dubPlayerSrc": "/dub-player/t/17325/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=5424eee00c1ab222f20cea406d120812&abyssId=17325"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/5424eee00c1ab222f20cea406d120812",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/5424eee00c1ab222f20cea406d120812"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17325",
+        "abyssId": "17325",
+        "playXID": "5424eee00c1ab222f20cea406d120812",
+        "title": "The Summer Hikaru Died",
+        "season": 1,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "kiwykUHl3"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "aBM1xQHfH"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "fyCJxXn8p"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/bc83f417a90fdf27009567dd976efe51/master.m3u8?md5=VI0zPQuve9u-ud4DLmGkPw&expires=1792166117",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/bc83f417a90fdf27009567dd976efe51/master.m3u8?md5=VI0zPQuve9u-ud4DLmGkPw&expires=1792166117",
+            "videoSource": "https://ravok.buzz/cdn/hls/bc83f417a90fdf27009567dd976efe51/master.m3u8?md5=VI0zPQuve9u-ud4DLmGkPw&expires=1792166117",
+            "videoImage": "https://as-cdn29.top/p/ObzBaEdv3_yGhR9FsuKUS9d2N2UVgOq0XZx0nfTmdHYVnRZ6qCv9YaYcSGitt7Vk6wAGLxV76O7tgAmstNqDoQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "5424eee00c1ab222f20cea406d120812",
+                "streamUrl": "https://ravok.buzz/cdn/hls/bc83f417a90fdf27009567dd976efe51/master.m3u8?md5=VI0zPQuve9u-ud4DLmGkPw&expires=1792166117",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/bc83f417a90fdf27009567dd976efe51/master.m3u8?md5=VI0zPQuve9u-ud4DLmGkPw&expires=1792166117",
+                "videoSource": "https://ravok.buzz/cdn/hls/bc83f417a90fdf27009567dd976efe51/master.m3u8?md5=VI0zPQuve9u-ud4DLmGkPw&expires=1792166117",
+                "link": "https://ravok.buzz/cdn/hls/bc83f417a90fdf27009567dd976efe51/master.m3u8?md5=VI0zPQuve9u-ud4DLmGkPw&expires=1792166117",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/ObzBaEdv3_yGhR9FsuKUS9d2N2UVgOq0XZx0nfTmdHYVnRZ6qCv9YaYcSGitt7Vk6wAGLxV76O7tgAmstNqDoQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "kiwykUHl3"
+        }
+      },
+      "fetched_at": "2026-10-16T13:55:27Z"
+    },
+    {
+      "id": "episode/the-summer-hikaru-died-1x10",
+      "episode_id": "episode/the-summer-hikaru-died-1x10",
+      "title": "The Summer Hikaru Died 1x1",
+      "episode_name": "The Summer Hikaru Died 1x1",
+      "episode_number": 10,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2164_s1e10.webp",
+      "abyssid": "17326",
+      "abyssId": "17326",
+      "playxid": "da27d51c6cf1872b5d8089dfe221c35a",
+      "playXID": "da27d51c6cf1872b5d8089dfe221c35a",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17326",
+        "playXID": "da27d51c6cf1872b5d8089dfe221c35a",
+        "streamId": "17326",
+        "dubPlayerSrc": "/dub-player/t/17326/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=da27d51c6cf1872b5d8089dfe221c35a&abyssId=17326"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17326",
+        "playXID": "da27d51c6cf1872b5d8089dfe221c35a",
+        "streamId": "17326",
+        "dubPlayerSrc": "/dub-player/t/17326/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=da27d51c6cf1872b5d8089dfe221c35a&abyssId=17326"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/da27d51c6cf1872b5d8089dfe221c35a",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/da27d51c6cf1872b5d8089dfe221c35a"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17326",
+        "abyssId": "17326",
+        "playXID": "da27d51c6cf1872b5d8089dfe221c35a",
+        "title": "The Summer Hikaru Died",
+        "season": 1,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "zZCnl3BMP"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "22XKlzm21"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "EnjZxFyf4"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/0989d00070ccb9129e9a296fce4e3563/master.m3u8?md5=XGMH3OZwiabGFAGIXoi_pg&expires=1792166117",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/0989d00070ccb9129e9a296fce4e3563/master.m3u8?md5=XGMH3OZwiabGFAGIXoi_pg&expires=1792166117",
+            "videoSource": "https://ravok.buzz/cdn/hls/0989d00070ccb9129e9a296fce4e3563/master.m3u8?md5=XGMH3OZwiabGFAGIXoi_pg&expires=1792166117",
+            "videoImage": "https://as-cdn31.top/p/kXErefKvo4VL3-7hY6iBmPZjcAnAD0Ft4_4v4CYKWQBvyAnnelS6ePUmj9vS3TjNccG8fq9iUwIshtvkq8sbng.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "da27d51c6cf1872b5d8089dfe221c35a",
+                "streamUrl": "https://ravok.buzz/cdn/hls/0989d00070ccb9129e9a296fce4e3563/master.m3u8?md5=XGMH3OZwiabGFAGIXoi_pg&expires=1792166117",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/0989d00070ccb9129e9a296fce4e3563/master.m3u8?md5=XGMH3OZwiabGFAGIXoi_pg&expires=1792166117",
+                "videoSource": "https://ravok.buzz/cdn/hls/0989d00070ccb9129e9a296fce4e3563/master.m3u8?md5=XGMH3OZwiabGFAGIXoi_pg&expires=1792166117",
+                "link": "https://ravok.buzz/cdn/hls/0989d00070ccb9129e9a296fce4e3563/master.m3u8?md5=XGMH3OZwiabGFAGIXoi_pg&expires=1792166117",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/kXErefKvo4VL3-7hY6iBmPZjcAnAD0Ft4_4v4CYKWQBvyAnnelS6ePUmj9vS3TjNccG8fq9iUwIshtvkq8sbng.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "zZCnl3BMP"
+        }
+      },
+      "fetched_at": "2026-10-16T13:55:27Z"
+    },
+    {
+      "id": "episode/the-summer-hikaru-died-1x7",
+      "episode_id": "episode/the-summer-hikaru-died-1x7",
+      "title": "The Summer Hikaru Died 1x1",
+      "episode_name": "The Summer Hikaru Died 1x1",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2164_s1e7.webp",
+      "abyssid": "17323",
+      "abyssId": "17323",
+      "playxid": "bb6d2babd7797d94d8f4a8600bc9b44e",
+      "playXID": "bb6d2babd7797d94d8f4a8600bc9b44e",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17323",
+        "playXID": "bb6d2babd7797d94d8f4a8600bc9b44e",
+        "streamId": "17323",
+        "dubPlayerSrc": "/dub-player/t/17323/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=bb6d2babd7797d94d8f4a8600bc9b44e&abyssId=17323"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17323",
+        "playXID": "bb6d2babd7797d94d8f4a8600bc9b44e",
+        "streamId": "17323",
+        "dubPlayerSrc": "/dub-player/t/17323/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=bb6d2babd7797d94d8f4a8600bc9b44e&abyssId=17323"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/bb6d2babd7797d94d8f4a8600bc9b44e",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/bb6d2babd7797d94d8f4a8600bc9b44e"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17323",
+        "abyssId": "17323",
+        "playXID": "bb6d2babd7797d94d8f4a8600bc9b44e",
+        "title": "The Summer Hikaru Died",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "FdWUdUrR_"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "k9U6n_GjQ"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "Ti0gzXctf"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/ac533fd38016a47c08f21209d90e17f3/master.m3u8?md5=epczH-BAidH9urcR5Wnt3g&expires=1792166116",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/ac533fd38016a47c08f21209d90e17f3/master.m3u8?md5=epczH-BAidH9urcR5Wnt3g&expires=1792166116",
+            "videoSource": "https://ravok.buzz/cdn/hls/ac533fd38016a47c08f21209d90e17f3/master.m3u8?md5=epczH-BAidH9urcR5Wnt3g&expires=1792166116",
+            "videoImage": "https://as-cdn28.top/p/0y2uwOJceMNHyVv8msX35FFNvk_FY5JjxIIiJowo7DoLMxf_ximEzzLyuLxKDMcKC4xs-RgT9HHeK4iD7y36zw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "bb6d2babd7797d94d8f4a8600bc9b44e",
+                "streamUrl": "https://ravok.buzz/cdn/hls/ac533fd38016a47c08f21209d90e17f3/master.m3u8?md5=epczH-BAidH9urcR5Wnt3g&expires=1792166116",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/ac533fd38016a47c08f21209d90e17f3/master.m3u8?md5=epczH-BAidH9urcR5Wnt3g&expires=1792166116",
+                "videoSource": "https://ravok.buzz/cdn/hls/ac533fd38016a47c08f21209d90e17f3/master.m3u8?md5=epczH-BAidH9urcR5Wnt3g&expires=1792166116",
+                "link": "https://ravok.buzz/cdn/hls/ac533fd38016a47c08f21209d90e17f3/master.m3u8?md5=epczH-BAidH9urcR5Wnt3g&expires=1792166116",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/0y2uwOJceMNHyVv8msX35FFNvk_FY5JjxIIiJowo7DoLMxf_ximEzzLyuLxKDMcKC4xs-RgT9HHeK4iD7y36zw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "FdWUdUrR_"
+        }
+      },
+      "fetched_at": "2026-10-16T13:55:27Z"
+    },
+    {
+      "id": "episode/the-summer-hikaru-died-1x8",
+      "episode_id": "episode/the-summer-hikaru-died-1x8",
+      "title": "The Summer Hikaru Died 1x1",
+      "episode_name": "The Summer Hikaru Died 1x1",
+      "episode_number": 8,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2164_s1e8.webp",
+      "abyssid": "17324",
+      "abyssId": "17324",
+      "playxid": "7a6b3e0e06f590735da57d63d5040639",
+      "playXID": "7a6b3e0e06f590735da57d63d5040639",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17324",
+        "playXID": "7a6b3e0e06f590735da57d63d5040639",
+        "streamId": "17324",
+        "dubPlayerSrc": "/dub-player/t/17324/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=7a6b3e0e06f590735da57d63d5040639&abyssId=17324"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17324",
+        "playXID": "7a6b3e0e06f590735da57d63d5040639",
+        "streamId": "17324",
+        "dubPlayerSrc": "/dub-player/t/17324/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=7a6b3e0e06f590735da57d63d5040639&abyssId=17324"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/7a6b3e0e06f590735da57d63d5040639",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/7a6b3e0e06f590735da57d63d5040639"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17324",
+        "abyssId": "17324",
+        "playXID": "7a6b3e0e06f590735da57d63d5040639",
+        "title": "The Summer Hikaru Died",
+        "season": 1,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "FPdYnacps"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "xzYD6gnyk"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "9w3Y0AZ4s"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/04bd71e8e76efe7b5228eb02072b5712/master.m3u8?md5=mRG7DRXcB4TkVR1a88nodQ&expires=1792166117",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/04bd71e8e76efe7b5228eb02072b5712/master.m3u8?md5=mRG7DRXcB4TkVR1a88nodQ&expires=1792166117",
+            "videoSource": "https://ravok.buzz/cdn/hls/04bd71e8e76efe7b5228eb02072b5712/master.m3u8?md5=mRG7DRXcB4TkVR1a88nodQ&expires=1792166117",
+            "videoImage": "https://as-cdn31.top/p/HNeXASo70IHfIHFjirKGluIx6JOLTcE0TRcvwVVLpd0XxbPVqkYhxBF3-yWaKTTiIQDICSK6Bl7Lil-EBZ8AOg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "7a6b3e0e06f590735da57d63d5040639",
+                "streamUrl": "https://ravok.buzz/cdn/hls/04bd71e8e76efe7b5228eb02072b5712/master.m3u8?md5=mRG7DRXcB4TkVR1a88nodQ&expires=1792166117",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/04bd71e8e76efe7b5228eb02072b5712/master.m3u8?md5=mRG7DRXcB4TkVR1a88nodQ&expires=1792166117",
+                "videoSource": "https://ravok.buzz/cdn/hls/04bd71e8e76efe7b5228eb02072b5712/master.m3u8?md5=mRG7DRXcB4TkVR1a88nodQ&expires=1792166117",
+                "link": "https://ravok.buzz/cdn/hls/04bd71e8e76efe7b5228eb02072b5712/master.m3u8?md5=mRG7DRXcB4TkVR1a88nodQ&expires=1792166117",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/HNeXASo70IHfIHFjirKGluIx6JOLTcE0TRcvwVVLpd0XxbPVqkYhxBF3-yWaKTTiIQDICSK6Bl7Lil-EBZ8AOg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "FPdYnacps"
+        }
+      },
+      "fetched_at": "2026-10-16T13:55:27Z"
+    },
+    {
+      "id": "episode/the-summer-hikaru-died-1x12",
+      "episode_id": "episode/the-summer-hikaru-died-1x12",
+      "title": "The Summer Hikaru Died 1x1",
+      "episode_name": "The Summer Hikaru Died 1x1",
+      "episode_number": 12,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2164_s1e12.webp",
+      "abyssid": "17328",
+      "abyssId": "17328",
+      "playxid": "4c162e5abd1d3789a24748c17c86d42f",
+      "playXID": "4c162e5abd1d3789a24748c17c86d42f",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17328",
+        "playXID": "4c162e5abd1d3789a24748c17c86d42f",
+        "streamId": "17328",
+        "dubPlayerSrc": "/dub-player/t/17328/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=4c162e5abd1d3789a24748c17c86d42f&abyssId=17328"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17328",
+        "playXID": "4c162e5abd1d3789a24748c17c86d42f",
+        "streamId": "17328",
+        "dubPlayerSrc": "/dub-player/t/17328/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=4c162e5abd1d3789a24748c17c86d42f&abyssId=17328"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/4c162e5abd1d3789a24748c17c86d42f",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/4c162e5abd1d3789a24748c17c86d42f"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17328",
+        "abyssId": "17328",
+        "playXID": "4c162e5abd1d3789a24748c17c86d42f",
+        "title": "The Summer Hikaru Died",
+        "season": 1,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "kvrv5WZWR"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "8ZCe9YOHk"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "l9as6p2dj"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/454c2bf929354b265375fcd155c3d7e3/master.m3u8?md5=brMDnbSq6rWlrOvtl6TNyg&expires=1792166118",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/454c2bf929354b265375fcd155c3d7e3/master.m3u8?md5=brMDnbSq6rWlrOvtl6TNyg&expires=1792166118",
+            "videoSource": "https://ravok.buzz/cdn/hls/454c2bf929354b265375fcd155c3d7e3/master.m3u8?md5=brMDnbSq6rWlrOvtl6TNyg&expires=1792166118",
+            "videoImage": "https://as-cdn29.top/p/EYwBpCHU2l5DQk3h_jfYXAUkUd5DmXeDdcHBn2vgJd5AJyhqRbcyTQifIQDdFofzdPUqm5xwHr_brnbxKNp3FA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "4c162e5abd1d3789a24748c17c86d42f",
+                "streamUrl": "https://ravok.buzz/cdn/hls/454c2bf929354b265375fcd155c3d7e3/master.m3u8?md5=brMDnbSq6rWlrOvtl6TNyg&expires=1792166118",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/454c2bf929354b265375fcd155c3d7e3/master.m3u8?md5=brMDnbSq6rWlrOvtl6TNyg&expires=1792166118",
+                "videoSource": "https://ravok.buzz/cdn/hls/454c2bf929354b265375fcd155c3d7e3/master.m3u8?md5=brMDnbSq6rWlrOvtl6TNyg&expires=1792166118",
+                "link": "https://ravok.buzz/cdn/hls/454c2bf929354b265375fcd155c3d7e3/master.m3u8?md5=brMDnbSq6rWlrOvtl6TNyg&expires=1792166118",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/EYwBpCHU2l5DQk3h_jfYXAUkUd5DmXeDdcHBn2vgJd5AJyhqRbcyTQifIQDdFofzdPUqm5xwHr_brnbxKNp3FA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "kvrv5WZWR"
+        }
+      },
+      "fetched_at": "2026-10-16T13:55:28Z"
+    },
+    {
+      "id": "episode/the-summer-hikaru-died-1x11",
+      "episode_id": "episode/the-summer-hikaru-died-1x11",
+      "title": "The Summer Hikaru Died 1x1",
+      "episode_name": "The Summer Hikaru Died 1x1",
+      "episode_number": 11,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2164_s1e11.webp",
+      "abyssid": "17327",
+      "abyssId": "17327",
+      "playxid": "17e9c3d5329fb4daa6c571a6108077b5",
+      "playXID": "17e9c3d5329fb4daa6c571a6108077b5",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17327",
+        "playXID": "17e9c3d5329fb4daa6c571a6108077b5",
+        "streamId": "17327",
+        "dubPlayerSrc": "/dub-player/t/17327/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=17e9c3d5329fb4daa6c571a6108077b5&abyssId=17327"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17327",
+        "playXID": "17e9c3d5329fb4daa6c571a6108077b5",
+        "streamId": "17327",
+        "dubPlayerSrc": "/dub-player/t/17327/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=17e9c3d5329fb4daa6c571a6108077b5&abyssId=17327"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/17e9c3d5329fb4daa6c571a6108077b5",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/17e9c3d5329fb4daa6c571a6108077b5"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17327",
+        "abyssId": "17327",
+        "playXID": "17e9c3d5329fb4daa6c571a6108077b5",
+        "title": "The Summer Hikaru Died",
+        "season": 1,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "NXRc202se"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "RTM2Hlqya"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "WfWSXA8rq6"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/f159b8db95e8cf4e8801e06a27f7dffb/master.m3u8?md5=EN34u6WrkzuCMVXhZgSuHw&expires=1792166118",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/f159b8db95e8cf4e8801e06a27f7dffb/master.m3u8?md5=EN34u6WrkzuCMVXhZgSuHw&expires=1792166118",
+            "videoSource": "https://ravok.buzz/cdn/hls/f159b8db95e8cf4e8801e06a27f7dffb/master.m3u8?md5=EN34u6WrkzuCMVXhZgSuHw&expires=1792166118",
+            "videoImage": "https://as-cdn29.top/p/8Sp7bBd0UfH9fIrUNpLoQDwzOlMCaJjiEj4YMHG68aoDJsFEJnPG4A-V3LBu5pP-wLrEO8Ka3VUOMce-T54oSQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "17e9c3d5329fb4daa6c571a6108077b5",
+                "streamUrl": "https://ravok.buzz/cdn/hls/f159b8db95e8cf4e8801e06a27f7dffb/master.m3u8?md5=EN34u6WrkzuCMVXhZgSuHw&expires=1792166118",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/f159b8db95e8cf4e8801e06a27f7dffb/master.m3u8?md5=EN34u6WrkzuCMVXhZgSuHw&expires=1792166118",
+                "videoSource": "https://ravok.buzz/cdn/hls/f159b8db95e8cf4e8801e06a27f7dffb/master.m3u8?md5=EN34u6WrkzuCMVXhZgSuHw&expires=1792166118",
+                "link": "https://ravok.buzz/cdn/hls/f159b8db95e8cf4e8801e06a27f7dffb/master.m3u8?md5=EN34u6WrkzuCMVXhZgSuHw&expires=1792166118",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/8Sp7bBd0UfH9fIrUNpLoQDwzOlMCaJjiEj4YMHG68aoDJsFEJnPG4A-V3LBu5pP-wLrEO8Ka3VUOMce-T54oSQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "NXRc202se"
+        }
+      },
+      "fetched_at": "2026-10-16T13:55:28Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T13:55:22Z",
+  "updated_at": "2026-10-16T13:55:28Z"
+}

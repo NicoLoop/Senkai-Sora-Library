@@ -1,0 +1,4528 @@
+{
+  "id": "series/death-note",
+  "series_name": "Death Note",
+  "title": "Death Note",
+  "banner": "https://image.tmdb.org/t/p/w1280/koBa94NxTaGe2FoDzlXMuJptsv0.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/tCZFfYTIwrR7n94J6G14Y4hAFU6.jpg",
+  "genra": [
+    "Fantasy",
+    "Mystery",
+    "Psychological",
+    "Shounen",
+    "Supernatural",
+    "Thriller"
+  ],
+  "genres": [
+    "Fantasy",
+    "Mystery",
+    "Psychological",
+    "Shounen",
+    "Supernatural",
+    "Thriller"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Japanese",
+    "Tamil",
+    "Telugu"
+  ],
+  "synopsis": "Light Yagami is an ace student with great prospects—and he’s bored out of his mind. But all that changes when he finds the Death Note, a notebook dropped by a rogue Shinigami death god. Any human whose name is written in the notebook dies, and Light has vowed to use the power of the Death Note to rid the world of evil. But will Light succeed in his noble goal, or will the Death Note turn him into the very thing he fights against?",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 37,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 37,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Private: Death Note 1x1",
+          "id": "episode/private-death-note-1x1",
+          "image": "https://img.watchanimeworld.one/img/thumb_1808_s1e1.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "Private: Death Note 1x2",
+          "id": "episode/private-death-note-1x2",
+          "image": "https://img.watchanimeworld.one/img/thumb_1808_s1e2.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "Private: Death Note 1x3",
+          "id": "episode/private-death-note-1x3",
+          "image": "https://img.watchanimeworld.one/img/thumb_1808_s1e3.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "Private: Death Note 1x4",
+          "id": "episode/private-death-note-1x4",
+          "image": "https://img.watchanimeworld.one/img/thumb_1808_s1e4.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "Private: Death Note 1x5",
+          "id": "episode/private-death-note-1x5",
+          "image": "https://img.watchanimeworld.one/img/thumb_1808_s1e5.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "Private: Death Note 1x6",
+          "id": "episode/private-death-note-1x6",
+          "image": "https://img.watchanimeworld.one/img/thumb_1808_s1e6.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "Private: Death Note 1x7",
+          "id": "episode/private-death-note-1x7",
+          "image": "https://img.watchanimeworld.one/img/thumb_1808_s1e7.webp",
+          "season": 1
+        },
+        {
+          "episode": 8,
+          "title": "Private: Death Note 1x8",
+          "id": "episode/private-death-note-1x8",
+          "image": "https://img.watchanimeworld.one/img/thumb_1808_s1e8.webp",
+          "season": 1
+        },
+        {
+          "episode": 9,
+          "title": "Death Note 1x9",
+          "id": "episode/death-note-1x9",
+          "image": "https://img.watchanimeworld.one/img/thumb_1808_s1e9.webp",
+          "season": 1
+        },
+        {
+          "episode": 10,
+          "title": "Death Note 1x10",
+          "id": "episode/death-note-1x10",
+          "image": "https://img.watchanimeworld.one/img/thumb_1808_s1e10.webp",
+          "season": 1
+        },
+        {
+          "episode": 11,
+          "title": "Death Note 1x11",
+          "id": "episode/death-note-1x11",
+          "image": "https://img.watchanimeworld.one/img/thumb_1808_s1e11.webp",
+          "season": 1
+        },
+        {
+          "episode": 12,
+          "title": "Death Note 1x12",
+          "id": "episode/death-note-1x12",
+          "image": "https://img.watchanimeworld.one/img/thumb_1808_s1e12.webp",
+          "season": 1
+        },
+        {
+          "episode": 13,
+          "title": "Death Note 1x13",
+          "id": "episode/death-note-1x13",
+          "image": "https://img.watchanimeworld.one/img/thumb_1808_s1e13.webp",
+          "season": 1
+        },
+        {
+          "episode": 14,
+          "title": "Death Note 1x14",
+          "id": "episode/death-note-1x14",
+          "image": "https://img.watchanimeworld.one/img/thumb_1808_s1e14.webp",
+          "season": 1
+        },
+        {
+          "episode": 15,
+          "title": "Death Note 1x15",
+          "id": "episode/death-note-1x15",
+          "image": "https://img.watchanimeworld.one/img/thumb_1808_s1e15.webp",
+          "season": 1
+        },
+        {
+          "episode": 16,
+          "title": "Death Note 1x16",
+          "id": "episode/death-note-1x16",
+          "image": "https://img.watchanimeworld.one/img/thumb_1808_s1e16.webp",
+          "season": 1
+        },
+        {
+          "episode": 17,
+          "title": "Death Note 1x17",
+          "id": "episode/death-note-1x17",
+          "image": "https://img.watchanimeworld.one/img/thumb_1808_s1e17.webp",
+          "season": 1
+        },
+        {
+          "episode": 18,
+          "title": "Death Note 1x18",
+          "id": "episode/death-note-1x18",
+          "image": "https://img.watchanimeworld.one/img/thumb_1808_s1e18.webp",
+          "season": 1
+        },
+        {
+          "episode": 19,
+          "title": "Death Note 1x19",
+          "id": "episode/death-note-1x19",
+          "image": "https://img.watchanimeworld.one/img/thumb_1808_s1e19.webp",
+          "season": 1
+        },
+        {
+          "episode": 20,
+          "title": "Death Note 1x20",
+          "id": "episode/death-note-1x20",
+          "image": "https://img.watchanimeworld.one/img/thumb_1808_s1e20.webp",
+          "season": 1
+        },
+        {
+          "episode": 21,
+          "title": "Death Note 1x21",
+          "id": "episode/death-note-1x21",
+          "image": "https://img.watchanimeworld.one/img/thumb_1808_s1e21.webp",
+          "season": 1
+        },
+        {
+          "episode": 22,
+          "title": "Death Note 1x22",
+          "id": "episode/death-note-1x22",
+          "image": "https://img.watchanimeworld.one/img/thumb_1808_s1e22.webp",
+          "season": 1
+        },
+        {
+          "episode": 23,
+          "title": "Death Note 1x23",
+          "id": "episode/death-note-1x23",
+          "image": "https://img.watchanimeworld.one/img/thumb_1808_s1e23.webp",
+          "season": 1
+        },
+        {
+          "episode": 24,
+          "title": "Death Note 1x24",
+          "id": "episode/death-note-1x24",
+          "image": "https://img.watchanimeworld.one/img/thumb_1808_s1e24.webp",
+          "season": 1
+        },
+        {
+          "episode": 25,
+          "title": "Death Note 1x25",
+          "id": "episode/death-note-1x25",
+          "image": "https://img.watchanimeworld.one/img/thumb_1808_s1e25.webp",
+          "season": 1
+        },
+        {
+          "episode": 26,
+          "title": "Death Note 1x26",
+          "id": "episode/death-note-1x26",
+          "image": "https://img.watchanimeworld.one/img/thumb_1808_s1e26.webp",
+          "season": 1
+        },
+        {
+          "episode": 27,
+          "title": "Death Note 1x27",
+          "id": "episode/death-note-1x27",
+          "image": "https://img.watchanimeworld.one/img/thumb_1808_s1e27.webp",
+          "season": 1
+        },
+        {
+          "episode": 28,
+          "title": "Death Note 1x28",
+          "id": "episode/death-note-1x28",
+          "image": "https://img.watchanimeworld.one/img/thumb_1808_s1e28.webp",
+          "season": 1
+        },
+        {
+          "episode": 29,
+          "title": "Death Note 1x29",
+          "id": "episode/death-note-1x29",
+          "image": "https://img.watchanimeworld.one/img/thumb_1808_s1e29.webp",
+          "season": 1
+        },
+        {
+          "episode": 30,
+          "title": "Death Note 1x30",
+          "id": "episode/death-note-1x30",
+          "image": "https://img.watchanimeworld.one/img/thumb_1808_s1e30.webp",
+          "season": 1
+        },
+        {
+          "episode": 31,
+          "title": "Death Note 1x31",
+          "id": "episode/death-note-1x31",
+          "image": "https://img.watchanimeworld.one/img/thumb_1808_s1e31.webp",
+          "season": 1
+        },
+        {
+          "episode": 32,
+          "title": "Death Note 1x32",
+          "id": "episode/death-note-1x32",
+          "image": "https://img.watchanimeworld.one/img/thumb_1808_s1e32.webp",
+          "season": 1
+        },
+        {
+          "episode": 33,
+          "title": "Death Note 1x33",
+          "id": "episode/death-note-1x33",
+          "image": "https://img.watchanimeworld.one/img/thumb_1808_s1e33.webp",
+          "season": 1
+        },
+        {
+          "episode": 34,
+          "title": "Death Note 1x34",
+          "id": "episode/death-note-1x34",
+          "image": "https://img.watchanimeworld.one/img/thumb_1808_s1e34.webp",
+          "season": 1
+        },
+        {
+          "episode": 35,
+          "title": "Death Note 1x35",
+          "id": "episode/death-note-1x35",
+          "image": "https://img.watchanimeworld.one/img/thumb_1808_s1e35.webp",
+          "season": 1
+        },
+        {
+          "episode": 36,
+          "title": "Death Note 1x36",
+          "id": "episode/death-note-1x36",
+          "image": "https://img.watchanimeworld.one/img/thumb_1808_s1e36.webp",
+          "season": 1
+        },
+        {
+          "episode": 37,
+          "title": "Death Note 1x37",
+          "id": "episode/death-note-1x37",
+          "image": "https://img.watchanimeworld.one/img/thumb_1808_s1e37.webp",
+          "season": 1
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/private-death-note-1x2",
+      "episode_id": "episode/private-death-note-1x2",
+      "title": "Private: Death Note 1x1",
+      "episode_name": "Private: Death Note 1x1",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1808_s1e2.webp",
+      "abyssid": "16570",
+      "abyssId": "16570",
+      "playxid": "8f38a4854cf927ba934f60512d83b95f",
+      "playXID": "8f38a4854cf927ba934f60512d83b95f",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16570",
+        "playXID": "8f38a4854cf927ba934f60512d83b95f",
+        "streamId": "16570",
+        "dubPlayerSrc": "/dub-player/t/16570/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8f38a4854cf927ba934f60512d83b95f&abyssId=16570"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16570",
+        "playXID": "8f38a4854cf927ba934f60512d83b95f",
+        "streamId": "16570",
+        "dubPlayerSrc": "/dub-player/t/16570/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8f38a4854cf927ba934f60512d83b95f&abyssId=16570"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/8f38a4854cf927ba934f60512d83b95f",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/8f38a4854cf927ba934f60512d83b95f"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16570",
+        "abyssId": "16570",
+        "playXID": "8f38a4854cf927ba934f60512d83b95f",
+        "title": "Death Note",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "ZGCzw9ZKD"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "Ii5VvrHN8"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "atvGxc0kw"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "RkYeXg_zy"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "59Psf6YER"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/537bbf2bdb30bfd9b43cef1a7696e98b/master.m3u8?md5=X6Yyy3YabluY_02xBCae-w&expires=1792166210",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/537bbf2bdb30bfd9b43cef1a7696e98b/master.m3u8?md5=X6Yyy3YabluY_02xBCae-w&expires=1792166210",
+            "videoSource": "https://ravok.buzz/cdn/hls/537bbf2bdb30bfd9b43cef1a7696e98b/master.m3u8?md5=X6Yyy3YabluY_02xBCae-w&expires=1792166210",
+            "videoImage": "https://as-cdn30.top/p/gME_7Zj1xWCPfE3jpOc-RBXCDth2z9HBZc-i82-07Qh8OkscMUpabF1D1A6rfTEqeURfmpaxR5QjStxyE6WcWA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "8f38a4854cf927ba934f60512d83b95f",
+                "streamUrl": "https://ravok.buzz/cdn/hls/537bbf2bdb30bfd9b43cef1a7696e98b/master.m3u8?md5=X6Yyy3YabluY_02xBCae-w&expires=1792166210",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/537bbf2bdb30bfd9b43cef1a7696e98b/master.m3u8?md5=X6Yyy3YabluY_02xBCae-w&expires=1792166210",
+                "videoSource": "https://ravok.buzz/cdn/hls/537bbf2bdb30bfd9b43cef1a7696e98b/master.m3u8?md5=X6Yyy3YabluY_02xBCae-w&expires=1792166210",
+                "link": "https://ravok.buzz/cdn/hls/537bbf2bdb30bfd9b43cef1a7696e98b/master.m3u8?md5=X6Yyy3YabluY_02xBCae-w&expires=1792166210",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/gME_7Zj1xWCPfE3jpOc-RBXCDth2z9HBZc-i82-07Qh8OkscMUpabF1D1A6rfTEqeURfmpaxR5QjStxyE6WcWA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "ZGCzw9ZKD"
+        }
+      },
+      "fetched_at": "2026-10-16T13:57:00Z"
+    },
+    {
+      "id": "episode/private-death-note-1x4",
+      "episode_id": "episode/private-death-note-1x4",
+      "title": "Private: Death Note 1x1",
+      "episode_name": "Private: Death Note 1x1",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1808_s1e4.webp",
+      "abyssid": "16638",
+      "abyssId": "16638",
+      "playxid": "5ebe5626b9f1cd89fbb9f665a527591f",
+      "playXID": "5ebe5626b9f1cd89fbb9f665a527591f",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16638",
+        "playXID": "5ebe5626b9f1cd89fbb9f665a527591f",
+        "streamId": "16638",
+        "dubPlayerSrc": "/dub-player/t/16638/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=5ebe5626b9f1cd89fbb9f665a527591f&abyssId=16638"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16638",
+        "playXID": "5ebe5626b9f1cd89fbb9f665a527591f",
+        "streamId": "16638",
+        "dubPlayerSrc": "/dub-player/t/16638/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=5ebe5626b9f1cd89fbb9f665a527591f&abyssId=16638"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/5ebe5626b9f1cd89fbb9f665a527591f",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/5ebe5626b9f1cd89fbb9f665a527591f"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16638",
+        "abyssId": "16638",
+        "playXID": "5ebe5626b9f1cd89fbb9f665a527591f",
+        "title": "Death Note",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "DUG4egNqu"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "f3H7CfAJc"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "jgo3F2yAU"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "a7uN_freE"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "KhCk4A1Lg"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/e34f948d36132cdddb5e9998bd05987a/master.m3u8?md5=r3tGiGXzTTi6hLPgIPsoHg&expires=1792166210",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/e34f948d36132cdddb5e9998bd05987a/master.m3u8?md5=r3tGiGXzTTi6hLPgIPsoHg&expires=1792166210",
+            "videoSource": "https://ravok.buzz/cdn/hls/e34f948d36132cdddb5e9998bd05987a/master.m3u8?md5=r3tGiGXzTTi6hLPgIPsoHg&expires=1792166210",
+            "videoImage": "https://as-cdn28.top/p/on6Dno03bwXq0tVcpu0Wt4sDIdw9w9Ct3uJ9FpT66uH-6ylvXs4KZfSvlHhE44cW5TWQ9WgnSZFzSSuTg4XfnQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "5ebe5626b9f1cd89fbb9f665a527591f",
+                "streamUrl": "https://ravok.buzz/cdn/hls/e34f948d36132cdddb5e9998bd05987a/master.m3u8?md5=r3tGiGXzTTi6hLPgIPsoHg&expires=1792166210",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/e34f948d36132cdddb5e9998bd05987a/master.m3u8?md5=r3tGiGXzTTi6hLPgIPsoHg&expires=1792166210",
+                "videoSource": "https://ravok.buzz/cdn/hls/e34f948d36132cdddb5e9998bd05987a/master.m3u8?md5=r3tGiGXzTTi6hLPgIPsoHg&expires=1792166210",
+                "link": "https://ravok.buzz/cdn/hls/e34f948d36132cdddb5e9998bd05987a/master.m3u8?md5=r3tGiGXzTTi6hLPgIPsoHg&expires=1792166210",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/on6Dno03bwXq0tVcpu0Wt4sDIdw9w9Ct3uJ9FpT66uH-6ylvXs4KZfSvlHhE44cW5TWQ9WgnSZFzSSuTg4XfnQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "DUG4egNqu"
+        }
+      },
+      "fetched_at": "2026-10-16T13:57:00Z"
+    },
+    {
+      "id": "episode/private-death-note-1x1",
+      "episode_id": "episode/private-death-note-1x1",
+      "title": "Private: Death Note 1x1",
+      "episode_name": "Private: Death Note 1x1",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1808_s1e1.webp",
+      "abyssid": "16569",
+      "abyssId": "16569",
+      "playxid": "4524b5e84762d68528525a226797c4d2",
+      "playXID": "4524b5e84762d68528525a226797c4d2",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16569",
+        "playXID": "4524b5e84762d68528525a226797c4d2",
+        "streamId": "16569",
+        "dubPlayerSrc": "/dub-player/t/16569/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=4524b5e84762d68528525a226797c4d2&abyssId=16569"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16569",
+        "playXID": "4524b5e84762d68528525a226797c4d2",
+        "streamId": "16569",
+        "dubPlayerSrc": "/dub-player/t/16569/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=4524b5e84762d68528525a226797c4d2&abyssId=16569"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/4524b5e84762d68528525a226797c4d2",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/4524b5e84762d68528525a226797c4d2"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16569",
+        "abyssId": "16569",
+        "playXID": "4524b5e84762d68528525a226797c4d2",
+        "title": "Death Note",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "2wOVULxk2"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "lDWSkKy5r"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "1asPPAYVt"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "Drae-ia8n"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "PN2bNsQYM"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/30a5efe7d0257ecb6f8e0b2314f6a750/master.m3u8?md5=gkl-z6QmbkkHxSq9sEOi1w&expires=1792166210",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/30a5efe7d0257ecb6f8e0b2314f6a750/master.m3u8?md5=gkl-z6QmbkkHxSq9sEOi1w&expires=1792166210",
+            "videoSource": "https://ravok.buzz/cdn/hls/30a5efe7d0257ecb6f8e0b2314f6a750/master.m3u8?md5=gkl-z6QmbkkHxSq9sEOi1w&expires=1792166210",
+            "videoImage": "https://as-cdn28.top/p/2QRI5ZUV0k_QIXGY3y7wFzwtJYxtXFW0eEioJfekrQpwfNpRgOuwMpvoJsPf9rUhBZvTXsRSz4sC1GzJKsm39Q.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "4524b5e84762d68528525a226797c4d2",
+                "streamUrl": "https://ravok.buzz/cdn/hls/30a5efe7d0257ecb6f8e0b2314f6a750/master.m3u8?md5=gkl-z6QmbkkHxSq9sEOi1w&expires=1792166210",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/30a5efe7d0257ecb6f8e0b2314f6a750/master.m3u8?md5=gkl-z6QmbkkHxSq9sEOi1w&expires=1792166210",
+                "videoSource": "https://ravok.buzz/cdn/hls/30a5efe7d0257ecb6f8e0b2314f6a750/master.m3u8?md5=gkl-z6QmbkkHxSq9sEOi1w&expires=1792166210",
+                "link": "https://ravok.buzz/cdn/hls/30a5efe7d0257ecb6f8e0b2314f6a750/master.m3u8?md5=gkl-z6QmbkkHxSq9sEOi1w&expires=1792166210",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/2QRI5ZUV0k_QIXGY3y7wFzwtJYxtXFW0eEioJfekrQpwfNpRgOuwMpvoJsPf9rUhBZvTXsRSz4sC1GzJKsm39Q.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "2wOVULxk2"
+        }
+      },
+      "fetched_at": "2026-10-16T13:57:00Z"
+    },
+    {
+      "id": "episode/private-death-note-1x3",
+      "episode_id": "episode/private-death-note-1x3",
+      "title": "Private: Death Note 1x1",
+      "episode_name": "Private: Death Note 1x1",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1808_s1e3.webp",
+      "abyssid": "16637",
+      "abyssId": "16637",
+      "playxid": "e15c78fe25d60a659d23e62645fa1a2d",
+      "playXID": "e15c78fe25d60a659d23e62645fa1a2d",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16637",
+        "playXID": "e15c78fe25d60a659d23e62645fa1a2d",
+        "streamId": "16637",
+        "dubPlayerSrc": "/dub-player/t/16637/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e15c78fe25d60a659d23e62645fa1a2d&abyssId=16637"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16637",
+        "playXID": "e15c78fe25d60a659d23e62645fa1a2d",
+        "streamId": "16637",
+        "dubPlayerSrc": "/dub-player/t/16637/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e15c78fe25d60a659d23e62645fa1a2d&abyssId=16637"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/e15c78fe25d60a659d23e62645fa1a2d",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/e15c78fe25d60a659d23e62645fa1a2d"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16637",
+        "abyssId": "16637",
+        "playXID": "e15c78fe25d60a659d23e62645fa1a2d",
+        "title": "Death Note",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "cKxBDWhaw"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "fQz8FqoNF"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "mH9WuMx3C"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "9fGB6DyOB"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "csPiSi-aY"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/8d7332e27e903634dfc83450b1e2476f/master.m3u8?md5=189NSCTOdy2K85Q1OI-Jsg&expires=1792166211",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/8d7332e27e903634dfc83450b1e2476f/master.m3u8?md5=189NSCTOdy2K85Q1OI-Jsg&expires=1792166211",
+            "videoSource": "https://ravok.buzz/cdn/hls/8d7332e27e903634dfc83450b1e2476f/master.m3u8?md5=189NSCTOdy2K85Q1OI-Jsg&expires=1792166211",
+            "videoImage": "https://as-cdn28.top/p/c-fvf-Upp-jizA2PfCO8DtjoXsRRgIUTkcMOVHsDGBg2a-Ll4Tl3SHvaIY4qKVtOYn7uYR_eL6TN4acThmcjbA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "e15c78fe25d60a659d23e62645fa1a2d",
+                "streamUrl": "https://ravok.buzz/cdn/hls/8d7332e27e903634dfc83450b1e2476f/master.m3u8?md5=189NSCTOdy2K85Q1OI-Jsg&expires=1792166211",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/8d7332e27e903634dfc83450b1e2476f/master.m3u8?md5=189NSCTOdy2K85Q1OI-Jsg&expires=1792166211",
+                "videoSource": "https://ravok.buzz/cdn/hls/8d7332e27e903634dfc83450b1e2476f/master.m3u8?md5=189NSCTOdy2K85Q1OI-Jsg&expires=1792166211",
+                "link": "https://ravok.buzz/cdn/hls/8d7332e27e903634dfc83450b1e2476f/master.m3u8?md5=189NSCTOdy2K85Q1OI-Jsg&expires=1792166211",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/c-fvf-Upp-jizA2PfCO8DtjoXsRRgIUTkcMOVHsDGBg2a-Ll4Tl3SHvaIY4qKVtOYn7uYR_eL6TN4acThmcjbA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "cKxBDWhaw"
+        }
+      },
+      "fetched_at": "2026-10-16T13:57:01Z"
+    },
+    {
+      "id": "episode/private-death-note-1x5",
+      "episode_id": "episode/private-death-note-1x5",
+      "title": "Private: Death Note 1x1",
+      "episode_name": "Private: Death Note 1x1",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1808_s1e5.webp",
+      "abyssid": "16639",
+      "abyssId": "16639",
+      "playxid": "fc1618c9ae39989770371191790a772b",
+      "playXID": "fc1618c9ae39989770371191790a772b",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16639",
+        "playXID": "fc1618c9ae39989770371191790a772b",
+        "streamId": "16639",
+        "dubPlayerSrc": "/dub-player/t/16639/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=fc1618c9ae39989770371191790a772b&abyssId=16639"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16639",
+        "playXID": "fc1618c9ae39989770371191790a772b",
+        "streamId": "16639",
+        "dubPlayerSrc": "/dub-player/t/16639/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=fc1618c9ae39989770371191790a772b&abyssId=16639"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/fc1618c9ae39989770371191790a772b",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/fc1618c9ae39989770371191790a772b"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16639",
+        "abyssId": "16639",
+        "playXID": "fc1618c9ae39989770371191790a772b",
+        "title": "Death Note",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "tW-_WEP1q"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "AXdK5TT88"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "BDwGtYKJx"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "H0xzWUV9E"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "XWYxcDsKl"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/ec0ee5637569cb007d3afc46bbc8b5e0/master.m3u8?md5=tze_oojXc9SRdA5IuO3ZVw&expires=1792166211",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/ec0ee5637569cb007d3afc46bbc8b5e0/master.m3u8?md5=tze_oojXc9SRdA5IuO3ZVw&expires=1792166211",
+            "videoSource": "https://ravok.buzz/cdn/hls/ec0ee5637569cb007d3afc46bbc8b5e0/master.m3u8?md5=tze_oojXc9SRdA5IuO3ZVw&expires=1792166211",
+            "videoImage": "https://as-cdn30.top/p/fQVNkkUBafCBd8bYSKqPDTwMD_05rc7mfXsJUrVt_dmw9cHsl3Pebe7lxKwFnt83aOEUH1-G19K6ATnNldHdYA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "fc1618c9ae39989770371191790a772b",
+                "streamUrl": "https://ravok.buzz/cdn/hls/ec0ee5637569cb007d3afc46bbc8b5e0/master.m3u8?md5=tze_oojXc9SRdA5IuO3ZVw&expires=1792166211",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/ec0ee5637569cb007d3afc46bbc8b5e0/master.m3u8?md5=tze_oojXc9SRdA5IuO3ZVw&expires=1792166211",
+                "videoSource": "https://ravok.buzz/cdn/hls/ec0ee5637569cb007d3afc46bbc8b5e0/master.m3u8?md5=tze_oojXc9SRdA5IuO3ZVw&expires=1792166211",
+                "link": "https://ravok.buzz/cdn/hls/ec0ee5637569cb007d3afc46bbc8b5e0/master.m3u8?md5=tze_oojXc9SRdA5IuO3ZVw&expires=1792166211",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/fQVNkkUBafCBd8bYSKqPDTwMD_05rc7mfXsJUrVt_dmw9cHsl3Pebe7lxKwFnt83aOEUH1-G19K6ATnNldHdYA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "tW-_WEP1q"
+        }
+      },
+      "fetched_at": "2026-10-16T13:57:01Z"
+    },
+    {
+      "id": "episode/private-death-note-1x6",
+      "episode_id": "episode/private-death-note-1x6",
+      "title": "Private: Death Note 1x1",
+      "episode_name": "Private: Death Note 1x1",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1808_s1e6.webp",
+      "abyssid": "16640",
+      "abyssId": "16640",
+      "playxid": "4ceabbd82a44dae58c912afb349470b5",
+      "playXID": "4ceabbd82a44dae58c912afb349470b5",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16640",
+        "playXID": "4ceabbd82a44dae58c912afb349470b5",
+        "streamId": "16640",
+        "dubPlayerSrc": "/dub-player/t/16640/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=4ceabbd82a44dae58c912afb349470b5&abyssId=16640"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16640",
+        "playXID": "4ceabbd82a44dae58c912afb349470b5",
+        "streamId": "16640",
+        "dubPlayerSrc": "/dub-player/t/16640/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=4ceabbd82a44dae58c912afb349470b5&abyssId=16640"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/4ceabbd82a44dae58c912afb349470b5",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/4ceabbd82a44dae58c912afb349470b5"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16640",
+        "abyssId": "16640",
+        "playXID": "4ceabbd82a44dae58c912afb349470b5",
+        "title": "Death Note",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "bqDA7LQY1"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "MVdrxZ2Ab"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "F4DOJj0Aa"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "F6qIIf80L"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "c-7mOmTP1"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/0da00f3592e7c97ecf88570cc47e828b/master.m3u8?md5=AKW1_YMmSqTgxZ_S0__PsQ&expires=1792166212",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/0da00f3592e7c97ecf88570cc47e828b/master.m3u8?md5=AKW1_YMmSqTgxZ_S0__PsQ&expires=1792166212",
+            "videoSource": "https://ravok.buzz/cdn/hls/0da00f3592e7c97ecf88570cc47e828b/master.m3u8?md5=AKW1_YMmSqTgxZ_S0__PsQ&expires=1792166212",
+            "videoImage": "https://as-cdn31.top/p/bYxqlZmUD6gbBk3V2Ygu4AaXxluug-ucXhFfney1HuQ-3XIaZHI3eJlWCLsk8qlPJ-y5HueWyl1SpEC6B13Yfw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "4ceabbd82a44dae58c912afb349470b5",
+                "streamUrl": "https://ravok.buzz/cdn/hls/0da00f3592e7c97ecf88570cc47e828b/master.m3u8?md5=AKW1_YMmSqTgxZ_S0__PsQ&expires=1792166212",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/0da00f3592e7c97ecf88570cc47e828b/master.m3u8?md5=AKW1_YMmSqTgxZ_S0__PsQ&expires=1792166212",
+                "videoSource": "https://ravok.buzz/cdn/hls/0da00f3592e7c97ecf88570cc47e828b/master.m3u8?md5=AKW1_YMmSqTgxZ_S0__PsQ&expires=1792166212",
+                "link": "https://ravok.buzz/cdn/hls/0da00f3592e7c97ecf88570cc47e828b/master.m3u8?md5=AKW1_YMmSqTgxZ_S0__PsQ&expires=1792166212",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/bYxqlZmUD6gbBk3V2Ygu4AaXxluug-ucXhFfney1HuQ-3XIaZHI3eJlWCLsk8qlPJ-y5HueWyl1SpEC6B13Yfw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "bqDA7LQY1"
+        }
+      },
+      "fetched_at": "2026-10-16T13:57:02Z"
+    },
+    {
+      "id": "episode/private-death-note-1x8",
+      "episode_id": "episode/private-death-note-1x8",
+      "title": "Private: Death Note 1x1",
+      "episode_name": "Private: Death Note 1x1",
+      "episode_number": 8,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1808_s1e8.webp",
+      "abyssid": "16642",
+      "abyssId": "16642",
+      "playxid": "8f57f8197501fe0c3d8913e717632812",
+      "playXID": "8f57f8197501fe0c3d8913e717632812",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16642",
+        "playXID": "8f57f8197501fe0c3d8913e717632812",
+        "streamId": "16642",
+        "dubPlayerSrc": "/dub-player/t/16642/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8f57f8197501fe0c3d8913e717632812&abyssId=16642"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16642",
+        "playXID": "8f57f8197501fe0c3d8913e717632812",
+        "streamId": "16642",
+        "dubPlayerSrc": "/dub-player/t/16642/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8f57f8197501fe0c3d8913e717632812&abyssId=16642"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/8f57f8197501fe0c3d8913e717632812",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/8f57f8197501fe0c3d8913e717632812"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16642",
+        "abyssId": "16642",
+        "playXID": "8f57f8197501fe0c3d8913e717632812",
+        "title": "Death Note",
+        "season": 1,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "B3VpOvQMU"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "in91_4W_o"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "n4HXtoZ16"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "MPSBi2L3AH"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "zrYPeh2fx"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/a4bb573704ffae0a4ba99c9810011511/master.m3u8?md5=7S86B5SN8M64keEuz4HVFA&expires=1792166212",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/a4bb573704ffae0a4ba99c9810011511/master.m3u8?md5=7S86B5SN8M64keEuz4HVFA&expires=1792166212",
+            "videoSource": "https://ravok.buzz/cdn/hls/a4bb573704ffae0a4ba99c9810011511/master.m3u8?md5=7S86B5SN8M64keEuz4HVFA&expires=1792166212",
+            "videoImage": "https://as-cdn28.top/p/B6kG6nXLQbKxlmKbL_PUYoAT6dV63COWc8hGKX0t8-Gde4h8dJAqR4LB9iqOx3yrrsoGrGqZuQTy52tSkRE0tA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "8f57f8197501fe0c3d8913e717632812",
+                "streamUrl": "https://ravok.buzz/cdn/hls/a4bb573704ffae0a4ba99c9810011511/master.m3u8?md5=7S86B5SN8M64keEuz4HVFA&expires=1792166212",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/a4bb573704ffae0a4ba99c9810011511/master.m3u8?md5=7S86B5SN8M64keEuz4HVFA&expires=1792166212",
+                "videoSource": "https://ravok.buzz/cdn/hls/a4bb573704ffae0a4ba99c9810011511/master.m3u8?md5=7S86B5SN8M64keEuz4HVFA&expires=1792166212",
+                "link": "https://ravok.buzz/cdn/hls/a4bb573704ffae0a4ba99c9810011511/master.m3u8?md5=7S86B5SN8M64keEuz4HVFA&expires=1792166212",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/B6kG6nXLQbKxlmKbL_PUYoAT6dV63COWc8hGKX0t8-Gde4h8dJAqR4LB9iqOx3yrrsoGrGqZuQTy52tSkRE0tA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "B3VpOvQMU"
+        }
+      },
+      "fetched_at": "2026-10-16T13:57:02Z"
+    },
+    {
+      "id": "episode/private-death-note-1x7",
+      "episode_id": "episode/private-death-note-1x7",
+      "title": "Private: Death Note 1x1",
+      "episode_name": "Private: Death Note 1x1",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1808_s1e7.webp",
+      "abyssid": "16641",
+      "abyssId": "16641",
+      "playxid": "1105d4e261b6276bc278026b729386d6",
+      "playXID": "1105d4e261b6276bc278026b729386d6",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16641",
+        "playXID": "1105d4e261b6276bc278026b729386d6",
+        "streamId": "16641",
+        "dubPlayerSrc": "/dub-player/t/16641/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=1105d4e261b6276bc278026b729386d6&abyssId=16641"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16641",
+        "playXID": "1105d4e261b6276bc278026b729386d6",
+        "streamId": "16641",
+        "dubPlayerSrc": "/dub-player/t/16641/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=1105d4e261b6276bc278026b729386d6&abyssId=16641"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/1105d4e261b6276bc278026b729386d6",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/1105d4e261b6276bc278026b729386d6"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16641",
+        "abyssId": "16641",
+        "playXID": "1105d4e261b6276bc278026b729386d6",
+        "title": "Death Note",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "aItsXmWx5"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "DSvZE4qSo"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "JTFJuln6r"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "n-YWQnfD7"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "OZm_a-ykt"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/36cf388aa7da1ccecd484d32e8ce87ae/master.m3u8?md5=P-Mha-8TSaHNc2SVnjBIXg&expires=1792166212",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/36cf388aa7da1ccecd484d32e8ce87ae/master.m3u8?md5=P-Mha-8TSaHNc2SVnjBIXg&expires=1792166212",
+            "videoSource": "https://ravok.buzz/cdn/hls/36cf388aa7da1ccecd484d32e8ce87ae/master.m3u8?md5=P-Mha-8TSaHNc2SVnjBIXg&expires=1792166212",
+            "videoImage": "https://as-cdn30.top/p/KitSahgRqu14V8raC6A5M74wxjwOAZxFHcrGAmGpfByej-9sib0L91aHMBKIXRVdDRfUERp1M19Qtf6B7d3Wzw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "1105d4e261b6276bc278026b729386d6",
+                "streamUrl": "https://ravok.buzz/cdn/hls/36cf388aa7da1ccecd484d32e8ce87ae/master.m3u8?md5=P-Mha-8TSaHNc2SVnjBIXg&expires=1792166212",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/36cf388aa7da1ccecd484d32e8ce87ae/master.m3u8?md5=P-Mha-8TSaHNc2SVnjBIXg&expires=1792166212",
+                "videoSource": "https://ravok.buzz/cdn/hls/36cf388aa7da1ccecd484d32e8ce87ae/master.m3u8?md5=P-Mha-8TSaHNc2SVnjBIXg&expires=1792166212",
+                "link": "https://ravok.buzz/cdn/hls/36cf388aa7da1ccecd484d32e8ce87ae/master.m3u8?md5=P-Mha-8TSaHNc2SVnjBIXg&expires=1792166212",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/KitSahgRqu14V8raC6A5M74wxjwOAZxFHcrGAmGpfByej-9sib0L91aHMBKIXRVdDRfUERp1M19Qtf6B7d3Wzw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "aItsXmWx5"
+        }
+      },
+      "fetched_at": "2026-10-16T13:57:02Z"
+    },
+    {
+      "id": "episode/death-note-1x9",
+      "episode_id": "episode/death-note-1x9",
+      "title": "Private: Death Note 1x1",
+      "episode_name": "Private: Death Note 1x1",
+      "episode_number": 9,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1808_s1e9.webp",
+      "abyssid": "16697",
+      "abyssId": "16697",
+      "playxid": "a998754d6441bc4e70a39a229111d6a7",
+      "playXID": "a998754d6441bc4e70a39a229111d6a7",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16697",
+        "playXID": "a998754d6441bc4e70a39a229111d6a7",
+        "streamId": "16697",
+        "dubPlayerSrc": "/dub-player/t/16697/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a998754d6441bc4e70a39a229111d6a7&abyssId=16697"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16697",
+        "playXID": "a998754d6441bc4e70a39a229111d6a7",
+        "streamId": "16697",
+        "dubPlayerSrc": "/dub-player/t/16697/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a998754d6441bc4e70a39a229111d6a7&abyssId=16697"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/a998754d6441bc4e70a39a229111d6a7",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/a998754d6441bc4e70a39a229111d6a7"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16697",
+        "abyssId": "16697",
+        "playXID": "a998754d6441bc4e70a39a229111d6a7",
+        "title": "Death Note",
+        "season": 1,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "yMMwMx6EQ"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "lBrj8j8N9F"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "ZNROWL3Vd"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "4GY18t790"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "8mzRPqOgV"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/01448f8fdf03c76eeaa86f383b5c5664/master.m3u8?md5=fRUr8wWfaOiKiREYpGC4iA&expires=1792166213",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/01448f8fdf03c76eeaa86f383b5c5664/master.m3u8?md5=fRUr8wWfaOiKiREYpGC4iA&expires=1792166213",
+            "videoSource": "https://ravok.buzz/cdn/hls/01448f8fdf03c76eeaa86f383b5c5664/master.m3u8?md5=fRUr8wWfaOiKiREYpGC4iA&expires=1792166213",
+            "videoImage": "https://as-cdn31.top/p/v1nTVl6VInj7dD8IgVIqOqeY9XkSGtbUoLU9Uf7sklUtwEZzKIHRqJwHCTItwfLrZJGQI25TZx7ySmEOKxOHwQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "a998754d6441bc4e70a39a229111d6a7",
+                "streamUrl": "https://ravok.buzz/cdn/hls/01448f8fdf03c76eeaa86f383b5c5664/master.m3u8?md5=fRUr8wWfaOiKiREYpGC4iA&expires=1792166213",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/01448f8fdf03c76eeaa86f383b5c5664/master.m3u8?md5=fRUr8wWfaOiKiREYpGC4iA&expires=1792166213",
+                "videoSource": "https://ravok.buzz/cdn/hls/01448f8fdf03c76eeaa86f383b5c5664/master.m3u8?md5=fRUr8wWfaOiKiREYpGC4iA&expires=1792166213",
+                "link": "https://ravok.buzz/cdn/hls/01448f8fdf03c76eeaa86f383b5c5664/master.m3u8?md5=fRUr8wWfaOiKiREYpGC4iA&expires=1792166213",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/v1nTVl6VInj7dD8IgVIqOqeY9XkSGtbUoLU9Uf7sklUtwEZzKIHRqJwHCTItwfLrZJGQI25TZx7ySmEOKxOHwQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "yMMwMx6EQ"
+        }
+      },
+      "fetched_at": "2026-10-16T13:57:04Z"
+    },
+    {
+      "id": "episode/death-note-1x10",
+      "episode_id": "episode/death-note-1x10",
+      "title": "Private: Death Note 1x1",
+      "episode_name": "Private: Death Note 1x1",
+      "episode_number": 10,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1808_s1e10.webp",
+      "abyssid": "16698",
+      "abyssId": "16698",
+      "playxid": "4878de0d788d6042ea4a532742a51fc8",
+      "playXID": "4878de0d788d6042ea4a532742a51fc8",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16698",
+        "playXID": "4878de0d788d6042ea4a532742a51fc8",
+        "streamId": "16698",
+        "dubPlayerSrc": "/dub-player/t/16698/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=4878de0d788d6042ea4a532742a51fc8&abyssId=16698"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16698",
+        "playXID": "4878de0d788d6042ea4a532742a51fc8",
+        "streamId": "16698",
+        "dubPlayerSrc": "/dub-player/t/16698/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=4878de0d788d6042ea4a532742a51fc8&abyssId=16698"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/4878de0d788d6042ea4a532742a51fc8",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/4878de0d788d6042ea4a532742a51fc8"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16698",
+        "abyssId": "16698",
+        "playXID": "4878de0d788d6042ea4a532742a51fc8",
+        "title": "Death Note",
+        "season": 1,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "_bt8mp0XJ"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "k8n-kQPwT"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "lDRKfGvCi"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "E9bSB6mWy"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "2bso1Gjd2"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/6ea4b9d96eab0848511410a32b52c7f9/master.m3u8?md5=HJKSFCtEDxq_hG1hR8Rm4A&expires=1792166213",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/6ea4b9d96eab0848511410a32b52c7f9/master.m3u8?md5=HJKSFCtEDxq_hG1hR8Rm4A&expires=1792166213",
+            "videoSource": "https://ravok.buzz/cdn/hls/6ea4b9d96eab0848511410a32b52c7f9/master.m3u8?md5=HJKSFCtEDxq_hG1hR8Rm4A&expires=1792166213",
+            "videoImage": "https://as-cdn31.top/p/Fc_XathdTgzWZOw7zyp7k8QQCWDQDPNgzJAAmMZ-BgHWpYaqg0A6wYHLp0_VarKzK9YTUVu9AjWaeGky_ZSB7A.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "4878de0d788d6042ea4a532742a51fc8",
+                "streamUrl": "https://ravok.buzz/cdn/hls/6ea4b9d96eab0848511410a32b52c7f9/master.m3u8?md5=HJKSFCtEDxq_hG1hR8Rm4A&expires=1792166213",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/6ea4b9d96eab0848511410a32b52c7f9/master.m3u8?md5=HJKSFCtEDxq_hG1hR8Rm4A&expires=1792166213",
+                "videoSource": "https://ravok.buzz/cdn/hls/6ea4b9d96eab0848511410a32b52c7f9/master.m3u8?md5=HJKSFCtEDxq_hG1hR8Rm4A&expires=1792166213",
+                "link": "https://ravok.buzz/cdn/hls/6ea4b9d96eab0848511410a32b52c7f9/master.m3u8?md5=HJKSFCtEDxq_hG1hR8Rm4A&expires=1792166213",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/Fc_XathdTgzWZOw7zyp7k8QQCWDQDPNgzJAAmMZ-BgHWpYaqg0A6wYHLp0_VarKzK9YTUVu9AjWaeGky_ZSB7A.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "_bt8mp0XJ"
+        }
+      },
+      "fetched_at": "2026-10-16T13:57:04Z"
+    },
+    {
+      "id": "episode/death-note-1x13",
+      "episode_id": "episode/death-note-1x13",
+      "title": "Private: Death Note 1x1",
+      "episode_name": "Private: Death Note 1x1",
+      "episode_number": 13,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1808_s1e13.webp",
+      "abyssid": "16887",
+      "abyssId": "16887",
+      "playxid": "631e5d78c846ec09125ebe7e7030b0ca",
+      "playXID": "631e5d78c846ec09125ebe7e7030b0ca",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16887",
+        "playXID": "631e5d78c846ec09125ebe7e7030b0ca",
+        "streamId": "16887",
+        "dubPlayerSrc": "/dub-player/t/16887/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=631e5d78c846ec09125ebe7e7030b0ca&abyssId=16887"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16887",
+        "playXID": "631e5d78c846ec09125ebe7e7030b0ca",
+        "streamId": "16887",
+        "dubPlayerSrc": "/dub-player/t/16887/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=631e5d78c846ec09125ebe7e7030b0ca&abyssId=16887"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/631e5d78c846ec09125ebe7e7030b0ca",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/631e5d78c846ec09125ebe7e7030b0ca"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16887",
+        "abyssId": "16887",
+        "playXID": "631e5d78c846ec09125ebe7e7030b0ca",
+        "title": "Death Note",
+        "season": 1,
+        "episode": 13,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "hwtVIH1o8"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "va93Ox_VS"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "XlawzfKg-"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "D7r4_4yxP"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "lKoREs6_d"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/80ce8188a876da191bbb27e8dd4b1679/master.m3u8?md5=hMcKsDU9iVWTu638gk_3Mg&expires=1792166214",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/80ce8188a876da191bbb27e8dd4b1679/master.m3u8?md5=hMcKsDU9iVWTu638gk_3Mg&expires=1792166214",
+            "videoSource": "https://ravok.buzz/cdn/hls/80ce8188a876da191bbb27e8dd4b1679/master.m3u8?md5=hMcKsDU9iVWTu638gk_3Mg&expires=1792166214",
+            "videoImage": "https://as-cdn31.top/p/crZRJknK8uneYfCv_BAKgxxdt18Q5X4yf3fQg4VLUdHiezSn82Kv0nWrVEM0MCU2HhdXhY-BluvJvTUf9-TJdQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "631e5d78c846ec09125ebe7e7030b0ca",
+                "streamUrl": "https://ravok.buzz/cdn/hls/80ce8188a876da191bbb27e8dd4b1679/master.m3u8?md5=hMcKsDU9iVWTu638gk_3Mg&expires=1792166214",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/80ce8188a876da191bbb27e8dd4b1679/master.m3u8?md5=hMcKsDU9iVWTu638gk_3Mg&expires=1792166214",
+                "videoSource": "https://ravok.buzz/cdn/hls/80ce8188a876da191bbb27e8dd4b1679/master.m3u8?md5=hMcKsDU9iVWTu638gk_3Mg&expires=1792166214",
+                "link": "https://ravok.buzz/cdn/hls/80ce8188a876da191bbb27e8dd4b1679/master.m3u8?md5=hMcKsDU9iVWTu638gk_3Mg&expires=1792166214",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/crZRJknK8uneYfCv_BAKgxxdt18Q5X4yf3fQg4VLUdHiezSn82Kv0nWrVEM0MCU2HhdXhY-BluvJvTUf9-TJdQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "hwtVIH1o8"
+        }
+      },
+      "fetched_at": "2026-10-16T13:57:04Z"
+    },
+    {
+      "id": "episode/death-note-1x12",
+      "episode_id": "episode/death-note-1x12",
+      "title": "Private: Death Note 1x1",
+      "episode_name": "Private: Death Note 1x1",
+      "episode_number": 12,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1808_s1e12.webp",
+      "abyssid": "16853",
+      "abyssId": "16853",
+      "playxid": "3f402b66cf03140a43be0724821a5270",
+      "playXID": "3f402b66cf03140a43be0724821a5270",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16853",
+        "playXID": "3f402b66cf03140a43be0724821a5270",
+        "streamId": "16853",
+        "dubPlayerSrc": "/dub-player/t/16853/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=3f402b66cf03140a43be0724821a5270&abyssId=16853"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16853",
+        "playXID": "3f402b66cf03140a43be0724821a5270",
+        "streamId": "16853",
+        "dubPlayerSrc": "/dub-player/t/16853/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=3f402b66cf03140a43be0724821a5270&abyssId=16853"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/3f402b66cf03140a43be0724821a5270",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/3f402b66cf03140a43be0724821a5270"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16853",
+        "abyssId": "16853",
+        "playXID": "3f402b66cf03140a43be0724821a5270",
+        "title": "Death Note",
+        "season": 1,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "zB99vEQn3"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "s38qSVaRM"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "9WK6gMvGI"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "zpt0cfNo3"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "7hsridPQb"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/04401bcbdcdcb38984d927f7933a85db/master.m3u8?md5=YQrp75Kekjt6C_frYXhrtQ&expires=1792166215",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/04401bcbdcdcb38984d927f7933a85db/master.m3u8?md5=YQrp75Kekjt6C_frYXhrtQ&expires=1792166215",
+            "videoSource": "https://ravok.buzz/cdn/hls/04401bcbdcdcb38984d927f7933a85db/master.m3u8?md5=YQrp75Kekjt6C_frYXhrtQ&expires=1792166215",
+            "videoImage": "https://as-cdn28.top/p/1k-46LeEctDsRFr18Tdu6JzINxrnlK7iM0cGPhoEZDoDtACNpKjKLgZq1EcH87ElJDaQJ8SuKgx3ua6O6ULgHg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "3f402b66cf03140a43be0724821a5270",
+                "streamUrl": "https://ravok.buzz/cdn/hls/04401bcbdcdcb38984d927f7933a85db/master.m3u8?md5=YQrp75Kekjt6C_frYXhrtQ&expires=1792166215",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/04401bcbdcdcb38984d927f7933a85db/master.m3u8?md5=YQrp75Kekjt6C_frYXhrtQ&expires=1792166215",
+                "videoSource": "https://ravok.buzz/cdn/hls/04401bcbdcdcb38984d927f7933a85db/master.m3u8?md5=YQrp75Kekjt6C_frYXhrtQ&expires=1792166215",
+                "link": "https://ravok.buzz/cdn/hls/04401bcbdcdcb38984d927f7933a85db/master.m3u8?md5=YQrp75Kekjt6C_frYXhrtQ&expires=1792166215",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/1k-46LeEctDsRFr18Tdu6JzINxrnlK7iM0cGPhoEZDoDtACNpKjKLgZq1EcH87ElJDaQJ8SuKgx3ua6O6ULgHg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "zB99vEQn3"
+        }
+      },
+      "fetched_at": "2026-10-16T13:57:05Z"
+    },
+    {
+      "id": "episode/death-note-1x11",
+      "episode_id": "episode/death-note-1x11",
+      "title": "Private: Death Note 1x1",
+      "episode_name": "Private: Death Note 1x1",
+      "episode_number": 11,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1808_s1e11.webp",
+      "abyssid": "16852",
+      "abyssId": "16852",
+      "playxid": "3be4d3f098a8da78f521afe939a92f1c",
+      "playXID": "3be4d3f098a8da78f521afe939a92f1c",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16852",
+        "playXID": "3be4d3f098a8da78f521afe939a92f1c",
+        "streamId": "16852",
+        "dubPlayerSrc": "/dub-player/t/16852/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=3be4d3f098a8da78f521afe939a92f1c&abyssId=16852"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16852",
+        "playXID": "3be4d3f098a8da78f521afe939a92f1c",
+        "streamId": "16852",
+        "dubPlayerSrc": "/dub-player/t/16852/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=3be4d3f098a8da78f521afe939a92f1c&abyssId=16852"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/3be4d3f098a8da78f521afe939a92f1c",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/3be4d3f098a8da78f521afe939a92f1c"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16852",
+        "abyssId": "16852",
+        "playXID": "3be4d3f098a8da78f521afe939a92f1c",
+        "title": "Death Note",
+        "season": 1,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "upgUYgApi"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "iLMzPYBJS"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "aaD0SA4QD"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "0sbwZkt9R"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "u9shzbYga"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/7a70e74e75e8671808005ef489156739/master.m3u8?md5=GK1esnJyt5iVZcRdVrq1tA&expires=1792166216",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/7a70e74e75e8671808005ef489156739/master.m3u8?md5=GK1esnJyt5iVZcRdVrq1tA&expires=1792166216",
+            "videoSource": "https://ravok.buzz/cdn/hls/7a70e74e75e8671808005ef489156739/master.m3u8?md5=GK1esnJyt5iVZcRdVrq1tA&expires=1792166216",
+            "videoImage": "https://as-cdn31.top/p/_DVfDVJCZQMf9iZtCjpcJjPPrMRw0lV4z5tZd4EeZlwA1jTSj9d-rb404yqSIpqYl3wfAs6u5bC6KtjnG8PsiA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "3be4d3f098a8da78f521afe939a92f1c",
+                "streamUrl": "https://ravok.buzz/cdn/hls/7a70e74e75e8671808005ef489156739/master.m3u8?md5=GK1esnJyt5iVZcRdVrq1tA&expires=1792166216",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/7a70e74e75e8671808005ef489156739/master.m3u8?md5=GK1esnJyt5iVZcRdVrq1tA&expires=1792166216",
+                "videoSource": "https://ravok.buzz/cdn/hls/7a70e74e75e8671808005ef489156739/master.m3u8?md5=GK1esnJyt5iVZcRdVrq1tA&expires=1792166216",
+                "link": "https://ravok.buzz/cdn/hls/7a70e74e75e8671808005ef489156739/master.m3u8?md5=GK1esnJyt5iVZcRdVrq1tA&expires=1792166216",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/_DVfDVJCZQMf9iZtCjpcJjPPrMRw0lV4z5tZd4EeZlwA1jTSj9d-rb404yqSIpqYl3wfAs6u5bC6KtjnG8PsiA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "upgUYgApi"
+        }
+      },
+      "fetched_at": "2026-10-16T13:57:06Z"
+    },
+    {
+      "id": "episode/death-note-1x17",
+      "episode_id": "episode/death-note-1x17",
+      "title": "Private: Death Note 1x1",
+      "episode_name": "Private: Death Note 1x1",
+      "episode_number": 17,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1808_s1e17.webp",
+      "abyssid": "17059",
+      "abyssId": "17059",
+      "playxid": "ba0c22ae21290ef88181d910254d9ac8",
+      "playXID": "ba0c22ae21290ef88181d910254d9ac8",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17059",
+        "playXID": "ba0c22ae21290ef88181d910254d9ac8",
+        "streamId": "17059",
+        "dubPlayerSrc": "/dub-player/t/17059/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ba0c22ae21290ef88181d910254d9ac8&abyssId=17059"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17059",
+        "playXID": "ba0c22ae21290ef88181d910254d9ac8",
+        "streamId": "17059",
+        "dubPlayerSrc": "/dub-player/t/17059/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ba0c22ae21290ef88181d910254d9ac8&abyssId=17059"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/ba0c22ae21290ef88181d910254d9ac8",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/ba0c22ae21290ef88181d910254d9ac8"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17059",
+        "abyssId": "17059",
+        "playXID": "ba0c22ae21290ef88181d910254d9ac8",
+        "title": "Death Note",
+        "season": 1,
+        "episode": 17,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "tYoVpjjS5"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "YLVtVsj01"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "IwFVT95m1"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "DcoBDl1X6"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "ul8d-48fX"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/93ed77af6e075a68e2a84b56dad41dfe/master.m3u8?md5=SiiwDDZyFuaIcoL0yXLe5g&expires=1792166217",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/93ed77af6e075a68e2a84b56dad41dfe/master.m3u8?md5=SiiwDDZyFuaIcoL0yXLe5g&expires=1792166217",
+            "videoSource": "https://ravok.buzz/cdn/hls/93ed77af6e075a68e2a84b56dad41dfe/master.m3u8?md5=SiiwDDZyFuaIcoL0yXLe5g&expires=1792166217",
+            "videoImage": "https://as-cdn30.top/p/3mOmcOTFgsu7d11ZpGY0CsxKDwt2FfNx-GZP_cpivfDrueHsXSS6TGpS5hYapDfvTuckVi6MNBE-CUwvZnyFxA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "ba0c22ae21290ef88181d910254d9ac8",
+                "streamUrl": "https://ravok.buzz/cdn/hls/93ed77af6e075a68e2a84b56dad41dfe/master.m3u8?md5=SiiwDDZyFuaIcoL0yXLe5g&expires=1792166217",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/93ed77af6e075a68e2a84b56dad41dfe/master.m3u8?md5=SiiwDDZyFuaIcoL0yXLe5g&expires=1792166217",
+                "videoSource": "https://ravok.buzz/cdn/hls/93ed77af6e075a68e2a84b56dad41dfe/master.m3u8?md5=SiiwDDZyFuaIcoL0yXLe5g&expires=1792166217",
+                "link": "https://ravok.buzz/cdn/hls/93ed77af6e075a68e2a84b56dad41dfe/master.m3u8?md5=SiiwDDZyFuaIcoL0yXLe5g&expires=1792166217",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/3mOmcOTFgsu7d11ZpGY0CsxKDwt2FfNx-GZP_cpivfDrueHsXSS6TGpS5hYapDfvTuckVi6MNBE-CUwvZnyFxA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "tYoVpjjS5"
+        }
+      },
+      "fetched_at": "2026-10-16T13:57:07Z"
+    },
+    {
+      "id": "episode/death-note-1x14",
+      "episode_id": "episode/death-note-1x14",
+      "title": "Private: Death Note 1x1",
+      "episode_name": "Private: Death Note 1x1",
+      "episode_number": 14,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1808_s1e14.webp",
+      "abyssid": "16888",
+      "abyssId": "16888",
+      "playxid": "56457b43d703d1633b36fec9a01ea51e",
+      "playXID": "56457b43d703d1633b36fec9a01ea51e",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16888",
+        "playXID": "56457b43d703d1633b36fec9a01ea51e",
+        "streamId": "16888",
+        "dubPlayerSrc": "/dub-player/t/16888/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=56457b43d703d1633b36fec9a01ea51e&abyssId=16888"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16888",
+        "playXID": "56457b43d703d1633b36fec9a01ea51e",
+        "streamId": "16888",
+        "dubPlayerSrc": "/dub-player/t/16888/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=56457b43d703d1633b36fec9a01ea51e&abyssId=16888"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/56457b43d703d1633b36fec9a01ea51e",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/56457b43d703d1633b36fec9a01ea51e"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16888",
+        "abyssId": "16888",
+        "playXID": "56457b43d703d1633b36fec9a01ea51e",
+        "title": "Death Note",
+        "season": 1,
+        "episode": 14,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "i5rh9sbzJ"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "FwZy-Npb2"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "ATXVJxxoY"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "xUPC4loja"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "PbKoRi29X"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/39af9de6aa416af70f46a94a17ce2b50/master.m3u8?md5=KCrjkwL4CLMDgQjyrHeyag&expires=1792166217",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/39af9de6aa416af70f46a94a17ce2b50/master.m3u8?md5=KCrjkwL4CLMDgQjyrHeyag&expires=1792166217",
+            "videoSource": "https://ravok.buzz/cdn/hls/39af9de6aa416af70f46a94a17ce2b50/master.m3u8?md5=KCrjkwL4CLMDgQjyrHeyag&expires=1792166217",
+            "videoImage": "https://as-cdn30.top/p/F0uyQYBQSg70w7uDgCle4dCpOKGIrO9dcpkanZ_pOlEnXFiQTcnLeqTty84BE4zMmQy5Fc1TGOpf0ANtz8X5cA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "56457b43d703d1633b36fec9a01ea51e",
+                "streamUrl": "https://ravok.buzz/cdn/hls/39af9de6aa416af70f46a94a17ce2b50/master.m3u8?md5=KCrjkwL4CLMDgQjyrHeyag&expires=1792166217",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/39af9de6aa416af70f46a94a17ce2b50/master.m3u8?md5=KCrjkwL4CLMDgQjyrHeyag&expires=1792166217",
+                "videoSource": "https://ravok.buzz/cdn/hls/39af9de6aa416af70f46a94a17ce2b50/master.m3u8?md5=KCrjkwL4CLMDgQjyrHeyag&expires=1792166217",
+                "link": "https://ravok.buzz/cdn/hls/39af9de6aa416af70f46a94a17ce2b50/master.m3u8?md5=KCrjkwL4CLMDgQjyrHeyag&expires=1792166217",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/F0uyQYBQSg70w7uDgCle4dCpOKGIrO9dcpkanZ_pOlEnXFiQTcnLeqTty84BE4zMmQy5Fc1TGOpf0ANtz8X5cA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "i5rh9sbzJ"
+        }
+      },
+      "fetched_at": "2026-10-16T13:57:07Z"
+    },
+    {
+      "id": "episode/death-note-1x18",
+      "episode_id": "episode/death-note-1x18",
+      "title": "Private: Death Note 1x1",
+      "episode_name": "Private: Death Note 1x1",
+      "episode_number": 18,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1808_s1e18.webp",
+      "abyssid": "17060",
+      "abyssId": "17060",
+      "playxid": "2fd78cae85017cecbfbe152b9133965f",
+      "playXID": "2fd78cae85017cecbfbe152b9133965f",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17060",
+        "playXID": "2fd78cae85017cecbfbe152b9133965f",
+        "streamId": "17060",
+        "dubPlayerSrc": "/dub-player/t/17060/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2fd78cae85017cecbfbe152b9133965f&abyssId=17060"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17060",
+        "playXID": "2fd78cae85017cecbfbe152b9133965f",
+        "streamId": "17060",
+        "dubPlayerSrc": "/dub-player/t/17060/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2fd78cae85017cecbfbe152b9133965f&abyssId=17060"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/2fd78cae85017cecbfbe152b9133965f",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/2fd78cae85017cecbfbe152b9133965f"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17060",
+        "abyssId": "17060",
+        "playXID": "2fd78cae85017cecbfbe152b9133965f",
+        "title": "Death Note",
+        "season": 1,
+        "episode": 18,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "7l2zc0twv"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "r1NK3ju2gh"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "NjFlfWaak"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "Bm05wHGLM"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "xhLhzXg5O"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/a847ea3a6a29fc4189360c37c50f244c/master.m3u8?md5=sD8qyYIs6SzLsLBlUAn-YQ&expires=1792166218",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/a847ea3a6a29fc4189360c37c50f244c/master.m3u8?md5=sD8qyYIs6SzLsLBlUAn-YQ&expires=1792166218",
+            "videoSource": "https://ravok.buzz/cdn/hls/a847ea3a6a29fc4189360c37c50f244c/master.m3u8?md5=sD8qyYIs6SzLsLBlUAn-YQ&expires=1792166218",
+            "videoImage": "https://as-cdn29.top/p/VCGbjnbrlyXdt4WFlhnUwnqhO-XLEyWzUmmyFalv9lQUWJ3O62oAIJhyFzRki_KPv1LApuhkfwQNGXYXnkUOGw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "2fd78cae85017cecbfbe152b9133965f",
+                "streamUrl": "https://ravok.buzz/cdn/hls/a847ea3a6a29fc4189360c37c50f244c/master.m3u8?md5=sD8qyYIs6SzLsLBlUAn-YQ&expires=1792166218",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/a847ea3a6a29fc4189360c37c50f244c/master.m3u8?md5=sD8qyYIs6SzLsLBlUAn-YQ&expires=1792166218",
+                "videoSource": "https://ravok.buzz/cdn/hls/a847ea3a6a29fc4189360c37c50f244c/master.m3u8?md5=sD8qyYIs6SzLsLBlUAn-YQ&expires=1792166218",
+                "link": "https://ravok.buzz/cdn/hls/a847ea3a6a29fc4189360c37c50f244c/master.m3u8?md5=sD8qyYIs6SzLsLBlUAn-YQ&expires=1792166218",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/VCGbjnbrlyXdt4WFlhnUwnqhO-XLEyWzUmmyFalv9lQUWJ3O62oAIJhyFzRki_KPv1LApuhkfwQNGXYXnkUOGw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "7l2zc0twv"
+        }
+      },
+      "fetched_at": "2026-10-16T13:57:08Z"
+    },
+    {
+      "id": "episode/death-note-1x19",
+      "episode_id": "episode/death-note-1x19",
+      "title": "Private: Death Note 1x1",
+      "episode_name": "Private: Death Note 1x1",
+      "episode_number": 19,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1808_s1e19.webp",
+      "abyssid": "17162",
+      "abyssId": "17162",
+      "playxid": "f1ab8ae200bddaa17fd50150943d1e06",
+      "playXID": "f1ab8ae200bddaa17fd50150943d1e06",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17162",
+        "playXID": "f1ab8ae200bddaa17fd50150943d1e06",
+        "streamId": "17162",
+        "dubPlayerSrc": "/dub-player/t/17162/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f1ab8ae200bddaa17fd50150943d1e06&abyssId=17162"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17162",
+        "playXID": "f1ab8ae200bddaa17fd50150943d1e06",
+        "streamId": "17162",
+        "dubPlayerSrc": "/dub-player/t/17162/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f1ab8ae200bddaa17fd50150943d1e06&abyssId=17162"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/f1ab8ae200bddaa17fd50150943d1e06",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/f1ab8ae200bddaa17fd50150943d1e06"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17162",
+        "abyssId": "17162",
+        "playXID": "f1ab8ae200bddaa17fd50150943d1e06",
+        "title": "Death Note",
+        "season": 1,
+        "episode": 19,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "Z7XhxgcBb"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "PCczl-577G"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "YVWvD-IZy"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "db0ZEbdC3"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "iHZ4ZMKZD"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/c357628f49c64023a4896611183b9b52/master.m3u8?md5=QgEEIJK8qCi52t2OQBiY9w&expires=1792166220",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/c357628f49c64023a4896611183b9b52/master.m3u8?md5=QgEEIJK8qCi52t2OQBiY9w&expires=1792166220",
+            "videoSource": "https://ravok.buzz/cdn/hls/c357628f49c64023a4896611183b9b52/master.m3u8?md5=QgEEIJK8qCi52t2OQBiY9w&expires=1792166220",
+            "videoImage": "https://as-cdn27.top/p/lsjsp9dHNJ9wNQnGbE_1y7rgx4t28M5cId28UFGnWI4OsD1AsMuD1jdlKgzd4JY1H1CDxThZJDTJ1CLhlTWczg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "f1ab8ae200bddaa17fd50150943d1e06",
+                "streamUrl": "https://ravok.buzz/cdn/hls/c357628f49c64023a4896611183b9b52/master.m3u8?md5=QgEEIJK8qCi52t2OQBiY9w&expires=1792166220",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/c357628f49c64023a4896611183b9b52/master.m3u8?md5=QgEEIJK8qCi52t2OQBiY9w&expires=1792166220",
+                "videoSource": "https://ravok.buzz/cdn/hls/c357628f49c64023a4896611183b9b52/master.m3u8?md5=QgEEIJK8qCi52t2OQBiY9w&expires=1792166220",
+                "link": "https://ravok.buzz/cdn/hls/c357628f49c64023a4896611183b9b52/master.m3u8?md5=QgEEIJK8qCi52t2OQBiY9w&expires=1792166220",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/lsjsp9dHNJ9wNQnGbE_1y7rgx4t28M5cId28UFGnWI4OsD1AsMuD1jdlKgzd4JY1H1CDxThZJDTJ1CLhlTWczg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "Z7XhxgcBb"
+        }
+      },
+      "fetched_at": "2026-10-16T13:57:10Z"
+    },
+    {
+      "id": "episode/death-note-1x20",
+      "episode_id": "episode/death-note-1x20",
+      "title": "Private: Death Note 1x1",
+      "episode_name": "Private: Death Note 1x1",
+      "episode_number": 20,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1808_s1e20.webp",
+      "abyssid": "17163",
+      "abyssId": "17163",
+      "playxid": "ed9a0ea088b6430b53ccbeac1cb6c49a",
+      "playXID": "ed9a0ea088b6430b53ccbeac1cb6c49a",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17163",
+        "playXID": "ed9a0ea088b6430b53ccbeac1cb6c49a",
+        "streamId": "17163",
+        "dubPlayerSrc": "/dub-player/t/17163/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ed9a0ea088b6430b53ccbeac1cb6c49a&abyssId=17163"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17163",
+        "playXID": "ed9a0ea088b6430b53ccbeac1cb6c49a",
+        "streamId": "17163",
+        "dubPlayerSrc": "/dub-player/t/17163/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ed9a0ea088b6430b53ccbeac1cb6c49a&abyssId=17163"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/ed9a0ea088b6430b53ccbeac1cb6c49a",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/ed9a0ea088b6430b53ccbeac1cb6c49a"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17163",
+        "abyssId": "17163",
+        "playXID": "ed9a0ea088b6430b53ccbeac1cb6c49a",
+        "title": "Death Note",
+        "season": 1,
+        "episode": 20,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "6MJ7VgJA2"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "A90TFnNbs"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "JPLpgXarT"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "np24wgVEP"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "F4QXwMvMs"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/439b4db96e31459a876035b067863c61/master.m3u8?md5=lXAYjI0WkTSeQGUuVSyhmQ&expires=1792166220",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/439b4db96e31459a876035b067863c61/master.m3u8?md5=lXAYjI0WkTSeQGUuVSyhmQ&expires=1792166220",
+            "videoSource": "https://ravok.buzz/cdn/hls/439b4db96e31459a876035b067863c61/master.m3u8?md5=lXAYjI0WkTSeQGUuVSyhmQ&expires=1792166220",
+            "videoImage": "https://as-cdn29.top/p/oM_wCHBXuVA8l4Ao9T5qhyS-K7ZUZH4vixoFVuDHC4TyPgxLiBAWnlp9h7BnAMhygZtt0PTkZ8oo8ZESerLWuQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "ed9a0ea088b6430b53ccbeac1cb6c49a",
+                "streamUrl": "https://ravok.buzz/cdn/hls/439b4db96e31459a876035b067863c61/master.m3u8?md5=lXAYjI0WkTSeQGUuVSyhmQ&expires=1792166220",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/439b4db96e31459a876035b067863c61/master.m3u8?md5=lXAYjI0WkTSeQGUuVSyhmQ&expires=1792166220",
+                "videoSource": "https://ravok.buzz/cdn/hls/439b4db96e31459a876035b067863c61/master.m3u8?md5=lXAYjI0WkTSeQGUuVSyhmQ&expires=1792166220",
+                "link": "https://ravok.buzz/cdn/hls/439b4db96e31459a876035b067863c61/master.m3u8?md5=lXAYjI0WkTSeQGUuVSyhmQ&expires=1792166220",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/oM_wCHBXuVA8l4Ao9T5qhyS-K7ZUZH4vixoFVuDHC4TyPgxLiBAWnlp9h7BnAMhygZtt0PTkZ8oo8ZESerLWuQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "6MJ7VgJA2"
+        }
+      },
+      "fetched_at": "2026-10-16T13:57:10Z"
+    },
+    {
+      "id": "episode/death-note-1x21",
+      "episode_id": "episode/death-note-1x21",
+      "title": "Private: Death Note 1x1",
+      "episode_name": "Private: Death Note 1x1",
+      "episode_number": 21,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1808_s1e21.webp",
+      "abyssid": "17284",
+      "abyssId": "17284",
+      "playxid": "81a1e36d1d8c565e1554959779ce2aad",
+      "playXID": "81a1e36d1d8c565e1554959779ce2aad",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17284",
+        "playXID": "81a1e36d1d8c565e1554959779ce2aad",
+        "streamId": "17284",
+        "dubPlayerSrc": "/dub-player/t/17284/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=81a1e36d1d8c565e1554959779ce2aad&abyssId=17284"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17284",
+        "playXID": "81a1e36d1d8c565e1554959779ce2aad",
+        "streamId": "17284",
+        "dubPlayerSrc": "/dub-player/t/17284/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=81a1e36d1d8c565e1554959779ce2aad&abyssId=17284"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/81a1e36d1d8c565e1554959779ce2aad",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/81a1e36d1d8c565e1554959779ce2aad"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17284",
+        "abyssId": "17284",
+        "playXID": "81a1e36d1d8c565e1554959779ce2aad",
+        "title": "Death Note",
+        "season": 1,
+        "episode": 21,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "kU1hNetCI"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "cEhTfwyIq"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "JlwGdo73e"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "aFoAjolMR"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "6Imusm23_"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/bbb637bcf0245085758f58515bc2833f/master.m3u8?md5=igt4klmxPT3TU2tirpXKOA&expires=1792166220",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/bbb637bcf0245085758f58515bc2833f/master.m3u8?md5=igt4klmxPT3TU2tirpXKOA&expires=1792166220",
+            "videoSource": "https://ravok.buzz/cdn/hls/bbb637bcf0245085758f58515bc2833f/master.m3u8?md5=igt4klmxPT3TU2tirpXKOA&expires=1792166220",
+            "videoImage": "https://as-cdn29.top/p/FoG4lyRSU5TJTe1cmkWB_wN55KIMal1mk35n-_vjwRsQuAnWaP7DLZfQXYXelraTveOlz7INZTvdk2lSm372rw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "81a1e36d1d8c565e1554959779ce2aad",
+                "streamUrl": "https://ravok.buzz/cdn/hls/bbb637bcf0245085758f58515bc2833f/master.m3u8?md5=igt4klmxPT3TU2tirpXKOA&expires=1792166220",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/bbb637bcf0245085758f58515bc2833f/master.m3u8?md5=igt4klmxPT3TU2tirpXKOA&expires=1792166220",
+                "videoSource": "https://ravok.buzz/cdn/hls/bbb637bcf0245085758f58515bc2833f/master.m3u8?md5=igt4klmxPT3TU2tirpXKOA&expires=1792166220",
+                "link": "https://ravok.buzz/cdn/hls/bbb637bcf0245085758f58515bc2833f/master.m3u8?md5=igt4klmxPT3TU2tirpXKOA&expires=1792166220",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/FoG4lyRSU5TJTe1cmkWB_wN55KIMal1mk35n-_vjwRsQuAnWaP7DLZfQXYXelraTveOlz7INZTvdk2lSm372rw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "kU1hNetCI"
+        }
+      },
+      "fetched_at": "2026-10-16T13:57:10Z"
+    },
+    {
+      "id": "episode/death-note-1x16",
+      "episode_id": "episode/death-note-1x16",
+      "title": "Private: Death Note 1x1",
+      "episode_name": "Private: Death Note 1x1",
+      "episode_number": 16,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1808_s1e16.webp",
+      "abyssid": "17019",
+      "abyssId": "17019",
+      "playxid": "3535fe1ed017a0632931c06769692cc4",
+      "playXID": "3535fe1ed017a0632931c06769692cc4",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17019",
+        "playXID": "3535fe1ed017a0632931c06769692cc4",
+        "streamId": "17019",
+        "dubPlayerSrc": "/dub-player/t/17019/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=3535fe1ed017a0632931c06769692cc4&abyssId=17019"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17019",
+        "playXID": "3535fe1ed017a0632931c06769692cc4",
+        "streamId": "17019",
+        "dubPlayerSrc": "/dub-player/t/17019/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=3535fe1ed017a0632931c06769692cc4&abyssId=17019"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/3535fe1ed017a0632931c06769692cc4",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/3535fe1ed017a0632931c06769692cc4"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17019",
+        "abyssId": "17019",
+        "playXID": "3535fe1ed017a0632931c06769692cc4",
+        "title": "Death Note",
+        "season": 1,
+        "episode": 16,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "iD2ShHeMy"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "GkMJJWQgc"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "PeKrX96s_E"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "8zOOxQigX"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "1WxceMSIa"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/ad629a818275a7865a113a03117c2ec7/master.m3u8?md5=jBdDB-TIMyaHRrW8MRSUiw&expires=1792166220",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/ad629a818275a7865a113a03117c2ec7/master.m3u8?md5=jBdDB-TIMyaHRrW8MRSUiw&expires=1792166220",
+            "videoSource": "https://ravok.buzz/cdn/hls/ad629a818275a7865a113a03117c2ec7/master.m3u8?md5=jBdDB-TIMyaHRrW8MRSUiw&expires=1792166220",
+            "videoImage": "https://as-cdn30.top/p/m7i4NqBxXjMqDzdv9jzrBQeGgThvhVb_smKtHFWmXtNuWhuUeazpUFa5vsTLEQsK1kfSdWyhwCmuYEcrhFVFfA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "3535fe1ed017a0632931c06769692cc4",
+                "streamUrl": "https://ravok.buzz/cdn/hls/ad629a818275a7865a113a03117c2ec7/master.m3u8?md5=jBdDB-TIMyaHRrW8MRSUiw&expires=1792166220",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/ad629a818275a7865a113a03117c2ec7/master.m3u8?md5=jBdDB-TIMyaHRrW8MRSUiw&expires=1792166220",
+                "videoSource": "https://ravok.buzz/cdn/hls/ad629a818275a7865a113a03117c2ec7/master.m3u8?md5=jBdDB-TIMyaHRrW8MRSUiw&expires=1792166220",
+                "link": "https://ravok.buzz/cdn/hls/ad629a818275a7865a113a03117c2ec7/master.m3u8?md5=jBdDB-TIMyaHRrW8MRSUiw&expires=1792166220",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/m7i4NqBxXjMqDzdv9jzrBQeGgThvhVb_smKtHFWmXtNuWhuUeazpUFa5vsTLEQsK1kfSdWyhwCmuYEcrhFVFfA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "iD2ShHeMy"
+        }
+      },
+      "fetched_at": "2026-10-16T13:57:10Z"
+    },
+    {
+      "id": "episode/death-note-1x23",
+      "episode_id": "episode/death-note-1x23",
+      "title": "Private: Death Note 1x1",
+      "episode_name": "Private: Death Note 1x1",
+      "episode_number": 23,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1808_s1e23.webp",
+      "abyssid": "17374",
+      "abyssId": "17374",
+      "playxid": "7c13a125a12576247e7fbc7bb1314114",
+      "playXID": "7c13a125a12576247e7fbc7bb1314114",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17374",
+        "playXID": "7c13a125a12576247e7fbc7bb1314114",
+        "streamId": "17374",
+        "dubPlayerSrc": "/dub-player/t/17374/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=7c13a125a12576247e7fbc7bb1314114&abyssId=17374"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17374",
+        "playXID": "7c13a125a12576247e7fbc7bb1314114",
+        "streamId": "17374",
+        "dubPlayerSrc": "/dub-player/t/17374/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=7c13a125a12576247e7fbc7bb1314114&abyssId=17374"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/7c13a125a12576247e7fbc7bb1314114",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/7c13a125a12576247e7fbc7bb1314114"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17374",
+        "abyssId": "17374",
+        "playXID": "7c13a125a12576247e7fbc7bb1314114",
+        "title": "Death Note",
+        "season": 1,
+        "episode": 23,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "WhOeHQukS"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "rbxwGcb-S"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "hSSZTkqQc"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "wszGcRhGx"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "Gtpsz-nNn"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/b53fbb3c22180f5cbd575b0740279046/master.m3u8?md5=-9dCwS6X0xAmdLxyssHb3g&expires=1792166222",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/b53fbb3c22180f5cbd575b0740279046/master.m3u8?md5=-9dCwS6X0xAmdLxyssHb3g&expires=1792166222",
+            "videoSource": "https://ravok.buzz/cdn/hls/b53fbb3c22180f5cbd575b0740279046/master.m3u8?md5=-9dCwS6X0xAmdLxyssHb3g&expires=1792166222",
+            "videoImage": "https://as-cdn29.top/p/_LALztj8KdU2IP1x5gUO36wUZVFBKTFJTqbzzZfVnrerr2MGGUvkSiWUq8EXGYZEhRZZIKlItFOM2wO_5QZFzw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "7c13a125a12576247e7fbc7bb1314114",
+                "streamUrl": "https://ravok.buzz/cdn/hls/b53fbb3c22180f5cbd575b0740279046/master.m3u8?md5=-9dCwS6X0xAmdLxyssHb3g&expires=1792166222",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/b53fbb3c22180f5cbd575b0740279046/master.m3u8?md5=-9dCwS6X0xAmdLxyssHb3g&expires=1792166222",
+                "videoSource": "https://ravok.buzz/cdn/hls/b53fbb3c22180f5cbd575b0740279046/master.m3u8?md5=-9dCwS6X0xAmdLxyssHb3g&expires=1792166222",
+                "link": "https://ravok.buzz/cdn/hls/b53fbb3c22180f5cbd575b0740279046/master.m3u8?md5=-9dCwS6X0xAmdLxyssHb3g&expires=1792166222",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/_LALztj8KdU2IP1x5gUO36wUZVFBKTFJTqbzzZfVnrerr2MGGUvkSiWUq8EXGYZEhRZZIKlItFOM2wO_5QZFzw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "WhOeHQukS"
+        }
+      },
+      "fetched_at": "2026-10-16T13:57:12Z"
+    },
+    {
+      "id": "episode/death-note-1x24",
+      "episode_id": "episode/death-note-1x24",
+      "title": "Private: Death Note 1x1",
+      "episode_name": "Private: Death Note 1x1",
+      "episode_number": 24,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1808_s1e24.webp",
+      "abyssid": "17375",
+      "abyssId": "17375",
+      "playxid": "e6b69a6732af1fbd1e8d4c63165205e9",
+      "playXID": "e6b69a6732af1fbd1e8d4c63165205e9",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17375",
+        "playXID": "e6b69a6732af1fbd1e8d4c63165205e9",
+        "streamId": "17375",
+        "dubPlayerSrc": "/dub-player/t/17375/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e6b69a6732af1fbd1e8d4c63165205e9&abyssId=17375"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17375",
+        "playXID": "e6b69a6732af1fbd1e8d4c63165205e9",
+        "streamId": "17375",
+        "dubPlayerSrc": "/dub-player/t/17375/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e6b69a6732af1fbd1e8d4c63165205e9&abyssId=17375"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/e6b69a6732af1fbd1e8d4c63165205e9",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/e6b69a6732af1fbd1e8d4c63165205e9"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17375",
+        "abyssId": "17375",
+        "playXID": "e6b69a6732af1fbd1e8d4c63165205e9",
+        "title": "Death Note",
+        "season": 1,
+        "episode": 24,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "BYPu9mL0t"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "9erIjSylx"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "9gPqne9Yt"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "sSDXW6Cg7"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "h1Bzn6PH3"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/c029b5f944d6babce8ff6aeee8987d75/master.m3u8?md5=QbiZTQEMPm-FuXX4Z0ouRg&expires=1792166222",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/c029b5f944d6babce8ff6aeee8987d75/master.m3u8?md5=QbiZTQEMPm-FuXX4Z0ouRg&expires=1792166222",
+            "videoSource": "https://ravok.buzz/cdn/hls/c029b5f944d6babce8ff6aeee8987d75/master.m3u8?md5=QbiZTQEMPm-FuXX4Z0ouRg&expires=1792166222",
+            "videoImage": "https://as-cdn30.top/p/okZHehQ55LTXUdHTObAVwtNOy7q3i7wS5VZYZ-w1iXcygUGkk2auyUdbjIeqbzq7IIoXFFIt4I7osFh7N6jrcQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "e6b69a6732af1fbd1e8d4c63165205e9",
+                "streamUrl": "https://ravok.buzz/cdn/hls/c029b5f944d6babce8ff6aeee8987d75/master.m3u8?md5=QbiZTQEMPm-FuXX4Z0ouRg&expires=1792166222",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/c029b5f944d6babce8ff6aeee8987d75/master.m3u8?md5=QbiZTQEMPm-FuXX4Z0ouRg&expires=1792166222",
+                "videoSource": "https://ravok.buzz/cdn/hls/c029b5f944d6babce8ff6aeee8987d75/master.m3u8?md5=QbiZTQEMPm-FuXX4Z0ouRg&expires=1792166222",
+                "link": "https://ravok.buzz/cdn/hls/c029b5f944d6babce8ff6aeee8987d75/master.m3u8?md5=QbiZTQEMPm-FuXX4Z0ouRg&expires=1792166222",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/okZHehQ55LTXUdHTObAVwtNOy7q3i7wS5VZYZ-w1iXcygUGkk2auyUdbjIeqbzq7IIoXFFIt4I7osFh7N6jrcQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "BYPu9mL0t"
+        }
+      },
+      "fetched_at": "2026-10-16T13:57:12Z"
+    },
+    {
+      "id": "episode/death-note-1x25",
+      "episode_id": "episode/death-note-1x25",
+      "title": "Private: Death Note 1x1",
+      "episode_name": "Private: Death Note 1x1",
+      "episode_number": 25,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1808_s1e25.webp",
+      "abyssid": "17449",
+      "abyssId": "17449",
+      "playxid": "a730d98bd8e325260bfc8ba46daeed16",
+      "playXID": "a730d98bd8e325260bfc8ba46daeed16",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17449",
+        "playXID": "a730d98bd8e325260bfc8ba46daeed16",
+        "streamId": "17449",
+        "dubPlayerSrc": "/dub-player/t/17449/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a730d98bd8e325260bfc8ba46daeed16&abyssId=17449"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17449",
+        "playXID": "a730d98bd8e325260bfc8ba46daeed16",
+        "streamId": "17449",
+        "dubPlayerSrc": "/dub-player/t/17449/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a730d98bd8e325260bfc8ba46daeed16&abyssId=17449"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/a730d98bd8e325260bfc8ba46daeed16",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/a730d98bd8e325260bfc8ba46daeed16"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17449",
+        "abyssId": "17449",
+        "playXID": "a730d98bd8e325260bfc8ba46daeed16",
+        "title": "Death Note",
+        "season": 1,
+        "episode": 25,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "zPcvFmoDh"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "X-q9fwfMe"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "9WNTg53sZ"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "QkEJYvQIa"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "loqD6422G"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/ea1ef8ab951befc184d2c132b054a822/master.m3u8?md5=Vw3EIKv64Wpdyu_lFhlvFg&expires=1792166223",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/ea1ef8ab951befc184d2c132b054a822/master.m3u8?md5=Vw3EIKv64Wpdyu_lFhlvFg&expires=1792166223",
+            "videoSource": "https://ravok.buzz/cdn/hls/ea1ef8ab951befc184d2c132b054a822/master.m3u8?md5=Vw3EIKv64Wpdyu_lFhlvFg&expires=1792166223",
+            "videoImage": "https://as-cdn29.top/p/emtxiP7exdXMzkHjm4PLR4gEOnOocxhukbr_yb1oulKGjZ8wJyp-8d5CHkyVsXeLv9znsBa7H_KIfKTZ0VnQaw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "a730d98bd8e325260bfc8ba46daeed16",
+                "streamUrl": "https://ravok.buzz/cdn/hls/ea1ef8ab951befc184d2c132b054a822/master.m3u8?md5=Vw3EIKv64Wpdyu_lFhlvFg&expires=1792166223",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/ea1ef8ab951befc184d2c132b054a822/master.m3u8?md5=Vw3EIKv64Wpdyu_lFhlvFg&expires=1792166223",
+                "videoSource": "https://ravok.buzz/cdn/hls/ea1ef8ab951befc184d2c132b054a822/master.m3u8?md5=Vw3EIKv64Wpdyu_lFhlvFg&expires=1792166223",
+                "link": "https://ravok.buzz/cdn/hls/ea1ef8ab951befc184d2c132b054a822/master.m3u8?md5=Vw3EIKv64Wpdyu_lFhlvFg&expires=1792166223",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/emtxiP7exdXMzkHjm4PLR4gEOnOocxhukbr_yb1oulKGjZ8wJyp-8d5CHkyVsXeLv9znsBa7H_KIfKTZ0VnQaw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "zPcvFmoDh"
+        }
+      },
+      "fetched_at": "2026-10-16T13:57:13Z"
+    },
+    {
+      "id": "episode/death-note-1x26",
+      "episode_id": "episode/death-note-1x26",
+      "title": "Private: Death Note 1x1",
+      "episode_name": "Private: Death Note 1x1",
+      "episode_number": 26,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1808_s1e26.webp",
+      "abyssid": "17450",
+      "abyssId": "17450",
+      "playxid": "571e646d4ea4d46a8fde33d07167efe5",
+      "playXID": "571e646d4ea4d46a8fde33d07167efe5",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17450",
+        "playXID": "571e646d4ea4d46a8fde33d07167efe5",
+        "streamId": "17450",
+        "dubPlayerSrc": "/dub-player/t/17450/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=571e646d4ea4d46a8fde33d07167efe5&abyssId=17450"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17450",
+        "playXID": "571e646d4ea4d46a8fde33d07167efe5",
+        "streamId": "17450",
+        "dubPlayerSrc": "/dub-player/t/17450/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=571e646d4ea4d46a8fde33d07167efe5&abyssId=17450"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/571e646d4ea4d46a8fde33d07167efe5",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/571e646d4ea4d46a8fde33d07167efe5"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17450",
+        "abyssId": "17450",
+        "playXID": "571e646d4ea4d46a8fde33d07167efe5",
+        "title": "Death Note",
+        "season": 1,
+        "episode": 26,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "ZAzgR3WtO"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "kz7cH4DQN"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "JsvjZDZLH"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "hArfnydqE"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "eVyzmSRpn"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/05da9d29ea3f2db9f3a004f8ae3ae35c/master.m3u8?md5=Zzj74AFCM1FOV4KmFhU8lw&expires=1792166224",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/05da9d29ea3f2db9f3a004f8ae3ae35c/master.m3u8?md5=Zzj74AFCM1FOV4KmFhU8lw&expires=1792166224",
+            "videoSource": "https://ravok.buzz/cdn/hls/05da9d29ea3f2db9f3a004f8ae3ae35c/master.m3u8?md5=Zzj74AFCM1FOV4KmFhU8lw&expires=1792166224",
+            "videoImage": "https://as-cdn30.top/p/c1AeH067N-G1g16TjpdPUMT83swMIKpzCDa6T2w3FrVu1Msh4FGYFgYFgtjq4zWsS6XcesZhWtZ7ny-1r6jQZA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "571e646d4ea4d46a8fde33d07167efe5",
+                "streamUrl": "https://ravok.buzz/cdn/hls/05da9d29ea3f2db9f3a004f8ae3ae35c/master.m3u8?md5=Zzj74AFCM1FOV4KmFhU8lw&expires=1792166224",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/05da9d29ea3f2db9f3a004f8ae3ae35c/master.m3u8?md5=Zzj74AFCM1FOV4KmFhU8lw&expires=1792166224",
+                "videoSource": "https://ravok.buzz/cdn/hls/05da9d29ea3f2db9f3a004f8ae3ae35c/master.m3u8?md5=Zzj74AFCM1FOV4KmFhU8lw&expires=1792166224",
+                "link": "https://ravok.buzz/cdn/hls/05da9d29ea3f2db9f3a004f8ae3ae35c/master.m3u8?md5=Zzj74AFCM1FOV4KmFhU8lw&expires=1792166224",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/c1AeH067N-G1g16TjpdPUMT83swMIKpzCDa6T2w3FrVu1Msh4FGYFgYFgtjq4zWsS6XcesZhWtZ7ny-1r6jQZA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "ZAzgR3WtO"
+        }
+      },
+      "fetched_at": "2026-10-16T13:57:14Z"
+    },
+    {
+      "id": "episode/death-note-1x27",
+      "episode_id": "episode/death-note-1x27",
+      "title": "Private: Death Note 1x1",
+      "episode_name": "Private: Death Note 1x1",
+      "episode_number": 27,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1808_s1e27.webp",
+      "abyssid": "17537",
+      "abyssId": "17537",
+      "playxid": "b7313dc57df1c85e3f0715feb5ac05f0",
+      "playXID": "b7313dc57df1c85e3f0715feb5ac05f0",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17537",
+        "playXID": "b7313dc57df1c85e3f0715feb5ac05f0",
+        "streamId": "17537",
+        "dubPlayerSrc": "/dub-player/t/17537/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b7313dc57df1c85e3f0715feb5ac05f0&abyssId=17537"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17537",
+        "playXID": "b7313dc57df1c85e3f0715feb5ac05f0",
+        "streamId": "17537",
+        "dubPlayerSrc": "/dub-player/t/17537/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b7313dc57df1c85e3f0715feb5ac05f0&abyssId=17537"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/b7313dc57df1c85e3f0715feb5ac05f0",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/b7313dc57df1c85e3f0715feb5ac05f0"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17537",
+        "abyssId": "17537",
+        "playXID": "b7313dc57df1c85e3f0715feb5ac05f0",
+        "title": "Death Note",
+        "season": 1,
+        "episode": 27,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "NNfwDFCEQ"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "Dg2DJwwIl"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "pDC9SkHAo"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "aZKv4nfHj"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "AE2OWNEgP"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/580f52f2924e7896962e5a748c1b7014/master.m3u8?md5=qLDBU6-nnhVdO1ST1M2zNg&expires=1792166225",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/580f52f2924e7896962e5a748c1b7014/master.m3u8?md5=qLDBU6-nnhVdO1ST1M2zNg&expires=1792166225",
+            "videoSource": "https://ravok.buzz/cdn/hls/580f52f2924e7896962e5a748c1b7014/master.m3u8?md5=qLDBU6-nnhVdO1ST1M2zNg&expires=1792166225",
+            "videoImage": "https://as-cdn29.top/p/Zia60EBJJFWongdgkgujubA39YQHm50LZHZ3VrrzxXJDQf1JL4MuztUlghBJN-_sm6WOseSYMel8o4xI15A7Fw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "b7313dc57df1c85e3f0715feb5ac05f0",
+                "streamUrl": "https://ravok.buzz/cdn/hls/580f52f2924e7896962e5a748c1b7014/master.m3u8?md5=qLDBU6-nnhVdO1ST1M2zNg&expires=1792166225",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/580f52f2924e7896962e5a748c1b7014/master.m3u8?md5=qLDBU6-nnhVdO1ST1M2zNg&expires=1792166225",
+                "videoSource": "https://ravok.buzz/cdn/hls/580f52f2924e7896962e5a748c1b7014/master.m3u8?md5=qLDBU6-nnhVdO1ST1M2zNg&expires=1792166225",
+                "link": "https://ravok.buzz/cdn/hls/580f52f2924e7896962e5a748c1b7014/master.m3u8?md5=qLDBU6-nnhVdO1ST1M2zNg&expires=1792166225",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/Zia60EBJJFWongdgkgujubA39YQHm50LZHZ3VrrzxXJDQf1JL4MuztUlghBJN-_sm6WOseSYMel8o4xI15A7Fw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "NNfwDFCEQ"
+        }
+      },
+      "fetched_at": "2026-10-16T13:57:16Z"
+    },
+    {
+      "id": "episode/death-note-1x28",
+      "episode_id": "episode/death-note-1x28",
+      "title": "Private: Death Note 1x1",
+      "episode_name": "Private: Death Note 1x1",
+      "episode_number": 28,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1808_s1e28.webp",
+      "abyssid": "17538",
+      "abyssId": "17538",
+      "playxid": "914a153b9ab6f86a79a0f7b8d6250e2c",
+      "playXID": "914a153b9ab6f86a79a0f7b8d6250e2c",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17538",
+        "playXID": "914a153b9ab6f86a79a0f7b8d6250e2c",
+        "streamId": "17538",
+        "dubPlayerSrc": "/dub-player/t/17538/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=914a153b9ab6f86a79a0f7b8d6250e2c&abyssId=17538"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17538",
+        "playXID": "914a153b9ab6f86a79a0f7b8d6250e2c",
+        "streamId": "17538",
+        "dubPlayerSrc": "/dub-player/t/17538/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=914a153b9ab6f86a79a0f7b8d6250e2c&abyssId=17538"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/914a153b9ab6f86a79a0f7b8d6250e2c",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/914a153b9ab6f86a79a0f7b8d6250e2c"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17538",
+        "abyssId": "17538",
+        "playXID": "914a153b9ab6f86a79a0f7b8d6250e2c",
+        "title": "Death Note",
+        "season": 1,
+        "episode": 28,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "KFj1XYppF"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "W8SDghf48y"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "u2YAJb24y"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "MgWiViwS-U"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "KMm9r8tb0"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/279b75f741f643d7624f8396d1c95484/master.m3u8?md5=j9amqxHA0SOphmNOvvdNGA&expires=1792166225",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/279b75f741f643d7624f8396d1c95484/master.m3u8?md5=j9amqxHA0SOphmNOvvdNGA&expires=1792166225",
+            "videoSource": "https://ravok.buzz/cdn/hls/279b75f741f643d7624f8396d1c95484/master.m3u8?md5=j9amqxHA0SOphmNOvvdNGA&expires=1792166225",
+            "videoImage": "https://as-cdn31.top/p/R6g58D50XBc0SbW8dG6mICC9ajp1Mkdhnc0IIi0nAYwx-1_x5FJ8AuGaHl95EYSF-un4pHPbfvm3TDxu8NTYcA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "914a153b9ab6f86a79a0f7b8d6250e2c",
+                "streamUrl": "https://ravok.buzz/cdn/hls/279b75f741f643d7624f8396d1c95484/master.m3u8?md5=j9amqxHA0SOphmNOvvdNGA&expires=1792166225",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/279b75f741f643d7624f8396d1c95484/master.m3u8?md5=j9amqxHA0SOphmNOvvdNGA&expires=1792166225",
+                "videoSource": "https://ravok.buzz/cdn/hls/279b75f741f643d7624f8396d1c95484/master.m3u8?md5=j9amqxHA0SOphmNOvvdNGA&expires=1792166225",
+                "link": "https://ravok.buzz/cdn/hls/279b75f741f643d7624f8396d1c95484/master.m3u8?md5=j9amqxHA0SOphmNOvvdNGA&expires=1792166225",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/R6g58D50XBc0SbW8dG6mICC9ajp1Mkdhnc0IIi0nAYwx-1_x5FJ8AuGaHl95EYSF-un4pHPbfvm3TDxu8NTYcA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "KFj1XYppF"
+        }
+      },
+      "fetched_at": "2026-10-16T13:57:16Z"
+    },
+    {
+      "id": "episode/death-note-1x29",
+      "episode_id": "episode/death-note-1x29",
+      "title": "Private: Death Note 1x1",
+      "episode_name": "Private: Death Note 1x1",
+      "episode_number": 29,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1808_s1e29.webp",
+      "abyssid": "17556",
+      "abyssId": "17556",
+      "playxid": "fd1c0a16b6b63a23af7be6c7d25c9aa6",
+      "playXID": "fd1c0a16b6b63a23af7be6c7d25c9aa6",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17556",
+        "playXID": "fd1c0a16b6b63a23af7be6c7d25c9aa6",
+        "streamId": "17556",
+        "dubPlayerSrc": "/dub-player/t/17556/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=fd1c0a16b6b63a23af7be6c7d25c9aa6&abyssId=17556"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17556",
+        "playXID": "fd1c0a16b6b63a23af7be6c7d25c9aa6",
+        "streamId": "17556",
+        "dubPlayerSrc": "/dub-player/t/17556/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=fd1c0a16b6b63a23af7be6c7d25c9aa6&abyssId=17556"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/fd1c0a16b6b63a23af7be6c7d25c9aa6",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/fd1c0a16b6b63a23af7be6c7d25c9aa6"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17556",
+        "abyssId": "17556",
+        "playXID": "fd1c0a16b6b63a23af7be6c7d25c9aa6",
+        "title": "Death Note",
+        "season": 1,
+        "episode": 29,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "2Y8nKfghg"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "JFh5ZUjiy"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "g-9CakAKZ"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "VWN9pna_i"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "8K7jr5Tqe"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/92adcda576ff0416db7bc84607138e63/master.m3u8?md5=2zax9Uzb-HjyQTLJGUReDw&expires=1792166226",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/92adcda576ff0416db7bc84607138e63/master.m3u8?md5=2zax9Uzb-HjyQTLJGUReDw&expires=1792166226",
+            "videoSource": "https://ravok.buzz/cdn/hls/92adcda576ff0416db7bc84607138e63/master.m3u8?md5=2zax9Uzb-HjyQTLJGUReDw&expires=1792166226",
+            "videoImage": "https://as-cdn30.top/p/A6Z-bNdc2OBy1BLSLCVRgW2Z_z8V5EhNJ3YrXoLWQlUnUnlX6M7hyMlvAYMBrXSLtyrvGUTXA-wQVtd4rAijqg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "fd1c0a16b6b63a23af7be6c7d25c9aa6",
+                "streamUrl": "https://ravok.buzz/cdn/hls/92adcda576ff0416db7bc84607138e63/master.m3u8?md5=2zax9Uzb-HjyQTLJGUReDw&expires=1792166226",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/92adcda576ff0416db7bc84607138e63/master.m3u8?md5=2zax9Uzb-HjyQTLJGUReDw&expires=1792166226",
+                "videoSource": "https://ravok.buzz/cdn/hls/92adcda576ff0416db7bc84607138e63/master.m3u8?md5=2zax9Uzb-HjyQTLJGUReDw&expires=1792166226",
+                "link": "https://ravok.buzz/cdn/hls/92adcda576ff0416db7bc84607138e63/master.m3u8?md5=2zax9Uzb-HjyQTLJGUReDw&expires=1792166226",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/A6Z-bNdc2OBy1BLSLCVRgW2Z_z8V5EhNJ3YrXoLWQlUnUnlX6M7hyMlvAYMBrXSLtyrvGUTXA-wQVtd4rAijqg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "2Y8nKfghg"
+        }
+      },
+      "fetched_at": "2026-10-16T13:57:16Z"
+    },
+    {
+      "id": "episode/death-note-1x30",
+      "episode_id": "episode/death-note-1x30",
+      "title": "Private: Death Note 1x1",
+      "episode_name": "Private: Death Note 1x1",
+      "episode_number": 30,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1808_s1e30.webp",
+      "abyssid": "17558",
+      "abyssId": "17558",
+      "playxid": "a07185ca29dd97374518759cab2eb0dc",
+      "playXID": "a07185ca29dd97374518759cab2eb0dc",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17558",
+        "playXID": "a07185ca29dd97374518759cab2eb0dc",
+        "streamId": "17558",
+        "dubPlayerSrc": "/dub-player/t/17558/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a07185ca29dd97374518759cab2eb0dc&abyssId=17558"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17558",
+        "playXID": "a07185ca29dd97374518759cab2eb0dc",
+        "streamId": "17558",
+        "dubPlayerSrc": "/dub-player/t/17558/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a07185ca29dd97374518759cab2eb0dc&abyssId=17558"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/a07185ca29dd97374518759cab2eb0dc",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/a07185ca29dd97374518759cab2eb0dc"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17558",
+        "abyssId": "17558",
+        "playXID": "a07185ca29dd97374518759cab2eb0dc",
+        "title": "Death Note",
+        "season": 1,
+        "episode": 30,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "KrcOA6lHS"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "1EchqmdI4"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "CDK9f6uvr"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "qYjLvzMU1"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "S61Ez_iEF"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/e71c36c9d4f22926a342c5292629452b/master.m3u8?md5=_0YkMg_P24M-quKciEWJAA&expires=1792166228",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/e71c36c9d4f22926a342c5292629452b/master.m3u8?md5=_0YkMg_P24M-quKciEWJAA&expires=1792166228",
+            "videoSource": "https://ravok.buzz/cdn/hls/e71c36c9d4f22926a342c5292629452b/master.m3u8?md5=_0YkMg_P24M-quKciEWJAA&expires=1792166228",
+            "videoImage": "https://as-cdn30.top/p/CnLyyccUiBEFC_U5B7aZExuuBlROcUvDngTaljnIfKmmlUmFrPxZYwsYpu-FJRAYTNdwzEV4Kpat8jBvB5281A.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "a07185ca29dd97374518759cab2eb0dc",
+                "streamUrl": "https://ravok.buzz/cdn/hls/e71c36c9d4f22926a342c5292629452b/master.m3u8?md5=_0YkMg_P24M-quKciEWJAA&expires=1792166228",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/e71c36c9d4f22926a342c5292629452b/master.m3u8?md5=_0YkMg_P24M-quKciEWJAA&expires=1792166228",
+                "videoSource": "https://ravok.buzz/cdn/hls/e71c36c9d4f22926a342c5292629452b/master.m3u8?md5=_0YkMg_P24M-quKciEWJAA&expires=1792166228",
+                "link": "https://ravok.buzz/cdn/hls/e71c36c9d4f22926a342c5292629452b/master.m3u8?md5=_0YkMg_P24M-quKciEWJAA&expires=1792166228",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/CnLyyccUiBEFC_U5B7aZExuuBlROcUvDngTaljnIfKmmlUmFrPxZYwsYpu-FJRAYTNdwzEV4Kpat8jBvB5281A.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "KrcOA6lHS"
+        }
+      },
+      "fetched_at": "2026-10-16T13:57:18Z"
+    },
+    {
+      "id": "episode/death-note-1x31",
+      "episode_id": "episode/death-note-1x31",
+      "title": "Private: Death Note 1x1",
+      "episode_name": "Private: Death Note 1x1",
+      "episode_number": 31,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1808_s1e31.webp",
+      "abyssid": "17631",
+      "abyssId": "17631",
+      "playxid": "bc7c79617ed7d3099c430855b20fe05e",
+      "playXID": "bc7c79617ed7d3099c430855b20fe05e",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17631",
+        "playXID": "bc7c79617ed7d3099c430855b20fe05e",
+        "streamId": "17631",
+        "dubPlayerSrc": "/dub-player/t/17631/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=bc7c79617ed7d3099c430855b20fe05e&abyssId=17631"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17631",
+        "playXID": "bc7c79617ed7d3099c430855b20fe05e",
+        "streamId": "17631",
+        "dubPlayerSrc": "/dub-player/t/17631/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=bc7c79617ed7d3099c430855b20fe05e&abyssId=17631"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/bc7c79617ed7d3099c430855b20fe05e",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/bc7c79617ed7d3099c430855b20fe05e"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17631",
+        "abyssId": "17631",
+        "playXID": "bc7c79617ed7d3099c430855b20fe05e",
+        "title": "Death Note",
+        "season": 1,
+        "episode": 31,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "pvvgwm4tQ"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "7_BZyXzoP"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "ZVzZJPkXL"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "h3yEB0L3M"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "NwfJpxOqW"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/3893229963ee845fb2857d8715153e4d/master.m3u8?md5=jFu8Qje9I_iXygh_AHVsOg&expires=1792166228",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/3893229963ee845fb2857d8715153e4d/master.m3u8?md5=jFu8Qje9I_iXygh_AHVsOg&expires=1792166228",
+            "videoSource": "https://ravok.buzz/cdn/hls/3893229963ee845fb2857d8715153e4d/master.m3u8?md5=jFu8Qje9I_iXygh_AHVsOg&expires=1792166228",
+            "videoImage": "https://as-cdn31.top/p/NdYQwz6ozOLGFIoqejpaRjm3BFziiStWg4QmXRMkUUzR5UUbaUc_ucDfXZcfMa46oduXjP8xFLwCEeibTh7DoQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "bc7c79617ed7d3099c430855b20fe05e",
+                "streamUrl": "https://ravok.buzz/cdn/hls/3893229963ee845fb2857d8715153e4d/master.m3u8?md5=jFu8Qje9I_iXygh_AHVsOg&expires=1792166228",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/3893229963ee845fb2857d8715153e4d/master.m3u8?md5=jFu8Qje9I_iXygh_AHVsOg&expires=1792166228",
+                "videoSource": "https://ravok.buzz/cdn/hls/3893229963ee845fb2857d8715153e4d/master.m3u8?md5=jFu8Qje9I_iXygh_AHVsOg&expires=1792166228",
+                "link": "https://ravok.buzz/cdn/hls/3893229963ee845fb2857d8715153e4d/master.m3u8?md5=jFu8Qje9I_iXygh_AHVsOg&expires=1792166228",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/NdYQwz6ozOLGFIoqejpaRjm3BFziiStWg4QmXRMkUUzR5UUbaUc_ucDfXZcfMa46oduXjP8xFLwCEeibTh7DoQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "pvvgwm4tQ"
+        }
+      },
+      "fetched_at": "2026-10-16T13:57:18Z"
+    },
+    {
+      "id": "episode/death-note-1x32",
+      "episode_id": "episode/death-note-1x32",
+      "title": "Private: Death Note 1x1",
+      "episode_name": "Private: Death Note 1x1",
+      "episode_number": 32,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1808_s1e32.webp",
+      "abyssid": "17632",
+      "abyssId": "17632",
+      "playxid": "762dd577d6ff90976d1269075d4ebae5",
+      "playXID": "762dd577d6ff90976d1269075d4ebae5",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17632",
+        "playXID": "762dd577d6ff90976d1269075d4ebae5",
+        "streamId": "17632",
+        "dubPlayerSrc": "/dub-player/t/17632/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=762dd577d6ff90976d1269075d4ebae5&abyssId=17632"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17632",
+        "playXID": "762dd577d6ff90976d1269075d4ebae5",
+        "streamId": "17632",
+        "dubPlayerSrc": "/dub-player/t/17632/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=762dd577d6ff90976d1269075d4ebae5&abyssId=17632"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/762dd577d6ff90976d1269075d4ebae5",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/762dd577d6ff90976d1269075d4ebae5"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17632",
+        "abyssId": "17632",
+        "playXID": "762dd577d6ff90976d1269075d4ebae5",
+        "title": "Death Note",
+        "season": 1,
+        "episode": 32,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "IlZaw7eZH"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "0SfdYWjE3"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "YZokB64OB"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "REmPgIf69"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "nJ2KwzaDh"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/d30633e26306d96a7bece88ac98bdf30/master.m3u8?md5=edLFqu6drvETUN2bz1h9xQ&expires=1792166229",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/d30633e26306d96a7bece88ac98bdf30/master.m3u8?md5=edLFqu6drvETUN2bz1h9xQ&expires=1792166229",
+            "videoSource": "https://ravok.buzz/cdn/hls/d30633e26306d96a7bece88ac98bdf30/master.m3u8?md5=edLFqu6drvETUN2bz1h9xQ&expires=1792166229",
+            "videoImage": "https://as-cdn30.top/p/UWFj3Ee5RJd6RQjOf-YYpfNMFBnd-FnRcdTZx2lESao5lZHTDNqPEgbxluGY4zfJgWFD5ZjKlo7axrOS6xknfQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "762dd577d6ff90976d1269075d4ebae5",
+                "streamUrl": "https://ravok.buzz/cdn/hls/d30633e26306d96a7bece88ac98bdf30/master.m3u8?md5=edLFqu6drvETUN2bz1h9xQ&expires=1792166229",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/d30633e26306d96a7bece88ac98bdf30/master.m3u8?md5=edLFqu6drvETUN2bz1h9xQ&expires=1792166229",
+                "videoSource": "https://ravok.buzz/cdn/hls/d30633e26306d96a7bece88ac98bdf30/master.m3u8?md5=edLFqu6drvETUN2bz1h9xQ&expires=1792166229",
+                "link": "https://ravok.buzz/cdn/hls/d30633e26306d96a7bece88ac98bdf30/master.m3u8?md5=edLFqu6drvETUN2bz1h9xQ&expires=1792166229",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/UWFj3Ee5RJd6RQjOf-YYpfNMFBnd-FnRcdTZx2lESao5lZHTDNqPEgbxluGY4zfJgWFD5ZjKlo7axrOS6xknfQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "IlZaw7eZH"
+        }
+      },
+      "fetched_at": "2026-10-16T13:57:19Z"
+    },
+    {
+      "id": "episode/death-note-1x33",
+      "episode_id": "episode/death-note-1x33",
+      "title": "Private: Death Note 1x1",
+      "episode_name": "Private: Death Note 1x1",
+      "episode_number": 33,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1808_s1e33.webp",
+      "abyssid": "17665",
+      "abyssId": "17665",
+      "playxid": "ae8fae5681609a2556741d9528afacc6",
+      "playXID": "ae8fae5681609a2556741d9528afacc6",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17665",
+        "playXID": "ae8fae5681609a2556741d9528afacc6",
+        "streamId": "17665",
+        "dubPlayerSrc": "/dub-player/t/17665/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ae8fae5681609a2556741d9528afacc6&abyssId=17665"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17665",
+        "playXID": "ae8fae5681609a2556741d9528afacc6",
+        "streamId": "17665",
+        "dubPlayerSrc": "/dub-player/t/17665/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ae8fae5681609a2556741d9528afacc6&abyssId=17665"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/ae8fae5681609a2556741d9528afacc6",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/ae8fae5681609a2556741d9528afacc6"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17665",
+        "abyssId": "17665",
+        "playXID": "ae8fae5681609a2556741d9528afacc6",
+        "title": "Death Note",
+        "season": 1,
+        "episode": 33,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "JXugpGTun"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "39clTHEDg"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "zd6wt7PdED"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "1AMXXNfTr"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "OC2vwgj8-"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/ee30542ccdd79ba970013d232119d352/master.m3u8?md5=2nnKDf8zNr3-jwTreAVJ4A&expires=1792166230",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/ee30542ccdd79ba970013d232119d352/master.m3u8?md5=2nnKDf8zNr3-jwTreAVJ4A&expires=1792166230",
+            "videoSource": "https://ravok.buzz/cdn/hls/ee30542ccdd79ba970013d232119d352/master.m3u8?md5=2nnKDf8zNr3-jwTreAVJ4A&expires=1792166230",
+            "videoImage": "https://as-cdn28.top/p/xu1lGlMFyOCvvlk7HJ9vL4_WW4Yk9GTEl7G7gvTtnJ6MtntIMi2jh3htdmY2P_YtSal9E_Iy1N0viJT0ec9DPA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "ae8fae5681609a2556741d9528afacc6",
+                "streamUrl": "https://ravok.buzz/cdn/hls/ee30542ccdd79ba970013d232119d352/master.m3u8?md5=2nnKDf8zNr3-jwTreAVJ4A&expires=1792166230",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/ee30542ccdd79ba970013d232119d352/master.m3u8?md5=2nnKDf8zNr3-jwTreAVJ4A&expires=1792166230",
+                "videoSource": "https://ravok.buzz/cdn/hls/ee30542ccdd79ba970013d232119d352/master.m3u8?md5=2nnKDf8zNr3-jwTreAVJ4A&expires=1792166230",
+                "link": "https://ravok.buzz/cdn/hls/ee30542ccdd79ba970013d232119d352/master.m3u8?md5=2nnKDf8zNr3-jwTreAVJ4A&expires=1792166230",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/xu1lGlMFyOCvvlk7HJ9vL4_WW4Yk9GTEl7G7gvTtnJ6MtntIMi2jh3htdmY2P_YtSal9E_Iy1N0viJT0ec9DPA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "JXugpGTun"
+        }
+      },
+      "fetched_at": "2026-10-16T13:57:20Z"
+    },
+    {
+      "id": "episode/death-note-1x34",
+      "episode_id": "episode/death-note-1x34",
+      "title": "Private: Death Note 1x1",
+      "episode_name": "Private: Death Note 1x1",
+      "episode_number": 34,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1808_s1e34.webp",
+      "abyssid": "17666",
+      "abyssId": "17666",
+      "playxid": "105bbb4c5c3b35ce92f245193aa94883",
+      "playXID": "105bbb4c5c3b35ce92f245193aa94883",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17666",
+        "playXID": "105bbb4c5c3b35ce92f245193aa94883",
+        "streamId": "17666",
+        "dubPlayerSrc": "/dub-player/t/17666/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=105bbb4c5c3b35ce92f245193aa94883&abyssId=17666"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17666",
+        "playXID": "105bbb4c5c3b35ce92f245193aa94883",
+        "streamId": "17666",
+        "dubPlayerSrc": "/dub-player/t/17666/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=105bbb4c5c3b35ce92f245193aa94883&abyssId=17666"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/105bbb4c5c3b35ce92f245193aa94883",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/105bbb4c5c3b35ce92f245193aa94883"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17666",
+        "abyssId": "17666",
+        "playXID": "105bbb4c5c3b35ce92f245193aa94883",
+        "title": "Death Note",
+        "season": 1,
+        "episode": 34,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "Y4b7lGP0i"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "4CrHqKF1q"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "hnx1L9foW"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "UuEP8Hn_2o"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "kj_biDP1V"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/d85d233bf41c414657c11c6d9813c6b3/master.m3u8?md5=TSQaiVyFVZsjJI-1YOCqyw&expires=1792166230",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/d85d233bf41c414657c11c6d9813c6b3/master.m3u8?md5=TSQaiVyFVZsjJI-1YOCqyw&expires=1792166230",
+            "videoSource": "https://ravok.buzz/cdn/hls/d85d233bf41c414657c11c6d9813c6b3/master.m3u8?md5=TSQaiVyFVZsjJI-1YOCqyw&expires=1792166230",
+            "videoImage": "https://as-cdn27.top/p/0NR_uD3qsicE_s-SRQeyHcH1klBTx62yTGCpJ13NIPulgG9Tqcafi96mEb6DGiRR3M55nIx45Jw28vEBN2r1-A.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "105bbb4c5c3b35ce92f245193aa94883",
+                "streamUrl": "https://ravok.buzz/cdn/hls/d85d233bf41c414657c11c6d9813c6b3/master.m3u8?md5=TSQaiVyFVZsjJI-1YOCqyw&expires=1792166230",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/d85d233bf41c414657c11c6d9813c6b3/master.m3u8?md5=TSQaiVyFVZsjJI-1YOCqyw&expires=1792166230",
+                "videoSource": "https://ravok.buzz/cdn/hls/d85d233bf41c414657c11c6d9813c6b3/master.m3u8?md5=TSQaiVyFVZsjJI-1YOCqyw&expires=1792166230",
+                "link": "https://ravok.buzz/cdn/hls/d85d233bf41c414657c11c6d9813c6b3/master.m3u8?md5=TSQaiVyFVZsjJI-1YOCqyw&expires=1792166230",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/0NR_uD3qsicE_s-SRQeyHcH1klBTx62yTGCpJ13NIPulgG9Tqcafi96mEb6DGiRR3M55nIx45Jw28vEBN2r1-A.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "Y4b7lGP0i"
+        }
+      },
+      "fetched_at": "2026-10-16T13:57:21Z"
+    },
+    {
+      "id": "episode/death-note-1x35",
+      "episode_id": "episode/death-note-1x35",
+      "title": "Private: Death Note 1x1",
+      "episode_name": "Private: Death Note 1x1",
+      "episode_number": 35,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1808_s1e35.webp",
+      "abyssid": "17724",
+      "abyssId": "17724",
+      "playxid": "e6403365350214703763569edef497e0",
+      "playXID": "e6403365350214703763569edef497e0",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17724",
+        "playXID": "e6403365350214703763569edef497e0",
+        "streamId": "17724",
+        "dubPlayerSrc": "/dub-player/t/17724/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e6403365350214703763569edef497e0&abyssId=17724"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17724",
+        "playXID": "e6403365350214703763569edef497e0",
+        "streamId": "17724",
+        "dubPlayerSrc": "/dub-player/t/17724/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e6403365350214703763569edef497e0&abyssId=17724"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/e6403365350214703763569edef497e0",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/e6403365350214703763569edef497e0"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17724",
+        "abyssId": "17724",
+        "playXID": "e6403365350214703763569edef497e0",
+        "title": "Death Note",
+        "season": 1,
+        "episode": 35,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "9xuKMeYYO"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "dZ7eJtuJ-"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "6aQv4EC0P"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "d_3TFydpp"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "wBvWaOV_-"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/edd35e6b6dabb9b18e6ea74854b04fb5/master.m3u8?md5=ka20Vu6Hx17jCrr61f5AZw&expires=1792166231",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/edd35e6b6dabb9b18e6ea74854b04fb5/master.m3u8?md5=ka20Vu6Hx17jCrr61f5AZw&expires=1792166231",
+            "videoSource": "https://ravok.buzz/cdn/hls/edd35e6b6dabb9b18e6ea74854b04fb5/master.m3u8?md5=ka20Vu6Hx17jCrr61f5AZw&expires=1792166231",
+            "videoImage": "https://as-cdn29.top/p/UikXUr3ZHKm76fdSMZNicwRlCUt6CtiC0j5k8o_5uRcn-w6LQYhz2yniPKYb0P8lorL9-Us03zMqeqcIuWSNYA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "e6403365350214703763569edef497e0",
+                "streamUrl": "https://ravok.buzz/cdn/hls/edd35e6b6dabb9b18e6ea74854b04fb5/master.m3u8?md5=ka20Vu6Hx17jCrr61f5AZw&expires=1792166231",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/edd35e6b6dabb9b18e6ea74854b04fb5/master.m3u8?md5=ka20Vu6Hx17jCrr61f5AZw&expires=1792166231",
+                "videoSource": "https://ravok.buzz/cdn/hls/edd35e6b6dabb9b18e6ea74854b04fb5/master.m3u8?md5=ka20Vu6Hx17jCrr61f5AZw&expires=1792166231",
+                "link": "https://ravok.buzz/cdn/hls/edd35e6b6dabb9b18e6ea74854b04fb5/master.m3u8?md5=ka20Vu6Hx17jCrr61f5AZw&expires=1792166231",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/UikXUr3ZHKm76fdSMZNicwRlCUt6CtiC0j5k8o_5uRcn-w6LQYhz2yniPKYb0P8lorL9-Us03zMqeqcIuWSNYA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "9xuKMeYYO"
+        }
+      },
+      "fetched_at": "2026-10-16T13:57:21Z"
+    },
+    {
+      "id": "episode/death-note-1x15",
+      "episode_id": "episode/death-note-1x15",
+      "title": "Private: Death Note 1x1",
+      "episode_name": "Private: Death Note 1x1",
+      "episode_number": 15,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1808_s1e15.webp",
+      "abyssid": "17018",
+      "abyssId": "17018",
+      "playxid": "1d9e93e74dda5258e7febd6b52502418",
+      "playXID": "1d9e93e74dda5258e7febd6b52502418",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17018",
+        "playXID": "1d9e93e74dda5258e7febd6b52502418",
+        "streamId": "17018",
+        "dubPlayerSrc": "/dub-player/t/17018/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=1d9e93e74dda5258e7febd6b52502418&abyssId=17018"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17018",
+        "playXID": "1d9e93e74dda5258e7febd6b52502418",
+        "streamId": "17018",
+        "dubPlayerSrc": "/dub-player/t/17018/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=1d9e93e74dda5258e7febd6b52502418&abyssId=17018"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/1d9e93e74dda5258e7febd6b52502418",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/1d9e93e74dda5258e7febd6b52502418"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17018",
+        "abyssId": "17018",
+        "playXID": "1d9e93e74dda5258e7febd6b52502418",
+        "title": "Death Note",
+        "season": 1,
+        "episode": 15,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "hDp0ne612"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "Quk-oWN7v"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "iDE-Pa_fi"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "bPttJSe2A"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "-l7NImeFv"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/43f1ea7302a75ec97a90cdcd16b944ec/master.m3u8?md5=jwr-p_xptadRMKx6KTDgHw&expires=1792166232",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/43f1ea7302a75ec97a90cdcd16b944ec/master.m3u8?md5=jwr-p_xptadRMKx6KTDgHw&expires=1792166232",
+            "videoSource": "https://ravok.buzz/cdn/hls/43f1ea7302a75ec97a90cdcd16b944ec/master.m3u8?md5=jwr-p_xptadRMKx6KTDgHw&expires=1792166232",
+            "videoImage": "https://as-cdn29.top/p/YWsrCpfjlqp3_pCY4FiRKiEOVv_881h3xyiE8qA_AIAJh-IRcZxmQgu4AHTDKPsfMPAecXab8XtasGT4ktS6nw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "1d9e93e74dda5258e7febd6b52502418",
+                "streamUrl": "https://ravok.buzz/cdn/hls/43f1ea7302a75ec97a90cdcd16b944ec/master.m3u8?md5=jwr-p_xptadRMKx6KTDgHw&expires=1792166232",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/43f1ea7302a75ec97a90cdcd16b944ec/master.m3u8?md5=jwr-p_xptadRMKx6KTDgHw&expires=1792166232",
+                "videoSource": "https://ravok.buzz/cdn/hls/43f1ea7302a75ec97a90cdcd16b944ec/master.m3u8?md5=jwr-p_xptadRMKx6KTDgHw&expires=1792166232",
+                "link": "https://ravok.buzz/cdn/hls/43f1ea7302a75ec97a90cdcd16b944ec/master.m3u8?md5=jwr-p_xptadRMKx6KTDgHw&expires=1792166232",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/YWsrCpfjlqp3_pCY4FiRKiEOVv_881h3xyiE8qA_AIAJh-IRcZxmQgu4AHTDKPsfMPAecXab8XtasGT4ktS6nw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "hDp0ne612"
+        }
+      },
+      "fetched_at": "2026-10-16T13:57:22Z"
+    },
+    {
+      "id": "episode/death-note-1x36",
+      "episode_id": "episode/death-note-1x36",
+      "title": "Private: Death Note 1x1",
+      "episode_name": "Private: Death Note 1x1",
+      "episode_number": 36,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1808_s1e36.webp",
+      "abyssid": "17725",
+      "abyssId": "17725",
+      "playxid": "152b834f4143f04134b97d1efabb0c67",
+      "playXID": "152b834f4143f04134b97d1efabb0c67",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17725",
+        "playXID": "152b834f4143f04134b97d1efabb0c67",
+        "streamId": "17725",
+        "dubPlayerSrc": "/dub-player/t/17725/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=152b834f4143f04134b97d1efabb0c67&abyssId=17725"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17725",
+        "playXID": "152b834f4143f04134b97d1efabb0c67",
+        "streamId": "17725",
+        "dubPlayerSrc": "/dub-player/t/17725/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=152b834f4143f04134b97d1efabb0c67&abyssId=17725"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/152b834f4143f04134b97d1efabb0c67",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/152b834f4143f04134b97d1efabb0c67"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17725",
+        "abyssId": "17725",
+        "playXID": "152b834f4143f04134b97d1efabb0c67",
+        "title": "Death Note",
+        "season": 1,
+        "episode": 36,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "y1ic-GRRkb"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "PL3KT9Vv-"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "xit9F0yf8"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "6KF9xVCdZ"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "MoGNC7JDE"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/9d6b489dfe2500d9f41a0968424bd2e1/master.m3u8?md5=0w2eGou4atRIgCu_aWufIg&expires=1792166233",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/9d6b489dfe2500d9f41a0968424bd2e1/master.m3u8?md5=0w2eGou4atRIgCu_aWufIg&expires=1792166233",
+            "videoSource": "https://ravok.buzz/cdn/hls/9d6b489dfe2500d9f41a0968424bd2e1/master.m3u8?md5=0w2eGou4atRIgCu_aWufIg&expires=1792166233",
+            "videoImage": "https://as-cdn31.top/p/j1FSxjruLRX48LFLo5zBTovssu2kusOc9LrTnhAyjI3NRQ6T7pSaIJU2KpNtWX4IvJ1F3tbDc3zQWyV2eQe41g.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "152b834f4143f04134b97d1efabb0c67",
+                "streamUrl": "https://ravok.buzz/cdn/hls/9d6b489dfe2500d9f41a0968424bd2e1/master.m3u8?md5=0w2eGou4atRIgCu_aWufIg&expires=1792166233",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/9d6b489dfe2500d9f41a0968424bd2e1/master.m3u8?md5=0w2eGou4atRIgCu_aWufIg&expires=1792166233",
+                "videoSource": "https://ravok.buzz/cdn/hls/9d6b489dfe2500d9f41a0968424bd2e1/master.m3u8?md5=0w2eGou4atRIgCu_aWufIg&expires=1792166233",
+                "link": "https://ravok.buzz/cdn/hls/9d6b489dfe2500d9f41a0968424bd2e1/master.m3u8?md5=0w2eGou4atRIgCu_aWufIg&expires=1792166233",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/j1FSxjruLRX48LFLo5zBTovssu2kusOc9LrTnhAyjI3NRQ6T7pSaIJU2KpNtWX4IvJ1F3tbDc3zQWyV2eQe41g.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "y1ic-GRRkb"
+        }
+      },
+      "fetched_at": "2026-10-16T13:57:23Z"
+    },
+    {
+      "id": "episode/death-note-1x37",
+      "episode_id": "episode/death-note-1x37",
+      "title": "Private: Death Note 1x1",
+      "episode_name": "Private: Death Note 1x1",
+      "episode_number": 37,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1808_s1e37.webp",
+      "abyssid": "17726",
+      "abyssId": "17726",
+      "playxid": "6dd36e7dc260bc1beeb79a33da67b5df",
+      "playXID": "6dd36e7dc260bc1beeb79a33da67b5df",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17726",
+        "playXID": "6dd36e7dc260bc1beeb79a33da67b5df",
+        "streamId": "17726",
+        "dubPlayerSrc": "/dub-player/t/17726/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6dd36e7dc260bc1beeb79a33da67b5df&abyssId=17726"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17726",
+        "playXID": "6dd36e7dc260bc1beeb79a33da67b5df",
+        "streamId": "17726",
+        "dubPlayerSrc": "/dub-player/t/17726/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6dd36e7dc260bc1beeb79a33da67b5df&abyssId=17726"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/6dd36e7dc260bc1beeb79a33da67b5df",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/6dd36e7dc260bc1beeb79a33da67b5df"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17726",
+        "abyssId": "17726",
+        "playXID": "6dd36e7dc260bc1beeb79a33da67b5df",
+        "title": "Death Note",
+        "season": 1,
+        "episode": 37,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "oVwwT9D9u"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "QvmTkaCLC"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "cA-UW9Zxp"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "8qd6weM9I"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "BMb-eniSU"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/0427ab842cc87902c6a75fd387c159b0/master.m3u8?md5=4XFwfFgGzZq9fndxuUzFaA&expires=1792166233",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/0427ab842cc87902c6a75fd387c159b0/master.m3u8?md5=4XFwfFgGzZq9fndxuUzFaA&expires=1792166233",
+            "videoSource": "https://ravok.buzz/cdn/hls/0427ab842cc87902c6a75fd387c159b0/master.m3u8?md5=4XFwfFgGzZq9fndxuUzFaA&expires=1792166233",
+            "videoImage": "https://as-cdn28.top/p/iWCmLwTvbQG8mqpFIcc-CUsoMxHz-rSch79eDOkFpjGnE8qDreZamiye915aKeW-D0-KhupWI92LYorZzrvJ_w.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "6dd36e7dc260bc1beeb79a33da67b5df",
+                "streamUrl": "https://ravok.buzz/cdn/hls/0427ab842cc87902c6a75fd387c159b0/master.m3u8?md5=4XFwfFgGzZq9fndxuUzFaA&expires=1792166233",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/0427ab842cc87902c6a75fd387c159b0/master.m3u8?md5=4XFwfFgGzZq9fndxuUzFaA&expires=1792166233",
+                "videoSource": "https://ravok.buzz/cdn/hls/0427ab842cc87902c6a75fd387c159b0/master.m3u8?md5=4XFwfFgGzZq9fndxuUzFaA&expires=1792166233",
+                "link": "https://ravok.buzz/cdn/hls/0427ab842cc87902c6a75fd387c159b0/master.m3u8?md5=4XFwfFgGzZq9fndxuUzFaA&expires=1792166233",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/iWCmLwTvbQG8mqpFIcc-CUsoMxHz-rSch79eDOkFpjGnE8qDreZamiye915aKeW-D0-KhupWI92LYorZzrvJ_w.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "oVwwT9D9u"
+        }
+      },
+      "fetched_at": "2026-10-16T13:57:23Z"
+    },
+    {
+      "id": "episode/death-note-1x22",
+      "episode_id": "episode/death-note-1x22",
+      "title": "Private: Death Note 1x1",
+      "episode_name": "Private: Death Note 1x1",
+      "episode_number": 22,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1808_s1e22.webp",
+      "abyssid": "17285",
+      "abyssId": "17285",
+      "playxid": "f6f4cb25b1ebd9e3b05e26c5101c99c7",
+      "playXID": "f6f4cb25b1ebd9e3b05e26c5101c99c7",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17285",
+        "playXID": "f6f4cb25b1ebd9e3b05e26c5101c99c7",
+        "streamId": "17285",
+        "dubPlayerSrc": "/dub-player/t/17285/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f6f4cb25b1ebd9e3b05e26c5101c99c7&abyssId=17285"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17285",
+        "playXID": "f6f4cb25b1ebd9e3b05e26c5101c99c7",
+        "streamId": "17285",
+        "dubPlayerSrc": "/dub-player/t/17285/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f6f4cb25b1ebd9e3b05e26c5101c99c7&abyssId=17285"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/f6f4cb25b1ebd9e3b05e26c5101c99c7",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/f6f4cb25b1ebd9e3b05e26c5101c99c7"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17285",
+        "abyssId": "17285",
+        "playXID": "f6f4cb25b1ebd9e3b05e26c5101c99c7",
+        "title": "Death Note",
+        "season": 1,
+        "episode": 22,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "msqiBVlab"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "S0zeqh-Y_"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "WwXU3RoK0"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "Y_I3pXHZV"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "wQRQ3BUv5"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/b69ba79fc1eca11b461d2f489a7ebfc6/master.m3u8?md5=rJwSlWwEDxjQWR823-Xkqg&expires=1792166235",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/b69ba79fc1eca11b461d2f489a7ebfc6/master.m3u8?md5=rJwSlWwEDxjQWR823-Xkqg&expires=1792166235",
+            "videoSource": "https://ravok.buzz/cdn/hls/b69ba79fc1eca11b461d2f489a7ebfc6/master.m3u8?md5=rJwSlWwEDxjQWR823-Xkqg&expires=1792166235",
+            "videoImage": "https://as-cdn31.top/p/qIVgFADFe_7eLptI1vb_GhCTvH1eK1SLmEkbpBs0J-3z3ix_fGfNs4Igq16ebPDOeWfvuaU3SHmdL8TLwwd3lw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "f6f4cb25b1ebd9e3b05e26c5101c99c7",
+                "streamUrl": "https://ravok.buzz/cdn/hls/b69ba79fc1eca11b461d2f489a7ebfc6/master.m3u8?md5=rJwSlWwEDxjQWR823-Xkqg&expires=1792166235",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/b69ba79fc1eca11b461d2f489a7ebfc6/master.m3u8?md5=rJwSlWwEDxjQWR823-Xkqg&expires=1792166235",
+                "videoSource": "https://ravok.buzz/cdn/hls/b69ba79fc1eca11b461d2f489a7ebfc6/master.m3u8?md5=rJwSlWwEDxjQWR823-Xkqg&expires=1792166235",
+                "link": "https://ravok.buzz/cdn/hls/b69ba79fc1eca11b461d2f489a7ebfc6/master.m3u8?md5=rJwSlWwEDxjQWR823-Xkqg&expires=1792166235",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/qIVgFADFe_7eLptI1vb_GhCTvH1eK1SLmEkbpBs0J-3z3ix_fGfNs4Igq16ebPDOeWfvuaU3SHmdL8TLwwd3lw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "msqiBVlab"
+        }
+      },
+      "fetched_at": "2026-10-16T13:57:25Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T13:56:58Z",
+  "updated_at": "2026-10-16T13:57:25Z"
+}

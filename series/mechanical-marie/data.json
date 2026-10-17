@@ -1,0 +1,1428 @@
+{
+  "id": "series/mechanical-marie",
+  "series_name": "Mechanical Marie",
+  "title": "Mechanical Marie",
+  "banner": "https://image.tmdb.org/t/p/w1280/hyynVgGCfc0qG7ooiRIhQfIw9RN.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/1uBvmTta9mVjHpO7K5mQm9B09ng.jpg",
+  "genra": [
+    "Action",
+    "Comedy",
+    "Family",
+    "Romance",
+    "Sci-Fi"
+  ],
+  "genres": [
+    "Action",
+    "Comedy",
+    "Family",
+    "Romance",
+    "Sci-Fi"
+  ],
+  "languages": [
+    "Hindi",
+    "Japanese",
+    "Tamil",
+    "Telugu"
+  ],
+  "synopsis": "Former martial arts legend Marie has accepted a new job as a “mechanical maid”… except she’s 100% human, and Arthur, her new boss, despises humans. Luckily, Marie’s naturally expressionless face helps her keep up the robot act while secretly protecting Arthur from constant assassination attempts. But when Arthur falls in love with his “perfect” maid, things quickly spiral out of control!",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Mechanical Marie 1x1",
+          "id": "episode/mechanical-marie-1x1",
+          "image": "https://img.watchanimeworld.one/img/thumb_2161_s1e1.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "Mechanical Marie 1x2",
+          "id": "episode/mechanical-marie-1x2",
+          "image": "https://img.watchanimeworld.one/img/thumb_2161_s1e2.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "Mechanical Marie 1x3",
+          "id": "episode/mechanical-marie-1x3",
+          "image": "https://img.watchanimeworld.one/img/thumb_2161_s1e3.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "Mechanical Marie 1x4",
+          "id": "episode/mechanical-marie-1x4",
+          "image": "https://img.watchanimeworld.one/img/thumb_2161_s1e4.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "Mechanical Marie 1x5",
+          "id": "episode/mechanical-marie-1x5",
+          "image": "https://img.watchanimeworld.one/img/thumb_2161_s1e5.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "Mechanical Marie 1x6",
+          "id": "episode/mechanical-marie-1x6",
+          "image": "https://img.watchanimeworld.one/img/thumb_2161_s1e6.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "Mechanical Marie 1x7",
+          "id": "episode/mechanical-marie-1x7",
+          "image": "https://img.watchanimeworld.one/img/thumb_2161_s1e7.webp",
+          "season": 1
+        },
+        {
+          "episode": 8,
+          "title": "Mechanical Marie 1x8",
+          "id": "episode/mechanical-marie-1x8",
+          "image": "https://img.watchanimeworld.one/img/thumb_2161_s1e8.webp",
+          "season": 1
+        },
+        {
+          "episode": 9,
+          "title": "Mechanical Marie 1x9",
+          "id": "episode/mechanical-marie-1x9",
+          "image": "https://img.watchanimeworld.one/img/thumb_2161_s1e9.webp",
+          "season": 1
+        },
+        {
+          "episode": 10,
+          "title": "Mechanical Marie 1x10",
+          "id": "episode/mechanical-marie-1x10",
+          "image": "https://img.watchanimeworld.one/img/thumb_2161_s1e10.webp",
+          "season": 1
+        },
+        {
+          "episode": 11,
+          "title": "Mechanical Marie 1x11",
+          "id": "episode/mechanical-marie-1x11",
+          "image": "https://img.watchanimeworld.one/img/thumb_2161_s1e11.webp",
+          "season": 1
+        },
+        {
+          "episode": 12,
+          "title": "Mechanical Marie 1x12",
+          "id": "episode/mechanical-marie-1x12",
+          "image": "https://img.watchanimeworld.one/img/thumb_2161_s1e12.webp",
+          "season": 1
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/mechanical-marie-1x2",
+      "episode_id": "episode/mechanical-marie-1x2",
+      "title": "Mechanical Marie 1x1",
+      "episode_name": "Mechanical Marie 1x1",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2161_s1e2.webp",
+      "abyssid": "17358",
+      "abyssId": "17358",
+      "playxid": "4f9604e8959af0faa3ba6316b5cd1b23",
+      "playXID": "4f9604e8959af0faa3ba6316b5cd1b23",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17358",
+        "playXID": "4f9604e8959af0faa3ba6316b5cd1b23",
+        "streamId": "17358",
+        "dubPlayerSrc": "/dub-player/t/17358/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=4f9604e8959af0faa3ba6316b5cd1b23&abyssId=17358"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17358",
+        "playXID": "4f9604e8959af0faa3ba6316b5cd1b23",
+        "streamId": "17358",
+        "dubPlayerSrc": "/dub-player/t/17358/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=4f9604e8959af0faa3ba6316b5cd1b23&abyssId=17358"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/4f9604e8959af0faa3ba6316b5cd1b23",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/4f9604e8959af0faa3ba6316b5cd1b23"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17358",
+        "abyssId": "17358",
+        "playXID": "4f9604e8959af0faa3ba6316b5cd1b23",
+        "title": "Mechanical Marie",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "C65vrXCcN"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "OceCV0W_N"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "drjvIsc8j"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "c1ymyTuJF"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/99e9d298c97d3e7484e2c5dbc345d1a1/master.m3u8?md5=vzMVLI8XlhimryCp8T5r3g&expires=1792166120",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/99e9d298c97d3e7484e2c5dbc345d1a1/master.m3u8?md5=vzMVLI8XlhimryCp8T5r3g&expires=1792166120",
+            "videoSource": "https://ravok.buzz/cdn/hls/99e9d298c97d3e7484e2c5dbc345d1a1/master.m3u8?md5=vzMVLI8XlhimryCp8T5r3g&expires=1792166120",
+            "videoImage": "https://as-cdn27.top/p/ko0upxQc-CnqvN97cqLpFGK3qJi-0DwjnAPuH6hTyak6CEGPFrrC-9zgrXAEWnBxX_uY7Q_gyrk-s356sY_5QA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "4f9604e8959af0faa3ba6316b5cd1b23",
+                "streamUrl": "https://ravok.buzz/cdn/hls/99e9d298c97d3e7484e2c5dbc345d1a1/master.m3u8?md5=vzMVLI8XlhimryCp8T5r3g&expires=1792166120",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/99e9d298c97d3e7484e2c5dbc345d1a1/master.m3u8?md5=vzMVLI8XlhimryCp8T5r3g&expires=1792166120",
+                "videoSource": "https://ravok.buzz/cdn/hls/99e9d298c97d3e7484e2c5dbc345d1a1/master.m3u8?md5=vzMVLI8XlhimryCp8T5r3g&expires=1792166120",
+                "link": "https://ravok.buzz/cdn/hls/99e9d298c97d3e7484e2c5dbc345d1a1/master.m3u8?md5=vzMVLI8XlhimryCp8T5r3g&expires=1792166120",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/ko0upxQc-CnqvN97cqLpFGK3qJi-0DwjnAPuH6hTyak6CEGPFrrC-9zgrXAEWnBxX_uY7Q_gyrk-s356sY_5QA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "C65vrXCcN"
+        }
+      },
+      "fetched_at": "2026-10-16T13:55:30Z"
+    },
+    {
+      "id": "episode/mechanical-marie-1x4",
+      "episode_id": "episode/mechanical-marie-1x4",
+      "title": "Mechanical Marie 1x1",
+      "episode_name": "Mechanical Marie 1x1",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2161_s1e4.webp",
+      "abyssid": "17514",
+      "abyssId": "17514",
+      "playxid": "8010691083622c563813e1f1d85119d6",
+      "playXID": "8010691083622c563813e1f1d85119d6",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17514",
+        "playXID": "8010691083622c563813e1f1d85119d6",
+        "streamId": "17514",
+        "dubPlayerSrc": "/dub-player/t/17514/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8010691083622c563813e1f1d85119d6&abyssId=17514"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17514",
+        "playXID": "8010691083622c563813e1f1d85119d6",
+        "streamId": "17514",
+        "dubPlayerSrc": "/dub-player/t/17514/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8010691083622c563813e1f1d85119d6&abyssId=17514"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/8010691083622c563813e1f1d85119d6",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/8010691083622c563813e1f1d85119d6"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17514",
+        "abyssId": "17514",
+        "playXID": "8010691083622c563813e1f1d85119d6",
+        "title": "Mechanical Marie",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "F3MrExPEy"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "yoPU6XFJJ"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "pnnFvaUJL"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "bSCYQHsTg"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/43ab38d0c3d2a18b54ff60d28724e935/master.m3u8?md5=DFoV3sxCOsbepZGrXauAgg&expires=1792166120",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/43ab38d0c3d2a18b54ff60d28724e935/master.m3u8?md5=DFoV3sxCOsbepZGrXauAgg&expires=1792166120",
+            "videoSource": "https://ravok.buzz/cdn/hls/43ab38d0c3d2a18b54ff60d28724e935/master.m3u8?md5=DFoV3sxCOsbepZGrXauAgg&expires=1792166120",
+            "videoImage": "https://as-cdn30.top/p/p1rwtXg1Haw216d_Iv781SiT_QGJTGM6iqprkF8WthCr-QbEe93vaB0rcc85ofX3SGJon55-FFbuoQx07zNXPQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "8010691083622c563813e1f1d85119d6",
+                "streamUrl": "https://ravok.buzz/cdn/hls/43ab38d0c3d2a18b54ff60d28724e935/master.m3u8?md5=DFoV3sxCOsbepZGrXauAgg&expires=1792166120",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/43ab38d0c3d2a18b54ff60d28724e935/master.m3u8?md5=DFoV3sxCOsbepZGrXauAgg&expires=1792166120",
+                "videoSource": "https://ravok.buzz/cdn/hls/43ab38d0c3d2a18b54ff60d28724e935/master.m3u8?md5=DFoV3sxCOsbepZGrXauAgg&expires=1792166120",
+                "link": "https://ravok.buzz/cdn/hls/43ab38d0c3d2a18b54ff60d28724e935/master.m3u8?md5=DFoV3sxCOsbepZGrXauAgg&expires=1792166120",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/p1rwtXg1Haw216d_Iv781SiT_QGJTGM6iqprkF8WthCr-QbEe93vaB0rcc85ofX3SGJon55-FFbuoQx07zNXPQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "F3MrExPEy"
+        }
+      },
+      "fetched_at": "2026-10-16T13:55:30Z"
+    },
+    {
+      "id": "episode/mechanical-marie-1x3",
+      "episode_id": "episode/mechanical-marie-1x3",
+      "title": "Mechanical Marie 1x1",
+      "episode_name": "Mechanical Marie 1x1",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2161_s1e3.webp",
+      "abyssid": "17416",
+      "abyssId": "17416",
+      "playxid": "04706884b423f40f1a04c54e36da6038",
+      "playXID": "04706884b423f40f1a04c54e36da6038",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17416",
+        "playXID": "04706884b423f40f1a04c54e36da6038",
+        "streamId": "17416",
+        "dubPlayerSrc": "/dub-player/t/17416/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=04706884b423f40f1a04c54e36da6038&abyssId=17416"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17416",
+        "playXID": "04706884b423f40f1a04c54e36da6038",
+        "streamId": "17416",
+        "dubPlayerSrc": "/dub-player/t/17416/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=04706884b423f40f1a04c54e36da6038&abyssId=17416"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/04706884b423f40f1a04c54e36da6038",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/04706884b423f40f1a04c54e36da6038"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17416",
+        "abyssId": "17416",
+        "playXID": "04706884b423f40f1a04c54e36da6038",
+        "title": "Mechanical Marie",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "tTP_icMgT"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "7BUm3gBwP"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "q6KUCxLPU"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "ICjFfqVBO"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/e1a71f29458e0efd2e6b60e94362e999/master.m3u8?md5=ebWMnAQffRCoUiRx9nB_ag&expires=1792166120",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/e1a71f29458e0efd2e6b60e94362e999/master.m3u8?md5=ebWMnAQffRCoUiRx9nB_ag&expires=1792166120",
+            "videoSource": "https://ravok.buzz/cdn/hls/e1a71f29458e0efd2e6b60e94362e999/master.m3u8?md5=ebWMnAQffRCoUiRx9nB_ag&expires=1792166120",
+            "videoImage": "https://as-cdn30.top/p/3cC_jVidUTgksr8Pa5RtFYZ-TDdYl7Oedk68MoU1-cdiuZbsyBNpM-Jzlcis6vxN0dYkb3viDQWiqGZG2ZnnPQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "04706884b423f40f1a04c54e36da6038",
+                "streamUrl": "https://ravok.buzz/cdn/hls/e1a71f29458e0efd2e6b60e94362e999/master.m3u8?md5=ebWMnAQffRCoUiRx9nB_ag&expires=1792166120",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/e1a71f29458e0efd2e6b60e94362e999/master.m3u8?md5=ebWMnAQffRCoUiRx9nB_ag&expires=1792166120",
+                "videoSource": "https://ravok.buzz/cdn/hls/e1a71f29458e0efd2e6b60e94362e999/master.m3u8?md5=ebWMnAQffRCoUiRx9nB_ag&expires=1792166120",
+                "link": "https://ravok.buzz/cdn/hls/e1a71f29458e0efd2e6b60e94362e999/master.m3u8?md5=ebWMnAQffRCoUiRx9nB_ag&expires=1792166120",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/3cC_jVidUTgksr8Pa5RtFYZ-TDdYl7Oedk68MoU1-cdiuZbsyBNpM-Jzlcis6vxN0dYkb3viDQWiqGZG2ZnnPQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "tTP_icMgT"
+        }
+      },
+      "fetched_at": "2026-10-16T13:55:30Z"
+    },
+    {
+      "id": "episode/mechanical-marie-1x5",
+      "episode_id": "episode/mechanical-marie-1x5",
+      "title": "Mechanical Marie 1x1",
+      "episode_name": "Mechanical Marie 1x1",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2161_s1e5.webp",
+      "abyssid": "17540",
+      "abyssId": "17540",
+      "playxid": "5efbbc6a2ad095faa18de332898d44f1",
+      "playXID": "5efbbc6a2ad095faa18de332898d44f1",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17540",
+        "playXID": "5efbbc6a2ad095faa18de332898d44f1",
+        "streamId": "17540",
+        "dubPlayerSrc": "/dub-player/t/17540/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=5efbbc6a2ad095faa18de332898d44f1&abyssId=17540"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17540",
+        "playXID": "5efbbc6a2ad095faa18de332898d44f1",
+        "streamId": "17540",
+        "dubPlayerSrc": "/dub-player/t/17540/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=5efbbc6a2ad095faa18de332898d44f1&abyssId=17540"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/5efbbc6a2ad095faa18de332898d44f1",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/5efbbc6a2ad095faa18de332898d44f1"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17540",
+        "abyssId": "17540",
+        "playXID": "5efbbc6a2ad095faa18de332898d44f1",
+        "title": "Mechanical Marie",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "k4cARUNYx"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "k9ypQPa8J"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "JoQRyeDV3"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "NcfXOW_0O"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/3374c41f7ff691060075bfb15f581bc9/master.m3u8?md5=ToB59lU3GhkYl2Pv4Vf8Mw&expires=1792166120",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/3374c41f7ff691060075bfb15f581bc9/master.m3u8?md5=ToB59lU3GhkYl2Pv4Vf8Mw&expires=1792166120",
+            "videoSource": "https://ravok.buzz/cdn/hls/3374c41f7ff691060075bfb15f581bc9/master.m3u8?md5=ToB59lU3GhkYl2Pv4Vf8Mw&expires=1792166120",
+            "videoImage": "https://as-cdn27.top/p/c8ebl77E7MXMX4-STGTG0YS3RGX10_fuReLgNCnzIRq9FC3H12ad3t1NPbjk4_ci99_joqMyQnPf1hr5xizqXg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "5efbbc6a2ad095faa18de332898d44f1",
+                "streamUrl": "https://ravok.buzz/cdn/hls/3374c41f7ff691060075bfb15f581bc9/master.m3u8?md5=ToB59lU3GhkYl2Pv4Vf8Mw&expires=1792166120",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/3374c41f7ff691060075bfb15f581bc9/master.m3u8?md5=ToB59lU3GhkYl2Pv4Vf8Mw&expires=1792166120",
+                "videoSource": "https://ravok.buzz/cdn/hls/3374c41f7ff691060075bfb15f581bc9/master.m3u8?md5=ToB59lU3GhkYl2Pv4Vf8Mw&expires=1792166120",
+                "link": "https://ravok.buzz/cdn/hls/3374c41f7ff691060075bfb15f581bc9/master.m3u8?md5=ToB59lU3GhkYl2Pv4Vf8Mw&expires=1792166120",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/c8ebl77E7MXMX4-STGTG0YS3RGX10_fuReLgNCnzIRq9FC3H12ad3t1NPbjk4_ci99_joqMyQnPf1hr5xizqXg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "k4cARUNYx"
+        }
+      },
+      "fetched_at": "2026-10-16T13:55:30Z"
+    },
+    {
+      "id": "episode/mechanical-marie-1x1",
+      "episode_id": "episode/mechanical-marie-1x1",
+      "title": "Mechanical Marie 1x1",
+      "episode_name": "Mechanical Marie 1x1",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2161_s1e1.webp",
+      "abyssid": "17261",
+      "abyssId": "17261",
+      "playxid": "58f170c366f582dba770b94119f6099a",
+      "playXID": "58f170c366f582dba770b94119f6099a",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17261",
+        "playXID": "58f170c366f582dba770b94119f6099a",
+        "streamId": "17261",
+        "dubPlayerSrc": "/dub-player/t/17261/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=58f170c366f582dba770b94119f6099a&abyssId=17261"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17261",
+        "playXID": "58f170c366f582dba770b94119f6099a",
+        "streamId": "17261",
+        "dubPlayerSrc": "/dub-player/t/17261/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=58f170c366f582dba770b94119f6099a&abyssId=17261"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/58f170c366f582dba770b94119f6099a",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/58f170c366f582dba770b94119f6099a"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17261",
+        "abyssId": "17261",
+        "playXID": "58f170c366f582dba770b94119f6099a",
+        "title": "Mechanical Marie",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "ts4xefBMd"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "nXtl-qbuW"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "-oQBb4rlG"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "TVMfbtAwo"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/53354536ffcb5001877023c64f29c010/master.m3u8?md5=CqUALU4bdXF9PFL3Cl9iPA&expires=1792166120",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/53354536ffcb5001877023c64f29c010/master.m3u8?md5=CqUALU4bdXF9PFL3Cl9iPA&expires=1792166120",
+            "videoSource": "https://ravok.buzz/cdn/hls/53354536ffcb5001877023c64f29c010/master.m3u8?md5=CqUALU4bdXF9PFL3Cl9iPA&expires=1792166120",
+            "videoImage": "https://as-cdn31.top/p/f2thTFmWEpDRt8iXdDUW2t0-HcASw6PTpKAAb1F76XQ080PYYCbiXx79eVWoEb68cgiDfFiUxixlua-eGTb2jA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "58f170c366f582dba770b94119f6099a",
+                "streamUrl": "https://ravok.buzz/cdn/hls/53354536ffcb5001877023c64f29c010/master.m3u8?md5=CqUALU4bdXF9PFL3Cl9iPA&expires=1792166120",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/53354536ffcb5001877023c64f29c010/master.m3u8?md5=CqUALU4bdXF9PFL3Cl9iPA&expires=1792166120",
+                "videoSource": "https://ravok.buzz/cdn/hls/53354536ffcb5001877023c64f29c010/master.m3u8?md5=CqUALU4bdXF9PFL3Cl9iPA&expires=1792166120",
+                "link": "https://ravok.buzz/cdn/hls/53354536ffcb5001877023c64f29c010/master.m3u8?md5=CqUALU4bdXF9PFL3Cl9iPA&expires=1792166120",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/f2thTFmWEpDRt8iXdDUW2t0-HcASw6PTpKAAb1F76XQ080PYYCbiXx79eVWoEb68cgiDfFiUxixlua-eGTb2jA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "ts4xefBMd"
+        }
+      },
+      "fetched_at": "2026-10-16T13:55:30Z"
+    },
+    {
+      "id": "episode/mechanical-marie-1x8",
+      "episode_id": "episode/mechanical-marie-1x8",
+      "title": "Mechanical Marie 1x1",
+      "episode_name": "Mechanical Marie 1x1",
+      "episode_number": 8,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2161_s1e8.webp",
+      "abyssid": "17685",
+      "abyssId": "17685",
+      "playxid": "e204b151da973b64212904f4cebdfb3f",
+      "playXID": "e204b151da973b64212904f4cebdfb3f",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17685",
+        "playXID": "e204b151da973b64212904f4cebdfb3f",
+        "streamId": "17685",
+        "dubPlayerSrc": "/dub-player/t/17685/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e204b151da973b64212904f4cebdfb3f&abyssId=17685"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17685",
+        "playXID": "e204b151da973b64212904f4cebdfb3f",
+        "streamId": "17685",
+        "dubPlayerSrc": "/dub-player/t/17685/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e204b151da973b64212904f4cebdfb3f&abyssId=17685"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/e204b151da973b64212904f4cebdfb3f",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/e204b151da973b64212904f4cebdfb3f"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17685",
+        "abyssId": "17685",
+        "playXID": "e204b151da973b64212904f4cebdfb3f",
+        "title": "Mechanical Marie",
+        "season": 1,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "-yscQRlqz"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "lVwr3HFxb"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "atNbvEGjL"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "IvsP7GijP"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/9ce62d6ec911c3e2a35e9031374c7f79/master.m3u8?md5=YdmBz6IuWJuyzKhu7wlpkg&expires=1792166122",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/9ce62d6ec911c3e2a35e9031374c7f79/master.m3u8?md5=YdmBz6IuWJuyzKhu7wlpkg&expires=1792166122",
+            "videoSource": "https://ravok.buzz/cdn/hls/9ce62d6ec911c3e2a35e9031374c7f79/master.m3u8?md5=YdmBz6IuWJuyzKhu7wlpkg&expires=1792166122",
+            "videoImage": "https://as-cdn30.top/p/h1Gy41j2D0fWVNVIZH1AFGF4qXW09qj2eoh2QVR0RyAwklDsXYZxRoqyhiodaDMbTmzx-nO_PRXThyY8mItB-Q.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "e204b151da973b64212904f4cebdfb3f",
+                "streamUrl": "https://ravok.buzz/cdn/hls/9ce62d6ec911c3e2a35e9031374c7f79/master.m3u8?md5=YdmBz6IuWJuyzKhu7wlpkg&expires=1792166122",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/9ce62d6ec911c3e2a35e9031374c7f79/master.m3u8?md5=YdmBz6IuWJuyzKhu7wlpkg&expires=1792166122",
+                "videoSource": "https://ravok.buzz/cdn/hls/9ce62d6ec911c3e2a35e9031374c7f79/master.m3u8?md5=YdmBz6IuWJuyzKhu7wlpkg&expires=1792166122",
+                "link": "https://ravok.buzz/cdn/hls/9ce62d6ec911c3e2a35e9031374c7f79/master.m3u8?md5=YdmBz6IuWJuyzKhu7wlpkg&expires=1792166122",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/h1Gy41j2D0fWVNVIZH1AFGF4qXW09qj2eoh2QVR0RyAwklDsXYZxRoqyhiodaDMbTmzx-nO_PRXThyY8mItB-Q.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "-yscQRlqz"
+        }
+      },
+      "fetched_at": "2026-10-16T13:55:32Z"
+    },
+    {
+      "id": "episode/mechanical-marie-1x6",
+      "episode_id": "episode/mechanical-marie-1x6",
+      "title": "Mechanical Marie 1x1",
+      "episode_name": "Mechanical Marie 1x1",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2161_s1e6.webp",
+      "abyssid": "17566",
+      "abyssId": "17566",
+      "playxid": "6f1110b10375fc596c6cea03fd3e1d24",
+      "playXID": "6f1110b10375fc596c6cea03fd3e1d24",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17566",
+        "playXID": "6f1110b10375fc596c6cea03fd3e1d24",
+        "streamId": "17566",
+        "dubPlayerSrc": "/dub-player/t/17566/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6f1110b10375fc596c6cea03fd3e1d24&abyssId=17566"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17566",
+        "playXID": "6f1110b10375fc596c6cea03fd3e1d24",
+        "streamId": "17566",
+        "dubPlayerSrc": "/dub-player/t/17566/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6f1110b10375fc596c6cea03fd3e1d24&abyssId=17566"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/6f1110b10375fc596c6cea03fd3e1d24",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/6f1110b10375fc596c6cea03fd3e1d24"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17566",
+        "abyssId": "17566",
+        "playXID": "6f1110b10375fc596c6cea03fd3e1d24",
+        "title": "Mechanical Marie",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "tkliv_hO5"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "OTzVPhRgU"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "Led5jAAQd"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "1eUW22P5lhB"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/3e7050487c8561b78a412b03cfeede88/master.m3u8?md5=jj44eeWQJBikkg0o6yhpFA&expires=1792166122",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/3e7050487c8561b78a412b03cfeede88/master.m3u8?md5=jj44eeWQJBikkg0o6yhpFA&expires=1792166122",
+            "videoSource": "https://ravok.buzz/cdn/hls/3e7050487c8561b78a412b03cfeede88/master.m3u8?md5=jj44eeWQJBikkg0o6yhpFA&expires=1792166122",
+            "videoImage": "https://as-cdn28.top/p/fKQTb5wTpbGtvGZBxyTa4LtZsBdvPjVW71LTcxbj0g7yMSiFo-IJrm4khTdHeCi9sNjflTvQ7JcpOo1wF9UfBA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "6f1110b10375fc596c6cea03fd3e1d24",
+                "streamUrl": "https://ravok.buzz/cdn/hls/3e7050487c8561b78a412b03cfeede88/master.m3u8?md5=jj44eeWQJBikkg0o6yhpFA&expires=1792166122",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/3e7050487c8561b78a412b03cfeede88/master.m3u8?md5=jj44eeWQJBikkg0o6yhpFA&expires=1792166122",
+                "videoSource": "https://ravok.buzz/cdn/hls/3e7050487c8561b78a412b03cfeede88/master.m3u8?md5=jj44eeWQJBikkg0o6yhpFA&expires=1792166122",
+                "link": "https://ravok.buzz/cdn/hls/3e7050487c8561b78a412b03cfeede88/master.m3u8?md5=jj44eeWQJBikkg0o6yhpFA&expires=1792166122",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/fKQTb5wTpbGtvGZBxyTa4LtZsBdvPjVW71LTcxbj0g7yMSiFo-IJrm4khTdHeCi9sNjflTvQ7JcpOo1wF9UfBA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "tkliv_hO5"
+        }
+      },
+      "fetched_at": "2026-10-16T13:55:32Z"
+    },
+    {
+      "id": "episode/mechanical-marie-1x7",
+      "episode_id": "episode/mechanical-marie-1x7",
+      "title": "Mechanical Marie 1x1",
+      "episode_name": "Mechanical Marie 1x1",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2161_s1e7.webp",
+      "abyssid": "17640",
+      "abyssId": "17640",
+      "playxid": "573572e4e9a8486a02fbc7eeeaffba7b",
+      "playXID": "573572e4e9a8486a02fbc7eeeaffba7b",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17640",
+        "playXID": "573572e4e9a8486a02fbc7eeeaffba7b",
+        "streamId": "17640",
+        "dubPlayerSrc": "/dub-player/t/17640/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=573572e4e9a8486a02fbc7eeeaffba7b&abyssId=17640"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17640",
+        "playXID": "573572e4e9a8486a02fbc7eeeaffba7b",
+        "streamId": "17640",
+        "dubPlayerSrc": "/dub-player/t/17640/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=573572e4e9a8486a02fbc7eeeaffba7b&abyssId=17640"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/573572e4e9a8486a02fbc7eeeaffba7b",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/573572e4e9a8486a02fbc7eeeaffba7b"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17640",
+        "abyssId": "17640",
+        "playXID": "573572e4e9a8486a02fbc7eeeaffba7b",
+        "title": "Mechanical Marie",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "pQivsmP1K"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "-B8i-epSd"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "RQRRNADBA"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "GsxcXmiUKT"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/f3e01fce5cd29a7aaa6d64d63cdfb3d6/master.m3u8?md5=8sEWj0G8MlMApPItsqCsnw&expires=1792166122",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/f3e01fce5cd29a7aaa6d64d63cdfb3d6/master.m3u8?md5=8sEWj0G8MlMApPItsqCsnw&expires=1792166122",
+            "videoSource": "https://ravok.buzz/cdn/hls/f3e01fce5cd29a7aaa6d64d63cdfb3d6/master.m3u8?md5=8sEWj0G8MlMApPItsqCsnw&expires=1792166122",
+            "videoImage": "https://as-cdn31.top/p/YZ3Xlxua7RpJ-2ui2udccRg4QvAepDnp2_aRvCdDcCsp4zVc5YBH-kobf93Pi7wUzJ7ISjZ_jchhBh0FWz2sRw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "573572e4e9a8486a02fbc7eeeaffba7b",
+                "streamUrl": "https://ravok.buzz/cdn/hls/f3e01fce5cd29a7aaa6d64d63cdfb3d6/master.m3u8?md5=8sEWj0G8MlMApPItsqCsnw&expires=1792166122",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/f3e01fce5cd29a7aaa6d64d63cdfb3d6/master.m3u8?md5=8sEWj0G8MlMApPItsqCsnw&expires=1792166122",
+                "videoSource": "https://ravok.buzz/cdn/hls/f3e01fce5cd29a7aaa6d64d63cdfb3d6/master.m3u8?md5=8sEWj0G8MlMApPItsqCsnw&expires=1792166122",
+                "link": "https://ravok.buzz/cdn/hls/f3e01fce5cd29a7aaa6d64d63cdfb3d6/master.m3u8?md5=8sEWj0G8MlMApPItsqCsnw&expires=1792166122",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/YZ3Xlxua7RpJ-2ui2udccRg4QvAepDnp2_aRvCdDcCsp4zVc5YBH-kobf93Pi7wUzJ7ISjZ_jchhBh0FWz2sRw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "pQivsmP1K"
+        }
+      },
+      "fetched_at": "2026-10-16T13:55:33Z"
+    },
+    {
+      "id": "episode/mechanical-marie-1x10",
+      "episode_id": "episode/mechanical-marie-1x10",
+      "title": "Mechanical Marie 1x1",
+      "episode_name": "Mechanical Marie 1x1",
+      "episode_number": 10,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2161_s1e10.webp",
+      "abyssid": "17797",
+      "abyssId": "17797",
+      "playxid": "968d10f389cfdeb6a5dc5610ef2081a9",
+      "playXID": "968d10f389cfdeb6a5dc5610ef2081a9",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17797",
+        "playXID": "968d10f389cfdeb6a5dc5610ef2081a9",
+        "streamId": "17797",
+        "dubPlayerSrc": "/dub-player/t/17797/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=968d10f389cfdeb6a5dc5610ef2081a9&abyssId=17797"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17797",
+        "playXID": "968d10f389cfdeb6a5dc5610ef2081a9",
+        "streamId": "17797",
+        "dubPlayerSrc": "/dub-player/t/17797/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=968d10f389cfdeb6a5dc5610ef2081a9&abyssId=17797"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/968d10f389cfdeb6a5dc5610ef2081a9",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/968d10f389cfdeb6a5dc5610ef2081a9"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17797",
+        "abyssId": "17797",
+        "playXID": "968d10f389cfdeb6a5dc5610ef2081a9",
+        "title": "Mechanical Marie",
+        "season": 1,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "sqcBIKLnZ"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "DJ2z8HjJdi"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "uZsSAI9tq"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "Bswx7tmi_"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/cd596b2243bab5f283a71aeda2ccd01b/master.m3u8?md5=8RZpfXmLJW7rUIg7cUF8Lg&expires=1792166123",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/cd596b2243bab5f283a71aeda2ccd01b/master.m3u8?md5=8RZpfXmLJW7rUIg7cUF8Lg&expires=1792166123",
+            "videoSource": "https://ravok.buzz/cdn/hls/cd596b2243bab5f283a71aeda2ccd01b/master.m3u8?md5=8RZpfXmLJW7rUIg7cUF8Lg&expires=1792166123",
+            "videoImage": "https://as-cdn28.top/p/HijkNeHEIMNdEq082DbKOcQb8pX-QQQRVwFAKyzP_cYO6wPWblaLb_d_tB916YntljKGCkJwCqYqZBYyncVVCA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "968d10f389cfdeb6a5dc5610ef2081a9",
+                "streamUrl": "https://ravok.buzz/cdn/hls/cd596b2243bab5f283a71aeda2ccd01b/master.m3u8?md5=8RZpfXmLJW7rUIg7cUF8Lg&expires=1792166123",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/cd596b2243bab5f283a71aeda2ccd01b/master.m3u8?md5=8RZpfXmLJW7rUIg7cUF8Lg&expires=1792166123",
+                "videoSource": "https://ravok.buzz/cdn/hls/cd596b2243bab5f283a71aeda2ccd01b/master.m3u8?md5=8RZpfXmLJW7rUIg7cUF8Lg&expires=1792166123",
+                "link": "https://ravok.buzz/cdn/hls/cd596b2243bab5f283a71aeda2ccd01b/master.m3u8?md5=8RZpfXmLJW7rUIg7cUF8Lg&expires=1792166123",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/HijkNeHEIMNdEq082DbKOcQb8pX-QQQRVwFAKyzP_cYO6wPWblaLb_d_tB916YntljKGCkJwCqYqZBYyncVVCA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "sqcBIKLnZ"
+        }
+      },
+      "fetched_at": "2026-10-16T13:55:33Z"
+    },
+    {
+      "id": "episode/mechanical-marie-1x9",
+      "episode_id": "episode/mechanical-marie-1x9",
+      "title": "Mechanical Marie 1x1",
+      "episode_name": "Mechanical Marie 1x1",
+      "episode_number": 9,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2161_s1e9.webp",
+      "abyssid": "17762",
+      "abyssId": "17762",
+      "playxid": "6b6769819569f3c8ef0785f500832831",
+      "playXID": "6b6769819569f3c8ef0785f500832831",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17762",
+        "playXID": "6b6769819569f3c8ef0785f500832831",
+        "streamId": "17762",
+        "dubPlayerSrc": "/dub-player/t/17762/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6b6769819569f3c8ef0785f500832831&abyssId=17762"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17762",
+        "playXID": "6b6769819569f3c8ef0785f500832831",
+        "streamId": "17762",
+        "dubPlayerSrc": "/dub-player/t/17762/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6b6769819569f3c8ef0785f500832831&abyssId=17762"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/6b6769819569f3c8ef0785f500832831",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/6b6769819569f3c8ef0785f500832831"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17762",
+        "abyssId": "17762",
+        "playXID": "6b6769819569f3c8ef0785f500832831",
+        "title": "Mechanical Marie",
+        "season": 1,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "ojL5J6f-F"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "1cDeffdCM"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "ITY3Q540j"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "iJ7hfHkm0"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/3acb44a2dff893d4c6e251ce3088fda0/master.m3u8?md5=ul7pIQorhHMLzf4WvnjCCA&expires=1792166123",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/3acb44a2dff893d4c6e251ce3088fda0/master.m3u8?md5=ul7pIQorhHMLzf4WvnjCCA&expires=1792166123",
+            "videoSource": "https://ravok.buzz/cdn/hls/3acb44a2dff893d4c6e251ce3088fda0/master.m3u8?md5=ul7pIQorhHMLzf4WvnjCCA&expires=1792166123",
+            "videoImage": "https://as-cdn27.top/p/cek-gkix6B129hI9jMkPa_27I4_lwcXBEDQt-PFN8n1syBxNKGJDw9pv-0d1vJT3w2eWs723Nkl_aWBTXtf9sQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "6b6769819569f3c8ef0785f500832831",
+                "streamUrl": "https://ravok.buzz/cdn/hls/3acb44a2dff893d4c6e251ce3088fda0/master.m3u8?md5=ul7pIQorhHMLzf4WvnjCCA&expires=1792166123",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/3acb44a2dff893d4c6e251ce3088fda0/master.m3u8?md5=ul7pIQorhHMLzf4WvnjCCA&expires=1792166123",
+                "videoSource": "https://ravok.buzz/cdn/hls/3acb44a2dff893d4c6e251ce3088fda0/master.m3u8?md5=ul7pIQorhHMLzf4WvnjCCA&expires=1792166123",
+                "link": "https://ravok.buzz/cdn/hls/3acb44a2dff893d4c6e251ce3088fda0/master.m3u8?md5=ul7pIQorhHMLzf4WvnjCCA&expires=1792166123",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/cek-gkix6B129hI9jMkPa_27I4_lwcXBEDQt-PFN8n1syBxNKGJDw9pv-0d1vJT3w2eWs723Nkl_aWBTXtf9sQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "ojL5J6f-F"
+        }
+      },
+      "fetched_at": "2026-10-16T13:55:33Z"
+    },
+    {
+      "id": "episode/mechanical-marie-1x11",
+      "episode_id": "episode/mechanical-marie-1x11",
+      "title": "Mechanical Marie 1x1",
+      "episode_name": "Mechanical Marie 1x1",
+      "episode_number": 11,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2161_s1e11.webp",
+      "abyssid": "17821",
+      "abyssId": "17821",
+      "playxid": "8e088b124c72a1ac0dcbcbdebbfb08f3",
+      "playXID": "8e088b124c72a1ac0dcbcbdebbfb08f3",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17821",
+        "playXID": "8e088b124c72a1ac0dcbcbdebbfb08f3",
+        "streamId": "17821",
+        "dubPlayerSrc": "/dub-player/t/17821/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8e088b124c72a1ac0dcbcbdebbfb08f3&abyssId=17821"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17821",
+        "playXID": "8e088b124c72a1ac0dcbcbdebbfb08f3",
+        "streamId": "17821",
+        "dubPlayerSrc": "/dub-player/t/17821/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8e088b124c72a1ac0dcbcbdebbfb08f3&abyssId=17821"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/fd11e7c410ebb6a55ff6a892fb69cfcc",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/fd11e7c410ebb6a55ff6a892fb69cfcc"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17821",
+        "abyssId": "17821",
+        "playXID": "8e088b124c72a1ac0dcbcbdebbfb08f3",
+        "title": "Mechanical Marie",
+        "season": 1,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "ZH3hTa1A-4"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "FVnDjpmcP"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "TYMxrRcS6"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "_B1URJZRr"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/d31a9ad8bf09af4b6383f817c05b59fc/master.m3u8?md5=7ps7RMqh_k6FEbC83rdifA&expires=1792166124",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/d31a9ad8bf09af4b6383f817c05b59fc/master.m3u8?md5=7ps7RMqh_k6FEbC83rdifA&expires=1792166124",
+            "videoSource": "https://ravok.buzz/cdn/hls/d31a9ad8bf09af4b6383f817c05b59fc/master.m3u8?md5=7ps7RMqh_k6FEbC83rdifA&expires=1792166124",
+            "videoImage": "https://as-cdn29.top/p/1s4aZyIzDajgEo8ObR_a8yWkx4itOg-LfiKn325qXEWAOWCAE8DKLwptH3HPCzQpMCXDAWDtlT-oSGlcfG2ZiA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "8e088b124c72a1ac0dcbcbdebbfb08f3",
+                "streamUrl": "https://ravok.buzz/cdn/hls/d31a9ad8bf09af4b6383f817c05b59fc/master.m3u8?md5=7ps7RMqh_k6FEbC83rdifA&expires=1792166124",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/d31a9ad8bf09af4b6383f817c05b59fc/master.m3u8?md5=7ps7RMqh_k6FEbC83rdifA&expires=1792166124",
+                "videoSource": "https://ravok.buzz/cdn/hls/d31a9ad8bf09af4b6383f817c05b59fc/master.m3u8?md5=7ps7RMqh_k6FEbC83rdifA&expires=1792166124",
+                "link": "https://ravok.buzz/cdn/hls/d31a9ad8bf09af4b6383f817c05b59fc/master.m3u8?md5=7ps7RMqh_k6FEbC83rdifA&expires=1792166124",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/1s4aZyIzDajgEo8ObR_a8yWkx4itOg-LfiKn325qXEWAOWCAE8DKLwptH3HPCzQpMCXDAWDtlT-oSGlcfG2ZiA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "ZH3hTa1A-4"
+        }
+      },
+      "fetched_at": "2026-10-16T13:55:34Z"
+    },
+    {
+      "id": "episode/mechanical-marie-1x12",
+      "episode_id": "episode/mechanical-marie-1x12",
+      "title": "Mechanical Marie 1x1",
+      "episode_name": "Mechanical Marie 1x1",
+      "episode_number": 12,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2161_s1e12.webp",
+      "abyssid": "17836",
+      "abyssId": "17836",
+      "playxid": "fe4a9e5a334eeaf995c4486002afa4ca",
+      "playXID": "fe4a9e5a334eeaf995c4486002afa4ca",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17836",
+        "playXID": "fe4a9e5a334eeaf995c4486002afa4ca",
+        "streamId": "17836",
+        "dubPlayerSrc": "/dub-player/t/17836/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=fe4a9e5a334eeaf995c4486002afa4ca&abyssId=17836"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17836",
+        "playXID": "fe4a9e5a334eeaf995c4486002afa4ca",
+        "streamId": "17836",
+        "dubPlayerSrc": "/dub-player/t/17836/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=fe4a9e5a334eeaf995c4486002afa4ca&abyssId=17836"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/1820c4b6fcbf5be5758bffe24c41fa6a",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/1820c4b6fcbf5be5758bffe24c41fa6a"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17836",
+        "abyssId": "17836",
+        "playXID": "fe4a9e5a334eeaf995c4486002afa4ca",
+        "title": "Mechanical Marie",
+        "season": 1,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "cA_dO3f-U"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "6s1HvmUbG"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "dUqaSRwnt"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "bsisQbA-9-"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/5e79c62ec4e385c739f71c64c95c82e9/master.m3u8?md5=YAaOweop9qbQox-ydjV_Zg&expires=1792166124",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/5e79c62ec4e385c739f71c64c95c82e9/master.m3u8?md5=YAaOweop9qbQox-ydjV_Zg&expires=1792166124",
+            "videoSource": "https://ravok.buzz/cdn/hls/5e79c62ec4e385c739f71c64c95c82e9/master.m3u8?md5=YAaOweop9qbQox-ydjV_Zg&expires=1792166124",
+            "videoImage": "https://as-cdn31.top/p/Q0MZRM2CC5MNeASeVSLM4ZzivkMMqa92HrBQ2H5qg3FH4NzPOnd8p551BlOi4YiorybRxJl2z-LNwMRMLp9MWw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "fe4a9e5a334eeaf995c4486002afa4ca",
+                "streamUrl": "https://ravok.buzz/cdn/hls/5e79c62ec4e385c739f71c64c95c82e9/master.m3u8?md5=YAaOweop9qbQox-ydjV_Zg&expires=1792166124",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/5e79c62ec4e385c739f71c64c95c82e9/master.m3u8?md5=YAaOweop9qbQox-ydjV_Zg&expires=1792166124",
+                "videoSource": "https://ravok.buzz/cdn/hls/5e79c62ec4e385c739f71c64c95c82e9/master.m3u8?md5=YAaOweop9qbQox-ydjV_Zg&expires=1792166124",
+                "link": "https://ravok.buzz/cdn/hls/5e79c62ec4e385c739f71c64c95c82e9/master.m3u8?md5=YAaOweop9qbQox-ydjV_Zg&expires=1792166124",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/Q0MZRM2CC5MNeASeVSLM4ZzivkMMqa92HrBQ2H5qg3FH4NzPOnd8p551BlOi4YiorybRxJl2z-LNwMRMLp9MWw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "cA_dO3f-U"
+        }
+      },
+      "fetched_at": "2026-10-16T13:55:34Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T13:55:28Z",
+  "updated_at": "2026-10-16T13:55:34Z"
+}

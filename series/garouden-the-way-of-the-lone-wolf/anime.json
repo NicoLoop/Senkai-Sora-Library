@@ -1,0 +1,911 @@
+{
+  "id": "series/garouden-the-way-of-the-lone-wolf",
+  "series_name": "Garouden: The Way of the Lone Wolf",
+  "title": "Garouden: The Way of the Lone Wolf",
+  "banner": "https://image.tmdb.org/t/p/w1280/li7fkhRa4UpmrkxbbBhFbRSf1UV.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/ozOjfhE6ADlWto0IKgVtniRvUOW.jpg",
+  "genra": [
+    "Action",
+    "Adventure",
+    "Martial Arts"
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Martial Arts"
+  ],
+  "languages": [],
+  "synopsis": "On the run from a past crime, Juzo Fujimaki is blackmailed into joining an illicit tournament and has to face top martial artists in deadly match-ups.",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 8,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 8,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Garouden: The Way of the Lone Wolf 1x1",
+          "id": "episode/garouden-the-way-of-the-lone-wolf-1x1",
+          "image": "https://img.watchanimeworld.one/img/thumb_1692_s1e1.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "Garouden: The Way of the Lone Wolf 1x2",
+          "id": "episode/garouden-the-way-of-the-lone-wolf-1x2",
+          "image": "https://img.watchanimeworld.one/img/thumb_1692_s1e2.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "Garouden: The Way of the Lone Wolf 1x3",
+          "id": "episode/garouden-the-way-of-the-lone-wolf-1x3",
+          "image": "https://img.watchanimeworld.one/img/thumb_1692_s1e3.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "Garouden: The Way of the Lone Wolf 1x4",
+          "id": "episode/garouden-the-way-of-the-lone-wolf-1x4",
+          "image": "https://img.watchanimeworld.one/img/thumb_1692_s1e4.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "Garouden: The Way of the Lone Wolf 1x5",
+          "id": "episode/garouden-the-way-of-the-lone-wolf-1x5",
+          "image": "https://img.watchanimeworld.one/img/thumb_1692_s1e5.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "Garouden: The Way of the Lone Wolf 1x6",
+          "id": "episode/garouden-the-way-of-the-lone-wolf-1x6",
+          "image": "https://img.watchanimeworld.one/img/thumb_1692_s1e6.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "Garouden: The Way of the Lone Wolf 1x7",
+          "id": "episode/garouden-the-way-of-the-lone-wolf-1x7",
+          "image": "https://img.watchanimeworld.one/img/thumb_1692_s1e7.webp",
+          "season": 1
+        },
+        {
+          "episode": 8,
+          "title": "Garouden: The Way of the Lone Wolf 1x8",
+          "id": "episode/garouden-the-way-of-the-lone-wolf-1x8",
+          "image": "https://img.watchanimeworld.one/img/thumb_1692_s1e8.webp",
+          "season": 1
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/garouden-the-way-of-the-lone-wolf-1x4",
+      "episode_id": "episode/garouden-the-way-of-the-lone-wolf-1x4",
+      "title": "Garouden: The Way of the Lone Wolf 1x1",
+      "episode_name": "Garouden: The Way of the Lone Wolf 1x1",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1692_s1e4.webp",
+      "abyssid": "16132",
+      "abyssId": "16132",
+      "playxid": "11084aaf0a5fc9561425a254a219f6f6",
+      "playXID": "11084aaf0a5fc9561425a254a219f6f6",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16132",
+        "playXID": "11084aaf0a5fc9561425a254a219f6f6",
+        "streamId": "16132",
+        "dubPlayerSrc": "/dub-player/t/16132/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=11084aaf0a5fc9561425a254a219f6f6&abyssId=16132"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16132",
+        "playXID": "11084aaf0a5fc9561425a254a219f6f6",
+        "streamId": "16132",
+        "dubPlayerSrc": "/dub-player/t/16132/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=11084aaf0a5fc9561425a254a219f6f6&abyssId=16132"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/11084aaf0a5fc9561425a254a219f6f6",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/11084aaf0a5fc9561425a254a219f6f6"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16132",
+        "abyssId": "16132",
+        "playXID": "11084aaf0a5fc9561425a254a219f6f6",
+        "title": "Garouden: The Way of the Lone Wolf",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "LZqS2u_wW"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "RDTlU5m_r"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "nsPXxXp1rR"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/c3e2b1ef0fde2e30b4c722cf70fef14a/master.m3u8?md5=9ey1kDHY_eXNcDAgYmZsBA&expires=1792166495",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/c3e2b1ef0fde2e30b4c722cf70fef14a/master.m3u8?md5=9ey1kDHY_eXNcDAgYmZsBA&expires=1792166495",
+            "videoSource": "https://ravok.buzz/cdn/hls/c3e2b1ef0fde2e30b4c722cf70fef14a/master.m3u8?md5=9ey1kDHY_eXNcDAgYmZsBA&expires=1792166495",
+            "videoImage": "https://as-cdn29.top/p/tff40TeGGZR-YOIS4vIVgkMiIKSSPbsBzUCY7XUEfT-QBbqUQlSjPYG21z0Vr9gYzlx0okwlZXSCdZjhf3r02w.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "11084aaf0a5fc9561425a254a219f6f6",
+                "streamUrl": "https://ravok.buzz/cdn/hls/c3e2b1ef0fde2e30b4c722cf70fef14a/master.m3u8?md5=9ey1kDHY_eXNcDAgYmZsBA&expires=1792166495",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/c3e2b1ef0fde2e30b4c722cf70fef14a/master.m3u8?md5=9ey1kDHY_eXNcDAgYmZsBA&expires=1792166495",
+                "videoSource": "https://ravok.buzz/cdn/hls/c3e2b1ef0fde2e30b4c722cf70fef14a/master.m3u8?md5=9ey1kDHY_eXNcDAgYmZsBA&expires=1792166495",
+                "link": "https://ravok.buzz/cdn/hls/c3e2b1ef0fde2e30b4c722cf70fef14a/master.m3u8?md5=9ey1kDHY_eXNcDAgYmZsBA&expires=1792166495",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/tff40TeGGZR-YOIS4vIVgkMiIKSSPbsBzUCY7XUEfT-QBbqUQlSjPYG21z0Vr9gYzlx0okwlZXSCdZjhf3r02w.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "LZqS2u_wW"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:45Z"
+    },
+    {
+      "id": "episode/garouden-the-way-of-the-lone-wolf-1x5",
+      "episode_id": "episode/garouden-the-way-of-the-lone-wolf-1x5",
+      "title": "Garouden: The Way of the Lone Wolf 1x1",
+      "episode_name": "Garouden: The Way of the Lone Wolf 1x1",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1692_s1e5.webp",
+      "abyssid": "16133",
+      "abyssId": "16133",
+      "playxid": "a08fe31c3bd2c3b13889d5caf1f7ace8",
+      "playXID": "a08fe31c3bd2c3b13889d5caf1f7ace8",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16133",
+        "playXID": "a08fe31c3bd2c3b13889d5caf1f7ace8",
+        "streamId": "16133",
+        "dubPlayerSrc": "/dub-player/t/16133/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a08fe31c3bd2c3b13889d5caf1f7ace8&abyssId=16133"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16133",
+        "playXID": "a08fe31c3bd2c3b13889d5caf1f7ace8",
+        "streamId": "16133",
+        "dubPlayerSrc": "/dub-player/t/16133/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a08fe31c3bd2c3b13889d5caf1f7ace8&abyssId=16133"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/a08fe31c3bd2c3b13889d5caf1f7ace8",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/a08fe31c3bd2c3b13889d5caf1f7ace8"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16133",
+        "abyssId": "16133",
+        "playXID": "a08fe31c3bd2c3b13889d5caf1f7ace8",
+        "title": "Garouden: The Way of the Lone Wolf",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "WzHddtB3q"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "OaRMsIDTj"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "7BZm94ozD"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/26bffb68424598d8061da440f86a1de6/master.m3u8?md5=GBG6jGllSCR8zkGPTv_FSw&expires=1792166495",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/26bffb68424598d8061da440f86a1de6/master.m3u8?md5=GBG6jGllSCR8zkGPTv_FSw&expires=1792166495",
+            "videoSource": "https://ravok.buzz/cdn/hls/26bffb68424598d8061da440f86a1de6/master.m3u8?md5=GBG6jGllSCR8zkGPTv_FSw&expires=1792166495",
+            "videoImage": "https://as-cdn31.top/p/XapCETZMDu1YEG0SvJ63OVuBSJ5U_OjGxwztYpDUuYp6p0shT_LSfbbsZjkKA9W4eTrZmket6z71NiNtrzIpUg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "a08fe31c3bd2c3b13889d5caf1f7ace8",
+                "streamUrl": "https://ravok.buzz/cdn/hls/26bffb68424598d8061da440f86a1de6/master.m3u8?md5=GBG6jGllSCR8zkGPTv_FSw&expires=1792166495",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/26bffb68424598d8061da440f86a1de6/master.m3u8?md5=GBG6jGllSCR8zkGPTv_FSw&expires=1792166495",
+                "videoSource": "https://ravok.buzz/cdn/hls/26bffb68424598d8061da440f86a1de6/master.m3u8?md5=GBG6jGllSCR8zkGPTv_FSw&expires=1792166495",
+                "link": "https://ravok.buzz/cdn/hls/26bffb68424598d8061da440f86a1de6/master.m3u8?md5=GBG6jGllSCR8zkGPTv_FSw&expires=1792166495",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/XapCETZMDu1YEG0SvJ63OVuBSJ5U_OjGxwztYpDUuYp6p0shT_LSfbbsZjkKA9W4eTrZmket6z71NiNtrzIpUg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "WzHddtB3q"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:45Z"
+    },
+    {
+      "id": "episode/garouden-the-way-of-the-lone-wolf-1x2",
+      "episode_id": "episode/garouden-the-way-of-the-lone-wolf-1x2",
+      "title": "Garouden: The Way of the Lone Wolf 1x1",
+      "episode_name": "Garouden: The Way of the Lone Wolf 1x1",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1692_s1e2.webp",
+      "abyssid": "16130",
+      "abyssId": "16130",
+      "playxid": "16b5e60b803fb3925ea88833ff398caf",
+      "playXID": "16b5e60b803fb3925ea88833ff398caf",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16130",
+        "playXID": "16b5e60b803fb3925ea88833ff398caf",
+        "streamId": "16130",
+        "dubPlayerSrc": "/dub-player/t/16130/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=16b5e60b803fb3925ea88833ff398caf&abyssId=16130"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16130",
+        "playXID": "16b5e60b803fb3925ea88833ff398caf",
+        "streamId": "16130",
+        "dubPlayerSrc": "/dub-player/t/16130/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=16b5e60b803fb3925ea88833ff398caf&abyssId=16130"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/16b5e60b803fb3925ea88833ff398caf",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/16b5e60b803fb3925ea88833ff398caf"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16130",
+        "abyssId": "16130",
+        "playXID": "16b5e60b803fb3925ea88833ff398caf",
+        "title": "Garouden: The Way of the Lone Wolf",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "COo8O5kDt"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "5ZqbjLIiw"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "XwEzaZbXG"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/eee7480ce0eb6442ac7fcedd20590c01/master.m3u8?md5=H6PePmkC7dAUnOja1395Dg&expires=1792166496",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/eee7480ce0eb6442ac7fcedd20590c01/master.m3u8?md5=H6PePmkC7dAUnOja1395Dg&expires=1792166496",
+            "videoSource": "https://ravok.buzz/cdn/hls/eee7480ce0eb6442ac7fcedd20590c01/master.m3u8?md5=H6PePmkC7dAUnOja1395Dg&expires=1792166496",
+            "videoImage": "https://as-cdn31.top/p/1RT2KYc3h5VKNWFUo3XNZlGLJLFS6cTzMbVK2lnSVAyXTOBM9WY2qFFQI7w0U3TV6zr3DN3DnshClzDp4GPzCQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "16b5e60b803fb3925ea88833ff398caf",
+                "streamUrl": "https://ravok.buzz/cdn/hls/eee7480ce0eb6442ac7fcedd20590c01/master.m3u8?md5=H6PePmkC7dAUnOja1395Dg&expires=1792166496",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/eee7480ce0eb6442ac7fcedd20590c01/master.m3u8?md5=H6PePmkC7dAUnOja1395Dg&expires=1792166496",
+                "videoSource": "https://ravok.buzz/cdn/hls/eee7480ce0eb6442ac7fcedd20590c01/master.m3u8?md5=H6PePmkC7dAUnOja1395Dg&expires=1792166496",
+                "link": "https://ravok.buzz/cdn/hls/eee7480ce0eb6442ac7fcedd20590c01/master.m3u8?md5=H6PePmkC7dAUnOja1395Dg&expires=1792166496",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/1RT2KYc3h5VKNWFUo3XNZlGLJLFS6cTzMbVK2lnSVAyXTOBM9WY2qFFQI7w0U3TV6zr3DN3DnshClzDp4GPzCQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "COo8O5kDt"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:46Z"
+    },
+    {
+      "id": "episode/garouden-the-way-of-the-lone-wolf-1x3",
+      "episode_id": "episode/garouden-the-way-of-the-lone-wolf-1x3",
+      "title": "Garouden: The Way of the Lone Wolf 1x1",
+      "episode_name": "Garouden: The Way of the Lone Wolf 1x1",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1692_s1e3.webp",
+      "abyssid": "16131",
+      "abyssId": "16131",
+      "playxid": "76a271c64a315732aa56eeb7277a63d4",
+      "playXID": "76a271c64a315732aa56eeb7277a63d4",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16131",
+        "playXID": "76a271c64a315732aa56eeb7277a63d4",
+        "streamId": "16131",
+        "dubPlayerSrc": "/dub-player/t/16131/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=76a271c64a315732aa56eeb7277a63d4&abyssId=16131"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16131",
+        "playXID": "76a271c64a315732aa56eeb7277a63d4",
+        "streamId": "16131",
+        "dubPlayerSrc": "/dub-player/t/16131/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=76a271c64a315732aa56eeb7277a63d4&abyssId=16131"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/76a271c64a315732aa56eeb7277a63d4",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/76a271c64a315732aa56eeb7277a63d4"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16131",
+        "abyssId": "16131",
+        "playXID": "76a271c64a315732aa56eeb7277a63d4",
+        "title": "Garouden: The Way of the Lone Wolf",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "KsgcLnjPd"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "A6WdtBo5w"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "5YAqzEHlr"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/3b55cf6b3abce0ebd696cb9293093948/master.m3u8?md5=H7x3CyMY1XogEku5r0t8Ug&expires=1792166496",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/3b55cf6b3abce0ebd696cb9293093948/master.m3u8?md5=H7x3CyMY1XogEku5r0t8Ug&expires=1792166496",
+            "videoSource": "https://ravok.buzz/cdn/hls/3b55cf6b3abce0ebd696cb9293093948/master.m3u8?md5=H7x3CyMY1XogEku5r0t8Ug&expires=1792166496",
+            "videoImage": "https://as-cdn31.top/p/FbEMGftAL2IvKVGEiAH7HJdqfFPUwlbwIT07DB8rQXXuVtvkLn75NHYZ0e7r2Sa40_KExWV-3zxEDuheJuYiuA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "76a271c64a315732aa56eeb7277a63d4",
+                "streamUrl": "https://ravok.buzz/cdn/hls/3b55cf6b3abce0ebd696cb9293093948/master.m3u8?md5=H7x3CyMY1XogEku5r0t8Ug&expires=1792166496",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/3b55cf6b3abce0ebd696cb9293093948/master.m3u8?md5=H7x3CyMY1XogEku5r0t8Ug&expires=1792166496",
+                "videoSource": "https://ravok.buzz/cdn/hls/3b55cf6b3abce0ebd696cb9293093948/master.m3u8?md5=H7x3CyMY1XogEku5r0t8Ug&expires=1792166496",
+                "link": "https://ravok.buzz/cdn/hls/3b55cf6b3abce0ebd696cb9293093948/master.m3u8?md5=H7x3CyMY1XogEku5r0t8Ug&expires=1792166496",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/FbEMGftAL2IvKVGEiAH7HJdqfFPUwlbwIT07DB8rQXXuVtvkLn75NHYZ0e7r2Sa40_KExWV-3zxEDuheJuYiuA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "KsgcLnjPd"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:46Z"
+    },
+    {
+      "id": "episode/garouden-the-way-of-the-lone-wolf-1x1",
+      "episode_id": "episode/garouden-the-way-of-the-lone-wolf-1x1",
+      "title": "Garouden: The Way of the Lone Wolf 1x1",
+      "episode_name": "Garouden: The Way of the Lone Wolf 1x1",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1692_s1e1.webp",
+      "abyssid": "16129",
+      "abyssId": "16129",
+      "playxid": "10ada88209bc465aa0ebd61bc248733e",
+      "playXID": "10ada88209bc465aa0ebd61bc248733e",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16129",
+        "playXID": "10ada88209bc465aa0ebd61bc248733e",
+        "streamId": "16129",
+        "dubPlayerSrc": "/dub-player/t/16129/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=10ada88209bc465aa0ebd61bc248733e&abyssId=16129"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16129",
+        "playXID": "10ada88209bc465aa0ebd61bc248733e",
+        "streamId": "16129",
+        "dubPlayerSrc": "/dub-player/t/16129/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=10ada88209bc465aa0ebd61bc248733e&abyssId=16129"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/10ada88209bc465aa0ebd61bc248733e",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/10ada88209bc465aa0ebd61bc248733e"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16129",
+        "abyssId": "16129",
+        "playXID": "10ada88209bc465aa0ebd61bc248733e",
+        "title": "Garouden: The Way of the Lone Wolf",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "JNFXCAY1g"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "QWfBPa62R"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "ZKZdynw_e"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/bbd121cd9650c27c08be44ad2e2e2691/master.m3u8?md5=X5Qx5YgLBF4MBQhvAjTwjw&expires=1792166497",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/bbd121cd9650c27c08be44ad2e2e2691/master.m3u8?md5=X5Qx5YgLBF4MBQhvAjTwjw&expires=1792166497",
+            "videoSource": "https://ravok.buzz/cdn/hls/bbd121cd9650c27c08be44ad2e2e2691/master.m3u8?md5=X5Qx5YgLBF4MBQhvAjTwjw&expires=1792166497",
+            "videoImage": "https://as-cdn30.top/p/YUbGJUQq2OUBeht6X-IIzQfdaYo-u7uQovbvhmEfYTWqnMeDHBsDc5KZN-1ZF8vO73zSXJi9NbcghQGqbRmHsQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "10ada88209bc465aa0ebd61bc248733e",
+                "streamUrl": "https://ravok.buzz/cdn/hls/bbd121cd9650c27c08be44ad2e2e2691/master.m3u8?md5=X5Qx5YgLBF4MBQhvAjTwjw&expires=1792166497",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/bbd121cd9650c27c08be44ad2e2e2691/master.m3u8?md5=X5Qx5YgLBF4MBQhvAjTwjw&expires=1792166497",
+                "videoSource": "https://ravok.buzz/cdn/hls/bbd121cd9650c27c08be44ad2e2e2691/master.m3u8?md5=X5Qx5YgLBF4MBQhvAjTwjw&expires=1792166497",
+                "link": "https://ravok.buzz/cdn/hls/bbd121cd9650c27c08be44ad2e2e2691/master.m3u8?md5=X5Qx5YgLBF4MBQhvAjTwjw&expires=1792166497",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/YUbGJUQq2OUBeht6X-IIzQfdaYo-u7uQovbvhmEfYTWqnMeDHBsDc5KZN-1ZF8vO73zSXJi9NbcghQGqbRmHsQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "JNFXCAY1g"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:46Z"
+    },
+    {
+      "id": "episode/garouden-the-way-of-the-lone-wolf-1x6",
+      "episode_id": "episode/garouden-the-way-of-the-lone-wolf-1x6",
+      "title": "Garouden: The Way of the Lone Wolf 1x1",
+      "episode_name": "Garouden: The Way of the Lone Wolf 1x1",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1692_s1e6.webp",
+      "abyssid": "16134",
+      "abyssId": "16134",
+      "playxid": "27bf6226213cf288dfbf62ffc02bad4f",
+      "playXID": "27bf6226213cf288dfbf62ffc02bad4f",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16134",
+        "playXID": "27bf6226213cf288dfbf62ffc02bad4f",
+        "streamId": "16134",
+        "dubPlayerSrc": "/dub-player/t/16134/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=27bf6226213cf288dfbf62ffc02bad4f&abyssId=16134"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16134",
+        "playXID": "27bf6226213cf288dfbf62ffc02bad4f",
+        "streamId": "16134",
+        "dubPlayerSrc": "/dub-player/t/16134/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=27bf6226213cf288dfbf62ffc02bad4f&abyssId=16134"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/27bf6226213cf288dfbf62ffc02bad4f",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/27bf6226213cf288dfbf62ffc02bad4f"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16134",
+        "abyssId": "16134",
+        "playXID": "27bf6226213cf288dfbf62ffc02bad4f",
+        "title": "Garouden: The Way of the Lone Wolf",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "bqyuVzcMC"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "yHYZDJc3WE"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "khnW7tCxP"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/8e210bcc06cd392c75807bb8db65ab02/master.m3u8?md5=9WpFc3c2bzL3TiOFar5zfA&expires=1792166498",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/8e210bcc06cd392c75807bb8db65ab02/master.m3u8?md5=9WpFc3c2bzL3TiOFar5zfA&expires=1792166498",
+            "videoSource": "https://ravok.buzz/cdn/hls/8e210bcc06cd392c75807bb8db65ab02/master.m3u8?md5=9WpFc3c2bzL3TiOFar5zfA&expires=1792166498",
+            "videoImage": "https://as-cdn30.top/p/bqthcFGdy7bmkjmpr13vyiS4Yb5BMOAGZuNMBj8vSwi1B8jrojDjSsUE_1oixpIvnqDUF0kAhNsueS14UErsBw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "27bf6226213cf288dfbf62ffc02bad4f",
+                "streamUrl": "https://ravok.buzz/cdn/hls/8e210bcc06cd392c75807bb8db65ab02/master.m3u8?md5=9WpFc3c2bzL3TiOFar5zfA&expires=1792166498",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/8e210bcc06cd392c75807bb8db65ab02/master.m3u8?md5=9WpFc3c2bzL3TiOFar5zfA&expires=1792166498",
+                "videoSource": "https://ravok.buzz/cdn/hls/8e210bcc06cd392c75807bb8db65ab02/master.m3u8?md5=9WpFc3c2bzL3TiOFar5zfA&expires=1792166498",
+                "link": "https://ravok.buzz/cdn/hls/8e210bcc06cd392c75807bb8db65ab02/master.m3u8?md5=9WpFc3c2bzL3TiOFar5zfA&expires=1792166498",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/bqthcFGdy7bmkjmpr13vyiS4Yb5BMOAGZuNMBj8vSwi1B8jrojDjSsUE_1oixpIvnqDUF0kAhNsueS14UErsBw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "bqyuVzcMC"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:48Z"
+    },
+    {
+      "id": "episode/garouden-the-way-of-the-lone-wolf-1x7",
+      "episode_id": "episode/garouden-the-way-of-the-lone-wolf-1x7",
+      "title": "Garouden: The Way of the Lone Wolf 1x1",
+      "episode_name": "Garouden: The Way of the Lone Wolf 1x1",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1692_s1e7.webp",
+      "abyssid": "16135",
+      "abyssId": "16135",
+      "playxid": "076fe937e59c252325e2a760ae2e4d37",
+      "playXID": "076fe937e59c252325e2a760ae2e4d37",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16135",
+        "playXID": "076fe937e59c252325e2a760ae2e4d37",
+        "streamId": "16135",
+        "dubPlayerSrc": "/dub-player/t/16135/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=076fe937e59c252325e2a760ae2e4d37&abyssId=16135"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16135",
+        "playXID": "076fe937e59c252325e2a760ae2e4d37",
+        "streamId": "16135",
+        "dubPlayerSrc": "/dub-player/t/16135/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=076fe937e59c252325e2a760ae2e4d37&abyssId=16135"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/076fe937e59c252325e2a760ae2e4d37",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/076fe937e59c252325e2a760ae2e4d37"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16135",
+        "abyssId": "16135",
+        "playXID": "076fe937e59c252325e2a760ae2e4d37",
+        "title": "Garouden: The Way of the Lone Wolf",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "4wX9an-_n"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "wsry_OpqX"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "HcmkF8LVv"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/0a0bf9d16a2af2b5d82d4be5a3feb23c/master.m3u8?md5=xwoXZDG4eFM238U02PgKzA&expires=1792166498",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/0a0bf9d16a2af2b5d82d4be5a3feb23c/master.m3u8?md5=xwoXZDG4eFM238U02PgKzA&expires=1792166498",
+            "videoSource": "https://ravok.buzz/cdn/hls/0a0bf9d16a2af2b5d82d4be5a3feb23c/master.m3u8?md5=xwoXZDG4eFM238U02PgKzA&expires=1792166498",
+            "videoImage": "https://as-cdn31.top/p/J4deggHWJ1Q7mX91ez2cH211SyypYHe_PhcK8V4ce5sOpMfPemiy04bA5UQ7ngf4P9zof9E5sZk5wvrMjNZ1xg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "076fe937e59c252325e2a760ae2e4d37",
+                "streamUrl": "https://ravok.buzz/cdn/hls/0a0bf9d16a2af2b5d82d4be5a3feb23c/master.m3u8?md5=xwoXZDG4eFM238U02PgKzA&expires=1792166498",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/0a0bf9d16a2af2b5d82d4be5a3feb23c/master.m3u8?md5=xwoXZDG4eFM238U02PgKzA&expires=1792166498",
+                "videoSource": "https://ravok.buzz/cdn/hls/0a0bf9d16a2af2b5d82d4be5a3feb23c/master.m3u8?md5=xwoXZDG4eFM238U02PgKzA&expires=1792166498",
+                "link": "https://ravok.buzz/cdn/hls/0a0bf9d16a2af2b5d82d4be5a3feb23c/master.m3u8?md5=xwoXZDG4eFM238U02PgKzA&expires=1792166498",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/J4deggHWJ1Q7mX91ez2cH211SyypYHe_PhcK8V4ce5sOpMfPemiy04bA5UQ7ngf4P9zof9E5sZk5wvrMjNZ1xg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "4wX9an-_n"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:48Z"
+    },
+    {
+      "id": "episode/garouden-the-way-of-the-lone-wolf-1x8",
+      "episode_id": "episode/garouden-the-way-of-the-lone-wolf-1x8",
+      "title": "Garouden: The Way of the Lone Wolf 1x1",
+      "episode_name": "Garouden: The Way of the Lone Wolf 1x1",
+      "episode_number": 8,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1692_s1e8.webp",
+      "abyssid": "16136",
+      "abyssId": "16136",
+      "playxid": "cef762ecebfd6ff463ce4fb05f095d92",
+      "playXID": "cef762ecebfd6ff463ce4fb05f095d92",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16136",
+        "playXID": "cef762ecebfd6ff463ce4fb05f095d92",
+        "streamId": "16136",
+        "dubPlayerSrc": "/dub-player/t/16136/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=cef762ecebfd6ff463ce4fb05f095d92&abyssId=16136"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16136",
+        "playXID": "cef762ecebfd6ff463ce4fb05f095d92",
+        "streamId": "16136",
+        "dubPlayerSrc": "/dub-player/t/16136/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=cef762ecebfd6ff463ce4fb05f095d92&abyssId=16136"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/cef762ecebfd6ff463ce4fb05f095d92",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/cef762ecebfd6ff463ce4fb05f095d92"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16136",
+        "abyssId": "16136",
+        "playXID": "cef762ecebfd6ff463ce4fb05f095d92",
+        "title": "Garouden: The Way of the Lone Wolf",
+        "season": 1,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "0WI3J2_x3"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "5SbWuLoLw"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "0Y-DDvMgB"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/7cf7f05ffb1fda6468644f5718a881fe/master.m3u8?md5=MYQQHGO5Achh4qOamJtThA&expires=1792166500",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/7cf7f05ffb1fda6468644f5718a881fe/master.m3u8?md5=MYQQHGO5Achh4qOamJtThA&expires=1792166500",
+            "videoSource": "https://ravok.buzz/cdn/hls/7cf7f05ffb1fda6468644f5718a881fe/master.m3u8?md5=MYQQHGO5Achh4qOamJtThA&expires=1792166500",
+            "videoImage": "https://as-cdn29.top/p/jAumrvRjn8UmB0QkJyO_wkkSpmOHZheu4zHOmULeBS07jjkVmwe3a0pH77-srB4usTvQsVnmf1uiA51oybQpyw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "cef762ecebfd6ff463ce4fb05f095d92",
+                "streamUrl": "https://ravok.buzz/cdn/hls/7cf7f05ffb1fda6468644f5718a881fe/master.m3u8?md5=MYQQHGO5Achh4qOamJtThA&expires=1792166500",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/7cf7f05ffb1fda6468644f5718a881fe/master.m3u8?md5=MYQQHGO5Achh4qOamJtThA&expires=1792166500",
+                "videoSource": "https://ravok.buzz/cdn/hls/7cf7f05ffb1fda6468644f5718a881fe/master.m3u8?md5=MYQQHGO5Achh4qOamJtThA&expires=1792166500",
+                "link": "https://ravok.buzz/cdn/hls/7cf7f05ffb1fda6468644f5718a881fe/master.m3u8?md5=MYQQHGO5Achh4qOamJtThA&expires=1792166500",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/jAumrvRjn8UmB0QkJyO_wkkSpmOHZheu4zHOmULeBS07jjkVmwe3a0pH77-srB4usTvQsVnmf1uiA51oybQpyw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "0WI3J2_x3"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:49Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T14:01:43Z",
+  "updated_at": "2026-10-16T14:01:50Z"
+}

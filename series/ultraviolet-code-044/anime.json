@@ -1,0 +1,1295 @@
+{
+  "id": "series/ultraviolet-code-044",
+  "series_name": "Ultraviolet: Code 044",
+  "title": "Ultraviolet: Code 044",
+  "banner": "https://image.tmdb.org/t/p/w1280/uYWXroHVYEEkaXjpOKua65yi1Xq.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/kn3hzWSL3HIrrApz0UsXvnZFNHh.jpg",
+  "genra": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Sci-Fi"
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Sci-Fi"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Japanese"
+  ],
+  "synopsis": "044 becomes the strongest female soldier excelling in combat through gene manipulation using a virus. However, in exchange for her abilities, her days become numbered.",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Private: Ultraviolet: Code 044 1x1",
+          "id": "episode/private-ultraviolet-code-044-1x1",
+          "image": "https://img.watchanimeworld.one/img/thumb_1885_s1e1.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "Private: Ultraviolet: Code 044 1x2",
+          "id": "episode/private-ultraviolet-code-044-1x2",
+          "image": "https://img.watchanimeworld.one/img/thumb_1885_s1e2.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "Private: Ultraviolet: Code 044 1x3",
+          "id": "episode/private-ultraviolet-code-044-1x3",
+          "image": "https://img.watchanimeworld.one/img/thumb_1885_s1e3.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "Private: Ultraviolet: Code 044 1x4",
+          "id": "episode/private-ultraviolet-code-044-1x4",
+          "image": "https://img.watchanimeworld.one/img/thumb_1885_s1e4.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "Private: Ultraviolet: Code 044 1x5",
+          "id": "episode/private-ultraviolet-code-044-1x5",
+          "image": "https://img.watchanimeworld.one/img/thumb_1885_s1e5.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "Private: Ultraviolet: Code 044 1x6",
+          "id": "episode/private-ultraviolet-code-044-1x6",
+          "image": "https://img.watchanimeworld.one/img/thumb_1885_s1e6.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "Private: Ultraviolet: Code 044 1x7",
+          "id": "episode/private-ultraviolet-code-044-1x7",
+          "image": "https://img.watchanimeworld.one/img/thumb_1885_s1e7.webp",
+          "season": 1
+        },
+        {
+          "episode": 8,
+          "title": "Private: Ultraviolet: Code 044 1x8",
+          "id": "episode/private-ultraviolet-code-044-1x8",
+          "image": "https://img.watchanimeworld.one/img/thumb_1885_s1e8.webp",
+          "season": 1
+        },
+        {
+          "episode": 9,
+          "title": "Private: Ultraviolet: Code 044 1x9",
+          "id": "episode/private-ultraviolet-code-044-1x9",
+          "image": "https://img.watchanimeworld.one/img/thumb_1885_s1e9.webp",
+          "season": 1
+        },
+        {
+          "episode": 10,
+          "title": "Private: Ultraviolet: Code 044 1x10",
+          "id": "episode/private-ultraviolet-code-044-1x10",
+          "image": "https://img.watchanimeworld.one/img/thumb_1885_s1e10.webp",
+          "season": 1
+        },
+        {
+          "episode": 11,
+          "title": "Private: Ultraviolet: Code 044 1x11",
+          "id": "episode/private-ultraviolet-code-044-1x11",
+          "image": "https://img.watchanimeworld.one/img/thumb_1885_s1e11.webp",
+          "season": 1
+        },
+        {
+          "episode": 12,
+          "title": "Private: Ultraviolet: Code 044 1x12",
+          "id": "episode/private-ultraviolet-code-044-1x12",
+          "image": "https://img.watchanimeworld.one/img/thumb_1885_s1e12.webp",
+          "season": 1
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/private-ultraviolet-code-044-1x1",
+      "episode_id": "episode/private-ultraviolet-code-044-1x1",
+      "title": "Private: Ultraviolet: Code 044 1x1",
+      "episode_name": "Private: Ultraviolet: Code 044 1x1",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1885_s1e1.webp",
+      "abyssid": "16379",
+      "abyssId": "16379",
+      "playxid": "2b8ed17fbe7858c641d55ca03eb8ace3",
+      "playXID": "2b8ed17fbe7858c641d55ca03eb8ace3",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16379",
+        "playXID": "2b8ed17fbe7858c641d55ca03eb8ace3",
+        "streamId": "16379",
+        "dubPlayerSrc": "/dub-player/t/16379/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2b8ed17fbe7858c641d55ca03eb8ace3&abyssId=16379"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16379",
+        "playXID": "2b8ed17fbe7858c641d55ca03eb8ace3",
+        "streamId": "16379",
+        "dubPlayerSrc": "/dub-player/t/16379/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2b8ed17fbe7858c641d55ca03eb8ace3&abyssId=16379"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/2b8ed17fbe7858c641d55ca03eb8ace3",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/2b8ed17fbe7858c641d55ca03eb8ace3"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16379",
+        "abyssId": "16379",
+        "playXID": "2b8ed17fbe7858c641d55ca03eb8ace3",
+        "title": "Ultraviolet: Code 044",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "KKAmQWXld"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "RzA0qGZ74"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "zcUuc-PbO"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/f0d3284b24ab99fd70ffc780a7e189dd/master.m3u8?md5=lfYBDtSVdMfu7OagrjvR6A&expires=1792166452",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/f0d3284b24ab99fd70ffc780a7e189dd/master.m3u8?md5=lfYBDtSVdMfu7OagrjvR6A&expires=1792166452",
+            "videoSource": "https://ravok.buzz/cdn/hls/f0d3284b24ab99fd70ffc780a7e189dd/master.m3u8?md5=lfYBDtSVdMfu7OagrjvR6A&expires=1792166452",
+            "videoImage": "https://as-cdn27.top/p/kyRNPPvNgCkBuVcQdTxzU0hR84_axgUhBo7twnWQOuAk1240It-RU2wvzXgE0rS_KghilmuRvqXl7ZgUJMAgfw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "2b8ed17fbe7858c641d55ca03eb8ace3",
+                "streamUrl": "https://ravok.buzz/cdn/hls/f0d3284b24ab99fd70ffc780a7e189dd/master.m3u8?md5=lfYBDtSVdMfu7OagrjvR6A&expires=1792166452",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/f0d3284b24ab99fd70ffc780a7e189dd/master.m3u8?md5=lfYBDtSVdMfu7OagrjvR6A&expires=1792166452",
+                "videoSource": "https://ravok.buzz/cdn/hls/f0d3284b24ab99fd70ffc780a7e189dd/master.m3u8?md5=lfYBDtSVdMfu7OagrjvR6A&expires=1792166452",
+                "link": "https://ravok.buzz/cdn/hls/f0d3284b24ab99fd70ffc780a7e189dd/master.m3u8?md5=lfYBDtSVdMfu7OagrjvR6A&expires=1792166452",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/kyRNPPvNgCkBuVcQdTxzU0hR84_axgUhBo7twnWQOuAk1240It-RU2wvzXgE0rS_KghilmuRvqXl7ZgUJMAgfw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "KKAmQWXld"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:02Z"
+    },
+    {
+      "id": "episode/private-ultraviolet-code-044-1x2",
+      "episode_id": "episode/private-ultraviolet-code-044-1x2",
+      "title": "Private: Ultraviolet: Code 044 1x1",
+      "episode_name": "Private: Ultraviolet: Code 044 1x1",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1885_s1e2.webp",
+      "abyssid": "16380",
+      "abyssId": "16380",
+      "playxid": "24b7e056016caf9dd296647bf0d59905",
+      "playXID": "24b7e056016caf9dd296647bf0d59905",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16380",
+        "playXID": "24b7e056016caf9dd296647bf0d59905",
+        "streamId": "16380",
+        "dubPlayerSrc": "/dub-player/t/16380/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=24b7e056016caf9dd296647bf0d59905&abyssId=16380"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16380",
+        "playXID": "24b7e056016caf9dd296647bf0d59905",
+        "streamId": "16380",
+        "dubPlayerSrc": "/dub-player/t/16380/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=24b7e056016caf9dd296647bf0d59905&abyssId=16380"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/24b7e056016caf9dd296647bf0d59905",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/24b7e056016caf9dd296647bf0d59905"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16380",
+        "abyssId": "16380",
+        "playXID": "24b7e056016caf9dd296647bf0d59905",
+        "title": "Ultraviolet: Code 044",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "2ZgXVlXJm"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "WwuROn6Hd"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "Mo5na8WZh"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "2ZgXVlXJm"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:02Z"
+    },
+    {
+      "id": "episode/private-ultraviolet-code-044-1x4",
+      "episode_id": "episode/private-ultraviolet-code-044-1x4",
+      "title": "Private: Ultraviolet: Code 044 1x1",
+      "episode_name": "Private: Ultraviolet: Code 044 1x1",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1885_s1e4.webp",
+      "abyssid": "16382",
+      "abyssId": "16382",
+      "playxid": "ef95afafde712120bb708d12b6217a9a",
+      "playXID": "ef95afafde712120bb708d12b6217a9a",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16382",
+        "playXID": "ef95afafde712120bb708d12b6217a9a",
+        "streamId": "16382",
+        "dubPlayerSrc": "/dub-player/t/16382/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ef95afafde712120bb708d12b6217a9a&abyssId=16382"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16382",
+        "playXID": "ef95afafde712120bb708d12b6217a9a",
+        "streamId": "16382",
+        "dubPlayerSrc": "/dub-player/t/16382/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ef95afafde712120bb708d12b6217a9a&abyssId=16382"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/ef95afafde712120bb708d12b6217a9a",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/ef95afafde712120bb708d12b6217a9a"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16382",
+        "abyssId": "16382",
+        "playXID": "ef95afafde712120bb708d12b6217a9a",
+        "title": "Ultraviolet: Code 044",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "p92CikJxH"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "w7OM_p1ZA"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "yQc_EwMCB"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/1eefe80dd1d9356171d8ed732ac6e0ad/master.m3u8?md5=pBeOXCSlmrxogFyS2zSrZg&expires=1792166452",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/1eefe80dd1d9356171d8ed732ac6e0ad/master.m3u8?md5=pBeOXCSlmrxogFyS2zSrZg&expires=1792166452",
+            "videoSource": "https://ravok.buzz/cdn/hls/1eefe80dd1d9356171d8ed732ac6e0ad/master.m3u8?md5=pBeOXCSlmrxogFyS2zSrZg&expires=1792166452",
+            "videoImage": "https://as-cdn29.top/p/kyRNPPvNgCkBuVcQdTxzU9Wm74nvwW1casCAik4QY44BPHwtCG0hIQL7stITedcZJxNHITNec7uw4Cl2rr9zzQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "ef95afafde712120bb708d12b6217a9a",
+                "streamUrl": "https://ravok.buzz/cdn/hls/1eefe80dd1d9356171d8ed732ac6e0ad/master.m3u8?md5=pBeOXCSlmrxogFyS2zSrZg&expires=1792166452",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/1eefe80dd1d9356171d8ed732ac6e0ad/master.m3u8?md5=pBeOXCSlmrxogFyS2zSrZg&expires=1792166452",
+                "videoSource": "https://ravok.buzz/cdn/hls/1eefe80dd1d9356171d8ed732ac6e0ad/master.m3u8?md5=pBeOXCSlmrxogFyS2zSrZg&expires=1792166452",
+                "link": "https://ravok.buzz/cdn/hls/1eefe80dd1d9356171d8ed732ac6e0ad/master.m3u8?md5=pBeOXCSlmrxogFyS2zSrZg&expires=1792166452",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/kyRNPPvNgCkBuVcQdTxzU9Wm74nvwW1casCAik4QY44BPHwtCG0hIQL7stITedcZJxNHITNec7uw4Cl2rr9zzQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "p92CikJxH"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:02Z"
+    },
+    {
+      "id": "episode/private-ultraviolet-code-044-1x5",
+      "episode_id": "episode/private-ultraviolet-code-044-1x5",
+      "title": "Private: Ultraviolet: Code 044 1x1",
+      "episode_name": "Private: Ultraviolet: Code 044 1x1",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1885_s1e5.webp",
+      "abyssid": "16383",
+      "abyssId": "16383",
+      "playxid": "61b5c68987f9713756fcddf407618e52",
+      "playXID": "61b5c68987f9713756fcddf407618e52",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16383",
+        "playXID": "61b5c68987f9713756fcddf407618e52",
+        "streamId": "16383",
+        "dubPlayerSrc": "/dub-player/t/16383/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=61b5c68987f9713756fcddf407618e52&abyssId=16383"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16383",
+        "playXID": "61b5c68987f9713756fcddf407618e52",
+        "streamId": "16383",
+        "dubPlayerSrc": "/dub-player/t/16383/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=61b5c68987f9713756fcddf407618e52&abyssId=16383"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/61b5c68987f9713756fcddf407618e52",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/61b5c68987f9713756fcddf407618e52"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16383",
+        "abyssId": "16383",
+        "playXID": "61b5c68987f9713756fcddf407618e52",
+        "title": "Ultraviolet: Code 044",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "fcxHv19q7"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "KfxKL1Yzp"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/b7d92d4677f6529c6567565575631564/master.m3u8?md5=ZLeSnVdZ9c8NKoL23swJfA&expires=1792166452",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/b7d92d4677f6529c6567565575631564/master.m3u8?md5=ZLeSnVdZ9c8NKoL23swJfA&expires=1792166452",
+            "videoSource": "https://ravok.buzz/cdn/hls/b7d92d4677f6529c6567565575631564/master.m3u8?md5=ZLeSnVdZ9c8NKoL23swJfA&expires=1792166452",
+            "videoImage": "https://as-cdn31.top/p/kyRNPPvNgCkBuVcQdTxzUwqFzYvjLKNTULk0xpskPMs5r3I6liwrm0DfOhuEFY4GYqeeoLXh4j0bdMquqOqI3w.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "61b5c68987f9713756fcddf407618e52",
+                "streamUrl": "https://ravok.buzz/cdn/hls/b7d92d4677f6529c6567565575631564/master.m3u8?md5=ZLeSnVdZ9c8NKoL23swJfA&expires=1792166452",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/b7d92d4677f6529c6567565575631564/master.m3u8?md5=ZLeSnVdZ9c8NKoL23swJfA&expires=1792166452",
+                "videoSource": "https://ravok.buzz/cdn/hls/b7d92d4677f6529c6567565575631564/master.m3u8?md5=ZLeSnVdZ9c8NKoL23swJfA&expires=1792166452",
+                "link": "https://ravok.buzz/cdn/hls/b7d92d4677f6529c6567565575631564/master.m3u8?md5=ZLeSnVdZ9c8NKoL23swJfA&expires=1792166452",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/kyRNPPvNgCkBuVcQdTxzUwqFzYvjLKNTULk0xpskPMs5r3I6liwrm0DfOhuEFY4GYqeeoLXh4j0bdMquqOqI3w.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "fcxHv19q7"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:02Z"
+    },
+    {
+      "id": "episode/private-ultraviolet-code-044-1x3",
+      "episode_id": "episode/private-ultraviolet-code-044-1x3",
+      "title": "Private: Ultraviolet: Code 044 1x1",
+      "episode_name": "Private: Ultraviolet: Code 044 1x1",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1885_s1e3.webp",
+      "abyssid": "16381",
+      "abyssId": "16381",
+      "playxid": "8d4e7eab99697d70f46a556ec9f8f966",
+      "playXID": "8d4e7eab99697d70f46a556ec9f8f966",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16381",
+        "playXID": "8d4e7eab99697d70f46a556ec9f8f966",
+        "streamId": "16381",
+        "dubPlayerSrc": "/dub-player/t/16381/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8d4e7eab99697d70f46a556ec9f8f966&abyssId=16381"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16381",
+        "playXID": "8d4e7eab99697d70f46a556ec9f8f966",
+        "streamId": "16381",
+        "dubPlayerSrc": "/dub-player/t/16381/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8d4e7eab99697d70f46a556ec9f8f966&abyssId=16381"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/8d4e7eab99697d70f46a556ec9f8f966",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/8d4e7eab99697d70f46a556ec9f8f966"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16381",
+        "abyssId": "16381",
+        "playXID": "8d4e7eab99697d70f46a556ec9f8f966",
+        "title": "Ultraviolet: Code 044",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "aITAgEQBn"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "-NB6Gu5TR"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "jyobl9Fai"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/8720d63b9fd916aba985b23fca2d8698/master.m3u8?md5=TuTFVVfF7TmVKRAxdPCcrg&expires=1792166453",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/8720d63b9fd916aba985b23fca2d8698/master.m3u8?md5=TuTFVVfF7TmVKRAxdPCcrg&expires=1792166453",
+            "videoSource": "https://ravok.buzz/cdn/hls/8720d63b9fd916aba985b23fca2d8698/master.m3u8?md5=TuTFVVfF7TmVKRAxdPCcrg&expires=1792166453",
+            "videoImage": "https://as-cdn27.top/p/kyRNPPvNgCkBuVcQdTxzU1trUcDCAc4PMhOYVK9OlivFPKVDuAO-Juvd8iBiV6l3dqvYcZzef0drCSB2B-IyGg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "8d4e7eab99697d70f46a556ec9f8f966",
+                "streamUrl": "https://ravok.buzz/cdn/hls/8720d63b9fd916aba985b23fca2d8698/master.m3u8?md5=TuTFVVfF7TmVKRAxdPCcrg&expires=1792166453",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/8720d63b9fd916aba985b23fca2d8698/master.m3u8?md5=TuTFVVfF7TmVKRAxdPCcrg&expires=1792166453",
+                "videoSource": "https://ravok.buzz/cdn/hls/8720d63b9fd916aba985b23fca2d8698/master.m3u8?md5=TuTFVVfF7TmVKRAxdPCcrg&expires=1792166453",
+                "link": "https://ravok.buzz/cdn/hls/8720d63b9fd916aba985b23fca2d8698/master.m3u8?md5=TuTFVVfF7TmVKRAxdPCcrg&expires=1792166453",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/kyRNPPvNgCkBuVcQdTxzU1trUcDCAc4PMhOYVK9OlivFPKVDuAO-Juvd8iBiV6l3dqvYcZzef0drCSB2B-IyGg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "aITAgEQBn"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:03Z"
+    },
+    {
+      "id": "episode/private-ultraviolet-code-044-1x6",
+      "episode_id": "episode/private-ultraviolet-code-044-1x6",
+      "title": "Private: Ultraviolet: Code 044 1x1",
+      "episode_name": "Private: Ultraviolet: Code 044 1x1",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1885_s1e6.webp",
+      "abyssid": "16384",
+      "abyssId": "16384",
+      "playxid": "0ebffb73e257d1190853b416038b6d2c",
+      "playXID": "0ebffb73e257d1190853b416038b6d2c",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16384",
+        "playXID": "0ebffb73e257d1190853b416038b6d2c",
+        "streamId": "16384",
+        "dubPlayerSrc": "/dub-player/t/16384/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=0ebffb73e257d1190853b416038b6d2c&abyssId=16384"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16384",
+        "playXID": "0ebffb73e257d1190853b416038b6d2c",
+        "streamId": "16384",
+        "dubPlayerSrc": "/dub-player/t/16384/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=0ebffb73e257d1190853b416038b6d2c&abyssId=16384"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/0ebffb73e257d1190853b416038b6d2c",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/0ebffb73e257d1190853b416038b6d2c"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16384",
+        "abyssId": "16384",
+        "playXID": "0ebffb73e257d1190853b416038b6d2c",
+        "title": "Ultraviolet: Code 044",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "NOA-boHyz"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "4jwYPuiXT"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "HqrT1XKeh"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/ec4e3f9902d6a401f67552acd445d497/master.m3u8?md5=0Ke1Fr-9urOoe2NDRsGO4w&expires=1792166453",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/ec4e3f9902d6a401f67552acd445d497/master.m3u8?md5=0Ke1Fr-9urOoe2NDRsGO4w&expires=1792166453",
+            "videoSource": "https://ravok.buzz/cdn/hls/ec4e3f9902d6a401f67552acd445d497/master.m3u8?md5=0Ke1Fr-9urOoe2NDRsGO4w&expires=1792166453",
+            "videoImage": "https://as-cdn30.top/p/kyRNPPvNgCkBuVcQdTxzU_2zV5S011-LyubldyiVZjpQI-bWM6uQblgNUKVC5S83B9zD9u-1adc9-xmh22w0Xg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "0ebffb73e257d1190853b416038b6d2c",
+                "streamUrl": "https://ravok.buzz/cdn/hls/ec4e3f9902d6a401f67552acd445d497/master.m3u8?md5=0Ke1Fr-9urOoe2NDRsGO4w&expires=1792166453",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/ec4e3f9902d6a401f67552acd445d497/master.m3u8?md5=0Ke1Fr-9urOoe2NDRsGO4w&expires=1792166453",
+                "videoSource": "https://ravok.buzz/cdn/hls/ec4e3f9902d6a401f67552acd445d497/master.m3u8?md5=0Ke1Fr-9urOoe2NDRsGO4w&expires=1792166453",
+                "link": "https://ravok.buzz/cdn/hls/ec4e3f9902d6a401f67552acd445d497/master.m3u8?md5=0Ke1Fr-9urOoe2NDRsGO4w&expires=1792166453",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/kyRNPPvNgCkBuVcQdTxzU_2zV5S011-LyubldyiVZjpQI-bWM6uQblgNUKVC5S83B9zD9u-1adc9-xmh22w0Xg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "NOA-boHyz"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:04Z"
+    },
+    {
+      "id": "episode/private-ultraviolet-code-044-1x7",
+      "episode_id": "episode/private-ultraviolet-code-044-1x7",
+      "title": "Private: Ultraviolet: Code 044 1x1",
+      "episode_name": "Private: Ultraviolet: Code 044 1x1",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1885_s1e7.webp",
+      "abyssid": "16385",
+      "abyssId": "16385",
+      "playxid": "bffa67e3385cb95c2bd8c0a76d82c150",
+      "playXID": "bffa67e3385cb95c2bd8c0a76d82c150",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16385",
+        "playXID": "bffa67e3385cb95c2bd8c0a76d82c150",
+        "streamId": "16385",
+        "dubPlayerSrc": "/dub-player/t/16385/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=bffa67e3385cb95c2bd8c0a76d82c150&abyssId=16385"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16385",
+        "playXID": "bffa67e3385cb95c2bd8c0a76d82c150",
+        "streamId": "16385",
+        "dubPlayerSrc": "/dub-player/t/16385/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=bffa67e3385cb95c2bd8c0a76d82c150&abyssId=16385"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/bffa67e3385cb95c2bd8c0a76d82c150",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/bffa67e3385cb95c2bd8c0a76d82c150"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16385",
+        "abyssId": "16385",
+        "playXID": "bffa67e3385cb95c2bd8c0a76d82c150",
+        "title": "Ultraviolet: Code 044",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "aGa73Ctks"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "czJ6D173K"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "iYq1ubtTz"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/ae9b9ff989143cc5a21c160d6be2d9c4/master.m3u8?md5=yjYs0naWaRJMFxhkDUzmBA&expires=1792166454",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/ae9b9ff989143cc5a21c160d6be2d9c4/master.m3u8?md5=yjYs0naWaRJMFxhkDUzmBA&expires=1792166454",
+            "videoSource": "https://ravok.buzz/cdn/hls/ae9b9ff989143cc5a21c160d6be2d9c4/master.m3u8?md5=yjYs0naWaRJMFxhkDUzmBA&expires=1792166454",
+            "videoImage": "https://as-cdn31.top/p/kyRNPPvNgCkBuVcQdTxzUwn2srE7UZM66i8U7W2zAqyEsN7EJ8qcHhwxL25fDvMw1Vx9GoWVZ2pmj8xECi1Ugg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "bffa67e3385cb95c2bd8c0a76d82c150",
+                "streamUrl": "https://ravok.buzz/cdn/hls/ae9b9ff989143cc5a21c160d6be2d9c4/master.m3u8?md5=yjYs0naWaRJMFxhkDUzmBA&expires=1792166454",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/ae9b9ff989143cc5a21c160d6be2d9c4/master.m3u8?md5=yjYs0naWaRJMFxhkDUzmBA&expires=1792166454",
+                "videoSource": "https://ravok.buzz/cdn/hls/ae9b9ff989143cc5a21c160d6be2d9c4/master.m3u8?md5=yjYs0naWaRJMFxhkDUzmBA&expires=1792166454",
+                "link": "https://ravok.buzz/cdn/hls/ae9b9ff989143cc5a21c160d6be2d9c4/master.m3u8?md5=yjYs0naWaRJMFxhkDUzmBA&expires=1792166454",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/kyRNPPvNgCkBuVcQdTxzUwn2srE7UZM66i8U7W2zAqyEsN7EJ8qcHhwxL25fDvMw1Vx9GoWVZ2pmj8xECi1Ugg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "aGa73Ctks"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:04Z"
+    },
+    {
+      "id": "episode/private-ultraviolet-code-044-1x8",
+      "episode_id": "episode/private-ultraviolet-code-044-1x8",
+      "title": "Private: Ultraviolet: Code 044 1x1",
+      "episode_name": "Private: Ultraviolet: Code 044 1x1",
+      "episode_number": 8,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1885_s1e8.webp",
+      "abyssid": "16386",
+      "abyssId": "16386",
+      "playxid": "65c1700fde3e9a94cc060a7e3777287c",
+      "playXID": "65c1700fde3e9a94cc060a7e3777287c",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16386",
+        "playXID": "65c1700fde3e9a94cc060a7e3777287c",
+        "streamId": "16386",
+        "dubPlayerSrc": "/dub-player/t/16386/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=65c1700fde3e9a94cc060a7e3777287c&abyssId=16386"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16386",
+        "playXID": "65c1700fde3e9a94cc060a7e3777287c",
+        "streamId": "16386",
+        "dubPlayerSrc": "/dub-player/t/16386/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=65c1700fde3e9a94cc060a7e3777287c&abyssId=16386"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/65c1700fde3e9a94cc060a7e3777287c",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/65c1700fde3e9a94cc060a7e3777287c"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16386",
+        "abyssId": "16386",
+        "playXID": "65c1700fde3e9a94cc060a7e3777287c",
+        "title": "Ultraviolet: Code 044",
+        "season": 1,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "s9ISmvoGh"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "ixPMtYgk9"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "y0fau0oEd"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/ffc7e3ea924c2a8f6cca1c121c768390/master.m3u8?md5=F492YMujekKQehjuECi28g&expires=1792166454",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/ffc7e3ea924c2a8f6cca1c121c768390/master.m3u8?md5=F492YMujekKQehjuECi28g&expires=1792166454",
+            "videoSource": "https://ravok.buzz/cdn/hls/ffc7e3ea924c2a8f6cca1c121c768390/master.m3u8?md5=F492YMujekKQehjuECi28g&expires=1792166454",
+            "videoImage": "https://as-cdn27.top/p/kyRNPPvNgCkBuVcQdTxzUwVfagIZPeYO2TfRji7163l9KJI0HI9jFTOonDeEtF3z4BezEsd1PkQhUtEgj9-CCQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "65c1700fde3e9a94cc060a7e3777287c",
+                "streamUrl": "https://ravok.buzz/cdn/hls/ffc7e3ea924c2a8f6cca1c121c768390/master.m3u8?md5=F492YMujekKQehjuECi28g&expires=1792166454",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/ffc7e3ea924c2a8f6cca1c121c768390/master.m3u8?md5=F492YMujekKQehjuECi28g&expires=1792166454",
+                "videoSource": "https://ravok.buzz/cdn/hls/ffc7e3ea924c2a8f6cca1c121c768390/master.m3u8?md5=F492YMujekKQehjuECi28g&expires=1792166454",
+                "link": "https://ravok.buzz/cdn/hls/ffc7e3ea924c2a8f6cca1c121c768390/master.m3u8?md5=F492YMujekKQehjuECi28g&expires=1792166454",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/kyRNPPvNgCkBuVcQdTxzUwVfagIZPeYO2TfRji7163l9KJI0HI9jFTOonDeEtF3z4BezEsd1PkQhUtEgj9-CCQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "s9ISmvoGh"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:04Z"
+    },
+    {
+      "id": "episode/private-ultraviolet-code-044-1x9",
+      "episode_id": "episode/private-ultraviolet-code-044-1x9",
+      "title": "Private: Ultraviolet: Code 044 1x1",
+      "episode_name": "Private: Ultraviolet: Code 044 1x1",
+      "episode_number": 9,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1885_s1e9.webp",
+      "abyssid": "16387",
+      "abyssId": "16387",
+      "playxid": "d86a283aedd01d5c7260bbcdb1e0e553",
+      "playXID": "d86a283aedd01d5c7260bbcdb1e0e553",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16387",
+        "playXID": "d86a283aedd01d5c7260bbcdb1e0e553",
+        "streamId": "16387",
+        "dubPlayerSrc": "/dub-player/t/16387/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d86a283aedd01d5c7260bbcdb1e0e553&abyssId=16387"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16387",
+        "playXID": "d86a283aedd01d5c7260bbcdb1e0e553",
+        "streamId": "16387",
+        "dubPlayerSrc": "/dub-player/t/16387/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d86a283aedd01d5c7260bbcdb1e0e553&abyssId=16387"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/d86a283aedd01d5c7260bbcdb1e0e553",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/d86a283aedd01d5c7260bbcdb1e0e553"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16387",
+        "abyssId": "16387",
+        "playXID": "d86a283aedd01d5c7260bbcdb1e0e553",
+        "title": "Ultraviolet: Code 044",
+        "season": 1,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "7YmZ7idh3"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "RDdeMKIJK"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "2hUdAoNtY"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/35a944ad52a82615f70806f0c94ffb84/master.m3u8?md5=MngCkMBRbnHyX5hGEf4Xjw&expires=1792166454",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/35a944ad52a82615f70806f0c94ffb84/master.m3u8?md5=MngCkMBRbnHyX5hGEf4Xjw&expires=1792166454",
+            "videoSource": "https://ravok.buzz/cdn/hls/35a944ad52a82615f70806f0c94ffb84/master.m3u8?md5=MngCkMBRbnHyX5hGEf4Xjw&expires=1792166454",
+            "videoImage": "https://as-cdn28.top/p/kyRNPPvNgCkBuVcQdTxzU6V8lhcnxjuAdTvaUMrLDihSLAwP89pwzge06lOQF_NYlGgNfVKUDQyBS7kV8v5dZQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "d86a283aedd01d5c7260bbcdb1e0e553",
+                "streamUrl": "https://ravok.buzz/cdn/hls/35a944ad52a82615f70806f0c94ffb84/master.m3u8?md5=MngCkMBRbnHyX5hGEf4Xjw&expires=1792166454",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/35a944ad52a82615f70806f0c94ffb84/master.m3u8?md5=MngCkMBRbnHyX5hGEf4Xjw&expires=1792166454",
+                "videoSource": "https://ravok.buzz/cdn/hls/35a944ad52a82615f70806f0c94ffb84/master.m3u8?md5=MngCkMBRbnHyX5hGEf4Xjw&expires=1792166454",
+                "link": "https://ravok.buzz/cdn/hls/35a944ad52a82615f70806f0c94ffb84/master.m3u8?md5=MngCkMBRbnHyX5hGEf4Xjw&expires=1792166454",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/kyRNPPvNgCkBuVcQdTxzU6V8lhcnxjuAdTvaUMrLDihSLAwP89pwzge06lOQF_NYlGgNfVKUDQyBS7kV8v5dZQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "7YmZ7idh3"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:04Z"
+    },
+    {
+      "id": "episode/private-ultraviolet-code-044-1x10",
+      "episode_id": "episode/private-ultraviolet-code-044-1x10",
+      "title": "Private: Ultraviolet: Code 044 1x1",
+      "episode_name": "Private: Ultraviolet: Code 044 1x1",
+      "episode_number": 10,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1885_s1e10.webp",
+      "abyssid": "16388",
+      "abyssId": "16388",
+      "playxid": "2225c699a36afb253a69074cad850b00",
+      "playXID": "2225c699a36afb253a69074cad850b00",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16388",
+        "playXID": "2225c699a36afb253a69074cad850b00",
+        "streamId": "16388",
+        "dubPlayerSrc": "/dub-player/t/16388/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2225c699a36afb253a69074cad850b00&abyssId=16388"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16388",
+        "playXID": "2225c699a36afb253a69074cad850b00",
+        "streamId": "16388",
+        "dubPlayerSrc": "/dub-player/t/16388/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2225c699a36afb253a69074cad850b00&abyssId=16388"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/2225c699a36afb253a69074cad850b00",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/2225c699a36afb253a69074cad850b00"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16388",
+        "abyssId": "16388",
+        "playXID": "2225c699a36afb253a69074cad850b00",
+        "title": "Ultraviolet: Code 044",
+        "season": 1,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "Dm0YcMQRo"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "tNe6eFvzb"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "jQTL8AP3u"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/ad92f1107227b16e9e116ce84e79b5f8/master.m3u8?md5=w7x6clbELtxf4Qg8_MFyUg&expires=1792166455",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/ad92f1107227b16e9e116ce84e79b5f8/master.m3u8?md5=w7x6clbELtxf4Qg8_MFyUg&expires=1792166455",
+            "videoSource": "https://ravok.buzz/cdn/hls/ad92f1107227b16e9e116ce84e79b5f8/master.m3u8?md5=w7x6clbELtxf4Qg8_MFyUg&expires=1792166455",
+            "videoImage": "https://as-cdn31.top/p/kyRNPPvNgCkBuVcQdTxzU_8Ta6irnxdUFoPshAbKMrwS3UFNe6lMT-u--66QpK1dv34P7j4SHR4GLz-M-ReElA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "2225c699a36afb253a69074cad850b00",
+                "streamUrl": "https://ravok.buzz/cdn/hls/ad92f1107227b16e9e116ce84e79b5f8/master.m3u8?md5=w7x6clbELtxf4Qg8_MFyUg&expires=1792166455",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/ad92f1107227b16e9e116ce84e79b5f8/master.m3u8?md5=w7x6clbELtxf4Qg8_MFyUg&expires=1792166455",
+                "videoSource": "https://ravok.buzz/cdn/hls/ad92f1107227b16e9e116ce84e79b5f8/master.m3u8?md5=w7x6clbELtxf4Qg8_MFyUg&expires=1792166455",
+                "link": "https://ravok.buzz/cdn/hls/ad92f1107227b16e9e116ce84e79b5f8/master.m3u8?md5=w7x6clbELtxf4Qg8_MFyUg&expires=1792166455",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/kyRNPPvNgCkBuVcQdTxzU_8Ta6irnxdUFoPshAbKMrwS3UFNe6lMT-u--66QpK1dv34P7j4SHR4GLz-M-ReElA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "Dm0YcMQRo"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:05Z"
+    },
+    {
+      "id": "episode/private-ultraviolet-code-044-1x11",
+      "episode_id": "episode/private-ultraviolet-code-044-1x11",
+      "title": "Private: Ultraviolet: Code 044 1x1",
+      "episode_name": "Private: Ultraviolet: Code 044 1x1",
+      "episode_number": 11,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1885_s1e11.webp",
+      "abyssid": "16389",
+      "abyssId": "16389",
+      "playxid": "fbf76dfc000a67cab7dc95b88f37475b",
+      "playXID": "fbf76dfc000a67cab7dc95b88f37475b",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16389",
+        "playXID": "fbf76dfc000a67cab7dc95b88f37475b",
+        "streamId": "16389",
+        "dubPlayerSrc": "/dub-player/t/16389/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=fbf76dfc000a67cab7dc95b88f37475b&abyssId=16389"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16389",
+        "playXID": "fbf76dfc000a67cab7dc95b88f37475b",
+        "streamId": "16389",
+        "dubPlayerSrc": "/dub-player/t/16389/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=fbf76dfc000a67cab7dc95b88f37475b&abyssId=16389"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/fbf76dfc000a67cab7dc95b88f37475b",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/fbf76dfc000a67cab7dc95b88f37475b"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16389",
+        "abyssId": "16389",
+        "playXID": "fbf76dfc000a67cab7dc95b88f37475b",
+        "title": "Ultraviolet: Code 044",
+        "season": 1,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "FwqOUsLIn"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "kecyp1jUx"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "vfARYjMm5"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/299c4c12a0b7cb2f2ac0604e3ce98028/master.m3u8?md5=8dxFpyBZOIEcETxqR6MX1w&expires=1792166456",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/299c4c12a0b7cb2f2ac0604e3ce98028/master.m3u8?md5=8dxFpyBZOIEcETxqR6MX1w&expires=1792166456",
+            "videoSource": "https://ravok.buzz/cdn/hls/299c4c12a0b7cb2f2ac0604e3ce98028/master.m3u8?md5=8dxFpyBZOIEcETxqR6MX1w&expires=1792166456",
+            "videoImage": "https://as-cdn29.top/p/kyRNPPvNgCkBuVcQdTxzU2XgI9BvpybJ4LsMYy5RIvcb1C8n7H5KFJu1l1Qs0Xe5weJYii9ArWRGRu371wF-PA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "fbf76dfc000a67cab7dc95b88f37475b",
+                "streamUrl": "https://ravok.buzz/cdn/hls/299c4c12a0b7cb2f2ac0604e3ce98028/master.m3u8?md5=8dxFpyBZOIEcETxqR6MX1w&expires=1792166456",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/299c4c12a0b7cb2f2ac0604e3ce98028/master.m3u8?md5=8dxFpyBZOIEcETxqR6MX1w&expires=1792166456",
+                "videoSource": "https://ravok.buzz/cdn/hls/299c4c12a0b7cb2f2ac0604e3ce98028/master.m3u8?md5=8dxFpyBZOIEcETxqR6MX1w&expires=1792166456",
+                "link": "https://ravok.buzz/cdn/hls/299c4c12a0b7cb2f2ac0604e3ce98028/master.m3u8?md5=8dxFpyBZOIEcETxqR6MX1w&expires=1792166456",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/kyRNPPvNgCkBuVcQdTxzU2XgI9BvpybJ4LsMYy5RIvcb1C8n7H5KFJu1l1Qs0Xe5weJYii9ArWRGRu371wF-PA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "FwqOUsLIn"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:05Z"
+    },
+    {
+      "id": "episode/private-ultraviolet-code-044-1x12",
+      "episode_id": "episode/private-ultraviolet-code-044-1x12",
+      "title": "Private: Ultraviolet: Code 044 1x1",
+      "episode_name": "Private: Ultraviolet: Code 044 1x1",
+      "episode_number": 12,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1885_s1e12.webp",
+      "abyssid": "16390",
+      "abyssId": "16390",
+      "playxid": "221c819fabe4a80a62e7cfb77d73a2c3",
+      "playXID": "221c819fabe4a80a62e7cfb77d73a2c3",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16390",
+        "playXID": "221c819fabe4a80a62e7cfb77d73a2c3",
+        "streamId": "16390",
+        "dubPlayerSrc": "/dub-player/t/16390/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=221c819fabe4a80a62e7cfb77d73a2c3&abyssId=16390"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16390",
+        "playXID": "221c819fabe4a80a62e7cfb77d73a2c3",
+        "streamId": "16390",
+        "dubPlayerSrc": "/dub-player/t/16390/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=221c819fabe4a80a62e7cfb77d73a2c3&abyssId=16390"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/221c819fabe4a80a62e7cfb77d73a2c3",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/221c819fabe4a80a62e7cfb77d73a2c3"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16390",
+        "abyssId": "16390",
+        "playXID": "221c819fabe4a80a62e7cfb77d73a2c3",
+        "title": "Ultraviolet: Code 044",
+        "season": 1,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "Hl1cjLgLI"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "3OeCZ12vj"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "Hl1cjLgLI"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:06Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T14:01:00Z",
+  "updated_at": "2026-10-16T14:01:06Z"
+}

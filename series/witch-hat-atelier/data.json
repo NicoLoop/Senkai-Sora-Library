@@ -1,0 +1,1462 @@
+{
+  "id": "series/witch-hat-atelier",
+  "series_name": "Witch Hat Atelier",
+  "title": "Witch Hat Atelier",
+  "banner": "https://image.tmdb.org/t/p/w1280/7zSko8MBo8UxJi2fPwglXFz7gV.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/wraCsl632li139bKAdyqAp6MX8q.jpg",
+  "genra": [
+    "Adventure",
+    "Drama",
+    "Fantasy",
+    "Sci-Fi"
+  ],
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Fantasy",
+    "Sci-Fi"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Japanese"
+  ],
+  "synopsis": "In a world where only witches can cast magic, they must avoid being seen by ordinary people while casting. While Coco does her chores, she daydreams of becoming a witch. When a young witch named Qifrey visits her village, Coco uncovers the “absolute secret,” becomes Qifrey’s apprentice, and begins her studies. This is the story of children who encounter despair, yet reach out toward hope.",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 13,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 13,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Witch Hat Atelier 1x1",
+          "id": "episode/witch-hat-atelier-1x1",
+          "image": "https://img.watchanimeworld.one/img/thumb_2043_s1e1.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "Witch Hat Atelier 1x2",
+          "id": "episode/witch-hat-atelier-1x2",
+          "image": "https://img.watchanimeworld.one/img/thumb_2043_s1e2.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "Witch Hat Atelier 1x3",
+          "id": "episode/witch-hat-atelier-1x3",
+          "image": "https://img.watchanimeworld.one/img/thumb_2043_s1e3.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "Witch Hat Atelier 1x4",
+          "id": "episode/witch-hat-atelier-1x4",
+          "image": "https://img.watchanimeworld.one/img/thumb_2043_s1e4.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "Witch Hat Atelier 1x5",
+          "id": "episode/witch-hat-atelier-1x5",
+          "image": "https://img.watchanimeworld.one/img/thumb_2043_s1e5.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "Witch Hat Atelier 1x6",
+          "id": "episode/witch-hat-atelier-1x6",
+          "image": "https://img.watchanimeworld.one/img/thumb_2043_s1e6.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "Witch Hat Atelier 1x7",
+          "id": "episode/witch-hat-atelier-1x7",
+          "image": "https://img.watchanimeworld.one/img/thumb_2043_s1e7.webp",
+          "season": 1
+        },
+        {
+          "episode": 8,
+          "title": "Witch Hat Atelier 1x8",
+          "id": "episode/witch-hat-atelier-1x8",
+          "image": "https://img.watchanimeworld.one/img/thumb_2043_s1e8.webp",
+          "season": 1
+        },
+        {
+          "episode": 9,
+          "title": "Witch Hat Atelier 1x9",
+          "id": "episode/witch-hat-atelier-1x9",
+          "image": "https://img.watchanimeworld.one/img/thumb_2043_s1e9.webp",
+          "season": 1
+        },
+        {
+          "episode": 10,
+          "title": "Witch Hat Atelier 1x10",
+          "id": "episode/witch-hat-atelier-1x10",
+          "image": "https://img.watchanimeworld.one/img/thumb_2043_s1e10.webp",
+          "season": 1
+        },
+        {
+          "episode": 11,
+          "title": "Witch Hat Atelier 1x11",
+          "id": "episode/witch-hat-atelier-1x11",
+          "image": "https://img.watchanimeworld.one/img/thumb_2043_s1e11.webp",
+          "season": 1
+        },
+        {
+          "episode": 12,
+          "title": "Witch Hat Atelier 1x12",
+          "id": "episode/witch-hat-atelier-1x12",
+          "image": "https://img.watchanimeworld.one/img/thumb_2043_s1e12.webp",
+          "season": 1
+        },
+        {
+          "episode": 13,
+          "title": "Witch Hat Atelier 1×13",
+          "id": "episode/witch-hat-atelier-1x13",
+          "image": "https://img.watchanimeworld.one/img/thumb_2043_s1e13.webp",
+          "season": 1
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/witch-hat-atelier-1x3",
+      "episode_id": "episode/witch-hat-atelier-1x3",
+      "title": "Witch Hat Atelier 1x1",
+      "episode_name": "Witch Hat Atelier 1x1",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2043_s1e3.webp",
+      "abyssid": "18338",
+      "abyssId": "18338",
+      "playxid": "235d345c2ab5e66d05754f2129ed5c06",
+      "playXID": "235d345c2ab5e66d05754f2129ed5c06",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18338",
+        "playXID": "235d345c2ab5e66d05754f2129ed5c06",
+        "streamId": "18338",
+        "dubPlayerSrc": "/dub-player/t/18338/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=235d345c2ab5e66d05754f2129ed5c06&abyssId=18338"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18338",
+        "playXID": "235d345c2ab5e66d05754f2129ed5c06",
+        "streamId": "18338",
+        "dubPlayerSrc": "/dub-player/t/18338/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=235d345c2ab5e66d05754f2129ed5c06&abyssId=18338"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/ea4617226119a78dda076158cbaef41d",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/ea4617226119a78dda076158cbaef41d"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18338",
+        "abyssId": "18338",
+        "playXID": "235d345c2ab5e66d05754f2129ed5c06",
+        "title": "Witch Hat Atelier",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "maIFGJy_u"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "YuaX9WzK8"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "ieXEKdE9Y"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/14ae5c85815ae93bdcc0b4e323f636c9/master.m3u8?md5=sVVkNvg_9bP4o45mfgddvw&expires=1792165940",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/14ae5c85815ae93bdcc0b4e323f636c9/master.m3u8?md5=sVVkNvg_9bP4o45mfgddvw&expires=1792165940",
+            "videoSource": "https://ravok.buzz/cdn/hls/14ae5c85815ae93bdcc0b4e323f636c9/master.m3u8?md5=sVVkNvg_9bP4o45mfgddvw&expires=1792165940",
+            "videoImage": "https://as-cdn28.top/p/SE-fCNbmkZ7jxF-WPo7Dsrik_zBEZ1FaxYZ6VpQ70AOsQ-BhsBuwu3OzCQf3mrfNzQXv0x3dPPoMceTtj27UVA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "235d345c2ab5e66d05754f2129ed5c06",
+                "streamUrl": "https://ravok.buzz/cdn/hls/14ae5c85815ae93bdcc0b4e323f636c9/master.m3u8?md5=sVVkNvg_9bP4o45mfgddvw&expires=1792165940",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/14ae5c85815ae93bdcc0b4e323f636c9/master.m3u8?md5=sVVkNvg_9bP4o45mfgddvw&expires=1792165940",
+                "videoSource": "https://ravok.buzz/cdn/hls/14ae5c85815ae93bdcc0b4e323f636c9/master.m3u8?md5=sVVkNvg_9bP4o45mfgddvw&expires=1792165940",
+                "link": "https://ravok.buzz/cdn/hls/14ae5c85815ae93bdcc0b4e323f636c9/master.m3u8?md5=sVVkNvg_9bP4o45mfgddvw&expires=1792165940",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/SE-fCNbmkZ7jxF-WPo7Dsrik_zBEZ1FaxYZ6VpQ70AOsQ-BhsBuwu3OzCQf3mrfNzQXv0x3dPPoMceTtj27UVA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "maIFGJy_u"
+        }
+      },
+      "fetched_at": "2026-10-16T13:52:30Z"
+    },
+    {
+      "id": "episode/witch-hat-atelier-1x1",
+      "episode_id": "episode/witch-hat-atelier-1x1",
+      "title": "Witch Hat Atelier 1x1",
+      "episode_name": "Witch Hat Atelier 1x1",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2043_s1e1.webp",
+      "abyssid": "18336",
+      "abyssId": "18336",
+      "playxid": "84fbd798e127f7f700c17213662213ce",
+      "playXID": "84fbd798e127f7f700c17213662213ce",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18336",
+        "playXID": "84fbd798e127f7f700c17213662213ce",
+        "streamId": "18336",
+        "dubPlayerSrc": "/dub-player/t/18336/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=84fbd798e127f7f700c17213662213ce&abyssId=18336"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18336",
+        "playXID": "84fbd798e127f7f700c17213662213ce",
+        "streamId": "18336",
+        "dubPlayerSrc": "/dub-player/t/18336/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=84fbd798e127f7f700c17213662213ce&abyssId=18336"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/87cbdccd7c4f57001c682af769ef9b15",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/87cbdccd7c4f57001c682af769ef9b15"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18336",
+        "abyssId": "18336",
+        "playXID": "84fbd798e127f7f700c17213662213ce",
+        "title": "Witch Hat Atelier",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "QBOi51YCW"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "DtbAjy0GL"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "IC212krRk"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/90aa212538dfa6f471fcfad04f76ec0b/master.m3u8?md5=r4LKPQ8GwcC1-0Bshy6dTQ&expires=1792165940",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/90aa212538dfa6f471fcfad04f76ec0b/master.m3u8?md5=r4LKPQ8GwcC1-0Bshy6dTQ&expires=1792165940",
+            "videoSource": "https://ravok.buzz/cdn/hls/90aa212538dfa6f471fcfad04f76ec0b/master.m3u8?md5=r4LKPQ8GwcC1-0Bshy6dTQ&expires=1792165940",
+            "videoImage": "https://as-cdn29.top/p/siLvzTE_7cJS5hIAKbVAXH4TEwOcMC924xIyNzIO_hJgNCQNgkkY7CRVdBdCDECvJxpGAWszuX1XcLYp-WPVPA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "84fbd798e127f7f700c17213662213ce",
+                "streamUrl": "https://ravok.buzz/cdn/hls/90aa212538dfa6f471fcfad04f76ec0b/master.m3u8?md5=r4LKPQ8GwcC1-0Bshy6dTQ&expires=1792165940",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/90aa212538dfa6f471fcfad04f76ec0b/master.m3u8?md5=r4LKPQ8GwcC1-0Bshy6dTQ&expires=1792165940",
+                "videoSource": "https://ravok.buzz/cdn/hls/90aa212538dfa6f471fcfad04f76ec0b/master.m3u8?md5=r4LKPQ8GwcC1-0Bshy6dTQ&expires=1792165940",
+                "link": "https://ravok.buzz/cdn/hls/90aa212538dfa6f471fcfad04f76ec0b/master.m3u8?md5=r4LKPQ8GwcC1-0Bshy6dTQ&expires=1792165940",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/siLvzTE_7cJS5hIAKbVAXH4TEwOcMC924xIyNzIO_hJgNCQNgkkY7CRVdBdCDECvJxpGAWszuX1XcLYp-WPVPA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "QBOi51YCW"
+        }
+      },
+      "fetched_at": "2026-10-16T13:52:30Z"
+    },
+    {
+      "id": "episode/witch-hat-atelier-1x4",
+      "episode_id": "episode/witch-hat-atelier-1x4",
+      "title": "Witch Hat Atelier 1x1",
+      "episode_name": "Witch Hat Atelier 1x1",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2043_s1e4.webp",
+      "abyssid": "18339",
+      "abyssId": "18339",
+      "playxid": "d39e083be3c4b3073a3e6b25ac210c2d",
+      "playXID": "d39e083be3c4b3073a3e6b25ac210c2d",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18339",
+        "playXID": "d39e083be3c4b3073a3e6b25ac210c2d",
+        "streamId": "18339",
+        "dubPlayerSrc": "/dub-player/t/18339/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d39e083be3c4b3073a3e6b25ac210c2d&abyssId=18339"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18339",
+        "playXID": "d39e083be3c4b3073a3e6b25ac210c2d",
+        "streamId": "18339",
+        "dubPlayerSrc": "/dub-player/t/18339/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d39e083be3c4b3073a3e6b25ac210c2d&abyssId=18339"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/8108e7580d35a6df529b4cd78137c5aa",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/8108e7580d35a6df529b4cd78137c5aa"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18339",
+        "abyssId": "18339",
+        "playXID": "d39e083be3c4b3073a3e6b25ac210c2d",
+        "title": "Witch Hat Atelier",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "n9Law50zc"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "UUOOAcn98"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "UXOppn-qjj"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/4299c721e9b130f8cd48820f2c509f5b/master.m3u8?md5=RZUI6Ntb7dmMwjvV4NRujw&expires=1792165940",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/4299c721e9b130f8cd48820f2c509f5b/master.m3u8?md5=RZUI6Ntb7dmMwjvV4NRujw&expires=1792165940",
+            "videoSource": "https://ravok.buzz/cdn/hls/4299c721e9b130f8cd48820f2c509f5b/master.m3u8?md5=RZUI6Ntb7dmMwjvV4NRujw&expires=1792165940",
+            "videoImage": "https://as-cdn31.top/p/pAC9p6jQtL4-L7sS7B9BHjas96QCRzZ4Bn0SxvYaCpcD9i6LWVKRfuuw-SnR_m5Wt-DosHV9QtPzVup41b73EQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "d39e083be3c4b3073a3e6b25ac210c2d",
+                "streamUrl": "https://ravok.buzz/cdn/hls/4299c721e9b130f8cd48820f2c509f5b/master.m3u8?md5=RZUI6Ntb7dmMwjvV4NRujw&expires=1792165940",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/4299c721e9b130f8cd48820f2c509f5b/master.m3u8?md5=RZUI6Ntb7dmMwjvV4NRujw&expires=1792165940",
+                "videoSource": "https://ravok.buzz/cdn/hls/4299c721e9b130f8cd48820f2c509f5b/master.m3u8?md5=RZUI6Ntb7dmMwjvV4NRujw&expires=1792165940",
+                "link": "https://ravok.buzz/cdn/hls/4299c721e9b130f8cd48820f2c509f5b/master.m3u8?md5=RZUI6Ntb7dmMwjvV4NRujw&expires=1792165940",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/pAC9p6jQtL4-L7sS7B9BHjas96QCRzZ4Bn0SxvYaCpcD9i6LWVKRfuuw-SnR_m5Wt-DosHV9QtPzVup41b73EQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "n9Law50zc"
+        }
+      },
+      "fetched_at": "2026-10-16T13:52:30Z"
+    },
+    {
+      "id": "episode/witch-hat-atelier-1x2",
+      "episode_id": "episode/witch-hat-atelier-1x2",
+      "title": "Witch Hat Atelier 1x1",
+      "episode_name": "Witch Hat Atelier 1x1",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2043_s1e2.webp",
+      "abyssid": "18337",
+      "abyssId": "18337",
+      "playxid": "b0dde169fb34d690cf472de3da61a0ea",
+      "playXID": "b0dde169fb34d690cf472de3da61a0ea",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18337",
+        "playXID": "b0dde169fb34d690cf472de3da61a0ea",
+        "streamId": "18337",
+        "dubPlayerSrc": "/dub-player/t/18337/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b0dde169fb34d690cf472de3da61a0ea&abyssId=18337"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18337",
+        "playXID": "b0dde169fb34d690cf472de3da61a0ea",
+        "streamId": "18337",
+        "dubPlayerSrc": "/dub-player/t/18337/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b0dde169fb34d690cf472de3da61a0ea&abyssId=18337"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/1ae6ef6d58b4b5c4120321a9786c100d",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/1ae6ef6d58b4b5c4120321a9786c100d"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18337",
+        "abyssId": "18337",
+        "playXID": "b0dde169fb34d690cf472de3da61a0ea",
+        "title": "Witch Hat Atelier",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "k-woRMN3m"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "53BAhMZaU"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "sBuVcZq2K"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/55ad85a0d0a7cfbc1fddfc82294a88d5/master.m3u8?md5=D729Tf_vRjDFuZbSMIwGrA&expires=1792165940",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/55ad85a0d0a7cfbc1fddfc82294a88d5/master.m3u8?md5=D729Tf_vRjDFuZbSMIwGrA&expires=1792165940",
+            "videoSource": "https://ravok.buzz/cdn/hls/55ad85a0d0a7cfbc1fddfc82294a88d5/master.m3u8?md5=D729Tf_vRjDFuZbSMIwGrA&expires=1792165940",
+            "videoImage": "https://as-cdn28.top/p/bDVgsSvB3KVwayKjNnBAKMh7uc1_MGUWIyFrnjJ7wRKmuHXoT4Gwy5-tR6CTMDMxAhYZ6HvUDDsqrh7ZLyVfrQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "b0dde169fb34d690cf472de3da61a0ea",
+                "streamUrl": "https://ravok.buzz/cdn/hls/55ad85a0d0a7cfbc1fddfc82294a88d5/master.m3u8?md5=D729Tf_vRjDFuZbSMIwGrA&expires=1792165940",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/55ad85a0d0a7cfbc1fddfc82294a88d5/master.m3u8?md5=D729Tf_vRjDFuZbSMIwGrA&expires=1792165940",
+                "videoSource": "https://ravok.buzz/cdn/hls/55ad85a0d0a7cfbc1fddfc82294a88d5/master.m3u8?md5=D729Tf_vRjDFuZbSMIwGrA&expires=1792165940",
+                "link": "https://ravok.buzz/cdn/hls/55ad85a0d0a7cfbc1fddfc82294a88d5/master.m3u8?md5=D729Tf_vRjDFuZbSMIwGrA&expires=1792165940",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/bDVgsSvB3KVwayKjNnBAKMh7uc1_MGUWIyFrnjJ7wRKmuHXoT4Gwy5-tR6CTMDMxAhYZ6HvUDDsqrh7ZLyVfrQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "k-woRMN3m"
+        }
+      },
+      "fetched_at": "2026-10-16T13:52:30Z"
+    },
+    {
+      "id": "episode/witch-hat-atelier-1x5",
+      "episode_id": "episode/witch-hat-atelier-1x5",
+      "title": "Witch Hat Atelier 1x1",
+      "episode_name": "Witch Hat Atelier 1x1",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2043_s1e5.webp",
+      "abyssid": "18340",
+      "abyssId": "18340",
+      "playxid": "36880d4600935fcb2e721c7e7b03cc4f",
+      "playXID": "36880d4600935fcb2e721c7e7b03cc4f",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18340",
+        "playXID": "36880d4600935fcb2e721c7e7b03cc4f",
+        "streamId": "18340",
+        "dubPlayerSrc": "/dub-player/t/18340/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=36880d4600935fcb2e721c7e7b03cc4f&abyssId=18340"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18340",
+        "playXID": "36880d4600935fcb2e721c7e7b03cc4f",
+        "streamId": "18340",
+        "dubPlayerSrc": "/dub-player/t/18340/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=36880d4600935fcb2e721c7e7b03cc4f&abyssId=18340"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/a4cfff2f82da85e81bb59f671dc8bb1d",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/a4cfff2f82da85e81bb59f671dc8bb1d"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18340",
+        "abyssId": "18340",
+        "playXID": "36880d4600935fcb2e721c7e7b03cc4f",
+        "title": "Witch Hat Atelier",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "dM6Gn6iuf"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "bP5cw4y6v"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "AqaLisrYbb"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/83dfe974f972b10cb6e6ba4d14f2daaa/master.m3u8?md5=-ZBv2niKdo2IHUDC6aGNcg&expires=1792165940",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/83dfe974f972b10cb6e6ba4d14f2daaa/master.m3u8?md5=-ZBv2niKdo2IHUDC6aGNcg&expires=1792165940",
+            "videoSource": "https://ravok.buzz/cdn/hls/83dfe974f972b10cb6e6ba4d14f2daaa/master.m3u8?md5=-ZBv2niKdo2IHUDC6aGNcg&expires=1792165940",
+            "videoImage": "https://as-cdn29.top/p/Mf7xY2PBY_C-HEYFiQqFD1Hg7w3g7vzysUGazaBRR52lG73wOnL0Ya4GLTrn87boH37kzNjhWYO60JiTuvMw9g.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "36880d4600935fcb2e721c7e7b03cc4f",
+                "streamUrl": "https://ravok.buzz/cdn/hls/83dfe974f972b10cb6e6ba4d14f2daaa/master.m3u8?md5=-ZBv2niKdo2IHUDC6aGNcg&expires=1792165940",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/83dfe974f972b10cb6e6ba4d14f2daaa/master.m3u8?md5=-ZBv2niKdo2IHUDC6aGNcg&expires=1792165940",
+                "videoSource": "https://ravok.buzz/cdn/hls/83dfe974f972b10cb6e6ba4d14f2daaa/master.m3u8?md5=-ZBv2niKdo2IHUDC6aGNcg&expires=1792165940",
+                "link": "https://ravok.buzz/cdn/hls/83dfe974f972b10cb6e6ba4d14f2daaa/master.m3u8?md5=-ZBv2niKdo2IHUDC6aGNcg&expires=1792165940",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/Mf7xY2PBY_C-HEYFiQqFD1Hg7w3g7vzysUGazaBRR52lG73wOnL0Ya4GLTrn87boH37kzNjhWYO60JiTuvMw9g.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "dM6Gn6iuf"
+        }
+      },
+      "fetched_at": "2026-10-16T13:52:30Z"
+    },
+    {
+      "id": "episode/witch-hat-atelier-1x8",
+      "episode_id": "episode/witch-hat-atelier-1x8",
+      "title": "Witch Hat Atelier 1x1",
+      "episode_name": "Witch Hat Atelier 1x1",
+      "episode_number": 8,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2043_s1e8.webp",
+      "abyssid": "18392",
+      "abyssId": "18392",
+      "playxid": "5cfcc1972d5e8972ace3c90e609f0f58",
+      "playXID": "5cfcc1972d5e8972ace3c90e609f0f58",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18392",
+        "playXID": "5cfcc1972d5e8972ace3c90e609f0f58",
+        "streamId": "18392",
+        "dubPlayerSrc": "/dub-player/t/18392/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=5cfcc1972d5e8972ace3c90e609f0f58&abyssId=18392"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18392",
+        "playXID": "5cfcc1972d5e8972ace3c90e609f0f58",
+        "streamId": "18392",
+        "dubPlayerSrc": "/dub-player/t/18392/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=5cfcc1972d5e8972ace3c90e609f0f58&abyssId=18392"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/52222f1048b26fad207fcb01d3264557",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/52222f1048b26fad207fcb01d3264557"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18392",
+        "abyssId": "18392",
+        "playXID": "5cfcc1972d5e8972ace3c90e609f0f58",
+        "title": "Witch Hat Atelier",
+        "season": 1,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "NsqMji_da6"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "AGV6EbsEh"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "vde3v7uTk"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/f0e8a42965037ce84872aa7fe6722123/master.m3u8?md5=VpEg2-itHf1mFN4hiM9oYA&expires=1792165942",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/f0e8a42965037ce84872aa7fe6722123/master.m3u8?md5=VpEg2-itHf1mFN4hiM9oYA&expires=1792165942",
+            "videoSource": "https://ravok.buzz/cdn/hls/f0e8a42965037ce84872aa7fe6722123/master.m3u8?md5=VpEg2-itHf1mFN4hiM9oYA&expires=1792165942",
+            "videoImage": "https://as-cdn27.top/p/vA6_-TFFM3a31wlp5WxOqEiqhMvFR8Xl3_SJ9wNKZnrHOI0MgfsGNUvDu6O2vybEYsKel7hfGITiPxQ3qqdJzA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "5cfcc1972d5e8972ace3c90e609f0f58",
+                "streamUrl": "https://ravok.buzz/cdn/hls/f0e8a42965037ce84872aa7fe6722123/master.m3u8?md5=VpEg2-itHf1mFN4hiM9oYA&expires=1792165942",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/f0e8a42965037ce84872aa7fe6722123/master.m3u8?md5=VpEg2-itHf1mFN4hiM9oYA&expires=1792165942",
+                "videoSource": "https://ravok.buzz/cdn/hls/f0e8a42965037ce84872aa7fe6722123/master.m3u8?md5=VpEg2-itHf1mFN4hiM9oYA&expires=1792165942",
+                "link": "https://ravok.buzz/cdn/hls/f0e8a42965037ce84872aa7fe6722123/master.m3u8?md5=VpEg2-itHf1mFN4hiM9oYA&expires=1792165942",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/vA6_-TFFM3a31wlp5WxOqEiqhMvFR8Xl3_SJ9wNKZnrHOI0MgfsGNUvDu6O2vybEYsKel7hfGITiPxQ3qqdJzA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "NsqMji_da6"
+        }
+      },
+      "fetched_at": "2026-10-16T13:52:32Z"
+    },
+    {
+      "id": "episode/witch-hat-atelier-1x6",
+      "episode_id": "episode/witch-hat-atelier-1x6",
+      "title": "Witch Hat Atelier 1x1",
+      "episode_name": "Witch Hat Atelier 1x1",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2043_s1e6.webp",
+      "abyssid": "18341",
+      "abyssId": "18341",
+      "playxid": "52f0afbaba42e4345bd027cb91ffc52d",
+      "playXID": "52f0afbaba42e4345bd027cb91ffc52d",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18341",
+        "playXID": "52f0afbaba42e4345bd027cb91ffc52d",
+        "streamId": "18341",
+        "dubPlayerSrc": "/dub-player/t/18341/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=52f0afbaba42e4345bd027cb91ffc52d&abyssId=18341"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18341",
+        "playXID": "52f0afbaba42e4345bd027cb91ffc52d",
+        "streamId": "18341",
+        "dubPlayerSrc": "/dub-player/t/18341/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=52f0afbaba42e4345bd027cb91ffc52d&abyssId=18341"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/8012c113f03996cd9a5511baa835b83e",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/8012c113f03996cd9a5511baa835b83e"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18341",
+        "abyssId": "18341",
+        "playXID": "52f0afbaba42e4345bd027cb91ffc52d",
+        "title": "Witch Hat Atelier",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "NAoM8iHb5"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "IfToC9fpN"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "bqJI9DSG-"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/7c5aab19e7c2c20a6526725823995922/master.m3u8?md5=aeprkK-Mf8x2CLNX1sHyaQ&expires=1792165942",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/7c5aab19e7c2c20a6526725823995922/master.m3u8?md5=aeprkK-Mf8x2CLNX1sHyaQ&expires=1792165942",
+            "videoSource": "https://ravok.buzz/cdn/hls/7c5aab19e7c2c20a6526725823995922/master.m3u8?md5=aeprkK-Mf8x2CLNX1sHyaQ&expires=1792165942",
+            "videoImage": "https://as-cdn30.top/p/nALOMPG2vIHXAA1fEhARDOLzeM8Wfc7auTL69AefRCHm3nT2P3QAfaOqx9Sv_ODhFRpbawFIuEC3GPWQblb2OA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "52f0afbaba42e4345bd027cb91ffc52d",
+                "streamUrl": "https://ravok.buzz/cdn/hls/7c5aab19e7c2c20a6526725823995922/master.m3u8?md5=aeprkK-Mf8x2CLNX1sHyaQ&expires=1792165942",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/7c5aab19e7c2c20a6526725823995922/master.m3u8?md5=aeprkK-Mf8x2CLNX1sHyaQ&expires=1792165942",
+                "videoSource": "https://ravok.buzz/cdn/hls/7c5aab19e7c2c20a6526725823995922/master.m3u8?md5=aeprkK-Mf8x2CLNX1sHyaQ&expires=1792165942",
+                "link": "https://ravok.buzz/cdn/hls/7c5aab19e7c2c20a6526725823995922/master.m3u8?md5=aeprkK-Mf8x2CLNX1sHyaQ&expires=1792165942",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/nALOMPG2vIHXAA1fEhARDOLzeM8Wfc7auTL69AefRCHm3nT2P3QAfaOqx9Sv_ODhFRpbawFIuEC3GPWQblb2OA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "NAoM8iHb5"
+        }
+      },
+      "fetched_at": "2026-10-16T13:52:32Z"
+    },
+    {
+      "id": "episode/witch-hat-atelier-1x7",
+      "episode_id": "episode/witch-hat-atelier-1x7",
+      "title": "Witch Hat Atelier 1x1",
+      "episode_name": "Witch Hat Atelier 1x1",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2043_s1e7.webp",
+      "abyssid": "18361",
+      "abyssId": "18361",
+      "playxid": "bfda4ecd52a662dc46ed0bbf1f7b495a",
+      "playXID": "bfda4ecd52a662dc46ed0bbf1f7b495a",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18361",
+        "playXID": "bfda4ecd52a662dc46ed0bbf1f7b495a",
+        "streamId": "18361",
+        "dubPlayerSrc": "/dub-player/t/18361/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=bfda4ecd52a662dc46ed0bbf1f7b495a&abyssId=18361"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18361",
+        "playXID": "bfda4ecd52a662dc46ed0bbf1f7b495a",
+        "streamId": "18361",
+        "dubPlayerSrc": "/dub-player/t/18361/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=bfda4ecd52a662dc46ed0bbf1f7b495a&abyssId=18361"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/f3e473999b625855bdf3f6a75f7b8f3a",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/f3e473999b625855bdf3f6a75f7b8f3a"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18361",
+        "abyssId": "18361",
+        "playXID": "bfda4ecd52a662dc46ed0bbf1f7b495a",
+        "title": "Witch Hat Atelier",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "I9DqmZjGw"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "6rqvdwj8T"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "qCQ70oeKu"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/6f5ffdc2bb06778f0012aa4ce8f4babf/master.m3u8?md5=kBkwRLsHmK5sv_mmJ47-aA&expires=1792165942",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/6f5ffdc2bb06778f0012aa4ce8f4babf/master.m3u8?md5=kBkwRLsHmK5sv_mmJ47-aA&expires=1792165942",
+            "videoSource": "https://ravok.buzz/cdn/hls/6f5ffdc2bb06778f0012aa4ce8f4babf/master.m3u8?md5=kBkwRLsHmK5sv_mmJ47-aA&expires=1792165942",
+            "videoImage": "https://as-cdn31.top/p/zMOPUazvnyXOOgI61rYO-e3-5uGIJm3sQghq-zwQK8lcqfCWu8Omx3It3nPE69tx8r-UmXdn3pmO2MeZPsPerw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "bfda4ecd52a662dc46ed0bbf1f7b495a",
+                "streamUrl": "https://ravok.buzz/cdn/hls/6f5ffdc2bb06778f0012aa4ce8f4babf/master.m3u8?md5=kBkwRLsHmK5sv_mmJ47-aA&expires=1792165942",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/6f5ffdc2bb06778f0012aa4ce8f4babf/master.m3u8?md5=kBkwRLsHmK5sv_mmJ47-aA&expires=1792165942",
+                "videoSource": "https://ravok.buzz/cdn/hls/6f5ffdc2bb06778f0012aa4ce8f4babf/master.m3u8?md5=kBkwRLsHmK5sv_mmJ47-aA&expires=1792165942",
+                "link": "https://ravok.buzz/cdn/hls/6f5ffdc2bb06778f0012aa4ce8f4babf/master.m3u8?md5=kBkwRLsHmK5sv_mmJ47-aA&expires=1792165942",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/zMOPUazvnyXOOgI61rYO-e3-5uGIJm3sQghq-zwQK8lcqfCWu8Omx3It3nPE69tx8r-UmXdn3pmO2MeZPsPerw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "I9DqmZjGw"
+        }
+      },
+      "fetched_at": "2026-10-16T13:52:32Z"
+    },
+    {
+      "id": "episode/witch-hat-atelier-1x10",
+      "episode_id": "episode/witch-hat-atelier-1x10",
+      "title": "Witch Hat Atelier 1x1",
+      "episode_name": "Witch Hat Atelier 1x1",
+      "episode_number": 10,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2043_s1e10.webp",
+      "abyssid": "18429",
+      "abyssId": "18429",
+      "playxid": "5e57e76cd6ebcdd544ce5dd30faa95db",
+      "playXID": "5e57e76cd6ebcdd544ce5dd30faa95db",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18429",
+        "playXID": "5e57e76cd6ebcdd544ce5dd30faa95db",
+        "streamId": "18429",
+        "dubPlayerSrc": "/dub-player/t/18429/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=5e57e76cd6ebcdd544ce5dd30faa95db&abyssId=18429"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18429",
+        "playXID": "5e57e76cd6ebcdd544ce5dd30faa95db",
+        "streamId": "18429",
+        "dubPlayerSrc": "/dub-player/t/18429/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=5e57e76cd6ebcdd544ce5dd30faa95db&abyssId=18429"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/c7518a1b6d7dfba75ad2cc2fc526fa65",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/c7518a1b6d7dfba75ad2cc2fc526fa65"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18429",
+        "abyssId": "18429",
+        "playXID": "5e57e76cd6ebcdd544ce5dd30faa95db",
+        "title": "Witch Hat Atelier",
+        "season": 1,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "e4CZJdNeQ"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "L_7iDuMtQ"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "py2PNKnnn"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/dab8148aa9b0e50afedbf71b1004b2d8/master.m3u8?md5=ECqYPh6Bw1Kd_Crl869jMw&expires=1792165942",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/dab8148aa9b0e50afedbf71b1004b2d8/master.m3u8?md5=ECqYPh6Bw1Kd_Crl869jMw&expires=1792165942",
+            "videoSource": "https://ravok.buzz/cdn/hls/dab8148aa9b0e50afedbf71b1004b2d8/master.m3u8?md5=ECqYPh6Bw1Kd_Crl869jMw&expires=1792165942",
+            "videoImage": "https://as-cdn28.top/p/oQ7DhGnNdL8VuQqGYLB889SHXt2GSdgSeQPUNwhLaR1rTC7-cT25UVcNhfYGcC9J6RgWvL0KGdB0mmMXLwzjqA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "5e57e76cd6ebcdd544ce5dd30faa95db",
+                "streamUrl": "https://ravok.buzz/cdn/hls/dab8148aa9b0e50afedbf71b1004b2d8/master.m3u8?md5=ECqYPh6Bw1Kd_Crl869jMw&expires=1792165942",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/dab8148aa9b0e50afedbf71b1004b2d8/master.m3u8?md5=ECqYPh6Bw1Kd_Crl869jMw&expires=1792165942",
+                "videoSource": "https://ravok.buzz/cdn/hls/dab8148aa9b0e50afedbf71b1004b2d8/master.m3u8?md5=ECqYPh6Bw1Kd_Crl869jMw&expires=1792165942",
+                "link": "https://ravok.buzz/cdn/hls/dab8148aa9b0e50afedbf71b1004b2d8/master.m3u8?md5=ECqYPh6Bw1Kd_Crl869jMw&expires=1792165942",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/oQ7DhGnNdL8VuQqGYLB889SHXt2GSdgSeQPUNwhLaR1rTC7-cT25UVcNhfYGcC9J6RgWvL0KGdB0mmMXLwzjqA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "e4CZJdNeQ"
+        }
+      },
+      "fetched_at": "2026-10-16T13:52:32Z"
+    },
+    {
+      "id": "episode/witch-hat-atelier-1x9",
+      "episode_id": "episode/witch-hat-atelier-1x9",
+      "title": "Witch Hat Atelier 1x1",
+      "episode_name": "Witch Hat Atelier 1x1",
+      "episode_number": 9,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2043_s1e9.webp",
+      "abyssid": "18400",
+      "abyssId": "18400",
+      "playxid": "e09baed818bb105cc3f3451d6aa93f2d",
+      "playXID": "e09baed818bb105cc3f3451d6aa93f2d",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18400",
+        "playXID": "e09baed818bb105cc3f3451d6aa93f2d",
+        "streamId": "18400",
+        "dubPlayerSrc": "/dub-player/t/18400/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e09baed818bb105cc3f3451d6aa93f2d&abyssId=18400"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18400",
+        "playXID": "e09baed818bb105cc3f3451d6aa93f2d",
+        "streamId": "18400",
+        "dubPlayerSrc": "/dub-player/t/18400/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e09baed818bb105cc3f3451d6aa93f2d&abyssId=18400"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/434d707f9a5c1cb8836dde8f27dee4fe",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/434d707f9a5c1cb8836dde8f27dee4fe"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18400",
+        "abyssId": "18400",
+        "playXID": "e09baed818bb105cc3f3451d6aa93f2d",
+        "title": "Witch Hat Atelier",
+        "season": 1,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "p7U6D8jBV"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "tc2i9znCj"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "BQGiyHiue"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/923d7219824eb84c3f54e9b1483eb349/master.m3u8?md5=ultL16TyEOHjQwbE5L6ELw&expires=1792165942",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/923d7219824eb84c3f54e9b1483eb349/master.m3u8?md5=ultL16TyEOHjQwbE5L6ELw&expires=1792165942",
+            "videoSource": "https://ravok.buzz/cdn/hls/923d7219824eb84c3f54e9b1483eb349/master.m3u8?md5=ultL16TyEOHjQwbE5L6ELw&expires=1792165942",
+            "videoImage": "https://as-cdn28.top/p/eMGMzmGc89g3B8iKXgRe6EhK9ra6UijIQau7BP0smE60x66nbjjueVtiMi7P4sCe-4CnvX7jDbGDo_Oe5LXhSQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "e09baed818bb105cc3f3451d6aa93f2d",
+                "streamUrl": "https://ravok.buzz/cdn/hls/923d7219824eb84c3f54e9b1483eb349/master.m3u8?md5=ultL16TyEOHjQwbE5L6ELw&expires=1792165942",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/923d7219824eb84c3f54e9b1483eb349/master.m3u8?md5=ultL16TyEOHjQwbE5L6ELw&expires=1792165942",
+                "videoSource": "https://ravok.buzz/cdn/hls/923d7219824eb84c3f54e9b1483eb349/master.m3u8?md5=ultL16TyEOHjQwbE5L6ELw&expires=1792165942",
+                "link": "https://ravok.buzz/cdn/hls/923d7219824eb84c3f54e9b1483eb349/master.m3u8?md5=ultL16TyEOHjQwbE5L6ELw&expires=1792165942",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/eMGMzmGc89g3B8iKXgRe6EhK9ra6UijIQau7BP0smE60x66nbjjueVtiMi7P4sCe-4CnvX7jDbGDo_Oe5LXhSQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "p7U6D8jBV"
+        }
+      },
+      "fetched_at": "2026-10-16T13:52:33Z"
+    },
+    {
+      "id": "episode/witch-hat-atelier-1x13",
+      "episode_id": "episode/witch-hat-atelier-1x13",
+      "title": "Witch Hat Atelier 1x1",
+      "episode_name": "Witch Hat Atelier 1x1",
+      "episode_number": 13,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2043_s1e13.webp",
+      "abyssid": "18648",
+      "abyssId": "18648",
+      "playxid": "c44953f2f780be79d8f60e568c9bd1e4",
+      "playXID": "c44953f2f780be79d8f60e568c9bd1e4",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18648",
+        "playXID": "c44953f2f780be79d8f60e568c9bd1e4",
+        "streamId": "18648",
+        "dubPlayerSrc": "/dub-player/t/18648/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c44953f2f780be79d8f60e568c9bd1e4&abyssId=18648"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18648",
+        "playXID": "c44953f2f780be79d8f60e568c9bd1e4",
+        "streamId": "18648",
+        "dubPlayerSrc": "/dub-player/t/18648/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c44953f2f780be79d8f60e568c9bd1e4&abyssId=18648"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/fea834beaf89cb0b8e3dcc21773bdab8",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/fea834beaf89cb0b8e3dcc21773bdab8"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18648",
+        "abyssId": "18648",
+        "playXID": "c44953f2f780be79d8f60e568c9bd1e4",
+        "title": "Witch Hat Atelier",
+        "season": 1,
+        "episode": 13,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "3ZYKTJlaq"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "SuwbykHtm"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "QrhgmfjR5"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/c683ad6087c1f690bf3a40067202aba7/master.m3u8?md5=hHicB5BJ51Ota2x5IZtbSA&expires=1792165944",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/c683ad6087c1f690bf3a40067202aba7/master.m3u8?md5=hHicB5BJ51Ota2x5IZtbSA&expires=1792165944",
+            "videoSource": "https://ravok.buzz/cdn/hls/c683ad6087c1f690bf3a40067202aba7/master.m3u8?md5=hHicB5BJ51Ota2x5IZtbSA&expires=1792165944",
+            "videoImage": "https://as-cdn27.top/p/kuCkCcV0tLiTf25wcwGwxZAyvtvHLNiVNk__cbrIBPV5_xYlNGt5E47Aoe9lphJjyJMsZDO_mkhY-Gq4q6xDOg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "c44953f2f780be79d8f60e568c9bd1e4",
+                "streamUrl": "https://ravok.buzz/cdn/hls/c683ad6087c1f690bf3a40067202aba7/master.m3u8?md5=hHicB5BJ51Ota2x5IZtbSA&expires=1792165944",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/c683ad6087c1f690bf3a40067202aba7/master.m3u8?md5=hHicB5BJ51Ota2x5IZtbSA&expires=1792165944",
+                "videoSource": "https://ravok.buzz/cdn/hls/c683ad6087c1f690bf3a40067202aba7/master.m3u8?md5=hHicB5BJ51Ota2x5IZtbSA&expires=1792165944",
+                "link": "https://ravok.buzz/cdn/hls/c683ad6087c1f690bf3a40067202aba7/master.m3u8?md5=hHicB5BJ51Ota2x5IZtbSA&expires=1792165944",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/kuCkCcV0tLiTf25wcwGwxZAyvtvHLNiVNk__cbrIBPV5_xYlNGt5E47Aoe9lphJjyJMsZDO_mkhY-Gq4q6xDOg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "3ZYKTJlaq"
+        }
+      },
+      "fetched_at": "2026-10-16T13:52:34Z"
+    },
+    {
+      "id": "episode/witch-hat-atelier-1x11",
+      "episode_id": "episode/witch-hat-atelier-1x11",
+      "title": "Witch Hat Atelier 1x1",
+      "episode_name": "Witch Hat Atelier 1x1",
+      "episode_number": 11,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2043_s1e11.webp",
+      "abyssid": "18460",
+      "abyssId": "18460",
+      "playxid": "15826f19ea4eff3ab9b34f411276995c",
+      "playXID": "15826f19ea4eff3ab9b34f411276995c",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18460",
+        "playXID": "15826f19ea4eff3ab9b34f411276995c",
+        "streamId": "18460",
+        "dubPlayerSrc": "/dub-player/t/18460/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=15826f19ea4eff3ab9b34f411276995c&abyssId=18460"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18460",
+        "playXID": "15826f19ea4eff3ab9b34f411276995c",
+        "streamId": "18460",
+        "dubPlayerSrc": "/dub-player/t/18460/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=15826f19ea4eff3ab9b34f411276995c&abyssId=18460"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/9bff601cec084432a684668c641ea05b",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/9bff601cec084432a684668c641ea05b"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18460",
+        "abyssId": "18460",
+        "playXID": "15826f19ea4eff3ab9b34f411276995c",
+        "title": "Witch Hat Atelier",
+        "season": 1,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "leYy1hzBy"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "FtL18muIF"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "R_pewPD96"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/85b9dd205d88f171d2fa9cac284ad8cd/master.m3u8?md5=OVU0QbawXWRw6BiyPJtcdA&expires=1792165944",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/85b9dd205d88f171d2fa9cac284ad8cd/master.m3u8?md5=OVU0QbawXWRw6BiyPJtcdA&expires=1792165944",
+            "videoSource": "https://ravok.buzz/cdn/hls/85b9dd205d88f171d2fa9cac284ad8cd/master.m3u8?md5=OVU0QbawXWRw6BiyPJtcdA&expires=1792165944",
+            "videoImage": "https://as-cdn27.top/p/CIfwW2kVEOizRuKEnd8Nu9D6DLvWR1LRFG8JN-BynCcrm4gj6AxwxHq6-6HG5Sg2LtUYA39N0tobJIO2prYzag.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "15826f19ea4eff3ab9b34f411276995c",
+                "streamUrl": "https://ravok.buzz/cdn/hls/85b9dd205d88f171d2fa9cac284ad8cd/master.m3u8?md5=OVU0QbawXWRw6BiyPJtcdA&expires=1792165944",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/85b9dd205d88f171d2fa9cac284ad8cd/master.m3u8?md5=OVU0QbawXWRw6BiyPJtcdA&expires=1792165944",
+                "videoSource": "https://ravok.buzz/cdn/hls/85b9dd205d88f171d2fa9cac284ad8cd/master.m3u8?md5=OVU0QbawXWRw6BiyPJtcdA&expires=1792165944",
+                "link": "https://ravok.buzz/cdn/hls/85b9dd205d88f171d2fa9cac284ad8cd/master.m3u8?md5=OVU0QbawXWRw6BiyPJtcdA&expires=1792165944",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/CIfwW2kVEOizRuKEnd8Nu9D6DLvWR1LRFG8JN-BynCcrm4gj6AxwxHq6-6HG5Sg2LtUYA39N0tobJIO2prYzag.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "leYy1hzBy"
+        }
+      },
+      "fetched_at": "2026-10-16T13:52:34Z"
+    },
+    {
+      "id": "episode/witch-hat-atelier-1x12",
+      "episode_id": "episode/witch-hat-atelier-1x12",
+      "title": "Witch Hat Atelier 1x1",
+      "episode_name": "Witch Hat Atelier 1x1",
+      "episode_number": 12,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2043_s1e12.webp",
+      "abyssid": "18530",
+      "abyssId": "18530",
+      "playxid": "40d300970074f93e6a14657860750219",
+      "playXID": "40d300970074f93e6a14657860750219",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18530",
+        "playXID": "40d300970074f93e6a14657860750219",
+        "streamId": "18530",
+        "dubPlayerSrc": "/dub-player/t/18530/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=40d300970074f93e6a14657860750219&abyssId=18530"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18530",
+        "playXID": "40d300970074f93e6a14657860750219",
+        "streamId": "18530",
+        "dubPlayerSrc": "/dub-player/t/18530/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=40d300970074f93e6a14657860750219&abyssId=18530"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/e242fd43536246c7d2d58ec0590c912e",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/e242fd43536246c7d2d58ec0590c912e"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18530",
+        "abyssId": "18530",
+        "playXID": "40d300970074f93e6a14657860750219",
+        "title": "Witch Hat Atelier",
+        "season": 1,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "-jQZ0-J0V"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "dFoLpoppg"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "ewl0dwYiL"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/2f5d86c9bb468e35fdf3d1b0905933cc/master.m3u8?md5=RVbGlb947ubnXk91tX5Fgw&expires=1792165944",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/2f5d86c9bb468e35fdf3d1b0905933cc/master.m3u8?md5=RVbGlb947ubnXk91tX5Fgw&expires=1792165944",
+            "videoSource": "https://ravok.buzz/cdn/hls/2f5d86c9bb468e35fdf3d1b0905933cc/master.m3u8?md5=RVbGlb947ubnXk91tX5Fgw&expires=1792165944",
+            "videoImage": "https://as-cdn28.top/p/oGpPR_p964v_Ul7iXayJkL9ZrpFUZ7sNQQQeohcQ-1ReElDaAaUJZkWoKlVcenfbclV3KITBeHKJGQHOTvgFpA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "40d300970074f93e6a14657860750219",
+                "streamUrl": "https://ravok.buzz/cdn/hls/2f5d86c9bb468e35fdf3d1b0905933cc/master.m3u8?md5=RVbGlb947ubnXk91tX5Fgw&expires=1792165944",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/2f5d86c9bb468e35fdf3d1b0905933cc/master.m3u8?md5=RVbGlb947ubnXk91tX5Fgw&expires=1792165944",
+                "videoSource": "https://ravok.buzz/cdn/hls/2f5d86c9bb468e35fdf3d1b0905933cc/master.m3u8?md5=RVbGlb947ubnXk91tX5Fgw&expires=1792165944",
+                "link": "https://ravok.buzz/cdn/hls/2f5d86c9bb468e35fdf3d1b0905933cc/master.m3u8?md5=RVbGlb947ubnXk91tX5Fgw&expires=1792165944",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/oGpPR_p964v_Ul7iXayJkL9ZrpFUZ7sNQQQeohcQ-1ReElDaAaUJZkWoKlVcenfbclV3KITBeHKJGQHOTvgFpA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "-jQZ0-J0V"
+        }
+      },
+      "fetched_at": "2026-10-16T13:52:34Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T13:52:28Z",
+  "updated_at": "2026-10-16T13:52:34Z"
+}

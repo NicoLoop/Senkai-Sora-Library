@@ -1,0 +1,1360 @@
+{
+  "id": "series/beywheelz",
+  "series_name": "BeyWheelz",
+  "title": "BeyWheelz",
+  "banner": "https://image.tmdb.org/t/p/w1280/3vWwtaHxQLeussGVKQN599FEHfN.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/8xN1xNPzvxNMZlc7c9FsNbk1wN5.jpg",
+  "genra": [
+    "Action",
+    "Adventure",
+    "Sci-Fi",
+    "Sports"
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Sci-Fi",
+    "Sports"
+  ],
+  "languages": [
+    "English",
+    "Hindi"
+  ],
+  "synopsis": "BeyWheelz: Powered by Beyblade, commonly referred to as BeyWheelz is a anime mini-series based on the, Hasbro toyline, BeyWheelz. It was commissioned by Nelvana and is produced by Synergy SP and d-rights.",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 13,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 13,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "New Generation!",
+          "id": "episode/beywheelz-1x1",
+          "image": "https://img.watchanimeworld.one/images/4053/01.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "The Dominators Attack!",
+          "id": "episode/beywheelz-1x2",
+          "image": "https://img.watchanimeworld.one/images/4053/02.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "The Fateful Tag-Team Battle!",
+          "id": "episode/beywheelz-1x3",
+          "image": "https://img.watchanimeworld.one/images/4053/03.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "The Wheeler of the Wilderness!",
+          "id": "episode/beywheelz-1x4",
+          "image": "https://img.watchanimeworld.one/images/4053/04.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "Race! The Beywheelz Grand Prix!",
+          "id": "episode/beywheelz-1x5",
+          "image": "https://img.watchanimeworld.one/images/4053/05.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "Judgment Bey Begins!",
+          "id": "episode/beywheelz-1x6",
+          "image": "https://img.watchanimeworld.one/images/4053/06.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "The Law of the Dominators!",
+          "id": "episode/beywheelz-1x7",
+          "image": "https://img.watchanimeworld.one/images/4053/07.webp",
+          "season": 1
+        },
+        {
+          "episode": 8,
+          "title": "Avenger on the Ice",
+          "id": "episode/beywheelz-1x8",
+          "image": "https://img.watchanimeworld.one/images/4053/08.webp",
+          "season": 1
+        },
+        {
+          "episode": 9,
+          "title": "Phoenix vs. The White Dragon",
+          "id": "episode/beywheelz-1x9",
+          "image": "https://img.watchanimeworld.one/images/4053/09.webp",
+          "season": 1
+        },
+        {
+          "episode": 10,
+          "title": "Fierce Fight! A Battle of the Spirit",
+          "id": "episode/beywheelz-1x10",
+          "image": "https://img.watchanimeworld.one/images/4053/10.webp",
+          "season": 1
+        },
+        {
+          "episode": 11,
+          "title": "The Shocking Truth",
+          "id": "episode/beywheelz-1x11",
+          "image": "https://img.watchanimeworld.one/images/4053/11.webp",
+          "season": 1
+        },
+        {
+          "episode": 12,
+          "title": "The Wheeler Bond",
+          "id": "episode/beywheelz-1x12",
+          "image": "https://img.watchanimeworld.one/images/4053/12.webp",
+          "season": 1
+        },
+        {
+          "episode": 13,
+          "title": "A New World",
+          "id": "episode/beywheelz-1x13",
+          "image": "https://img.watchanimeworld.one/images/4053/13.webp",
+          "season": 1
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/beywheelz-1x1",
+      "episode_id": "episode/beywheelz-1x1",
+      "title": "New Generation!",
+      "episode_name": "New Generation!",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/4053/01.webp",
+      "abyssid": "9084",
+      "abyssId": "9084",
+      "playxid": "b98249b38337c5088bbc660d8f872d6a",
+      "playXID": "b98249b38337c5088bbc660d8f872d6a",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "9084",
+        "playXID": "b98249b38337c5088bbc660d8f872d6a",
+        "streamId": "9084",
+        "dubPlayerSrc": "/dub-player/t/9084/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b98249b38337c5088bbc660d8f872d6a&abyssId=9084"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "9084",
+        "playXID": "b98249b38337c5088bbc660d8f872d6a",
+        "streamId": "9084",
+        "dubPlayerSrc": "/dub-player/t/9084/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b98249b38337c5088bbc660d8f872d6a&abyssId=9084"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/b98249b38337c5088bbc660d8f872d6a",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/b98249b38337c5088bbc660d8f872d6a"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "9084",
+        "abyssId": "9084",
+        "playXID": "b98249b38337c5088bbc660d8f872d6a",
+        "title": "BeyWheelz",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "x4KSSUEhQ"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "4FCK8LSBy"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/d80a39ec091b6ea0ba001874f69cdad1/master.m3u8?md5=1Kc8wPde59zlWoR0HVDpQg&expires=1792167829",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/d80a39ec091b6ea0ba001874f69cdad1/master.m3u8?md5=1Kc8wPde59zlWoR0HVDpQg&expires=1792167829",
+            "videoSource": "https://ravok.buzz/cdn/hls/d80a39ec091b6ea0ba001874f69cdad1/master.m3u8?md5=1Kc8wPde59zlWoR0HVDpQg&expires=1792167829",
+            "videoImage": "https://as-cdn31.top/p/VAjXlUHFU4MM5S2Ykglpg0zO6KiT_ejiaok4Iojhs_7Har9vkCstEuqKyzQqtKOtWu3YQSxCsN5lAssCNJgkHA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "b98249b38337c5088bbc660d8f872d6a",
+                "streamUrl": "https://ravok.buzz/cdn/hls/d80a39ec091b6ea0ba001874f69cdad1/master.m3u8?md5=1Kc8wPde59zlWoR0HVDpQg&expires=1792167829",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/d80a39ec091b6ea0ba001874f69cdad1/master.m3u8?md5=1Kc8wPde59zlWoR0HVDpQg&expires=1792167829",
+                "videoSource": "https://ravok.buzz/cdn/hls/d80a39ec091b6ea0ba001874f69cdad1/master.m3u8?md5=1Kc8wPde59zlWoR0HVDpQg&expires=1792167829",
+                "link": "https://ravok.buzz/cdn/hls/d80a39ec091b6ea0ba001874f69cdad1/master.m3u8?md5=1Kc8wPde59zlWoR0HVDpQg&expires=1792167829",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/VAjXlUHFU4MM5S2Ykglpg0zO6KiT_ejiaok4Iojhs_7Har9vkCstEuqKyzQqtKOtWu3YQSxCsN5lAssCNJgkHA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "x4KSSUEhQ"
+        }
+      },
+      "fetched_at": "2026-10-16T14:23:59Z"
+    },
+    {
+      "id": "episode/beywheelz-1x4",
+      "episode_id": "episode/beywheelz-1x4",
+      "title": "New Generation!",
+      "episode_name": "New Generation!",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/4053/04.webp",
+      "abyssid": "9087",
+      "abyssId": "9087",
+      "playxid": "980a875ff6ef9c2d75e74307cbf5d205",
+      "playXID": "980a875ff6ef9c2d75e74307cbf5d205",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "9087",
+        "playXID": "980a875ff6ef9c2d75e74307cbf5d205",
+        "streamId": "9087",
+        "dubPlayerSrc": "/dub-player/t/9087/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=980a875ff6ef9c2d75e74307cbf5d205&abyssId=9087"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "9087",
+        "playXID": "980a875ff6ef9c2d75e74307cbf5d205",
+        "streamId": "9087",
+        "dubPlayerSrc": "/dub-player/t/9087/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=980a875ff6ef9c2d75e74307cbf5d205&abyssId=9087"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/980a875ff6ef9c2d75e74307cbf5d205",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/980a875ff6ef9c2d75e74307cbf5d205"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "9087",
+        "abyssId": "9087",
+        "playXID": "980a875ff6ef9c2d75e74307cbf5d205",
+        "title": "BeyWheelz",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "Pkjge--v6"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "n1YE3Bw9T"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/b38aa9116438c7ab9d518a8a30d63d3f/master.m3u8?md5=e5m9LtqxtITlrFp3swXEEQ&expires=1792167829",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/b38aa9116438c7ab9d518a8a30d63d3f/master.m3u8?md5=e5m9LtqxtITlrFp3swXEEQ&expires=1792167829",
+            "videoSource": "https://ravok.buzz/cdn/hls/b38aa9116438c7ab9d518a8a30d63d3f/master.m3u8?md5=e5m9LtqxtITlrFp3swXEEQ&expires=1792167829",
+            "videoImage": "https://as-cdn28.top/p/kyRNPPvNgCkBuVcQdTxzU5Xhk2Ie25hUxnyrl-E6xjgqZc4CFqL8C5XpbVzBliYTnUzuiy5Wz44-SpkaLW3Ylg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "980a875ff6ef9c2d75e74307cbf5d205",
+                "streamUrl": "https://ravok.buzz/cdn/hls/b38aa9116438c7ab9d518a8a30d63d3f/master.m3u8?md5=e5m9LtqxtITlrFp3swXEEQ&expires=1792167829",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/b38aa9116438c7ab9d518a8a30d63d3f/master.m3u8?md5=e5m9LtqxtITlrFp3swXEEQ&expires=1792167829",
+                "videoSource": "https://ravok.buzz/cdn/hls/b38aa9116438c7ab9d518a8a30d63d3f/master.m3u8?md5=e5m9LtqxtITlrFp3swXEEQ&expires=1792167829",
+                "link": "https://ravok.buzz/cdn/hls/b38aa9116438c7ab9d518a8a30d63d3f/master.m3u8?md5=e5m9LtqxtITlrFp3swXEEQ&expires=1792167829",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/kyRNPPvNgCkBuVcQdTxzU5Xhk2Ie25hUxnyrl-E6xjgqZc4CFqL8C5XpbVzBliYTnUzuiy5Wz44-SpkaLW3Ylg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "Pkjge--v6"
+        }
+      },
+      "fetched_at": "2026-10-16T14:23:59Z"
+    },
+    {
+      "id": "episode/beywheelz-1x5",
+      "episode_id": "episode/beywheelz-1x5",
+      "title": "New Generation!",
+      "episode_name": "New Generation!",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/4053/05.webp",
+      "abyssid": "9088",
+      "abyssId": "9088",
+      "playxid": "cfcce0621b49c983991ead4c3d4d3b6b",
+      "playXID": "cfcce0621b49c983991ead4c3d4d3b6b",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "9088",
+        "playXID": "cfcce0621b49c983991ead4c3d4d3b6b",
+        "streamId": "9088",
+        "dubPlayerSrc": "/dub-player/t/9088/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=cfcce0621b49c983991ead4c3d4d3b6b&abyssId=9088"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "9088",
+        "playXID": "cfcce0621b49c983991ead4c3d4d3b6b",
+        "streamId": "9088",
+        "dubPlayerSrc": "/dub-player/t/9088/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=cfcce0621b49c983991ead4c3d4d3b6b&abyssId=9088"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/cfcce0621b49c983991ead4c3d4d3b6b",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/cfcce0621b49c983991ead4c3d4d3b6b"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "9088",
+        "abyssId": "9088",
+        "playXID": "cfcce0621b49c983991ead4c3d4d3b6b",
+        "title": "BeyWheelz",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "jS2efTsW6"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "2XSk68YZ9"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/8a66ef4264a019d069e1d32dc135c68e/master.m3u8?md5=EJQA4T67PFo-WxSHXYpPLA&expires=1792167830",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/8a66ef4264a019d069e1d32dc135c68e/master.m3u8?md5=EJQA4T67PFo-WxSHXYpPLA&expires=1792167830",
+            "videoSource": "https://ravok.buzz/cdn/hls/8a66ef4264a019d069e1d32dc135c68e/master.m3u8?md5=EJQA4T67PFo-WxSHXYpPLA&expires=1792167830",
+            "videoImage": "https://as-cdn31.top/p/kk6Dr1x3XKH-bLiSjq9Y7ymoLBaXBg9mbFEnqCN4Uj_I5tDw9Ny8IM1UWdKurQETW--odowOCvfNXfV2q87PaQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "cfcce0621b49c983991ead4c3d4d3b6b",
+                "streamUrl": "https://ravok.buzz/cdn/hls/8a66ef4264a019d069e1d32dc135c68e/master.m3u8?md5=EJQA4T67PFo-WxSHXYpPLA&expires=1792167830",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/8a66ef4264a019d069e1d32dc135c68e/master.m3u8?md5=EJQA4T67PFo-WxSHXYpPLA&expires=1792167830",
+                "videoSource": "https://ravok.buzz/cdn/hls/8a66ef4264a019d069e1d32dc135c68e/master.m3u8?md5=EJQA4T67PFo-WxSHXYpPLA&expires=1792167830",
+                "link": "https://ravok.buzz/cdn/hls/8a66ef4264a019d069e1d32dc135c68e/master.m3u8?md5=EJQA4T67PFo-WxSHXYpPLA&expires=1792167830",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/kk6Dr1x3XKH-bLiSjq9Y7ymoLBaXBg9mbFEnqCN4Uj_I5tDw9Ny8IM1UWdKurQETW--odowOCvfNXfV2q87PaQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "jS2efTsW6"
+        }
+      },
+      "fetched_at": "2026-10-16T14:23:59Z"
+    },
+    {
+      "id": "episode/beywheelz-1x2",
+      "episode_id": "episode/beywheelz-1x2",
+      "title": "New Generation!",
+      "episode_name": "New Generation!",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/4053/02.webp",
+      "abyssid": "9085",
+      "abyssId": "9085",
+      "playxid": "645e6bfdd05d1a69c5e47b20f0a91d46",
+      "playXID": "645e6bfdd05d1a69c5e47b20f0a91d46",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "9085",
+        "playXID": "645e6bfdd05d1a69c5e47b20f0a91d46",
+        "streamId": "9085",
+        "dubPlayerSrc": "/dub-player/t/9085/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=645e6bfdd05d1a69c5e47b20f0a91d46&abyssId=9085"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "9085",
+        "playXID": "645e6bfdd05d1a69c5e47b20f0a91d46",
+        "streamId": "9085",
+        "dubPlayerSrc": "/dub-player/t/9085/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=645e6bfdd05d1a69c5e47b20f0a91d46&abyssId=9085"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/645e6bfdd05d1a69c5e47b20f0a91d46",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/645e6bfdd05d1a69c5e47b20f0a91d46"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "9085",
+        "abyssId": "9085",
+        "playXID": "645e6bfdd05d1a69c5e47b20f0a91d46",
+        "title": "BeyWheelz",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "J9NxO_VwN"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "CjXyL0Osd"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/7f94ad2eefa47baad0bf7b3e18036a73/master.m3u8?md5=p-_DxGZHyfH5drBJNKFXyw&expires=1792167830",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/7f94ad2eefa47baad0bf7b3e18036a73/master.m3u8?md5=p-_DxGZHyfH5drBJNKFXyw&expires=1792167830",
+            "videoSource": "https://ravok.buzz/cdn/hls/7f94ad2eefa47baad0bf7b3e18036a73/master.m3u8?md5=p-_DxGZHyfH5drBJNKFXyw&expires=1792167830",
+            "videoImage": "https://as-cdn30.top/p/zBez8Pu52NqPBPPOkw-5tAk-pJsEJUovB9V-s6-p9b1EoEJXdzavSOy1EykdSp2vwjetj_YxRq6QsQkS2SF0Gg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "645e6bfdd05d1a69c5e47b20f0a91d46",
+                "streamUrl": "https://ravok.buzz/cdn/hls/7f94ad2eefa47baad0bf7b3e18036a73/master.m3u8?md5=p-_DxGZHyfH5drBJNKFXyw&expires=1792167830",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/7f94ad2eefa47baad0bf7b3e18036a73/master.m3u8?md5=p-_DxGZHyfH5drBJNKFXyw&expires=1792167830",
+                "videoSource": "https://ravok.buzz/cdn/hls/7f94ad2eefa47baad0bf7b3e18036a73/master.m3u8?md5=p-_DxGZHyfH5drBJNKFXyw&expires=1792167830",
+                "link": "https://ravok.buzz/cdn/hls/7f94ad2eefa47baad0bf7b3e18036a73/master.m3u8?md5=p-_DxGZHyfH5drBJNKFXyw&expires=1792167830",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/zBez8Pu52NqPBPPOkw-5tAk-pJsEJUovB9V-s6-p9b1EoEJXdzavSOy1EykdSp2vwjetj_YxRq6QsQkS2SF0Gg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "J9NxO_VwN"
+        }
+      },
+      "fetched_at": "2026-10-16T14:23:59Z"
+    },
+    {
+      "id": "episode/beywheelz-1x3",
+      "episode_id": "episode/beywheelz-1x3",
+      "title": "New Generation!",
+      "episode_name": "New Generation!",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/4053/03.webp",
+      "abyssid": "9086",
+      "abyssId": "9086",
+      "playxid": "3a30be93eb45566a90f4e95ee72a089a",
+      "playXID": "3a30be93eb45566a90f4e95ee72a089a",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "9086",
+        "playXID": "3a30be93eb45566a90f4e95ee72a089a",
+        "streamId": "9086",
+        "dubPlayerSrc": "/dub-player/t/9086/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=3a30be93eb45566a90f4e95ee72a089a&abyssId=9086"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "9086",
+        "playXID": "3a30be93eb45566a90f4e95ee72a089a",
+        "streamId": "9086",
+        "dubPlayerSrc": "/dub-player/t/9086/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=3a30be93eb45566a90f4e95ee72a089a&abyssId=9086"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/3a30be93eb45566a90f4e95ee72a089a",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/3a30be93eb45566a90f4e95ee72a089a"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "9086",
+        "abyssId": "9086",
+        "playXID": "3a30be93eb45566a90f4e95ee72a089a",
+        "title": "BeyWheelz",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "MiCvc53Tq"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "b758oDS8T"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/2f5e3a58d9071ea35f7293cc59e9bf6a/master.m3u8?md5=PiBE1TlUT54cyxop-4rQrQ&expires=1792167830",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/2f5e3a58d9071ea35f7293cc59e9bf6a/master.m3u8?md5=PiBE1TlUT54cyxop-4rQrQ&expires=1792167830",
+            "videoSource": "https://ravok.buzz/cdn/hls/2f5e3a58d9071ea35f7293cc59e9bf6a/master.m3u8?md5=PiBE1TlUT54cyxop-4rQrQ&expires=1792167830",
+            "videoImage": "https://as-cdn28.top/p/kyRNPPvNgCkBuVcQdTxzU-VKAmIkvEp98eYGE_pdgrg5DuxTmLcF1GPMJc8oHrnlLQ0jXn5habt5uMxIHkvYEA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "3a30be93eb45566a90f4e95ee72a089a",
+                "streamUrl": "https://ravok.buzz/cdn/hls/2f5e3a58d9071ea35f7293cc59e9bf6a/master.m3u8?md5=PiBE1TlUT54cyxop-4rQrQ&expires=1792167830",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/2f5e3a58d9071ea35f7293cc59e9bf6a/master.m3u8?md5=PiBE1TlUT54cyxop-4rQrQ&expires=1792167830",
+                "videoSource": "https://ravok.buzz/cdn/hls/2f5e3a58d9071ea35f7293cc59e9bf6a/master.m3u8?md5=PiBE1TlUT54cyxop-4rQrQ&expires=1792167830",
+                "link": "https://ravok.buzz/cdn/hls/2f5e3a58d9071ea35f7293cc59e9bf6a/master.m3u8?md5=PiBE1TlUT54cyxop-4rQrQ&expires=1792167830",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/kyRNPPvNgCkBuVcQdTxzU-VKAmIkvEp98eYGE_pdgrg5DuxTmLcF1GPMJc8oHrnlLQ0jXn5habt5uMxIHkvYEA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "MiCvc53Tq"
+        }
+      },
+      "fetched_at": "2026-10-16T14:23:59Z"
+    },
+    {
+      "id": "episode/beywheelz-1x6",
+      "episode_id": "episode/beywheelz-1x6",
+      "title": "New Generation!",
+      "episode_name": "New Generation!",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/4053/06.webp",
+      "abyssid": "9089",
+      "abyssId": "9089",
+      "playxid": "ca3ec598002d2e7662e2ef4bdd58278b",
+      "playXID": "ca3ec598002d2e7662e2ef4bdd58278b",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "9089",
+        "playXID": "ca3ec598002d2e7662e2ef4bdd58278b",
+        "streamId": "9089",
+        "dubPlayerSrc": "/dub-player/t/9089/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ca3ec598002d2e7662e2ef4bdd58278b&abyssId=9089"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "9089",
+        "playXID": "ca3ec598002d2e7662e2ef4bdd58278b",
+        "streamId": "9089",
+        "dubPlayerSrc": "/dub-player/t/9089/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ca3ec598002d2e7662e2ef4bdd58278b&abyssId=9089"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/ca3ec598002d2e7662e2ef4bdd58278b",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/ca3ec598002d2e7662e2ef4bdd58278b"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "9089",
+        "abyssId": "9089",
+        "playXID": "ca3ec598002d2e7662e2ef4bdd58278b",
+        "title": "BeyWheelz",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "YEJ2fttPq"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "ZhTARzJhK"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/08319992757ef0334b63876830ac5be2/master.m3u8?md5=E9ZFoNnTf1HSKFp6CMvIJQ&expires=1792167831",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/08319992757ef0334b63876830ac5be2/master.m3u8?md5=E9ZFoNnTf1HSKFp6CMvIJQ&expires=1792167831",
+            "videoSource": "https://ravok.buzz/cdn/hls/08319992757ef0334b63876830ac5be2/master.m3u8?md5=E9ZFoNnTf1HSKFp6CMvIJQ&expires=1792167831",
+            "videoImage": "https://as-cdn31.top/p/CH5Gt6stWSDlLlXJhs6siq5GBfqbF-pjQNP1i1Jq3ICqwPBFfQTIZKskny9EUp8-F3Wo1QwTOoKiiffwH7NVLQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "ca3ec598002d2e7662e2ef4bdd58278b",
+                "streamUrl": "https://ravok.buzz/cdn/hls/08319992757ef0334b63876830ac5be2/master.m3u8?md5=E9ZFoNnTf1HSKFp6CMvIJQ&expires=1792167831",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/08319992757ef0334b63876830ac5be2/master.m3u8?md5=E9ZFoNnTf1HSKFp6CMvIJQ&expires=1792167831",
+                "videoSource": "https://ravok.buzz/cdn/hls/08319992757ef0334b63876830ac5be2/master.m3u8?md5=E9ZFoNnTf1HSKFp6CMvIJQ&expires=1792167831",
+                "link": "https://ravok.buzz/cdn/hls/08319992757ef0334b63876830ac5be2/master.m3u8?md5=E9ZFoNnTf1HSKFp6CMvIJQ&expires=1792167831",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/CH5Gt6stWSDlLlXJhs6siq5GBfqbF-pjQNP1i1Jq3ICqwPBFfQTIZKskny9EUp8-F3Wo1QwTOoKiiffwH7NVLQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "YEJ2fttPq"
+        }
+      },
+      "fetched_at": "2026-10-16T14:24:01Z"
+    },
+    {
+      "id": "episode/beywheelz-1x7",
+      "episode_id": "episode/beywheelz-1x7",
+      "title": "New Generation!",
+      "episode_name": "New Generation!",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/4053/07.webp",
+      "abyssid": "9090",
+      "abyssId": "9090",
+      "playxid": "7a430339c10c642c4b2251756fd1b484",
+      "playXID": "7a430339c10c642c4b2251756fd1b484",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "9090",
+        "playXID": "7a430339c10c642c4b2251756fd1b484",
+        "streamId": "9090",
+        "dubPlayerSrc": "/dub-player/t/9090/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=7a430339c10c642c4b2251756fd1b484&abyssId=9090"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "9090",
+        "playXID": "7a430339c10c642c4b2251756fd1b484",
+        "streamId": "9090",
+        "dubPlayerSrc": "/dub-player/t/9090/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=7a430339c10c642c4b2251756fd1b484&abyssId=9090"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/7a430339c10c642c4b2251756fd1b484",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/7a430339c10c642c4b2251756fd1b484"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "9090",
+        "abyssId": "9090",
+        "playXID": "7a430339c10c642c4b2251756fd1b484",
+        "title": "BeyWheelz",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "OtwG_QZTL"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "QvCuKsDoy"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/e968b61ac93df671e58e68a38be6ee74/master.m3u8?md5=ikmLqzz5lCo7tysKCyjF2w&expires=1792167831",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/e968b61ac93df671e58e68a38be6ee74/master.m3u8?md5=ikmLqzz5lCo7tysKCyjF2w&expires=1792167831",
+            "videoSource": "https://ravok.buzz/cdn/hls/e968b61ac93df671e58e68a38be6ee74/master.m3u8?md5=ikmLqzz5lCo7tysKCyjF2w&expires=1792167831",
+            "videoImage": "https://as-cdn28.top/p/E5oXHfAccUHnWqyd78hAK5mmdb6KKHhV_vL4rd5yqZqiigr9D4TMvkeio6zC2H2jr66ieRDjzM3V99PtI4USfw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "7a430339c10c642c4b2251756fd1b484",
+                "streamUrl": "https://ravok.buzz/cdn/hls/e968b61ac93df671e58e68a38be6ee74/master.m3u8?md5=ikmLqzz5lCo7tysKCyjF2w&expires=1792167831",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/e968b61ac93df671e58e68a38be6ee74/master.m3u8?md5=ikmLqzz5lCo7tysKCyjF2w&expires=1792167831",
+                "videoSource": "https://ravok.buzz/cdn/hls/e968b61ac93df671e58e68a38be6ee74/master.m3u8?md5=ikmLqzz5lCo7tysKCyjF2w&expires=1792167831",
+                "link": "https://ravok.buzz/cdn/hls/e968b61ac93df671e58e68a38be6ee74/master.m3u8?md5=ikmLqzz5lCo7tysKCyjF2w&expires=1792167831",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/E5oXHfAccUHnWqyd78hAK5mmdb6KKHhV_vL4rd5yqZqiigr9D4TMvkeio6zC2H2jr66ieRDjzM3V99PtI4USfw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "OtwG_QZTL"
+        }
+      },
+      "fetched_at": "2026-10-16T14:24:01Z"
+    },
+    {
+      "id": "episode/beywheelz-1x10",
+      "episode_id": "episode/beywheelz-1x10",
+      "title": "New Generation!",
+      "episode_name": "New Generation!",
+      "episode_number": 10,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/4053/10.webp",
+      "abyssid": "9093",
+      "abyssId": "9093",
+      "playxid": "7a4bf9ba2bd774068ad50351fb898076",
+      "playXID": "7a4bf9ba2bd774068ad50351fb898076",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "9093",
+        "playXID": "7a4bf9ba2bd774068ad50351fb898076",
+        "streamId": "9093",
+        "dubPlayerSrc": "/dub-player/t/9093/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=7a4bf9ba2bd774068ad50351fb898076&abyssId=9093"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "9093",
+        "playXID": "7a4bf9ba2bd774068ad50351fb898076",
+        "streamId": "9093",
+        "dubPlayerSrc": "/dub-player/t/9093/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=7a4bf9ba2bd774068ad50351fb898076&abyssId=9093"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/7a4bf9ba2bd774068ad50351fb898076",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/7a4bf9ba2bd774068ad50351fb898076"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "9093",
+        "abyssId": "9093",
+        "playXID": "7a4bf9ba2bd774068ad50351fb898076",
+        "title": "BeyWheelz",
+        "season": 1,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "6CGzLAXt_"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "nG4PaL3dz"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/c7f01b52971832db4b9dd0a3ca8694ad/master.m3u8?md5=fUc_dDVOAlSyBb3Gs7zVzg&expires=1792167831",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/c7f01b52971832db4b9dd0a3ca8694ad/master.m3u8?md5=fUc_dDVOAlSyBb3Gs7zVzg&expires=1792167831",
+            "videoSource": "https://ravok.buzz/cdn/hls/c7f01b52971832db4b9dd0a3ca8694ad/master.m3u8?md5=fUc_dDVOAlSyBb3Gs7zVzg&expires=1792167831",
+            "videoImage": "https://as-cdn27.top/p/aFIVBLCo3qkFWuskTOjjISMACHTcT7BCGjw5vYXJGqn7dkJpo7qw-eN_vwrb1uIJIJw_GT9X0QgobraIzvmvJg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "7a4bf9ba2bd774068ad50351fb898076",
+                "streamUrl": "https://ravok.buzz/cdn/hls/c7f01b52971832db4b9dd0a3ca8694ad/master.m3u8?md5=fUc_dDVOAlSyBb3Gs7zVzg&expires=1792167831",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/c7f01b52971832db4b9dd0a3ca8694ad/master.m3u8?md5=fUc_dDVOAlSyBb3Gs7zVzg&expires=1792167831",
+                "videoSource": "https://ravok.buzz/cdn/hls/c7f01b52971832db4b9dd0a3ca8694ad/master.m3u8?md5=fUc_dDVOAlSyBb3Gs7zVzg&expires=1792167831",
+                "link": "https://ravok.buzz/cdn/hls/c7f01b52971832db4b9dd0a3ca8694ad/master.m3u8?md5=fUc_dDVOAlSyBb3Gs7zVzg&expires=1792167831",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/aFIVBLCo3qkFWuskTOjjISMACHTcT7BCGjw5vYXJGqn7dkJpo7qw-eN_vwrb1uIJIJw_GT9X0QgobraIzvmvJg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "6CGzLAXt_"
+        }
+      },
+      "fetched_at": "2026-10-16T14:24:01Z"
+    },
+    {
+      "id": "episode/beywheelz-1x9",
+      "episode_id": "episode/beywheelz-1x9",
+      "title": "New Generation!",
+      "episode_name": "New Generation!",
+      "episode_number": 9,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/4053/09.webp",
+      "abyssid": "9092",
+      "abyssId": "9092",
+      "playxid": "42cd63cb189c30ed03e42ce2c069566c",
+      "playXID": "42cd63cb189c30ed03e42ce2c069566c",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "9092",
+        "playXID": "42cd63cb189c30ed03e42ce2c069566c",
+        "streamId": "9092",
+        "dubPlayerSrc": "/dub-player/t/9092/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=42cd63cb189c30ed03e42ce2c069566c&abyssId=9092"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "9092",
+        "playXID": "42cd63cb189c30ed03e42ce2c069566c",
+        "streamId": "9092",
+        "dubPlayerSrc": "/dub-player/t/9092/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=42cd63cb189c30ed03e42ce2c069566c&abyssId=9092"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/42cd63cb189c30ed03e42ce2c069566c",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/42cd63cb189c30ed03e42ce2c069566c"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "9092",
+        "abyssId": "9092",
+        "playXID": "42cd63cb189c30ed03e42ce2c069566c",
+        "title": "BeyWheelz",
+        "season": 1,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "Rn9i27Rsql"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "uorATMtiT"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "Rn9i27Rsql"
+        }
+      },
+      "fetched_at": "2026-10-16T14:24:01Z"
+    },
+    {
+      "id": "episode/beywheelz-1x8",
+      "episode_id": "episode/beywheelz-1x8",
+      "title": "New Generation!",
+      "episode_name": "New Generation!",
+      "episode_number": 8,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/4053/08.webp",
+      "abyssid": "9091",
+      "abyssId": "9091",
+      "playxid": "d5d7f5bba709f5cbbe1f74977096feb3",
+      "playXID": "d5d7f5bba709f5cbbe1f74977096feb3",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "9091",
+        "playXID": "d5d7f5bba709f5cbbe1f74977096feb3",
+        "streamId": "9091",
+        "dubPlayerSrc": "/dub-player/t/9091/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d5d7f5bba709f5cbbe1f74977096feb3&abyssId=9091"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "9091",
+        "playXID": "d5d7f5bba709f5cbbe1f74977096feb3",
+        "streamId": "9091",
+        "dubPlayerSrc": "/dub-player/t/9091/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d5d7f5bba709f5cbbe1f74977096feb3&abyssId=9091"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/d5d7f5bba709f5cbbe1f74977096feb3",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/d5d7f5bba709f5cbbe1f74977096feb3"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "9091",
+        "abyssId": "9091",
+        "playXID": "d5d7f5bba709f5cbbe1f74977096feb3",
+        "title": "BeyWheelz",
+        "season": 1,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "F3OF4NpF-"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "mBQvEDIcn"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/79f5bfb2dcaa2bf38f38be9c84244dec/master.m3u8?md5=QnspyGMksgTW2mVRN6U3cw&expires=1792167831",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/79f5bfb2dcaa2bf38f38be9c84244dec/master.m3u8?md5=QnspyGMksgTW2mVRN6U3cw&expires=1792167831",
+            "videoSource": "https://ravok.buzz/cdn/hls/79f5bfb2dcaa2bf38f38be9c84244dec/master.m3u8?md5=QnspyGMksgTW2mVRN6U3cw&expires=1792167831",
+            "videoImage": "https://as-cdn29.top/p/Pnj2WriWCy8IYFkKpiWA31PF8Tf2tWP7RScaoBMcT2__kCh1oJAJF9e2UrocIvxdVENenkm9FdyUW2s60CVXKg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "d5d7f5bba709f5cbbe1f74977096feb3",
+                "streamUrl": "https://ravok.buzz/cdn/hls/79f5bfb2dcaa2bf38f38be9c84244dec/master.m3u8?md5=QnspyGMksgTW2mVRN6U3cw&expires=1792167831",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/79f5bfb2dcaa2bf38f38be9c84244dec/master.m3u8?md5=QnspyGMksgTW2mVRN6U3cw&expires=1792167831",
+                "videoSource": "https://ravok.buzz/cdn/hls/79f5bfb2dcaa2bf38f38be9c84244dec/master.m3u8?md5=QnspyGMksgTW2mVRN6U3cw&expires=1792167831",
+                "link": "https://ravok.buzz/cdn/hls/79f5bfb2dcaa2bf38f38be9c84244dec/master.m3u8?md5=QnspyGMksgTW2mVRN6U3cw&expires=1792167831",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/Pnj2WriWCy8IYFkKpiWA31PF8Tf2tWP7RScaoBMcT2__kCh1oJAJF9e2UrocIvxdVENenkm9FdyUW2s60CVXKg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "F3OF4NpF-"
+        }
+      },
+      "fetched_at": "2026-10-16T14:24:01Z"
+    },
+    {
+      "id": "episode/beywheelz-1x11",
+      "episode_id": "episode/beywheelz-1x11",
+      "title": "New Generation!",
+      "episode_name": "New Generation!",
+      "episode_number": 11,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/4053/11.webp",
+      "abyssid": "9094",
+      "abyssId": "9094",
+      "playxid": "fa84632d742f2729dc32ce8cb5d49733",
+      "playXID": "fa84632d742f2729dc32ce8cb5d49733",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "9094",
+        "playXID": "fa84632d742f2729dc32ce8cb5d49733",
+        "streamId": "9094",
+        "dubPlayerSrc": "/dub-player/t/9094/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=fa84632d742f2729dc32ce8cb5d49733&abyssId=9094"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "9094",
+        "playXID": "fa84632d742f2729dc32ce8cb5d49733",
+        "streamId": "9094",
+        "dubPlayerSrc": "/dub-player/t/9094/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=fa84632d742f2729dc32ce8cb5d49733&abyssId=9094"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/fa84632d742f2729dc32ce8cb5d49733",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/fa84632d742f2729dc32ce8cb5d49733"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "9094",
+        "abyssId": "9094",
+        "playXID": "fa84632d742f2729dc32ce8cb5d49733",
+        "title": "BeyWheelz",
+        "season": 1,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "SaNPNtrsA"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "_ojiNSsZ7"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/7484f955406f8f0fc7a87a0804f56bd9/master.m3u8?md5=nJVysC4LPBLyx9UdBSc7eg&expires=1792167833",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/7484f955406f8f0fc7a87a0804f56bd9/master.m3u8?md5=nJVysC4LPBLyx9UdBSc7eg&expires=1792167833",
+            "videoSource": "https://ravok.buzz/cdn/hls/7484f955406f8f0fc7a87a0804f56bd9/master.m3u8?md5=nJVysC4LPBLyx9UdBSc7eg&expires=1792167833",
+            "videoImage": "https://as-cdn27.top/p/nJ1uWTaJQLK_97XQo2fpxDBIPFCOCtZ3HTk5Of0HG8rvUsMgM_PQzG_Cfshu4tOf1RxrzK5SmNGyfV_eTfs5hw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "fa84632d742f2729dc32ce8cb5d49733",
+                "streamUrl": "https://ravok.buzz/cdn/hls/7484f955406f8f0fc7a87a0804f56bd9/master.m3u8?md5=nJVysC4LPBLyx9UdBSc7eg&expires=1792167833",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/7484f955406f8f0fc7a87a0804f56bd9/master.m3u8?md5=nJVysC4LPBLyx9UdBSc7eg&expires=1792167833",
+                "videoSource": "https://ravok.buzz/cdn/hls/7484f955406f8f0fc7a87a0804f56bd9/master.m3u8?md5=nJVysC4LPBLyx9UdBSc7eg&expires=1792167833",
+                "link": "https://ravok.buzz/cdn/hls/7484f955406f8f0fc7a87a0804f56bd9/master.m3u8?md5=nJVysC4LPBLyx9UdBSc7eg&expires=1792167833",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/nJ1uWTaJQLK_97XQo2fpxDBIPFCOCtZ3HTk5Of0HG8rvUsMgM_PQzG_Cfshu4tOf1RxrzK5SmNGyfV_eTfs5hw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "SaNPNtrsA"
+        }
+      },
+      "fetched_at": "2026-10-16T14:24:03Z"
+    },
+    {
+      "id": "episode/beywheelz-1x12",
+      "episode_id": "episode/beywheelz-1x12",
+      "title": "New Generation!",
+      "episode_name": "New Generation!",
+      "episode_number": 12,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/4053/12.webp",
+      "abyssid": "9095",
+      "abyssId": "9095",
+      "playxid": "7371364b3d72ac9a3ed8638e6f0be2c9",
+      "playXID": "7371364b3d72ac9a3ed8638e6f0be2c9",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "9095",
+        "playXID": "7371364b3d72ac9a3ed8638e6f0be2c9",
+        "streamId": "9095",
+        "dubPlayerSrc": "/dub-player/t/9095/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=7371364b3d72ac9a3ed8638e6f0be2c9&abyssId=9095"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "9095",
+        "playXID": "7371364b3d72ac9a3ed8638e6f0be2c9",
+        "streamId": "9095",
+        "dubPlayerSrc": "/dub-player/t/9095/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=7371364b3d72ac9a3ed8638e6f0be2c9&abyssId=9095"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/7371364b3d72ac9a3ed8638e6f0be2c9",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/7371364b3d72ac9a3ed8638e6f0be2c9"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "9095",
+        "abyssId": "9095",
+        "playXID": "7371364b3d72ac9a3ed8638e6f0be2c9",
+        "title": "BeyWheelz",
+        "season": 1,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "pzaGpssrJ"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "S8hFRhOkO"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/ab9ac4dc9d86287ee28ba9ce45997837/master.m3u8?md5=R2M6YPkFxP4cFx8No4DRlg&expires=1792167833",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/ab9ac4dc9d86287ee28ba9ce45997837/master.m3u8?md5=R2M6YPkFxP4cFx8No4DRlg&expires=1792167833",
+            "videoSource": "https://ravok.buzz/cdn/hls/ab9ac4dc9d86287ee28ba9ce45997837/master.m3u8?md5=R2M6YPkFxP4cFx8No4DRlg&expires=1792167833",
+            "videoImage": "https://as-cdn29.top/p/tbj0un3MKTObFZRPXkClG6tLBx0mTDE3tIn9VYpVFE5mdkJ-8NP1LubhYiGRzBRSOpIut0wKjxBL4uSPn4OyAw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "7371364b3d72ac9a3ed8638e6f0be2c9",
+                "streamUrl": "https://ravok.buzz/cdn/hls/ab9ac4dc9d86287ee28ba9ce45997837/master.m3u8?md5=R2M6YPkFxP4cFx8No4DRlg&expires=1792167833",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/ab9ac4dc9d86287ee28ba9ce45997837/master.m3u8?md5=R2M6YPkFxP4cFx8No4DRlg&expires=1792167833",
+                "videoSource": "https://ravok.buzz/cdn/hls/ab9ac4dc9d86287ee28ba9ce45997837/master.m3u8?md5=R2M6YPkFxP4cFx8No4DRlg&expires=1792167833",
+                "link": "https://ravok.buzz/cdn/hls/ab9ac4dc9d86287ee28ba9ce45997837/master.m3u8?md5=R2M6YPkFxP4cFx8No4DRlg&expires=1792167833",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/tbj0un3MKTObFZRPXkClG6tLBx0mTDE3tIn9VYpVFE5mdkJ-8NP1LubhYiGRzBRSOpIut0wKjxBL4uSPn4OyAw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "pzaGpssrJ"
+        }
+      },
+      "fetched_at": "2026-10-16T14:24:03Z"
+    },
+    {
+      "id": "episode/beywheelz-1x13",
+      "episode_id": "episode/beywheelz-1x13",
+      "title": "New Generation!",
+      "episode_name": "New Generation!",
+      "episode_number": 13,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/4053/13.webp",
+      "abyssid": "9096",
+      "abyssId": "9096",
+      "playxid": "63bfd6e8f26d1d3537f4c5038264ef36",
+      "playXID": "63bfd6e8f26d1d3537f4c5038264ef36",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "9096",
+        "playXID": "63bfd6e8f26d1d3537f4c5038264ef36",
+        "streamId": "9096",
+        "dubPlayerSrc": "/dub-player/t/9096/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=63bfd6e8f26d1d3537f4c5038264ef36&abyssId=9096"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "9096",
+        "playXID": "63bfd6e8f26d1d3537f4c5038264ef36",
+        "streamId": "9096",
+        "dubPlayerSrc": "/dub-player/t/9096/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=63bfd6e8f26d1d3537f4c5038264ef36&abyssId=9096"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/63bfd6e8f26d1d3537f4c5038264ef36",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/63bfd6e8f26d1d3537f4c5038264ef36"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "9096",
+        "abyssId": "9096",
+        "playXID": "63bfd6e8f26d1d3537f4c5038264ef36",
+        "title": "BeyWheelz",
+        "season": 1,
+        "episode": 13,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "QrvXIn5-k"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "bUIP4NEzi"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/a8d77db9225f65efd68d1216af7c10c3/master.m3u8?md5=DdRA0UKmueZneb0-YoBMpg&expires=1792167833",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/a8d77db9225f65efd68d1216af7c10c3/master.m3u8?md5=DdRA0UKmueZneb0-YoBMpg&expires=1792167833",
+            "videoSource": "https://ravok.buzz/cdn/hls/a8d77db9225f65efd68d1216af7c10c3/master.m3u8?md5=DdRA0UKmueZneb0-YoBMpg&expires=1792167833",
+            "videoImage": "https://as-cdn27.top/p/YZRGSK77et1I-VmYcckecBcO27unY8oa8lIMc-N1GsN8Of_8bGNfblGbnXySCS-dbbe30Wxs-rkKwilvKiPlQw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "63bfd6e8f26d1d3537f4c5038264ef36",
+                "streamUrl": "https://ravok.buzz/cdn/hls/a8d77db9225f65efd68d1216af7c10c3/master.m3u8?md5=DdRA0UKmueZneb0-YoBMpg&expires=1792167833",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/a8d77db9225f65efd68d1216af7c10c3/master.m3u8?md5=DdRA0UKmueZneb0-YoBMpg&expires=1792167833",
+                "videoSource": "https://ravok.buzz/cdn/hls/a8d77db9225f65efd68d1216af7c10c3/master.m3u8?md5=DdRA0UKmueZneb0-YoBMpg&expires=1792167833",
+                "link": "https://ravok.buzz/cdn/hls/a8d77db9225f65efd68d1216af7c10c3/master.m3u8?md5=DdRA0UKmueZneb0-YoBMpg&expires=1792167833",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/YZRGSK77et1I-VmYcckecBcO27unY8oa8lIMc-N1GsN8Of_8bGNfblGbnXySCS-dbbe30Wxs-rkKwilvKiPlQw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "QrvXIn5-k"
+        }
+      },
+      "fetched_at": "2026-10-16T14:24:03Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T14:23:57Z",
+  "updated_at": "2026-10-16T14:24:03Z"
+}

@@ -1,0 +1,2954 @@
+{
+  "id": "series/demon-lord-retry",
+  "series_name": "Demon Lord, Retry!",
+  "title": "Demon Lord, Retry!",
+  "banner": "https://image.tmdb.org/t/p/w1280/fHd0sO7jgwSqYkzsUXcWTDeMFSn.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/d5hXGaqit05qhYP4cqZs0BUrLG.jpg",
+  "genra": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Fantasy",
+    "Isekai"
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Fantasy",
+    "Isekai"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Japanese",
+    "Tamil",
+    "Telugu"
+  ],
+  "synopsis": "Akira Oono is an ordinary working adult who manages the MMORPG Infinity Game. Fifteen years after creating the game, Oono decides to shut the servers down once and for all. However, as the clock strikes midnight, he somehow finds himself in the body of middle-aged Hakuto Kunai, Infinity Game's Demon Lord!",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 2,
+  "totalEpisodes": 24,
+  "seasons": [
+    {
+      "season": 2,
+      "name": "Season 2",
+      "episodesCount": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Demon Lord's Descent",
+          "id": "episode/demon-lord-retry-2x1",
+          "image": "https://img.watchanimeworld.one/image/1062/2/1.webp",
+          "season": 2
+        },
+        {
+          "episode": 2,
+          "title": "Golden Luna",
+          "id": "episode/demon-lord-retry-2x2",
+          "image": "https://img.watchanimeworld.one/image/1062/2/2.webp",
+          "season": 2
+        },
+        {
+          "episode": 3,
+          "title": "Killer Queen",
+          "id": "episode/demon-lord-retry-2x3",
+          "image": "https://img.watchanimeworld.one/image/1062/2/3.webp",
+          "season": 2
+        },
+        {
+          "episode": 4,
+          "title": "Yu Kirino",
+          "id": "episode/demon-lord-retry-2x4",
+          "image": "https://img.watchanimeworld.one/image/1062/2/4.webp",
+          "season": 2
+        },
+        {
+          "episode": 5,
+          "title": "Merciless Invasion",
+          "id": "episode/demon-lord-retry-2x5",
+          "image": "https://img.watchanimeworld.one/image/1062/2/5.webp",
+          "season": 2
+        },
+        {
+          "episode": 6,
+          "title": "Turmoil in the Capital",
+          "id": "episode/demon-lord-retry-2x6",
+          "image": "https://img.watchanimeworld.one/image/1062/2/6.webp",
+          "season": 2
+        },
+        {
+          "episode": 7,
+          "title": "Demon Lord, Retry! 2x7",
+          "id": "episode/demon-lord-retry-2x7",
+          "image": "https://img.watchanimeworld.one/image/1062/2/7.webp",
+          "season": 2
+        },
+        {
+          "episode": 8,
+          "title": "Demon Lord, Retry! 2x8",
+          "id": "episode/demon-lord-retry-2x8",
+          "image": "https://img.watchanimeworld.one/image/1062/2/8.webp",
+          "season": 2
+        },
+        {
+          "episode": 9,
+          "title": "Demon Lord, Retry! 2x9",
+          "id": "episode/demon-lord-retry-2x9",
+          "image": "https://img.watchanimeworld.one/image/1062/2/9.webp",
+          "season": 2
+        },
+        {
+          "episode": 10,
+          "title": "Demon Lord, Retry! 2x10",
+          "id": "episode/demon-lord-retry-2x10",
+          "image": "https://img.watchanimeworld.one/image/1062/2/10.webp",
+          "season": 2
+        },
+        {
+          "episode": 11,
+          "title": "Demon Lord, Retry! 2x11",
+          "id": "episode/demon-lord-retry-2x11",
+          "image": "https://img.watchanimeworld.one/image/1062/2/11.webp",
+          "season": 2
+        },
+        {
+          "episode": 12,
+          "title": "Demon Lord, Retry! 2x12",
+          "id": "episode/demon-lord-retry-2x12",
+          "image": "https://img.watchanimeworld.one/image/1062/2/12.webp",
+          "season": 2
+        }
+      ]
+    },
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Demon Lord, Retry! 1x1",
+          "id": "episode/demon-lord-retry-1x1",
+          "image": "https://img.watchanimeworld.one/img/thumb_1062_s1e1.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "Demon Lord, Retry! 1x2",
+          "id": "episode/demon-lord-retry-1x2",
+          "image": "https://img.watchanimeworld.one/img/thumb_1062_s1e2.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "Demon Lord, Retry! 1x3",
+          "id": "episode/demon-lord-retry-1x3",
+          "image": "https://img.watchanimeworld.one/img/thumb_1062_s1e3.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "Demon Lord, Retry! 1x4",
+          "id": "episode/demon-lord-retry-1x4",
+          "image": "https://img.watchanimeworld.one/img/thumb_1062_s1e4.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "Demon Lord, Retry! 1x5",
+          "id": "episode/demon-lord-retry-1x5",
+          "image": "https://img.watchanimeworld.one/img/thumb_1062_s1e5.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "Demon Lord, Retry! 1x6",
+          "id": "episode/demon-lord-retry-1x6",
+          "image": "https://img.watchanimeworld.one/img/thumb_1062_s1e6.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "Demon Lord, Retry! 1x7",
+          "id": "episode/demon-lord-retry-1x7",
+          "image": "https://img.watchanimeworld.one/img/thumb_1062_s1e7.webp",
+          "season": 1
+        },
+        {
+          "episode": 8,
+          "title": "Demon Lord, Retry! 1x8",
+          "id": "episode/demon-lord-retry-1x8",
+          "image": "https://img.watchanimeworld.one/img/thumb_1062_s1e8.webp",
+          "season": 1
+        },
+        {
+          "episode": 9,
+          "title": "Demon Lord, Retry! 1x9",
+          "id": "episode/demon-lord-retry-1x9",
+          "image": "https://img.watchanimeworld.one/img/thumb_1062_s1e9.webp",
+          "season": 1
+        },
+        {
+          "episode": 10,
+          "title": "Demon Lord, Retry! 1x10",
+          "id": "episode/demon-lord-retry-1x10",
+          "image": "https://img.watchanimeworld.one/img/thumb_1062_s1e10.webp",
+          "season": 1
+        },
+        {
+          "episode": 11,
+          "title": "Demon Lord, Retry! 1x11",
+          "id": "episode/demon-lord-retry-1x11",
+          "image": "https://img.watchanimeworld.one/img/thumb_1062_s1e11.webp",
+          "season": 1
+        },
+        {
+          "episode": 12,
+          "title": "Demon Lord, Retry! 1x12",
+          "id": "episode/demon-lord-retry-1x12",
+          "image": "https://img.watchanimeworld.one/img/thumb_1062_s1e12.webp",
+          "season": 1
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/demon-lord-retry-2x2",
+      "episode_id": "episode/demon-lord-retry-2x2",
+      "title": "Demon Lord's Descent",
+      "episode_name": "Demon Lord's Descent",
+      "episode_number": 2,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/image/1062/2/2.webp",
+      "abyssid": "11186",
+      "abyssId": "11186",
+      "playxid": "20d135f0f28185b84a4cf7aa51f29500",
+      "playXID": "20d135f0f28185b84a4cf7aa51f29500",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "11186",
+        "playXID": "20d135f0f28185b84a4cf7aa51f29500",
+        "streamId": "11186",
+        "dubPlayerSrc": "/dub-player/t/11186/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=20d135f0f28185b84a4cf7aa51f29500&abyssId=11186"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "11186",
+        "playXID": "20d135f0f28185b84a4cf7aa51f29500",
+        "streamId": "11186",
+        "dubPlayerSrc": "/dub-player/t/11186/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=20d135f0f28185b84a4cf7aa51f29500&abyssId=11186"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/20d135f0f28185b84a4cf7aa51f29500",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/20d135f0f28185b84a4cf7aa51f29500"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "11186",
+        "abyssId": "11186",
+        "playXID": "20d135f0f28185b84a4cf7aa51f29500",
+        "title": "Demon Lord, Retry!",
+        "season": 2,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "Ms9khyuJr"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "kWeLkDT4A"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "zE5WV9j9-"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "EuCt6U3vB"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "uxQWTz2-CN"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/f6b1be0b010fe6db91810d2720edd467/master.m3u8?md5=agu2IowUvrSZYSq0_2dxwg&expires=1792167159",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/f6b1be0b010fe6db91810d2720edd467/master.m3u8?md5=agu2IowUvrSZYSq0_2dxwg&expires=1792167159",
+            "videoSource": "https://ravok.buzz/cdn/hls/f6b1be0b010fe6db91810d2720edd467/master.m3u8?md5=agu2IowUvrSZYSq0_2dxwg&expires=1792167159",
+            "videoImage": "https://as-cdn27.top/p/U4OEgNHcN0LKRKTGI1AO_0RUlamklVnyWnwL6CHy0zHyHyv4IW1DNsPrC16T6u1ZZ8GIpUmkQKhn7VIGccA85Q.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "20d135f0f28185b84a4cf7aa51f29500",
+                "streamUrl": "https://ravok.buzz/cdn/hls/f6b1be0b010fe6db91810d2720edd467/master.m3u8?md5=agu2IowUvrSZYSq0_2dxwg&expires=1792167159",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/f6b1be0b010fe6db91810d2720edd467/master.m3u8?md5=agu2IowUvrSZYSq0_2dxwg&expires=1792167159",
+                "videoSource": "https://ravok.buzz/cdn/hls/f6b1be0b010fe6db91810d2720edd467/master.m3u8?md5=agu2IowUvrSZYSq0_2dxwg&expires=1792167159",
+                "link": "https://ravok.buzz/cdn/hls/f6b1be0b010fe6db91810d2720edd467/master.m3u8?md5=agu2IowUvrSZYSq0_2dxwg&expires=1792167159",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/U4OEgNHcN0LKRKTGI1AO_0RUlamklVnyWnwL6CHy0zHyHyv4IW1DNsPrC16T6u1ZZ8GIpUmkQKhn7VIGccA85Q.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "Ms9khyuJr"
+        }
+      },
+      "fetched_at": "2026-10-16T14:12:49Z"
+    },
+    {
+      "id": "episode/demon-lord-retry-2x3",
+      "episode_id": "episode/demon-lord-retry-2x3",
+      "title": "Demon Lord's Descent",
+      "episode_name": "Demon Lord's Descent",
+      "episode_number": 3,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/image/1062/2/3.webp",
+      "abyssid": "11185",
+      "abyssId": "11185",
+      "playxid": "9c3b1830513cc3b8fc4b76635d32e692",
+      "playXID": "9c3b1830513cc3b8fc4b76635d32e692",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "11185",
+        "playXID": "9c3b1830513cc3b8fc4b76635d32e692",
+        "streamId": "11185",
+        "dubPlayerSrc": "/dub-player/t/11185/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9c3b1830513cc3b8fc4b76635d32e692&abyssId=11185"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "11185",
+        "playXID": "9c3b1830513cc3b8fc4b76635d32e692",
+        "streamId": "11185",
+        "dubPlayerSrc": "/dub-player/t/11185/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9c3b1830513cc3b8fc4b76635d32e692&abyssId=11185"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/9c3b1830513cc3b8fc4b76635d32e692",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/9c3b1830513cc3b8fc4b76635d32e692"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "11185",
+        "abyssId": "11185",
+        "playXID": "9c3b1830513cc3b8fc4b76635d32e692",
+        "title": "Demon Lord, Retry!",
+        "season": 2,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "aNS6Jh3vE"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "NGxlTh17P"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "v1IfyHn5L"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "CMT3oShnR"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "M3OmCBjbp"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/d71275a3b0fd54fc77565d255e63c9d4/master.m3u8?md5=uLS59mduVnglaUF7jg63yw&expires=1792167159",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/d71275a3b0fd54fc77565d255e63c9d4/master.m3u8?md5=uLS59mduVnglaUF7jg63yw&expires=1792167159",
+            "videoSource": "https://ravok.buzz/cdn/hls/d71275a3b0fd54fc77565d255e63c9d4/master.m3u8?md5=uLS59mduVnglaUF7jg63yw&expires=1792167159",
+            "videoImage": "https://as-cdn27.top/p/ZjYrHp5SNXjCWFv8xhUiw11fWLQhRCMmKelkx8Q2OFg6P6DFVbqQqBE6YVskqkG7hs3h_qE_CtPVoJkU466VLQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "9c3b1830513cc3b8fc4b76635d32e692",
+                "streamUrl": "https://ravok.buzz/cdn/hls/d71275a3b0fd54fc77565d255e63c9d4/master.m3u8?md5=uLS59mduVnglaUF7jg63yw&expires=1792167159",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/d71275a3b0fd54fc77565d255e63c9d4/master.m3u8?md5=uLS59mduVnglaUF7jg63yw&expires=1792167159",
+                "videoSource": "https://ravok.buzz/cdn/hls/d71275a3b0fd54fc77565d255e63c9d4/master.m3u8?md5=uLS59mduVnglaUF7jg63yw&expires=1792167159",
+                "link": "https://ravok.buzz/cdn/hls/d71275a3b0fd54fc77565d255e63c9d4/master.m3u8?md5=uLS59mduVnglaUF7jg63yw&expires=1792167159",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/ZjYrHp5SNXjCWFv8xhUiw11fWLQhRCMmKelkx8Q2OFg6P6DFVbqQqBE6YVskqkG7hs3h_qE_CtPVoJkU466VLQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "aNS6Jh3vE"
+        }
+      },
+      "fetched_at": "2026-10-16T14:12:49Z"
+    },
+    {
+      "id": "episode/demon-lord-retry-2x1",
+      "episode_id": "episode/demon-lord-retry-2x1",
+      "title": "Demon Lord's Descent",
+      "episode_name": "Demon Lord's Descent",
+      "episode_number": 1,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/image/1062/2/1.webp",
+      "abyssid": "11187",
+      "abyssId": "11187",
+      "playxid": "b59c67bf196a4758191e42f76670ceba",
+      "playXID": "b59c67bf196a4758191e42f76670ceba",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "11187",
+        "playXID": "b59c67bf196a4758191e42f76670ceba",
+        "streamId": "11187",
+        "dubPlayerSrc": "/dub-player/t/11187/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b59c67bf196a4758191e42f76670ceba&abyssId=11187"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "11187",
+        "playXID": "b59c67bf196a4758191e42f76670ceba",
+        "streamId": "11187",
+        "dubPlayerSrc": "/dub-player/t/11187/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b59c67bf196a4758191e42f76670ceba&abyssId=11187"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/b59c67bf196a4758191e42f76670ceba",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/b59c67bf196a4758191e42f76670ceba"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "11187",
+        "abyssId": "11187",
+        "playXID": "b59c67bf196a4758191e42f76670ceba",
+        "title": "Demon Lord, Retry!",
+        "season": 2,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "SfMs3EBPi"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "S0UqrgfpS"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "VneKewBB2"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "hYKGBsSHo"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "lt9mUhmXS"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/d4afe7e88861bf773db9cc2f72f9f447/master.m3u8?md5=Frn8oE_IdeZ79ldbnF5Gxw&expires=1792167159",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/d4afe7e88861bf773db9cc2f72f9f447/master.m3u8?md5=Frn8oE_IdeZ79ldbnF5Gxw&expires=1792167159",
+            "videoSource": "https://ravok.buzz/cdn/hls/d4afe7e88861bf773db9cc2f72f9f447/master.m3u8?md5=Frn8oE_IdeZ79ldbnF5Gxw&expires=1792167159",
+            "videoImage": "https://as-cdn27.top/p/unHubPmGmV1gkgI3cbOJUUh8OCbrSnupRHiKle-XFuivrP3tkvPjxWD6UuUAKv3KG1g0CEl_VQs6hvX_YsEDAg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "b59c67bf196a4758191e42f76670ceba",
+                "streamUrl": "https://ravok.buzz/cdn/hls/d4afe7e88861bf773db9cc2f72f9f447/master.m3u8?md5=Frn8oE_IdeZ79ldbnF5Gxw&expires=1792167159",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/d4afe7e88861bf773db9cc2f72f9f447/master.m3u8?md5=Frn8oE_IdeZ79ldbnF5Gxw&expires=1792167159",
+                "videoSource": "https://ravok.buzz/cdn/hls/d4afe7e88861bf773db9cc2f72f9f447/master.m3u8?md5=Frn8oE_IdeZ79ldbnF5Gxw&expires=1792167159",
+                "link": "https://ravok.buzz/cdn/hls/d4afe7e88861bf773db9cc2f72f9f447/master.m3u8?md5=Frn8oE_IdeZ79ldbnF5Gxw&expires=1792167159",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/unHubPmGmV1gkgI3cbOJUUh8OCbrSnupRHiKle-XFuivrP3tkvPjxWD6UuUAKv3KG1g0CEl_VQs6hvX_YsEDAg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "SfMs3EBPi"
+        }
+      },
+      "fetched_at": "2026-10-16T14:12:49Z"
+    },
+    {
+      "id": "episode/demon-lord-retry-2x4",
+      "episode_id": "episode/demon-lord-retry-2x4",
+      "title": "Demon Lord's Descent",
+      "episode_name": "Demon Lord's Descent",
+      "episode_number": 4,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/image/1062/2/4.webp",
+      "abyssid": "11184",
+      "abyssId": "11184",
+      "playxid": "d6ef5f7fa914c19931a55bb262ec879c",
+      "playXID": "d6ef5f7fa914c19931a55bb262ec879c",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "11184",
+        "playXID": "d6ef5f7fa914c19931a55bb262ec879c",
+        "streamId": "11184",
+        "dubPlayerSrc": "/dub-player/t/11184/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d6ef5f7fa914c19931a55bb262ec879c&abyssId=11184"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "11184",
+        "playXID": "d6ef5f7fa914c19931a55bb262ec879c",
+        "streamId": "11184",
+        "dubPlayerSrc": "/dub-player/t/11184/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d6ef5f7fa914c19931a55bb262ec879c&abyssId=11184"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/d6ef5f7fa914c19931a55bb262ec879c",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/d6ef5f7fa914c19931a55bb262ec879c"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "11184",
+        "abyssId": "11184",
+        "playXID": "d6ef5f7fa914c19931a55bb262ec879c",
+        "title": "Demon Lord, Retry!",
+        "season": 2,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "0zOS2l1U6"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "a4FXT7uMa"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "8wfX9J28K"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "XfAPZtlof"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "T9mFFU-3n"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/ebbd76cceb985969d09b132fed731859/master.m3u8?md5=qJ2JPoVZIl0cDuRLTJiurw&expires=1792167159",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/ebbd76cceb985969d09b132fed731859/master.m3u8?md5=qJ2JPoVZIl0cDuRLTJiurw&expires=1792167159",
+            "videoSource": "https://ravok.buzz/cdn/hls/ebbd76cceb985969d09b132fed731859/master.m3u8?md5=qJ2JPoVZIl0cDuRLTJiurw&expires=1792167159",
+            "videoImage": "https://as-cdn29.top/p/mvuq2VG3fQPMOid0IxZJ4DZ76pKVFJ29H4Fek-h8pOPAWtZiCAY_Q-oDca_0yygipmamJJM45papp95foipW_g.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "d6ef5f7fa914c19931a55bb262ec879c",
+                "streamUrl": "https://ravok.buzz/cdn/hls/ebbd76cceb985969d09b132fed731859/master.m3u8?md5=qJ2JPoVZIl0cDuRLTJiurw&expires=1792167159",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/ebbd76cceb985969d09b132fed731859/master.m3u8?md5=qJ2JPoVZIl0cDuRLTJiurw&expires=1792167159",
+                "videoSource": "https://ravok.buzz/cdn/hls/ebbd76cceb985969d09b132fed731859/master.m3u8?md5=qJ2JPoVZIl0cDuRLTJiurw&expires=1792167159",
+                "link": "https://ravok.buzz/cdn/hls/ebbd76cceb985969d09b132fed731859/master.m3u8?md5=qJ2JPoVZIl0cDuRLTJiurw&expires=1792167159",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/mvuq2VG3fQPMOid0IxZJ4DZ76pKVFJ29H4Fek-h8pOPAWtZiCAY_Q-oDca_0yygipmamJJM45papp95foipW_g.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "0zOS2l1U6"
+        }
+      },
+      "fetched_at": "2026-10-16T14:12:49Z"
+    },
+    {
+      "id": "episode/demon-lord-retry-2x5",
+      "episode_id": "episode/demon-lord-retry-2x5",
+      "title": "Demon Lord's Descent",
+      "episode_name": "Demon Lord's Descent",
+      "episode_number": 5,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/image/1062/2/5.webp",
+      "abyssid": "11464",
+      "abyssId": "11464",
+      "playxid": "eeb69a3cb92300456b6a5f4162093851",
+      "playXID": "eeb69a3cb92300456b6a5f4162093851",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "11464",
+        "playXID": "eeb69a3cb92300456b6a5f4162093851",
+        "streamId": "11464",
+        "dubPlayerSrc": "/dub-player/t/11464/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=eeb69a3cb92300456b6a5f4162093851&abyssId=11464"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "11464",
+        "playXID": "eeb69a3cb92300456b6a5f4162093851",
+        "streamId": "11464",
+        "dubPlayerSrc": "/dub-player/t/11464/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=eeb69a3cb92300456b6a5f4162093851&abyssId=11464"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/eeb69a3cb92300456b6a5f4162093851",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/eeb69a3cb92300456b6a5f4162093851"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "11464",
+        "abyssId": "11464",
+        "playXID": "eeb69a3cb92300456b6a5f4162093851",
+        "title": "Demon Lord, Retry!",
+        "season": 2,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "LhDTOWQ9Z"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "upcxpK7xA"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "mjrHlHyAD"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "HWvorcXfE"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "fCqEKwtmn"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/2918e30d39a3a598fc5186b09058dc73/master.m3u8?md5=tq5o-Y3_h4YWzpZP0rI_JA&expires=1792167160",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/2918e30d39a3a598fc5186b09058dc73/master.m3u8?md5=tq5o-Y3_h4YWzpZP0rI_JA&expires=1792167160",
+            "videoSource": "https://ravok.buzz/cdn/hls/2918e30d39a3a598fc5186b09058dc73/master.m3u8?md5=tq5o-Y3_h4YWzpZP0rI_JA&expires=1792167160",
+            "videoImage": "https://as-cdn29.top/p/5vOx5Np9-pFBqtzs6JljFtPgh26cOGPVB6_5JyzwqqhDSsWJi2WYSqHDhGsI9eczFAxHtbCCTQ5HrvIz8z9Shg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "eeb69a3cb92300456b6a5f4162093851",
+                "streamUrl": "https://ravok.buzz/cdn/hls/2918e30d39a3a598fc5186b09058dc73/master.m3u8?md5=tq5o-Y3_h4YWzpZP0rI_JA&expires=1792167160",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/2918e30d39a3a598fc5186b09058dc73/master.m3u8?md5=tq5o-Y3_h4YWzpZP0rI_JA&expires=1792167160",
+                "videoSource": "https://ravok.buzz/cdn/hls/2918e30d39a3a598fc5186b09058dc73/master.m3u8?md5=tq5o-Y3_h4YWzpZP0rI_JA&expires=1792167160",
+                "link": "https://ravok.buzz/cdn/hls/2918e30d39a3a598fc5186b09058dc73/master.m3u8?md5=tq5o-Y3_h4YWzpZP0rI_JA&expires=1792167160",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/5vOx5Np9-pFBqtzs6JljFtPgh26cOGPVB6_5JyzwqqhDSsWJi2WYSqHDhGsI9eczFAxHtbCCTQ5HrvIz8z9Shg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "LhDTOWQ9Z"
+        }
+      },
+      "fetched_at": "2026-10-16T14:12:50Z"
+    },
+    {
+      "id": "episode/demon-lord-retry-2x8",
+      "episode_id": "episode/demon-lord-retry-2x8",
+      "title": "Demon Lord's Descent",
+      "episode_name": "Demon Lord's Descent",
+      "episode_number": 8,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/image/1062/2/8.webp",
+      "abyssid": "11811",
+      "abyssId": "11811",
+      "playxid": "192fc044e74dffea144f9ac5dc9f3395",
+      "playXID": "192fc044e74dffea144f9ac5dc9f3395",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "11811",
+        "playXID": "192fc044e74dffea144f9ac5dc9f3395",
+        "streamId": "11811",
+        "dubPlayerSrc": "/dub-player/t/11811/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=192fc044e74dffea144f9ac5dc9f3395&abyssId=11811"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "11811",
+        "playXID": "192fc044e74dffea144f9ac5dc9f3395",
+        "streamId": "11811",
+        "dubPlayerSrc": "/dub-player/t/11811/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=192fc044e74dffea144f9ac5dc9f3395&abyssId=11811"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/192fc044e74dffea144f9ac5dc9f3395",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/192fc044e74dffea144f9ac5dc9f3395"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "11811",
+        "abyssId": "11811",
+        "playXID": "192fc044e74dffea144f9ac5dc9f3395",
+        "title": "Demon Lord, Retry!",
+        "season": 2,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "3EbXw50VQ"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "EIZ-MCZXV"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "1gJBRQvdsS"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "dwsZPxB8p"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "SNSEvHqyp"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/242318a349045a4cc1dcbabe6ed46393/master.m3u8?md5=7P7MLxV9UGksv1ihGjCygQ&expires=1792167161",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/242318a349045a4cc1dcbabe6ed46393/master.m3u8?md5=7P7MLxV9UGksv1ihGjCygQ&expires=1792167161",
+            "videoSource": "https://ravok.buzz/cdn/hls/242318a349045a4cc1dcbabe6ed46393/master.m3u8?md5=7P7MLxV9UGksv1ihGjCygQ&expires=1792167161",
+            "videoImage": "https://as-cdn28.top/p/cSxpOzG3xTrGmZTXS3LCK1Oa0vgaR3hxUmBIIXDuLuFrFVa2SADVNoecadZ6cGDlJM42GBJ_ix0kQT0w5e99rA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "192fc044e74dffea144f9ac5dc9f3395",
+                "streamUrl": "https://ravok.buzz/cdn/hls/242318a349045a4cc1dcbabe6ed46393/master.m3u8?md5=7P7MLxV9UGksv1ihGjCygQ&expires=1792167161",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/242318a349045a4cc1dcbabe6ed46393/master.m3u8?md5=7P7MLxV9UGksv1ihGjCygQ&expires=1792167161",
+                "videoSource": "https://ravok.buzz/cdn/hls/242318a349045a4cc1dcbabe6ed46393/master.m3u8?md5=7P7MLxV9UGksv1ihGjCygQ&expires=1792167161",
+                "link": "https://ravok.buzz/cdn/hls/242318a349045a4cc1dcbabe6ed46393/master.m3u8?md5=7P7MLxV9UGksv1ihGjCygQ&expires=1792167161",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/cSxpOzG3xTrGmZTXS3LCK1Oa0vgaR3hxUmBIIXDuLuFrFVa2SADVNoecadZ6cGDlJM42GBJ_ix0kQT0w5e99rA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "3EbXw50VQ"
+        }
+      },
+      "fetched_at": "2026-10-16T14:12:51Z"
+    },
+    {
+      "id": "episode/demon-lord-retry-2x7",
+      "episode_id": "episode/demon-lord-retry-2x7",
+      "title": "Demon Lord's Descent",
+      "episode_name": "Demon Lord's Descent",
+      "episode_number": 7,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/image/1062/2/7.webp",
+      "abyssid": "11623",
+      "abyssId": "11623",
+      "playxid": "f2201f5191c4e92cc5af043eebfd0946",
+      "playXID": "f2201f5191c4e92cc5af043eebfd0946",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "11623",
+        "playXID": "f2201f5191c4e92cc5af043eebfd0946",
+        "streamId": "11623",
+        "dubPlayerSrc": "/dub-player/t/11623/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f2201f5191c4e92cc5af043eebfd0946&abyssId=11623"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "11623",
+        "playXID": "f2201f5191c4e92cc5af043eebfd0946",
+        "streamId": "11623",
+        "dubPlayerSrc": "/dub-player/t/11623/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f2201f5191c4e92cc5af043eebfd0946&abyssId=11623"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/f2201f5191c4e92cc5af043eebfd0946",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/f2201f5191c4e92cc5af043eebfd0946"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "11623",
+        "abyssId": "11623",
+        "playXID": "f2201f5191c4e92cc5af043eebfd0946",
+        "title": "Demon Lord, Retry!",
+        "season": 2,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "ZX0_zvbvo"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "I3uu5cRSS"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "eNPbKS5S6"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "GGyrVN9NZ"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "30Rx0ggOo"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/25fd5ee32d0ab403482630699e9985b1/master.m3u8?md5=gfs5apC_bZpf2DWrrXSg2w&expires=1792167161",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/25fd5ee32d0ab403482630699e9985b1/master.m3u8?md5=gfs5apC_bZpf2DWrrXSg2w&expires=1792167161",
+            "videoSource": "https://ravok.buzz/cdn/hls/25fd5ee32d0ab403482630699e9985b1/master.m3u8?md5=gfs5apC_bZpf2DWrrXSg2w&expires=1792167161",
+            "videoImage": "https://as-cdn28.top/p/Olp-InRW6kE3pmWAt4ly_JACbbXawAuBNP8hrygfHNmErztvYaHWwopBknZeHN5Z5pN1yVjizkjrhJLTPLCzqg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "f2201f5191c4e92cc5af043eebfd0946",
+                "streamUrl": "https://ravok.buzz/cdn/hls/25fd5ee32d0ab403482630699e9985b1/master.m3u8?md5=gfs5apC_bZpf2DWrrXSg2w&expires=1792167161",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/25fd5ee32d0ab403482630699e9985b1/master.m3u8?md5=gfs5apC_bZpf2DWrrXSg2w&expires=1792167161",
+                "videoSource": "https://ravok.buzz/cdn/hls/25fd5ee32d0ab403482630699e9985b1/master.m3u8?md5=gfs5apC_bZpf2DWrrXSg2w&expires=1792167161",
+                "link": "https://ravok.buzz/cdn/hls/25fd5ee32d0ab403482630699e9985b1/master.m3u8?md5=gfs5apC_bZpf2DWrrXSg2w&expires=1792167161",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/Olp-InRW6kE3pmWAt4ly_JACbbXawAuBNP8hrygfHNmErztvYaHWwopBknZeHN5Z5pN1yVjizkjrhJLTPLCzqg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "ZX0_zvbvo"
+        }
+      },
+      "fetched_at": "2026-10-16T14:12:51Z"
+    },
+    {
+      "id": "episode/demon-lord-retry-2x6",
+      "episode_id": "episode/demon-lord-retry-2x6",
+      "title": "Demon Lord's Descent",
+      "episode_name": "Demon Lord's Descent",
+      "episode_number": 6,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/image/1062/2/6.webp",
+      "abyssid": "11564",
+      "abyssId": "11564",
+      "playxid": "d516b13671a4179d9b7b458a6ebdeb92",
+      "playXID": "d516b13671a4179d9b7b458a6ebdeb92",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "11564",
+        "playXID": "d516b13671a4179d9b7b458a6ebdeb92",
+        "streamId": "11564",
+        "dubPlayerSrc": "/dub-player/t/11564/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d516b13671a4179d9b7b458a6ebdeb92&abyssId=11564"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "11564",
+        "playXID": "d516b13671a4179d9b7b458a6ebdeb92",
+        "streamId": "11564",
+        "dubPlayerSrc": "/dub-player/t/11564/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d516b13671a4179d9b7b458a6ebdeb92&abyssId=11564"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/d516b13671a4179d9b7b458a6ebdeb92",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/d516b13671a4179d9b7b458a6ebdeb92"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "11564",
+        "abyssId": "11564",
+        "playXID": "d516b13671a4179d9b7b458a6ebdeb92",
+        "title": "Demon Lord, Retry!",
+        "season": 2,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "f6QAiYnVJ"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "QeVAg0FBw"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "7sSlKduC5"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "xyUIx6Wsm"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "6es4zZ9NZ"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/2c351db3ff501016fad7a3089a1891ef/master.m3u8?md5=V1mo2chkz8V2_oUspy-qQw&expires=1792167161",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/2c351db3ff501016fad7a3089a1891ef/master.m3u8?md5=V1mo2chkz8V2_oUspy-qQw&expires=1792167161",
+            "videoSource": "https://ravok.buzz/cdn/hls/2c351db3ff501016fad7a3089a1891ef/master.m3u8?md5=V1mo2chkz8V2_oUspy-qQw&expires=1792167161",
+            "videoImage": "https://as-cdn31.top/p/hL2fodKYLNprkA_WdX5K6CEO4ulC-Ut2y01unFKQP1yQbcjoweICsihS5QtYMRzS3IYmq-Q7dKV-VYN_aLKP7g.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "d516b13671a4179d9b7b458a6ebdeb92",
+                "streamUrl": "https://ravok.buzz/cdn/hls/2c351db3ff501016fad7a3089a1891ef/master.m3u8?md5=V1mo2chkz8V2_oUspy-qQw&expires=1792167161",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/2c351db3ff501016fad7a3089a1891ef/master.m3u8?md5=V1mo2chkz8V2_oUspy-qQw&expires=1792167161",
+                "videoSource": "https://ravok.buzz/cdn/hls/2c351db3ff501016fad7a3089a1891ef/master.m3u8?md5=V1mo2chkz8V2_oUspy-qQw&expires=1792167161",
+                "link": "https://ravok.buzz/cdn/hls/2c351db3ff501016fad7a3089a1891ef/master.m3u8?md5=V1mo2chkz8V2_oUspy-qQw&expires=1792167161",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/hL2fodKYLNprkA_WdX5K6CEO4ulC-Ut2y01unFKQP1yQbcjoweICsihS5QtYMRzS3IYmq-Q7dKV-VYN_aLKP7g.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "f6QAiYnVJ"
+        }
+      },
+      "fetched_at": "2026-10-16T14:12:51Z"
+    },
+    {
+      "id": "episode/demon-lord-retry-2x9",
+      "episode_id": "episode/demon-lord-retry-2x9",
+      "title": "Demon Lord's Descent",
+      "episode_name": "Demon Lord's Descent",
+      "episode_number": 9,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/image/1062/2/9.webp",
+      "abyssid": "11850",
+      "abyssId": "11850",
+      "playxid": "884d247c6f65a96a7da4d1105d584ddd",
+      "playXID": "884d247c6f65a96a7da4d1105d584ddd",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "11850",
+        "playXID": "884d247c6f65a96a7da4d1105d584ddd",
+        "streamId": "11850",
+        "dubPlayerSrc": "/dub-player/t/11850/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=884d247c6f65a96a7da4d1105d584ddd&abyssId=11850"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "11850",
+        "playXID": "884d247c6f65a96a7da4d1105d584ddd",
+        "streamId": "11850",
+        "dubPlayerSrc": "/dub-player/t/11850/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=884d247c6f65a96a7da4d1105d584ddd&abyssId=11850"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/884d247c6f65a96a7da4d1105d584ddd",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/884d247c6f65a96a7da4d1105d584ddd"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "11850",
+        "abyssId": "11850",
+        "playXID": "884d247c6f65a96a7da4d1105d584ddd",
+        "title": "Demon Lord, Retry!",
+        "season": 2,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "UEpi9Jtyx"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "5U9IcR6g9"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "gM3Ww6oUm"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "efQkBcJOY"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "NXnpMFWdS"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/499992177c1da4e0c0533233b4fa3424/master.m3u8?md5=xQyiTSPEoKMRq5Zg1nZGaQ&expires=1792167161",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/499992177c1da4e0c0533233b4fa3424/master.m3u8?md5=xQyiTSPEoKMRq5Zg1nZGaQ&expires=1792167161",
+            "videoSource": "https://ravok.buzz/cdn/hls/499992177c1da4e0c0533233b4fa3424/master.m3u8?md5=xQyiTSPEoKMRq5Zg1nZGaQ&expires=1792167161",
+            "videoImage": "https://as-cdn27.top/p/nU-Zm0ApLm15zyMU5Cmz4dVTfgEHMsC7PeJYmBzcdsxtDI0DDvOLgPr_ivNQ1dgi9npndg9eFMvTCzY8LjXURw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "884d247c6f65a96a7da4d1105d584ddd",
+                "streamUrl": "https://ravok.buzz/cdn/hls/499992177c1da4e0c0533233b4fa3424/master.m3u8?md5=xQyiTSPEoKMRq5Zg1nZGaQ&expires=1792167161",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/499992177c1da4e0c0533233b4fa3424/master.m3u8?md5=xQyiTSPEoKMRq5Zg1nZGaQ&expires=1792167161",
+                "videoSource": "https://ravok.buzz/cdn/hls/499992177c1da4e0c0533233b4fa3424/master.m3u8?md5=xQyiTSPEoKMRq5Zg1nZGaQ&expires=1792167161",
+                "link": "https://ravok.buzz/cdn/hls/499992177c1da4e0c0533233b4fa3424/master.m3u8?md5=xQyiTSPEoKMRq5Zg1nZGaQ&expires=1792167161",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/nU-Zm0ApLm15zyMU5Cmz4dVTfgEHMsC7PeJYmBzcdsxtDI0DDvOLgPr_ivNQ1dgi9npndg9eFMvTCzY8LjXURw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "UEpi9Jtyx"
+        }
+      },
+      "fetched_at": "2026-10-16T14:12:51Z"
+    },
+    {
+      "id": "episode/demon-lord-retry-2x10",
+      "episode_id": "episode/demon-lord-retry-2x10",
+      "title": "Demon Lord's Descent",
+      "episode_name": "Demon Lord's Descent",
+      "episode_number": 10,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/image/1062/2/10.webp",
+      "abyssid": "11898",
+      "abyssId": "11898",
+      "playxid": "c57daa0bc9c4d8e35a21e9a2801aecb2",
+      "playXID": "c57daa0bc9c4d8e35a21e9a2801aecb2",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "11898",
+        "playXID": "c57daa0bc9c4d8e35a21e9a2801aecb2",
+        "streamId": "11898",
+        "dubPlayerSrc": "/dub-player/t/11898/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c57daa0bc9c4d8e35a21e9a2801aecb2&abyssId=11898"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "11898",
+        "playXID": "c57daa0bc9c4d8e35a21e9a2801aecb2",
+        "streamId": "11898",
+        "dubPlayerSrc": "/dub-player/t/11898/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c57daa0bc9c4d8e35a21e9a2801aecb2&abyssId=11898"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/c57daa0bc9c4d8e35a21e9a2801aecb2",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/c57daa0bc9c4d8e35a21e9a2801aecb2"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "11898",
+        "abyssId": "11898",
+        "playXID": "c57daa0bc9c4d8e35a21e9a2801aecb2",
+        "title": "Demon Lord, Retry!",
+        "season": 2,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "WNsLhABn1"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "0UIsROY12"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "trjx7fl8N"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "TkbpoG-P0"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "dofYjSHZ2"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/1de2467fbb79f63fa697a5c644d14c2e/master.m3u8?md5=BVXKFdVfveYuT02O2EhRsg&expires=1792167162",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/1de2467fbb79f63fa697a5c644d14c2e/master.m3u8?md5=BVXKFdVfveYuT02O2EhRsg&expires=1792167162",
+            "videoSource": "https://ravok.buzz/cdn/hls/1de2467fbb79f63fa697a5c644d14c2e/master.m3u8?md5=BVXKFdVfveYuT02O2EhRsg&expires=1792167162",
+            "videoImage": "https://as-cdn30.top/p/m1_-BXdFud1V_w8aREtW1NvmtQ6_asXa4gN6ch2eLfiNdQgeOMAxt3eWPWFx3Pzc-6EE53qb2_UrLpQ0MMqT1Q.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "c57daa0bc9c4d8e35a21e9a2801aecb2",
+                "streamUrl": "https://ravok.buzz/cdn/hls/1de2467fbb79f63fa697a5c644d14c2e/master.m3u8?md5=BVXKFdVfveYuT02O2EhRsg&expires=1792167162",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/1de2467fbb79f63fa697a5c644d14c2e/master.m3u8?md5=BVXKFdVfveYuT02O2EhRsg&expires=1792167162",
+                "videoSource": "https://ravok.buzz/cdn/hls/1de2467fbb79f63fa697a5c644d14c2e/master.m3u8?md5=BVXKFdVfveYuT02O2EhRsg&expires=1792167162",
+                "link": "https://ravok.buzz/cdn/hls/1de2467fbb79f63fa697a5c644d14c2e/master.m3u8?md5=BVXKFdVfveYuT02O2EhRsg&expires=1792167162",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/m1_-BXdFud1V_w8aREtW1NvmtQ6_asXa4gN6ch2eLfiNdQgeOMAxt3eWPWFx3Pzc-6EE53qb2_UrLpQ0MMqT1Q.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "WNsLhABn1"
+        }
+      },
+      "fetched_at": "2026-10-16T14:12:52Z"
+    },
+    {
+      "id": "episode/demon-lord-retry-2x11",
+      "episode_id": "episode/demon-lord-retry-2x11",
+      "title": "Demon Lord's Descent",
+      "episode_name": "Demon Lord's Descent",
+      "episode_number": 11,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/image/1062/2/11.webp",
+      "abyssid": "11918",
+      "abyssId": "11918",
+      "playxid": "9d27fdf2477ffbff837d73ef7ae23db9",
+      "playXID": "9d27fdf2477ffbff837d73ef7ae23db9",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "11918",
+        "playXID": "9d27fdf2477ffbff837d73ef7ae23db9",
+        "streamId": "11918",
+        "dubPlayerSrc": "/dub-player/t/11918/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9d27fdf2477ffbff837d73ef7ae23db9&abyssId=11918"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "11918",
+        "playXID": "9d27fdf2477ffbff837d73ef7ae23db9",
+        "streamId": "11918",
+        "dubPlayerSrc": "/dub-player/t/11918/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9d27fdf2477ffbff837d73ef7ae23db9&abyssId=11918"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/9d27fdf2477ffbff837d73ef7ae23db9",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/9d27fdf2477ffbff837d73ef7ae23db9"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "11918",
+        "abyssId": "11918",
+        "playXID": "9d27fdf2477ffbff837d73ef7ae23db9",
+        "title": "Demon Lord, Retry!",
+        "season": 2,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "v9KCPSTfH"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "1rHgIIKjw"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "3B69Gt37U"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "cFkC6aEdF"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "tmqJ2qRV0"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/25e59f4bdbc5369d2d7b720e2dff6098/master.m3u8?md5=yj9iHhrDaRuB2-usS5QwFA&expires=1792167163",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/25e59f4bdbc5369d2d7b720e2dff6098/master.m3u8?md5=yj9iHhrDaRuB2-usS5QwFA&expires=1792167163",
+            "videoSource": "https://ravok.buzz/cdn/hls/25e59f4bdbc5369d2d7b720e2dff6098/master.m3u8?md5=yj9iHhrDaRuB2-usS5QwFA&expires=1792167163",
+            "videoImage": "https://as-cdn30.top/p/JTrW8tEaOspIOjwY74C_m1sMUUUjbA9nQ_wnvL0IL6t4JRRU2bXgT7VOgfqh6vntwtfqomKwGMo62f1F6c7bkQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "9d27fdf2477ffbff837d73ef7ae23db9",
+                "streamUrl": "https://ravok.buzz/cdn/hls/25e59f4bdbc5369d2d7b720e2dff6098/master.m3u8?md5=yj9iHhrDaRuB2-usS5QwFA&expires=1792167163",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/25e59f4bdbc5369d2d7b720e2dff6098/master.m3u8?md5=yj9iHhrDaRuB2-usS5QwFA&expires=1792167163",
+                "videoSource": "https://ravok.buzz/cdn/hls/25e59f4bdbc5369d2d7b720e2dff6098/master.m3u8?md5=yj9iHhrDaRuB2-usS5QwFA&expires=1792167163",
+                "link": "https://ravok.buzz/cdn/hls/25e59f4bdbc5369d2d7b720e2dff6098/master.m3u8?md5=yj9iHhrDaRuB2-usS5QwFA&expires=1792167163",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/JTrW8tEaOspIOjwY74C_m1sMUUUjbA9nQ_wnvL0IL6t4JRRU2bXgT7VOgfqh6vntwtfqomKwGMo62f1F6c7bkQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "v9KCPSTfH"
+        }
+      },
+      "fetched_at": "2026-10-16T14:12:53Z"
+    },
+    {
+      "id": "episode/demon-lord-retry-1x1",
+      "episode_id": "episode/demon-lord-retry-1x1",
+      "title": "Demon Lord, Retry! 1x1",
+      "episode_name": "Demon Lord, Retry! 1x1",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1062_s1e1.webp",
+      "abyssid": "16749",
+      "abyssId": "16749",
+      "playxid": "ffc240fc1e1b0a7046828ca0e7877d9f",
+      "playXID": "ffc240fc1e1b0a7046828ca0e7877d9f",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16749",
+        "playXID": "ffc240fc1e1b0a7046828ca0e7877d9f",
+        "streamId": "16749",
+        "dubPlayerSrc": "/dub-player/t/16749/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ffc240fc1e1b0a7046828ca0e7877d9f&abyssId=16749"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16749",
+        "playXID": "ffc240fc1e1b0a7046828ca0e7877d9f",
+        "streamId": "16749",
+        "dubPlayerSrc": "/dub-player/t/16749/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ffc240fc1e1b0a7046828ca0e7877d9f&abyssId=16749"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/ffc240fc1e1b0a7046828ca0e7877d9f",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/ffc240fc1e1b0a7046828ca0e7877d9f"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16749",
+        "abyssId": "16749",
+        "playXID": "ffc240fc1e1b0a7046828ca0e7877d9f",
+        "title": "Demon Lord, Retry!",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "GaqTThU4L"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "y8RzeKWvn"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "FzFdpXrm5"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "rZDJml2E7"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "XDxz20XHH"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/a219e25a60563f94ad191850ecb22ff0/master.m3u8?md5=ZHLI45Nv5vLp4OKfmqqrjQ&expires=1792167163",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/a219e25a60563f94ad191850ecb22ff0/master.m3u8?md5=ZHLI45Nv5vLp4OKfmqqrjQ&expires=1792167163",
+            "videoSource": "https://ravok.buzz/cdn/hls/a219e25a60563f94ad191850ecb22ff0/master.m3u8?md5=ZHLI45Nv5vLp4OKfmqqrjQ&expires=1792167163",
+            "videoImage": "https://as-cdn30.top/p/5kVuG9SMWG4E__L05-Ar_12Yz10zlzsO7iOXMCIPVPaKwyFMkcrzD1kQ1MnoT9SS0TarUacmei5qQJhjkz0lEw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "ffc240fc1e1b0a7046828ca0e7877d9f",
+                "streamUrl": "https://ravok.buzz/cdn/hls/a219e25a60563f94ad191850ecb22ff0/master.m3u8?md5=ZHLI45Nv5vLp4OKfmqqrjQ&expires=1792167163",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/a219e25a60563f94ad191850ecb22ff0/master.m3u8?md5=ZHLI45Nv5vLp4OKfmqqrjQ&expires=1792167163",
+                "videoSource": "https://ravok.buzz/cdn/hls/a219e25a60563f94ad191850ecb22ff0/master.m3u8?md5=ZHLI45Nv5vLp4OKfmqqrjQ&expires=1792167163",
+                "link": "https://ravok.buzz/cdn/hls/a219e25a60563f94ad191850ecb22ff0/master.m3u8?md5=ZHLI45Nv5vLp4OKfmqqrjQ&expires=1792167163",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/5kVuG9SMWG4E__L05-Ar_12Yz10zlzsO7iOXMCIPVPaKwyFMkcrzD1kQ1MnoT9SS0TarUacmei5qQJhjkz0lEw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "GaqTThU4L"
+        }
+      },
+      "fetched_at": "2026-10-16T14:12:53Z"
+    },
+    {
+      "id": "episode/demon-lord-retry-1x2",
+      "episode_id": "episode/demon-lord-retry-1x2",
+      "title": "Demon Lord, Retry! 1x1",
+      "episode_name": "Demon Lord, Retry! 1x1",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1062_s1e2.webp",
+      "abyssid": "16750",
+      "abyssId": "16750",
+      "playxid": "3ac88c103b945977e9085785158dac19",
+      "playXID": "3ac88c103b945977e9085785158dac19",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16750",
+        "playXID": "3ac88c103b945977e9085785158dac19",
+        "streamId": "16750",
+        "dubPlayerSrc": "/dub-player/t/16750/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=3ac88c103b945977e9085785158dac19&abyssId=16750"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16750",
+        "playXID": "3ac88c103b945977e9085785158dac19",
+        "streamId": "16750",
+        "dubPlayerSrc": "/dub-player/t/16750/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=3ac88c103b945977e9085785158dac19&abyssId=16750"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/3ac88c103b945977e9085785158dac19",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/3ac88c103b945977e9085785158dac19"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16750",
+        "abyssId": "16750",
+        "playXID": "3ac88c103b945977e9085785158dac19",
+        "title": "Demon Lord, Retry!",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "cltgH8bXx"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "PjNcqpWap"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "fm3Ivs1qP"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "lyPft4Fdu"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "zCYjhspyB"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/0afa02685cf9a31676ea2283b4977f59/master.m3u8?md5=VSwfkeetSrjtZuH_yBsyQA&expires=1792167163",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/0afa02685cf9a31676ea2283b4977f59/master.m3u8?md5=VSwfkeetSrjtZuH_yBsyQA&expires=1792167163",
+            "videoSource": "https://ravok.buzz/cdn/hls/0afa02685cf9a31676ea2283b4977f59/master.m3u8?md5=VSwfkeetSrjtZuH_yBsyQA&expires=1792167163",
+            "videoImage": "https://as-cdn30.top/p/hzIwyHCbIXc_4E_lANHpWAi3cGl_aBsUMZrIdkNTv8qub8gY1AwAMYaxIpt2poRvQeFZougJIwWnv0qCdXEGRQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "3ac88c103b945977e9085785158dac19",
+                "streamUrl": "https://ravok.buzz/cdn/hls/0afa02685cf9a31676ea2283b4977f59/master.m3u8?md5=VSwfkeetSrjtZuH_yBsyQA&expires=1792167163",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/0afa02685cf9a31676ea2283b4977f59/master.m3u8?md5=VSwfkeetSrjtZuH_yBsyQA&expires=1792167163",
+                "videoSource": "https://ravok.buzz/cdn/hls/0afa02685cf9a31676ea2283b4977f59/master.m3u8?md5=VSwfkeetSrjtZuH_yBsyQA&expires=1792167163",
+                "link": "https://ravok.buzz/cdn/hls/0afa02685cf9a31676ea2283b4977f59/master.m3u8?md5=VSwfkeetSrjtZuH_yBsyQA&expires=1792167163",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/hzIwyHCbIXc_4E_lANHpWAi3cGl_aBsUMZrIdkNTv8qub8gY1AwAMYaxIpt2poRvQeFZougJIwWnv0qCdXEGRQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "cltgH8bXx"
+        }
+      },
+      "fetched_at": "2026-10-16T14:12:53Z"
+    },
+    {
+      "id": "episode/demon-lord-retry-2x12",
+      "episode_id": "episode/demon-lord-retry-2x12",
+      "title": "Demon Lord's Descent",
+      "episode_name": "Demon Lord's Descent",
+      "episode_number": 12,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/image/1062/2/12.webp",
+      "abyssid": "12157",
+      "abyssId": "12157",
+      "playxid": "af1c25e88a9e818f809f6b5d18ca02e2",
+      "playXID": "af1c25e88a9e818f809f6b5d18ca02e2",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12157",
+        "playXID": "af1c25e88a9e818f809f6b5d18ca02e2",
+        "streamId": "12157",
+        "dubPlayerSrc": "/dub-player/t/12157/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=af1c25e88a9e818f809f6b5d18ca02e2&abyssId=12157"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12157",
+        "playXID": "af1c25e88a9e818f809f6b5d18ca02e2",
+        "streamId": "12157",
+        "dubPlayerSrc": "/dub-player/t/12157/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=af1c25e88a9e818f809f6b5d18ca02e2&abyssId=12157"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/af1c25e88a9e818f809f6b5d18ca02e2",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/af1c25e88a9e818f809f6b5d18ca02e2"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12157",
+        "abyssId": "12157",
+        "playXID": "af1c25e88a9e818f809f6b5d18ca02e2",
+        "title": "Demon Lord, Retry!",
+        "season": 2,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "jEtsN4g8s"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "vgWZmX2tN"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "2j7G735f9"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "wDrj72sbfb"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/e1d245e6db37d476326a0f1e50bdef92/master.m3u8?md5=nQAcpjNhhPo8m0IrOZJFog&expires=1792167163",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/e1d245e6db37d476326a0f1e50bdef92/master.m3u8?md5=nQAcpjNhhPo8m0IrOZJFog&expires=1792167163",
+            "videoSource": "https://ravok.buzz/cdn/hls/e1d245e6db37d476326a0f1e50bdef92/master.m3u8?md5=nQAcpjNhhPo8m0IrOZJFog&expires=1792167163",
+            "videoImage": "https://as-cdn30.top/p/jmVg-UQCnWmirnZzdlz0luagZ-fwExV0P8pt0sR_T8oRHfiJO5ohbdBdHnidgI4-zW2WXrh5nXxpFVxvL9uDzA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "af1c25e88a9e818f809f6b5d18ca02e2",
+                "streamUrl": "https://ravok.buzz/cdn/hls/e1d245e6db37d476326a0f1e50bdef92/master.m3u8?md5=nQAcpjNhhPo8m0IrOZJFog&expires=1792167163",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/e1d245e6db37d476326a0f1e50bdef92/master.m3u8?md5=nQAcpjNhhPo8m0IrOZJFog&expires=1792167163",
+                "videoSource": "https://ravok.buzz/cdn/hls/e1d245e6db37d476326a0f1e50bdef92/master.m3u8?md5=nQAcpjNhhPo8m0IrOZJFog&expires=1792167163",
+                "link": "https://ravok.buzz/cdn/hls/e1d245e6db37d476326a0f1e50bdef92/master.m3u8?md5=nQAcpjNhhPo8m0IrOZJFog&expires=1792167163",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/jmVg-UQCnWmirnZzdlz0luagZ-fwExV0P8pt0sR_T8oRHfiJO5ohbdBdHnidgI4-zW2WXrh5nXxpFVxvL9uDzA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "jEtsN4g8s"
+        }
+      },
+      "fetched_at": "2026-10-16T14:12:53Z"
+    },
+    {
+      "id": "episode/demon-lord-retry-1x3",
+      "episode_id": "episode/demon-lord-retry-1x3",
+      "title": "Demon Lord, Retry! 1x1",
+      "episode_name": "Demon Lord, Retry! 1x1",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1062_s1e3.webp",
+      "abyssid": "16751",
+      "abyssId": "16751",
+      "playxid": "f9d826b62995d8bfe6d12ccd4d3b9ffa",
+      "playXID": "f9d826b62995d8bfe6d12ccd4d3b9ffa",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16751",
+        "playXID": "f9d826b62995d8bfe6d12ccd4d3b9ffa",
+        "streamId": "16751",
+        "dubPlayerSrc": "/dub-player/t/16751/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f9d826b62995d8bfe6d12ccd4d3b9ffa&abyssId=16751"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16751",
+        "playXID": "f9d826b62995d8bfe6d12ccd4d3b9ffa",
+        "streamId": "16751",
+        "dubPlayerSrc": "/dub-player/t/16751/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f9d826b62995d8bfe6d12ccd4d3b9ffa&abyssId=16751"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/f9d826b62995d8bfe6d12ccd4d3b9ffa",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/f9d826b62995d8bfe6d12ccd4d3b9ffa"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16751",
+        "abyssId": "16751",
+        "playXID": "f9d826b62995d8bfe6d12ccd4d3b9ffa",
+        "title": "Demon Lord, Retry!",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "ROEDz8RJA"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "K1RMRc490"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "Jr2xYzY01"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "vfJw5zbK8"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "Fnii4fgQH"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/160b5a239fc046eaf10ebdad0489bf79/master.m3u8?md5=ZDWrvKWCFj9q4qiPTWvhpA&expires=1792167164",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/160b5a239fc046eaf10ebdad0489bf79/master.m3u8?md5=ZDWrvKWCFj9q4qiPTWvhpA&expires=1792167164",
+            "videoSource": "https://ravok.buzz/cdn/hls/160b5a239fc046eaf10ebdad0489bf79/master.m3u8?md5=ZDWrvKWCFj9q4qiPTWvhpA&expires=1792167164",
+            "videoImage": "https://as-cdn29.top/p/znGtEzBXos0IeqrNpophi6LDMTG6kyXPGkOso1eJ4pDNS_TO1Ev_fQi_ql0fPnlX6Eq87DS6yfye2g3aEcYAsQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "f9d826b62995d8bfe6d12ccd4d3b9ffa",
+                "streamUrl": "https://ravok.buzz/cdn/hls/160b5a239fc046eaf10ebdad0489bf79/master.m3u8?md5=ZDWrvKWCFj9q4qiPTWvhpA&expires=1792167164",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/160b5a239fc046eaf10ebdad0489bf79/master.m3u8?md5=ZDWrvKWCFj9q4qiPTWvhpA&expires=1792167164",
+                "videoSource": "https://ravok.buzz/cdn/hls/160b5a239fc046eaf10ebdad0489bf79/master.m3u8?md5=ZDWrvKWCFj9q4qiPTWvhpA&expires=1792167164",
+                "link": "https://ravok.buzz/cdn/hls/160b5a239fc046eaf10ebdad0489bf79/master.m3u8?md5=ZDWrvKWCFj9q4qiPTWvhpA&expires=1792167164",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/znGtEzBXos0IeqrNpophi6LDMTG6kyXPGkOso1eJ4pDNS_TO1Ev_fQi_ql0fPnlX6Eq87DS6yfye2g3aEcYAsQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "ROEDz8RJA"
+        }
+      },
+      "fetched_at": "2026-10-16T14:12:54Z"
+    },
+    {
+      "id": "episode/demon-lord-retry-1x4",
+      "episode_id": "episode/demon-lord-retry-1x4",
+      "title": "Demon Lord, Retry! 1x1",
+      "episode_name": "Demon Lord, Retry! 1x1",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1062_s1e4.webp",
+      "abyssid": "16752",
+      "abyssId": "16752",
+      "playxid": "24f984f75f37a51922de69604322ff08",
+      "playXID": "24f984f75f37a51922de69604322ff08",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16752",
+        "playXID": "24f984f75f37a51922de69604322ff08",
+        "streamId": "16752",
+        "dubPlayerSrc": "/dub-player/t/16752/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=24f984f75f37a51922de69604322ff08&abyssId=16752"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16752",
+        "playXID": "24f984f75f37a51922de69604322ff08",
+        "streamId": "16752",
+        "dubPlayerSrc": "/dub-player/t/16752/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=24f984f75f37a51922de69604322ff08&abyssId=16752"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/24f984f75f37a51922de69604322ff08",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/24f984f75f37a51922de69604322ff08"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16752",
+        "abyssId": "16752",
+        "playXID": "24f984f75f37a51922de69604322ff08",
+        "title": "Demon Lord, Retry!",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "fyTejRgJX"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "p7EX1jQPH"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "4_b7c4fc_"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "9-i6lx5dR"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "7lbw2o7cb"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/669b57f0c4ca52f0226e347eaa079781/master.m3u8?md5=DlfFER5D3Aqi84_ish1Mmg&expires=1792167165",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/669b57f0c4ca52f0226e347eaa079781/master.m3u8?md5=DlfFER5D3Aqi84_ish1Mmg&expires=1792167165",
+            "videoSource": "https://ravok.buzz/cdn/hls/669b57f0c4ca52f0226e347eaa079781/master.m3u8?md5=DlfFER5D3Aqi84_ish1Mmg&expires=1792167165",
+            "videoImage": "https://as-cdn29.top/p/_rx-jzWAciNBmQRDgZoCHwY37Ot2B7oAvancl4x4Ph96-TV0KmY1GNZ11kVVI-rYaGTiYpoWLhvKvdxfgINjyw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "24f984f75f37a51922de69604322ff08",
+                "streamUrl": "https://ravok.buzz/cdn/hls/669b57f0c4ca52f0226e347eaa079781/master.m3u8?md5=DlfFER5D3Aqi84_ish1Mmg&expires=1792167165",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/669b57f0c4ca52f0226e347eaa079781/master.m3u8?md5=DlfFER5D3Aqi84_ish1Mmg&expires=1792167165",
+                "videoSource": "https://ravok.buzz/cdn/hls/669b57f0c4ca52f0226e347eaa079781/master.m3u8?md5=DlfFER5D3Aqi84_ish1Mmg&expires=1792167165",
+                "link": "https://ravok.buzz/cdn/hls/669b57f0c4ca52f0226e347eaa079781/master.m3u8?md5=DlfFER5D3Aqi84_ish1Mmg&expires=1792167165",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/_rx-jzWAciNBmQRDgZoCHwY37Ot2B7oAvancl4x4Ph96-TV0KmY1GNZ11kVVI-rYaGTiYpoWLhvKvdxfgINjyw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "fyTejRgJX"
+        }
+      },
+      "fetched_at": "2026-10-16T14:12:55Z"
+    },
+    {
+      "id": "episode/demon-lord-retry-1x7",
+      "episode_id": "episode/demon-lord-retry-1x7",
+      "title": "Demon Lord, Retry! 1x1",
+      "episode_name": "Demon Lord, Retry! 1x1",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1062_s1e7.webp",
+      "abyssid": "16755",
+      "abyssId": "16755",
+      "playxid": "b0f13a12e828374f22b1be5980afae58",
+      "playXID": "b0f13a12e828374f22b1be5980afae58",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16755",
+        "playXID": "b0f13a12e828374f22b1be5980afae58",
+        "streamId": "16755",
+        "dubPlayerSrc": "/dub-player/t/16755/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b0f13a12e828374f22b1be5980afae58&abyssId=16755"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16755",
+        "playXID": "b0f13a12e828374f22b1be5980afae58",
+        "streamId": "16755",
+        "dubPlayerSrc": "/dub-player/t/16755/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b0f13a12e828374f22b1be5980afae58&abyssId=16755"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/b0f13a12e828374f22b1be5980afae58",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/b0f13a12e828374f22b1be5980afae58"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16755",
+        "abyssId": "16755",
+        "playXID": "b0f13a12e828374f22b1be5980afae58",
+        "title": "Demon Lord, Retry!",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "GZUlQtX-n"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "vXY3c10z2"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "RykHJae53"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "ZccocdwV1"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "8c3g30hc4"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/9e1b416914736fbbcc9254f5b772b766/master.m3u8?md5=9kZZefFttKUeDg5EoWRuUQ&expires=1792167166",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/9e1b416914736fbbcc9254f5b772b766/master.m3u8?md5=9kZZefFttKUeDg5EoWRuUQ&expires=1792167166",
+            "videoSource": "https://ravok.buzz/cdn/hls/9e1b416914736fbbcc9254f5b772b766/master.m3u8?md5=9kZZefFttKUeDg5EoWRuUQ&expires=1792167166",
+            "videoImage": "https://as-cdn28.top/p/Dv4KE47sCDX_ucaYJECg-xwMk4CC1CCtCJeqx0ylp-M2EJdobJWsJIBpncegRd03XccDoL1xKGGmMFM_bcy8jA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "b0f13a12e828374f22b1be5980afae58",
+                "streamUrl": "https://ravok.buzz/cdn/hls/9e1b416914736fbbcc9254f5b772b766/master.m3u8?md5=9kZZefFttKUeDg5EoWRuUQ&expires=1792167166",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/9e1b416914736fbbcc9254f5b772b766/master.m3u8?md5=9kZZefFttKUeDg5EoWRuUQ&expires=1792167166",
+                "videoSource": "https://ravok.buzz/cdn/hls/9e1b416914736fbbcc9254f5b772b766/master.m3u8?md5=9kZZefFttKUeDg5EoWRuUQ&expires=1792167166",
+                "link": "https://ravok.buzz/cdn/hls/9e1b416914736fbbcc9254f5b772b766/master.m3u8?md5=9kZZefFttKUeDg5EoWRuUQ&expires=1792167166",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/Dv4KE47sCDX_ucaYJECg-xwMk4CC1CCtCJeqx0ylp-M2EJdobJWsJIBpncegRd03XccDoL1xKGGmMFM_bcy8jA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "GZUlQtX-n"
+        }
+      },
+      "fetched_at": "2026-10-16T14:12:56Z"
+    },
+    {
+      "id": "episode/demon-lord-retry-1x6",
+      "episode_id": "episode/demon-lord-retry-1x6",
+      "title": "Demon Lord, Retry! 1x1",
+      "episode_name": "Demon Lord, Retry! 1x1",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1062_s1e6.webp",
+      "abyssid": "16754",
+      "abyssId": "16754",
+      "playxid": "d45d46f58f410b1ce58564e8955cab72",
+      "playXID": "d45d46f58f410b1ce58564e8955cab72",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16754",
+        "playXID": "d45d46f58f410b1ce58564e8955cab72",
+        "streamId": "16754",
+        "dubPlayerSrc": "/dub-player/t/16754/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d45d46f58f410b1ce58564e8955cab72&abyssId=16754"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16754",
+        "playXID": "d45d46f58f410b1ce58564e8955cab72",
+        "streamId": "16754",
+        "dubPlayerSrc": "/dub-player/t/16754/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d45d46f58f410b1ce58564e8955cab72&abyssId=16754"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/d45d46f58f410b1ce58564e8955cab72",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/d45d46f58f410b1ce58564e8955cab72"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16754",
+        "abyssId": "16754",
+        "playXID": "d45d46f58f410b1ce58564e8955cab72",
+        "title": "Demon Lord, Retry!",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "35O1POOMz"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "-0inydlYd"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "KlwoTGAC5"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "CrvtZ2QjT"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "r-8NJpUZN"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/f3a8ed141142f44ce66a5749769826c2/master.m3u8?md5=VdEZaT1n0MiqavWQrreHRw&expires=1792167166",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/f3a8ed141142f44ce66a5749769826c2/master.m3u8?md5=VdEZaT1n0MiqavWQrreHRw&expires=1792167166",
+            "videoSource": "https://ravok.buzz/cdn/hls/f3a8ed141142f44ce66a5749769826c2/master.m3u8?md5=VdEZaT1n0MiqavWQrreHRw&expires=1792167166",
+            "videoImage": "https://as-cdn27.top/p/IjkCDVmoBBc6Gb_-fKyMMTIGLU0GWqNvWtPLiRvcNcu0T0douTUx82nt6eSsh-n12MIJ0XzAGI3VkN8Xv9yXwQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "d45d46f58f410b1ce58564e8955cab72",
+                "streamUrl": "https://ravok.buzz/cdn/hls/f3a8ed141142f44ce66a5749769826c2/master.m3u8?md5=VdEZaT1n0MiqavWQrreHRw&expires=1792167166",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/f3a8ed141142f44ce66a5749769826c2/master.m3u8?md5=VdEZaT1n0MiqavWQrreHRw&expires=1792167166",
+                "videoSource": "https://ravok.buzz/cdn/hls/f3a8ed141142f44ce66a5749769826c2/master.m3u8?md5=VdEZaT1n0MiqavWQrreHRw&expires=1792167166",
+                "link": "https://ravok.buzz/cdn/hls/f3a8ed141142f44ce66a5749769826c2/master.m3u8?md5=VdEZaT1n0MiqavWQrreHRw&expires=1792167166",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/IjkCDVmoBBc6Gb_-fKyMMTIGLU0GWqNvWtPLiRvcNcu0T0douTUx82nt6eSsh-n12MIJ0XzAGI3VkN8Xv9yXwQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "35O1POOMz"
+        }
+      },
+      "fetched_at": "2026-10-16T14:12:56Z"
+    },
+    {
+      "id": "episode/demon-lord-retry-1x8",
+      "episode_id": "episode/demon-lord-retry-1x8",
+      "title": "Demon Lord, Retry! 1x1",
+      "episode_name": "Demon Lord, Retry! 1x1",
+      "episode_number": 8,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1062_s1e8.webp",
+      "abyssid": "16756",
+      "abyssId": "16756",
+      "playxid": "f44f1b2dab84a36490fbd262cefdba89",
+      "playXID": "f44f1b2dab84a36490fbd262cefdba89",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16756",
+        "playXID": "f44f1b2dab84a36490fbd262cefdba89",
+        "streamId": "16756",
+        "dubPlayerSrc": "/dub-player/t/16756/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f44f1b2dab84a36490fbd262cefdba89&abyssId=16756"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16756",
+        "playXID": "f44f1b2dab84a36490fbd262cefdba89",
+        "streamId": "16756",
+        "dubPlayerSrc": "/dub-player/t/16756/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f44f1b2dab84a36490fbd262cefdba89&abyssId=16756"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/f44f1b2dab84a36490fbd262cefdba89",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/f44f1b2dab84a36490fbd262cefdba89"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16756",
+        "abyssId": "16756",
+        "playXID": "f44f1b2dab84a36490fbd262cefdba89",
+        "title": "Demon Lord, Retry!",
+        "season": 1,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "UcMEJSky0"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "kiDtmc-4S"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "Rzr2CMSUy"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "owLfFwzQ-"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "lVXR1lrWl"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/abaa67a729b2c5fa15319f1bf097e85e/master.m3u8?md5=fKGkn6bKNTocwCRnO6ojcw&expires=1792167166",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/abaa67a729b2c5fa15319f1bf097e85e/master.m3u8?md5=fKGkn6bKNTocwCRnO6ojcw&expires=1792167166",
+            "videoSource": "https://ravok.buzz/cdn/hls/abaa67a729b2c5fa15319f1bf097e85e/master.m3u8?md5=fKGkn6bKNTocwCRnO6ojcw&expires=1792167166",
+            "videoImage": "https://as-cdn30.top/p/Hh6Uy64jseCejgRSdLSxUwWh-K_MkUsLDfGzwGaD6HCatN0BC77bVgicx-rN0TJRR3x97Uoa5u2NJvb9GUb23w.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "f44f1b2dab84a36490fbd262cefdba89",
+                "streamUrl": "https://ravok.buzz/cdn/hls/abaa67a729b2c5fa15319f1bf097e85e/master.m3u8?md5=fKGkn6bKNTocwCRnO6ojcw&expires=1792167166",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/abaa67a729b2c5fa15319f1bf097e85e/master.m3u8?md5=fKGkn6bKNTocwCRnO6ojcw&expires=1792167166",
+                "videoSource": "https://ravok.buzz/cdn/hls/abaa67a729b2c5fa15319f1bf097e85e/master.m3u8?md5=fKGkn6bKNTocwCRnO6ojcw&expires=1792167166",
+                "link": "https://ravok.buzz/cdn/hls/abaa67a729b2c5fa15319f1bf097e85e/master.m3u8?md5=fKGkn6bKNTocwCRnO6ojcw&expires=1792167166",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/Hh6Uy64jseCejgRSdLSxUwWh-K_MkUsLDfGzwGaD6HCatN0BC77bVgicx-rN0TJRR3x97Uoa5u2NJvb9GUb23w.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "UcMEJSky0"
+        }
+      },
+      "fetched_at": "2026-10-16T14:12:56Z"
+    },
+    {
+      "id": "episode/demon-lord-retry-1x9",
+      "episode_id": "episode/demon-lord-retry-1x9",
+      "title": "Demon Lord, Retry! 1x1",
+      "episode_name": "Demon Lord, Retry! 1x1",
+      "episode_number": 9,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1062_s1e9.webp",
+      "abyssid": "16757",
+      "abyssId": "16757",
+      "playxid": "00a1793212795f6d222f69250c639cb7",
+      "playXID": "00a1793212795f6d222f69250c639cb7",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16757",
+        "playXID": "00a1793212795f6d222f69250c639cb7",
+        "streamId": "16757",
+        "dubPlayerSrc": "/dub-player/t/16757/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=00a1793212795f6d222f69250c639cb7&abyssId=16757"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16757",
+        "playXID": "00a1793212795f6d222f69250c639cb7",
+        "streamId": "16757",
+        "dubPlayerSrc": "/dub-player/t/16757/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=00a1793212795f6d222f69250c639cb7&abyssId=16757"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/00a1793212795f6d222f69250c639cb7",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/00a1793212795f6d222f69250c639cb7"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16757",
+        "abyssId": "16757",
+        "playXID": "00a1793212795f6d222f69250c639cb7",
+        "title": "Demon Lord, Retry!",
+        "season": 1,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "nCXmhP8dv"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "1IJNMV9tg"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "CyE2Vx6fI"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "9LXLnsGXGQ"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "OCeMoRjid"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/8394e52d61d8bb953a579af2300606f5/master.m3u8?md5=Rk5mieocDjQtaWHxdRzvZg&expires=1792167167",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/8394e52d61d8bb953a579af2300606f5/master.m3u8?md5=Rk5mieocDjQtaWHxdRzvZg&expires=1792167167",
+            "videoSource": "https://ravok.buzz/cdn/hls/8394e52d61d8bb953a579af2300606f5/master.m3u8?md5=Rk5mieocDjQtaWHxdRzvZg&expires=1792167167",
+            "videoImage": "https://as-cdn28.top/p/e6FIHdgx6EE0rr-sSjwqUsDSLi3hP2Wbv0aTvuFVH1FpQJVzXnuYxsAdvHY-LOLh-5UE-Z0Y8pjGf0v-XHTlxw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "00a1793212795f6d222f69250c639cb7",
+                "streamUrl": "https://ravok.buzz/cdn/hls/8394e52d61d8bb953a579af2300606f5/master.m3u8?md5=Rk5mieocDjQtaWHxdRzvZg&expires=1792167167",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/8394e52d61d8bb953a579af2300606f5/master.m3u8?md5=Rk5mieocDjQtaWHxdRzvZg&expires=1792167167",
+                "videoSource": "https://ravok.buzz/cdn/hls/8394e52d61d8bb953a579af2300606f5/master.m3u8?md5=Rk5mieocDjQtaWHxdRzvZg&expires=1792167167",
+                "link": "https://ravok.buzz/cdn/hls/8394e52d61d8bb953a579af2300606f5/master.m3u8?md5=Rk5mieocDjQtaWHxdRzvZg&expires=1792167167",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/e6FIHdgx6EE0rr-sSjwqUsDSLi3hP2Wbv0aTvuFVH1FpQJVzXnuYxsAdvHY-LOLh-5UE-Z0Y8pjGf0v-XHTlxw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "nCXmhP8dv"
+        }
+      },
+      "fetched_at": "2026-10-16T14:12:57Z"
+    },
+    {
+      "id": "episode/demon-lord-retry-1x10",
+      "episode_id": "episode/demon-lord-retry-1x10",
+      "title": "Demon Lord, Retry! 1x1",
+      "episode_name": "Demon Lord, Retry! 1x1",
+      "episode_number": 10,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1062_s1e10.webp",
+      "abyssid": "16758",
+      "abyssId": "16758",
+      "playxid": "a65cdaa87ef58fd864ee42ce5fd25dff",
+      "playXID": "a65cdaa87ef58fd864ee42ce5fd25dff",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16758",
+        "playXID": "a65cdaa87ef58fd864ee42ce5fd25dff",
+        "streamId": "16758",
+        "dubPlayerSrc": "/dub-player/t/16758/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a65cdaa87ef58fd864ee42ce5fd25dff&abyssId=16758"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16758",
+        "playXID": "a65cdaa87ef58fd864ee42ce5fd25dff",
+        "streamId": "16758",
+        "dubPlayerSrc": "/dub-player/t/16758/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a65cdaa87ef58fd864ee42ce5fd25dff&abyssId=16758"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/a65cdaa87ef58fd864ee42ce5fd25dff",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/a65cdaa87ef58fd864ee42ce5fd25dff"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16758",
+        "abyssId": "16758",
+        "playXID": "a65cdaa87ef58fd864ee42ce5fd25dff",
+        "title": "Demon Lord, Retry!",
+        "season": 1,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "SCBZqWEpd"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "dZT3dKgWS"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "dMwu4Tk1g"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "BKT93vCGu"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "ZOeYdZvscp"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/b9299fd14f0e844b0b6d4fc60d6968f8/master.m3u8?md5=7sYWWctR_40OKV8nxLPGKA&expires=1792167168",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/b9299fd14f0e844b0b6d4fc60d6968f8/master.m3u8?md5=7sYWWctR_40OKV8nxLPGKA&expires=1792167168",
+            "videoSource": "https://ravok.buzz/cdn/hls/b9299fd14f0e844b0b6d4fc60d6968f8/master.m3u8?md5=7sYWWctR_40OKV8nxLPGKA&expires=1792167168",
+            "videoImage": "https://as-cdn31.top/p/PAppWyJXfSkLXEjmu4M1oay0TApX2Bgnvn7DJcoOh1KSaY3JeRts9UtiY9qHQw68PjYDKYY9Ck8x06zKVISjQQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "a65cdaa87ef58fd864ee42ce5fd25dff",
+                "streamUrl": "https://ravok.buzz/cdn/hls/b9299fd14f0e844b0b6d4fc60d6968f8/master.m3u8?md5=7sYWWctR_40OKV8nxLPGKA&expires=1792167168",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/b9299fd14f0e844b0b6d4fc60d6968f8/master.m3u8?md5=7sYWWctR_40OKV8nxLPGKA&expires=1792167168",
+                "videoSource": "https://ravok.buzz/cdn/hls/b9299fd14f0e844b0b6d4fc60d6968f8/master.m3u8?md5=7sYWWctR_40OKV8nxLPGKA&expires=1792167168",
+                "link": "https://ravok.buzz/cdn/hls/b9299fd14f0e844b0b6d4fc60d6968f8/master.m3u8?md5=7sYWWctR_40OKV8nxLPGKA&expires=1792167168",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/PAppWyJXfSkLXEjmu4M1oay0TApX2Bgnvn7DJcoOh1KSaY3JeRts9UtiY9qHQw68PjYDKYY9Ck8x06zKVISjQQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "SCBZqWEpd"
+        }
+      },
+      "fetched_at": "2026-10-16T14:12:58Z"
+    },
+    {
+      "id": "episode/demon-lord-retry-1x11",
+      "episode_id": "episode/demon-lord-retry-1x11",
+      "title": "Demon Lord, Retry! 1x1",
+      "episode_name": "Demon Lord, Retry! 1x1",
+      "episode_number": 11,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1062_s1e11.webp",
+      "abyssid": "16759",
+      "abyssId": "16759",
+      "playxid": "9e2a95341631ba52ec8eb9c77a1ebd5b",
+      "playXID": "9e2a95341631ba52ec8eb9c77a1ebd5b",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16759",
+        "playXID": "9e2a95341631ba52ec8eb9c77a1ebd5b",
+        "streamId": "16759",
+        "dubPlayerSrc": "/dub-player/t/16759/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9e2a95341631ba52ec8eb9c77a1ebd5b&abyssId=16759"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16759",
+        "playXID": "9e2a95341631ba52ec8eb9c77a1ebd5b",
+        "streamId": "16759",
+        "dubPlayerSrc": "/dub-player/t/16759/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9e2a95341631ba52ec8eb9c77a1ebd5b&abyssId=16759"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/9e2a95341631ba52ec8eb9c77a1ebd5b",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/9e2a95341631ba52ec8eb9c77a1ebd5b"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16759",
+        "abyssId": "16759",
+        "playXID": "9e2a95341631ba52ec8eb9c77a1ebd5b",
+        "title": "Demon Lord, Retry!",
+        "season": 1,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "eKGRetLMj"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "z3QLiw-jmj"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "OOQR7Js99"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "Tf7kfFbkV"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "p9rPOerPa"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/4dd4b0d89a7654798b21ed6624e48d61/master.m3u8?md5=LjJaTSuxGTUG9Dt05I11-Q&expires=1792167169",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/4dd4b0d89a7654798b21ed6624e48d61/master.m3u8?md5=LjJaTSuxGTUG9Dt05I11-Q&expires=1792167169",
+            "videoSource": "https://ravok.buzz/cdn/hls/4dd4b0d89a7654798b21ed6624e48d61/master.m3u8?md5=LjJaTSuxGTUG9Dt05I11-Q&expires=1792167169",
+            "videoImage": "https://as-cdn28.top/p/PPygzpJ-3Eluv-OiwU0Uli3A9i1-h_6pjObmVCfmoOOK0FoTqEoJjLJKdq3ET1QXwB6868fP6_PoINB-CGNYzQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "9e2a95341631ba52ec8eb9c77a1ebd5b",
+                "streamUrl": "https://ravok.buzz/cdn/hls/4dd4b0d89a7654798b21ed6624e48d61/master.m3u8?md5=LjJaTSuxGTUG9Dt05I11-Q&expires=1792167169",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/4dd4b0d89a7654798b21ed6624e48d61/master.m3u8?md5=LjJaTSuxGTUG9Dt05I11-Q&expires=1792167169",
+                "videoSource": "https://ravok.buzz/cdn/hls/4dd4b0d89a7654798b21ed6624e48d61/master.m3u8?md5=LjJaTSuxGTUG9Dt05I11-Q&expires=1792167169",
+                "link": "https://ravok.buzz/cdn/hls/4dd4b0d89a7654798b21ed6624e48d61/master.m3u8?md5=LjJaTSuxGTUG9Dt05I11-Q&expires=1792167169",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/PPygzpJ-3Eluv-OiwU0Uli3A9i1-h_6pjObmVCfmoOOK0FoTqEoJjLJKdq3ET1QXwB6868fP6_PoINB-CGNYzQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "eKGRetLMj"
+        }
+      },
+      "fetched_at": "2026-10-16T14:12:58Z"
+    },
+    {
+      "id": "episode/demon-lord-retry-1x12",
+      "episode_id": "episode/demon-lord-retry-1x12",
+      "title": "Demon Lord, Retry! 1x1",
+      "episode_name": "Demon Lord, Retry! 1x1",
+      "episode_number": 12,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1062_s1e12.webp",
+      "abyssid": "16760",
+      "abyssId": "16760",
+      "playxid": "9c0ddedc5328cfa7f7f97cab05b1338b",
+      "playXID": "9c0ddedc5328cfa7f7f97cab05b1338b",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16760",
+        "playXID": "9c0ddedc5328cfa7f7f97cab05b1338b",
+        "streamId": "16760",
+        "dubPlayerSrc": "/dub-player/t/16760/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9c0ddedc5328cfa7f7f97cab05b1338b&abyssId=16760"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16760",
+        "playXID": "9c0ddedc5328cfa7f7f97cab05b1338b",
+        "streamId": "16760",
+        "dubPlayerSrc": "/dub-player/t/16760/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9c0ddedc5328cfa7f7f97cab05b1338b&abyssId=16760"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/9c0ddedc5328cfa7f7f97cab05b1338b",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/9c0ddedc5328cfa7f7f97cab05b1338b"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16760",
+        "abyssId": "16760",
+        "playXID": "9c0ddedc5328cfa7f7f97cab05b1338b",
+        "title": "Demon Lord, Retry!",
+        "season": 1,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "UDW3lXeYZ"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "_HaAWemcAi"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "urLAEaMhb"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "AUJ1hzT00"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "9xfjIxSBx"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/258f025dfc865e91a085f8d921df6ece/master.m3u8?md5=6Si05lUj__Bw22cUzNGcgA&expires=1792167169",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/258f025dfc865e91a085f8d921df6ece/master.m3u8?md5=6Si05lUj__Bw22cUzNGcgA&expires=1792167169",
+            "videoSource": "https://ravok.buzz/cdn/hls/258f025dfc865e91a085f8d921df6ece/master.m3u8?md5=6Si05lUj__Bw22cUzNGcgA&expires=1792167169",
+            "videoImage": "https://as-cdn31.top/p/w03ADR93qaJcvLwiyo7Lg-fvhkTJyFHpIECZaStG7R1ij5DP4NkPAYFiYep-CL-njgxgaVQ48ZqkQ9EGO4RiwQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "9c0ddedc5328cfa7f7f97cab05b1338b",
+                "streamUrl": "https://ravok.buzz/cdn/hls/258f025dfc865e91a085f8d921df6ece/master.m3u8?md5=6Si05lUj__Bw22cUzNGcgA&expires=1792167169",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/258f025dfc865e91a085f8d921df6ece/master.m3u8?md5=6Si05lUj__Bw22cUzNGcgA&expires=1792167169",
+                "videoSource": "https://ravok.buzz/cdn/hls/258f025dfc865e91a085f8d921df6ece/master.m3u8?md5=6Si05lUj__Bw22cUzNGcgA&expires=1792167169",
+                "link": "https://ravok.buzz/cdn/hls/258f025dfc865e91a085f8d921df6ece/master.m3u8?md5=6Si05lUj__Bw22cUzNGcgA&expires=1792167169",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/w03ADR93qaJcvLwiyo7Lg-fvhkTJyFHpIECZaStG7R1ij5DP4NkPAYFiYep-CL-njgxgaVQ48ZqkQ9EGO4RiwQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "UDW3lXeYZ"
+        }
+      },
+      "fetched_at": "2026-10-16T14:13:00Z"
+    },
+    {
+      "id": "episode/demon-lord-retry-1x5",
+      "episode_id": "episode/demon-lord-retry-1x5",
+      "title": "Demon Lord, Retry! 1x1",
+      "episode_name": "Demon Lord, Retry! 1x1",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1062_s1e5.webp",
+      "abyssid": "16753",
+      "abyssId": "16753",
+      "playxid": "a43bf030e75e0614616467f596075f14",
+      "playXID": "a43bf030e75e0614616467f596075f14",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16753",
+        "playXID": "a43bf030e75e0614616467f596075f14",
+        "streamId": "16753",
+        "dubPlayerSrc": "/dub-player/t/16753/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a43bf030e75e0614616467f596075f14&abyssId=16753"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16753",
+        "playXID": "a43bf030e75e0614616467f596075f14",
+        "streamId": "16753",
+        "dubPlayerSrc": "/dub-player/t/16753/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a43bf030e75e0614616467f596075f14&abyssId=16753"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/a43bf030e75e0614616467f596075f14",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/a43bf030e75e0614616467f596075f14"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16753",
+        "abyssId": "16753",
+        "playXID": "a43bf030e75e0614616467f596075f14",
+        "title": "Demon Lord, Retry!",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "nOVH4LXBP"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "xLoiKMaKu"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "PLojmCoyi"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "xIgSCgdLt"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "bb_FdzOqME"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/ec7366a9b45326ec74fa186960d94262/master.m3u8?md5=orRHuFxdttKdt43sAupkXQ&expires=1792167169",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/ec7366a9b45326ec74fa186960d94262/master.m3u8?md5=orRHuFxdttKdt43sAupkXQ&expires=1792167169",
+            "videoSource": "https://ravok.buzz/cdn/hls/ec7366a9b45326ec74fa186960d94262/master.m3u8?md5=orRHuFxdttKdt43sAupkXQ&expires=1792167169",
+            "videoImage": "https://as-cdn27.top/p/saERJKMhRkjlAbPcch65zXAEj8dvPpH_Dg1Tp9NqKb5pqbdepSVWFDcmIJR8r42krSKdhdWTlxoIfRU-gBkvfg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "a43bf030e75e0614616467f596075f14",
+                "streamUrl": "https://ravok.buzz/cdn/hls/ec7366a9b45326ec74fa186960d94262/master.m3u8?md5=orRHuFxdttKdt43sAupkXQ&expires=1792167169",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/ec7366a9b45326ec74fa186960d94262/master.m3u8?md5=orRHuFxdttKdt43sAupkXQ&expires=1792167169",
+                "videoSource": "https://ravok.buzz/cdn/hls/ec7366a9b45326ec74fa186960d94262/master.m3u8?md5=orRHuFxdttKdt43sAupkXQ&expires=1792167169",
+                "link": "https://ravok.buzz/cdn/hls/ec7366a9b45326ec74fa186960d94262/master.m3u8?md5=orRHuFxdttKdt43sAupkXQ&expires=1792167169",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/saERJKMhRkjlAbPcch65zXAEj8dvPpH_Dg1Tp9NqKb5pqbdepSVWFDcmIJR8r42krSKdhdWTlxoIfRU-gBkvfg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "nOVH4LXBP"
+        }
+      },
+      "fetched_at": "2026-10-16T14:13:01Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T14:12:46Z",
+  "updated_at": "2026-10-16T14:13:01Z"
+}

@@ -1,0 +1,1359 @@
+{
+  "id": "series/akudama-drive",
+  "series_name": "Akudama Drive",
+  "title": "Akudama Drive",
+  "banner": "https://image.tmdb.org/t/p/w1280/9guUQdqCWB1P6yK35p6UJ7lhQVw.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/1s3fwsH3AjuyzObYHiptiYRgFa.jpg",
+  "genra": [
+    "Action",
+    "Adult Cast",
+    "Drama",
+    "Gore",
+    "Sci-Fi",
+    "Suspense",
+    "Thriller"
+  ],
+  "genres": [
+    "Action",
+    "Adult Cast",
+    "Drama",
+    "Gore",
+    "Sci-Fi",
+    "Suspense",
+    "Thriller"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Japanese"
+  ],
+  "synopsis": "Many years ago, a Great Civil War ravaged Japan, leaving the country fragmented between two regions: Kansai and Kanto. In Kansai, a group of six Akudama carry out missions given to them by a mysterious black cat, while evading the police. But a dangerous journey is about to unfold when a civilian girl becomes twisted into the Akudama's way of life and witnesses their criminal drives.",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Akudama Drive 1x1",
+          "id": "episode/akudama-drive-1x1",
+          "image": "https://img.watchanimeworld.one/img/thumb_1404_s1e1.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "Akudama Drive 1x2",
+          "id": "episode/akudama-drive-1x2",
+          "image": "https://img.watchanimeworld.one/img/thumb_1404_s1e2.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "Akudama Drive 1x3",
+          "id": "episode/akudama-drive-1x3",
+          "image": "https://img.watchanimeworld.one/img/thumb_1404_s1e3.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "Akudama Drive 1x4",
+          "id": "episode/akudama-drive-1x4",
+          "image": "https://img.watchanimeworld.one/img/thumb_1404_s1e4.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "Akudama Drive 1x5",
+          "id": "episode/akudama-drive-1x5",
+          "image": "https://img.watchanimeworld.one/img/thumb_1404_s1e5.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "Akudama Drive 1x6",
+          "id": "episode/akudama-drive-1x6",
+          "image": "https://img.watchanimeworld.one/img/thumb_1404_s1e6.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "Akudama Drive 1x7",
+          "id": "episode/akudama-drive-1x7",
+          "image": "https://img.watchanimeworld.one/img/thumb_1404_s1e7.webp",
+          "season": 1
+        },
+        {
+          "episode": 8,
+          "title": "Akudama Drive 1x8",
+          "id": "episode/akudama-drive-1x8",
+          "image": "https://img.watchanimeworld.one/img/thumb_1404_s1e8.webp",
+          "season": 1
+        },
+        {
+          "episode": 9,
+          "title": "Akudama Drive 1x9",
+          "id": "episode/akudama-drive-1x9",
+          "image": "https://img.watchanimeworld.one/img/thumb_1404_s1e9.webp",
+          "season": 1
+        },
+        {
+          "episode": 10,
+          "title": "Akudama Drive 1x10",
+          "id": "episode/akudama-drive-1x10",
+          "image": "https://img.watchanimeworld.one/img/thumb_1404_s1e10.webp",
+          "season": 1
+        },
+        {
+          "episode": 11,
+          "title": "Akudama Drive 1x11",
+          "id": "episode/akudama-drive-1x11",
+          "image": "https://img.watchanimeworld.one/img/thumb_1404_s1e11.webp",
+          "season": 1
+        },
+        {
+          "episode": 12,
+          "title": "Akudama Drive 1x12",
+          "id": "episode/akudama-drive-1x12",
+          "image": "https://img.watchanimeworld.one/img/thumb_1404_s1e12.webp",
+          "season": 1
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/akudama-drive-1x1",
+      "episode_id": "episode/akudama-drive-1x1",
+      "title": "Akudama Drive 1x1",
+      "episode_name": "Akudama Drive 1x1",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1404_s1e1.webp",
+      "abyssid": "13565",
+      "abyssId": "13565",
+      "playxid": "dc2f35f73846befd60a4e76b4e094d20",
+      "playXID": "dc2f35f73846befd60a4e76b4e094d20",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13565",
+        "playXID": "dc2f35f73846befd60a4e76b4e094d20",
+        "streamId": "13565",
+        "dubPlayerSrc": "/dub-player/t/13565/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=dc2f35f73846befd60a4e76b4e094d20&abyssId=13565"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13565",
+        "playXID": "dc2f35f73846befd60a4e76b4e094d20",
+        "streamId": "13565",
+        "dubPlayerSrc": "/dub-player/t/13565/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=dc2f35f73846befd60a4e76b4e094d20&abyssId=13565"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/dc2f35f73846befd60a4e76b4e094d20",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/dc2f35f73846befd60a4e76b4e094d20"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13565",
+        "abyssId": "13565",
+        "playXID": "dc2f35f73846befd60a4e76b4e094d20",
+        "title": "Akudama Drive",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "XvtF2AyBD"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "gyBpPMJvN"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "yocIihDJF"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/ece817c8c90479261add9cde1b922bb7/master.m3u8?md5=fmoQghPzb9MN1xlcDZQhpw&expires=1792166769",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/ece817c8c90479261add9cde1b922bb7/master.m3u8?md5=fmoQghPzb9MN1xlcDZQhpw&expires=1792166769",
+            "videoSource": "https://ravok.buzz/cdn/hls/ece817c8c90479261add9cde1b922bb7/master.m3u8?md5=fmoQghPzb9MN1xlcDZQhpw&expires=1792166769",
+            "videoImage": "https://as-cdn29.top/p/s3VT0DveWq6ADYHv-BBYPjqND65jN2C5TGG9jT8v-JdmZD2janldBeNtuHWIKhWeIgts81EZOo-jmPlGdhct2g.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "dc2f35f73846befd60a4e76b4e094d20",
+                "streamUrl": "https://ravok.buzz/cdn/hls/ece817c8c90479261add9cde1b922bb7/master.m3u8?md5=fmoQghPzb9MN1xlcDZQhpw&expires=1792166769",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/ece817c8c90479261add9cde1b922bb7/master.m3u8?md5=fmoQghPzb9MN1xlcDZQhpw&expires=1792166769",
+                "videoSource": "https://ravok.buzz/cdn/hls/ece817c8c90479261add9cde1b922bb7/master.m3u8?md5=fmoQghPzb9MN1xlcDZQhpw&expires=1792166769",
+                "link": "https://ravok.buzz/cdn/hls/ece817c8c90479261add9cde1b922bb7/master.m3u8?md5=fmoQghPzb9MN1xlcDZQhpw&expires=1792166769",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/s3VT0DveWq6ADYHv-BBYPjqND65jN2C5TGG9jT8v-JdmZD2janldBeNtuHWIKhWeIgts81EZOo-jmPlGdhct2g.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "XvtF2AyBD"
+        }
+      },
+      "fetched_at": "2026-10-16T14:06:19Z"
+    },
+    {
+      "id": "episode/akudama-drive-1x5",
+      "episode_id": "episode/akudama-drive-1x5",
+      "title": "Akudama Drive 1x1",
+      "episode_name": "Akudama Drive 1x1",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1404_s1e5.webp",
+      "abyssid": "13569",
+      "abyssId": "13569",
+      "playxid": "e07dc6c359423eb2c69ad41231f34e5e",
+      "playXID": "e07dc6c359423eb2c69ad41231f34e5e",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13569",
+        "playXID": "e07dc6c359423eb2c69ad41231f34e5e",
+        "streamId": "13569",
+        "dubPlayerSrc": "/dub-player/t/13569/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e07dc6c359423eb2c69ad41231f34e5e&abyssId=13569"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13569",
+        "playXID": "e07dc6c359423eb2c69ad41231f34e5e",
+        "streamId": "13569",
+        "dubPlayerSrc": "/dub-player/t/13569/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e07dc6c359423eb2c69ad41231f34e5e&abyssId=13569"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/e07dc6c359423eb2c69ad41231f34e5e",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/e07dc6c359423eb2c69ad41231f34e5e"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13569",
+        "abyssId": "13569",
+        "playXID": "e07dc6c359423eb2c69ad41231f34e5e",
+        "title": "Akudama Drive",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "3m9XClwB_"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "SBmOwrA1a"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "JNzY9SI55"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/75d313671f204c934fcca2a4768b4ecf/master.m3u8?md5=h2ORrU6h5bu4Ezg0pqlZbw&expires=1792166769",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/75d313671f204c934fcca2a4768b4ecf/master.m3u8?md5=h2ORrU6h5bu4Ezg0pqlZbw&expires=1792166769",
+            "videoSource": "https://ravok.buzz/cdn/hls/75d313671f204c934fcca2a4768b4ecf/master.m3u8?md5=h2ORrU6h5bu4Ezg0pqlZbw&expires=1792166769",
+            "videoImage": "https://as-cdn30.top/p/hHSPGl1nPxa8CfA31yX0JdFCnVmf6Ouy6NnUxKk4WkIlbqD00xj2ZyNjVu2RgLMQGUrsRAE8dVNzd-eMVVjwCg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "e07dc6c359423eb2c69ad41231f34e5e",
+                "streamUrl": "https://ravok.buzz/cdn/hls/75d313671f204c934fcca2a4768b4ecf/master.m3u8?md5=h2ORrU6h5bu4Ezg0pqlZbw&expires=1792166769",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/75d313671f204c934fcca2a4768b4ecf/master.m3u8?md5=h2ORrU6h5bu4Ezg0pqlZbw&expires=1792166769",
+                "videoSource": "https://ravok.buzz/cdn/hls/75d313671f204c934fcca2a4768b4ecf/master.m3u8?md5=h2ORrU6h5bu4Ezg0pqlZbw&expires=1792166769",
+                "link": "https://ravok.buzz/cdn/hls/75d313671f204c934fcca2a4768b4ecf/master.m3u8?md5=h2ORrU6h5bu4Ezg0pqlZbw&expires=1792166769",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/hHSPGl1nPxa8CfA31yX0JdFCnVmf6Ouy6NnUxKk4WkIlbqD00xj2ZyNjVu2RgLMQGUrsRAE8dVNzd-eMVVjwCg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "3m9XClwB_"
+        }
+      },
+      "fetched_at": "2026-10-16T14:06:19Z"
+    },
+    {
+      "id": "episode/akudama-drive-1x2",
+      "episode_id": "episode/akudama-drive-1x2",
+      "title": "Akudama Drive 1x1",
+      "episode_name": "Akudama Drive 1x1",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1404_s1e2.webp",
+      "abyssid": "13566",
+      "abyssId": "13566",
+      "playxid": "6f900a87ef0131f00d829e58b5891ead",
+      "playXID": "6f900a87ef0131f00d829e58b5891ead",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13566",
+        "playXID": "6f900a87ef0131f00d829e58b5891ead",
+        "streamId": "13566",
+        "dubPlayerSrc": "/dub-player/t/13566/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6f900a87ef0131f00d829e58b5891ead&abyssId=13566"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13566",
+        "playXID": "6f900a87ef0131f00d829e58b5891ead",
+        "streamId": "13566",
+        "dubPlayerSrc": "/dub-player/t/13566/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6f900a87ef0131f00d829e58b5891ead&abyssId=13566"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/6f900a87ef0131f00d829e58b5891ead",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/6f900a87ef0131f00d829e58b5891ead"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13566",
+        "abyssId": "13566",
+        "playXID": "6f900a87ef0131f00d829e58b5891ead",
+        "title": "Akudama Drive",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "RK4e_-wKc"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "049YacJZF"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "mv54HPeWU"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/549b843995bf620ecfccd14cac25e642/master.m3u8?md5=nJZvC3AFLTBa67aTLD979Q&expires=1792166769",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/549b843995bf620ecfccd14cac25e642/master.m3u8?md5=nJZvC3AFLTBa67aTLD979Q&expires=1792166769",
+            "videoSource": "https://ravok.buzz/cdn/hls/549b843995bf620ecfccd14cac25e642/master.m3u8?md5=nJZvC3AFLTBa67aTLD979Q&expires=1792166769",
+            "videoImage": "https://as-cdn29.top/p/LnmF-lm-cU9IFqPzXPadysRT_OpEUO_R1neTPyiyWi1qr1eLikOhB0AmP1Z09E2fdeMJJHJdLTjHmope6J1rLA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "6f900a87ef0131f00d829e58b5891ead",
+                "streamUrl": "https://ravok.buzz/cdn/hls/549b843995bf620ecfccd14cac25e642/master.m3u8?md5=nJZvC3AFLTBa67aTLD979Q&expires=1792166769",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/549b843995bf620ecfccd14cac25e642/master.m3u8?md5=nJZvC3AFLTBa67aTLD979Q&expires=1792166769",
+                "videoSource": "https://ravok.buzz/cdn/hls/549b843995bf620ecfccd14cac25e642/master.m3u8?md5=nJZvC3AFLTBa67aTLD979Q&expires=1792166769",
+                "link": "https://ravok.buzz/cdn/hls/549b843995bf620ecfccd14cac25e642/master.m3u8?md5=nJZvC3AFLTBa67aTLD979Q&expires=1792166769",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/LnmF-lm-cU9IFqPzXPadysRT_OpEUO_R1neTPyiyWi1qr1eLikOhB0AmP1Z09E2fdeMJJHJdLTjHmope6J1rLA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "RK4e_-wKc"
+        }
+      },
+      "fetched_at": "2026-10-16T14:06:19Z"
+    },
+    {
+      "id": "episode/akudama-drive-1x3",
+      "episode_id": "episode/akudama-drive-1x3",
+      "title": "Akudama Drive 1x1",
+      "episode_name": "Akudama Drive 1x1",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1404_s1e3.webp",
+      "abyssid": "13567",
+      "abyssId": "13567",
+      "playxid": "fde0516fdc5aadb0b68d6c184067e7c9",
+      "playXID": "fde0516fdc5aadb0b68d6c184067e7c9",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13567",
+        "playXID": "fde0516fdc5aadb0b68d6c184067e7c9",
+        "streamId": "13567",
+        "dubPlayerSrc": "/dub-player/t/13567/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=fde0516fdc5aadb0b68d6c184067e7c9&abyssId=13567"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13567",
+        "playXID": "fde0516fdc5aadb0b68d6c184067e7c9",
+        "streamId": "13567",
+        "dubPlayerSrc": "/dub-player/t/13567/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=fde0516fdc5aadb0b68d6c184067e7c9&abyssId=13567"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/fde0516fdc5aadb0b68d6c184067e7c9",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/fde0516fdc5aadb0b68d6c184067e7c9"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13567",
+        "abyssId": "13567",
+        "playXID": "fde0516fdc5aadb0b68d6c184067e7c9",
+        "title": "Akudama Drive",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "eDNa5h-37"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "jptrIcoHg"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "MznseVLSt"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/ca9751f1020dd91eac9a241ad45a9ba0/master.m3u8?md5=yDNwHXSZ19UUAe_XxSZaPw&expires=1792166770",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/ca9751f1020dd91eac9a241ad45a9ba0/master.m3u8?md5=yDNwHXSZ19UUAe_XxSZaPw&expires=1792166770",
+            "videoSource": "https://ravok.buzz/cdn/hls/ca9751f1020dd91eac9a241ad45a9ba0/master.m3u8?md5=yDNwHXSZ19UUAe_XxSZaPw&expires=1792166770",
+            "videoImage": "https://as-cdn27.top/p/uILKfPckvFyDJL2pJDvnehIVU1yvwGrgwenKGTGJAtH5C1pbms5gFyGwmgTY2OSXEFlg9k4XPvR8MsXzw4dqIA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "fde0516fdc5aadb0b68d6c184067e7c9",
+                "streamUrl": "https://ravok.buzz/cdn/hls/ca9751f1020dd91eac9a241ad45a9ba0/master.m3u8?md5=yDNwHXSZ19UUAe_XxSZaPw&expires=1792166770",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/ca9751f1020dd91eac9a241ad45a9ba0/master.m3u8?md5=yDNwHXSZ19UUAe_XxSZaPw&expires=1792166770",
+                "videoSource": "https://ravok.buzz/cdn/hls/ca9751f1020dd91eac9a241ad45a9ba0/master.m3u8?md5=yDNwHXSZ19UUAe_XxSZaPw&expires=1792166770",
+                "link": "https://ravok.buzz/cdn/hls/ca9751f1020dd91eac9a241ad45a9ba0/master.m3u8?md5=yDNwHXSZ19UUAe_XxSZaPw&expires=1792166770",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/uILKfPckvFyDJL2pJDvnehIVU1yvwGrgwenKGTGJAtH5C1pbms5gFyGwmgTY2OSXEFlg9k4XPvR8MsXzw4dqIA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "eDNa5h-37"
+        }
+      },
+      "fetched_at": "2026-10-16T14:06:20Z"
+    },
+    {
+      "id": "episode/akudama-drive-1x4",
+      "episode_id": "episode/akudama-drive-1x4",
+      "title": "Akudama Drive 1x1",
+      "episode_name": "Akudama Drive 1x1",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1404_s1e4.webp",
+      "abyssid": "13568",
+      "abyssId": "13568",
+      "playxid": "a104b341c748a4acdf73629458440c0c",
+      "playXID": "a104b341c748a4acdf73629458440c0c",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13568",
+        "playXID": "a104b341c748a4acdf73629458440c0c",
+        "streamId": "13568",
+        "dubPlayerSrc": "/dub-player/t/13568/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a104b341c748a4acdf73629458440c0c&abyssId=13568"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13568",
+        "playXID": "a104b341c748a4acdf73629458440c0c",
+        "streamId": "13568",
+        "dubPlayerSrc": "/dub-player/t/13568/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a104b341c748a4acdf73629458440c0c&abyssId=13568"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/a104b341c748a4acdf73629458440c0c",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/a104b341c748a4acdf73629458440c0c"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13568",
+        "abyssId": "13568",
+        "playXID": "a104b341c748a4acdf73629458440c0c",
+        "title": "Akudama Drive",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "dOP3d-IFM"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "T3RxRPQZe"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "zLp2LdkRw"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/f6a51c67a8f805409b0bdde3d443f67e/master.m3u8?md5=iuVthiHGH_9oL6Narp6iFQ&expires=1792166770",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/f6a51c67a8f805409b0bdde3d443f67e/master.m3u8?md5=iuVthiHGH_9oL6Narp6iFQ&expires=1792166770",
+            "videoSource": "https://ravok.buzz/cdn/hls/f6a51c67a8f805409b0bdde3d443f67e/master.m3u8?md5=iuVthiHGH_9oL6Narp6iFQ&expires=1792166770",
+            "videoImage": "https://as-cdn27.top/p/8oOmma3dpAeTbDsuuQbFzpWb_8URvI934i6-ZAO8qAOsQ3St8LkPQGLDS3zuoH27wABujl7hIGC_XVeiy89p3g.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "a104b341c748a4acdf73629458440c0c",
+                "streamUrl": "https://ravok.buzz/cdn/hls/f6a51c67a8f805409b0bdde3d443f67e/master.m3u8?md5=iuVthiHGH_9oL6Narp6iFQ&expires=1792166770",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/f6a51c67a8f805409b0bdde3d443f67e/master.m3u8?md5=iuVthiHGH_9oL6Narp6iFQ&expires=1792166770",
+                "videoSource": "https://ravok.buzz/cdn/hls/f6a51c67a8f805409b0bdde3d443f67e/master.m3u8?md5=iuVthiHGH_9oL6Narp6iFQ&expires=1792166770",
+                "link": "https://ravok.buzz/cdn/hls/f6a51c67a8f805409b0bdde3d443f67e/master.m3u8?md5=iuVthiHGH_9oL6Narp6iFQ&expires=1792166770",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/8oOmma3dpAeTbDsuuQbFzpWb_8URvI934i6-ZAO8qAOsQ3St8LkPQGLDS3zuoH27wABujl7hIGC_XVeiy89p3g.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "dOP3d-IFM"
+        }
+      },
+      "fetched_at": "2026-10-16T14:06:20Z"
+    },
+    {
+      "id": "episode/akudama-drive-1x6",
+      "episode_id": "episode/akudama-drive-1x6",
+      "title": "Akudama Drive 1x1",
+      "episode_name": "Akudama Drive 1x1",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1404_s1e6.webp",
+      "abyssid": "13570",
+      "abyssId": "13570",
+      "playxid": "53b1ab0fb54159c63dc80b31554ed473",
+      "playXID": "53b1ab0fb54159c63dc80b31554ed473",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13570",
+        "playXID": "53b1ab0fb54159c63dc80b31554ed473",
+        "streamId": "13570",
+        "dubPlayerSrc": "/dub-player/t/13570/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=53b1ab0fb54159c63dc80b31554ed473&abyssId=13570"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13570",
+        "playXID": "53b1ab0fb54159c63dc80b31554ed473",
+        "streamId": "13570",
+        "dubPlayerSrc": "/dub-player/t/13570/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=53b1ab0fb54159c63dc80b31554ed473&abyssId=13570"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/53b1ab0fb54159c63dc80b31554ed473",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/53b1ab0fb54159c63dc80b31554ed473"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13570",
+        "abyssId": "13570",
+        "playXID": "53b1ab0fb54159c63dc80b31554ed473",
+        "title": "Akudama Drive",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "xmydAYRQe"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "E_bNQOMkk"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "5jMRAwdLH"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/43f8ab59870f2f86b87546da22c84da5/master.m3u8?md5=3IiB1BJN5ClFdyJKdrh1jA&expires=1792166771",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/43f8ab59870f2f86b87546da22c84da5/master.m3u8?md5=3IiB1BJN5ClFdyJKdrh1jA&expires=1792166771",
+            "videoSource": "https://ravok.buzz/cdn/hls/43f8ab59870f2f86b87546da22c84da5/master.m3u8?md5=3IiB1BJN5ClFdyJKdrh1jA&expires=1792166771",
+            "videoImage": "https://as-cdn29.top/p/C8MGqy_RpHSm19et-dlrKsMioJ0cSMkgaxe2-ZSTCvZsVjaoc3ITlSTHRp4GrTh1-JJCCi3uasYX26sRzbr3Ow.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "53b1ab0fb54159c63dc80b31554ed473",
+                "streamUrl": "https://ravok.buzz/cdn/hls/43f8ab59870f2f86b87546da22c84da5/master.m3u8?md5=3IiB1BJN5ClFdyJKdrh1jA&expires=1792166771",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/43f8ab59870f2f86b87546da22c84da5/master.m3u8?md5=3IiB1BJN5ClFdyJKdrh1jA&expires=1792166771",
+                "videoSource": "https://ravok.buzz/cdn/hls/43f8ab59870f2f86b87546da22c84da5/master.m3u8?md5=3IiB1BJN5ClFdyJKdrh1jA&expires=1792166771",
+                "link": "https://ravok.buzz/cdn/hls/43f8ab59870f2f86b87546da22c84da5/master.m3u8?md5=3IiB1BJN5ClFdyJKdrh1jA&expires=1792166771",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/C8MGqy_RpHSm19et-dlrKsMioJ0cSMkgaxe2-ZSTCvZsVjaoc3ITlSTHRp4GrTh1-JJCCi3uasYX26sRzbr3Ow.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "xmydAYRQe"
+        }
+      },
+      "fetched_at": "2026-10-16T14:06:21Z"
+    },
+    {
+      "id": "episode/akudama-drive-1x8",
+      "episode_id": "episode/akudama-drive-1x8",
+      "title": "Akudama Drive 1x1",
+      "episode_name": "Akudama Drive 1x1",
+      "episode_number": 8,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1404_s1e8.webp",
+      "abyssid": "13572",
+      "abyssId": "13572",
+      "playxid": "ec5c931cc3eb9fcc8a46b364c0f69e51",
+      "playXID": "ec5c931cc3eb9fcc8a46b364c0f69e51",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13572",
+        "playXID": "ec5c931cc3eb9fcc8a46b364c0f69e51",
+        "streamId": "13572",
+        "dubPlayerSrc": "/dub-player/t/13572/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ec5c931cc3eb9fcc8a46b364c0f69e51&abyssId=13572"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13572",
+        "playXID": "ec5c931cc3eb9fcc8a46b364c0f69e51",
+        "streamId": "13572",
+        "dubPlayerSrc": "/dub-player/t/13572/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ec5c931cc3eb9fcc8a46b364c0f69e51&abyssId=13572"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/ec5c931cc3eb9fcc8a46b364c0f69e51",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/ec5c931cc3eb9fcc8a46b364c0f69e51"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13572",
+        "abyssId": "13572",
+        "playXID": "ec5c931cc3eb9fcc8a46b364c0f69e51",
+        "title": "Akudama Drive",
+        "season": 1,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "ZbxBx9-gL"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "3Y8jq0xuZ"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "OcfjG6kQy"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/0d9ae67b4015c093cd2788eeec118236/master.m3u8?md5=Ojai0sR_QH9yzXMSCdROPA&expires=1792166771",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/0d9ae67b4015c093cd2788eeec118236/master.m3u8?md5=Ojai0sR_QH9yzXMSCdROPA&expires=1792166771",
+            "videoSource": "https://ravok.buzz/cdn/hls/0d9ae67b4015c093cd2788eeec118236/master.m3u8?md5=Ojai0sR_QH9yzXMSCdROPA&expires=1792166771",
+            "videoImage": "https://as-cdn30.top/p/N-UPf7vKIzTtqKd-N6vw-JkvCfAjfPZrjJXuXyFpCJemzZZX8wx47UfUHyCdAukrulF6vOLEkamcj2HL6y7oeg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "ec5c931cc3eb9fcc8a46b364c0f69e51",
+                "streamUrl": "https://ravok.buzz/cdn/hls/0d9ae67b4015c093cd2788eeec118236/master.m3u8?md5=Ojai0sR_QH9yzXMSCdROPA&expires=1792166771",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/0d9ae67b4015c093cd2788eeec118236/master.m3u8?md5=Ojai0sR_QH9yzXMSCdROPA&expires=1792166771",
+                "videoSource": "https://ravok.buzz/cdn/hls/0d9ae67b4015c093cd2788eeec118236/master.m3u8?md5=Ojai0sR_QH9yzXMSCdROPA&expires=1792166771",
+                "link": "https://ravok.buzz/cdn/hls/0d9ae67b4015c093cd2788eeec118236/master.m3u8?md5=Ojai0sR_QH9yzXMSCdROPA&expires=1792166771",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/N-UPf7vKIzTtqKd-N6vw-JkvCfAjfPZrjJXuXyFpCJemzZZX8wx47UfUHyCdAukrulF6vOLEkamcj2HL6y7oeg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "ZbxBx9-gL"
+        }
+      },
+      "fetched_at": "2026-10-16T14:06:21Z"
+    },
+    {
+      "id": "episode/akudama-drive-1x7",
+      "episode_id": "episode/akudama-drive-1x7",
+      "title": "Akudama Drive 1x1",
+      "episode_name": "Akudama Drive 1x1",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1404_s1e7.webp",
+      "abyssid": "13571",
+      "abyssId": "13571",
+      "playxid": "ff4d70de478038c72282b7e4af1d4260",
+      "playXID": "ff4d70de478038c72282b7e4af1d4260",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13571",
+        "playXID": "ff4d70de478038c72282b7e4af1d4260",
+        "streamId": "13571",
+        "dubPlayerSrc": "/dub-player/t/13571/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ff4d70de478038c72282b7e4af1d4260&abyssId=13571"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13571",
+        "playXID": "ff4d70de478038c72282b7e4af1d4260",
+        "streamId": "13571",
+        "dubPlayerSrc": "/dub-player/t/13571/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ff4d70de478038c72282b7e4af1d4260&abyssId=13571"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/ff4d70de478038c72282b7e4af1d4260",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/ff4d70de478038c72282b7e4af1d4260"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13571",
+        "abyssId": "13571",
+        "playXID": "ff4d70de478038c72282b7e4af1d4260",
+        "title": "Akudama Drive",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "xOQkCzmjC"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "GQRtv4M8M"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "a7DGaFLC-k"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/d7af805ac7d3ff9b3c94057cf6716353/master.m3u8?md5=dBJ-akw7vf8KO7UHNH-A3g&expires=1792166772",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/d7af805ac7d3ff9b3c94057cf6716353/master.m3u8?md5=dBJ-akw7vf8KO7UHNH-A3g&expires=1792166772",
+            "videoSource": "https://ravok.buzz/cdn/hls/d7af805ac7d3ff9b3c94057cf6716353/master.m3u8?md5=dBJ-akw7vf8KO7UHNH-A3g&expires=1792166772",
+            "videoImage": "https://as-cdn29.top/p/6Sz_2CycmzKjio7aHaD6X4LG0ToJgCLJmi1U_ksewY9u1oGo40oxjzxxo0z9puOXXECqgo1Afrk1cr9m7wEP4A.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "ff4d70de478038c72282b7e4af1d4260",
+                "streamUrl": "https://ravok.buzz/cdn/hls/d7af805ac7d3ff9b3c94057cf6716353/master.m3u8?md5=dBJ-akw7vf8KO7UHNH-A3g&expires=1792166772",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/d7af805ac7d3ff9b3c94057cf6716353/master.m3u8?md5=dBJ-akw7vf8KO7UHNH-A3g&expires=1792166772",
+                "videoSource": "https://ravok.buzz/cdn/hls/d7af805ac7d3ff9b3c94057cf6716353/master.m3u8?md5=dBJ-akw7vf8KO7UHNH-A3g&expires=1792166772",
+                "link": "https://ravok.buzz/cdn/hls/d7af805ac7d3ff9b3c94057cf6716353/master.m3u8?md5=dBJ-akw7vf8KO7UHNH-A3g&expires=1792166772",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/6Sz_2CycmzKjio7aHaD6X4LG0ToJgCLJmi1U_ksewY9u1oGo40oxjzxxo0z9puOXXECqgo1Afrk1cr9m7wEP4A.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "xOQkCzmjC"
+        }
+      },
+      "fetched_at": "2026-10-16T14:06:21Z"
+    },
+    {
+      "id": "episode/akudama-drive-1x10",
+      "episode_id": "episode/akudama-drive-1x10",
+      "title": "Akudama Drive 1x1",
+      "episode_name": "Akudama Drive 1x1",
+      "episode_number": 10,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1404_s1e10.webp",
+      "abyssid": "13574",
+      "abyssId": "13574",
+      "playxid": "bcf00598faf7c60d7578466a16659bd4",
+      "playXID": "bcf00598faf7c60d7578466a16659bd4",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13574",
+        "playXID": "bcf00598faf7c60d7578466a16659bd4",
+        "streamId": "13574",
+        "dubPlayerSrc": "/dub-player/t/13574/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=bcf00598faf7c60d7578466a16659bd4&abyssId=13574"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13574",
+        "playXID": "bcf00598faf7c60d7578466a16659bd4",
+        "streamId": "13574",
+        "dubPlayerSrc": "/dub-player/t/13574/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=bcf00598faf7c60d7578466a16659bd4&abyssId=13574"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/bcf00598faf7c60d7578466a16659bd4",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/bcf00598faf7c60d7578466a16659bd4"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13574",
+        "abyssId": "13574",
+        "playXID": "bcf00598faf7c60d7578466a16659bd4",
+        "title": "Akudama Drive",
+        "season": 1,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "YR3g4V3Ef"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "P9JoUPjK6"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "uCNpUY-QZ"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/4c176955bdf0dfed0e118701b6efd811/master.m3u8?md5=9Iy1-eL0_F2P0IyzXnw62w&expires=1792166772",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/4c176955bdf0dfed0e118701b6efd811/master.m3u8?md5=9Iy1-eL0_F2P0IyzXnw62w&expires=1792166772",
+            "videoSource": "https://ravok.buzz/cdn/hls/4c176955bdf0dfed0e118701b6efd811/master.m3u8?md5=9Iy1-eL0_F2P0IyzXnw62w&expires=1792166772",
+            "videoImage": "https://as-cdn28.top/p/5Dnx4zAVMh5PxMME0ux3nO9Ky1rIF330ixu174nA3ZtjEsW6SR2-my_LVP8IL4icF6oc22DcIFW1r7JWrPSUHg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "bcf00598faf7c60d7578466a16659bd4",
+                "streamUrl": "https://ravok.buzz/cdn/hls/4c176955bdf0dfed0e118701b6efd811/master.m3u8?md5=9Iy1-eL0_F2P0IyzXnw62w&expires=1792166772",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/4c176955bdf0dfed0e118701b6efd811/master.m3u8?md5=9Iy1-eL0_F2P0IyzXnw62w&expires=1792166772",
+                "videoSource": "https://ravok.buzz/cdn/hls/4c176955bdf0dfed0e118701b6efd811/master.m3u8?md5=9Iy1-eL0_F2P0IyzXnw62w&expires=1792166772",
+                "link": "https://ravok.buzz/cdn/hls/4c176955bdf0dfed0e118701b6efd811/master.m3u8?md5=9Iy1-eL0_F2P0IyzXnw62w&expires=1792166772",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/5Dnx4zAVMh5PxMME0ux3nO9Ky1rIF330ixu174nA3ZtjEsW6SR2-my_LVP8IL4icF6oc22DcIFW1r7JWrPSUHg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "YR3g4V3Ef"
+        }
+      },
+      "fetched_at": "2026-10-16T14:06:22Z"
+    },
+    {
+      "id": "episode/akudama-drive-1x9",
+      "episode_id": "episode/akudama-drive-1x9",
+      "title": "Akudama Drive 1x1",
+      "episode_name": "Akudama Drive 1x1",
+      "episode_number": 9,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1404_s1e9.webp",
+      "abyssid": "13573",
+      "abyssId": "13573",
+      "playxid": "9bb2b56e6b7174609d788805794a4f46",
+      "playXID": "9bb2b56e6b7174609d788805794a4f46",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13573",
+        "playXID": "9bb2b56e6b7174609d788805794a4f46",
+        "streamId": "13573",
+        "dubPlayerSrc": "/dub-player/t/13573/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9bb2b56e6b7174609d788805794a4f46&abyssId=13573"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13573",
+        "playXID": "9bb2b56e6b7174609d788805794a4f46",
+        "streamId": "13573",
+        "dubPlayerSrc": "/dub-player/t/13573/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9bb2b56e6b7174609d788805794a4f46&abyssId=13573"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/9bb2b56e6b7174609d788805794a4f46",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/9bb2b56e6b7174609d788805794a4f46"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13573",
+        "abyssId": "13573",
+        "playXID": "9bb2b56e6b7174609d788805794a4f46",
+        "title": "Akudama Drive",
+        "season": 1,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "wXEUMGg-A"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "gpXUqxAS0"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "3PROwOP0B"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/ce7aa7b00c545ae8f1e9a222837384ad/master.m3u8?md5=pjQvoQ91vCL2esGTO9B0JQ&expires=1792166772",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/ce7aa7b00c545ae8f1e9a222837384ad/master.m3u8?md5=pjQvoQ91vCL2esGTO9B0JQ&expires=1792166772",
+            "videoSource": "https://ravok.buzz/cdn/hls/ce7aa7b00c545ae8f1e9a222837384ad/master.m3u8?md5=pjQvoQ91vCL2esGTO9B0JQ&expires=1792166772",
+            "videoImage": "https://as-cdn27.top/p/izaVmbOMf1Nj611qCD-9RpADQas1ZqVZqvpyjSUsgO-cHoz6Rpb6SHyB5yUod5RxrU8wRqfkV5C7CYuW8AQrEQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "9bb2b56e6b7174609d788805794a4f46",
+                "streamUrl": "https://ravok.buzz/cdn/hls/ce7aa7b00c545ae8f1e9a222837384ad/master.m3u8?md5=pjQvoQ91vCL2esGTO9B0JQ&expires=1792166772",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/ce7aa7b00c545ae8f1e9a222837384ad/master.m3u8?md5=pjQvoQ91vCL2esGTO9B0JQ&expires=1792166772",
+                "videoSource": "https://ravok.buzz/cdn/hls/ce7aa7b00c545ae8f1e9a222837384ad/master.m3u8?md5=pjQvoQ91vCL2esGTO9B0JQ&expires=1792166772",
+                "link": "https://ravok.buzz/cdn/hls/ce7aa7b00c545ae8f1e9a222837384ad/master.m3u8?md5=pjQvoQ91vCL2esGTO9B0JQ&expires=1792166772",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/izaVmbOMf1Nj611qCD-9RpADQas1ZqVZqvpyjSUsgO-cHoz6Rpb6SHyB5yUod5RxrU8wRqfkV5C7CYuW8AQrEQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "wXEUMGg-A"
+        }
+      },
+      "fetched_at": "2026-10-16T14:06:22Z"
+    },
+    {
+      "id": "episode/akudama-drive-1x11",
+      "episode_id": "episode/akudama-drive-1x11",
+      "title": "Akudama Drive 1x1",
+      "episode_name": "Akudama Drive 1x1",
+      "episode_number": 11,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1404_s1e11.webp",
+      "abyssid": "13575",
+      "abyssId": "13575",
+      "playxid": "3cf56c93d83be246a1e28f0abb588345",
+      "playXID": "3cf56c93d83be246a1e28f0abb588345",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13575",
+        "playXID": "3cf56c93d83be246a1e28f0abb588345",
+        "streamId": "13575",
+        "dubPlayerSrc": "/dub-player/t/13575/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=3cf56c93d83be246a1e28f0abb588345&abyssId=13575"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13575",
+        "playXID": "3cf56c93d83be246a1e28f0abb588345",
+        "streamId": "13575",
+        "dubPlayerSrc": "/dub-player/t/13575/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=3cf56c93d83be246a1e28f0abb588345&abyssId=13575"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/3cf56c93d83be246a1e28f0abb588345",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/3cf56c93d83be246a1e28f0abb588345"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13575",
+        "abyssId": "13575",
+        "playXID": "3cf56c93d83be246a1e28f0abb588345",
+        "title": "Akudama Drive",
+        "season": 1,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "iGCm6KwPR"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "iyk2Ar9dH"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "109EflImh"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/f22dc7639bd59cfddce226a600ceeab5/master.m3u8?md5=HZzSwVeomlVtE4Tnqn-ARQ&expires=1792166773",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/f22dc7639bd59cfddce226a600ceeab5/master.m3u8?md5=HZzSwVeomlVtE4Tnqn-ARQ&expires=1792166773",
+            "videoSource": "https://ravok.buzz/cdn/hls/f22dc7639bd59cfddce226a600ceeab5/master.m3u8?md5=HZzSwVeomlVtE4Tnqn-ARQ&expires=1792166773",
+            "videoImage": "https://as-cdn27.top/p/gznKKoHCuK1Zwk2OUVYCaMchAVjQmOLXodcmo0fOMEguNuyZ6nSLqfqfkhww4JWHhunSwVf1CB3LTaJmljqCHA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "3cf56c93d83be246a1e28f0abb588345",
+                "streamUrl": "https://ravok.buzz/cdn/hls/f22dc7639bd59cfddce226a600ceeab5/master.m3u8?md5=HZzSwVeomlVtE4Tnqn-ARQ&expires=1792166773",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/f22dc7639bd59cfddce226a600ceeab5/master.m3u8?md5=HZzSwVeomlVtE4Tnqn-ARQ&expires=1792166773",
+                "videoSource": "https://ravok.buzz/cdn/hls/f22dc7639bd59cfddce226a600ceeab5/master.m3u8?md5=HZzSwVeomlVtE4Tnqn-ARQ&expires=1792166773",
+                "link": "https://ravok.buzz/cdn/hls/f22dc7639bd59cfddce226a600ceeab5/master.m3u8?md5=HZzSwVeomlVtE4Tnqn-ARQ&expires=1792166773",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/gznKKoHCuK1Zwk2OUVYCaMchAVjQmOLXodcmo0fOMEguNuyZ6nSLqfqfkhww4JWHhunSwVf1CB3LTaJmljqCHA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "iGCm6KwPR"
+        }
+      },
+      "fetched_at": "2026-10-16T14:06:23Z"
+    },
+    {
+      "id": "episode/akudama-drive-1x12",
+      "episode_id": "episode/akudama-drive-1x12",
+      "title": "Akudama Drive 1x1",
+      "episode_name": "Akudama Drive 1x1",
+      "episode_number": 12,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1404_s1e12.webp",
+      "abyssid": "13576",
+      "abyssId": "13576",
+      "playxid": "6318d3c5f897f3bce7542a3e9236bdb6",
+      "playXID": "6318d3c5f897f3bce7542a3e9236bdb6",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13576",
+        "playXID": "6318d3c5f897f3bce7542a3e9236bdb6",
+        "streamId": "13576",
+        "dubPlayerSrc": "/dub-player/t/13576/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6318d3c5f897f3bce7542a3e9236bdb6&abyssId=13576"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13576",
+        "playXID": "6318d3c5f897f3bce7542a3e9236bdb6",
+        "streamId": "13576",
+        "dubPlayerSrc": "/dub-player/t/13576/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6318d3c5f897f3bce7542a3e9236bdb6&abyssId=13576"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/6318d3c5f897f3bce7542a3e9236bdb6",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/6318d3c5f897f3bce7542a3e9236bdb6"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13576",
+        "abyssId": "13576",
+        "playXID": "6318d3c5f897f3bce7542a3e9236bdb6",
+        "title": "Akudama Drive",
+        "season": 1,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "DWUl94Bhc"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "VzNQrhJWN"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "Vva42I38Tp"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/5660fe308d09ea1acd3c23bd2bcacba1/master.m3u8?md5=sOT_PQAqqhPVEUj1PFylCg&expires=1792166773",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/5660fe308d09ea1acd3c23bd2bcacba1/master.m3u8?md5=sOT_PQAqqhPVEUj1PFylCg&expires=1792166773",
+            "videoSource": "https://ravok.buzz/cdn/hls/5660fe308d09ea1acd3c23bd2bcacba1/master.m3u8?md5=sOT_PQAqqhPVEUj1PFylCg&expires=1792166773",
+            "videoImage": "https://as-cdn30.top/p/ze9kYc8N-OssbVls5OVl6_wnUwlF1t1fLya1fDOByZtsnQa-pN-udH-kmDGvpq7g0X3r9WyWJ16MixKoZZyXsQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "6318d3c5f897f3bce7542a3e9236bdb6",
+                "streamUrl": "https://ravok.buzz/cdn/hls/5660fe308d09ea1acd3c23bd2bcacba1/master.m3u8?md5=sOT_PQAqqhPVEUj1PFylCg&expires=1792166773",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/5660fe308d09ea1acd3c23bd2bcacba1/master.m3u8?md5=sOT_PQAqqhPVEUj1PFylCg&expires=1792166773",
+                "videoSource": "https://ravok.buzz/cdn/hls/5660fe308d09ea1acd3c23bd2bcacba1/master.m3u8?md5=sOT_PQAqqhPVEUj1PFylCg&expires=1792166773",
+                "link": "https://ravok.buzz/cdn/hls/5660fe308d09ea1acd3c23bd2bcacba1/master.m3u8?md5=sOT_PQAqqhPVEUj1PFylCg&expires=1792166773",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/ze9kYc8N-OssbVls5OVl6_wnUwlF1t1fLya1fDOByZtsnQa-pN-udH-kmDGvpq7g0X3r9WyWJ16MixKoZZyXsQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "DWUl94Bhc"
+        }
+      },
+      "fetched_at": "2026-10-16T14:06:23Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T14:06:17Z",
+  "updated_at": "2026-10-16T14:06:23Z"
+}

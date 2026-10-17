@@ -1,0 +1,1351 @@
+{
+  "id": "series/why-does-nobody-remember-me-in-this-world",
+  "series_name": "Why Does Nobody Remember Me in This World?",
+  "title": "Why Does Nobody Remember Me in This World?",
+  "banner": "https://image.tmdb.org/t/p/w1280/nxpzuqlmmrbJAAE0tvFHmhXeGjN.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/u9C9lYBA6dujAaYXjxlgcEqVc1d.jpg",
+  "genra": [
+    "Action",
+    "Fantasy",
+    "Sci-Fi"
+  ],
+  "genres": [
+    "Action",
+    "Fantasy",
+    "Sci-Fi"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Japanese"
+  ],
+  "synopsis": "In a world where humans triumphed in a great war, Kai guards sealed crypts containing their enemies. But when “World Rebirth” overwrites history, he’s thrust into an alternate reality where humanity lost the war and he’s been forgotten by everyone he knows. Now, this lost hero must rise to restore the world’s balance!",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "The Boy Forgotten By the World",
+          "id": "episode/why-does-nobody-remember-me-in-this-world-1x1",
+          "image": "https://img.watchanimeworld.one/images/13420/01.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "Rinne",
+          "id": "episode/why-does-nobody-remember-me-in-this-world-1x2",
+          "image": "https://img.watchanimeworld.one/images/13420/02.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "The Demon Hero",
+          "id": "episode/why-does-nobody-remember-me-in-this-world-1x3",
+          "image": "https://img.watchanimeworld.one/images/13420/03.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "And So, She Remembered That World",
+          "id": "episode/why-does-nobody-remember-me-in-this-world-1x4",
+          "image": "https://img.watchanimeworld.one/images/13420/04.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "To the East of the World",
+          "id": "episode/why-does-nobody-remember-me-in-this-world-1x5",
+          "image": "https://watchanimeworld.one/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "Elven Forest",
+          "id": "episode/why-does-nobody-remember-me-in-this-world-1x6",
+          "image": "https://img.watchanimeworld.one/images/13420/06.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "Heartless Angel",
+          "id": "episode/why-does-nobody-remember-me-in-this-world-1x7",
+          "image": "https://img.watchanimeworld.one/images/13420/07.webp",
+          "season": 1
+        },
+        {
+          "episode": 8,
+          "title": "Heaven's Purgatory",
+          "id": "episode/why-does-nobody-remember-me-in-this-world-1x8",
+          "image": "https://img.watchanimeworld.one/images/13420/08.webp",
+          "season": 1
+        },
+        {
+          "episode": 9,
+          "title": "The Center of The World",
+          "id": "episode/why-does-nobody-remember-me-in-this-world-1x9",
+          "image": "https://img.watchanimeworld.one/images/13420/09.webp",
+          "season": 1
+        },
+        {
+          "episode": 10,
+          "title": "The Prophet of This World",
+          "id": "episode/why-does-nobody-remember-me-in-this-world-1x10",
+          "image": "https://img.watchanimeworld.one/images/13420/10.webp",
+          "season": 1
+        },
+        {
+          "episode": 11,
+          "title": "Where Fate Sleeps",
+          "id": "episode/why-does-nobody-remember-me-in-this-world-1x11",
+          "image": "https://img.watchanimeworld.one/images/13420/11.webp",
+          "season": 1
+        },
+        {
+          "episode": 12,
+          "title": "Those Who Shatter the Endless Cycle of World Reincarnation",
+          "id": "episode/why-does-nobody-remember-me-in-this-world-1x12",
+          "image": "https://img.watchanimeworld.one/images/13420/12.webp",
+          "season": 1
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/why-does-nobody-remember-me-in-this-world-1x4",
+      "episode_id": "episode/why-does-nobody-remember-me-in-this-world-1x4",
+      "title": "The Boy Forgotten By the World",
+      "episode_name": "The Boy Forgotten By the World",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/13420/04.webp",
+      "abyssid": "8275",
+      "abyssId": "8275",
+      "playxid": "a088ea2078cd92b0b8a0e78a32c5c082",
+      "playXID": "a088ea2078cd92b0b8a0e78a32c5c082",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "8275",
+        "playXID": "a088ea2078cd92b0b8a0e78a32c5c082",
+        "streamId": "8275",
+        "dubPlayerSrc": "/dub-player/t/8275/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a088ea2078cd92b0b8a0e78a32c5c082&abyssId=8275"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "8275",
+        "playXID": "a088ea2078cd92b0b8a0e78a32c5c082",
+        "streamId": "8275",
+        "dubPlayerSrc": "/dub-player/t/8275/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a088ea2078cd92b0b8a0e78a32c5c082&abyssId=8275"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/a088ea2078cd92b0b8a0e78a32c5c082",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/a088ea2078cd92b0b8a0e78a32c5c082"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "8275",
+        "abyssId": "8275",
+        "playXID": "a088ea2078cd92b0b8a0e78a32c5c082",
+        "title": "Why Does Nobody Remember Me in This World?",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "7KublskIn"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "3MtMbt1uT"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "u06qQoLuG"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/1b08646def161610286e510d8bfb286b/master.m3u8?md5=ZNhzxx5Wcr-NHZwI3vre9Q&expires=1792167323",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/1b08646def161610286e510d8bfb286b/master.m3u8?md5=ZNhzxx5Wcr-NHZwI3vre9Q&expires=1792167323",
+            "videoSource": "https://ravok.buzz/cdn/hls/1b08646def161610286e510d8bfb286b/master.m3u8?md5=ZNhzxx5Wcr-NHZwI3vre9Q&expires=1792167323",
+            "videoImage": "https://as-cdn27.top/p/Rj7YHHdrzhPf1rJK6JoN1YQkEmKfdQHYvnUDismJ2CVxSTnzMYyq3BqJUlI5xGg3mmgJ2l3vo_2-cOAI_n2jDw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "a088ea2078cd92b0b8a0e78a32c5c082",
+                "streamUrl": "https://ravok.buzz/cdn/hls/1b08646def161610286e510d8bfb286b/master.m3u8?md5=ZNhzxx5Wcr-NHZwI3vre9Q&expires=1792167323",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/1b08646def161610286e510d8bfb286b/master.m3u8?md5=ZNhzxx5Wcr-NHZwI3vre9Q&expires=1792167323",
+                "videoSource": "https://ravok.buzz/cdn/hls/1b08646def161610286e510d8bfb286b/master.m3u8?md5=ZNhzxx5Wcr-NHZwI3vre9Q&expires=1792167323",
+                "link": "https://ravok.buzz/cdn/hls/1b08646def161610286e510d8bfb286b/master.m3u8?md5=ZNhzxx5Wcr-NHZwI3vre9Q&expires=1792167323",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/Rj7YHHdrzhPf1rJK6JoN1YQkEmKfdQHYvnUDismJ2CVxSTnzMYyq3BqJUlI5xGg3mmgJ2l3vo_2-cOAI_n2jDw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "7KublskIn"
+        }
+      },
+      "fetched_at": "2026-10-16T14:15:33Z"
+    },
+    {
+      "id": "episode/why-does-nobody-remember-me-in-this-world-1x1",
+      "episode_id": "episode/why-does-nobody-remember-me-in-this-world-1x1",
+      "title": "The Boy Forgotten By the World",
+      "episode_name": "The Boy Forgotten By the World",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/13420/01.webp",
+      "abyssid": "8272",
+      "abyssId": "8272",
+      "playxid": "0070d23b06b1486a538c0eaa45dd167a",
+      "playXID": "0070d23b06b1486a538c0eaa45dd167a",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "8272",
+        "playXID": "0070d23b06b1486a538c0eaa45dd167a",
+        "streamId": "8272",
+        "dubPlayerSrc": "/dub-player/t/8272/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=0070d23b06b1486a538c0eaa45dd167a&abyssId=8272"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "8272",
+        "playXID": "0070d23b06b1486a538c0eaa45dd167a",
+        "streamId": "8272",
+        "dubPlayerSrc": "/dub-player/t/8272/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=0070d23b06b1486a538c0eaa45dd167a&abyssId=8272"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/0070d23b06b1486a538c0eaa45dd167a",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/0070d23b06b1486a538c0eaa45dd167a"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "8272",
+        "abyssId": "8272",
+        "playXID": "0070d23b06b1486a538c0eaa45dd167a",
+        "title": "Why Does Nobody Remember Me in This World?",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "cU9pNZYn3"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "0pDpGD64j"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "RVejKzLgI"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/bf87828a09f3406cf6c2be27a16a625c/master.m3u8?md5=UD581tIqN5vFmieEQ5wsPQ&expires=1792167323",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/bf87828a09f3406cf6c2be27a16a625c/master.m3u8?md5=UD581tIqN5vFmieEQ5wsPQ&expires=1792167323",
+            "videoSource": "https://ravok.buzz/cdn/hls/bf87828a09f3406cf6c2be27a16a625c/master.m3u8?md5=UD581tIqN5vFmieEQ5wsPQ&expires=1792167323",
+            "videoImage": "https://as-cdn31.top/p/K7eIiO8HH2PRJjF7OYQhjfDbeAlBuT0qTHIUOmHRf5jHePC4qTSHuIS5HV74jFOkQacNPlnG6aoy36Kr4jptZg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "0070d23b06b1486a538c0eaa45dd167a",
+                "streamUrl": "https://ravok.buzz/cdn/hls/bf87828a09f3406cf6c2be27a16a625c/master.m3u8?md5=UD581tIqN5vFmieEQ5wsPQ&expires=1792167323",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/bf87828a09f3406cf6c2be27a16a625c/master.m3u8?md5=UD581tIqN5vFmieEQ5wsPQ&expires=1792167323",
+                "videoSource": "https://ravok.buzz/cdn/hls/bf87828a09f3406cf6c2be27a16a625c/master.m3u8?md5=UD581tIqN5vFmieEQ5wsPQ&expires=1792167323",
+                "link": "https://ravok.buzz/cdn/hls/bf87828a09f3406cf6c2be27a16a625c/master.m3u8?md5=UD581tIqN5vFmieEQ5wsPQ&expires=1792167323",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/K7eIiO8HH2PRJjF7OYQhjfDbeAlBuT0qTHIUOmHRf5jHePC4qTSHuIS5HV74jFOkQacNPlnG6aoy36Kr4jptZg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "cU9pNZYn3"
+        }
+      },
+      "fetched_at": "2026-10-16T14:15:33Z"
+    },
+    {
+      "id": "episode/why-does-nobody-remember-me-in-this-world-1x3",
+      "episode_id": "episode/why-does-nobody-remember-me-in-this-world-1x3",
+      "title": "The Boy Forgotten By the World",
+      "episode_name": "The Boy Forgotten By the World",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/13420/03.webp",
+      "abyssid": "8274",
+      "abyssId": "8274",
+      "playxid": "3e9e39fed3b8369ed940f52cf300cf88",
+      "playXID": "3e9e39fed3b8369ed940f52cf300cf88",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "8274",
+        "playXID": "3e9e39fed3b8369ed940f52cf300cf88",
+        "streamId": "8274",
+        "dubPlayerSrc": "/dub-player/t/8274/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=3e9e39fed3b8369ed940f52cf300cf88&abyssId=8274"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "8274",
+        "playXID": "3e9e39fed3b8369ed940f52cf300cf88",
+        "streamId": "8274",
+        "dubPlayerSrc": "/dub-player/t/8274/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=3e9e39fed3b8369ed940f52cf300cf88&abyssId=8274"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/3e9e39fed3b8369ed940f52cf300cf88",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/3e9e39fed3b8369ed940f52cf300cf88"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "8274",
+        "abyssId": "8274",
+        "playXID": "3e9e39fed3b8369ed940f52cf300cf88",
+        "title": "Why Does Nobody Remember Me in This World?",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "VB9pY4HnM"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "lI8wpiHGb"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "wjzLoJues"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/185977dfae42b5a18090f5d36fa523b7/master.m3u8?md5=lrft1qku1lgmfpY6NuDUOg&expires=1792167323",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/185977dfae42b5a18090f5d36fa523b7/master.m3u8?md5=lrft1qku1lgmfpY6NuDUOg&expires=1792167323",
+            "videoSource": "https://ravok.buzz/cdn/hls/185977dfae42b5a18090f5d36fa523b7/master.m3u8?md5=lrft1qku1lgmfpY6NuDUOg&expires=1792167323",
+            "videoImage": "https://as-cdn28.top/p/gNhrKs3sU27sBRGLs6jKsfW1i7r0WcbRn0KKuMbxl4xtqiXf_9qPpsA5Y-LOiaQ3Qf46oCk5T1OeVgwtMpsm4A.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "3e9e39fed3b8369ed940f52cf300cf88",
+                "streamUrl": "https://ravok.buzz/cdn/hls/185977dfae42b5a18090f5d36fa523b7/master.m3u8?md5=lrft1qku1lgmfpY6NuDUOg&expires=1792167323",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/185977dfae42b5a18090f5d36fa523b7/master.m3u8?md5=lrft1qku1lgmfpY6NuDUOg&expires=1792167323",
+                "videoSource": "https://ravok.buzz/cdn/hls/185977dfae42b5a18090f5d36fa523b7/master.m3u8?md5=lrft1qku1lgmfpY6NuDUOg&expires=1792167323",
+                "link": "https://ravok.buzz/cdn/hls/185977dfae42b5a18090f5d36fa523b7/master.m3u8?md5=lrft1qku1lgmfpY6NuDUOg&expires=1792167323",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/gNhrKs3sU27sBRGLs6jKsfW1i7r0WcbRn0KKuMbxl4xtqiXf_9qPpsA5Y-LOiaQ3Qf46oCk5T1OeVgwtMpsm4A.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "VB9pY4HnM"
+        }
+      },
+      "fetched_at": "2026-10-16T14:15:33Z"
+    },
+    {
+      "id": "episode/why-does-nobody-remember-me-in-this-world-1x2",
+      "episode_id": "episode/why-does-nobody-remember-me-in-this-world-1x2",
+      "title": "The Boy Forgotten By the World",
+      "episode_name": "The Boy Forgotten By the World",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/13420/02.webp",
+      "abyssid": "8273",
+      "abyssId": "8273",
+      "playxid": "850af92f8d9903e7a4e0559a98ecc857",
+      "playXID": "850af92f8d9903e7a4e0559a98ecc857",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "8273",
+        "playXID": "850af92f8d9903e7a4e0559a98ecc857",
+        "streamId": "8273",
+        "dubPlayerSrc": "/dub-player/t/8273/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=850af92f8d9903e7a4e0559a98ecc857&abyssId=8273"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "8273",
+        "playXID": "850af92f8d9903e7a4e0559a98ecc857",
+        "streamId": "8273",
+        "dubPlayerSrc": "/dub-player/t/8273/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=850af92f8d9903e7a4e0559a98ecc857&abyssId=8273"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/850af92f8d9903e7a4e0559a98ecc857",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/850af92f8d9903e7a4e0559a98ecc857"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "8273",
+        "abyssId": "8273",
+        "playXID": "850af92f8d9903e7a4e0559a98ecc857",
+        "title": "Why Does Nobody Remember Me in This World?",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "XH8qkW5vd"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "I5s8JWVo2m"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "hO5J2bq1m"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/865dd642148edb63b20dbf4c089c91df/master.m3u8?md5=zYRnRQgO9VfW3tQFEMdbJw&expires=1792167323",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/865dd642148edb63b20dbf4c089c91df/master.m3u8?md5=zYRnRQgO9VfW3tQFEMdbJw&expires=1792167323",
+            "videoSource": "https://ravok.buzz/cdn/hls/865dd642148edb63b20dbf4c089c91df/master.m3u8?md5=zYRnRQgO9VfW3tQFEMdbJw&expires=1792167323",
+            "videoImage": "https://as-cdn28.top/p/LYYOQcCTWUWBTt93F_GkPB1ZN4lDZeaYKXDt77TlND55q-FYDEK9froGuxjKDIk1YFr-MASAdVYGOtSMl2HRIg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "850af92f8d9903e7a4e0559a98ecc857",
+                "streamUrl": "https://ravok.buzz/cdn/hls/865dd642148edb63b20dbf4c089c91df/master.m3u8?md5=zYRnRQgO9VfW3tQFEMdbJw&expires=1792167323",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/865dd642148edb63b20dbf4c089c91df/master.m3u8?md5=zYRnRQgO9VfW3tQFEMdbJw&expires=1792167323",
+                "videoSource": "https://ravok.buzz/cdn/hls/865dd642148edb63b20dbf4c089c91df/master.m3u8?md5=zYRnRQgO9VfW3tQFEMdbJw&expires=1792167323",
+                "link": "https://ravok.buzz/cdn/hls/865dd642148edb63b20dbf4c089c91df/master.m3u8?md5=zYRnRQgO9VfW3tQFEMdbJw&expires=1792167323",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/LYYOQcCTWUWBTt93F_GkPB1ZN4lDZeaYKXDt77TlND55q-FYDEK9froGuxjKDIk1YFr-MASAdVYGOtSMl2HRIg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "XH8qkW5vd"
+        }
+      },
+      "fetched_at": "2026-10-16T14:15:33Z"
+    },
+    {
+      "id": "episode/why-does-nobody-remember-me-in-this-world-1x5",
+      "episode_id": "episode/why-does-nobody-remember-me-in-this-world-1x5",
+      "title": "The Boy Forgotten By the World",
+      "episode_name": "The Boy Forgotten By the World",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://watchanimeworld.one/wp-content/themes/torofilm/public/img/cnt/noimg-episode.png",
+      "abyssid": "8276",
+      "abyssId": "8276",
+      "playxid": "30777b47a2424ff255c03b17a3d0fca7",
+      "playXID": "30777b47a2424ff255c03b17a3d0fca7",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "8276",
+        "playXID": "30777b47a2424ff255c03b17a3d0fca7",
+        "streamId": "8276",
+        "dubPlayerSrc": "/dub-player/t/8276/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=30777b47a2424ff255c03b17a3d0fca7&abyssId=8276"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "8276",
+        "playXID": "30777b47a2424ff255c03b17a3d0fca7",
+        "streamId": "8276",
+        "dubPlayerSrc": "/dub-player/t/8276/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=30777b47a2424ff255c03b17a3d0fca7&abyssId=8276"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/30777b47a2424ff255c03b17a3d0fca7",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/30777b47a2424ff255c03b17a3d0fca7"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "8276",
+        "abyssId": "8276",
+        "playXID": "30777b47a2424ff255c03b17a3d0fca7",
+        "title": "Why Does Nobody Remember Me in This World?",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "naS2kpvex"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "I57Wh7ReP"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "_ZqpsoE5D"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/1d9e20211e12878d93382255636beb9b/master.m3u8?md5=TfWLzEPFF44L_9aUOdksvQ&expires=1792167324",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/1d9e20211e12878d93382255636beb9b/master.m3u8?md5=TfWLzEPFF44L_9aUOdksvQ&expires=1792167324",
+            "videoSource": "https://ravok.buzz/cdn/hls/1d9e20211e12878d93382255636beb9b/master.m3u8?md5=TfWLzEPFF44L_9aUOdksvQ&expires=1792167324",
+            "videoImage": "https://as-cdn27.top/p/ZBlF2Xoiq-Eipi3f8rzEzyB8oy8pop6ie2zZgr5yePl_7w3ljZW9BirSHETMqQvzKvqO4du7lglplym3XKdUxg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "30777b47a2424ff255c03b17a3d0fca7",
+                "streamUrl": "https://ravok.buzz/cdn/hls/1d9e20211e12878d93382255636beb9b/master.m3u8?md5=TfWLzEPFF44L_9aUOdksvQ&expires=1792167324",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/1d9e20211e12878d93382255636beb9b/master.m3u8?md5=TfWLzEPFF44L_9aUOdksvQ&expires=1792167324",
+                "videoSource": "https://ravok.buzz/cdn/hls/1d9e20211e12878d93382255636beb9b/master.m3u8?md5=TfWLzEPFF44L_9aUOdksvQ&expires=1792167324",
+                "link": "https://ravok.buzz/cdn/hls/1d9e20211e12878d93382255636beb9b/master.m3u8?md5=TfWLzEPFF44L_9aUOdksvQ&expires=1792167324",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/ZBlF2Xoiq-Eipi3f8rzEzyB8oy8pop6ie2zZgr5yePl_7w3ljZW9BirSHETMqQvzKvqO4du7lglplym3XKdUxg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "naS2kpvex"
+        }
+      },
+      "fetched_at": "2026-10-16T14:15:34Z"
+    },
+    {
+      "id": "episode/why-does-nobody-remember-me-in-this-world-1x6",
+      "episode_id": "episode/why-does-nobody-remember-me-in-this-world-1x6",
+      "title": "The Boy Forgotten By the World",
+      "episode_name": "The Boy Forgotten By the World",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/13420/06.webp",
+      "abyssid": "8277",
+      "abyssId": "8277",
+      "playxid": "36a1694bce9815b7e38a9dad05ad42e0",
+      "playXID": "36a1694bce9815b7e38a9dad05ad42e0",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "8277",
+        "playXID": "36a1694bce9815b7e38a9dad05ad42e0",
+        "streamId": "8277",
+        "dubPlayerSrc": "/dub-player/t/8277/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=36a1694bce9815b7e38a9dad05ad42e0&abyssId=8277"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "8277",
+        "playXID": "36a1694bce9815b7e38a9dad05ad42e0",
+        "streamId": "8277",
+        "dubPlayerSrc": "/dub-player/t/8277/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=36a1694bce9815b7e38a9dad05ad42e0&abyssId=8277"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/36a1694bce9815b7e38a9dad05ad42e0",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/36a1694bce9815b7e38a9dad05ad42e0"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "8277",
+        "abyssId": "8277",
+        "playXID": "36a1694bce9815b7e38a9dad05ad42e0",
+        "title": "Why Does Nobody Remember Me in This World?",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "yK870J-nq"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "M1ZyYbXrj"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "kouMreKEK"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/d5c07495ff3601cce5e32bfa351a6fbe/master.m3u8?md5=Ot40ggq-pSTXKKaMQY7urQ&expires=1792167325",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/d5c07495ff3601cce5e32bfa351a6fbe/master.m3u8?md5=Ot40ggq-pSTXKKaMQY7urQ&expires=1792167325",
+            "videoSource": "https://ravok.buzz/cdn/hls/d5c07495ff3601cce5e32bfa351a6fbe/master.m3u8?md5=Ot40ggq-pSTXKKaMQY7urQ&expires=1792167325",
+            "videoImage": "https://as-cdn30.top/p/Fb775jODJXZGnIubkAU4Ff26ry1i8HrUSp8h3Eb3ZgTb8v1vKAdp5eDctORJgeUQdhHVQl70EdByqCj-xh_4ow.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "36a1694bce9815b7e38a9dad05ad42e0",
+                "streamUrl": "https://ravok.buzz/cdn/hls/d5c07495ff3601cce5e32bfa351a6fbe/master.m3u8?md5=Ot40ggq-pSTXKKaMQY7urQ&expires=1792167325",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/d5c07495ff3601cce5e32bfa351a6fbe/master.m3u8?md5=Ot40ggq-pSTXKKaMQY7urQ&expires=1792167325",
+                "videoSource": "https://ravok.buzz/cdn/hls/d5c07495ff3601cce5e32bfa351a6fbe/master.m3u8?md5=Ot40ggq-pSTXKKaMQY7urQ&expires=1792167325",
+                "link": "https://ravok.buzz/cdn/hls/d5c07495ff3601cce5e32bfa351a6fbe/master.m3u8?md5=Ot40ggq-pSTXKKaMQY7urQ&expires=1792167325",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/Fb775jODJXZGnIubkAU4Ff26ry1i8HrUSp8h3Eb3ZgTb8v1vKAdp5eDctORJgeUQdhHVQl70EdByqCj-xh_4ow.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "yK870J-nq"
+        }
+      },
+      "fetched_at": "2026-10-16T14:15:35Z"
+    },
+    {
+      "id": "episode/why-does-nobody-remember-me-in-this-world-1x8",
+      "episode_id": "episode/why-does-nobody-remember-me-in-this-world-1x8",
+      "title": "The Boy Forgotten By the World",
+      "episode_name": "The Boy Forgotten By the World",
+      "episode_number": 8,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/13420/08.webp",
+      "abyssid": "8279",
+      "abyssId": "8279",
+      "playxid": "e0a209539d1e74ab9fe46b9e01a19a97",
+      "playXID": "e0a209539d1e74ab9fe46b9e01a19a97",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "8279",
+        "playXID": "e0a209539d1e74ab9fe46b9e01a19a97",
+        "streamId": "8279",
+        "dubPlayerSrc": "/dub-player/t/8279/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e0a209539d1e74ab9fe46b9e01a19a97&abyssId=8279"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "8279",
+        "playXID": "e0a209539d1e74ab9fe46b9e01a19a97",
+        "streamId": "8279",
+        "dubPlayerSrc": "/dub-player/t/8279/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e0a209539d1e74ab9fe46b9e01a19a97&abyssId=8279"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/e0a209539d1e74ab9fe46b9e01a19a97",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/e0a209539d1e74ab9fe46b9e01a19a97"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "8279",
+        "abyssId": "8279",
+        "playXID": "e0a209539d1e74ab9fe46b9e01a19a97",
+        "title": "Why Does Nobody Remember Me in This World?",
+        "season": 1,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "MqtTJ8GJ5"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "wEUDQBy45"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "hOvMI5h32"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/5f0ffb0e3d7be82c19032dbddaa156ed/master.m3u8?md5=OReqj5Z6qkE1efEeZMJd3Q&expires=1792167325",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/5f0ffb0e3d7be82c19032dbddaa156ed/master.m3u8?md5=OReqj5Z6qkE1efEeZMJd3Q&expires=1792167325",
+            "videoSource": "https://ravok.buzz/cdn/hls/5f0ffb0e3d7be82c19032dbddaa156ed/master.m3u8?md5=OReqj5Z6qkE1efEeZMJd3Q&expires=1792167325",
+            "videoImage": "https://as-cdn29.top/p/bYxLA5pGuDz7X0bgW3gnHI_W6-uvM8XKrNri_rO1D-CznXLGTYbjNUxUS5ku_OIgfyxtsY0rW5ucp_A69C7Tng.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "e0a209539d1e74ab9fe46b9e01a19a97",
+                "streamUrl": "https://ravok.buzz/cdn/hls/5f0ffb0e3d7be82c19032dbddaa156ed/master.m3u8?md5=OReqj5Z6qkE1efEeZMJd3Q&expires=1792167325",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/5f0ffb0e3d7be82c19032dbddaa156ed/master.m3u8?md5=OReqj5Z6qkE1efEeZMJd3Q&expires=1792167325",
+                "videoSource": "https://ravok.buzz/cdn/hls/5f0ffb0e3d7be82c19032dbddaa156ed/master.m3u8?md5=OReqj5Z6qkE1efEeZMJd3Q&expires=1792167325",
+                "link": "https://ravok.buzz/cdn/hls/5f0ffb0e3d7be82c19032dbddaa156ed/master.m3u8?md5=OReqj5Z6qkE1efEeZMJd3Q&expires=1792167325",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/bYxLA5pGuDz7X0bgW3gnHI_W6-uvM8XKrNri_rO1D-CznXLGTYbjNUxUS5ku_OIgfyxtsY0rW5ucp_A69C7Tng.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "MqtTJ8GJ5"
+        }
+      },
+      "fetched_at": "2026-10-16T14:15:35Z"
+    },
+    {
+      "id": "episode/why-does-nobody-remember-me-in-this-world-1x7",
+      "episode_id": "episode/why-does-nobody-remember-me-in-this-world-1x7",
+      "title": "The Boy Forgotten By the World",
+      "episode_name": "The Boy Forgotten By the World",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/13420/07.webp",
+      "abyssid": "8278",
+      "abyssId": "8278",
+      "playxid": "0a0a0c8aaa00ade50f74a3f0ca981ed7",
+      "playXID": "0a0a0c8aaa00ade50f74a3f0ca981ed7",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "8278",
+        "playXID": "0a0a0c8aaa00ade50f74a3f0ca981ed7",
+        "streamId": "8278",
+        "dubPlayerSrc": "/dub-player/t/8278/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=0a0a0c8aaa00ade50f74a3f0ca981ed7&abyssId=8278"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "8278",
+        "playXID": "0a0a0c8aaa00ade50f74a3f0ca981ed7",
+        "streamId": "8278",
+        "dubPlayerSrc": "/dub-player/t/8278/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=0a0a0c8aaa00ade50f74a3f0ca981ed7&abyssId=8278"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/0a0a0c8aaa00ade50f74a3f0ca981ed7",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/0a0a0c8aaa00ade50f74a3f0ca981ed7"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "8278",
+        "abyssId": "8278",
+        "playXID": "0a0a0c8aaa00ade50f74a3f0ca981ed7",
+        "title": "Why Does Nobody Remember Me in This World?",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "LvMSXZGKI"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "qI36nJLjy"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "A8LLkixBF"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/e0721edb3b031e85f8e194a752f0629f/master.m3u8?md5=EC_Yj77unPp9vbinV4ttBg&expires=1792167325",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/e0721edb3b031e85f8e194a752f0629f/master.m3u8?md5=EC_Yj77unPp9vbinV4ttBg&expires=1792167325",
+            "videoSource": "https://ravok.buzz/cdn/hls/e0721edb3b031e85f8e194a752f0629f/master.m3u8?md5=EC_Yj77unPp9vbinV4ttBg&expires=1792167325",
+            "videoImage": "https://as-cdn28.top/p/lKcCr_axsfJyDJRoaJHCjGGVdVrRc7mlORa6FlWkJEn7fljKVer4fnF_RuorhGu-YVzfZU5BVFclcXmw30KVCQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "0a0a0c8aaa00ade50f74a3f0ca981ed7",
+                "streamUrl": "https://ravok.buzz/cdn/hls/e0721edb3b031e85f8e194a752f0629f/master.m3u8?md5=EC_Yj77unPp9vbinV4ttBg&expires=1792167325",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/e0721edb3b031e85f8e194a752f0629f/master.m3u8?md5=EC_Yj77unPp9vbinV4ttBg&expires=1792167325",
+                "videoSource": "https://ravok.buzz/cdn/hls/e0721edb3b031e85f8e194a752f0629f/master.m3u8?md5=EC_Yj77unPp9vbinV4ttBg&expires=1792167325",
+                "link": "https://ravok.buzz/cdn/hls/e0721edb3b031e85f8e194a752f0629f/master.m3u8?md5=EC_Yj77unPp9vbinV4ttBg&expires=1792167325",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/lKcCr_axsfJyDJRoaJHCjGGVdVrRc7mlORa6FlWkJEn7fljKVer4fnF_RuorhGu-YVzfZU5BVFclcXmw30KVCQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "LvMSXZGKI"
+        }
+      },
+      "fetched_at": "2026-10-16T14:15:35Z"
+    },
+    {
+      "id": "episode/why-does-nobody-remember-me-in-this-world-1x9",
+      "episode_id": "episode/why-does-nobody-remember-me-in-this-world-1x9",
+      "title": "The Boy Forgotten By the World",
+      "episode_name": "The Boy Forgotten By the World",
+      "episode_number": 9,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/13420/09.webp",
+      "abyssid": "8280",
+      "abyssId": "8280",
+      "playxid": "f80ff32e08a25270b5f252ce39522f72",
+      "playXID": "f80ff32e08a25270b5f252ce39522f72",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "8280",
+        "playXID": "f80ff32e08a25270b5f252ce39522f72",
+        "streamId": "8280",
+        "dubPlayerSrc": "/dub-player/t/8280/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f80ff32e08a25270b5f252ce39522f72&abyssId=8280"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "8280",
+        "playXID": "f80ff32e08a25270b5f252ce39522f72",
+        "streamId": "8280",
+        "dubPlayerSrc": "/dub-player/t/8280/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f80ff32e08a25270b5f252ce39522f72&abyssId=8280"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/f80ff32e08a25270b5f252ce39522f72",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/f80ff32e08a25270b5f252ce39522f72"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "8280",
+        "abyssId": "8280",
+        "playXID": "f80ff32e08a25270b5f252ce39522f72",
+        "title": "Why Does Nobody Remember Me in This World?",
+        "season": 1,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "IG173S8p5"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "Irs2wcOsn"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "j_B2QBa8A"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/984ac08407bd504960d26aa7b82bcbcf/master.m3u8?md5=agpqA4s86bzuSxwXQfmECg&expires=1792167326",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/984ac08407bd504960d26aa7b82bcbcf/master.m3u8?md5=agpqA4s86bzuSxwXQfmECg&expires=1792167326",
+            "videoSource": "https://ravok.buzz/cdn/hls/984ac08407bd504960d26aa7b82bcbcf/master.m3u8?md5=agpqA4s86bzuSxwXQfmECg&expires=1792167326",
+            "videoImage": "https://as-cdn27.top/p/d-Wd3W2yN9Z_GWOYO8DmhvD2Dxjwylr-1i6uM2194fk-p6QEZGyiIi3lD8Y8w7NmBf6DgpFTIKzR5XqnLlFnYg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "f80ff32e08a25270b5f252ce39522f72",
+                "streamUrl": "https://ravok.buzz/cdn/hls/984ac08407bd504960d26aa7b82bcbcf/master.m3u8?md5=agpqA4s86bzuSxwXQfmECg&expires=1792167326",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/984ac08407bd504960d26aa7b82bcbcf/master.m3u8?md5=agpqA4s86bzuSxwXQfmECg&expires=1792167326",
+                "videoSource": "https://ravok.buzz/cdn/hls/984ac08407bd504960d26aa7b82bcbcf/master.m3u8?md5=agpqA4s86bzuSxwXQfmECg&expires=1792167326",
+                "link": "https://ravok.buzz/cdn/hls/984ac08407bd504960d26aa7b82bcbcf/master.m3u8?md5=agpqA4s86bzuSxwXQfmECg&expires=1792167326",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/d-Wd3W2yN9Z_GWOYO8DmhvD2Dxjwylr-1i6uM2194fk-p6QEZGyiIi3lD8Y8w7NmBf6DgpFTIKzR5XqnLlFnYg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "IG173S8p5"
+        }
+      },
+      "fetched_at": "2026-10-16T14:15:35Z"
+    },
+    {
+      "id": "episode/why-does-nobody-remember-me-in-this-world-1x10",
+      "episode_id": "episode/why-does-nobody-remember-me-in-this-world-1x10",
+      "title": "The Boy Forgotten By the World",
+      "episode_name": "The Boy Forgotten By the World",
+      "episode_number": 10,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/13420/10.webp",
+      "abyssid": "8281",
+      "abyssId": "8281",
+      "playxid": "4d6b3e38b952600251ee92fe603170ff",
+      "playXID": "4d6b3e38b952600251ee92fe603170ff",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "8281",
+        "playXID": "4d6b3e38b952600251ee92fe603170ff",
+        "streamId": "8281",
+        "dubPlayerSrc": "/dub-player/t/8281/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=4d6b3e38b952600251ee92fe603170ff&abyssId=8281"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "8281",
+        "playXID": "4d6b3e38b952600251ee92fe603170ff",
+        "streamId": "8281",
+        "dubPlayerSrc": "/dub-player/t/8281/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=4d6b3e38b952600251ee92fe603170ff&abyssId=8281"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/4d6b3e38b952600251ee92fe603170ff",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/4d6b3e38b952600251ee92fe603170ff"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "8281",
+        "abyssId": "8281",
+        "playXID": "4d6b3e38b952600251ee92fe603170ff",
+        "title": "Why Does Nobody Remember Me in This World?",
+        "season": 1,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "AJcRHlSal"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "UOf8e7xg5"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "8NKn6tPks"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/9745e2d80a47db8a8c0027ba631ceb78/master.m3u8?md5=P4PyRxlci29tcen1tYtq8g&expires=1792167326",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/9745e2d80a47db8a8c0027ba631ceb78/master.m3u8?md5=P4PyRxlci29tcen1tYtq8g&expires=1792167326",
+            "videoSource": "https://ravok.buzz/cdn/hls/9745e2d80a47db8a8c0027ba631ceb78/master.m3u8?md5=P4PyRxlci29tcen1tYtq8g&expires=1792167326",
+            "videoImage": "https://as-cdn27.top/p/0gxBQfwgS481Iw15kI_s04hOgFWDqeTGcp4-6D1_pYcDmAx_b6X9JFvoh4XObrq29XJaT39NlekZrQP7sIeuDg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "4d6b3e38b952600251ee92fe603170ff",
+                "streamUrl": "https://ravok.buzz/cdn/hls/9745e2d80a47db8a8c0027ba631ceb78/master.m3u8?md5=P4PyRxlci29tcen1tYtq8g&expires=1792167326",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/9745e2d80a47db8a8c0027ba631ceb78/master.m3u8?md5=P4PyRxlci29tcen1tYtq8g&expires=1792167326",
+                "videoSource": "https://ravok.buzz/cdn/hls/9745e2d80a47db8a8c0027ba631ceb78/master.m3u8?md5=P4PyRxlci29tcen1tYtq8g&expires=1792167326",
+                "link": "https://ravok.buzz/cdn/hls/9745e2d80a47db8a8c0027ba631ceb78/master.m3u8?md5=P4PyRxlci29tcen1tYtq8g&expires=1792167326",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/0gxBQfwgS481Iw15kI_s04hOgFWDqeTGcp4-6D1_pYcDmAx_b6X9JFvoh4XObrq29XJaT39NlekZrQP7sIeuDg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "AJcRHlSal"
+        }
+      },
+      "fetched_at": "2026-10-16T14:15:36Z"
+    },
+    {
+      "id": "episode/why-does-nobody-remember-me-in-this-world-1x11",
+      "episode_id": "episode/why-does-nobody-remember-me-in-this-world-1x11",
+      "title": "The Boy Forgotten By the World",
+      "episode_name": "The Boy Forgotten By the World",
+      "episode_number": 11,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/13420/11.webp",
+      "abyssid": "10147",
+      "abyssId": "10147",
+      "playxid": "c8cbd669cfb2f016574e9d147092b5bb",
+      "playXID": "c8cbd669cfb2f016574e9d147092b5bb",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "10147",
+        "playXID": "c8cbd669cfb2f016574e9d147092b5bb",
+        "streamId": "10147",
+        "dubPlayerSrc": "/dub-player/t/10147/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c8cbd669cfb2f016574e9d147092b5bb&abyssId=10147"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "10147",
+        "playXID": "c8cbd669cfb2f016574e9d147092b5bb",
+        "streamId": "10147",
+        "dubPlayerSrc": "/dub-player/t/10147/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c8cbd669cfb2f016574e9d147092b5bb&abyssId=10147"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/c8cbd669cfb2f016574e9d147092b5bb",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/c8cbd669cfb2f016574e9d147092b5bb"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "10147",
+        "abyssId": "10147",
+        "playXID": "c8cbd669cfb2f016574e9d147092b5bb",
+        "title": "Why Does Nobody Remember Me in This World?",
+        "season": 1,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "WmWEitgtH"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "lrFjpodrS"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "l0GpRVmZu"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/b300816981f78f10fbb41da06e21b1ca/master.m3u8?md5=gJnOl7DphD27FRz6wOTjgw&expires=1792167327",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/b300816981f78f10fbb41da06e21b1ca/master.m3u8?md5=gJnOl7DphD27FRz6wOTjgw&expires=1792167327",
+            "videoSource": "https://ravok.buzz/cdn/hls/b300816981f78f10fbb41da06e21b1ca/master.m3u8?md5=gJnOl7DphD27FRz6wOTjgw&expires=1792167327",
+            "videoImage": "https://as-cdn28.top/p/IdxbicUOUQZfXa1zcCBXbj2H8vFHbT4AcTubhqs28HMr4o_S0Tf3tZi1kejC9Bjtofj4jYGZRqtbpazHCO9wLw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "c8cbd669cfb2f016574e9d147092b5bb",
+                "streamUrl": "https://ravok.buzz/cdn/hls/b300816981f78f10fbb41da06e21b1ca/master.m3u8?md5=gJnOl7DphD27FRz6wOTjgw&expires=1792167327",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/b300816981f78f10fbb41da06e21b1ca/master.m3u8?md5=gJnOl7DphD27FRz6wOTjgw&expires=1792167327",
+                "videoSource": "https://ravok.buzz/cdn/hls/b300816981f78f10fbb41da06e21b1ca/master.m3u8?md5=gJnOl7DphD27FRz6wOTjgw&expires=1792167327",
+                "link": "https://ravok.buzz/cdn/hls/b300816981f78f10fbb41da06e21b1ca/master.m3u8?md5=gJnOl7DphD27FRz6wOTjgw&expires=1792167327",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/IdxbicUOUQZfXa1zcCBXbj2H8vFHbT4AcTubhqs28HMr4o_S0Tf3tZi1kejC9Bjtofj4jYGZRqtbpazHCO9wLw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "WmWEitgtH"
+        }
+      },
+      "fetched_at": "2026-10-16T14:15:37Z"
+    },
+    {
+      "id": "episode/why-does-nobody-remember-me-in-this-world-1x12",
+      "episode_id": "episode/why-does-nobody-remember-me-in-this-world-1x12",
+      "title": "The Boy Forgotten By the World",
+      "episode_name": "The Boy Forgotten By the World",
+      "episode_number": 12,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/13420/12.webp",
+      "abyssid": "10154",
+      "abyssId": "10154",
+      "playxid": "59e0b2658e9f2e77f8d4d83f8d07ca84",
+      "playXID": "59e0b2658e9f2e77f8d4d83f8d07ca84",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "10154",
+        "playXID": "59e0b2658e9f2e77f8d4d83f8d07ca84",
+        "streamId": "10154",
+        "dubPlayerSrc": "/dub-player/t/10154/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=59e0b2658e9f2e77f8d4d83f8d07ca84&abyssId=10154"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "10154",
+        "playXID": "59e0b2658e9f2e77f8d4d83f8d07ca84",
+        "streamId": "10154",
+        "dubPlayerSrc": "/dub-player/t/10154/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=59e0b2658e9f2e77f8d4d83f8d07ca84&abyssId=10154"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/59e0b2658e9f2e77f8d4d83f8d07ca84",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/59e0b2658e9f2e77f8d4d83f8d07ca84"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "10154",
+        "abyssId": "10154",
+        "playXID": "59e0b2658e9f2e77f8d4d83f8d07ca84",
+        "title": "Why Does Nobody Remember Me in This World?",
+        "season": 1,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "Yb-9zYuNs"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "QEmVYtO-s"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "7Xdc5zLZX"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/539b019b4ce904f8784c233d184c4013/master.m3u8?md5=yOH2RuqbieG4e3dzjK06iA&expires=1792167327",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/539b019b4ce904f8784c233d184c4013/master.m3u8?md5=yOH2RuqbieG4e3dzjK06iA&expires=1792167327",
+            "videoSource": "https://ravok.buzz/cdn/hls/539b019b4ce904f8784c233d184c4013/master.m3u8?md5=yOH2RuqbieG4e3dzjK06iA&expires=1792167327",
+            "videoImage": "https://as-cdn28.top/p/Yk8I3lNNsZ_ChU_rdvMWE0X9tsmjSts_GwowEIM1GSBOg41uILc9htkjNgULfewB5YRnIx3YaOW68s0qaOeznQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "59e0b2658e9f2e77f8d4d83f8d07ca84",
+                "streamUrl": "https://ravok.buzz/cdn/hls/539b019b4ce904f8784c233d184c4013/master.m3u8?md5=yOH2RuqbieG4e3dzjK06iA&expires=1792167327",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/539b019b4ce904f8784c233d184c4013/master.m3u8?md5=yOH2RuqbieG4e3dzjK06iA&expires=1792167327",
+                "videoSource": "https://ravok.buzz/cdn/hls/539b019b4ce904f8784c233d184c4013/master.m3u8?md5=yOH2RuqbieG4e3dzjK06iA&expires=1792167327",
+                "link": "https://ravok.buzz/cdn/hls/539b019b4ce904f8784c233d184c4013/master.m3u8?md5=yOH2RuqbieG4e3dzjK06iA&expires=1792167327",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/Yk8I3lNNsZ_ChU_rdvMWE0X9tsmjSts_GwowEIM1GSBOg41uILc9htkjNgULfewB5YRnIx3YaOW68s0qaOeznQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "Yb-9zYuNs"
+        }
+      },
+      "fetched_at": "2026-10-16T14:15:37Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T14:15:31Z",
+  "updated_at": "2026-10-16T14:15:37Z"
+}

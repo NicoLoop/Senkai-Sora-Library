@@ -1,0 +1,1347 @@
+{
+  "id": "series/teogonia",
+  "series_name": "Teogonia",
+  "title": "Teogonia",
+  "banner": "https://image.tmdb.org/t/p/w1280/4gcAg5Y47J4BPgrTHRTpoEolQmd.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/zGHrnnFc0p5Pf25qUaAv95JpnJC.jpg",
+  "genra": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Sci-Fi"
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Sci-Fi"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Japanese"
+  ],
+  "synopsis": "Humans fight to protect their land from invading demi-human tribes in relentless battles. As his world is engulfed by intense warfare, Kai, a village boy from Lag, joins the fight to defend all he knows. After Kai’s comrades fall one by one and he’s injured, he suddenly recalls memories from another life. A fantasy tale unfolds as a village boy explores a world of magic, mystery, and heroism.",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Teogonia 1x1",
+          "id": "episode/teogonia-1x1",
+          "image": "https://img.watchanimeworld.one/image/1703/1/1.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "Teogonia 1x2",
+          "id": "episode/teogonia-1x2",
+          "image": "https://img.watchanimeworld.one/image/1703/1/2.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "Teogonia 1x3",
+          "id": "episode/teogonia-1x3",
+          "image": "https://img.watchanimeworld.one/image/1703/1/3.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "Teogonia 1x4",
+          "id": "episode/teogonia-1x4",
+          "image": "https://img.watchanimeworld.one/image/1703/1/4.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "Teogonia 1x5",
+          "id": "episode/teogonia-1x5",
+          "image": "https://img.watchanimeworld.one/image/1703/1/5.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "Teogonia 1x6",
+          "id": "episode/teogonia-1x6",
+          "image": "https://img.watchanimeworld.one/image/1703/1/6.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "Teogonia 1x7",
+          "id": "episode/teogonia-1x7",
+          "image": "https://img.watchanimeworld.one/image/1703/1/7.webp",
+          "season": 1
+        },
+        {
+          "episode": 8,
+          "title": "Teogonia 1x8",
+          "id": "episode/teogonia-1x8",
+          "image": "https://img.watchanimeworld.one/img/thumb_1703_s1e8.webp",
+          "season": 1
+        },
+        {
+          "episode": 9,
+          "title": "Teogonia 1x9",
+          "id": "episode/teogonia-1x9",
+          "image": "https://img.watchanimeworld.one/img/thumb_1703_s1e9.webp",
+          "season": 1
+        },
+        {
+          "episode": 10,
+          "title": "Teogonia 1x10",
+          "id": "episode/teogonia-1x10",
+          "image": "https://img.watchanimeworld.one/img/thumb_1703_s1e10.webp",
+          "season": 1
+        },
+        {
+          "episode": 11,
+          "title": "Teogonia 1x11",
+          "id": "episode/teogonia-1x11",
+          "image": "https://img.watchanimeworld.one/img/thumb_1703_s1e11.webp",
+          "season": 1
+        },
+        {
+          "episode": 12,
+          "title": "Teogonia 1x12",
+          "id": "episode/teogonia-1x12",
+          "image": "https://img.watchanimeworld.one/img/thumb_1703_s1e12.webp",
+          "season": 1
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/teogonia-1x4",
+      "episode_id": "episode/teogonia-1x4",
+      "title": "Teogonia 1x1",
+      "episode_name": "Teogonia 1x1",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1703/1/4.webp",
+      "abyssid": "15679",
+      "abyssId": "15679",
+      "playxid": "f675d8aec99e98b4e62c6aae5fb12fb6",
+      "playXID": "f675d8aec99e98b4e62c6aae5fb12fb6",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15679",
+        "playXID": "f675d8aec99e98b4e62c6aae5fb12fb6",
+        "streamId": "15679",
+        "dubPlayerSrc": "/dub-player/t/15679/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f675d8aec99e98b4e62c6aae5fb12fb6&abyssId=15679"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15679",
+        "playXID": "f675d8aec99e98b4e62c6aae5fb12fb6",
+        "streamId": "15679",
+        "dubPlayerSrc": "/dub-player/t/15679/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f675d8aec99e98b4e62c6aae5fb12fb6&abyssId=15679"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/f675d8aec99e98b4e62c6aae5fb12fb6",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/f675d8aec99e98b4e62c6aae5fb12fb6"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15679",
+        "abyssId": "15679",
+        "playXID": "f675d8aec99e98b4e62c6aae5fb12fb6",
+        "title": "Teogonia",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "RTgpNFb_tC"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "SdNBQyZLq"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "ysKopGYrj"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/9414e9eb379497c8815d7fe4b45aa68a/master.m3u8?md5=20Bm2ZeZ5Wo2de0IqQeNXg&expires=1792166577",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/9414e9eb379497c8815d7fe4b45aa68a/master.m3u8?md5=20Bm2ZeZ5Wo2de0IqQeNXg&expires=1792166577",
+            "videoSource": "https://ravok.buzz/cdn/hls/9414e9eb379497c8815d7fe4b45aa68a/master.m3u8?md5=20Bm2ZeZ5Wo2de0IqQeNXg&expires=1792166577",
+            "videoImage": "https://as-cdn29.top/p/VkfySrvxkM5f33WTMsYtyykNGiLtqxzhH78j-F4f08cbYScNDe1ABX0zeJ0RyQNSG6aOTKod0qEz4SAijVBruQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "f675d8aec99e98b4e62c6aae5fb12fb6",
+                "streamUrl": "https://ravok.buzz/cdn/hls/9414e9eb379497c8815d7fe4b45aa68a/master.m3u8?md5=20Bm2ZeZ5Wo2de0IqQeNXg&expires=1792166577",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/9414e9eb379497c8815d7fe4b45aa68a/master.m3u8?md5=20Bm2ZeZ5Wo2de0IqQeNXg&expires=1792166577",
+                "videoSource": "https://ravok.buzz/cdn/hls/9414e9eb379497c8815d7fe4b45aa68a/master.m3u8?md5=20Bm2ZeZ5Wo2de0IqQeNXg&expires=1792166577",
+                "link": "https://ravok.buzz/cdn/hls/9414e9eb379497c8815d7fe4b45aa68a/master.m3u8?md5=20Bm2ZeZ5Wo2de0IqQeNXg&expires=1792166577",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/VkfySrvxkM5f33WTMsYtyykNGiLtqxzhH78j-F4f08cbYScNDe1ABX0zeJ0RyQNSG6aOTKod0qEz4SAijVBruQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "RTgpNFb_tC"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:07Z"
+    },
+    {
+      "id": "episode/teogonia-1x1",
+      "episode_id": "episode/teogonia-1x1",
+      "title": "Teogonia 1x1",
+      "episode_name": "Teogonia 1x1",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1703/1/1.webp",
+      "abyssid": "15497",
+      "abyssId": "15497",
+      "playxid": "14ea12a8d4c1ce8ae45564cddc241e95",
+      "playXID": "14ea12a8d4c1ce8ae45564cddc241e95",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15497",
+        "playXID": "14ea12a8d4c1ce8ae45564cddc241e95",
+        "streamId": "15497",
+        "dubPlayerSrc": "/dub-player/t/15497/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=14ea12a8d4c1ce8ae45564cddc241e95&abyssId=15497"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15497",
+        "playXID": "14ea12a8d4c1ce8ae45564cddc241e95",
+        "streamId": "15497",
+        "dubPlayerSrc": "/dub-player/t/15497/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=14ea12a8d4c1ce8ae45564cddc241e95&abyssId=15497"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/14ea12a8d4c1ce8ae45564cddc241e95",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/14ea12a8d4c1ce8ae45564cddc241e95"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15497",
+        "abyssId": "15497",
+        "playXID": "14ea12a8d4c1ce8ae45564cddc241e95",
+        "title": "Teogonia",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "WqYCH3IOS"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "a8wucJ0Cd"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "PEUiexcQd"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/8cd5a25b9af3ec7ecb42c9130a481fb9/master.m3u8?md5=HVJQ44--Wb5ocqBYiHPXNA&expires=1792166577",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/8cd5a25b9af3ec7ecb42c9130a481fb9/master.m3u8?md5=HVJQ44--Wb5ocqBYiHPXNA&expires=1792166577",
+            "videoSource": "https://ravok.buzz/cdn/hls/8cd5a25b9af3ec7ecb42c9130a481fb9/master.m3u8?md5=HVJQ44--Wb5ocqBYiHPXNA&expires=1792166577",
+            "videoImage": "https://as-cdn31.top/p/5RPT0FOfta5m9pTmGO8IpvadyPQCeVY4YleucLKHrhRA0hmAT-6XkAjKKDd1Fxcq1xj9Qt6KMVLkXhjkPLQM4w.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "14ea12a8d4c1ce8ae45564cddc241e95",
+                "streamUrl": "https://ravok.buzz/cdn/hls/8cd5a25b9af3ec7ecb42c9130a481fb9/master.m3u8?md5=HVJQ44--Wb5ocqBYiHPXNA&expires=1792166577",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/8cd5a25b9af3ec7ecb42c9130a481fb9/master.m3u8?md5=HVJQ44--Wb5ocqBYiHPXNA&expires=1792166577",
+                "videoSource": "https://ravok.buzz/cdn/hls/8cd5a25b9af3ec7ecb42c9130a481fb9/master.m3u8?md5=HVJQ44--Wb5ocqBYiHPXNA&expires=1792166577",
+                "link": "https://ravok.buzz/cdn/hls/8cd5a25b9af3ec7ecb42c9130a481fb9/master.m3u8?md5=HVJQ44--Wb5ocqBYiHPXNA&expires=1792166577",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/5RPT0FOfta5m9pTmGO8IpvadyPQCeVY4YleucLKHrhRA0hmAT-6XkAjKKDd1Fxcq1xj9Qt6KMVLkXhjkPLQM4w.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "WqYCH3IOS"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:07Z"
+    },
+    {
+      "id": "episode/teogonia-1x3",
+      "episode_id": "episode/teogonia-1x3",
+      "title": "Teogonia 1x1",
+      "episode_name": "Teogonia 1x1",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1703/1/3.webp",
+      "abyssid": "15610",
+      "abyssId": "15610",
+      "playxid": "0602010799626e1f69fb1bfbcb017dcd",
+      "playXID": "0602010799626e1f69fb1bfbcb017dcd",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15610",
+        "playXID": "0602010799626e1f69fb1bfbcb017dcd",
+        "streamId": "15610",
+        "dubPlayerSrc": "/dub-player/t/15610/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=0602010799626e1f69fb1bfbcb017dcd&abyssId=15610"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15610",
+        "playXID": "0602010799626e1f69fb1bfbcb017dcd",
+        "streamId": "15610",
+        "dubPlayerSrc": "/dub-player/t/15610/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=0602010799626e1f69fb1bfbcb017dcd&abyssId=15610"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/0602010799626e1f69fb1bfbcb017dcd",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/0602010799626e1f69fb1bfbcb017dcd"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15610",
+        "abyssId": "15610",
+        "playXID": "0602010799626e1f69fb1bfbcb017dcd",
+        "title": "Teogonia",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "qLgHAiTAU"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "I3cWHpvpb"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "KpzXCZV3z"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/e361c5ddba72c47cb6fcd3f1f9832b75/master.m3u8?md5=9goTTBl8v17y2CZ9h4V43Q&expires=1792166577",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/e361c5ddba72c47cb6fcd3f1f9832b75/master.m3u8?md5=9goTTBl8v17y2CZ9h4V43Q&expires=1792166577",
+            "videoSource": "https://ravok.buzz/cdn/hls/e361c5ddba72c47cb6fcd3f1f9832b75/master.m3u8?md5=9goTTBl8v17y2CZ9h4V43Q&expires=1792166577",
+            "videoImage": "https://as-cdn31.top/p/3Kz5JetHN3bnPpT28bNVd-IFDA1n99GIYXG2tsJcYv7wMBGT9g09t5T-dBxfYjssEQajIdGBi00ROP2VxgDbQA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "0602010799626e1f69fb1bfbcb017dcd",
+                "streamUrl": "https://ravok.buzz/cdn/hls/e361c5ddba72c47cb6fcd3f1f9832b75/master.m3u8?md5=9goTTBl8v17y2CZ9h4V43Q&expires=1792166577",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/e361c5ddba72c47cb6fcd3f1f9832b75/master.m3u8?md5=9goTTBl8v17y2CZ9h4V43Q&expires=1792166577",
+                "videoSource": "https://ravok.buzz/cdn/hls/e361c5ddba72c47cb6fcd3f1f9832b75/master.m3u8?md5=9goTTBl8v17y2CZ9h4V43Q&expires=1792166577",
+                "link": "https://ravok.buzz/cdn/hls/e361c5ddba72c47cb6fcd3f1f9832b75/master.m3u8?md5=9goTTBl8v17y2CZ9h4V43Q&expires=1792166577",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/3Kz5JetHN3bnPpT28bNVd-IFDA1n99GIYXG2tsJcYv7wMBGT9g09t5T-dBxfYjssEQajIdGBi00ROP2VxgDbQA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "qLgHAiTAU"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:07Z"
+    },
+    {
+      "id": "episode/teogonia-1x2",
+      "episode_id": "episode/teogonia-1x2",
+      "title": "Teogonia 1x1",
+      "episode_name": "Teogonia 1x1",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1703/1/2.webp",
+      "abyssid": "15531",
+      "abyssId": "15531",
+      "playxid": "bacae0849238b42dfe121affba356822",
+      "playXID": "bacae0849238b42dfe121affba356822",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15531",
+        "playXID": "bacae0849238b42dfe121affba356822",
+        "streamId": "15531",
+        "dubPlayerSrc": "/dub-player/t/15531/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=bacae0849238b42dfe121affba356822&abyssId=15531"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15531",
+        "playXID": "bacae0849238b42dfe121affba356822",
+        "streamId": "15531",
+        "dubPlayerSrc": "/dub-player/t/15531/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=bacae0849238b42dfe121affba356822&abyssId=15531"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/bacae0849238b42dfe121affba356822",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/bacae0849238b42dfe121affba356822"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15531",
+        "abyssId": "15531",
+        "playXID": "bacae0849238b42dfe121affba356822",
+        "title": "Teogonia",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "LXClzKyEE"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "CmENcFnXG"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "NO37r1Ii2"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/2dc682d134cc4d69b5c081849038a971/master.m3u8?md5=PsKoapNTIZnhkA0jCFRwRg&expires=1792166577",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/2dc682d134cc4d69b5c081849038a971/master.m3u8?md5=PsKoapNTIZnhkA0jCFRwRg&expires=1792166577",
+            "videoSource": "https://ravok.buzz/cdn/hls/2dc682d134cc4d69b5c081849038a971/master.m3u8?md5=PsKoapNTIZnhkA0jCFRwRg&expires=1792166577",
+            "videoImage": "https://as-cdn28.top/p/2J0xgIAmjsTl8Nul0yX8yeOilUcbikJAv4iEe47JSmwCkGmzUoFsIJX766cSGnyl6vTcNoq_NtTjG9zmDIatBQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "bacae0849238b42dfe121affba356822",
+                "streamUrl": "https://ravok.buzz/cdn/hls/2dc682d134cc4d69b5c081849038a971/master.m3u8?md5=PsKoapNTIZnhkA0jCFRwRg&expires=1792166577",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/2dc682d134cc4d69b5c081849038a971/master.m3u8?md5=PsKoapNTIZnhkA0jCFRwRg&expires=1792166577",
+                "videoSource": "https://ravok.buzz/cdn/hls/2dc682d134cc4d69b5c081849038a971/master.m3u8?md5=PsKoapNTIZnhkA0jCFRwRg&expires=1792166577",
+                "link": "https://ravok.buzz/cdn/hls/2dc682d134cc4d69b5c081849038a971/master.m3u8?md5=PsKoapNTIZnhkA0jCFRwRg&expires=1792166577",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/2J0xgIAmjsTl8Nul0yX8yeOilUcbikJAv4iEe47JSmwCkGmzUoFsIJX766cSGnyl6vTcNoq_NtTjG9zmDIatBQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "LXClzKyEE"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:07Z"
+    },
+    {
+      "id": "episode/teogonia-1x5",
+      "episode_id": "episode/teogonia-1x5",
+      "title": "Teogonia 1x1",
+      "episode_name": "Teogonia 1x1",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1703/1/5.webp",
+      "abyssid": "15700",
+      "abyssId": "15700",
+      "playxid": "1879d84e181b6262704e95372dc9f4dc",
+      "playXID": "1879d84e181b6262704e95372dc9f4dc",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15700",
+        "playXID": "1879d84e181b6262704e95372dc9f4dc",
+        "streamId": "15700",
+        "dubPlayerSrc": "/dub-player/t/15700/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=1879d84e181b6262704e95372dc9f4dc&abyssId=15700"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15700",
+        "playXID": "1879d84e181b6262704e95372dc9f4dc",
+        "streamId": "15700",
+        "dubPlayerSrc": "/dub-player/t/15700/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=1879d84e181b6262704e95372dc9f4dc&abyssId=15700"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/1879d84e181b6262704e95372dc9f4dc",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/1879d84e181b6262704e95372dc9f4dc"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15700",
+        "abyssId": "15700",
+        "playXID": "1879d84e181b6262704e95372dc9f4dc",
+        "title": "Teogonia",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "oG7kugSPm"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "tUSG1nHxD"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "j_SSSgszm"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/a10359baf7cec05e87850b8e196a0c31/master.m3u8?md5=MX0zNyULpTZOqw80n9rKIQ&expires=1792166577",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/a10359baf7cec05e87850b8e196a0c31/master.m3u8?md5=MX0zNyULpTZOqw80n9rKIQ&expires=1792166577",
+            "videoSource": "https://ravok.buzz/cdn/hls/a10359baf7cec05e87850b8e196a0c31/master.m3u8?md5=MX0zNyULpTZOqw80n9rKIQ&expires=1792166577",
+            "videoImage": "https://as-cdn29.top/p/ZVKIxya5hdQA8M8N9S6QoIOpmI5IGJ6xEN_jhDenQqt0BM5-q7CWt9ChEip3ecrfULDq4qEN3TSudKv_2BF9Ww.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "1879d84e181b6262704e95372dc9f4dc",
+                "streamUrl": "https://ravok.buzz/cdn/hls/a10359baf7cec05e87850b8e196a0c31/master.m3u8?md5=MX0zNyULpTZOqw80n9rKIQ&expires=1792166577",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/a10359baf7cec05e87850b8e196a0c31/master.m3u8?md5=MX0zNyULpTZOqw80n9rKIQ&expires=1792166577",
+                "videoSource": "https://ravok.buzz/cdn/hls/a10359baf7cec05e87850b8e196a0c31/master.m3u8?md5=MX0zNyULpTZOqw80n9rKIQ&expires=1792166577",
+                "link": "https://ravok.buzz/cdn/hls/a10359baf7cec05e87850b8e196a0c31/master.m3u8?md5=MX0zNyULpTZOqw80n9rKIQ&expires=1792166577",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/ZVKIxya5hdQA8M8N9S6QoIOpmI5IGJ6xEN_jhDenQqt0BM5-q7CWt9ChEip3ecrfULDq4qEN3TSudKv_2BF9Ww.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "oG7kugSPm"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:07Z"
+    },
+    {
+      "id": "episode/teogonia-1x6",
+      "episode_id": "episode/teogonia-1x6",
+      "title": "Teogonia 1x1",
+      "episode_name": "Teogonia 1x1",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1703/1/6.webp",
+      "abyssid": "15755",
+      "abyssId": "15755",
+      "playxid": "f01287d4b412a2b16ec4a40af48d7c69",
+      "playXID": "f01287d4b412a2b16ec4a40af48d7c69",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15755",
+        "playXID": "f01287d4b412a2b16ec4a40af48d7c69",
+        "streamId": "15755",
+        "dubPlayerSrc": "/dub-player/t/15755/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f01287d4b412a2b16ec4a40af48d7c69&abyssId=15755"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15755",
+        "playXID": "f01287d4b412a2b16ec4a40af48d7c69",
+        "streamId": "15755",
+        "dubPlayerSrc": "/dub-player/t/15755/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f01287d4b412a2b16ec4a40af48d7c69&abyssId=15755"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/f01287d4b412a2b16ec4a40af48d7c69",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/f01287d4b412a2b16ec4a40af48d7c69"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15755",
+        "abyssId": "15755",
+        "playXID": "f01287d4b412a2b16ec4a40af48d7c69",
+        "title": "Teogonia",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "L4eeN3CzK"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "5WKl7-UL7"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "OorBK9H49r"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/3c556ade1a80e63b0cd0a6580b24ba7a/master.m3u8?md5=RZ3skuwa8Wwh8wqeX30iOQ&expires=1792166578",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/3c556ade1a80e63b0cd0a6580b24ba7a/master.m3u8?md5=RZ3skuwa8Wwh8wqeX30iOQ&expires=1792166578",
+            "videoSource": "https://ravok.buzz/cdn/hls/3c556ade1a80e63b0cd0a6580b24ba7a/master.m3u8?md5=RZ3skuwa8Wwh8wqeX30iOQ&expires=1792166578",
+            "videoImage": "https://as-cdn30.top/p/NsAleXGCdbLeNZu6Jwi7oW2nASTUFvtn8gxNwXoZitGFzZUQlrPEuYwhAAF8ExWvYcVw-0x1r1jMcxm1gA-kiA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "f01287d4b412a2b16ec4a40af48d7c69",
+                "streamUrl": "https://ravok.buzz/cdn/hls/3c556ade1a80e63b0cd0a6580b24ba7a/master.m3u8?md5=RZ3skuwa8Wwh8wqeX30iOQ&expires=1792166578",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/3c556ade1a80e63b0cd0a6580b24ba7a/master.m3u8?md5=RZ3skuwa8Wwh8wqeX30iOQ&expires=1792166578",
+                "videoSource": "https://ravok.buzz/cdn/hls/3c556ade1a80e63b0cd0a6580b24ba7a/master.m3u8?md5=RZ3skuwa8Wwh8wqeX30iOQ&expires=1792166578",
+                "link": "https://ravok.buzz/cdn/hls/3c556ade1a80e63b0cd0a6580b24ba7a/master.m3u8?md5=RZ3skuwa8Wwh8wqeX30iOQ&expires=1792166578",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/NsAleXGCdbLeNZu6Jwi7oW2nASTUFvtn8gxNwXoZitGFzZUQlrPEuYwhAAF8ExWvYcVw-0x1r1jMcxm1gA-kiA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "L4eeN3CzK"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:08Z"
+    },
+    {
+      "id": "episode/teogonia-1x7",
+      "episode_id": "episode/teogonia-1x7",
+      "title": "Teogonia 1x1",
+      "episode_name": "Teogonia 1x1",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1703/1/7.webp",
+      "abyssid": "15773",
+      "abyssId": "15773",
+      "playxid": "40dfe505df48f152d8a0c574872251aa",
+      "playXID": "40dfe505df48f152d8a0c574872251aa",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15773",
+        "playXID": "40dfe505df48f152d8a0c574872251aa",
+        "streamId": "15773",
+        "dubPlayerSrc": "/dub-player/t/15773/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=40dfe505df48f152d8a0c574872251aa&abyssId=15773"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15773",
+        "playXID": "40dfe505df48f152d8a0c574872251aa",
+        "streamId": "15773",
+        "dubPlayerSrc": "/dub-player/t/15773/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=40dfe505df48f152d8a0c574872251aa&abyssId=15773"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/40dfe505df48f152d8a0c574872251aa",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/40dfe505df48f152d8a0c574872251aa"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15773",
+        "abyssId": "15773",
+        "playXID": "40dfe505df48f152d8a0c574872251aa",
+        "title": "Teogonia",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "xWhzUqF3a"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "XnHg0Ia3U"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "cOIi9T6jC"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/1823d4625e69760335479ccf0c6bc1c1/master.m3u8?md5=CIx0o8DPv1I4F50ePsPZIw&expires=1792166578",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/1823d4625e69760335479ccf0c6bc1c1/master.m3u8?md5=CIx0o8DPv1I4F50ePsPZIw&expires=1792166578",
+            "videoSource": "https://ravok.buzz/cdn/hls/1823d4625e69760335479ccf0c6bc1c1/master.m3u8?md5=CIx0o8DPv1I4F50ePsPZIw&expires=1792166578",
+            "videoImage": "https://as-cdn29.top/p/wJLV_Ck95-hGSL-9QzByC5qUsh9NoRCCJmbMwu0Dbrd0L4WibN11QhK_XmGM3xwzxuKLqdGlmiU0f9lrSYz_OA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "40dfe505df48f152d8a0c574872251aa",
+                "streamUrl": "https://ravok.buzz/cdn/hls/1823d4625e69760335479ccf0c6bc1c1/master.m3u8?md5=CIx0o8DPv1I4F50ePsPZIw&expires=1792166578",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/1823d4625e69760335479ccf0c6bc1c1/master.m3u8?md5=CIx0o8DPv1I4F50ePsPZIw&expires=1792166578",
+                "videoSource": "https://ravok.buzz/cdn/hls/1823d4625e69760335479ccf0c6bc1c1/master.m3u8?md5=CIx0o8DPv1I4F50ePsPZIw&expires=1792166578",
+                "link": "https://ravok.buzz/cdn/hls/1823d4625e69760335479ccf0c6bc1c1/master.m3u8?md5=CIx0o8DPv1I4F50ePsPZIw&expires=1792166578",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/wJLV_Ck95-hGSL-9QzByC5qUsh9NoRCCJmbMwu0Dbrd0L4WibN11QhK_XmGM3xwzxuKLqdGlmiU0f9lrSYz_OA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "xWhzUqF3a"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:08Z"
+    },
+    {
+      "id": "episode/teogonia-1x9",
+      "episode_id": "episode/teogonia-1x9",
+      "title": "Teogonia 1x1",
+      "episode_name": "Teogonia 1x1",
+      "episode_number": 9,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1703_s1e9.webp",
+      "abyssid": "15889",
+      "abyssId": "15889",
+      "playxid": "ecd07f4483c92ba37b7aa92dd57d5f89",
+      "playXID": "ecd07f4483c92ba37b7aa92dd57d5f89",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15889",
+        "playXID": "ecd07f4483c92ba37b7aa92dd57d5f89",
+        "streamId": "15889",
+        "dubPlayerSrc": "/dub-player/t/15889/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ecd07f4483c92ba37b7aa92dd57d5f89&abyssId=15889"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15889",
+        "playXID": "ecd07f4483c92ba37b7aa92dd57d5f89",
+        "streamId": "15889",
+        "dubPlayerSrc": "/dub-player/t/15889/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ecd07f4483c92ba37b7aa92dd57d5f89&abyssId=15889"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/ecd07f4483c92ba37b7aa92dd57d5f89",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/ecd07f4483c92ba37b7aa92dd57d5f89"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15889",
+        "abyssId": "15889",
+        "playXID": "ecd07f4483c92ba37b7aa92dd57d5f89",
+        "title": "Teogonia",
+        "season": 1,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "VMjvl8Eso"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "sPpaaMxS5"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "A6RZ4yzmV"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/19dd7fce448031739b5657bf5769774f/master.m3u8?md5=So9qh1aN__VDGRpkGBHggg&expires=1792166579",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/19dd7fce448031739b5657bf5769774f/master.m3u8?md5=So9qh1aN__VDGRpkGBHggg&expires=1792166579",
+            "videoSource": "https://ravok.buzz/cdn/hls/19dd7fce448031739b5657bf5769774f/master.m3u8?md5=So9qh1aN__VDGRpkGBHggg&expires=1792166579",
+            "videoImage": "https://as-cdn30.top/p/kopPVkgHmVGHvH6g3z2w_NPx2CiSPAmv9S52J9sDooPF4Y_SIycGsA9bjjpzm-WT7sqFnbG2cv1ab0_n_fHYwg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "ecd07f4483c92ba37b7aa92dd57d5f89",
+                "streamUrl": "https://ravok.buzz/cdn/hls/19dd7fce448031739b5657bf5769774f/master.m3u8?md5=So9qh1aN__VDGRpkGBHggg&expires=1792166579",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/19dd7fce448031739b5657bf5769774f/master.m3u8?md5=So9qh1aN__VDGRpkGBHggg&expires=1792166579",
+                "videoSource": "https://ravok.buzz/cdn/hls/19dd7fce448031739b5657bf5769774f/master.m3u8?md5=So9qh1aN__VDGRpkGBHggg&expires=1792166579",
+                "link": "https://ravok.buzz/cdn/hls/19dd7fce448031739b5657bf5769774f/master.m3u8?md5=So9qh1aN__VDGRpkGBHggg&expires=1792166579",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/kopPVkgHmVGHvH6g3z2w_NPx2CiSPAmv9S52J9sDooPF4Y_SIycGsA9bjjpzm-WT7sqFnbG2cv1ab0_n_fHYwg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "VMjvl8Eso"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:09Z"
+    },
+    {
+      "id": "episode/teogonia-1x8",
+      "episode_id": "episode/teogonia-1x8",
+      "title": "Teogonia 1x1",
+      "episode_name": "Teogonia 1x1",
+      "episode_number": 8,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1703_s1e8.webp",
+      "abyssid": "15863",
+      "abyssId": "15863",
+      "playxid": "570ad3934c8f0b03f70f9481e7bd8b13",
+      "playXID": "570ad3934c8f0b03f70f9481e7bd8b13",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15863",
+        "playXID": "570ad3934c8f0b03f70f9481e7bd8b13",
+        "streamId": "15863",
+        "dubPlayerSrc": "/dub-player/t/15863/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=570ad3934c8f0b03f70f9481e7bd8b13&abyssId=15863"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15863",
+        "playXID": "570ad3934c8f0b03f70f9481e7bd8b13",
+        "streamId": "15863",
+        "dubPlayerSrc": "/dub-player/t/15863/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=570ad3934c8f0b03f70f9481e7bd8b13&abyssId=15863"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/570ad3934c8f0b03f70f9481e7bd8b13",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/570ad3934c8f0b03f70f9481e7bd8b13"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15863",
+        "abyssId": "15863",
+        "playXID": "570ad3934c8f0b03f70f9481e7bd8b13",
+        "title": "Teogonia",
+        "season": 1,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "Y_9RFtyi3"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "YgSJMucp1"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "JzpJ2UxC6"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/a2e40653bce5b4d7a48c528695367097/master.m3u8?md5=Po5UaMTjzYvZ-QkJymQQ1w&expires=1792166579",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/a2e40653bce5b4d7a48c528695367097/master.m3u8?md5=Po5UaMTjzYvZ-QkJymQQ1w&expires=1792166579",
+            "videoSource": "https://ravok.buzz/cdn/hls/a2e40653bce5b4d7a48c528695367097/master.m3u8?md5=Po5UaMTjzYvZ-QkJymQQ1w&expires=1792166579",
+            "videoImage": "https://as-cdn28.top/p/x8uyQtffscY_TEWaM7a7Ff-BTdN0DqHlvJVy8-nuKbZw26GFQ6hQIMzPvYt9OFvk5-fTvF_9J1QEzCwS611pAA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "570ad3934c8f0b03f70f9481e7bd8b13",
+                "streamUrl": "https://ravok.buzz/cdn/hls/a2e40653bce5b4d7a48c528695367097/master.m3u8?md5=Po5UaMTjzYvZ-QkJymQQ1w&expires=1792166579",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/a2e40653bce5b4d7a48c528695367097/master.m3u8?md5=Po5UaMTjzYvZ-QkJymQQ1w&expires=1792166579",
+                "videoSource": "https://ravok.buzz/cdn/hls/a2e40653bce5b4d7a48c528695367097/master.m3u8?md5=Po5UaMTjzYvZ-QkJymQQ1w&expires=1792166579",
+                "link": "https://ravok.buzz/cdn/hls/a2e40653bce5b4d7a48c528695367097/master.m3u8?md5=Po5UaMTjzYvZ-QkJymQQ1w&expires=1792166579",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/x8uyQtffscY_TEWaM7a7Ff-BTdN0DqHlvJVy8-nuKbZw26GFQ6hQIMzPvYt9OFvk5-fTvF_9J1QEzCwS611pAA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "Y_9RFtyi3"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:09Z"
+    },
+    {
+      "id": "episode/teogonia-1x11",
+      "episode_id": "episode/teogonia-1x11",
+      "title": "Teogonia 1x1",
+      "episode_name": "Teogonia 1x1",
+      "episode_number": 11,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1703_s1e11.webp",
+      "abyssid": "16391",
+      "abyssId": "16391",
+      "playxid": "c04a5ed0320644d5aa85fd487dc6f3b0",
+      "playXID": "c04a5ed0320644d5aa85fd487dc6f3b0",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16391",
+        "playXID": "c04a5ed0320644d5aa85fd487dc6f3b0",
+        "streamId": "16391",
+        "dubPlayerSrc": "/dub-player/t/16391/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c04a5ed0320644d5aa85fd487dc6f3b0&abyssId=16391"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16391",
+        "playXID": "c04a5ed0320644d5aa85fd487dc6f3b0",
+        "streamId": "16391",
+        "dubPlayerSrc": "/dub-player/t/16391/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c04a5ed0320644d5aa85fd487dc6f3b0&abyssId=16391"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/c04a5ed0320644d5aa85fd487dc6f3b0",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/c04a5ed0320644d5aa85fd487dc6f3b0"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16391",
+        "abyssId": "16391",
+        "playXID": "c04a5ed0320644d5aa85fd487dc6f3b0",
+        "title": "Teogonia",
+        "season": 1,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "QvMAb2gFG"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "Xj4gde-zI"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "4WXYCtGwv"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/edbfd74b206ad5c97803459131c5cea1/master.m3u8?md5=-JyKuThmwpS-JScUoOs65g&expires=1792166580",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/edbfd74b206ad5c97803459131c5cea1/master.m3u8?md5=-JyKuThmwpS-JScUoOs65g&expires=1792166580",
+            "videoSource": "https://ravok.buzz/cdn/hls/edbfd74b206ad5c97803459131c5cea1/master.m3u8?md5=-JyKuThmwpS-JScUoOs65g&expires=1792166580",
+            "videoImage": "https://as-cdn29.top/p/Y_wUpSB6Lz2kB97YL92AH76AOIOKEyiDULyflBeR1ZjaxMdl2rCZ7uCf1bhKRzHbSvFhIFZ7dObbRWj7iv5w9w.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "c04a5ed0320644d5aa85fd487dc6f3b0",
+                "streamUrl": "https://ravok.buzz/cdn/hls/edbfd74b206ad5c97803459131c5cea1/master.m3u8?md5=-JyKuThmwpS-JScUoOs65g&expires=1792166580",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/edbfd74b206ad5c97803459131c5cea1/master.m3u8?md5=-JyKuThmwpS-JScUoOs65g&expires=1792166580",
+                "videoSource": "https://ravok.buzz/cdn/hls/edbfd74b206ad5c97803459131c5cea1/master.m3u8?md5=-JyKuThmwpS-JScUoOs65g&expires=1792166580",
+                "link": "https://ravok.buzz/cdn/hls/edbfd74b206ad5c97803459131c5cea1/master.m3u8?md5=-JyKuThmwpS-JScUoOs65g&expires=1792166580",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/Y_wUpSB6Lz2kB97YL92AH76AOIOKEyiDULyflBeR1ZjaxMdl2rCZ7uCf1bhKRzHbSvFhIFZ7dObbRWj7iv5w9w.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "QvMAb2gFG"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:10Z"
+    },
+    {
+      "id": "episode/teogonia-1x12",
+      "episode_id": "episode/teogonia-1x12",
+      "title": "Teogonia 1x1",
+      "episode_name": "Teogonia 1x1",
+      "episode_number": 12,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1703_s1e12.webp",
+      "abyssid": "16412",
+      "abyssId": "16412",
+      "playxid": "d8ec7fefbec9864f0453074a21fc2067",
+      "playXID": "d8ec7fefbec9864f0453074a21fc2067",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16412",
+        "playXID": "d8ec7fefbec9864f0453074a21fc2067",
+        "streamId": "16412",
+        "dubPlayerSrc": "/dub-player/t/16412/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d8ec7fefbec9864f0453074a21fc2067&abyssId=16412"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16412",
+        "playXID": "d8ec7fefbec9864f0453074a21fc2067",
+        "streamId": "16412",
+        "dubPlayerSrc": "/dub-player/t/16412/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d8ec7fefbec9864f0453074a21fc2067&abyssId=16412"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/d8ec7fefbec9864f0453074a21fc2067",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/d8ec7fefbec9864f0453074a21fc2067"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16412",
+        "abyssId": "16412",
+        "playXID": "d8ec7fefbec9864f0453074a21fc2067",
+        "title": "Teogonia",
+        "season": 1,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "MaPI1Ry02"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "Brvmkl-iI"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "FNTCvDmUX"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/a84844724ffb92a64016b3f17bba919e/master.m3u8?md5=k_8SrMVCCTe4RQQJe1lk4Q&expires=1792166581",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/a84844724ffb92a64016b3f17bba919e/master.m3u8?md5=k_8SrMVCCTe4RQQJe1lk4Q&expires=1792166581",
+            "videoSource": "https://ravok.buzz/cdn/hls/a84844724ffb92a64016b3f17bba919e/master.m3u8?md5=k_8SrMVCCTe4RQQJe1lk4Q&expires=1792166581",
+            "videoImage": "https://as-cdn30.top/p/7w98MFZimu6O_72pI685VAu4G15vx3l1PJ2QadQSjJZtbMeHK0_xz4-B0ey-klblBEG1Fnf4Pf_80dSVem7UVg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "d8ec7fefbec9864f0453074a21fc2067",
+                "streamUrl": "https://ravok.buzz/cdn/hls/a84844724ffb92a64016b3f17bba919e/master.m3u8?md5=k_8SrMVCCTe4RQQJe1lk4Q&expires=1792166581",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/a84844724ffb92a64016b3f17bba919e/master.m3u8?md5=k_8SrMVCCTe4RQQJe1lk4Q&expires=1792166581",
+                "videoSource": "https://ravok.buzz/cdn/hls/a84844724ffb92a64016b3f17bba919e/master.m3u8?md5=k_8SrMVCCTe4RQQJe1lk4Q&expires=1792166581",
+                "link": "https://ravok.buzz/cdn/hls/a84844724ffb92a64016b3f17bba919e/master.m3u8?md5=k_8SrMVCCTe4RQQJe1lk4Q&expires=1792166581",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/7w98MFZimu6O_72pI685VAu4G15vx3l1PJ2QadQSjJZtbMeHK0_xz4-B0ey-klblBEG1Fnf4Pf_80dSVem7UVg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "MaPI1Ry02"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:11Z"
+    },
+    {
+      "id": "episode/teogonia-1x10",
+      "episode_id": "episode/teogonia-1x10",
+      "title": "Teogonia 1x1",
+      "episode_name": "Teogonia 1x1",
+      "episode_number": 10,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1703_s1e10.webp",
+      "abyssid": "15933",
+      "abyssId": "15933",
+      "playxid": "21648c94be6e9adf691ebc249fa6689c",
+      "playXID": "21648c94be6e9adf691ebc249fa6689c",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15933",
+        "playXID": "21648c94be6e9adf691ebc249fa6689c",
+        "streamId": "15933",
+        "dubPlayerSrc": "/dub-player/t/15933/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=21648c94be6e9adf691ebc249fa6689c&abyssId=15933"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15933",
+        "playXID": "21648c94be6e9adf691ebc249fa6689c",
+        "streamId": "15933",
+        "dubPlayerSrc": "/dub-player/t/15933/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=21648c94be6e9adf691ebc249fa6689c&abyssId=15933"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/21648c94be6e9adf691ebc249fa6689c",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/21648c94be6e9adf691ebc249fa6689c"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15933",
+        "abyssId": "15933",
+        "playXID": "21648c94be6e9adf691ebc249fa6689c",
+        "title": "Teogonia",
+        "season": 1,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "0TiOGYqXm"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "pRP_YR-jw"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/14aa2c9406299166daf950b54eba8396/master.m3u8?md5=yHxK1KF90lEzXOc1do85Hw&expires=1792166583",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/14aa2c9406299166daf950b54eba8396/master.m3u8?md5=yHxK1KF90lEzXOc1do85Hw&expires=1792166583",
+            "videoSource": "https://ravok.buzz/cdn/hls/14aa2c9406299166daf950b54eba8396/master.m3u8?md5=yHxK1KF90lEzXOc1do85Hw&expires=1792166583",
+            "videoImage": "https://as-cdn28.top/p/zxiXz6YuKLcvqGDKXdTIstQ7yoxT7fWUJkgkxA01Xhje3Fh4XGWp7YNJwcsT0jXRxT3tETILzPG9ahbrYzXeeQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "21648c94be6e9adf691ebc249fa6689c",
+                "streamUrl": "https://ravok.buzz/cdn/hls/14aa2c9406299166daf950b54eba8396/master.m3u8?md5=yHxK1KF90lEzXOc1do85Hw&expires=1792166583",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/14aa2c9406299166daf950b54eba8396/master.m3u8?md5=yHxK1KF90lEzXOc1do85Hw&expires=1792166583",
+                "videoSource": "https://ravok.buzz/cdn/hls/14aa2c9406299166daf950b54eba8396/master.m3u8?md5=yHxK1KF90lEzXOc1do85Hw&expires=1792166583",
+                "link": "https://ravok.buzz/cdn/hls/14aa2c9406299166daf950b54eba8396/master.m3u8?md5=yHxK1KF90lEzXOc1do85Hw&expires=1792166583",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/zxiXz6YuKLcvqGDKXdTIstQ7yoxT7fWUJkgkxA01Xhje3Fh4XGWp7YNJwcsT0jXRxT3tETILzPG9ahbrYzXeeQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "0TiOGYqXm"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:14Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T14:03:05Z",
+  "updated_at": "2026-10-16T14:03:14Z"
+}

@@ -1,0 +1,1351 @@
+{
+  "id": "series/viral-hit",
+  "series_name": "Viral Hit",
+  "title": "Viral Hit",
+  "banner": "https://image.tmdb.org/t/p/w1280/wBnmxSBxaP5VrNFVsZuruERb1Cv.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/1kZBsmNYgjRxFPBfrFxkQGwS7xX.jpg",
+  "genra": [
+    "Action",
+    "Comedy",
+    "School"
+  ],
+  "genres": [
+    "Action",
+    "Comedy",
+    "School"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Japanese"
+  ],
+  "synopsis": "Scrawny high school student Hobin Yu is probably the last guy you'd expect to star in a NewTube channel that revolves around fighting. But after following some advice from a mysterious NewTube channel, Hobin is soon knocking out guys stronger than him and raking in more money than he could have ever dreamed of. Can Hobin keep this up, or will he eventually meet his match?",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Private: Viral Hit 1x1",
+          "id": "episode/private-viral-hit-1x1",
+          "image": "https://img.watchanimeworld.one/image/1171/1/1.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "Private: Viral Hit 1x2",
+          "id": "episode/private-viral-hit-1x2",
+          "image": "https://img.watchanimeworld.one/image/1171/1/2.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "Private: Viral Hit 1x3",
+          "id": "episode/private-viral-hit-1x3",
+          "image": "https://img.watchanimeworld.one/image/1171/1/3.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "Private: Viral Hit 1x4",
+          "id": "episode/private-viral-hit-1x4",
+          "image": "https://img.watchanimeworld.one/image/1171/1/4.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "Private: Viral Hit 1x5",
+          "id": "episode/private-viral-hit-1x5",
+          "image": "https://img.watchanimeworld.one/image/1171/1/5.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "Private: Viral Hit 1x6",
+          "id": "episode/private-viral-hit-1x6",
+          "image": "https://img.watchanimeworld.one/image/1171/1/6.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "Private: Viral Hit 1x7",
+          "id": "episode/private-viral-hit-1x7",
+          "image": "https://img.watchanimeworld.one/image/1171/1/7.webp",
+          "season": 1
+        },
+        {
+          "episode": 8,
+          "title": "Private: Viral Hit 1x8",
+          "id": "episode/private-viral-hit-1x8",
+          "image": "https://img.watchanimeworld.one/image/1171/1/8.webp",
+          "season": 1
+        },
+        {
+          "episode": 9,
+          "title": "Private: Viral Hit 1x9",
+          "id": "episode/private-viral-hit-1x9",
+          "image": "https://img.watchanimeworld.one/image/1171/1/9.webp",
+          "season": 1
+        },
+        {
+          "episode": 10,
+          "title": "Private: Viral Hit 1x10",
+          "id": "episode/private-viral-hit-1x10",
+          "image": "https://img.watchanimeworld.one/image/1171/1/10.webp",
+          "season": 1
+        },
+        {
+          "episode": 11,
+          "title": "Private: Viral Hit 1x11",
+          "id": "episode/private-viral-hit-1x11",
+          "image": "https://img.watchanimeworld.one/image/1171/1/11.webp",
+          "season": 1
+        },
+        {
+          "episode": 12,
+          "title": "Private: Viral Hit 1x12",
+          "id": "episode/private-viral-hit-1x12",
+          "image": "https://img.watchanimeworld.one/image/1171/1/12.webp",
+          "season": 1
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/private-viral-hit-1x2",
+      "episode_id": "episode/private-viral-hit-1x2",
+      "title": "Private: Viral Hit 1x1",
+      "episode_name": "Private: Viral Hit 1x1",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1171/1/2.webp",
+      "abyssid": "12140",
+      "abyssId": "12140",
+      "playxid": "b137fdd1f79d56c7edf3365fea7520f2",
+      "playXID": "b137fdd1f79d56c7edf3365fea7520f2",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12140",
+        "playXID": "b137fdd1f79d56c7edf3365fea7520f2",
+        "streamId": "12140",
+        "dubPlayerSrc": "/dub-player/t/12140/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b137fdd1f79d56c7edf3365fea7520f2&abyssId=12140"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12140",
+        "playXID": "b137fdd1f79d56c7edf3365fea7520f2",
+        "streamId": "12140",
+        "dubPlayerSrc": "/dub-player/t/12140/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b137fdd1f79d56c7edf3365fea7520f2&abyssId=12140"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/b137fdd1f79d56c7edf3365fea7520f2",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/b137fdd1f79d56c7edf3365fea7520f2"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12140",
+        "abyssId": "12140",
+        "playXID": "b137fdd1f79d56c7edf3365fea7520f2",
+        "title": "Viral Hit",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "VfHb97x5r"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "hNnwwiPsn"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "ZomOuSrRt"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/c0e7b206e3777948e2bef64b86c31289/master.m3u8?md5=Yd_fRU6P75Yt23iRnK-XfQ&expires=1792167044",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/c0e7b206e3777948e2bef64b86c31289/master.m3u8?md5=Yd_fRU6P75Yt23iRnK-XfQ&expires=1792167044",
+            "videoSource": "https://ravok.buzz/cdn/hls/c0e7b206e3777948e2bef64b86c31289/master.m3u8?md5=Yd_fRU6P75Yt23iRnK-XfQ&expires=1792167044",
+            "videoImage": "https://as-cdn30.top/p/0589ENongCcDmAMLTfd0zo-4JCowmsGT7ApI9j_4XkcYw_0EB88Sqtb1jDnF4VvPMrvO-81YsDLWquZH4qLNTw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "b137fdd1f79d56c7edf3365fea7520f2",
+                "streamUrl": "https://ravok.buzz/cdn/hls/c0e7b206e3777948e2bef64b86c31289/master.m3u8?md5=Yd_fRU6P75Yt23iRnK-XfQ&expires=1792167044",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/c0e7b206e3777948e2bef64b86c31289/master.m3u8?md5=Yd_fRU6P75Yt23iRnK-XfQ&expires=1792167044",
+                "videoSource": "https://ravok.buzz/cdn/hls/c0e7b206e3777948e2bef64b86c31289/master.m3u8?md5=Yd_fRU6P75Yt23iRnK-XfQ&expires=1792167044",
+                "link": "https://ravok.buzz/cdn/hls/c0e7b206e3777948e2bef64b86c31289/master.m3u8?md5=Yd_fRU6P75Yt23iRnK-XfQ&expires=1792167044",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/0589ENongCcDmAMLTfd0zo-4JCowmsGT7ApI9j_4XkcYw_0EB88Sqtb1jDnF4VvPMrvO-81YsDLWquZH4qLNTw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "VfHb97x5r"
+        }
+      },
+      "fetched_at": "2026-10-16T14:10:54Z"
+    },
+    {
+      "id": "episode/private-viral-hit-1x4",
+      "episode_id": "episode/private-viral-hit-1x4",
+      "title": "Private: Viral Hit 1x1",
+      "episode_name": "Private: Viral Hit 1x1",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1171/1/4.webp",
+      "abyssid": "12142",
+      "abyssId": "12142",
+      "playxid": "e49b8b4053df9505e1f48c3a701c0682",
+      "playXID": "e49b8b4053df9505e1f48c3a701c0682",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12142",
+        "playXID": "e49b8b4053df9505e1f48c3a701c0682",
+        "streamId": "12142",
+        "dubPlayerSrc": "/dub-player/t/12142/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e49b8b4053df9505e1f48c3a701c0682&abyssId=12142"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12142",
+        "playXID": "e49b8b4053df9505e1f48c3a701c0682",
+        "streamId": "12142",
+        "dubPlayerSrc": "/dub-player/t/12142/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e49b8b4053df9505e1f48c3a701c0682&abyssId=12142"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/e49b8b4053df9505e1f48c3a701c0682",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/e49b8b4053df9505e1f48c3a701c0682"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12142",
+        "abyssId": "12142",
+        "playXID": "e49b8b4053df9505e1f48c3a701c0682",
+        "title": "Viral Hit",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "bGZngv9qt"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "FduJ0bATV"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "vgfwxXcHP"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/f0e1bd44c22dc8279fa2a2609cc53b21/master.m3u8?md5=09wj8GAFtKB5QdOno9yiJw&expires=1792167044",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/f0e1bd44c22dc8279fa2a2609cc53b21/master.m3u8?md5=09wj8GAFtKB5QdOno9yiJw&expires=1792167044",
+            "videoSource": "https://ravok.buzz/cdn/hls/f0e1bd44c22dc8279fa2a2609cc53b21/master.m3u8?md5=09wj8GAFtKB5QdOno9yiJw&expires=1792167044",
+            "videoImage": "https://as-cdn30.top/p/RN0houvnEiWWEFFx-HP3t_LlpFfj0wtoiQQMowUfDcJA696kFNpDys_ugFE4pzqt6J1Bf3_eLw5b3Ae-tvKm2g.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "e49b8b4053df9505e1f48c3a701c0682",
+                "streamUrl": "https://ravok.buzz/cdn/hls/f0e1bd44c22dc8279fa2a2609cc53b21/master.m3u8?md5=09wj8GAFtKB5QdOno9yiJw&expires=1792167044",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/f0e1bd44c22dc8279fa2a2609cc53b21/master.m3u8?md5=09wj8GAFtKB5QdOno9yiJw&expires=1792167044",
+                "videoSource": "https://ravok.buzz/cdn/hls/f0e1bd44c22dc8279fa2a2609cc53b21/master.m3u8?md5=09wj8GAFtKB5QdOno9yiJw&expires=1792167044",
+                "link": "https://ravok.buzz/cdn/hls/f0e1bd44c22dc8279fa2a2609cc53b21/master.m3u8?md5=09wj8GAFtKB5QdOno9yiJw&expires=1792167044",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/RN0houvnEiWWEFFx-HP3t_LlpFfj0wtoiQQMowUfDcJA696kFNpDys_ugFE4pzqt6J1Bf3_eLw5b3Ae-tvKm2g.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "bGZngv9qt"
+        }
+      },
+      "fetched_at": "2026-10-16T14:10:54Z"
+    },
+    {
+      "id": "episode/private-viral-hit-1x3",
+      "episode_id": "episode/private-viral-hit-1x3",
+      "title": "Private: Viral Hit 1x1",
+      "episode_name": "Private: Viral Hit 1x1",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1171/1/3.webp",
+      "abyssid": "12141",
+      "abyssId": "12141",
+      "playxid": "b056eb1587586b71e2da9acfe4fbd19e",
+      "playXID": "b056eb1587586b71e2da9acfe4fbd19e",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12141",
+        "playXID": "b056eb1587586b71e2da9acfe4fbd19e",
+        "streamId": "12141",
+        "dubPlayerSrc": "/dub-player/t/12141/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b056eb1587586b71e2da9acfe4fbd19e&abyssId=12141"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12141",
+        "playXID": "b056eb1587586b71e2da9acfe4fbd19e",
+        "streamId": "12141",
+        "dubPlayerSrc": "/dub-player/t/12141/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b056eb1587586b71e2da9acfe4fbd19e&abyssId=12141"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/b056eb1587586b71e2da9acfe4fbd19e",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/b056eb1587586b71e2da9acfe4fbd19e"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12141",
+        "abyssId": "12141",
+        "playXID": "b056eb1587586b71e2da9acfe4fbd19e",
+        "title": "Viral Hit",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "_7HFTgSKJ"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "r7Q7S_jPG"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "VDx0h6a2P"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/a5b4baffc1ddeb67121c55df69976444/master.m3u8?md5=N4JX__qk-qDTiGEUsd04lA&expires=1792167044",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/a5b4baffc1ddeb67121c55df69976444/master.m3u8?md5=N4JX__qk-qDTiGEUsd04lA&expires=1792167044",
+            "videoSource": "https://ravok.buzz/cdn/hls/a5b4baffc1ddeb67121c55df69976444/master.m3u8?md5=N4JX__qk-qDTiGEUsd04lA&expires=1792167044",
+            "videoImage": "https://as-cdn31.top/p/Aohv3Dmu2Fhamakf7jcPUqzvvdp9Y5QNZXnDYgKOGz16hzOdTkZPEdAQBRqG9O_2IGpqlUbQmPI4iSaKj_0OOA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "b056eb1587586b71e2da9acfe4fbd19e",
+                "streamUrl": "https://ravok.buzz/cdn/hls/a5b4baffc1ddeb67121c55df69976444/master.m3u8?md5=N4JX__qk-qDTiGEUsd04lA&expires=1792167044",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/a5b4baffc1ddeb67121c55df69976444/master.m3u8?md5=N4JX__qk-qDTiGEUsd04lA&expires=1792167044",
+                "videoSource": "https://ravok.buzz/cdn/hls/a5b4baffc1ddeb67121c55df69976444/master.m3u8?md5=N4JX__qk-qDTiGEUsd04lA&expires=1792167044",
+                "link": "https://ravok.buzz/cdn/hls/a5b4baffc1ddeb67121c55df69976444/master.m3u8?md5=N4JX__qk-qDTiGEUsd04lA&expires=1792167044",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/Aohv3Dmu2Fhamakf7jcPUqzvvdp9Y5QNZXnDYgKOGz16hzOdTkZPEdAQBRqG9O_2IGpqlUbQmPI4iSaKj_0OOA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "_7HFTgSKJ"
+        }
+      },
+      "fetched_at": "2026-10-16T14:10:54Z"
+    },
+    {
+      "id": "episode/private-viral-hit-1x1",
+      "episode_id": "episode/private-viral-hit-1x1",
+      "title": "Private: Viral Hit 1x1",
+      "episode_name": "Private: Viral Hit 1x1",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1171/1/1.webp",
+      "abyssid": "12139",
+      "abyssId": "12139",
+      "playxid": "912d2b1c7b2826caf99687388d2e8f7c",
+      "playXID": "912d2b1c7b2826caf99687388d2e8f7c",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12139",
+        "playXID": "912d2b1c7b2826caf99687388d2e8f7c",
+        "streamId": "12139",
+        "dubPlayerSrc": "/dub-player/t/12139/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=912d2b1c7b2826caf99687388d2e8f7c&abyssId=12139"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12139",
+        "playXID": "912d2b1c7b2826caf99687388d2e8f7c",
+        "streamId": "12139",
+        "dubPlayerSrc": "/dub-player/t/12139/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=912d2b1c7b2826caf99687388d2e8f7c&abyssId=12139"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/912d2b1c7b2826caf99687388d2e8f7c",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/912d2b1c7b2826caf99687388d2e8f7c"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12139",
+        "abyssId": "12139",
+        "playXID": "912d2b1c7b2826caf99687388d2e8f7c",
+        "title": "Viral Hit",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "rFNietTs5"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "G0SdUVTEB"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "85XHKr_Ts"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/4a63864b5b756edc6bd35c90e6616719/master.m3u8?md5=8BEvYWWH72SRPbMYeEO1XQ&expires=1792167044",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/4a63864b5b756edc6bd35c90e6616719/master.m3u8?md5=8BEvYWWH72SRPbMYeEO1XQ&expires=1792167044",
+            "videoSource": "https://ravok.buzz/cdn/hls/4a63864b5b756edc6bd35c90e6616719/master.m3u8?md5=8BEvYWWH72SRPbMYeEO1XQ&expires=1792167044",
+            "videoImage": "https://as-cdn30.top/p/ObqatpTAxNZj7KpJ515nB3QQNOLnnxqJ8glTguX-fDnCiz7CGGySKPQvhAZuEBI_1-E4BZdejqEr4Y5erDCL4g.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "912d2b1c7b2826caf99687388d2e8f7c",
+                "streamUrl": "https://ravok.buzz/cdn/hls/4a63864b5b756edc6bd35c90e6616719/master.m3u8?md5=8BEvYWWH72SRPbMYeEO1XQ&expires=1792167044",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/4a63864b5b756edc6bd35c90e6616719/master.m3u8?md5=8BEvYWWH72SRPbMYeEO1XQ&expires=1792167044",
+                "videoSource": "https://ravok.buzz/cdn/hls/4a63864b5b756edc6bd35c90e6616719/master.m3u8?md5=8BEvYWWH72SRPbMYeEO1XQ&expires=1792167044",
+                "link": "https://ravok.buzz/cdn/hls/4a63864b5b756edc6bd35c90e6616719/master.m3u8?md5=8BEvYWWH72SRPbMYeEO1XQ&expires=1792167044",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/ObqatpTAxNZj7KpJ515nB3QQNOLnnxqJ8glTguX-fDnCiz7CGGySKPQvhAZuEBI_1-E4BZdejqEr4Y5erDCL4g.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "rFNietTs5"
+        }
+      },
+      "fetched_at": "2026-10-16T14:10:54Z"
+    },
+    {
+      "id": "episode/private-viral-hit-1x5",
+      "episode_id": "episode/private-viral-hit-1x5",
+      "title": "Private: Viral Hit 1x1",
+      "episode_name": "Private: Viral Hit 1x1",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1171/1/5.webp",
+      "abyssid": "12143",
+      "abyssId": "12143",
+      "playxid": "8d317bdcf4aafcfc22149d77babee96d",
+      "playXID": "8d317bdcf4aafcfc22149d77babee96d",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12143",
+        "playXID": "8d317bdcf4aafcfc22149d77babee96d",
+        "streamId": "12143",
+        "dubPlayerSrc": "/dub-player/t/12143/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8d317bdcf4aafcfc22149d77babee96d&abyssId=12143"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12143",
+        "playXID": "8d317bdcf4aafcfc22149d77babee96d",
+        "streamId": "12143",
+        "dubPlayerSrc": "/dub-player/t/12143/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8d317bdcf4aafcfc22149d77babee96d&abyssId=12143"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/8d317bdcf4aafcfc22149d77babee96d",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/8d317bdcf4aafcfc22149d77babee96d"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12143",
+        "abyssId": "12143",
+        "playXID": "8d317bdcf4aafcfc22149d77babee96d",
+        "title": "Viral Hit",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "0Rm1Q1L4x"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "GbmLy3bWI"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "O_Ci7kqUA"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/4116f0d1f366ca04e90433614356d5de/master.m3u8?md5=s42jQ21EKImlXIwZ0KFMWQ&expires=1792167045",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/4116f0d1f366ca04e90433614356d5de/master.m3u8?md5=s42jQ21EKImlXIwZ0KFMWQ&expires=1792167045",
+            "videoSource": "https://ravok.buzz/cdn/hls/4116f0d1f366ca04e90433614356d5de/master.m3u8?md5=s42jQ21EKImlXIwZ0KFMWQ&expires=1792167045",
+            "videoImage": "https://as-cdn28.top/p/6aNuy_ddMIHT-RCJbXIxMNqgqCMANdwy2ofsk_o9sPXBOuWmTsgHJwPXfsbhaDVoVExAeiNQuU7eW6ppY0LV-w.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "8d317bdcf4aafcfc22149d77babee96d",
+                "streamUrl": "https://ravok.buzz/cdn/hls/4116f0d1f366ca04e90433614356d5de/master.m3u8?md5=s42jQ21EKImlXIwZ0KFMWQ&expires=1792167045",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/4116f0d1f366ca04e90433614356d5de/master.m3u8?md5=s42jQ21EKImlXIwZ0KFMWQ&expires=1792167045",
+                "videoSource": "https://ravok.buzz/cdn/hls/4116f0d1f366ca04e90433614356d5de/master.m3u8?md5=s42jQ21EKImlXIwZ0KFMWQ&expires=1792167045",
+                "link": "https://ravok.buzz/cdn/hls/4116f0d1f366ca04e90433614356d5de/master.m3u8?md5=s42jQ21EKImlXIwZ0KFMWQ&expires=1792167045",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/6aNuy_ddMIHT-RCJbXIxMNqgqCMANdwy2ofsk_o9sPXBOuWmTsgHJwPXfsbhaDVoVExAeiNQuU7eW6ppY0LV-w.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "0Rm1Q1L4x"
+        }
+      },
+      "fetched_at": "2026-10-16T14:10:54Z"
+    },
+    {
+      "id": "episode/private-viral-hit-1x6",
+      "episode_id": "episode/private-viral-hit-1x6",
+      "title": "Private: Viral Hit 1x1",
+      "episode_name": "Private: Viral Hit 1x1",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1171/1/6.webp",
+      "abyssid": "12144",
+      "abyssId": "12144",
+      "playxid": "185e65bc40581880c4f2c82958de8cfe",
+      "playXID": "185e65bc40581880c4f2c82958de8cfe",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12144",
+        "playXID": "185e65bc40581880c4f2c82958de8cfe",
+        "streamId": "12144",
+        "dubPlayerSrc": "/dub-player/t/12144/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=185e65bc40581880c4f2c82958de8cfe&abyssId=12144"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12144",
+        "playXID": "185e65bc40581880c4f2c82958de8cfe",
+        "streamId": "12144",
+        "dubPlayerSrc": "/dub-player/t/12144/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=185e65bc40581880c4f2c82958de8cfe&abyssId=12144"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/185e65bc40581880c4f2c82958de8cfe",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/185e65bc40581880c4f2c82958de8cfe"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12144",
+        "abyssId": "12144",
+        "playXID": "185e65bc40581880c4f2c82958de8cfe",
+        "title": "Viral Hit",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "DqBYqi8iY"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "uZBHgKJ3k"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "TfBQZR6TY"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/63e8ee983f068b7c8ca25493e3ccfac6/master.m3u8?md5=PzcHcnsBEjd0F_y3vSoAlw&expires=1792167046",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/63e8ee983f068b7c8ca25493e3ccfac6/master.m3u8?md5=PzcHcnsBEjd0F_y3vSoAlw&expires=1792167046",
+            "videoSource": "https://ravok.buzz/cdn/hls/63e8ee983f068b7c8ca25493e3ccfac6/master.m3u8?md5=PzcHcnsBEjd0F_y3vSoAlw&expires=1792167046",
+            "videoImage": "https://as-cdn30.top/p/AtFvHWTaxHPruqZ123oKIqsUnaviJwsp9zOkBcIx-an_7_N7_GCoZFDI5jC7SXAVhbahhbzKa2uCoO9-kxiHVQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "185e65bc40581880c4f2c82958de8cfe",
+                "streamUrl": "https://ravok.buzz/cdn/hls/63e8ee983f068b7c8ca25493e3ccfac6/master.m3u8?md5=PzcHcnsBEjd0F_y3vSoAlw&expires=1792167046",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/63e8ee983f068b7c8ca25493e3ccfac6/master.m3u8?md5=PzcHcnsBEjd0F_y3vSoAlw&expires=1792167046",
+                "videoSource": "https://ravok.buzz/cdn/hls/63e8ee983f068b7c8ca25493e3ccfac6/master.m3u8?md5=PzcHcnsBEjd0F_y3vSoAlw&expires=1792167046",
+                "link": "https://ravok.buzz/cdn/hls/63e8ee983f068b7c8ca25493e3ccfac6/master.m3u8?md5=PzcHcnsBEjd0F_y3vSoAlw&expires=1792167046",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/AtFvHWTaxHPruqZ123oKIqsUnaviJwsp9zOkBcIx-an_7_N7_GCoZFDI5jC7SXAVhbahhbzKa2uCoO9-kxiHVQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "DqBYqi8iY"
+        }
+      },
+      "fetched_at": "2026-10-16T14:10:56Z"
+    },
+    {
+      "id": "episode/private-viral-hit-1x7",
+      "episode_id": "episode/private-viral-hit-1x7",
+      "title": "Private: Viral Hit 1x1",
+      "episode_name": "Private: Viral Hit 1x1",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1171/1/7.webp",
+      "abyssid": "12145",
+      "abyssId": "12145",
+      "playxid": "5f0f5e5f33945135b874349cfbed4fb9",
+      "playXID": "5f0f5e5f33945135b874349cfbed4fb9",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12145",
+        "playXID": "5f0f5e5f33945135b874349cfbed4fb9",
+        "streamId": "12145",
+        "dubPlayerSrc": "/dub-player/t/12145/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=5f0f5e5f33945135b874349cfbed4fb9&abyssId=12145"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12145",
+        "playXID": "5f0f5e5f33945135b874349cfbed4fb9",
+        "streamId": "12145",
+        "dubPlayerSrc": "/dub-player/t/12145/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=5f0f5e5f33945135b874349cfbed4fb9&abyssId=12145"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/5f0f5e5f33945135b874349cfbed4fb9",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/5f0f5e5f33945135b874349cfbed4fb9"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12145",
+        "abyssId": "12145",
+        "playXID": "5f0f5e5f33945135b874349cfbed4fb9",
+        "title": "Viral Hit",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "m_yUVgPWN"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "CAK_Gv-3l"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "inuU-wIdc"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/766dc04b56077f86065e4f415ded8aab/master.m3u8?md5=xRY4anLd4RVo_21pgFCWeg&expires=1792167046",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/766dc04b56077f86065e4f415ded8aab/master.m3u8?md5=xRY4anLd4RVo_21pgFCWeg&expires=1792167046",
+            "videoSource": "https://ravok.buzz/cdn/hls/766dc04b56077f86065e4f415ded8aab/master.m3u8?md5=xRY4anLd4RVo_21pgFCWeg&expires=1792167046",
+            "videoImage": "https://as-cdn28.top/p/ghHG82f0PpzjiLRJNqBW6ZayOHe1PVu0HB8wyr6kCInXLBMHZYo26Q7ALEkytbdsxdi-c5gomOSJJGxM-nVtSQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "5f0f5e5f33945135b874349cfbed4fb9",
+                "streamUrl": "https://ravok.buzz/cdn/hls/766dc04b56077f86065e4f415ded8aab/master.m3u8?md5=xRY4anLd4RVo_21pgFCWeg&expires=1792167046",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/766dc04b56077f86065e4f415ded8aab/master.m3u8?md5=xRY4anLd4RVo_21pgFCWeg&expires=1792167046",
+                "videoSource": "https://ravok.buzz/cdn/hls/766dc04b56077f86065e4f415ded8aab/master.m3u8?md5=xRY4anLd4RVo_21pgFCWeg&expires=1792167046",
+                "link": "https://ravok.buzz/cdn/hls/766dc04b56077f86065e4f415ded8aab/master.m3u8?md5=xRY4anLd4RVo_21pgFCWeg&expires=1792167046",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/ghHG82f0PpzjiLRJNqBW6ZayOHe1PVu0HB8wyr6kCInXLBMHZYo26Q7ALEkytbdsxdi-c5gomOSJJGxM-nVtSQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "m_yUVgPWN"
+        }
+      },
+      "fetched_at": "2026-10-16T14:10:56Z"
+    },
+    {
+      "id": "episode/private-viral-hit-1x9",
+      "episode_id": "episode/private-viral-hit-1x9",
+      "title": "Private: Viral Hit 1x1",
+      "episode_name": "Private: Viral Hit 1x1",
+      "episode_number": 9,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1171/1/9.webp",
+      "abyssid": "12147",
+      "abyssId": "12147",
+      "playxid": "5c572eca050594c7bc3c36e7e8ab9550",
+      "playXID": "5c572eca050594c7bc3c36e7e8ab9550",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12147",
+        "playXID": "5c572eca050594c7bc3c36e7e8ab9550",
+        "streamId": "12147",
+        "dubPlayerSrc": "/dub-player/t/12147/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=5c572eca050594c7bc3c36e7e8ab9550&abyssId=12147"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12147",
+        "playXID": "5c572eca050594c7bc3c36e7e8ab9550",
+        "streamId": "12147",
+        "dubPlayerSrc": "/dub-player/t/12147/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=5c572eca050594c7bc3c36e7e8ab9550&abyssId=12147"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/5c572eca050594c7bc3c36e7e8ab9550",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/5c572eca050594c7bc3c36e7e8ab9550"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12147",
+        "abyssId": "12147",
+        "playXID": "5c572eca050594c7bc3c36e7e8ab9550",
+        "title": "Viral Hit",
+        "season": 1,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "stLMUIBJY"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "K1c6i3vNy"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "zpGbQ7WhT"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/09b0c682b7998a988efaf9039e5251a4/master.m3u8?md5=A_bA7ODdr88PmS5Jbx8niA&expires=1792167046",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/09b0c682b7998a988efaf9039e5251a4/master.m3u8?md5=A_bA7ODdr88PmS5Jbx8niA&expires=1792167046",
+            "videoSource": "https://ravok.buzz/cdn/hls/09b0c682b7998a988efaf9039e5251a4/master.m3u8?md5=A_bA7ODdr88PmS5Jbx8niA&expires=1792167046",
+            "videoImage": "https://as-cdn28.top/p/oms1H9XDvPTTE6FmvEMWQlQd4Dq9TrTPtBN5HrWg6vu9vrttNeimfeGcMlV2qiKn1gqgFD78ih5dqv7cJgJKNw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "5c572eca050594c7bc3c36e7e8ab9550",
+                "streamUrl": "https://ravok.buzz/cdn/hls/09b0c682b7998a988efaf9039e5251a4/master.m3u8?md5=A_bA7ODdr88PmS5Jbx8niA&expires=1792167046",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/09b0c682b7998a988efaf9039e5251a4/master.m3u8?md5=A_bA7ODdr88PmS5Jbx8niA&expires=1792167046",
+                "videoSource": "https://ravok.buzz/cdn/hls/09b0c682b7998a988efaf9039e5251a4/master.m3u8?md5=A_bA7ODdr88PmS5Jbx8niA&expires=1792167046",
+                "link": "https://ravok.buzz/cdn/hls/09b0c682b7998a988efaf9039e5251a4/master.m3u8?md5=A_bA7ODdr88PmS5Jbx8niA&expires=1792167046",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/oms1H9XDvPTTE6FmvEMWQlQd4Dq9TrTPtBN5HrWg6vu9vrttNeimfeGcMlV2qiKn1gqgFD78ih5dqv7cJgJKNw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "stLMUIBJY"
+        }
+      },
+      "fetched_at": "2026-10-16T14:10:56Z"
+    },
+    {
+      "id": "episode/private-viral-hit-1x8",
+      "episode_id": "episode/private-viral-hit-1x8",
+      "title": "Private: Viral Hit 1x1",
+      "episode_name": "Private: Viral Hit 1x1",
+      "episode_number": 8,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1171/1/8.webp",
+      "abyssid": "12146",
+      "abyssId": "12146",
+      "playxid": "0537fb40a68c18da59a35c2bfe1ca554",
+      "playXID": "0537fb40a68c18da59a35c2bfe1ca554",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12146",
+        "playXID": "0537fb40a68c18da59a35c2bfe1ca554",
+        "streamId": "12146",
+        "dubPlayerSrc": "/dub-player/t/12146/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=0537fb40a68c18da59a35c2bfe1ca554&abyssId=12146"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12146",
+        "playXID": "0537fb40a68c18da59a35c2bfe1ca554",
+        "streamId": "12146",
+        "dubPlayerSrc": "/dub-player/t/12146/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=0537fb40a68c18da59a35c2bfe1ca554&abyssId=12146"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/0537fb40a68c18da59a35c2bfe1ca554",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/0537fb40a68c18da59a35c2bfe1ca554"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12146",
+        "abyssId": "12146",
+        "playXID": "0537fb40a68c18da59a35c2bfe1ca554",
+        "title": "Viral Hit",
+        "season": 1,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "QC5l0WabZ"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "wNIoSvHku"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "XgWchtg2TO"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/4cb6e44251bf440bcf6d6e5783c0f1e8/master.m3u8?md5=ax9Jn105PuSAMsEafOZtbA&expires=1792167046",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/4cb6e44251bf440bcf6d6e5783c0f1e8/master.m3u8?md5=ax9Jn105PuSAMsEafOZtbA&expires=1792167046",
+            "videoSource": "https://ravok.buzz/cdn/hls/4cb6e44251bf440bcf6d6e5783c0f1e8/master.m3u8?md5=ax9Jn105PuSAMsEafOZtbA&expires=1792167046",
+            "videoImage": "https://as-cdn30.top/p/yeyjLHM3fUMJ1-DP9P7LVIgK0AuyvmKnxEXZ9_qRL7POtxvnaQaZEOtcn5Kxl2dYCEEKMEO-GTQ86DJJCgvvEQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "0537fb40a68c18da59a35c2bfe1ca554",
+                "streamUrl": "https://ravok.buzz/cdn/hls/4cb6e44251bf440bcf6d6e5783c0f1e8/master.m3u8?md5=ax9Jn105PuSAMsEafOZtbA&expires=1792167046",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/4cb6e44251bf440bcf6d6e5783c0f1e8/master.m3u8?md5=ax9Jn105PuSAMsEafOZtbA&expires=1792167046",
+                "videoSource": "https://ravok.buzz/cdn/hls/4cb6e44251bf440bcf6d6e5783c0f1e8/master.m3u8?md5=ax9Jn105PuSAMsEafOZtbA&expires=1792167046",
+                "link": "https://ravok.buzz/cdn/hls/4cb6e44251bf440bcf6d6e5783c0f1e8/master.m3u8?md5=ax9Jn105PuSAMsEafOZtbA&expires=1792167046",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/yeyjLHM3fUMJ1-DP9P7LVIgK0AuyvmKnxEXZ9_qRL7POtxvnaQaZEOtcn5Kxl2dYCEEKMEO-GTQ86DJJCgvvEQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "QC5l0WabZ"
+        }
+      },
+      "fetched_at": "2026-10-16T14:10:56Z"
+    },
+    {
+      "id": "episode/private-viral-hit-1x10",
+      "episode_id": "episode/private-viral-hit-1x10",
+      "title": "Private: Viral Hit 1x1",
+      "episode_name": "Private: Viral Hit 1x1",
+      "episode_number": 10,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1171/1/10.webp",
+      "abyssid": "12148",
+      "abyssId": "12148",
+      "playxid": "e94550c93cd70fe748e6982b3439ad3b",
+      "playXID": "e94550c93cd70fe748e6982b3439ad3b",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12148",
+        "playXID": "e94550c93cd70fe748e6982b3439ad3b",
+        "streamId": "12148",
+        "dubPlayerSrc": "/dub-player/t/12148/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e94550c93cd70fe748e6982b3439ad3b&abyssId=12148"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12148",
+        "playXID": "e94550c93cd70fe748e6982b3439ad3b",
+        "streamId": "12148",
+        "dubPlayerSrc": "/dub-player/t/12148/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e94550c93cd70fe748e6982b3439ad3b&abyssId=12148"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/e94550c93cd70fe748e6982b3439ad3b",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/e94550c93cd70fe748e6982b3439ad3b"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12148",
+        "abyssId": "12148",
+        "playXID": "e94550c93cd70fe748e6982b3439ad3b",
+        "title": "Viral Hit",
+        "season": 1,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "H3vL5C5Fo"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "QiKUE3OGTq"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "jpwZ3qOWJ"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/281d303d108eace8340bb72c6b54a7f1/master.m3u8?md5=dZjWSIYRg_ZrGDJusLJkBQ&expires=1792167047",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/281d303d108eace8340bb72c6b54a7f1/master.m3u8?md5=dZjWSIYRg_ZrGDJusLJkBQ&expires=1792167047",
+            "videoSource": "https://ravok.buzz/cdn/hls/281d303d108eace8340bb72c6b54a7f1/master.m3u8?md5=dZjWSIYRg_ZrGDJusLJkBQ&expires=1792167047",
+            "videoImage": "https://as-cdn27.top/p/MS-Ga2QNZMj-hHvX_v4Bg5MHk_iib0SXnAJpfAJcu7NiRkAZCOy_GFB_9G-IKp6CBJe3-JwnyCPMm95FwR61lg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "e94550c93cd70fe748e6982b3439ad3b",
+                "streamUrl": "https://ravok.buzz/cdn/hls/281d303d108eace8340bb72c6b54a7f1/master.m3u8?md5=dZjWSIYRg_ZrGDJusLJkBQ&expires=1792167047",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/281d303d108eace8340bb72c6b54a7f1/master.m3u8?md5=dZjWSIYRg_ZrGDJusLJkBQ&expires=1792167047",
+                "videoSource": "https://ravok.buzz/cdn/hls/281d303d108eace8340bb72c6b54a7f1/master.m3u8?md5=dZjWSIYRg_ZrGDJusLJkBQ&expires=1792167047",
+                "link": "https://ravok.buzz/cdn/hls/281d303d108eace8340bb72c6b54a7f1/master.m3u8?md5=dZjWSIYRg_ZrGDJusLJkBQ&expires=1792167047",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/MS-Ga2QNZMj-hHvX_v4Bg5MHk_iib0SXnAJpfAJcu7NiRkAZCOy_GFB_9G-IKp6CBJe3-JwnyCPMm95FwR61lg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "H3vL5C5Fo"
+        }
+      },
+      "fetched_at": "2026-10-16T14:10:56Z"
+    },
+    {
+      "id": "episode/private-viral-hit-1x11",
+      "episode_id": "episode/private-viral-hit-1x11",
+      "title": "Private: Viral Hit 1x1",
+      "episode_name": "Private: Viral Hit 1x1",
+      "episode_number": 11,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1171/1/11.webp",
+      "abyssid": "12149",
+      "abyssId": "12149",
+      "playxid": "2e65f2f2fdaf6c699b223c61b1b5ab89",
+      "playXID": "2e65f2f2fdaf6c699b223c61b1b5ab89",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12149",
+        "playXID": "2e65f2f2fdaf6c699b223c61b1b5ab89",
+        "streamId": "12149",
+        "dubPlayerSrc": "/dub-player/t/12149/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2e65f2f2fdaf6c699b223c61b1b5ab89&abyssId=12149"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12149",
+        "playXID": "2e65f2f2fdaf6c699b223c61b1b5ab89",
+        "streamId": "12149",
+        "dubPlayerSrc": "/dub-player/t/12149/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2e65f2f2fdaf6c699b223c61b1b5ab89&abyssId=12149"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/2e65f2f2fdaf6c699b223c61b1b5ab89",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/2e65f2f2fdaf6c699b223c61b1b5ab89"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12149",
+        "abyssId": "12149",
+        "playXID": "2e65f2f2fdaf6c699b223c61b1b5ab89",
+        "title": "Viral Hit",
+        "season": 1,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "PRC-2QkRU"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "jIsdMiO9I"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "plWURAdwY"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/7c59d94f077f86eded9d0d4f4495cfc6/master.m3u8?md5=7m8C0SYOkCsToKuLOoQisg&expires=1792167048",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/7c59d94f077f86eded9d0d4f4495cfc6/master.m3u8?md5=7m8C0SYOkCsToKuLOoQisg&expires=1792167048",
+            "videoSource": "https://ravok.buzz/cdn/hls/7c59d94f077f86eded9d0d4f4495cfc6/master.m3u8?md5=7m8C0SYOkCsToKuLOoQisg&expires=1792167048",
+            "videoImage": "https://as-cdn27.top/p/mpktxZL0DYDtc_TpgxiVRRKOs64KrucZjULPuV4H6sfc5XlhzREpqWU7DOV5pBzFUivNnutoSPlftUdaleHzUQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "2e65f2f2fdaf6c699b223c61b1b5ab89",
+                "streamUrl": "https://ravok.buzz/cdn/hls/7c59d94f077f86eded9d0d4f4495cfc6/master.m3u8?md5=7m8C0SYOkCsToKuLOoQisg&expires=1792167048",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/7c59d94f077f86eded9d0d4f4495cfc6/master.m3u8?md5=7m8C0SYOkCsToKuLOoQisg&expires=1792167048",
+                "videoSource": "https://ravok.buzz/cdn/hls/7c59d94f077f86eded9d0d4f4495cfc6/master.m3u8?md5=7m8C0SYOkCsToKuLOoQisg&expires=1792167048",
+                "link": "https://ravok.buzz/cdn/hls/7c59d94f077f86eded9d0d4f4495cfc6/master.m3u8?md5=7m8C0SYOkCsToKuLOoQisg&expires=1792167048",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/mpktxZL0DYDtc_TpgxiVRRKOs64KrucZjULPuV4H6sfc5XlhzREpqWU7DOV5pBzFUivNnutoSPlftUdaleHzUQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "PRC-2QkRU"
+        }
+      },
+      "fetched_at": "2026-10-16T14:10:58Z"
+    },
+    {
+      "id": "episode/private-viral-hit-1x12",
+      "episode_id": "episode/private-viral-hit-1x12",
+      "title": "Private: Viral Hit 1x1",
+      "episode_name": "Private: Viral Hit 1x1",
+      "episode_number": 12,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1171/1/12.webp",
+      "abyssid": "12150",
+      "abyssId": "12150",
+      "playxid": "edfbe1afcf9246bb0d40eb4d8027d90f",
+      "playXID": "edfbe1afcf9246bb0d40eb4d8027d90f",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12150",
+        "playXID": "edfbe1afcf9246bb0d40eb4d8027d90f",
+        "streamId": "12150",
+        "dubPlayerSrc": "/dub-player/t/12150/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=edfbe1afcf9246bb0d40eb4d8027d90f&abyssId=12150"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12150",
+        "playXID": "edfbe1afcf9246bb0d40eb4d8027d90f",
+        "streamId": "12150",
+        "dubPlayerSrc": "/dub-player/t/12150/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=edfbe1afcf9246bb0d40eb4d8027d90f&abyssId=12150"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/edfbe1afcf9246bb0d40eb4d8027d90f",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/edfbe1afcf9246bb0d40eb4d8027d90f"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12150",
+        "abyssId": "12150",
+        "playXID": "edfbe1afcf9246bb0d40eb4d8027d90f",
+        "title": "Viral Hit",
+        "season": 1,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "YY-fm1RQh"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "3PcMbhoP-"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "l0LDR8KGMG"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/390db1c4e8e87a8d4c6d845013b66800/master.m3u8?md5=FXvsM9PbtkojkFbd_Y2BEQ&expires=1792167048",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/390db1c4e8e87a8d4c6d845013b66800/master.m3u8?md5=FXvsM9PbtkojkFbd_Y2BEQ&expires=1792167048",
+            "videoSource": "https://ravok.buzz/cdn/hls/390db1c4e8e87a8d4c6d845013b66800/master.m3u8?md5=FXvsM9PbtkojkFbd_Y2BEQ&expires=1792167048",
+            "videoImage": "https://as-cdn27.top/p/JiOHtfh6AE6fDIt5FlD3hcVvejkT3khLw_3FWdC6yrIlsuMtqenVqD9689o-xZQXSZmRZTSJnub5QnwHFw4K2A.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "edfbe1afcf9246bb0d40eb4d8027d90f",
+                "streamUrl": "https://ravok.buzz/cdn/hls/390db1c4e8e87a8d4c6d845013b66800/master.m3u8?md5=FXvsM9PbtkojkFbd_Y2BEQ&expires=1792167048",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/390db1c4e8e87a8d4c6d845013b66800/master.m3u8?md5=FXvsM9PbtkojkFbd_Y2BEQ&expires=1792167048",
+                "videoSource": "https://ravok.buzz/cdn/hls/390db1c4e8e87a8d4c6d845013b66800/master.m3u8?md5=FXvsM9PbtkojkFbd_Y2BEQ&expires=1792167048",
+                "link": "https://ravok.buzz/cdn/hls/390db1c4e8e87a8d4c6d845013b66800/master.m3u8?md5=FXvsM9PbtkojkFbd_Y2BEQ&expires=1792167048",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/JiOHtfh6AE6fDIt5FlD3hcVvejkT3khLw_3FWdC6yrIlsuMtqenVqD9689o-xZQXSZmRZTSJnub5QnwHFw4K2A.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "YY-fm1RQh"
+        }
+      },
+      "fetched_at": "2026-10-16T14:10:58Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T14:10:52Z",
+  "updated_at": "2026-10-16T14:10:58Z"
+}

@@ -1,0 +1,4614 @@
+{
+  "id": "series/blue-lock",
+  "series_name": "BLUE LOCK",
+  "title": "BLUE LOCK",
+  "banner": "https://image.tmdb.org/t/p/w1280/seMRyWVwIVBWbC9xaMzDMZJ8fUH.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/fT9W86KFA9Khy2hIbkfClI8IYDH.jpg",
+  "genra": [
+    "Drama",
+    "Shounen",
+    "Sports"
+  ],
+  "genres": [
+    "Drama",
+    "Shounen",
+    "Sports"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Japanese",
+    "Tamil",
+    "Telugu"
+  ],
+  "synopsis": "After a disastrous defeat at the 2018 World Cup, Japan's team struggles to regroup. But what's missing? An absolute Ace Striker, who can guide them to the win. The Japan Football Union is hell-bent on creating a striker who hungers for goals and thirsts for victory, and who can be the decisive instrument in turning around a losing match...and to do so, they've gathered 300 of Japan's best and brightest youth players. Who will emerge to lead the team...and will they be able to out-muscle and out-ego everyone who stands in their way?",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 2,
+  "totalEpisodes": 38,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 24,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Dream",
+          "id": "episode/blue-lock-1x1",
+          "image": "https://img.watchanimeworld.one/images/13554/01.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "Monster",
+          "id": "episode/blue-lock-1x2",
+          "image": "https://img.watchanimeworld.one/images/13554/02.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "Soccer's 'Zero'",
+          "id": "episode/blue-lock-1x3",
+          "image": "https://img.watchanimeworld.one/images/13554/03.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "Premonition and Intuition",
+          "id": "episode/blue-lock-1x4",
+          "image": "https://img.watchanimeworld.one/images/13554/04.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "To Be Reborn",
+          "id": "episode/blue-lock-1x5",
+          "image": "https://img.watchanimeworld.one/images/13554/05.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "I'm Sorry",
+          "id": "episode/blue-lock-1x6",
+          "image": "https://img.watchanimeworld.one/images/13554/06.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "Rush",
+          "id": "episode/blue-lock-1x7",
+          "image": "https://img.watchanimeworld.one/images/13554/07.webp",
+          "season": 1
+        },
+        {
+          "episode": 8,
+          "title": "The Formula of a Goal",
+          "id": "episode/blue-lock-1x8",
+          "image": "https://img.watchanimeworld.one/images/13554/08.webp",
+          "season": 1
+        },
+        {
+          "episode": 9,
+          "title": "Awakening",
+          "id": "episode/blue-lock-1x9",
+          "image": "https://img.watchanimeworld.one/images/13554/09.webp",
+          "season": 1
+        },
+        {
+          "episode": 10,
+          "title": "Just the Way It Is",
+          "id": "episode/blue-lock-1x10",
+          "image": "https://img.watchanimeworld.one/images/13554/10.webp",
+          "season": 1
+        },
+        {
+          "episode": 11,
+          "title": "The Final Piece",
+          "id": "episode/blue-lock-1x11",
+          "image": "https://img.watchanimeworld.one/images/13554/11.webp",
+          "season": 1
+        },
+        {
+          "episode": 12,
+          "title": "The Second Selection",
+          "id": "episode/blue-lock-1x12",
+          "image": "https://img.watchanimeworld.one/images/13554/12.webp",
+          "season": 1
+        },
+        {
+          "episode": 13,
+          "title": "Top 3",
+          "id": "episode/blue-lock-1x13",
+          "image": "https://img.watchanimeworld.one/images/13554/13.webp",
+          "season": 1
+        },
+        {
+          "episode": 14,
+          "title": "The Geniuses and the Average Joes",
+          "id": "episode/blue-lock-1x14",
+          "image": "https://img.watchanimeworld.one/images/13554/14.webp",
+          "season": 1
+        },
+        {
+          "episode": 15,
+          "title": "Devour",
+          "id": "episode/blue-lock-1x15",
+          "image": "https://img.watchanimeworld.one/images/13554/15.webp",
+          "season": 1
+        },
+        {
+          "episode": 16,
+          "title": "Tri-Fusion",
+          "id": "episode/blue-lock-1x16",
+          "image": "https://img.watchanimeworld.one/images/13554/16.webp",
+          "season": 1
+        },
+        {
+          "episode": 17,
+          "title": "Donkey",
+          "id": "episode/blue-lock-1x17",
+          "image": "https://img.watchanimeworld.one/images/13554/17.webp",
+          "season": 1
+        },
+        {
+          "episode": 18,
+          "title": "The Stage for the Lead",
+          "id": "episode/blue-lock-1x18",
+          "image": "https://img.watchanimeworld.one/images/13554/18.webp",
+          "season": 1
+        },
+        {
+          "episode": 19,
+          "title": "Dancing Boy",
+          "id": "episode/blue-lock-1x19",
+          "image": "https://img.watchanimeworld.one/images/13554/19.webp",
+          "season": 1
+        },
+        {
+          "episode": 20,
+          "title": "Super Link-Up Play",
+          "id": "episode/blue-lock-1x20",
+          "image": "https://img.watchanimeworld.one/images/13554/20.webp",
+          "season": 1
+        },
+        {
+          "episode": 21,
+          "title": "I'm Not There",
+          "id": "episode/blue-lock-1x21",
+          "image": "https://img.watchanimeworld.one/images/13554/21.webp",
+          "season": 1
+        },
+        {
+          "episode": 22,
+          "title": "Voice",
+          "id": "episode/blue-lock-1x22",
+          "image": "https://img.watchanimeworld.one/images/13554/22.webp",
+          "season": 1
+        },
+        {
+          "episode": 23,
+          "title": "Luck",
+          "id": "episode/blue-lock-1x23",
+          "image": "https://img.watchanimeworld.one/images/13554/23.webp",
+          "season": 1
+        },
+        {
+          "episode": 24,
+          "title": "The Time Has Come",
+          "id": "episode/blue-lock-1x24",
+          "image": "https://img.watchanimeworld.one/images/13554/24.webp",
+          "season": 1
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "name": "Season 2",
+      "episodesCount": 14,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Tryouts",
+          "id": "episode/blue-lock-2x1",
+          "image": "https://img.watchanimeworld.one/image/284/2/1.webp",
+          "season": 2
+        },
+        {
+          "episode": 2,
+          "title": "The Assassin and the Ninja",
+          "id": "episode/blue-lock-2x2",
+          "image": "https://img.watchanimeworld.one/image/284/2/2.webp",
+          "season": 2
+        },
+        {
+          "episode": 3,
+          "title": "The World of Feeling",
+          "id": "episode/blue-lock-2x3",
+          "image": "https://img.watchanimeworld.one/image/284/2/3.webp",
+          "season": 2
+        },
+        {
+          "episode": 4,
+          "title": "Chameleon",
+          "id": "episode/blue-lock-2x4",
+          "image": "https://img.watchanimeworld.one/image/284/2/4.webp",
+          "season": 2
+        },
+        {
+          "episode": 5,
+          "title": "Flow",
+          "id": "episode/blue-lock-2x5",
+          "image": "https://img.watchanimeworld.one/image/284/2/5.webp",
+          "season": 2
+        },
+        {
+          "episode": 6,
+          "title": "BLUE LOCK 2x6",
+          "id": "episode/blue-lock-2x6",
+          "image": "https://img.watchanimeworld.one/image/284/2/6.webp",
+          "season": 2
+        },
+        {
+          "episode": 7,
+          "title": "BLUE LOCK 2x7",
+          "id": "episode/blue-lock-2x7",
+          "image": "https://img.watchanimeworld.one/image/284/2/7.webp",
+          "season": 2
+        },
+        {
+          "episode": 8,
+          "title": "BLUE LOCK 2x8",
+          "id": "episode/blue-lock-2x8",
+          "image": "https://img.watchanimeworld.one/image/284/2/8.webp",
+          "season": 2
+        },
+        {
+          "episode": 9,
+          "title": "BLUE LOCK 2x9",
+          "id": "episode/blue-lock-2x9",
+          "image": "https://img.watchanimeworld.one/image/284/2/9.webp",
+          "season": 2
+        },
+        {
+          "episode": 10,
+          "title": "BLUE LOCK 2x10",
+          "id": "episode/blue-lock-2x10",
+          "image": "https://img.watchanimeworld.one/image/284/2/10.webp",
+          "season": 2
+        },
+        {
+          "episode": 11,
+          "title": "BLUE LOCK 2x11",
+          "id": "episode/blue-lock-2x11",
+          "image": "https://img.watchanimeworld.one/image/284/2/11.webp",
+          "season": 2
+        },
+        {
+          "episode": 12,
+          "title": "BLUE LOCK 2x12",
+          "id": "episode/blue-lock-2x12",
+          "image": "https://img.watchanimeworld.one/image/284/2/12.webp",
+          "season": 2
+        },
+        {
+          "episode": 13,
+          "title": "BLUE LOCK 2x13",
+          "id": "episode/blue-lock-2x13",
+          "image": "https://img.watchanimeworld.one/image/284/2/13.webp",
+          "season": 2
+        },
+        {
+          "episode": 14,
+          "title": "BLUE LOCK 2x14",
+          "id": "episode/blue-lock-2x14",
+          "image": "https://img.watchanimeworld.one/image/284/2/14.webp",
+          "season": 2
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/blue-lock-1x4",
+      "episode_id": "episode/blue-lock-1x4",
+      "title": "Dream",
+      "episode_name": "Dream",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/13554/04.webp",
+      "abyssid": "7765",
+      "abyssId": "7765",
+      "playxid": "2723d092b63885e0d7c260cc007e8b9d",
+      "playXID": "2723d092b63885e0d7c260cc007e8b9d",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "7765",
+        "playXID": "2723d092b63885e0d7c260cc007e8b9d",
+        "streamId": "7765",
+        "dubPlayerSrc": "/dub-player/t/7765/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2723d092b63885e0d7c260cc007e8b9d&abyssId=7765"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "7765",
+        "playXID": "2723d092b63885e0d7c260cc007e8b9d",
+        "streamId": "7765",
+        "dubPlayerSrc": "/dub-player/t/7765/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2723d092b63885e0d7c260cc007e8b9d&abyssId=7765"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/2723d092b63885e0d7c260cc007e8b9d",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/2723d092b63885e0d7c260cc007e8b9d"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "7765",
+        "abyssId": "7765",
+        "playXID": "2723d092b63885e0d7c260cc007e8b9d",
+        "title": "BLUE LOCK",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "geaUzDE8z"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "O-u3eO_zw"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "XaNoXPglV"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "KAmAY6LoU"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "v9CE9v122"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/93d553f3a5efe034623c9cc3cebf8c5a/master.m3u8?md5=HUNJZS6b9gJjxnBzHG9xBQ&expires=1792167495",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/93d553f3a5efe034623c9cc3cebf8c5a/master.m3u8?md5=HUNJZS6b9gJjxnBzHG9xBQ&expires=1792167495",
+            "videoSource": "https://ravok.buzz/cdn/hls/93d553f3a5efe034623c9cc3cebf8c5a/master.m3u8?md5=HUNJZS6b9gJjxnBzHG9xBQ&expires=1792167495",
+            "videoImage": "https://as-cdn29.top/p/FPU3ou5QPrXitjwOBB0i8DJwq6vHt5genDfmSReWPs_tbIg4bgaTSifIAayInqqFdqlt3rzBauwXb2nld9PU8Q.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "2723d092b63885e0d7c260cc007e8b9d",
+                "streamUrl": "https://ravok.buzz/cdn/hls/93d553f3a5efe034623c9cc3cebf8c5a/master.m3u8?md5=HUNJZS6b9gJjxnBzHG9xBQ&expires=1792167495",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/93d553f3a5efe034623c9cc3cebf8c5a/master.m3u8?md5=HUNJZS6b9gJjxnBzHG9xBQ&expires=1792167495",
+                "videoSource": "https://ravok.buzz/cdn/hls/93d553f3a5efe034623c9cc3cebf8c5a/master.m3u8?md5=HUNJZS6b9gJjxnBzHG9xBQ&expires=1792167495",
+                "link": "https://ravok.buzz/cdn/hls/93d553f3a5efe034623c9cc3cebf8c5a/master.m3u8?md5=HUNJZS6b9gJjxnBzHG9xBQ&expires=1792167495",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/FPU3ou5QPrXitjwOBB0i8DJwq6vHt5genDfmSReWPs_tbIg4bgaTSifIAayInqqFdqlt3rzBauwXb2nld9PU8Q.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "geaUzDE8z"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:25Z"
+    },
+    {
+      "id": "episode/blue-lock-1x3",
+      "episode_id": "episode/blue-lock-1x3",
+      "title": "Dream",
+      "episode_name": "Dream",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/13554/03.webp",
+      "abyssid": "7764",
+      "abyssId": "7764",
+      "playxid": "5f93f983524def3dca464469d2cf9f3e",
+      "playXID": "5f93f983524def3dca464469d2cf9f3e",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "7764",
+        "playXID": "5f93f983524def3dca464469d2cf9f3e",
+        "streamId": "7764",
+        "dubPlayerSrc": "/dub-player/t/7764/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=5f93f983524def3dca464469d2cf9f3e&abyssId=7764"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "7764",
+        "playXID": "5f93f983524def3dca464469d2cf9f3e",
+        "streamId": "7764",
+        "dubPlayerSrc": "/dub-player/t/7764/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=5f93f983524def3dca464469d2cf9f3e&abyssId=7764"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/5f93f983524def3dca464469d2cf9f3e",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/5f93f983524def3dca464469d2cf9f3e"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "7764",
+        "abyssId": "7764",
+        "playXID": "5f93f983524def3dca464469d2cf9f3e",
+        "title": "BLUE LOCK",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "DQvG1ZDJI"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "aReRJ-bHV"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "85Z2ZDyiB"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "jQSOh4fM4"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "EvJ1K7uAG"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/8920450ebf5210809dc52a7c3a0da91a/master.m3u8?md5=olxQXfFN5WeXsX358QiDqg&expires=1792167496",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/8920450ebf5210809dc52a7c3a0da91a/master.m3u8?md5=olxQXfFN5WeXsX358QiDqg&expires=1792167496",
+            "videoSource": "https://ravok.buzz/cdn/hls/8920450ebf5210809dc52a7c3a0da91a/master.m3u8?md5=olxQXfFN5WeXsX358QiDqg&expires=1792167496",
+            "videoImage": "https://as-cdn30.top/p/s5kXKHS_IbSyUQZj1Ayw8ES6Ct49u6MYF4NAtgUmhYq_NiEeQzwTKupbpzXKPhTFWBdqrNjF90Aia1TGttXhPA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "5f93f983524def3dca464469d2cf9f3e",
+                "streamUrl": "https://ravok.buzz/cdn/hls/8920450ebf5210809dc52a7c3a0da91a/master.m3u8?md5=olxQXfFN5WeXsX358QiDqg&expires=1792167496",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/8920450ebf5210809dc52a7c3a0da91a/master.m3u8?md5=olxQXfFN5WeXsX358QiDqg&expires=1792167496",
+                "videoSource": "https://ravok.buzz/cdn/hls/8920450ebf5210809dc52a7c3a0da91a/master.m3u8?md5=olxQXfFN5WeXsX358QiDqg&expires=1792167496",
+                "link": "https://ravok.buzz/cdn/hls/8920450ebf5210809dc52a7c3a0da91a/master.m3u8?md5=olxQXfFN5WeXsX358QiDqg&expires=1792167496",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/s5kXKHS_IbSyUQZj1Ayw8ES6Ct49u6MYF4NAtgUmhYq_NiEeQzwTKupbpzXKPhTFWBdqrNjF90Aia1TGttXhPA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "DQvG1ZDJI"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:26Z"
+    },
+    {
+      "id": "episode/blue-lock-1x1",
+      "episode_id": "episode/blue-lock-1x1",
+      "title": "Dream",
+      "episode_name": "Dream",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/13554/01.webp",
+      "abyssid": "7762",
+      "abyssId": "7762",
+      "playxid": "7f6ffaa6bb0b408017b62254211691b5",
+      "playXID": "7f6ffaa6bb0b408017b62254211691b5",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "7762",
+        "playXID": "7f6ffaa6bb0b408017b62254211691b5",
+        "streamId": "7762",
+        "dubPlayerSrc": "/dub-player/t/7762/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=7f6ffaa6bb0b408017b62254211691b5&abyssId=7762"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "7762",
+        "playXID": "7f6ffaa6bb0b408017b62254211691b5",
+        "streamId": "7762",
+        "dubPlayerSrc": "/dub-player/t/7762/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=7f6ffaa6bb0b408017b62254211691b5&abyssId=7762"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/7f6ffaa6bb0b408017b62254211691b5",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/7f6ffaa6bb0b408017b62254211691b5"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "7762",
+        "abyssId": "7762",
+        "playXID": "7f6ffaa6bb0b408017b62254211691b5",
+        "title": "BLUE LOCK",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "pyjKbhVP2"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "tFiZDzJRh"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "uuvFybBrf"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "PRtRAHtZE"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "dGU2rx8Ao"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/c2317b22ed9fd77ccc0f6b8d40563fd2/master.m3u8?md5=xsSbsOI3SjW7p0T3tzYyPg&expires=1792167496",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/c2317b22ed9fd77ccc0f6b8d40563fd2/master.m3u8?md5=xsSbsOI3SjW7p0T3tzYyPg&expires=1792167496",
+            "videoSource": "https://ravok.buzz/cdn/hls/c2317b22ed9fd77ccc0f6b8d40563fd2/master.m3u8?md5=xsSbsOI3SjW7p0T3tzYyPg&expires=1792167496",
+            "videoImage": "https://as-cdn30.top/p/8rBa4-y47C_sAP6GaZemVCQ2ZxONpEtVtmcPmV6pFLM2ZwdkesJlWDxxQS2ndz8RChDG982ULCBphP2MtGJyBw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "7f6ffaa6bb0b408017b62254211691b5",
+                "streamUrl": "https://ravok.buzz/cdn/hls/c2317b22ed9fd77ccc0f6b8d40563fd2/master.m3u8?md5=xsSbsOI3SjW7p0T3tzYyPg&expires=1792167496",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/c2317b22ed9fd77ccc0f6b8d40563fd2/master.m3u8?md5=xsSbsOI3SjW7p0T3tzYyPg&expires=1792167496",
+                "videoSource": "https://ravok.buzz/cdn/hls/c2317b22ed9fd77ccc0f6b8d40563fd2/master.m3u8?md5=xsSbsOI3SjW7p0T3tzYyPg&expires=1792167496",
+                "link": "https://ravok.buzz/cdn/hls/c2317b22ed9fd77ccc0f6b8d40563fd2/master.m3u8?md5=xsSbsOI3SjW7p0T3tzYyPg&expires=1792167496",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/8rBa4-y47C_sAP6GaZemVCQ2ZxONpEtVtmcPmV6pFLM2ZwdkesJlWDxxQS2ndz8RChDG982ULCBphP2MtGJyBw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "pyjKbhVP2"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:26Z"
+    },
+    {
+      "id": "episode/blue-lock-1x2",
+      "episode_id": "episode/blue-lock-1x2",
+      "title": "Dream",
+      "episode_name": "Dream",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/13554/02.webp",
+      "abyssid": "7763",
+      "abyssId": "7763",
+      "playxid": "698d51a19d8a121ce581499d7b701668",
+      "playXID": "698d51a19d8a121ce581499d7b701668",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "7763",
+        "playXID": "698d51a19d8a121ce581499d7b701668",
+        "streamId": "7763",
+        "dubPlayerSrc": "/dub-player/t/7763/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=698d51a19d8a121ce581499d7b701668&abyssId=7763"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "7763",
+        "playXID": "698d51a19d8a121ce581499d7b701668",
+        "streamId": "7763",
+        "dubPlayerSrc": "/dub-player/t/7763/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=698d51a19d8a121ce581499d7b701668&abyssId=7763"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/698d51a19d8a121ce581499d7b701668",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/698d51a19d8a121ce581499d7b701668"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "7763",
+        "abyssId": "7763",
+        "playXID": "698d51a19d8a121ce581499d7b701668",
+        "title": "BLUE LOCK",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "gjbG387bD"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "a1Vkb6p-x"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "dWJx5imYQ"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "F4TFWPEdd"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "97Txx0-fQ"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/5ac816a1211d8c542631c0684c241c71/master.m3u8?md5=Y1y4Ny3PUcVBbTE5wGomKg&expires=1792167496",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/5ac816a1211d8c542631c0684c241c71/master.m3u8?md5=Y1y4Ny3PUcVBbTE5wGomKg&expires=1792167496",
+            "videoSource": "https://ravok.buzz/cdn/hls/5ac816a1211d8c542631c0684c241c71/master.m3u8?md5=Y1y4Ny3PUcVBbTE5wGomKg&expires=1792167496",
+            "videoImage": "https://as-cdn29.top/p/orbGSCAPCBgab8DpO-vyVmdVUOBKo2E0vHVSifp14A9SZ45uKi2yxQgHDGcE7b5dTrWLv1BpIDDKSy3KBd-RtQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "698d51a19d8a121ce581499d7b701668",
+                "streamUrl": "https://ravok.buzz/cdn/hls/5ac816a1211d8c542631c0684c241c71/master.m3u8?md5=Y1y4Ny3PUcVBbTE5wGomKg&expires=1792167496",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/5ac816a1211d8c542631c0684c241c71/master.m3u8?md5=Y1y4Ny3PUcVBbTE5wGomKg&expires=1792167496",
+                "videoSource": "https://ravok.buzz/cdn/hls/5ac816a1211d8c542631c0684c241c71/master.m3u8?md5=Y1y4Ny3PUcVBbTE5wGomKg&expires=1792167496",
+                "link": "https://ravok.buzz/cdn/hls/5ac816a1211d8c542631c0684c241c71/master.m3u8?md5=Y1y4Ny3PUcVBbTE5wGomKg&expires=1792167496",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/orbGSCAPCBgab8DpO-vyVmdVUOBKo2E0vHVSifp14A9SZ45uKi2yxQgHDGcE7b5dTrWLv1BpIDDKSy3KBd-RtQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "gjbG387bD"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:26Z"
+    },
+    {
+      "id": "episode/blue-lock-1x5",
+      "episode_id": "episode/blue-lock-1x5",
+      "title": "Dream",
+      "episode_name": "Dream",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/13554/05.webp",
+      "abyssid": "7766",
+      "abyssId": "7766",
+      "playxid": "a3c65c2974270fd093ee8a9bf8ae7d0b",
+      "playXID": "a3c65c2974270fd093ee8a9bf8ae7d0b",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "7766",
+        "playXID": "a3c65c2974270fd093ee8a9bf8ae7d0b",
+        "streamId": "7766",
+        "dubPlayerSrc": "/dub-player/t/7766/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a3c65c2974270fd093ee8a9bf8ae7d0b&abyssId=7766"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "7766",
+        "playXID": "a3c65c2974270fd093ee8a9bf8ae7d0b",
+        "streamId": "7766",
+        "dubPlayerSrc": "/dub-player/t/7766/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a3c65c2974270fd093ee8a9bf8ae7d0b&abyssId=7766"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/a3c65c2974270fd093ee8a9bf8ae7d0b",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/a3c65c2974270fd093ee8a9bf8ae7d0b"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "7766",
+        "abyssId": "7766",
+        "playXID": "a3c65c2974270fd093ee8a9bf8ae7d0b",
+        "title": "BLUE LOCK",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "j9Mx8Cesl"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "M61r1-y8J"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "P8WlaINFZ"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "4F4mNsKYb"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "j5aUe4so_"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/84d720ed600e1c3d98eb611f9eb9bd90/master.m3u8?md5=jet9kuUcikujS3nqZMLZCg&expires=1792167496",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/84d720ed600e1c3d98eb611f9eb9bd90/master.m3u8?md5=jet9kuUcikujS3nqZMLZCg&expires=1792167496",
+            "videoSource": "https://ravok.buzz/cdn/hls/84d720ed600e1c3d98eb611f9eb9bd90/master.m3u8?md5=jet9kuUcikujS3nqZMLZCg&expires=1792167496",
+            "videoImage": "https://as-cdn28.top/p/i3hJJ73PqLtonL5f_61vSbi_QxGpYsPNztIuDL9QDyQ8elRutWRQRtUaKKGFZ_Pq9iEmm-fR6jOZepnaAwAc5A.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "a3c65c2974270fd093ee8a9bf8ae7d0b",
+                "streamUrl": "https://ravok.buzz/cdn/hls/84d720ed600e1c3d98eb611f9eb9bd90/master.m3u8?md5=jet9kuUcikujS3nqZMLZCg&expires=1792167496",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/84d720ed600e1c3d98eb611f9eb9bd90/master.m3u8?md5=jet9kuUcikujS3nqZMLZCg&expires=1792167496",
+                "videoSource": "https://ravok.buzz/cdn/hls/84d720ed600e1c3d98eb611f9eb9bd90/master.m3u8?md5=jet9kuUcikujS3nqZMLZCg&expires=1792167496",
+                "link": "https://ravok.buzz/cdn/hls/84d720ed600e1c3d98eb611f9eb9bd90/master.m3u8?md5=jet9kuUcikujS3nqZMLZCg&expires=1792167496",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/i3hJJ73PqLtonL5f_61vSbi_QxGpYsPNztIuDL9QDyQ8elRutWRQRtUaKKGFZ_Pq9iEmm-fR6jOZepnaAwAc5A.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "j9Mx8Cesl"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:26Z"
+    },
+    {
+      "id": "episode/blue-lock-1x6",
+      "episode_id": "episode/blue-lock-1x6",
+      "title": "Dream",
+      "episode_name": "Dream",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/13554/06.webp",
+      "abyssid": "7767",
+      "abyssId": "7767",
+      "playxid": "a97da629b098b75c294dffdc3e463904",
+      "playXID": "a97da629b098b75c294dffdc3e463904",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "7767",
+        "playXID": "a97da629b098b75c294dffdc3e463904",
+        "streamId": "7767",
+        "dubPlayerSrc": "/dub-player/t/7767/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a97da629b098b75c294dffdc3e463904&abyssId=7767"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "7767",
+        "playXID": "a97da629b098b75c294dffdc3e463904",
+        "streamId": "7767",
+        "dubPlayerSrc": "/dub-player/t/7767/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a97da629b098b75c294dffdc3e463904&abyssId=7767"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/a97da629b098b75c294dffdc3e463904",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/a97da629b098b75c294dffdc3e463904"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "7767",
+        "abyssId": "7767",
+        "playXID": "a97da629b098b75c294dffdc3e463904",
+        "title": "BLUE LOCK",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "TNkX5Cbdg"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "rL3jjcs20"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "j0USrLUUY"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "nX5o2pkxZ"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "aDcRAEK6w"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/0d2104091a8817fb39087c10f6fc833c/master.m3u8?md5=gPIT8tvY5TFVwrdx1E9QcA&expires=1792167499",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/0d2104091a8817fb39087c10f6fc833c/master.m3u8?md5=gPIT8tvY5TFVwrdx1E9QcA&expires=1792167499",
+            "videoSource": "https://ravok.buzz/cdn/hls/0d2104091a8817fb39087c10f6fc833c/master.m3u8?md5=gPIT8tvY5TFVwrdx1E9QcA&expires=1792167499",
+            "videoImage": "https://as-cdn29.top/p/gm5mcvCutlwfjPCuKkyvZ_4OHnp3QNhyPociZMtUu3F2lbFaQO9TD1QYyoEU0yZ4S_qCxfWY1nrxNImxhBTuww.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "a97da629b098b75c294dffdc3e463904",
+                "streamUrl": "https://ravok.buzz/cdn/hls/0d2104091a8817fb39087c10f6fc833c/master.m3u8?md5=gPIT8tvY5TFVwrdx1E9QcA&expires=1792167499",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/0d2104091a8817fb39087c10f6fc833c/master.m3u8?md5=gPIT8tvY5TFVwrdx1E9QcA&expires=1792167499",
+                "videoSource": "https://ravok.buzz/cdn/hls/0d2104091a8817fb39087c10f6fc833c/master.m3u8?md5=gPIT8tvY5TFVwrdx1E9QcA&expires=1792167499",
+                "link": "https://ravok.buzz/cdn/hls/0d2104091a8817fb39087c10f6fc833c/master.m3u8?md5=gPIT8tvY5TFVwrdx1E9QcA&expires=1792167499",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/gm5mcvCutlwfjPCuKkyvZ_4OHnp3QNhyPociZMtUu3F2lbFaQO9TD1QYyoEU0yZ4S_qCxfWY1nrxNImxhBTuww.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "TNkX5Cbdg"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:29Z"
+    },
+    {
+      "id": "episode/blue-lock-1x8",
+      "episode_id": "episode/blue-lock-1x8",
+      "title": "Dream",
+      "episode_name": "Dream",
+      "episode_number": 8,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/13554/08.webp",
+      "abyssid": "7769",
+      "abyssId": "7769",
+      "playxid": "65b9eea6e1cc6bb9f0cd2a47751a186f",
+      "playXID": "65b9eea6e1cc6bb9f0cd2a47751a186f",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "7769",
+        "playXID": "65b9eea6e1cc6bb9f0cd2a47751a186f",
+        "streamId": "7769",
+        "dubPlayerSrc": "/dub-player/t/7769/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=65b9eea6e1cc6bb9f0cd2a47751a186f&abyssId=7769"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "7769",
+        "playXID": "65b9eea6e1cc6bb9f0cd2a47751a186f",
+        "streamId": "7769",
+        "dubPlayerSrc": "/dub-player/t/7769/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=65b9eea6e1cc6bb9f0cd2a47751a186f&abyssId=7769"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/65b9eea6e1cc6bb9f0cd2a47751a186f",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/65b9eea6e1cc6bb9f0cd2a47751a186f"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "7769",
+        "abyssId": "7769",
+        "playXID": "65b9eea6e1cc6bb9f0cd2a47751a186f",
+        "title": "BLUE LOCK",
+        "season": 1,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "H7HZrk9zg"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "hM7gBWzjE"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "K-LfQOQ_Q"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "-elwn0yM8"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "t5-5Y2-vl"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/897ce8b9859582d6838e50c3ebef857e/master.m3u8?md5=JU1TDQcJpl1Jwz1pT5lyxA&expires=1792167499",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/897ce8b9859582d6838e50c3ebef857e/master.m3u8?md5=JU1TDQcJpl1Jwz1pT5lyxA&expires=1792167499",
+            "videoSource": "https://ravok.buzz/cdn/hls/897ce8b9859582d6838e50c3ebef857e/master.m3u8?md5=JU1TDQcJpl1Jwz1pT5lyxA&expires=1792167499",
+            "videoImage": "https://as-cdn28.top/p/IX5kmwiqtf5t7XSfnGDPoWbH74FpGxV3TzFoHGk4R5R8PrrYEWEbRAXIoclYumBfqdDznehVJdA8SRbZfznexw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "65b9eea6e1cc6bb9f0cd2a47751a186f",
+                "streamUrl": "https://ravok.buzz/cdn/hls/897ce8b9859582d6838e50c3ebef857e/master.m3u8?md5=JU1TDQcJpl1Jwz1pT5lyxA&expires=1792167499",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/897ce8b9859582d6838e50c3ebef857e/master.m3u8?md5=JU1TDQcJpl1Jwz1pT5lyxA&expires=1792167499",
+                "videoSource": "https://ravok.buzz/cdn/hls/897ce8b9859582d6838e50c3ebef857e/master.m3u8?md5=JU1TDQcJpl1Jwz1pT5lyxA&expires=1792167499",
+                "link": "https://ravok.buzz/cdn/hls/897ce8b9859582d6838e50c3ebef857e/master.m3u8?md5=JU1TDQcJpl1Jwz1pT5lyxA&expires=1792167499",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/IX5kmwiqtf5t7XSfnGDPoWbH74FpGxV3TzFoHGk4R5R8PrrYEWEbRAXIoclYumBfqdDznehVJdA8SRbZfznexw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "H7HZrk9zg"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:29Z"
+    },
+    {
+      "id": "episode/blue-lock-1x7",
+      "episode_id": "episode/blue-lock-1x7",
+      "title": "Dream",
+      "episode_name": "Dream",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/13554/07.webp",
+      "abyssid": "7768",
+      "abyssId": "7768",
+      "playxid": "f0935e4cd5920aa6c7c996a5ee53a70f",
+      "playXID": "f0935e4cd5920aa6c7c996a5ee53a70f",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "7768",
+        "playXID": "f0935e4cd5920aa6c7c996a5ee53a70f",
+        "streamId": "7768",
+        "dubPlayerSrc": "/dub-player/t/7768/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f0935e4cd5920aa6c7c996a5ee53a70f&abyssId=7768"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "7768",
+        "playXID": "f0935e4cd5920aa6c7c996a5ee53a70f",
+        "streamId": "7768",
+        "dubPlayerSrc": "/dub-player/t/7768/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f0935e4cd5920aa6c7c996a5ee53a70f&abyssId=7768"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/f0935e4cd5920aa6c7c996a5ee53a70f",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/f0935e4cd5920aa6c7c996a5ee53a70f"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "7768",
+        "abyssId": "7768",
+        "playXID": "f0935e4cd5920aa6c7c996a5ee53a70f",
+        "title": "BLUE LOCK",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "e2bMMrDGi"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "CKI4i9Nyz4"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "BU0rg3kEp"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "yhlaqeFXNL"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "QyJ9ctaML"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/beefc5252087ec27b734174330a5ea64/master.m3u8?md5=7BTNU44d-seJRKJ41HFWlw&expires=1792167499",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/beefc5252087ec27b734174330a5ea64/master.m3u8?md5=7BTNU44d-seJRKJ41HFWlw&expires=1792167499",
+            "videoSource": "https://ravok.buzz/cdn/hls/beefc5252087ec27b734174330a5ea64/master.m3u8?md5=7BTNU44d-seJRKJ41HFWlw&expires=1792167499",
+            "videoImage": "https://as-cdn29.top/p/zQvSjKVCqnSQ9JBofeka1FQyYHDv-iMrVvbKPR6iCZvInSGobtfUv31KrU41VKzH8ZrDBKQmscHwpxJXwsYxWQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "f0935e4cd5920aa6c7c996a5ee53a70f",
+                "streamUrl": "https://ravok.buzz/cdn/hls/beefc5252087ec27b734174330a5ea64/master.m3u8?md5=7BTNU44d-seJRKJ41HFWlw&expires=1792167499",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/beefc5252087ec27b734174330a5ea64/master.m3u8?md5=7BTNU44d-seJRKJ41HFWlw&expires=1792167499",
+                "videoSource": "https://ravok.buzz/cdn/hls/beefc5252087ec27b734174330a5ea64/master.m3u8?md5=7BTNU44d-seJRKJ41HFWlw&expires=1792167499",
+                "link": "https://ravok.buzz/cdn/hls/beefc5252087ec27b734174330a5ea64/master.m3u8?md5=7BTNU44d-seJRKJ41HFWlw&expires=1792167499",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/zQvSjKVCqnSQ9JBofeka1FQyYHDv-iMrVvbKPR6iCZvInSGobtfUv31KrU41VKzH8ZrDBKQmscHwpxJXwsYxWQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "e2bMMrDGi"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:29Z"
+    },
+    {
+      "id": "episode/blue-lock-1x9",
+      "episode_id": "episode/blue-lock-1x9",
+      "title": "Dream",
+      "episode_name": "Dream",
+      "episode_number": 9,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/13554/09.webp",
+      "abyssid": "7770",
+      "abyssId": "7770",
+      "playxid": "c9e1074f5b3f9fc8ea15d152add07294",
+      "playXID": "c9e1074f5b3f9fc8ea15d152add07294",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "7770",
+        "playXID": "c9e1074f5b3f9fc8ea15d152add07294",
+        "streamId": "7770",
+        "dubPlayerSrc": "/dub-player/t/7770/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c9e1074f5b3f9fc8ea15d152add07294&abyssId=7770"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "7770",
+        "playXID": "c9e1074f5b3f9fc8ea15d152add07294",
+        "streamId": "7770",
+        "dubPlayerSrc": "/dub-player/t/7770/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c9e1074f5b3f9fc8ea15d152add07294&abyssId=7770"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/c9e1074f5b3f9fc8ea15d152add07294",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/c9e1074f5b3f9fc8ea15d152add07294"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "7770",
+        "abyssId": "7770",
+        "playXID": "c9e1074f5b3f9fc8ea15d152add07294",
+        "title": "BLUE LOCK",
+        "season": 1,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "In84rxbq-"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "vwLrZVkla"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "tfDB8z8L7z"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "7GL4CdqY7"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "neIRwgepG"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/d3d1d4158de066eebc4bae0b098e5970/master.m3u8?md5=eERi5OJNg1_Sx7WMD89trQ&expires=1792167499",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/d3d1d4158de066eebc4bae0b098e5970/master.m3u8?md5=eERi5OJNg1_Sx7WMD89trQ&expires=1792167499",
+            "videoSource": "https://ravok.buzz/cdn/hls/d3d1d4158de066eebc4bae0b098e5970/master.m3u8?md5=eERi5OJNg1_Sx7WMD89trQ&expires=1792167499",
+            "videoImage": "https://as-cdn30.top/p/tuNBpeT53cxQOiypcFdZmI9tE6ss3Q-gDoCPlUPZivzbdI5u94Kr9yahcUrqgOBLiicjQklkAFI02r2kDb_Kbg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "c9e1074f5b3f9fc8ea15d152add07294",
+                "streamUrl": "https://ravok.buzz/cdn/hls/d3d1d4158de066eebc4bae0b098e5970/master.m3u8?md5=eERi5OJNg1_Sx7WMD89trQ&expires=1792167499",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/d3d1d4158de066eebc4bae0b098e5970/master.m3u8?md5=eERi5OJNg1_Sx7WMD89trQ&expires=1792167499",
+                "videoSource": "https://ravok.buzz/cdn/hls/d3d1d4158de066eebc4bae0b098e5970/master.m3u8?md5=eERi5OJNg1_Sx7WMD89trQ&expires=1792167499",
+                "link": "https://ravok.buzz/cdn/hls/d3d1d4158de066eebc4bae0b098e5970/master.m3u8?md5=eERi5OJNg1_Sx7WMD89trQ&expires=1792167499",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/tuNBpeT53cxQOiypcFdZmI9tE6ss3Q-gDoCPlUPZivzbdI5u94Kr9yahcUrqgOBLiicjQklkAFI02r2kDb_Kbg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "In84rxbq-"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:29Z"
+    },
+    {
+      "id": "episode/blue-lock-1x10",
+      "episode_id": "episode/blue-lock-1x10",
+      "title": "Dream",
+      "episode_name": "Dream",
+      "episode_number": 10,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/13554/10.webp",
+      "abyssid": "7771",
+      "abyssId": "7771",
+      "playxid": "6974ce5ac660610b44d9b9fed0ff9548",
+      "playXID": "6974ce5ac660610b44d9b9fed0ff9548",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "7771",
+        "playXID": "6974ce5ac660610b44d9b9fed0ff9548",
+        "streamId": "7771",
+        "dubPlayerSrc": "/dub-player/t/7771/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6974ce5ac660610b44d9b9fed0ff9548&abyssId=7771"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "7771",
+        "playXID": "6974ce5ac660610b44d9b9fed0ff9548",
+        "streamId": "7771",
+        "dubPlayerSrc": "/dub-player/t/7771/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6974ce5ac660610b44d9b9fed0ff9548&abyssId=7771"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/6974ce5ac660610b44d9b9fed0ff9548",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/6974ce5ac660610b44d9b9fed0ff9548"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "7771",
+        "abyssId": "7771",
+        "playXID": "6974ce5ac660610b44d9b9fed0ff9548",
+        "title": "BLUE LOCK",
+        "season": 1,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "LXpe2p4Nz"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "jHP8T6axJ"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "O8-tMUrNc"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "hxa4o2Erx"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "y5ae7Fag-"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/a03d704c08a1639a374a271fc2411f4a/master.m3u8?md5=ELYwfMYfQylK_qPVVKcKFg&expires=1792167499",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/a03d704c08a1639a374a271fc2411f4a/master.m3u8?md5=ELYwfMYfQylK_qPVVKcKFg&expires=1792167499",
+            "videoSource": "https://ravok.buzz/cdn/hls/a03d704c08a1639a374a271fc2411f4a/master.m3u8?md5=ELYwfMYfQylK_qPVVKcKFg&expires=1792167499",
+            "videoImage": "https://as-cdn31.top/p/UoWhqknh_DzhFbTXPX4wXGIix5q0NykPHqifOs1yDNhqOB1RyJRFAUeNB5dUkdDJH4VUoaGtLPuqjmElufnUIg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "6974ce5ac660610b44d9b9fed0ff9548",
+                "streamUrl": "https://ravok.buzz/cdn/hls/a03d704c08a1639a374a271fc2411f4a/master.m3u8?md5=ELYwfMYfQylK_qPVVKcKFg&expires=1792167499",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/a03d704c08a1639a374a271fc2411f4a/master.m3u8?md5=ELYwfMYfQylK_qPVVKcKFg&expires=1792167499",
+                "videoSource": "https://ravok.buzz/cdn/hls/a03d704c08a1639a374a271fc2411f4a/master.m3u8?md5=ELYwfMYfQylK_qPVVKcKFg&expires=1792167499",
+                "link": "https://ravok.buzz/cdn/hls/a03d704c08a1639a374a271fc2411f4a/master.m3u8?md5=ELYwfMYfQylK_qPVVKcKFg&expires=1792167499",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/UoWhqknh_DzhFbTXPX4wXGIix5q0NykPHqifOs1yDNhqOB1RyJRFAUeNB5dUkdDJH4VUoaGtLPuqjmElufnUIg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "LXpe2p4Nz"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:29Z"
+    },
+    {
+      "id": "episode/blue-lock-1x11",
+      "episode_id": "episode/blue-lock-1x11",
+      "title": "Dream",
+      "episode_name": "Dream",
+      "episode_number": 11,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/13554/11.webp",
+      "abyssid": "7772",
+      "abyssId": "7772",
+      "playxid": "ec8956637a99787bd197eacd77acce5e",
+      "playXID": "ec8956637a99787bd197eacd77acce5e",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "7772",
+        "playXID": "ec8956637a99787bd197eacd77acce5e",
+        "streamId": "7772",
+        "dubPlayerSrc": "/dub-player/t/7772/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ec8956637a99787bd197eacd77acce5e&abyssId=7772"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "7772",
+        "playXID": "ec8956637a99787bd197eacd77acce5e",
+        "streamId": "7772",
+        "dubPlayerSrc": "/dub-player/t/7772/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ec8956637a99787bd197eacd77acce5e&abyssId=7772"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/ec8956637a99787bd197eacd77acce5e",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/ec8956637a99787bd197eacd77acce5e"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "7772",
+        "abyssId": "7772",
+        "playXID": "ec8956637a99787bd197eacd77acce5e",
+        "title": "BLUE LOCK",
+        "season": 1,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "HtoL7DypM"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "skkUOOhFl"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "7nlNmqRi-"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "RdhcKVTnU"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "Kdd3QFJEw"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/17269b5bd18b7640c1a6172b0263c184/master.m3u8?md5=epQVifbw46DBlQsaUW3NRA&expires=1792167501",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/17269b5bd18b7640c1a6172b0263c184/master.m3u8?md5=epQVifbw46DBlQsaUW3NRA&expires=1792167501",
+            "videoSource": "https://ravok.buzz/cdn/hls/17269b5bd18b7640c1a6172b0263c184/master.m3u8?md5=epQVifbw46DBlQsaUW3NRA&expires=1792167501",
+            "videoImage": "https://as-cdn30.top/p/u61uBEFPjI4STuR27p9X3cu3dyoalqwQ1ETKOkJTIRd8p-M1pWuItSWtlRntp7mq3Baqg5ug2xpDwvey4bXOnQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "ec8956637a99787bd197eacd77acce5e",
+                "streamUrl": "https://ravok.buzz/cdn/hls/17269b5bd18b7640c1a6172b0263c184/master.m3u8?md5=epQVifbw46DBlQsaUW3NRA&expires=1792167501",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/17269b5bd18b7640c1a6172b0263c184/master.m3u8?md5=epQVifbw46DBlQsaUW3NRA&expires=1792167501",
+                "videoSource": "https://ravok.buzz/cdn/hls/17269b5bd18b7640c1a6172b0263c184/master.m3u8?md5=epQVifbw46DBlQsaUW3NRA&expires=1792167501",
+                "link": "https://ravok.buzz/cdn/hls/17269b5bd18b7640c1a6172b0263c184/master.m3u8?md5=epQVifbw46DBlQsaUW3NRA&expires=1792167501",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/u61uBEFPjI4STuR27p9X3cu3dyoalqwQ1ETKOkJTIRd8p-M1pWuItSWtlRntp7mq3Baqg5ug2xpDwvey4bXOnQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "HtoL7DypM"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:32Z"
+    },
+    {
+      "id": "episode/blue-lock-1x13",
+      "episode_id": "episode/blue-lock-1x13",
+      "title": "Dream",
+      "episode_name": "Dream",
+      "episode_number": 13,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/13554/13.webp",
+      "abyssid": "7774",
+      "abyssId": "7774",
+      "playxid": "f899139df5e1059396431415e770c6dd",
+      "playXID": "f899139df5e1059396431415e770c6dd",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "7774",
+        "playXID": "f899139df5e1059396431415e770c6dd",
+        "streamId": "7774",
+        "dubPlayerSrc": "/dub-player/t/7774/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f899139df5e1059396431415e770c6dd&abyssId=7774"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "7774",
+        "playXID": "f899139df5e1059396431415e770c6dd",
+        "streamId": "7774",
+        "dubPlayerSrc": "/dub-player/t/7774/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f899139df5e1059396431415e770c6dd&abyssId=7774"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/f899139df5e1059396431415e770c6dd",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/f899139df5e1059396431415e770c6dd"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "7774",
+        "abyssId": "7774",
+        "playXID": "f899139df5e1059396431415e770c6dd",
+        "title": "BLUE LOCK",
+        "season": 1,
+        "episode": 13,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "MBEhZERUG"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "5pl4VeXWz"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "objw1pGO2"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "appw2r5z9"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "F1LfuhoCi"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/14250b85a70a573a3dbbd46dd14ddfe6/master.m3u8?md5=OZmI2VBSOMpZn9hS3st7Rw&expires=1792167502",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/14250b85a70a573a3dbbd46dd14ddfe6/master.m3u8?md5=OZmI2VBSOMpZn9hS3st7Rw&expires=1792167502",
+            "videoSource": "https://ravok.buzz/cdn/hls/14250b85a70a573a3dbbd46dd14ddfe6/master.m3u8?md5=OZmI2VBSOMpZn9hS3st7Rw&expires=1792167502",
+            "videoImage": "https://as-cdn27.top/p/YY8p5zJ_QZny1IZxpF6Zki-0ERcSfOOTtab-87FETCE-nG2uNn26aum09fwKL6EqfA3MmACoKhLsY6rTT1wv6Q.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "f899139df5e1059396431415e770c6dd",
+                "streamUrl": "https://ravok.buzz/cdn/hls/14250b85a70a573a3dbbd46dd14ddfe6/master.m3u8?md5=OZmI2VBSOMpZn9hS3st7Rw&expires=1792167502",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/14250b85a70a573a3dbbd46dd14ddfe6/master.m3u8?md5=OZmI2VBSOMpZn9hS3st7Rw&expires=1792167502",
+                "videoSource": "https://ravok.buzz/cdn/hls/14250b85a70a573a3dbbd46dd14ddfe6/master.m3u8?md5=OZmI2VBSOMpZn9hS3st7Rw&expires=1792167502",
+                "link": "https://ravok.buzz/cdn/hls/14250b85a70a573a3dbbd46dd14ddfe6/master.m3u8?md5=OZmI2VBSOMpZn9hS3st7Rw&expires=1792167502",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/YY8p5zJ_QZny1IZxpF6Zki-0ERcSfOOTtab-87FETCE-nG2uNn26aum09fwKL6EqfA3MmACoKhLsY6rTT1wv6Q.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "MBEhZERUG"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:32Z"
+    },
+    {
+      "id": "episode/blue-lock-1x12",
+      "episode_id": "episode/blue-lock-1x12",
+      "title": "Dream",
+      "episode_name": "Dream",
+      "episode_number": 12,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/13554/12.webp",
+      "abyssid": "7773",
+      "abyssId": "7773",
+      "playxid": "38b3eff8baf56627478ec76a704e9b52",
+      "playXID": "38b3eff8baf56627478ec76a704e9b52",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "7773",
+        "playXID": "38b3eff8baf56627478ec76a704e9b52",
+        "streamId": "7773",
+        "dubPlayerSrc": "/dub-player/t/7773/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=38b3eff8baf56627478ec76a704e9b52&abyssId=7773"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "7773",
+        "playXID": "38b3eff8baf56627478ec76a704e9b52",
+        "streamId": "7773",
+        "dubPlayerSrc": "/dub-player/t/7773/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=38b3eff8baf56627478ec76a704e9b52&abyssId=7773"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/38b3eff8baf56627478ec76a704e9b52",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/38b3eff8baf56627478ec76a704e9b52"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "7773",
+        "abyssId": "7773",
+        "playXID": "38b3eff8baf56627478ec76a704e9b52",
+        "title": "BLUE LOCK",
+        "season": 1,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "R4dZZ1vAu"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "l3Hi5quTF"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "u7fp6KP8U"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "Djc-esUMhi"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "RbNlVeu4H"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/e145a70a312121f805459716bcdba212/master.m3u8?md5=mpd0qXWu6iJKs8bI6tvaBw&expires=1792167502",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/e145a70a312121f805459716bcdba212/master.m3u8?md5=mpd0qXWu6iJKs8bI6tvaBw&expires=1792167502",
+            "videoSource": "https://ravok.buzz/cdn/hls/e145a70a312121f805459716bcdba212/master.m3u8?md5=mpd0qXWu6iJKs8bI6tvaBw&expires=1792167502",
+            "videoImage": "https://as-cdn27.top/p/SywL_EXxMB7gcek9Rx2YbflCfMb289lNBI1FLF34TwySB0-Re8-T0PCjCrp40fVun-3rIouKrrDmcyej-wgDQA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "38b3eff8baf56627478ec76a704e9b52",
+                "streamUrl": "https://ravok.buzz/cdn/hls/e145a70a312121f805459716bcdba212/master.m3u8?md5=mpd0qXWu6iJKs8bI6tvaBw&expires=1792167502",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/e145a70a312121f805459716bcdba212/master.m3u8?md5=mpd0qXWu6iJKs8bI6tvaBw&expires=1792167502",
+                "videoSource": "https://ravok.buzz/cdn/hls/e145a70a312121f805459716bcdba212/master.m3u8?md5=mpd0qXWu6iJKs8bI6tvaBw&expires=1792167502",
+                "link": "https://ravok.buzz/cdn/hls/e145a70a312121f805459716bcdba212/master.m3u8?md5=mpd0qXWu6iJKs8bI6tvaBw&expires=1792167502",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/SywL_EXxMB7gcek9Rx2YbflCfMb289lNBI1FLF34TwySB0-Re8-T0PCjCrp40fVun-3rIouKrrDmcyej-wgDQA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "R4dZZ1vAu"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:32Z"
+    },
+    {
+      "id": "episode/blue-lock-1x15",
+      "episode_id": "episode/blue-lock-1x15",
+      "title": "Dream",
+      "episode_name": "Dream",
+      "episode_number": 15,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/13554/15.webp",
+      "abyssid": "7776",
+      "abyssId": "7776",
+      "playxid": "ed3d2c21991e3bef5e069713af9fa6ca",
+      "playXID": "ed3d2c21991e3bef5e069713af9fa6ca",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "7776",
+        "playXID": "ed3d2c21991e3bef5e069713af9fa6ca",
+        "streamId": "7776",
+        "dubPlayerSrc": "/dub-player/t/7776/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ed3d2c21991e3bef5e069713af9fa6ca&abyssId=7776"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "7776",
+        "playXID": "ed3d2c21991e3bef5e069713af9fa6ca",
+        "streamId": "7776",
+        "dubPlayerSrc": "/dub-player/t/7776/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ed3d2c21991e3bef5e069713af9fa6ca&abyssId=7776"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/ed3d2c21991e3bef5e069713af9fa6ca",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/ed3d2c21991e3bef5e069713af9fa6ca"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "7776",
+        "abyssId": "7776",
+        "playXID": "ed3d2c21991e3bef5e069713af9fa6ca",
+        "title": "BLUE LOCK",
+        "season": 1,
+        "episode": 15,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "1TqXFUmWB"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "KzUVNA7fL"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "_FnGkT8eE"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "fVtXNn8eF"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "MXtdvuyXG"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/6a8ed77c2b5aeda11f2d0ff030a9e2a5/master.m3u8?md5=cnPzXz-bZe2w1yQ4TX6ORw&expires=1792167502",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/6a8ed77c2b5aeda11f2d0ff030a9e2a5/master.m3u8?md5=cnPzXz-bZe2w1yQ4TX6ORw&expires=1792167502",
+            "videoSource": "https://ravok.buzz/cdn/hls/6a8ed77c2b5aeda11f2d0ff030a9e2a5/master.m3u8?md5=cnPzXz-bZe2w1yQ4TX6ORw&expires=1792167502",
+            "videoImage": "https://as-cdn27.top/p/HkrNLcEcx0SpeoyLdzj_ur3ls8QUBDYifHnuQUnrYW_oRIx0k8Hfqpw3eT_K5jbfWWILcMyK-FN542c5o6a6BA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "ed3d2c21991e3bef5e069713af9fa6ca",
+                "streamUrl": "https://ravok.buzz/cdn/hls/6a8ed77c2b5aeda11f2d0ff030a9e2a5/master.m3u8?md5=cnPzXz-bZe2w1yQ4TX6ORw&expires=1792167502",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/6a8ed77c2b5aeda11f2d0ff030a9e2a5/master.m3u8?md5=cnPzXz-bZe2w1yQ4TX6ORw&expires=1792167502",
+                "videoSource": "https://ravok.buzz/cdn/hls/6a8ed77c2b5aeda11f2d0ff030a9e2a5/master.m3u8?md5=cnPzXz-bZe2w1yQ4TX6ORw&expires=1792167502",
+                "link": "https://ravok.buzz/cdn/hls/6a8ed77c2b5aeda11f2d0ff030a9e2a5/master.m3u8?md5=cnPzXz-bZe2w1yQ4TX6ORw&expires=1792167502",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/HkrNLcEcx0SpeoyLdzj_ur3ls8QUBDYifHnuQUnrYW_oRIx0k8Hfqpw3eT_K5jbfWWILcMyK-FN542c5o6a6BA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "1TqXFUmWB"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:32Z"
+    },
+    {
+      "id": "episode/blue-lock-1x14",
+      "episode_id": "episode/blue-lock-1x14",
+      "title": "Dream",
+      "episode_name": "Dream",
+      "episode_number": 14,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/13554/14.webp",
+      "abyssid": "7775",
+      "abyssId": "7775",
+      "playxid": "ac627ab1ccbdb62ec96e702f07f6425b",
+      "playXID": "ac627ab1ccbdb62ec96e702f07f6425b",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "7775",
+        "playXID": "ac627ab1ccbdb62ec96e702f07f6425b",
+        "streamId": "7775",
+        "dubPlayerSrc": "/dub-player/t/7775/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ac627ab1ccbdb62ec96e702f07f6425b&abyssId=7775"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "7775",
+        "playXID": "ac627ab1ccbdb62ec96e702f07f6425b",
+        "streamId": "7775",
+        "dubPlayerSrc": "/dub-player/t/7775/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ac627ab1ccbdb62ec96e702f07f6425b&abyssId=7775"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/ac627ab1ccbdb62ec96e702f07f6425b",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/ac627ab1ccbdb62ec96e702f07f6425b"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "7775",
+        "abyssId": "7775",
+        "playXID": "ac627ab1ccbdb62ec96e702f07f6425b",
+        "title": "BLUE LOCK",
+        "season": 1,
+        "episode": 14,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "y5AZxzaOr1"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "BX4Xp0NR2"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "JHjpwSUcW"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "69v3fLgYr"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "S4vDK9_rS"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/cdb013aed712e518bc23bc431954395d/master.m3u8?md5=b0dFZkpOiSBc_vk_GrER1g&expires=1792167502",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/cdb013aed712e518bc23bc431954395d/master.m3u8?md5=b0dFZkpOiSBc_vk_GrER1g&expires=1792167502",
+            "videoSource": "https://ravok.buzz/cdn/hls/cdb013aed712e518bc23bc431954395d/master.m3u8?md5=b0dFZkpOiSBc_vk_GrER1g&expires=1792167502",
+            "videoImage": "https://as-cdn30.top/p/Qx8aY0uRIpyfsU3aHtXArYbOApDay_dT_CgkvGgXPFVFheFGWO28mOumt6JZuw0gcDse1e7O-BASQBSUFmT8gw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "ac627ab1ccbdb62ec96e702f07f6425b",
+                "streamUrl": "https://ravok.buzz/cdn/hls/cdb013aed712e518bc23bc431954395d/master.m3u8?md5=b0dFZkpOiSBc_vk_GrER1g&expires=1792167502",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/cdb013aed712e518bc23bc431954395d/master.m3u8?md5=b0dFZkpOiSBc_vk_GrER1g&expires=1792167502",
+                "videoSource": "https://ravok.buzz/cdn/hls/cdb013aed712e518bc23bc431954395d/master.m3u8?md5=b0dFZkpOiSBc_vk_GrER1g&expires=1792167502",
+                "link": "https://ravok.buzz/cdn/hls/cdb013aed712e518bc23bc431954395d/master.m3u8?md5=b0dFZkpOiSBc_vk_GrER1g&expires=1792167502",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/Qx8aY0uRIpyfsU3aHtXArYbOApDay_dT_CgkvGgXPFVFheFGWO28mOumt6JZuw0gcDse1e7O-BASQBSUFmT8gw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "y5AZxzaOr1"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:32Z"
+    },
+    {
+      "id": "episode/blue-lock-1x18",
+      "episode_id": "episode/blue-lock-1x18",
+      "title": "Dream",
+      "episode_name": "Dream",
+      "episode_number": 18,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/13554/18.webp",
+      "abyssid": "7779",
+      "abyssId": "7779",
+      "playxid": "812b4ba287f5ee0bc9d43bbf5bbe87fb",
+      "playXID": "812b4ba287f5ee0bc9d43bbf5bbe87fb",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "7779",
+        "playXID": "812b4ba287f5ee0bc9d43bbf5bbe87fb",
+        "streamId": "7779",
+        "dubPlayerSrc": "/dub-player/t/7779/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=812b4ba287f5ee0bc9d43bbf5bbe87fb&abyssId=7779"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "7779",
+        "playXID": "812b4ba287f5ee0bc9d43bbf5bbe87fb",
+        "streamId": "7779",
+        "dubPlayerSrc": "/dub-player/t/7779/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=812b4ba287f5ee0bc9d43bbf5bbe87fb&abyssId=7779"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/812b4ba287f5ee0bc9d43bbf5bbe87fb",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/812b4ba287f5ee0bc9d43bbf5bbe87fb"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "7779",
+        "abyssId": "7779",
+        "playXID": "812b4ba287f5ee0bc9d43bbf5bbe87fb",
+        "title": "BLUE LOCK",
+        "season": 1,
+        "episode": 18,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "jYknVgzw4"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "1kSql2qDq"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "9dP8Btc8C"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "ebb5UhB3Dr"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "HFzrC9md_"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/9ac06019911deee31a7f179cf5bbaceb/master.m3u8?md5=rHJs-QrWfYC0fsvU3DaKbw&expires=1792167504",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/9ac06019911deee31a7f179cf5bbaceb/master.m3u8?md5=rHJs-QrWfYC0fsvU3DaKbw&expires=1792167504",
+            "videoSource": "https://ravok.buzz/cdn/hls/9ac06019911deee31a7f179cf5bbaceb/master.m3u8?md5=rHJs-QrWfYC0fsvU3DaKbw&expires=1792167504",
+            "videoImage": "https://as-cdn29.top/p/W0C1nA107wXjUWnMvXxdOUVMebMp1cHguSENAt8EPnzDzLOLU5wh7hCPIiFgEwn-e1ecMYAXs_vVBMGrqotKPA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "812b4ba287f5ee0bc9d43bbf5bbe87fb",
+                "streamUrl": "https://ravok.buzz/cdn/hls/9ac06019911deee31a7f179cf5bbaceb/master.m3u8?md5=rHJs-QrWfYC0fsvU3DaKbw&expires=1792167504",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/9ac06019911deee31a7f179cf5bbaceb/master.m3u8?md5=rHJs-QrWfYC0fsvU3DaKbw&expires=1792167504",
+                "videoSource": "https://ravok.buzz/cdn/hls/9ac06019911deee31a7f179cf5bbaceb/master.m3u8?md5=rHJs-QrWfYC0fsvU3DaKbw&expires=1792167504",
+                "link": "https://ravok.buzz/cdn/hls/9ac06019911deee31a7f179cf5bbaceb/master.m3u8?md5=rHJs-QrWfYC0fsvU3DaKbw&expires=1792167504",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/W0C1nA107wXjUWnMvXxdOUVMebMp1cHguSENAt8EPnzDzLOLU5wh7hCPIiFgEwn-e1ecMYAXs_vVBMGrqotKPA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "jYknVgzw4"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:34Z"
+    },
+    {
+      "id": "episode/blue-lock-1x16",
+      "episode_id": "episode/blue-lock-1x16",
+      "title": "Dream",
+      "episode_name": "Dream",
+      "episode_number": 16,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/13554/16.webp",
+      "abyssid": "7777",
+      "abyssId": "7777",
+      "playxid": "e2ef524fbf3d9fe611d5a8e90fefdc9c",
+      "playXID": "e2ef524fbf3d9fe611d5a8e90fefdc9c",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "7777",
+        "playXID": "e2ef524fbf3d9fe611d5a8e90fefdc9c",
+        "streamId": "7777",
+        "dubPlayerSrc": "/dub-player/t/7777/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e2ef524fbf3d9fe611d5a8e90fefdc9c&abyssId=7777"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "7777",
+        "playXID": "e2ef524fbf3d9fe611d5a8e90fefdc9c",
+        "streamId": "7777",
+        "dubPlayerSrc": "/dub-player/t/7777/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e2ef524fbf3d9fe611d5a8e90fefdc9c&abyssId=7777"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/e2ef524fbf3d9fe611d5a8e90fefdc9c",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/e2ef524fbf3d9fe611d5a8e90fefdc9c"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "7777",
+        "abyssId": "7777",
+        "playXID": "e2ef524fbf3d9fe611d5a8e90fefdc9c",
+        "title": "BLUE LOCK",
+        "season": 1,
+        "episode": 16,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "O6JCbQp-I"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "N7YAC1wNL"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "8K8H6-IEG"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "yEAIXAGy3y"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "kFXkqnk5Z"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/f7ac47a645a1ca49f31babd72fbc6c07/master.m3u8?md5=euFr6DNzE-F0l2LtiLmu0w&expires=1792167505",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/f7ac47a645a1ca49f31babd72fbc6c07/master.m3u8?md5=euFr6DNzE-F0l2LtiLmu0w&expires=1792167505",
+            "videoSource": "https://ravok.buzz/cdn/hls/f7ac47a645a1ca49f31babd72fbc6c07/master.m3u8?md5=euFr6DNzE-F0l2LtiLmu0w&expires=1792167505",
+            "videoImage": "https://as-cdn27.top/p/sLxjeEQ8_w5iDCdTZJbOBvsFpEDMADhmXGzi0Ol7DNIH97Kq0tl5oGWPZqVwZd0YDL-G0JU2XjJsYjqt3g5SUg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "e2ef524fbf3d9fe611d5a8e90fefdc9c",
+                "streamUrl": "https://ravok.buzz/cdn/hls/f7ac47a645a1ca49f31babd72fbc6c07/master.m3u8?md5=euFr6DNzE-F0l2LtiLmu0w&expires=1792167505",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/f7ac47a645a1ca49f31babd72fbc6c07/master.m3u8?md5=euFr6DNzE-F0l2LtiLmu0w&expires=1792167505",
+                "videoSource": "https://ravok.buzz/cdn/hls/f7ac47a645a1ca49f31babd72fbc6c07/master.m3u8?md5=euFr6DNzE-F0l2LtiLmu0w&expires=1792167505",
+                "link": "https://ravok.buzz/cdn/hls/f7ac47a645a1ca49f31babd72fbc6c07/master.m3u8?md5=euFr6DNzE-F0l2LtiLmu0w&expires=1792167505",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/sLxjeEQ8_w5iDCdTZJbOBvsFpEDMADhmXGzi0Ol7DNIH97Kq0tl5oGWPZqVwZd0YDL-G0JU2XjJsYjqt3g5SUg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "O6JCbQp-I"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:35Z"
+    },
+    {
+      "id": "episode/blue-lock-1x17",
+      "episode_id": "episode/blue-lock-1x17",
+      "title": "Dream",
+      "episode_name": "Dream",
+      "episode_number": 17,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/13554/17.webp",
+      "abyssid": "7778",
+      "abyssId": "7778",
+      "playxid": "26657d5ff9020d2abefe558796b99584",
+      "playXID": "26657d5ff9020d2abefe558796b99584",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "7778",
+        "playXID": "26657d5ff9020d2abefe558796b99584",
+        "streamId": "7778",
+        "dubPlayerSrc": "/dub-player/t/7778/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=26657d5ff9020d2abefe558796b99584&abyssId=7778"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "7778",
+        "playXID": "26657d5ff9020d2abefe558796b99584",
+        "streamId": "7778",
+        "dubPlayerSrc": "/dub-player/t/7778/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=26657d5ff9020d2abefe558796b99584&abyssId=7778"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/26657d5ff9020d2abefe558796b99584",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/26657d5ff9020d2abefe558796b99584"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "7778",
+        "abyssId": "7778",
+        "playXID": "26657d5ff9020d2abefe558796b99584",
+        "title": "BLUE LOCK",
+        "season": 1,
+        "episode": 17,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "mnQP7GcCd"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "Oj4_vbcMq"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "lpleoMgvc"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "zQ3XxxGLx"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "VIo9oYbiUe"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/826739c4853625382884425a5c72f3ea/master.m3u8?md5=HTYBbvudlRDTpaDGy-wRLA&expires=1792167505",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/826739c4853625382884425a5c72f3ea/master.m3u8?md5=HTYBbvudlRDTpaDGy-wRLA&expires=1792167505",
+            "videoSource": "https://ravok.buzz/cdn/hls/826739c4853625382884425a5c72f3ea/master.m3u8?md5=HTYBbvudlRDTpaDGy-wRLA&expires=1792167505",
+            "videoImage": "https://as-cdn28.top/p/RybvNu28c9MgcAFS1KvNWkV540Afv-lCQr9qfxM_YxpbyJkbqxmh0RrLVj40UIo-VdFLwFue2xzXSlKSXAuG4w.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "26657d5ff9020d2abefe558796b99584",
+                "streamUrl": "https://ravok.buzz/cdn/hls/826739c4853625382884425a5c72f3ea/master.m3u8?md5=HTYBbvudlRDTpaDGy-wRLA&expires=1792167505",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/826739c4853625382884425a5c72f3ea/master.m3u8?md5=HTYBbvudlRDTpaDGy-wRLA&expires=1792167505",
+                "videoSource": "https://ravok.buzz/cdn/hls/826739c4853625382884425a5c72f3ea/master.m3u8?md5=HTYBbvudlRDTpaDGy-wRLA&expires=1792167505",
+                "link": "https://ravok.buzz/cdn/hls/826739c4853625382884425a5c72f3ea/master.m3u8?md5=HTYBbvudlRDTpaDGy-wRLA&expires=1792167505",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/RybvNu28c9MgcAFS1KvNWkV540Afv-lCQr9qfxM_YxpbyJkbqxmh0RrLVj40UIo-VdFLwFue2xzXSlKSXAuG4w.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "mnQP7GcCd"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:35Z"
+    },
+    {
+      "id": "episode/blue-lock-1x20",
+      "episode_id": "episode/blue-lock-1x20",
+      "title": "Dream",
+      "episode_name": "Dream",
+      "episode_number": 20,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/13554/20.webp",
+      "abyssid": "7781",
+      "abyssId": "7781",
+      "playxid": "98dce83da57b0395e163467c9dae521b",
+      "playXID": "98dce83da57b0395e163467c9dae521b",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "7781",
+        "playXID": "98dce83da57b0395e163467c9dae521b",
+        "streamId": "7781",
+        "dubPlayerSrc": "/dub-player/t/7781/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=98dce83da57b0395e163467c9dae521b&abyssId=7781"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "7781",
+        "playXID": "98dce83da57b0395e163467c9dae521b",
+        "streamId": "7781",
+        "dubPlayerSrc": "/dub-player/t/7781/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=98dce83da57b0395e163467c9dae521b&abyssId=7781"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/98dce83da57b0395e163467c9dae521b",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/98dce83da57b0395e163467c9dae521b"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "7781",
+        "abyssId": "7781",
+        "playXID": "98dce83da57b0395e163467c9dae521b",
+        "title": "BLUE LOCK",
+        "season": 1,
+        "episode": 20,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "CyOZs0gpx"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "i1_jkOuvQ"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "dUU7vW_tP"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "oFtDX0Hr8"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "WW8rcEY2U"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/6c75cd4a2169e1e559954dc621378b1b/master.m3u8?md5=B81QwQ6hdJzzyhinRWqA-g&expires=1792167506",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/6c75cd4a2169e1e559954dc621378b1b/master.m3u8?md5=B81QwQ6hdJzzyhinRWqA-g&expires=1792167506",
+            "videoSource": "https://ravok.buzz/cdn/hls/6c75cd4a2169e1e559954dc621378b1b/master.m3u8?md5=B81QwQ6hdJzzyhinRWqA-g&expires=1792167506",
+            "videoImage": "https://as-cdn30.top/p/hFYFUb4whm67XgYKeHbW_9Wybbc4DmXFt65K0PAqdTgMU_AIDqMpR8i-JDKnfS1vKi3MIcjGDY6mpEb8-z6V2g.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "98dce83da57b0395e163467c9dae521b",
+                "streamUrl": "https://ravok.buzz/cdn/hls/6c75cd4a2169e1e559954dc621378b1b/master.m3u8?md5=B81QwQ6hdJzzyhinRWqA-g&expires=1792167506",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/6c75cd4a2169e1e559954dc621378b1b/master.m3u8?md5=B81QwQ6hdJzzyhinRWqA-g&expires=1792167506",
+                "videoSource": "https://ravok.buzz/cdn/hls/6c75cd4a2169e1e559954dc621378b1b/master.m3u8?md5=B81QwQ6hdJzzyhinRWqA-g&expires=1792167506",
+                "link": "https://ravok.buzz/cdn/hls/6c75cd4a2169e1e559954dc621378b1b/master.m3u8?md5=B81QwQ6hdJzzyhinRWqA-g&expires=1792167506",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/hFYFUb4whm67XgYKeHbW_9Wybbc4DmXFt65K0PAqdTgMU_AIDqMpR8i-JDKnfS1vKi3MIcjGDY6mpEb8-z6V2g.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "CyOZs0gpx"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:36Z"
+    },
+    {
+      "id": "episode/blue-lock-1x19",
+      "episode_id": "episode/blue-lock-1x19",
+      "title": "Dream",
+      "episode_name": "Dream",
+      "episode_number": 19,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/13554/19.webp",
+      "abyssid": "7780",
+      "abyssId": "7780",
+      "playxid": "f4b9ec30ad9f68f89b29639786cb62ef",
+      "playXID": "f4b9ec30ad9f68f89b29639786cb62ef",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "7780",
+        "playXID": "f4b9ec30ad9f68f89b29639786cb62ef",
+        "streamId": "7780",
+        "dubPlayerSrc": "/dub-player/t/7780/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f4b9ec30ad9f68f89b29639786cb62ef&abyssId=7780"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "7780",
+        "playXID": "f4b9ec30ad9f68f89b29639786cb62ef",
+        "streamId": "7780",
+        "dubPlayerSrc": "/dub-player/t/7780/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f4b9ec30ad9f68f89b29639786cb62ef&abyssId=7780"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/f4b9ec30ad9f68f89b29639786cb62ef",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/f4b9ec30ad9f68f89b29639786cb62ef"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "7780",
+        "abyssId": "7780",
+        "playXID": "f4b9ec30ad9f68f89b29639786cb62ef",
+        "title": "BLUE LOCK",
+        "season": 1,
+        "episode": 19,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "SW135sdo7T"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "573QJz8uG"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "IfsXZlORw"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "PYhMWuewX"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "yGHy9W9Vd"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/fd14a625ae8f7dd8aaf0105ff3b6d47f/master.m3u8?md5=7VlKguKqGkUopzqofZQTeQ&expires=1792167506",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/fd14a625ae8f7dd8aaf0105ff3b6d47f/master.m3u8?md5=7VlKguKqGkUopzqofZQTeQ&expires=1792167506",
+            "videoSource": "https://ravok.buzz/cdn/hls/fd14a625ae8f7dd8aaf0105ff3b6d47f/master.m3u8?md5=7VlKguKqGkUopzqofZQTeQ&expires=1792167506",
+            "videoImage": "https://as-cdn31.top/p/YbxxV_14IYxHfUJXVsrOEh23DpVJRH6Ff_F7Ow5owzRiWIjCQ9THJSMIMo4vTk8MgQvNL0awglEHEEPtY76h4A.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "f4b9ec30ad9f68f89b29639786cb62ef",
+                "streamUrl": "https://ravok.buzz/cdn/hls/fd14a625ae8f7dd8aaf0105ff3b6d47f/master.m3u8?md5=7VlKguKqGkUopzqofZQTeQ&expires=1792167506",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/fd14a625ae8f7dd8aaf0105ff3b6d47f/master.m3u8?md5=7VlKguKqGkUopzqofZQTeQ&expires=1792167506",
+                "videoSource": "https://ravok.buzz/cdn/hls/fd14a625ae8f7dd8aaf0105ff3b6d47f/master.m3u8?md5=7VlKguKqGkUopzqofZQTeQ&expires=1792167506",
+                "link": "https://ravok.buzz/cdn/hls/fd14a625ae8f7dd8aaf0105ff3b6d47f/master.m3u8?md5=7VlKguKqGkUopzqofZQTeQ&expires=1792167506",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/YbxxV_14IYxHfUJXVsrOEh23DpVJRH6Ff_F7Ow5owzRiWIjCQ9THJSMIMo4vTk8MgQvNL0awglEHEEPtY76h4A.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "SW135sdo7T"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:36Z"
+    },
+    {
+      "id": "episode/blue-lock-1x21",
+      "episode_id": "episode/blue-lock-1x21",
+      "title": "Dream",
+      "episode_name": "Dream",
+      "episode_number": 21,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/13554/21.webp",
+      "abyssid": "7782",
+      "abyssId": "7782",
+      "playxid": "92cc227532d17e56e07902b254dfad10",
+      "playXID": "92cc227532d17e56e07902b254dfad10",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "7782",
+        "playXID": "92cc227532d17e56e07902b254dfad10",
+        "streamId": "7782",
+        "dubPlayerSrc": "/dub-player/t/7782/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=92cc227532d17e56e07902b254dfad10&abyssId=7782"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "7782",
+        "playXID": "92cc227532d17e56e07902b254dfad10",
+        "streamId": "7782",
+        "dubPlayerSrc": "/dub-player/t/7782/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=92cc227532d17e56e07902b254dfad10&abyssId=7782"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/92cc227532d17e56e07902b254dfad10",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/92cc227532d17e56e07902b254dfad10"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "7782",
+        "abyssId": "7782",
+        "playXID": "92cc227532d17e56e07902b254dfad10",
+        "title": "BLUE LOCK",
+        "season": 1,
+        "episode": 21,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "4nkSo4DSh"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "v1jQnlCoy"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "5Wei3vYBJ"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "LgnG0bh0R"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "cSL_QfImU"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/6f7fb7449c5215902782594f53c57798/master.m3u8?md5=sKEis2Sluzex3XnWZm_wJw&expires=1792167507",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/6f7fb7449c5215902782594f53c57798/master.m3u8?md5=sKEis2Sluzex3XnWZm_wJw&expires=1792167507",
+            "videoSource": "https://ravok.buzz/cdn/hls/6f7fb7449c5215902782594f53c57798/master.m3u8?md5=sKEis2Sluzex3XnWZm_wJw&expires=1792167507",
+            "videoImage": "https://as-cdn30.top/p/Ko9ANi3JMf9ujIiZrF3O1o5cPA8-NFF9LXLOJnY8MNmhlupC-ZJ3QumR68ldBTqKeZUQXY33HvTJZCzfKIFfeA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "92cc227532d17e56e07902b254dfad10",
+                "streamUrl": "https://ravok.buzz/cdn/hls/6f7fb7449c5215902782594f53c57798/master.m3u8?md5=sKEis2Sluzex3XnWZm_wJw&expires=1792167507",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/6f7fb7449c5215902782594f53c57798/master.m3u8?md5=sKEis2Sluzex3XnWZm_wJw&expires=1792167507",
+                "videoSource": "https://ravok.buzz/cdn/hls/6f7fb7449c5215902782594f53c57798/master.m3u8?md5=sKEis2Sluzex3XnWZm_wJw&expires=1792167507",
+                "link": "https://ravok.buzz/cdn/hls/6f7fb7449c5215902782594f53c57798/master.m3u8?md5=sKEis2Sluzex3XnWZm_wJw&expires=1792167507",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/Ko9ANi3JMf9ujIiZrF3O1o5cPA8-NFF9LXLOJnY8MNmhlupC-ZJ3QumR68ldBTqKeZUQXY33HvTJZCzfKIFfeA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "4nkSo4DSh"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:37Z"
+    },
+    {
+      "id": "episode/blue-lock-1x22",
+      "episode_id": "episode/blue-lock-1x22",
+      "title": "Dream",
+      "episode_name": "Dream",
+      "episode_number": 22,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/13554/22.webp",
+      "abyssid": "7783",
+      "abyssId": "7783",
+      "playxid": "54229abfcfa5649e7003b83dd4755294",
+      "playXID": "54229abfcfa5649e7003b83dd4755294",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "7783",
+        "playXID": "54229abfcfa5649e7003b83dd4755294",
+        "streamId": "7783",
+        "dubPlayerSrc": "/dub-player/t/7783/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=54229abfcfa5649e7003b83dd4755294&abyssId=7783"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "7783",
+        "playXID": "54229abfcfa5649e7003b83dd4755294",
+        "streamId": "7783",
+        "dubPlayerSrc": "/dub-player/t/7783/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=54229abfcfa5649e7003b83dd4755294&abyssId=7783"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/54229abfcfa5649e7003b83dd4755294",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/54229abfcfa5649e7003b83dd4755294"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "7783",
+        "abyssId": "7783",
+        "playXID": "54229abfcfa5649e7003b83dd4755294",
+        "title": "BLUE LOCK",
+        "season": 1,
+        "episode": 22,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "J_l_5zs98T"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "2lqDXo4uZ"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "Tf6LPWUAO"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "poRNkqxQj"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "lldDLWI9f"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/5795b8265101201b2353ad23a8b03fe4/master.m3u8?md5=c6ge7U327wzcXM5M2UGk2Q&expires=1792167508",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/5795b8265101201b2353ad23a8b03fe4/master.m3u8?md5=c6ge7U327wzcXM5M2UGk2Q&expires=1792167508",
+            "videoSource": "https://ravok.buzz/cdn/hls/5795b8265101201b2353ad23a8b03fe4/master.m3u8?md5=c6ge7U327wzcXM5M2UGk2Q&expires=1792167508",
+            "videoImage": "https://as-cdn29.top/p/2MgPkX6y1jo7S-0S9fH3lOcds45V93_Y6dOGlgNYAYouEA7supp_L4_aitwdF4F0SOnQB0CZcqzK5vcm1H1vJA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "54229abfcfa5649e7003b83dd4755294",
+                "streamUrl": "https://ravok.buzz/cdn/hls/5795b8265101201b2353ad23a8b03fe4/master.m3u8?md5=c6ge7U327wzcXM5M2UGk2Q&expires=1792167508",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/5795b8265101201b2353ad23a8b03fe4/master.m3u8?md5=c6ge7U327wzcXM5M2UGk2Q&expires=1792167508",
+                "videoSource": "https://ravok.buzz/cdn/hls/5795b8265101201b2353ad23a8b03fe4/master.m3u8?md5=c6ge7U327wzcXM5M2UGk2Q&expires=1792167508",
+                "link": "https://ravok.buzz/cdn/hls/5795b8265101201b2353ad23a8b03fe4/master.m3u8?md5=c6ge7U327wzcXM5M2UGk2Q&expires=1792167508",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/2MgPkX6y1jo7S-0S9fH3lOcds45V93_Y6dOGlgNYAYouEA7supp_L4_aitwdF4F0SOnQB0CZcqzK5vcm1H1vJA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "J_l_5zs98T"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:38Z"
+    },
+    {
+      "id": "episode/blue-lock-1x23",
+      "episode_id": "episode/blue-lock-1x23",
+      "title": "Dream",
+      "episode_name": "Dream",
+      "episode_number": 23,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/13554/23.webp",
+      "abyssid": "7784",
+      "abyssId": "7784",
+      "playxid": "8613985ec49eb8f757ae6439e879bb2a",
+      "playXID": "8613985ec49eb8f757ae6439e879bb2a",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "7784",
+        "playXID": "8613985ec49eb8f757ae6439e879bb2a",
+        "streamId": "7784",
+        "dubPlayerSrc": "/dub-player/t/7784/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8613985ec49eb8f757ae6439e879bb2a&abyssId=7784"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "7784",
+        "playXID": "8613985ec49eb8f757ae6439e879bb2a",
+        "streamId": "7784",
+        "dubPlayerSrc": "/dub-player/t/7784/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8613985ec49eb8f757ae6439e879bb2a&abyssId=7784"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/8613985ec49eb8f757ae6439e879bb2a",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/8613985ec49eb8f757ae6439e879bb2a"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "7784",
+        "abyssId": "7784",
+        "playXID": "8613985ec49eb8f757ae6439e879bb2a",
+        "title": "BLUE LOCK",
+        "season": 1,
+        "episode": 23,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "mg1tydajw"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "ROOV1gol3"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "5oL_WlspZ"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "39lj3wnC0"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "rXZAZw22G"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/313ef10749e3f68a4bb1e2b0b88c4e62/master.m3u8?md5=XmIu8deYBZ19dhh44opWkg&expires=1792167508",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/313ef10749e3f68a4bb1e2b0b88c4e62/master.m3u8?md5=XmIu8deYBZ19dhh44opWkg&expires=1792167508",
+            "videoSource": "https://ravok.buzz/cdn/hls/313ef10749e3f68a4bb1e2b0b88c4e62/master.m3u8?md5=XmIu8deYBZ19dhh44opWkg&expires=1792167508",
+            "videoImage": "https://as-cdn27.top/p/DV57N8MnJhYQlX_stYKm3f8hXa7AIP1nXW40OhsgOFq6YBvWt7THOuBciyLDuUmI1WOa5Bqy5eABma6fypMBfA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "8613985ec49eb8f757ae6439e879bb2a",
+                "streamUrl": "https://ravok.buzz/cdn/hls/313ef10749e3f68a4bb1e2b0b88c4e62/master.m3u8?md5=XmIu8deYBZ19dhh44opWkg&expires=1792167508",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/313ef10749e3f68a4bb1e2b0b88c4e62/master.m3u8?md5=XmIu8deYBZ19dhh44opWkg&expires=1792167508",
+                "videoSource": "https://ravok.buzz/cdn/hls/313ef10749e3f68a4bb1e2b0b88c4e62/master.m3u8?md5=XmIu8deYBZ19dhh44opWkg&expires=1792167508",
+                "link": "https://ravok.buzz/cdn/hls/313ef10749e3f68a4bb1e2b0b88c4e62/master.m3u8?md5=XmIu8deYBZ19dhh44opWkg&expires=1792167508",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/DV57N8MnJhYQlX_stYKm3f8hXa7AIP1nXW40OhsgOFq6YBvWt7THOuBciyLDuUmI1WOa5Bqy5eABma6fypMBfA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "mg1tydajw"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:38Z"
+    },
+    {
+      "id": "episode/blue-lock-1x24",
+      "episode_id": "episode/blue-lock-1x24",
+      "title": "Dream",
+      "episode_name": "Dream",
+      "episode_number": 24,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/13554/24.webp",
+      "abyssid": "7785",
+      "abyssId": "7785",
+      "playxid": "7647966b7343c29048673252e490f736",
+      "playXID": "7647966b7343c29048673252e490f736",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "7785",
+        "playXID": "7647966b7343c29048673252e490f736",
+        "streamId": "7785",
+        "dubPlayerSrc": "/dub-player/t/7785/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=7647966b7343c29048673252e490f736&abyssId=7785"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "7785",
+        "playXID": "7647966b7343c29048673252e490f736",
+        "streamId": "7785",
+        "dubPlayerSrc": "/dub-player/t/7785/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=7647966b7343c29048673252e490f736&abyssId=7785"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/7647966b7343c29048673252e490f736",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/7647966b7343c29048673252e490f736"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "7785",
+        "abyssId": "7785",
+        "playXID": "7647966b7343c29048673252e490f736",
+        "title": "BLUE LOCK",
+        "season": 1,
+        "episode": 24,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "uRuQw7Z3A"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "0ywfdZF0S"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "ZPA8TuIS9K"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "sS02yr5lQ"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "Wu26kypBM"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/841bbacc1d2201b59284603cded51624/master.m3u8?md5=CfFgJawMoJ8wjlfM_XB9oA&expires=1792167508",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/841bbacc1d2201b59284603cded51624/master.m3u8?md5=CfFgJawMoJ8wjlfM_XB9oA&expires=1792167508",
+            "videoSource": "https://ravok.buzz/cdn/hls/841bbacc1d2201b59284603cded51624/master.m3u8?md5=CfFgJawMoJ8wjlfM_XB9oA&expires=1792167508",
+            "videoImage": "https://as-cdn28.top/p/dWcGEnqEF-Kn496auvwcz5o8nz8ZUH8xI65hEZjZ20EQLy7Yo2wWGIj8JpfgYlUulAGwl6OVwVLRBePAxHYhbw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "7647966b7343c29048673252e490f736",
+                "streamUrl": "https://ravok.buzz/cdn/hls/841bbacc1d2201b59284603cded51624/master.m3u8?md5=CfFgJawMoJ8wjlfM_XB9oA&expires=1792167508",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/841bbacc1d2201b59284603cded51624/master.m3u8?md5=CfFgJawMoJ8wjlfM_XB9oA&expires=1792167508",
+                "videoSource": "https://ravok.buzz/cdn/hls/841bbacc1d2201b59284603cded51624/master.m3u8?md5=CfFgJawMoJ8wjlfM_XB9oA&expires=1792167508",
+                "link": "https://ravok.buzz/cdn/hls/841bbacc1d2201b59284603cded51624/master.m3u8?md5=CfFgJawMoJ8wjlfM_XB9oA&expires=1792167508",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/dWcGEnqEF-Kn496auvwcz5o8nz8ZUH8xI65hEZjZ20EQLy7Yo2wWGIj8JpfgYlUulAGwl6OVwVLRBePAxHYhbw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "uRuQw7Z3A"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:38Z"
+    },
+    {
+      "id": "episode/blue-lock-2x1",
+      "episode_id": "episode/blue-lock-2x1",
+      "title": "Tryouts",
+      "episode_name": "Tryouts",
+      "episode_number": 1,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/image/284/2/1.webp",
+      "abyssid": "10812",
+      "abyssId": "10812",
+      "playxid": "5fd0b37cd7dbbb00f97ba6ce92bf5add",
+      "playXID": "5fd0b37cd7dbbb00f97ba6ce92bf5add",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "10812",
+        "playXID": "5fd0b37cd7dbbb00f97ba6ce92bf5add",
+        "streamId": "10812",
+        "dubPlayerSrc": "/dub-player/t/10812/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=5fd0b37cd7dbbb00f97ba6ce92bf5add&abyssId=10812"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "10812",
+        "playXID": "5fd0b37cd7dbbb00f97ba6ce92bf5add",
+        "streamId": "10812",
+        "dubPlayerSrc": "/dub-player/t/10812/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=5fd0b37cd7dbbb00f97ba6ce92bf5add&abyssId=10812"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/5fd0b37cd7dbbb00f97ba6ce92bf5add",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/5fd0b37cd7dbbb00f97ba6ce92bf5add"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "10812",
+        "abyssId": "10812",
+        "playXID": "5fd0b37cd7dbbb00f97ba6ce92bf5add",
+        "title": "BLUE LOCK",
+        "season": 2,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "wcTA8JH0-"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "pcLrW9z1c"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "BJuW_HmIc"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "m6z2QRiw5"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "rH-CoPWyR"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/8a00307c1b09eb18b88d9d46f00b85c6/master.m3u8?md5=wFMzUNFOO2QHbUcH0jjyGw&expires=1792167508",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/8a00307c1b09eb18b88d9d46f00b85c6/master.m3u8?md5=wFMzUNFOO2QHbUcH0jjyGw&expires=1792167508",
+            "videoSource": "https://ravok.buzz/cdn/hls/8a00307c1b09eb18b88d9d46f00b85c6/master.m3u8?md5=wFMzUNFOO2QHbUcH0jjyGw&expires=1792167508",
+            "videoImage": "https://as-cdn30.top/p/cEdgS4tgej5Tay2sj292q4sK_KxHD6FB_k5X7fbOgy08NQKhSycfYNsqoZL4X22fJ1WSrd_NXoOGpbYFWdbO1g.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "5fd0b37cd7dbbb00f97ba6ce92bf5add",
+                "streamUrl": "https://ravok.buzz/cdn/hls/8a00307c1b09eb18b88d9d46f00b85c6/master.m3u8?md5=wFMzUNFOO2QHbUcH0jjyGw&expires=1792167508",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/8a00307c1b09eb18b88d9d46f00b85c6/master.m3u8?md5=wFMzUNFOO2QHbUcH0jjyGw&expires=1792167508",
+                "videoSource": "https://ravok.buzz/cdn/hls/8a00307c1b09eb18b88d9d46f00b85c6/master.m3u8?md5=wFMzUNFOO2QHbUcH0jjyGw&expires=1792167508",
+                "link": "https://ravok.buzz/cdn/hls/8a00307c1b09eb18b88d9d46f00b85c6/master.m3u8?md5=wFMzUNFOO2QHbUcH0jjyGw&expires=1792167508",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/cEdgS4tgej5Tay2sj292q4sK_KxHD6FB_k5X7fbOgy08NQKhSycfYNsqoZL4X22fJ1WSrd_NXoOGpbYFWdbO1g.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "wcTA8JH0-"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:38Z"
+    },
+    {
+      "id": "episode/blue-lock-2x2",
+      "episode_id": "episode/blue-lock-2x2",
+      "title": "Tryouts",
+      "episode_name": "Tryouts",
+      "episode_number": 2,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/image/284/2/2.webp",
+      "abyssid": "10813",
+      "abyssId": "10813",
+      "playxid": "73278a4a86960eeb576a8fd4c9ec6997",
+      "playXID": "73278a4a86960eeb576a8fd4c9ec6997",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "10813",
+        "playXID": "73278a4a86960eeb576a8fd4c9ec6997",
+        "streamId": "10813",
+        "dubPlayerSrc": "/dub-player/t/10813/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=73278a4a86960eeb576a8fd4c9ec6997&abyssId=10813"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "10813",
+        "playXID": "73278a4a86960eeb576a8fd4c9ec6997",
+        "streamId": "10813",
+        "dubPlayerSrc": "/dub-player/t/10813/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=73278a4a86960eeb576a8fd4c9ec6997&abyssId=10813"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/73278a4a86960eeb576a8fd4c9ec6997",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/73278a4a86960eeb576a8fd4c9ec6997"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "10813",
+        "abyssId": "10813",
+        "playXID": "73278a4a86960eeb576a8fd4c9ec6997",
+        "title": "BLUE LOCK",
+        "season": 2,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "Ftvb4IMSK"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "SmzpWKZpR"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "GaJJnRQQB8"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "w7BbOt4dx"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "w1dRZn60Q"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/94cd7ba67478983c7f86cafbcdb27d1d/master.m3u8?md5=4PaETLrFLEK9Quie3nxGFA&expires=1792167510",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/94cd7ba67478983c7f86cafbcdb27d1d/master.m3u8?md5=4PaETLrFLEK9Quie3nxGFA&expires=1792167510",
+            "videoSource": "https://ravok.buzz/cdn/hls/94cd7ba67478983c7f86cafbcdb27d1d/master.m3u8?md5=4PaETLrFLEK9Quie3nxGFA&expires=1792167510",
+            "videoImage": "https://as-cdn31.top/p/_Qdypn1LZ9Yzzwns1ROqhOgPoknc_DIXOWaZyye3B1_Zj4h6Nf_aWewcrmt4PAClnqJ9kzwmgD_ALB1OCWSIMg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "73278a4a86960eeb576a8fd4c9ec6997",
+                "streamUrl": "https://ravok.buzz/cdn/hls/94cd7ba67478983c7f86cafbcdb27d1d/master.m3u8?md5=4PaETLrFLEK9Quie3nxGFA&expires=1792167510",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/94cd7ba67478983c7f86cafbcdb27d1d/master.m3u8?md5=4PaETLrFLEK9Quie3nxGFA&expires=1792167510",
+                "videoSource": "https://ravok.buzz/cdn/hls/94cd7ba67478983c7f86cafbcdb27d1d/master.m3u8?md5=4PaETLrFLEK9Quie3nxGFA&expires=1792167510",
+                "link": "https://ravok.buzz/cdn/hls/94cd7ba67478983c7f86cafbcdb27d1d/master.m3u8?md5=4PaETLrFLEK9Quie3nxGFA&expires=1792167510",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/_Qdypn1LZ9Yzzwns1ROqhOgPoknc_DIXOWaZyye3B1_Zj4h6Nf_aWewcrmt4PAClnqJ9kzwmgD_ALB1OCWSIMg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "Ftvb4IMSK"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:40Z"
+    },
+    {
+      "id": "episode/blue-lock-2x3",
+      "episode_id": "episode/blue-lock-2x3",
+      "title": "Tryouts",
+      "episode_name": "Tryouts",
+      "episode_number": 3,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/image/284/2/3.webp",
+      "abyssid": "11096",
+      "abyssId": "11096",
+      "playxid": "2b44928ae11fb9384c4cf38708677c48",
+      "playXID": "2b44928ae11fb9384c4cf38708677c48",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "11096",
+        "playXID": "2b44928ae11fb9384c4cf38708677c48",
+        "streamId": "11096",
+        "dubPlayerSrc": "/dub-player/t/11096/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2b44928ae11fb9384c4cf38708677c48&abyssId=11096"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "11096",
+        "playXID": "2b44928ae11fb9384c4cf38708677c48",
+        "streamId": "11096",
+        "dubPlayerSrc": "/dub-player/t/11096/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2b44928ae11fb9384c4cf38708677c48&abyssId=11096"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/2b44928ae11fb9384c4cf38708677c48",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/2b44928ae11fb9384c4cf38708677c48"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "11096",
+        "abyssId": "11096",
+        "playXID": "2b44928ae11fb9384c4cf38708677c48",
+        "title": "BLUE LOCK",
+        "season": 2,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "sbb_zMtXW"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "NFyy4YXWO"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "-MMI7evN8"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "bp3a-gsBq"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "q3NaKC9oW"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/f3bc5ae076dab7a7c1a7b2c2eb0be94f/master.m3u8?md5=5wuUD7AvwWLsOecu9T84iQ&expires=1792167511",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/f3bc5ae076dab7a7c1a7b2c2eb0be94f/master.m3u8?md5=5wuUD7AvwWLsOecu9T84iQ&expires=1792167511",
+            "videoSource": "https://ravok.buzz/cdn/hls/f3bc5ae076dab7a7c1a7b2c2eb0be94f/master.m3u8?md5=5wuUD7AvwWLsOecu9T84iQ&expires=1792167511",
+            "videoImage": "https://as-cdn31.top/p/b74M_-K9T8KM3yTskrTnrBhofvVeqG1qVAtDf6KOC2YbnOQ5JNMwtChKHVZHF2nJd2Amsz6Zz2juDrHSPGZqvg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "2b44928ae11fb9384c4cf38708677c48",
+                "streamUrl": "https://ravok.buzz/cdn/hls/f3bc5ae076dab7a7c1a7b2c2eb0be94f/master.m3u8?md5=5wuUD7AvwWLsOecu9T84iQ&expires=1792167511",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/f3bc5ae076dab7a7c1a7b2c2eb0be94f/master.m3u8?md5=5wuUD7AvwWLsOecu9T84iQ&expires=1792167511",
+                "videoSource": "https://ravok.buzz/cdn/hls/f3bc5ae076dab7a7c1a7b2c2eb0be94f/master.m3u8?md5=5wuUD7AvwWLsOecu9T84iQ&expires=1792167511",
+                "link": "https://ravok.buzz/cdn/hls/f3bc5ae076dab7a7c1a7b2c2eb0be94f/master.m3u8?md5=5wuUD7AvwWLsOecu9T84iQ&expires=1792167511",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/b74M_-K9T8KM3yTskrTnrBhofvVeqG1qVAtDf6KOC2YbnOQ5JNMwtChKHVZHF2nJd2Amsz6Zz2juDrHSPGZqvg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "sbb_zMtXW"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:41Z"
+    },
+    {
+      "id": "episode/blue-lock-2x4",
+      "episode_id": "episode/blue-lock-2x4",
+      "title": "Tryouts",
+      "episode_name": "Tryouts",
+      "episode_number": 4,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/image/284/2/4.webp",
+      "abyssid": "11396",
+      "abyssId": "11396",
+      "playxid": "c45147dee729311ef5b5c3003946c48f",
+      "playXID": "c45147dee729311ef5b5c3003946c48f",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "11396",
+        "playXID": "c45147dee729311ef5b5c3003946c48f",
+        "streamId": "11396",
+        "dubPlayerSrc": "/dub-player/t/11396/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c45147dee729311ef5b5c3003946c48f&abyssId=11396"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "11396",
+        "playXID": "c45147dee729311ef5b5c3003946c48f",
+        "streamId": "11396",
+        "dubPlayerSrc": "/dub-player/t/11396/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c45147dee729311ef5b5c3003946c48f&abyssId=11396"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/c45147dee729311ef5b5c3003946c48f",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/c45147dee729311ef5b5c3003946c48f"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "11396",
+        "abyssId": "11396",
+        "playXID": "c45147dee729311ef5b5c3003946c48f",
+        "title": "BLUE LOCK",
+        "season": 2,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "vslIkqtCR"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "gULRNIo5a"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "QNDIgZD3b"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "S7t8r6YfH"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "7tc6X6c75"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/a246fb3b86b84db4b3a42c46a777119e/master.m3u8?md5=viEXHSJpdnuAlaEUGbNrrg&expires=1792167512",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/a246fb3b86b84db4b3a42c46a777119e/master.m3u8?md5=viEXHSJpdnuAlaEUGbNrrg&expires=1792167512",
+            "videoSource": "https://ravok.buzz/cdn/hls/a246fb3b86b84db4b3a42c46a777119e/master.m3u8?md5=viEXHSJpdnuAlaEUGbNrrg&expires=1792167512",
+            "videoImage": "https://as-cdn28.top/p/Btg0girtOQyKU27khqGQC9x4PCEAd1Oq-gGTL4cYPiqiHOCdzRW6MNBul082jQm3XUqIyPEIwFE9tkhlXLb5hA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "c45147dee729311ef5b5c3003946c48f",
+                "streamUrl": "https://ravok.buzz/cdn/hls/a246fb3b86b84db4b3a42c46a777119e/master.m3u8?md5=viEXHSJpdnuAlaEUGbNrrg&expires=1792167512",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/a246fb3b86b84db4b3a42c46a777119e/master.m3u8?md5=viEXHSJpdnuAlaEUGbNrrg&expires=1792167512",
+                "videoSource": "https://ravok.buzz/cdn/hls/a246fb3b86b84db4b3a42c46a777119e/master.m3u8?md5=viEXHSJpdnuAlaEUGbNrrg&expires=1792167512",
+                "link": "https://ravok.buzz/cdn/hls/a246fb3b86b84db4b3a42c46a777119e/master.m3u8?md5=viEXHSJpdnuAlaEUGbNrrg&expires=1792167512",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/Btg0girtOQyKU27khqGQC9x4PCEAd1Oq-gGTL4cYPiqiHOCdzRW6MNBul082jQm3XUqIyPEIwFE9tkhlXLb5hA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "vslIkqtCR"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:42Z"
+    },
+    {
+      "id": "episode/blue-lock-2x6",
+      "episode_id": "episode/blue-lock-2x6",
+      "title": "Tryouts",
+      "episode_name": "Tryouts",
+      "episode_number": 6,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/image/284/2/6.webp",
+      "abyssid": "11624",
+      "abyssId": "11624",
+      "playxid": "5ef059938ba799aaa845e1c2e8a762bd",
+      "playXID": "5ef059938ba799aaa845e1c2e8a762bd",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "11624",
+        "playXID": "5ef059938ba799aaa845e1c2e8a762bd",
+        "streamId": "11624",
+        "dubPlayerSrc": "/dub-player/t/11624/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=5ef059938ba799aaa845e1c2e8a762bd&abyssId=11624"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "11624",
+        "playXID": "5ef059938ba799aaa845e1c2e8a762bd",
+        "streamId": "11624",
+        "dubPlayerSrc": "/dub-player/t/11624/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=5ef059938ba799aaa845e1c2e8a762bd&abyssId=11624"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/5ef059938ba799aaa845e1c2e8a762bd",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/5ef059938ba799aaa845e1c2e8a762bd"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "11624",
+        "abyssId": "11624",
+        "playXID": "5ef059938ba799aaa845e1c2e8a762bd",
+        "title": "BLUE LOCK",
+        "season": 2,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "fn_Z7DiB-"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "Qlr1Zoh2fb"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "Au26YbKT8"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "2732cGQch"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "gu8ZrTnJU"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/7935f877a78949a309c165666a70e66d/master.m3u8?md5=9a_QBTeqz9ChHyNYgJ_HZw&expires=1792167512",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/7935f877a78949a309c165666a70e66d/master.m3u8?md5=9a_QBTeqz9ChHyNYgJ_HZw&expires=1792167512",
+            "videoSource": "https://ravok.buzz/cdn/hls/7935f877a78949a309c165666a70e66d/master.m3u8?md5=9a_QBTeqz9ChHyNYgJ_HZw&expires=1792167512",
+            "videoImage": "https://as-cdn30.top/p/McHCqCDDsj81GT9EIwy8rlUuuG-c70njwZlT0k0FjIZuUPG56Y7ymfv8nyVd4PLwqiy2IwR5wqXeblnI4Q0-7w.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "5ef059938ba799aaa845e1c2e8a762bd",
+                "streamUrl": "https://ravok.buzz/cdn/hls/7935f877a78949a309c165666a70e66d/master.m3u8?md5=9a_QBTeqz9ChHyNYgJ_HZw&expires=1792167512",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/7935f877a78949a309c165666a70e66d/master.m3u8?md5=9a_QBTeqz9ChHyNYgJ_HZw&expires=1792167512",
+                "videoSource": "https://ravok.buzz/cdn/hls/7935f877a78949a309c165666a70e66d/master.m3u8?md5=9a_QBTeqz9ChHyNYgJ_HZw&expires=1792167512",
+                "link": "https://ravok.buzz/cdn/hls/7935f877a78949a309c165666a70e66d/master.m3u8?md5=9a_QBTeqz9ChHyNYgJ_HZw&expires=1792167512",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/McHCqCDDsj81GT9EIwy8rlUuuG-c70njwZlT0k0FjIZuUPG56Y7ymfv8nyVd4PLwqiy2IwR5wqXeblnI4Q0-7w.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "fn_Z7DiB-"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:42Z"
+    },
+    {
+      "id": "episode/blue-lock-2x5",
+      "episode_id": "episode/blue-lock-2x5",
+      "title": "Tryouts",
+      "episode_name": "Tryouts",
+      "episode_number": 5,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/image/284/2/5.webp",
+      "abyssid": "11565",
+      "abyssId": "11565",
+      "playxid": "eb160de1de89d9058fcb0b968dbbbd68",
+      "playXID": "eb160de1de89d9058fcb0b968dbbbd68",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "11565",
+        "playXID": "eb160de1de89d9058fcb0b968dbbbd68",
+        "streamId": "11565",
+        "dubPlayerSrc": "/dub-player/t/11565/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=eb160de1de89d9058fcb0b968dbbbd68&abyssId=11565"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "11565",
+        "playXID": "eb160de1de89d9058fcb0b968dbbbd68",
+        "streamId": "11565",
+        "dubPlayerSrc": "/dub-player/t/11565/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=eb160de1de89d9058fcb0b968dbbbd68&abyssId=11565"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/eb160de1de89d9058fcb0b968dbbbd68",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/eb160de1de89d9058fcb0b968dbbbd68"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "11565",
+        "abyssId": "11565",
+        "playXID": "eb160de1de89d9058fcb0b968dbbbd68",
+        "title": "BLUE LOCK",
+        "season": 2,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "kqso7VLcz"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "k7RlWgTSZ"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "8NsxUkDB9"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "bKV384wpw"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "ijobdRHYc"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/c49bfc8f778d4978de2c0eb172b610c0/master.m3u8?md5=mO8_8sfKfJjc0uI0SevsnA&expires=1792167512",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/c49bfc8f778d4978de2c0eb172b610c0/master.m3u8?md5=mO8_8sfKfJjc0uI0SevsnA&expires=1792167512",
+            "videoSource": "https://ravok.buzz/cdn/hls/c49bfc8f778d4978de2c0eb172b610c0/master.m3u8?md5=mO8_8sfKfJjc0uI0SevsnA&expires=1792167512",
+            "videoImage": "https://as-cdn28.top/p/1388GX4xAINf7g8hHqpmr5VfnUI55VNiXXep7f3q5rHfiH7mcalKfg8LZn_hMxEWz7kPMH62aD7txO0ustqAWw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "eb160de1de89d9058fcb0b968dbbbd68",
+                "streamUrl": "https://ravok.buzz/cdn/hls/c49bfc8f778d4978de2c0eb172b610c0/master.m3u8?md5=mO8_8sfKfJjc0uI0SevsnA&expires=1792167512",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/c49bfc8f778d4978de2c0eb172b610c0/master.m3u8?md5=mO8_8sfKfJjc0uI0SevsnA&expires=1792167512",
+                "videoSource": "https://ravok.buzz/cdn/hls/c49bfc8f778d4978de2c0eb172b610c0/master.m3u8?md5=mO8_8sfKfJjc0uI0SevsnA&expires=1792167512",
+                "link": "https://ravok.buzz/cdn/hls/c49bfc8f778d4978de2c0eb172b610c0/master.m3u8?md5=mO8_8sfKfJjc0uI0SevsnA&expires=1792167512",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/1388GX4xAINf7g8hHqpmr5VfnUI55VNiXXep7f3q5rHfiH7mcalKfg8LZn_hMxEWz7kPMH62aD7txO0ustqAWw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "kqso7VLcz"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:42Z"
+    },
+    {
+      "id": "episode/blue-lock-2x7",
+      "episode_id": "episode/blue-lock-2x7",
+      "title": "Tryouts",
+      "episode_name": "Tryouts",
+      "episode_number": 7,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/image/284/2/7.webp",
+      "abyssid": "11812",
+      "abyssId": "11812",
+      "playxid": "07e1cd7dca89a1678042477183b7ac3f",
+      "playXID": "07e1cd7dca89a1678042477183b7ac3f",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "11812",
+        "playXID": "07e1cd7dca89a1678042477183b7ac3f",
+        "streamId": "11812",
+        "dubPlayerSrc": "/dub-player/t/11812/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=07e1cd7dca89a1678042477183b7ac3f&abyssId=11812"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "11812",
+        "playXID": "07e1cd7dca89a1678042477183b7ac3f",
+        "streamId": "11812",
+        "dubPlayerSrc": "/dub-player/t/11812/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=07e1cd7dca89a1678042477183b7ac3f&abyssId=11812"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/07e1cd7dca89a1678042477183b7ac3f",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/07e1cd7dca89a1678042477183b7ac3f"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "11812",
+        "abyssId": "11812",
+        "playXID": "07e1cd7dca89a1678042477183b7ac3f",
+        "title": "BLUE LOCK",
+        "season": 2,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "nDijRFjTs"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "B9sEDGVWp"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "Dq98dNUR3"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "ReYEgp-hR"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "_6FK82tnh"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/458c07107f2fbd6194c1da4c078d3a54/master.m3u8?md5=COAm37Ox6SEFKqmwBsdTfw&expires=1792167513",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/458c07107f2fbd6194c1da4c078d3a54/master.m3u8?md5=COAm37Ox6SEFKqmwBsdTfw&expires=1792167513",
+            "videoSource": "https://ravok.buzz/cdn/hls/458c07107f2fbd6194c1da4c078d3a54/master.m3u8?md5=COAm37Ox6SEFKqmwBsdTfw&expires=1792167513",
+            "videoImage": "https://as-cdn27.top/p/J-AoxsUbyZJyGYak8sMilMA7XEYriNPP92N7-JMe_xAyaZI3nkBPOfa7qk9tnQxJfQChsuf7Ta6ixkHcUdiegQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "07e1cd7dca89a1678042477183b7ac3f",
+                "streamUrl": "https://ravok.buzz/cdn/hls/458c07107f2fbd6194c1da4c078d3a54/master.m3u8?md5=COAm37Ox6SEFKqmwBsdTfw&expires=1792167513",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/458c07107f2fbd6194c1da4c078d3a54/master.m3u8?md5=COAm37Ox6SEFKqmwBsdTfw&expires=1792167513",
+                "videoSource": "https://ravok.buzz/cdn/hls/458c07107f2fbd6194c1da4c078d3a54/master.m3u8?md5=COAm37Ox6SEFKqmwBsdTfw&expires=1792167513",
+                "link": "https://ravok.buzz/cdn/hls/458c07107f2fbd6194c1da4c078d3a54/master.m3u8?md5=COAm37Ox6SEFKqmwBsdTfw&expires=1792167513",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/J-AoxsUbyZJyGYak8sMilMA7XEYriNPP92N7-JMe_xAyaZI3nkBPOfa7qk9tnQxJfQChsuf7Ta6ixkHcUdiegQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "nDijRFjTs"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:43Z"
+    },
+    {
+      "id": "episode/blue-lock-2x8",
+      "episode_id": "episode/blue-lock-2x8",
+      "title": "Tryouts",
+      "episode_name": "Tryouts",
+      "episode_number": 8,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/image/284/2/8.webp",
+      "abyssid": "11852",
+      "abyssId": "11852",
+      "playxid": "da4fb5c6e93e74d3df8527599fa62642",
+      "playXID": "da4fb5c6e93e74d3df8527599fa62642",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "11852",
+        "playXID": "da4fb5c6e93e74d3df8527599fa62642",
+        "streamId": "11852",
+        "dubPlayerSrc": "/dub-player/t/11852/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=da4fb5c6e93e74d3df8527599fa62642&abyssId=11852"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "11852",
+        "playXID": "da4fb5c6e93e74d3df8527599fa62642",
+        "streamId": "11852",
+        "dubPlayerSrc": "/dub-player/t/11852/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=da4fb5c6e93e74d3df8527599fa62642&abyssId=11852"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/da4fb5c6e93e74d3df8527599fa62642",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/da4fb5c6e93e74d3df8527599fa62642"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "11852",
+        "abyssId": "11852",
+        "playXID": "da4fb5c6e93e74d3df8527599fa62642",
+        "title": "BLUE LOCK",
+        "season": 2,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "DAMOGJFmw"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "VQ8MXP0et"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "9TZQP7jS1"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "2SYZkuy66"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "UjgrjrBGO"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/077a65aae128e7b1c448797014c88874/master.m3u8?md5=7vuJvfCuxiFA8GOPTRkbdQ&expires=1792167514",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/077a65aae128e7b1c448797014c88874/master.m3u8?md5=7vuJvfCuxiFA8GOPTRkbdQ&expires=1792167514",
+            "videoSource": "https://ravok.buzz/cdn/hls/077a65aae128e7b1c448797014c88874/master.m3u8?md5=7vuJvfCuxiFA8GOPTRkbdQ&expires=1792167514",
+            "videoImage": "https://as-cdn31.top/p/WyN-B9ZYYS6SQY28IF5EV6XOND8inwbQHHY3ruan8LpkiGvK7sY8oZ79GZrNMDAO73YnFJiCaxQaJJlGtEVNYQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "da4fb5c6e93e74d3df8527599fa62642",
+                "streamUrl": "https://ravok.buzz/cdn/hls/077a65aae128e7b1c448797014c88874/master.m3u8?md5=7vuJvfCuxiFA8GOPTRkbdQ&expires=1792167514",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/077a65aae128e7b1c448797014c88874/master.m3u8?md5=7vuJvfCuxiFA8GOPTRkbdQ&expires=1792167514",
+                "videoSource": "https://ravok.buzz/cdn/hls/077a65aae128e7b1c448797014c88874/master.m3u8?md5=7vuJvfCuxiFA8GOPTRkbdQ&expires=1792167514",
+                "link": "https://ravok.buzz/cdn/hls/077a65aae128e7b1c448797014c88874/master.m3u8?md5=7vuJvfCuxiFA8GOPTRkbdQ&expires=1792167514",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/WyN-B9ZYYS6SQY28IF5EV6XOND8inwbQHHY3ruan8LpkiGvK7sY8oZ79GZrNMDAO73YnFJiCaxQaJJlGtEVNYQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "DAMOGJFmw"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:43Z"
+    },
+    {
+      "id": "episode/blue-lock-2x10",
+      "episode_id": "episode/blue-lock-2x10",
+      "title": "Tryouts",
+      "episode_name": "Tryouts",
+      "episode_number": 10,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/image/284/2/10.webp",
+      "abyssid": "12159",
+      "abyssId": "12159",
+      "playxid": "1592104031ceaa405b8a103c399e2633",
+      "playXID": "1592104031ceaa405b8a103c399e2633",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12159",
+        "playXID": "1592104031ceaa405b8a103c399e2633",
+        "streamId": "12159",
+        "dubPlayerSrc": "/dub-player/t/12159/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=1592104031ceaa405b8a103c399e2633&abyssId=12159"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12159",
+        "playXID": "1592104031ceaa405b8a103c399e2633",
+        "streamId": "12159",
+        "dubPlayerSrc": "/dub-player/t/12159/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=1592104031ceaa405b8a103c399e2633&abyssId=12159"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/1592104031ceaa405b8a103c399e2633",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/1592104031ceaa405b8a103c399e2633"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12159",
+        "abyssId": "12159",
+        "playXID": "1592104031ceaa405b8a103c399e2633",
+        "title": "BLUE LOCK",
+        "season": 2,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "sE-XozmEL"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "GNJUjifLwj"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "TBE5uMDJg"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "StFn-Lu_v"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "eZtRF-6b-"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/650be7b375a45e13cfe79fdae4397b79/master.m3u8?md5=N25IbRtjSyTFQqKZnVtCeQ&expires=1792167514",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/650be7b375a45e13cfe79fdae4397b79/master.m3u8?md5=N25IbRtjSyTFQqKZnVtCeQ&expires=1792167514",
+            "videoSource": "https://ravok.buzz/cdn/hls/650be7b375a45e13cfe79fdae4397b79/master.m3u8?md5=N25IbRtjSyTFQqKZnVtCeQ&expires=1792167514",
+            "videoImage": "https://as-cdn29.top/p/xq7ENGk3teRf6lJiUQTzEqQs_isgpmFOKtCNmjpQizHeO913ivHm7m_FAdTmlmqlCpUJeiJoMO9e3iZfvIDUOw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "1592104031ceaa405b8a103c399e2633",
+                "streamUrl": "https://ravok.buzz/cdn/hls/650be7b375a45e13cfe79fdae4397b79/master.m3u8?md5=N25IbRtjSyTFQqKZnVtCeQ&expires=1792167514",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/650be7b375a45e13cfe79fdae4397b79/master.m3u8?md5=N25IbRtjSyTFQqKZnVtCeQ&expires=1792167514",
+                "videoSource": "https://ravok.buzz/cdn/hls/650be7b375a45e13cfe79fdae4397b79/master.m3u8?md5=N25IbRtjSyTFQqKZnVtCeQ&expires=1792167514",
+                "link": "https://ravok.buzz/cdn/hls/650be7b375a45e13cfe79fdae4397b79/master.m3u8?md5=N25IbRtjSyTFQqKZnVtCeQ&expires=1792167514",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/xq7ENGk3teRf6lJiUQTzEqQs_isgpmFOKtCNmjpQizHeO913ivHm7m_FAdTmlmqlCpUJeiJoMO9e3iZfvIDUOw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "sE-XozmEL"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:44Z"
+    },
+    {
+      "id": "episode/blue-lock-2x9",
+      "episode_id": "episode/blue-lock-2x9",
+      "title": "Tryouts",
+      "episode_name": "Tryouts",
+      "episode_number": 9,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/image/284/2/9.webp",
+      "abyssid": "11901",
+      "abyssId": "11901",
+      "playxid": "c2ae5cb2426d96ed19a50b0b7d7c8e11",
+      "playXID": "c2ae5cb2426d96ed19a50b0b7d7c8e11",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "11901",
+        "playXID": "c2ae5cb2426d96ed19a50b0b7d7c8e11",
+        "streamId": "11901",
+        "dubPlayerSrc": "/dub-player/t/11901/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c2ae5cb2426d96ed19a50b0b7d7c8e11&abyssId=11901"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "11901",
+        "playXID": "c2ae5cb2426d96ed19a50b0b7d7c8e11",
+        "streamId": "11901",
+        "dubPlayerSrc": "/dub-player/t/11901/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c2ae5cb2426d96ed19a50b0b7d7c8e11&abyssId=11901"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/c2ae5cb2426d96ed19a50b0b7d7c8e11",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/c2ae5cb2426d96ed19a50b0b7d7c8e11"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "11901",
+        "abyssId": "11901",
+        "playXID": "c2ae5cb2426d96ed19a50b0b7d7c8e11",
+        "title": "BLUE LOCK",
+        "season": 2,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "HFO0CYMSJ"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "sIHUoKOIFO"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "yYD_JjDl9"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "D2qXHYVyr"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "JdlUDZGkH"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/8efb3208cef56e22d2c7e69d0dcd9f97/master.m3u8?md5=nFCg6Yy4-aiu69gnwhCagQ&expires=1792167515",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/8efb3208cef56e22d2c7e69d0dcd9f97/master.m3u8?md5=nFCg6Yy4-aiu69gnwhCagQ&expires=1792167515",
+            "videoSource": "https://ravok.buzz/cdn/hls/8efb3208cef56e22d2c7e69d0dcd9f97/master.m3u8?md5=nFCg6Yy4-aiu69gnwhCagQ&expires=1792167515",
+            "videoImage": "https://as-cdn29.top/p/oYiYXAWMbBiFRvQO6XjiVXV6z2zL_qZqTwXX7_1jIztPunJcNNcTGc1M_XFhEYjqhiTli5PzyOVdRiEy4Pk_jQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "c2ae5cb2426d96ed19a50b0b7d7c8e11",
+                "streamUrl": "https://ravok.buzz/cdn/hls/8efb3208cef56e22d2c7e69d0dcd9f97/master.m3u8?md5=nFCg6Yy4-aiu69gnwhCagQ&expires=1792167515",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/8efb3208cef56e22d2c7e69d0dcd9f97/master.m3u8?md5=nFCg6Yy4-aiu69gnwhCagQ&expires=1792167515",
+                "videoSource": "https://ravok.buzz/cdn/hls/8efb3208cef56e22d2c7e69d0dcd9f97/master.m3u8?md5=nFCg6Yy4-aiu69gnwhCagQ&expires=1792167515",
+                "link": "https://ravok.buzz/cdn/hls/8efb3208cef56e22d2c7e69d0dcd9f97/master.m3u8?md5=nFCg6Yy4-aiu69gnwhCagQ&expires=1792167515",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/oYiYXAWMbBiFRvQO6XjiVXV6z2zL_qZqTwXX7_1jIztPunJcNNcTGc1M_XFhEYjqhiTli5PzyOVdRiEy4Pk_jQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "HFO0CYMSJ"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:45Z"
+    },
+    {
+      "id": "episode/blue-lock-2x11",
+      "episode_id": "episode/blue-lock-2x11",
+      "title": "Tryouts",
+      "episode_name": "Tryouts",
+      "episode_number": 11,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/image/284/2/11.webp",
+      "abyssid": "12511",
+      "abyssId": "12511",
+      "playxid": "48c34cb86aa86816e112a44ef2bf4c30",
+      "playXID": "48c34cb86aa86816e112a44ef2bf4c30",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12511",
+        "playXID": "48c34cb86aa86816e112a44ef2bf4c30",
+        "streamId": "12511",
+        "dubPlayerSrc": "/dub-player/t/12511/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=48c34cb86aa86816e112a44ef2bf4c30&abyssId=12511"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12511",
+        "playXID": "48c34cb86aa86816e112a44ef2bf4c30",
+        "streamId": "12511",
+        "dubPlayerSrc": "/dub-player/t/12511/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=48c34cb86aa86816e112a44ef2bf4c30&abyssId=12511"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/48c34cb86aa86816e112a44ef2bf4c30",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/48c34cb86aa86816e112a44ef2bf4c30"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12511",
+        "abyssId": "12511",
+        "playXID": "48c34cb86aa86816e112a44ef2bf4c30",
+        "title": "BLUE LOCK",
+        "season": 2,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "yqz3bd-Mf"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "h0Z0G-Nis"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "RIGCOb03n"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "h9p39gt8d"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/cf62f6205219450c7a970615dee4d111/master.m3u8?md5=AEtdgBsXLLG0SQnf_XUZfg&expires=1792167515",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/cf62f6205219450c7a970615dee4d111/master.m3u8?md5=AEtdgBsXLLG0SQnf_XUZfg&expires=1792167515",
+            "videoSource": "https://ravok.buzz/cdn/hls/cf62f6205219450c7a970615dee4d111/master.m3u8?md5=AEtdgBsXLLG0SQnf_XUZfg&expires=1792167515",
+            "videoImage": "https://as-cdn28.top/p/J9OvNWAaMsOUOhHy3RV7nP42ZyYzPrUls_IDnu3DrbL513ap-6aA4PH8gboKFQzR1h7X20OAnvye-N3foaiz1Q.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "48c34cb86aa86816e112a44ef2bf4c30",
+                "streamUrl": "https://ravok.buzz/cdn/hls/cf62f6205219450c7a970615dee4d111/master.m3u8?md5=AEtdgBsXLLG0SQnf_XUZfg&expires=1792167515",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/cf62f6205219450c7a970615dee4d111/master.m3u8?md5=AEtdgBsXLLG0SQnf_XUZfg&expires=1792167515",
+                "videoSource": "https://ravok.buzz/cdn/hls/cf62f6205219450c7a970615dee4d111/master.m3u8?md5=AEtdgBsXLLG0SQnf_XUZfg&expires=1792167515",
+                "link": "https://ravok.buzz/cdn/hls/cf62f6205219450c7a970615dee4d111/master.m3u8?md5=AEtdgBsXLLG0SQnf_XUZfg&expires=1792167515",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/J9OvNWAaMsOUOhHy3RV7nP42ZyYzPrUls_IDnu3DrbL513ap-6aA4PH8gboKFQzR1h7X20OAnvye-N3foaiz1Q.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "yqz3bd-Mf"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:45Z"
+    },
+    {
+      "id": "episode/blue-lock-2x12",
+      "episode_id": "episode/blue-lock-2x12",
+      "title": "Tryouts",
+      "episode_name": "Tryouts",
+      "episode_number": 12,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/image/284/2/12.webp",
+      "abyssid": "12526",
+      "abyssId": "12526",
+      "playxid": "00482b9bed15a272730fcb590ffebddd",
+      "playXID": "00482b9bed15a272730fcb590ffebddd",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12526",
+        "playXID": "00482b9bed15a272730fcb590ffebddd",
+        "streamId": "12526",
+        "dubPlayerSrc": "/dub-player/t/12526/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=00482b9bed15a272730fcb590ffebddd&abyssId=12526"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12526",
+        "playXID": "00482b9bed15a272730fcb590ffebddd",
+        "streamId": "12526",
+        "dubPlayerSrc": "/dub-player/t/12526/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=00482b9bed15a272730fcb590ffebddd&abyssId=12526"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/00482b9bed15a272730fcb590ffebddd",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/00482b9bed15a272730fcb590ffebddd"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12526",
+        "abyssId": "12526",
+        "playXID": "00482b9bed15a272730fcb590ffebddd",
+        "title": "BLUE LOCK",
+        "season": 2,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "Cqh1CDPGa"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "eeQXoc1mw"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "TR_lMM3tQ"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "ieeXwi-Cx"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/f74ad3122c929316618a44019a4d0e95/master.m3u8?md5=jGeaJihGxzLPJUc_dCH9EA&expires=1792167515",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/f74ad3122c929316618a44019a4d0e95/master.m3u8?md5=jGeaJihGxzLPJUc_dCH9EA&expires=1792167515",
+            "videoSource": "https://ravok.buzz/cdn/hls/f74ad3122c929316618a44019a4d0e95/master.m3u8?md5=jGeaJihGxzLPJUc_dCH9EA&expires=1792167515",
+            "videoImage": "https://as-cdn27.top/p/T12b7vn60PHS3XhEUzp-vIhObvOz7vuz79x4XqyLVbh4ettjiOBP_AUuhVmqc6RFZ8XvxYq-FTK9QV3Ln3Eaag.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "00482b9bed15a272730fcb590ffebddd",
+                "streamUrl": "https://ravok.buzz/cdn/hls/f74ad3122c929316618a44019a4d0e95/master.m3u8?md5=jGeaJihGxzLPJUc_dCH9EA&expires=1792167515",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/f74ad3122c929316618a44019a4d0e95/master.m3u8?md5=jGeaJihGxzLPJUc_dCH9EA&expires=1792167515",
+                "videoSource": "https://ravok.buzz/cdn/hls/f74ad3122c929316618a44019a4d0e95/master.m3u8?md5=jGeaJihGxzLPJUc_dCH9EA&expires=1792167515",
+                "link": "https://ravok.buzz/cdn/hls/f74ad3122c929316618a44019a4d0e95/master.m3u8?md5=jGeaJihGxzLPJUc_dCH9EA&expires=1792167515",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/T12b7vn60PHS3XhEUzp-vIhObvOz7vuz79x4XqyLVbh4ettjiOBP_AUuhVmqc6RFZ8XvxYq-FTK9QV3Ln3Eaag.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "Cqh1CDPGa"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:45Z"
+    },
+    {
+      "id": "episode/blue-lock-2x13",
+      "episode_id": "episode/blue-lock-2x13",
+      "title": "Tryouts",
+      "episode_name": "Tryouts",
+      "episode_number": 13,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/image/284/2/13.webp",
+      "abyssid": "12856",
+      "abyssId": "12856",
+      "playxid": "6120d42c7249acb7b2cfcf020bf7ab75",
+      "playXID": "6120d42c7249acb7b2cfcf020bf7ab75",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12856",
+        "playXID": "6120d42c7249acb7b2cfcf020bf7ab75",
+        "streamId": "12856",
+        "dubPlayerSrc": "/dub-player/t/12856/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6120d42c7249acb7b2cfcf020bf7ab75&abyssId=12856"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12856",
+        "playXID": "6120d42c7249acb7b2cfcf020bf7ab75",
+        "streamId": "12856",
+        "dubPlayerSrc": "/dub-player/t/12856/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6120d42c7249acb7b2cfcf020bf7ab75&abyssId=12856"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/6120d42c7249acb7b2cfcf020bf7ab75",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/6120d42c7249acb7b2cfcf020bf7ab75"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12856",
+        "abyssId": "12856",
+        "playXID": "6120d42c7249acb7b2cfcf020bf7ab75",
+        "title": "BLUE LOCK",
+        "season": 2,
+        "episode": 13,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "BScRYVB3y"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "gfUN6PI51"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "GpKZknspb"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/a7bf7849663ad54d77865175ce5e8fc3/master.m3u8?md5=ZR5meBaLFoLGyx7OPODZVA&expires=1792167516",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/a7bf7849663ad54d77865175ce5e8fc3/master.m3u8?md5=ZR5meBaLFoLGyx7OPODZVA&expires=1792167516",
+            "videoSource": "https://ravok.buzz/cdn/hls/a7bf7849663ad54d77865175ce5e8fc3/master.m3u8?md5=ZR5meBaLFoLGyx7OPODZVA&expires=1792167516",
+            "videoImage": "https://as-cdn31.top/p/VqjlUy0erGVDg1Um-Rr9X_paF66ZQSQaKmdDqk0xOY3YzuOHBgZWzNgo4Y9o6jAIj5sBaOcf42gTIHc4F-lpdg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "6120d42c7249acb7b2cfcf020bf7ab75",
+                "streamUrl": "https://ravok.buzz/cdn/hls/a7bf7849663ad54d77865175ce5e8fc3/master.m3u8?md5=ZR5meBaLFoLGyx7OPODZVA&expires=1792167516",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/a7bf7849663ad54d77865175ce5e8fc3/master.m3u8?md5=ZR5meBaLFoLGyx7OPODZVA&expires=1792167516",
+                "videoSource": "https://ravok.buzz/cdn/hls/a7bf7849663ad54d77865175ce5e8fc3/master.m3u8?md5=ZR5meBaLFoLGyx7OPODZVA&expires=1792167516",
+                "link": "https://ravok.buzz/cdn/hls/a7bf7849663ad54d77865175ce5e8fc3/master.m3u8?md5=ZR5meBaLFoLGyx7OPODZVA&expires=1792167516",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/VqjlUy0erGVDg1Um-Rr9X_paF66ZQSQaKmdDqk0xOY3YzuOHBgZWzNgo4Y9o6jAIj5sBaOcf42gTIHc4F-lpdg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "BScRYVB3y"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:45Z"
+    },
+    {
+      "id": "episode/blue-lock-2x14",
+      "episode_id": "episode/blue-lock-2x14",
+      "title": "Tryouts",
+      "episode_name": "Tryouts",
+      "episode_number": 14,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/image/284/2/14.webp",
+      "abyssid": "12857",
+      "abyssId": "12857",
+      "playxid": "e7532dbeff7ef901f2e70daacb3f452d",
+      "playXID": "e7532dbeff7ef901f2e70daacb3f452d",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12857",
+        "playXID": "e7532dbeff7ef901f2e70daacb3f452d",
+        "streamId": "12857",
+        "dubPlayerSrc": "/dub-player/t/12857/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e7532dbeff7ef901f2e70daacb3f452d&abyssId=12857"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12857",
+        "playXID": "e7532dbeff7ef901f2e70daacb3f452d",
+        "streamId": "12857",
+        "dubPlayerSrc": "/dub-player/t/12857/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e7532dbeff7ef901f2e70daacb3f452d&abyssId=12857"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/e7532dbeff7ef901f2e70daacb3f452d",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/e7532dbeff7ef901f2e70daacb3f452d"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12857",
+        "abyssId": "12857",
+        "playXID": "e7532dbeff7ef901f2e70daacb3f452d",
+        "title": "BLUE LOCK",
+        "season": 2,
+        "episode": 14,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "bEEEZoSd3"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "UT1Q7AMHd"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "H3qgLgTte"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/1caae180e443734f66a482bf8e482a83/master.m3u8?md5=RlKMbeN6TE1uqNSRa6wVXg&expires=1792167517",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/1caae180e443734f66a482bf8e482a83/master.m3u8?md5=RlKMbeN6TE1uqNSRa6wVXg&expires=1792167517",
+            "videoSource": "https://ravok.buzz/cdn/hls/1caae180e443734f66a482bf8e482a83/master.m3u8?md5=RlKMbeN6TE1uqNSRa6wVXg&expires=1792167517",
+            "videoImage": "https://as-cdn30.top/p/gpbeYW_fQ7l6lIjxN7n2RHA4MV0ktm0SwXNaUpm9qNwoS08ivi9GmbHP6uYylBDk5MUrZk6dJNSrGW3pC_dtJw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "e7532dbeff7ef901f2e70daacb3f452d",
+                "streamUrl": "https://ravok.buzz/cdn/hls/1caae180e443734f66a482bf8e482a83/master.m3u8?md5=RlKMbeN6TE1uqNSRa6wVXg&expires=1792167517",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/1caae180e443734f66a482bf8e482a83/master.m3u8?md5=RlKMbeN6TE1uqNSRa6wVXg&expires=1792167517",
+                "videoSource": "https://ravok.buzz/cdn/hls/1caae180e443734f66a482bf8e482a83/master.m3u8?md5=RlKMbeN6TE1uqNSRa6wVXg&expires=1792167517",
+                "link": "https://ravok.buzz/cdn/hls/1caae180e443734f66a482bf8e482a83/master.m3u8?md5=RlKMbeN6TE1uqNSRa6wVXg&expires=1792167517",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/gpbeYW_fQ7l6lIjxN7n2RHA4MV0ktm0SwXNaUpm9qNwoS08ivi9GmbHP6uYylBDk5MUrZk6dJNSrGW3pC_dtJw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "bEEEZoSd3"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:46Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T14:18:22Z",
+  "updated_at": "2026-10-16T14:18:46Z"
+}

@@ -1,0 +1,710 @@
+{
+  "id": "series/the-gutsy-frog",
+  "series_name": "The Gutsy Frog",
+  "title": "The Gutsy Frog",
+  "banner": "https://image.tmdb.org/t/p/w1280/2kRu77wc9IdbMR8JSoNdpwPmStP.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/tINZLA1slqie76LvFDrVR7kMB0E.jpg",
+  "genra": [
+    "Comedy",
+    "Shounen",
+    "Slice of Life"
+  ],
+  "genres": [
+    "Comedy",
+    "Shounen",
+    "Slice of Life"
+  ],
+  "languages": [
+    "Hindi"
+  ],
+  "synopsis": "Hiroshi is a boy, a bit lazy in school and in his daily tasks. One day, fighting against his bullies classmates, Hiroshi accidentally fell over a frog who was jumping through Nerima, Tokyo Shakujii Park. Due to this incident, Pyonkichi, the frog, became a \"flat frog\" and his image and spirit get impregnated on Hiroshi's t-shirt.",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 2,
+  "totalEpisodes": 7,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 6,
+      "episodes": [
+        {
+          "episode": 7,
+          "title": "The Gutsy Frog 1x7",
+          "id": "episode/the-gutsy-frog-1x7",
+          "image": "https://img.watchanimeworld.one/images/3433/07.webp",
+          "season": 1
+        },
+        {
+          "episode": 9,
+          "title": "The Gutsy Frog 1x9",
+          "id": "episode/the-gutsy-frog-1x9",
+          "image": "https://img.watchanimeworld.one/images/3433/09.webp",
+          "season": 1
+        },
+        {
+          "episode": 11,
+          "title": "The Gutsy Frog 1x11",
+          "id": "episode/the-gutsy-frog-1x11",
+          "image": "https://img.watchanimeworld.one/images/3433/11.webp",
+          "season": 1
+        },
+        {
+          "episode": 12,
+          "title": "The Gutsy Frog 1x12",
+          "id": "episode/the-gutsy-frog-1x12",
+          "image": "https://img.watchanimeworld.one/images/3433/12.webp",
+          "season": 1
+        },
+        {
+          "episode": 13,
+          "title": "The Gutsy Frog 1x13",
+          "id": "episode/the-gutsy-frog-1x13",
+          "image": "https://img.watchanimeworld.one/images/3433/13.webp",
+          "season": 1
+        },
+        {
+          "episode": 14,
+          "title": "The Gutsy Frog 1x14",
+          "id": "episode/the-gutsy-frog-1x14",
+          "image": "https://img.watchanimeworld.one/images/3433/14.webp",
+          "season": 1
+        }
+      ]
+    },
+    {
+      "season": 4,
+      "name": "Season 4",
+      "episodesCount": 1,
+      "episodes": [
+        {
+          "episode": 19,
+          "title": "The Gutsy Frog 4x19",
+          "id": "episode/the-gutsy-frog-4x19",
+          "image": "https://img.watchanimeworld.one/images/4159/19.webp",
+          "season": 4
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/the-gutsy-frog-1x13",
+      "episode_id": "episode/the-gutsy-frog-1x13",
+      "title": "The Gutsy Frog 1x7",
+      "episode_name": "The Gutsy Frog 1x7",
+      "episode_number": 13,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/3433/13.webp",
+      "abyssid": "6750",
+      "abyssId": "6750",
+      "playxid": "275d7fb2fd45098ad5c3ece2ed4a2824",
+      "playXID": "275d7fb2fd45098ad5c3ece2ed4a2824",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "6750",
+        "playXID": "275d7fb2fd45098ad5c3ece2ed4a2824",
+        "streamId": "6750",
+        "dubPlayerSrc": "/dub-player/t/6750/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=275d7fb2fd45098ad5c3ece2ed4a2824&abyssId=6750"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "6750",
+        "playXID": "275d7fb2fd45098ad5c3ece2ed4a2824",
+        "streamId": "6750",
+        "dubPlayerSrc": "/dub-player/t/6750/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=275d7fb2fd45098ad5c3ece2ed4a2824&abyssId=6750"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/275d7fb2fd45098ad5c3ece2ed4a2824",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/275d7fb2fd45098ad5c3ece2ed4a2824"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "6750",
+        "abyssId": "6750",
+        "playXID": "275d7fb2fd45098ad5c3ece2ed4a2824",
+        "title": "The Gutsy Frog",
+        "season": 1,
+        "episode": 13,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "jZk_AnN4-"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/7d60ebd66157f9f24968faf7884da269/master.m3u8?md5=mQRrkYDBz2Rzy_VrNbDcQQ&expires=1792167830",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/7d60ebd66157f9f24968faf7884da269/master.m3u8?md5=mQRrkYDBz2Rzy_VrNbDcQQ&expires=1792167830",
+            "videoSource": "https://ravok.buzz/cdn/hls/7d60ebd66157f9f24968faf7884da269/master.m3u8?md5=mQRrkYDBz2Rzy_VrNbDcQQ&expires=1792167830",
+            "videoImage": "https://as-cdn31.top/p/kyRNPPvNgCkBuVcQdTxzU4pAydFx047YVlyZDIQUTigt7yeOzcmEtpm_893lSXr4pEbXOn9-hof9aXkBOe7LIQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "275d7fb2fd45098ad5c3ece2ed4a2824",
+                "streamUrl": "https://ravok.buzz/cdn/hls/7d60ebd66157f9f24968faf7884da269/master.m3u8?md5=mQRrkYDBz2Rzy_VrNbDcQQ&expires=1792167830",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/7d60ebd66157f9f24968faf7884da269/master.m3u8?md5=mQRrkYDBz2Rzy_VrNbDcQQ&expires=1792167830",
+                "videoSource": "https://ravok.buzz/cdn/hls/7d60ebd66157f9f24968faf7884da269/master.m3u8?md5=mQRrkYDBz2Rzy_VrNbDcQQ&expires=1792167830",
+                "link": "https://ravok.buzz/cdn/hls/7d60ebd66157f9f24968faf7884da269/master.m3u8?md5=mQRrkYDBz2Rzy_VrNbDcQQ&expires=1792167830",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/kyRNPPvNgCkBuVcQdTxzU4pAydFx047YVlyZDIQUTigt7yeOzcmEtpm_893lSXr4pEbXOn9-hof9aXkBOe7LIQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "jZk_AnN4-"
+        }
+      },
+      "fetched_at": "2026-10-16T14:23:59Z"
+    },
+    {
+      "id": "episode/the-gutsy-frog-1x7",
+      "episode_id": "episode/the-gutsy-frog-1x7",
+      "title": "The Gutsy Frog 1x7",
+      "episode_name": "The Gutsy Frog 1x7",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/3433/07.webp",
+      "abyssid": "6746",
+      "abyssId": "6746",
+      "playxid": "9ff0525c64bf3d4c9957a1d4397f1b40",
+      "playXID": "9ff0525c64bf3d4c9957a1d4397f1b40",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "6746",
+        "playXID": "9ff0525c64bf3d4c9957a1d4397f1b40",
+        "streamId": "6746",
+        "dubPlayerSrc": "/dub-player/t/6746/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9ff0525c64bf3d4c9957a1d4397f1b40&abyssId=6746"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "6746",
+        "playXID": "9ff0525c64bf3d4c9957a1d4397f1b40",
+        "streamId": "6746",
+        "dubPlayerSrc": "/dub-player/t/6746/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9ff0525c64bf3d4c9957a1d4397f1b40&abyssId=6746"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/9ff0525c64bf3d4c9957a1d4397f1b40",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/9ff0525c64bf3d4c9957a1d4397f1b40"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "6746",
+        "abyssId": "6746",
+        "playXID": "9ff0525c64bf3d4c9957a1d4397f1b40",
+        "title": "The Gutsy Frog",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "kx3qjavvd"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/9ea018e62bde25e919565b4f55f76112/master.m3u8?md5=Xvftz_H2_ckHQpxTJUys7g&expires=1792167830",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/9ea018e62bde25e919565b4f55f76112/master.m3u8?md5=Xvftz_H2_ckHQpxTJUys7g&expires=1792167830",
+            "videoSource": "https://ravok.buzz/cdn/hls/9ea018e62bde25e919565b4f55f76112/master.m3u8?md5=Xvftz_H2_ckHQpxTJUys7g&expires=1792167830",
+            "videoImage": "https://as-cdn29.top/p/kFKbj5JwzF7PY_RUtouhn_x9RoT6OJYzDc43Bs0SLcsH8yARE3Y5x-cgAhj1bH3eLHKxiZoJidXtMhrdYe0kZg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "9ff0525c64bf3d4c9957a1d4397f1b40",
+                "streamUrl": "https://ravok.buzz/cdn/hls/9ea018e62bde25e919565b4f55f76112/master.m3u8?md5=Xvftz_H2_ckHQpxTJUys7g&expires=1792167830",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/9ea018e62bde25e919565b4f55f76112/master.m3u8?md5=Xvftz_H2_ckHQpxTJUys7g&expires=1792167830",
+                "videoSource": "https://ravok.buzz/cdn/hls/9ea018e62bde25e919565b4f55f76112/master.m3u8?md5=Xvftz_H2_ckHQpxTJUys7g&expires=1792167830",
+                "link": "https://ravok.buzz/cdn/hls/9ea018e62bde25e919565b4f55f76112/master.m3u8?md5=Xvftz_H2_ckHQpxTJUys7g&expires=1792167830",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/kFKbj5JwzF7PY_RUtouhn_x9RoT6OJYzDc43Bs0SLcsH8yARE3Y5x-cgAhj1bH3eLHKxiZoJidXtMhrdYe0kZg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "kx3qjavvd"
+        }
+      },
+      "fetched_at": "2026-10-16T14:24:00Z"
+    },
+    {
+      "id": "episode/the-gutsy-frog-1x9",
+      "episode_id": "episode/the-gutsy-frog-1x9",
+      "title": "The Gutsy Frog 1x7",
+      "episode_name": "The Gutsy Frog 1x7",
+      "episode_number": 9,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/3433/09.webp",
+      "abyssid": "6747",
+      "abyssId": "6747",
+      "playxid": "a11ce019e96a4c60832eadd755a17a58",
+      "playXID": "a11ce019e96a4c60832eadd755a17a58",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "6747",
+        "playXID": "a11ce019e96a4c60832eadd755a17a58",
+        "streamId": "6747",
+        "dubPlayerSrc": "/dub-player/t/6747/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a11ce019e96a4c60832eadd755a17a58&abyssId=6747"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "6747",
+        "playXID": "a11ce019e96a4c60832eadd755a17a58",
+        "streamId": "6747",
+        "dubPlayerSrc": "/dub-player/t/6747/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a11ce019e96a4c60832eadd755a17a58&abyssId=6747"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/a11ce019e96a4c60832eadd755a17a58",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/a11ce019e96a4c60832eadd755a17a58"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "6747",
+        "abyssId": "6747",
+        "playXID": "a11ce019e96a4c60832eadd755a17a58",
+        "title": "The Gutsy Frog",
+        "season": 1,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "SQc4JBB82"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/66483ea69d2cf04aea17d56f96d76576/master.m3u8?md5=jU3BJjKVnkjHHiwl07W2Mg&expires=1792167830",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/66483ea69d2cf04aea17d56f96d76576/master.m3u8?md5=jU3BJjKVnkjHHiwl07W2Mg&expires=1792167830",
+            "videoSource": "https://ravok.buzz/cdn/hls/66483ea69d2cf04aea17d56f96d76576/master.m3u8?md5=jU3BJjKVnkjHHiwl07W2Mg&expires=1792167830",
+            "videoImage": "https://as-cdn28.top/p/kyRNPPvNgCkBuVcQdTxzU69IPU_3ednxqhoMCkdOzFGkuuknQPOq7iw0Ptzda6Md_cFJoxY1Ojy9aunRZqvvQA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "a11ce019e96a4c60832eadd755a17a58",
+                "streamUrl": "https://ravok.buzz/cdn/hls/66483ea69d2cf04aea17d56f96d76576/master.m3u8?md5=jU3BJjKVnkjHHiwl07W2Mg&expires=1792167830",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/66483ea69d2cf04aea17d56f96d76576/master.m3u8?md5=jU3BJjKVnkjHHiwl07W2Mg&expires=1792167830",
+                "videoSource": "https://ravok.buzz/cdn/hls/66483ea69d2cf04aea17d56f96d76576/master.m3u8?md5=jU3BJjKVnkjHHiwl07W2Mg&expires=1792167830",
+                "link": "https://ravok.buzz/cdn/hls/66483ea69d2cf04aea17d56f96d76576/master.m3u8?md5=jU3BJjKVnkjHHiwl07W2Mg&expires=1792167830",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/kyRNPPvNgCkBuVcQdTxzU69IPU_3ednxqhoMCkdOzFGkuuknQPOq7iw0Ptzda6Md_cFJoxY1Ojy9aunRZqvvQA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "SQc4JBB82"
+        }
+      },
+      "fetched_at": "2026-10-16T14:24:00Z"
+    },
+    {
+      "id": "episode/the-gutsy-frog-1x11",
+      "episode_id": "episode/the-gutsy-frog-1x11",
+      "title": "The Gutsy Frog 1x7",
+      "episode_name": "The Gutsy Frog 1x7",
+      "episode_number": 11,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/3433/11.webp",
+      "abyssid": "6748",
+      "abyssId": "6748",
+      "playxid": "b1b0432ceafb0ce714426e9114852ac7",
+      "playXID": "b1b0432ceafb0ce714426e9114852ac7",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "6748",
+        "playXID": "b1b0432ceafb0ce714426e9114852ac7",
+        "streamId": "6748",
+        "dubPlayerSrc": "/dub-player/t/6748/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b1b0432ceafb0ce714426e9114852ac7&abyssId=6748"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "6748",
+        "playXID": "b1b0432ceafb0ce714426e9114852ac7",
+        "streamId": "6748",
+        "dubPlayerSrc": "/dub-player/t/6748/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b1b0432ceafb0ce714426e9114852ac7&abyssId=6748"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/b1b0432ceafb0ce714426e9114852ac7",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/b1b0432ceafb0ce714426e9114852ac7"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "6748",
+        "abyssId": "6748",
+        "playXID": "b1b0432ceafb0ce714426e9114852ac7",
+        "title": "The Gutsy Frog",
+        "season": 1,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "IMiC1T8oi"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/41bab06feebbe27763bf5d5f03bb97b0/master.m3u8?md5=4b5lNov1EZW9xn6J49zjXg&expires=1792167830",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/41bab06feebbe27763bf5d5f03bb97b0/master.m3u8?md5=4b5lNov1EZW9xn6J49zjXg&expires=1792167830",
+            "videoSource": "https://ravok.buzz/cdn/hls/41bab06feebbe27763bf5d5f03bb97b0/master.m3u8?md5=4b5lNov1EZW9xn6J49zjXg&expires=1792167830",
+            "videoImage": "https://as-cdn30.top/p/kyRNPPvNgCkBuVcQdTxzU9YtdXHSmvD9H132UDbnEZTa45zxJfJgtCwvBCdKn_eY26tgZoe527O-iqYyMRAJfA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "b1b0432ceafb0ce714426e9114852ac7",
+                "streamUrl": "https://ravok.buzz/cdn/hls/41bab06feebbe27763bf5d5f03bb97b0/master.m3u8?md5=4b5lNov1EZW9xn6J49zjXg&expires=1792167830",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/41bab06feebbe27763bf5d5f03bb97b0/master.m3u8?md5=4b5lNov1EZW9xn6J49zjXg&expires=1792167830",
+                "videoSource": "https://ravok.buzz/cdn/hls/41bab06feebbe27763bf5d5f03bb97b0/master.m3u8?md5=4b5lNov1EZW9xn6J49zjXg&expires=1792167830",
+                "link": "https://ravok.buzz/cdn/hls/41bab06feebbe27763bf5d5f03bb97b0/master.m3u8?md5=4b5lNov1EZW9xn6J49zjXg&expires=1792167830",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/kyRNPPvNgCkBuVcQdTxzU9YtdXHSmvD9H132UDbnEZTa45zxJfJgtCwvBCdKn_eY26tgZoe527O-iqYyMRAJfA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "IMiC1T8oi"
+        }
+      },
+      "fetched_at": "2026-10-16T14:24:00Z"
+    },
+    {
+      "id": "episode/the-gutsy-frog-1x12",
+      "episode_id": "episode/the-gutsy-frog-1x12",
+      "title": "The Gutsy Frog 1x7",
+      "episode_name": "The Gutsy Frog 1x7",
+      "episode_number": 12,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/3433/12.webp",
+      "abyssid": "6749",
+      "abyssId": "6749",
+      "playxid": "1c67df9e0a5cfefa030b853983324004",
+      "playXID": "1c67df9e0a5cfefa030b853983324004",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "6749",
+        "playXID": "1c67df9e0a5cfefa030b853983324004",
+        "streamId": "6749",
+        "dubPlayerSrc": "/dub-player/t/6749/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=1c67df9e0a5cfefa030b853983324004&abyssId=6749"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "6749",
+        "playXID": "1c67df9e0a5cfefa030b853983324004",
+        "streamId": "6749",
+        "dubPlayerSrc": "/dub-player/t/6749/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=1c67df9e0a5cfefa030b853983324004&abyssId=6749"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/1c67df9e0a5cfefa030b853983324004",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/1c67df9e0a5cfefa030b853983324004"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "6749",
+        "abyssId": "6749",
+        "playXID": "1c67df9e0a5cfefa030b853983324004",
+        "title": "The Gutsy Frog",
+        "season": 1,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "1Pfe1zph_"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "1Pfe1zph_"
+        }
+      },
+      "fetched_at": "2026-10-16T14:24:00Z"
+    },
+    {
+      "id": "episode/the-gutsy-frog-1x14",
+      "episode_id": "episode/the-gutsy-frog-1x14",
+      "title": "The Gutsy Frog 1x7",
+      "episode_name": "The Gutsy Frog 1x7",
+      "episode_number": 14,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/3433/14.webp",
+      "abyssid": "6751",
+      "abyssId": "6751",
+      "playxid": "769675d7c11f336ae6573e7e533570ec",
+      "playXID": "769675d7c11f336ae6573e7e533570ec",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "6751",
+        "playXID": "769675d7c11f336ae6573e7e533570ec",
+        "streamId": "6751",
+        "dubPlayerSrc": "/dub-player/t/6751/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=769675d7c11f336ae6573e7e533570ec&abyssId=6751"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "6751",
+        "playXID": "769675d7c11f336ae6573e7e533570ec",
+        "streamId": "6751",
+        "dubPlayerSrc": "/dub-player/t/6751/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=769675d7c11f336ae6573e7e533570ec&abyssId=6751"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/769675d7c11f336ae6573e7e533570ec",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/769675d7c11f336ae6573e7e533570ec"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "6751",
+        "abyssId": "6751",
+        "playXID": "769675d7c11f336ae6573e7e533570ec",
+        "title": "The Gutsy Frog",
+        "season": 1,
+        "episode": 14,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "HsXFkw5nf"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "zofrAisbp"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/4ab084cab2ef4f5e3f8d31ed22bb2244/master.m3u8?md5=IiRkoQjKakRWQtjv7AUEAQ&expires=1792167832",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/4ab084cab2ef4f5e3f8d31ed22bb2244/master.m3u8?md5=IiRkoQjKakRWQtjv7AUEAQ&expires=1792167832",
+            "videoSource": "https://ravok.buzz/cdn/hls/4ab084cab2ef4f5e3f8d31ed22bb2244/master.m3u8?md5=IiRkoQjKakRWQtjv7AUEAQ&expires=1792167832",
+            "videoImage": "https://as-cdn27.top/p/kyRNPPvNgCkBuVcQdTxzU1N8HWgE2UXPS5jOcyCtffInsJ4kFahkc4SNMIEFu6Qc3HjmtINe_hYrWbJGUboqjA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "769675d7c11f336ae6573e7e533570ec",
+                "streamUrl": "https://ravok.buzz/cdn/hls/4ab084cab2ef4f5e3f8d31ed22bb2244/master.m3u8?md5=IiRkoQjKakRWQtjv7AUEAQ&expires=1792167832",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/4ab084cab2ef4f5e3f8d31ed22bb2244/master.m3u8?md5=IiRkoQjKakRWQtjv7AUEAQ&expires=1792167832",
+                "videoSource": "https://ravok.buzz/cdn/hls/4ab084cab2ef4f5e3f8d31ed22bb2244/master.m3u8?md5=IiRkoQjKakRWQtjv7AUEAQ&expires=1792167832",
+                "link": "https://ravok.buzz/cdn/hls/4ab084cab2ef4f5e3f8d31ed22bb2244/master.m3u8?md5=IiRkoQjKakRWQtjv7AUEAQ&expires=1792167832",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/kyRNPPvNgCkBuVcQdTxzU1N8HWgE2UXPS5jOcyCtffInsJ4kFahkc4SNMIEFu6Qc3HjmtINe_hYrWbJGUboqjA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "HsXFkw5nf"
+        }
+      },
+      "fetched_at": "2026-10-16T14:24:01Z"
+    },
+    {
+      "id": "episode/the-gutsy-frog-4x19",
+      "episode_id": "episode/the-gutsy-frog-4x19",
+      "title": "The Gutsy Frog 4x19",
+      "episode_name": "The Gutsy Frog 4x19",
+      "episode_number": 19,
+      "season": 4,
+      "image": "https://img.watchanimeworld.one/images/4159/19.webp",
+      "abyssid": "6753",
+      "abyssId": "6753",
+      "playxid": "aa6b7ad9d68bf3443c35d23de844463b",
+      "playXID": "aa6b7ad9d68bf3443c35d23de844463b",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "6753",
+        "playXID": "aa6b7ad9d68bf3443c35d23de844463b",
+        "streamId": "6753",
+        "dubPlayerSrc": "/dub-player/t/6753/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=aa6b7ad9d68bf3443c35d23de844463b&abyssId=6753"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "6753",
+        "playXID": "aa6b7ad9d68bf3443c35d23de844463b",
+        "streamId": "6753",
+        "dubPlayerSrc": "/dub-player/t/6753/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=aa6b7ad9d68bf3443c35d23de844463b&abyssId=6753"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/aa6b7ad9d68bf3443c35d23de844463b",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/aa6b7ad9d68bf3443c35d23de844463b"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "6753",
+        "abyssId": "6753",
+        "playXID": "aa6b7ad9d68bf3443c35d23de844463b",
+        "title": "The Gutsy Frog",
+        "season": 4,
+        "episode": 19,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "mFNv0neqB"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/b1e4466f1fc91227fdf7ef80f00b3c69/master.m3u8?md5=rV1Qe4ux8YLr3SAKrI9O7w&expires=1792167832",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/b1e4466f1fc91227fdf7ef80f00b3c69/master.m3u8?md5=rV1Qe4ux8YLr3SAKrI9O7w&expires=1792167832",
+            "videoSource": "https://ravok.buzz/cdn/hls/b1e4466f1fc91227fdf7ef80f00b3c69/master.m3u8?md5=rV1Qe4ux8YLr3SAKrI9O7w&expires=1792167832",
+            "videoImage": "https://as-cdn31.top/p/jSN9-SwsN-P3-AHsvrg4nOSElpxpkEkKYgsNXItzaZtt1hFKDaMpXLfdhlf9giJ7Z2M0mxbfukGolSmiUFSwPw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "aa6b7ad9d68bf3443c35d23de844463b",
+                "streamUrl": "https://ravok.buzz/cdn/hls/b1e4466f1fc91227fdf7ef80f00b3c69/master.m3u8?md5=rV1Qe4ux8YLr3SAKrI9O7w&expires=1792167832",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/b1e4466f1fc91227fdf7ef80f00b3c69/master.m3u8?md5=rV1Qe4ux8YLr3SAKrI9O7w&expires=1792167832",
+                "videoSource": "https://ravok.buzz/cdn/hls/b1e4466f1fc91227fdf7ef80f00b3c69/master.m3u8?md5=rV1Qe4ux8YLr3SAKrI9O7w&expires=1792167832",
+                "link": "https://ravok.buzz/cdn/hls/b1e4466f1fc91227fdf7ef80f00b3c69/master.m3u8?md5=rV1Qe4ux8YLr3SAKrI9O7w&expires=1792167832",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/jSN9-SwsN-P3-AHsvrg4nOSElpxpkEkKYgsNXItzaZtt1hFKDaMpXLfdhlf9giJ7Z2M0mxbfukGolSmiUFSwPw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "mFNv0neqB"
+        }
+      },
+      "fetched_at": "2026-10-16T14:24:02Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T14:23:57Z",
+  "updated_at": "2026-10-16T14:24:02Z"
+}

@@ -1,0 +1,922 @@
+{
+  "id": "series/release-that-witch",
+  "series_name": "Release that Witch",
+  "title": "Release that Witch",
+  "banner": "https://image.tmdb.org/t/p/w1280/t1lGQIFl5lAwxJ6yWtuONYJcWFL.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/ygXvdkB7Ue9ELUUlQe7wFh5fdJa.jpg",
+  "genra": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Isekai",
+    "Romance",
+    "Sci-Fi"
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Isekai",
+    "Romance",
+    "Sci-Fi"
+  ],
+  "languages": [
+    "Chinese",
+    "Hindi",
+    "Tamil",
+    "Telugu"
+  ],
+  "synopsis": "Roland, a modern man reborn as a prince in the dangerous Border Town, rescues the witches Anna and Nana Pine from the Church. Harnessing their extraordinary powers, he fuses magic and technology to craft weapons, armies, and steam engines to defend his people. As the Demon Moon rises and conspiracies close in on his family, Roland must lead a revolution to protect his allies and reshape the world.",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 8,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 8,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Release that Witch 1x1",
+          "id": "episode/release-that-witch-1x1",
+          "image": "https://img.watchanimeworld.one/img/thumb_1999_s1e1.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "Release that Witch 1x2",
+          "id": "episode/release-that-witch-1x2",
+          "image": "https://img.watchanimeworld.one/img/thumb_1999_s1e2.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "Release that Witch 1x3",
+          "id": "episode/release-that-witch-1x3",
+          "image": "https://img.watchanimeworld.one/img/thumb_1999_s1e3.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "Release that Witch 1x4",
+          "id": "episode/release-that-witch-1x4",
+          "image": "https://img.watchanimeworld.one/img/thumb_1999_s1e4.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "Release that Witch 1x5",
+          "id": "episode/release-that-witch-1x5",
+          "image": "https://img.watchanimeworld.one/img/thumb_1999_s1e5.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "Release that Witch 1x6",
+          "id": "episode/release-that-witch-1x6",
+          "image": "https://img.watchanimeworld.one/img/thumb_1999_s1e6.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "Release that Witch 1x7",
+          "id": "episode/release-that-witch-1x7",
+          "image": "https://img.watchanimeworld.one/img/thumb_1999_s1e7.webp",
+          "season": 1
+        },
+        {
+          "episode": 8,
+          "title": "Release that Witch 1x8",
+          "id": "episode/release-that-witch-1x8",
+          "image": "https://img.watchanimeworld.one/img/thumb_1999_s1e8.webp",
+          "season": 1
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/release-that-witch-1x2",
+      "episode_id": "episode/release-that-witch-1x2",
+      "title": "Release that Witch 1x1",
+      "episode_name": "Release that Witch 1x1",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1999_s1e2.webp",
+      "abyssid": "18156",
+      "abyssId": "18156",
+      "playxid": "ed058f6930a27493b8a5aabc8b0d4f70",
+      "playXID": "ed058f6930a27493b8a5aabc8b0d4f70",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18156",
+        "playXID": "ed058f6930a27493b8a5aabc8b0d4f70",
+        "streamId": "18156",
+        "dubPlayerSrc": "/dub-player/t/18156/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ed058f6930a27493b8a5aabc8b0d4f70&abyssId=18156"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18156",
+        "playXID": "ed058f6930a27493b8a5aabc8b0d4f70",
+        "streamId": "18156",
+        "dubPlayerSrc": "/dub-player/t/18156/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ed058f6930a27493b8a5aabc8b0d4f70&abyssId=18156"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/21445b7069345a1a850ee2daacfd5d8e",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/21445b7069345a1a850ee2daacfd5d8e"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18156",
+        "abyssId": "18156",
+        "playXID": "ed058f6930a27493b8a5aabc8b0d4f70",
+        "title": "Release that Witch",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "9Zop-crih"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "073es-hPq"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "vFDVetYAY"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/90738d7a03bc80daddba325a79f942db/master.m3u8?md5=UhXMuErZhN5ea_AZFn0HOQ&expires=1792165999",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/90738d7a03bc80daddba325a79f942db/master.m3u8?md5=UhXMuErZhN5ea_AZFn0HOQ&expires=1792165999",
+            "videoSource": "https://ravok.buzz/cdn/hls/90738d7a03bc80daddba325a79f942db/master.m3u8?md5=UhXMuErZhN5ea_AZFn0HOQ&expires=1792165999",
+            "videoImage": "https://as-cdn28.top/p/7X7_auf51deFqsCNwQ4QRNJLBtzBYANiBYss6sPoTpUVacbU9U9_QZtmnD2Nj1BDzpez-eL9K4MbI0tKDijyQw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "ed058f6930a27493b8a5aabc8b0d4f70",
+                "streamUrl": "https://ravok.buzz/cdn/hls/90738d7a03bc80daddba325a79f942db/master.m3u8?md5=UhXMuErZhN5ea_AZFn0HOQ&expires=1792165999",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/90738d7a03bc80daddba325a79f942db/master.m3u8?md5=UhXMuErZhN5ea_AZFn0HOQ&expires=1792165999",
+                "videoSource": "https://ravok.buzz/cdn/hls/90738d7a03bc80daddba325a79f942db/master.m3u8?md5=UhXMuErZhN5ea_AZFn0HOQ&expires=1792165999",
+                "link": "https://ravok.buzz/cdn/hls/90738d7a03bc80daddba325a79f942db/master.m3u8?md5=UhXMuErZhN5ea_AZFn0HOQ&expires=1792165999",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/7X7_auf51deFqsCNwQ4QRNJLBtzBYANiBYss6sPoTpUVacbU9U9_QZtmnD2Nj1BDzpez-eL9K4MbI0tKDijyQw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "9Zop-crih"
+        }
+      },
+      "fetched_at": "2026-10-16T13:53:29Z"
+    },
+    {
+      "id": "episode/release-that-witch-1x5",
+      "episode_id": "episode/release-that-witch-1x5",
+      "title": "Release that Witch 1x1",
+      "episode_name": "Release that Witch 1x1",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1999_s1e5.webp",
+      "abyssid": "18240",
+      "abyssId": "18240",
+      "playxid": "30d0da315d9888b7d7df6dfcb59d40e8",
+      "playXID": "30d0da315d9888b7d7df6dfcb59d40e8",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18240",
+        "playXID": "30d0da315d9888b7d7df6dfcb59d40e8",
+        "streamId": "18240",
+        "dubPlayerSrc": "/dub-player/t/18240/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=30d0da315d9888b7d7df6dfcb59d40e8&abyssId=18240"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18240",
+        "playXID": "30d0da315d9888b7d7df6dfcb59d40e8",
+        "streamId": "18240",
+        "dubPlayerSrc": "/dub-player/t/18240/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=30d0da315d9888b7d7df6dfcb59d40e8&abyssId=18240"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/211fa07fbd5ca833b4cfd48c462138a9",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/211fa07fbd5ca833b4cfd48c462138a9"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18240",
+        "abyssId": "18240",
+        "playXID": "30d0da315d9888b7d7df6dfcb59d40e8",
+        "title": "Release that Witch",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "GOefxnWyJ"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "Mcwzir3Ke"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "mrLiq10k2"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/23746923d8d8c3d1f7299bf71492c5d2/master.m3u8?md5=Y_c3VO6F26b2ZYrHLdKqQg&expires=1792166000",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/23746923d8d8c3d1f7299bf71492c5d2/master.m3u8?md5=Y_c3VO6F26b2ZYrHLdKqQg&expires=1792166000",
+            "videoSource": "https://ravok.buzz/cdn/hls/23746923d8d8c3d1f7299bf71492c5d2/master.m3u8?md5=Y_c3VO6F26b2ZYrHLdKqQg&expires=1792166000",
+            "videoImage": "https://as-cdn30.top/p/WYIxNl7k9FfsYdbz8IP8Uw2kWtIUSVlqc7PaSiDrPRRar6lf5DyCrDvdZqAmTA_EeOX1wex44tz1WoIhsfpPRQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "30d0da315d9888b7d7df6dfcb59d40e8",
+                "streamUrl": "https://ravok.buzz/cdn/hls/23746923d8d8c3d1f7299bf71492c5d2/master.m3u8?md5=Y_c3VO6F26b2ZYrHLdKqQg&expires=1792166000",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/23746923d8d8c3d1f7299bf71492c5d2/master.m3u8?md5=Y_c3VO6F26b2ZYrHLdKqQg&expires=1792166000",
+                "videoSource": "https://ravok.buzz/cdn/hls/23746923d8d8c3d1f7299bf71492c5d2/master.m3u8?md5=Y_c3VO6F26b2ZYrHLdKqQg&expires=1792166000",
+                "link": "https://ravok.buzz/cdn/hls/23746923d8d8c3d1f7299bf71492c5d2/master.m3u8?md5=Y_c3VO6F26b2ZYrHLdKqQg&expires=1792166000",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/WYIxNl7k9FfsYdbz8IP8Uw2kWtIUSVlqc7PaSiDrPRRar6lf5DyCrDvdZqAmTA_EeOX1wex44tz1WoIhsfpPRQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "GOefxnWyJ"
+        }
+      },
+      "fetched_at": "2026-10-16T13:53:30Z"
+    },
+    {
+      "id": "episode/release-that-witch-1x1",
+      "episode_id": "episode/release-that-witch-1x1",
+      "title": "Release that Witch 1x1",
+      "episode_name": "Release that Witch 1x1",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1999_s1e1.webp",
+      "abyssid": "18143",
+      "abyssId": "18143",
+      "playxid": "9f727bc55d5aa9dc9349ea9da97b1ff8",
+      "playXID": "9f727bc55d5aa9dc9349ea9da97b1ff8",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18143",
+        "playXID": "9f727bc55d5aa9dc9349ea9da97b1ff8",
+        "streamId": "18143",
+        "dubPlayerSrc": "/dub-player/t/18143/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9f727bc55d5aa9dc9349ea9da97b1ff8&abyssId=18143"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18143",
+        "playXID": "9f727bc55d5aa9dc9349ea9da97b1ff8",
+        "streamId": "18143",
+        "dubPlayerSrc": "/dub-player/t/18143/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9f727bc55d5aa9dc9349ea9da97b1ff8&abyssId=18143"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/f8531013695084f6fd79ed6d8e24b2d6",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/f8531013695084f6fd79ed6d8e24b2d6"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18143",
+        "abyssId": "18143",
+        "playXID": "9f727bc55d5aa9dc9349ea9da97b1ff8",
+        "title": "Release that Witch",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "tSYTFebuV"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "QxbqhT_j8"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "Z00rHgEd2"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/96a58a498759592eadbb9aefa448de72/master.m3u8?md5=P5rLn1ZufBpGj4wDt550Tw&expires=1792166000",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/96a58a498759592eadbb9aefa448de72/master.m3u8?md5=P5rLn1ZufBpGj4wDt550Tw&expires=1792166000",
+            "videoSource": "https://ravok.buzz/cdn/hls/96a58a498759592eadbb9aefa448de72/master.m3u8?md5=P5rLn1ZufBpGj4wDt550Tw&expires=1792166000",
+            "videoImage": "https://as-cdn31.top/p/n4Y-c8Ivg5pHXZW7yfaqrHcr-rb0SdA4aZBbflnSrDbfIchSrhOlDe80gotOT8PhNzHEe_Le-oTkanmI6ye_-Q.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "9f727bc55d5aa9dc9349ea9da97b1ff8",
+                "streamUrl": "https://ravok.buzz/cdn/hls/96a58a498759592eadbb9aefa448de72/master.m3u8?md5=P5rLn1ZufBpGj4wDt550Tw&expires=1792166000",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/96a58a498759592eadbb9aefa448de72/master.m3u8?md5=P5rLn1ZufBpGj4wDt550Tw&expires=1792166000",
+                "videoSource": "https://ravok.buzz/cdn/hls/96a58a498759592eadbb9aefa448de72/master.m3u8?md5=P5rLn1ZufBpGj4wDt550Tw&expires=1792166000",
+                "link": "https://ravok.buzz/cdn/hls/96a58a498759592eadbb9aefa448de72/master.m3u8?md5=P5rLn1ZufBpGj4wDt550Tw&expires=1792166000",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/n4Y-c8Ivg5pHXZW7yfaqrHcr-rb0SdA4aZBbflnSrDbfIchSrhOlDe80gotOT8PhNzHEe_Le-oTkanmI6ye_-Q.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "tSYTFebuV"
+        }
+      },
+      "fetched_at": "2026-10-16T13:53:30Z"
+    },
+    {
+      "id": "episode/release-that-witch-1x3",
+      "episode_id": "episode/release-that-witch-1x3",
+      "title": "Release that Witch 1x1",
+      "episode_name": "Release that Witch 1x1",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1999_s1e3.webp",
+      "abyssid": "18170",
+      "abyssId": "18170",
+      "playxid": "242693e0e518a473d4374f84de433521",
+      "playXID": "242693e0e518a473d4374f84de433521",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18170",
+        "playXID": "242693e0e518a473d4374f84de433521",
+        "streamId": "18170",
+        "dubPlayerSrc": "/dub-player/t/18170/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=242693e0e518a473d4374f84de433521&abyssId=18170"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18170",
+        "playXID": "242693e0e518a473d4374f84de433521",
+        "streamId": "18170",
+        "dubPlayerSrc": "/dub-player/t/18170/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=242693e0e518a473d4374f84de433521&abyssId=18170"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/ececec2d9bd1d1b5dd0411fb766e2f70",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/ececec2d9bd1d1b5dd0411fb766e2f70"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18170",
+        "abyssId": "18170",
+        "playXID": "242693e0e518a473d4374f84de433521",
+        "title": "Release that Witch",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "pfru_1HFh"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "E2YpMROIQ"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "YLwopj-kPR"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/8d87f7e3d72f440130b9381d1a10c5e8/master.m3u8?md5=5wuvMa8BoArs3-d_bKlK5Q&expires=1792166000",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/8d87f7e3d72f440130b9381d1a10c5e8/master.m3u8?md5=5wuvMa8BoArs3-d_bKlK5Q&expires=1792166000",
+            "videoSource": "https://ravok.buzz/cdn/hls/8d87f7e3d72f440130b9381d1a10c5e8/master.m3u8?md5=5wuvMa8BoArs3-d_bKlK5Q&expires=1792166000",
+            "videoImage": "https://as-cdn29.top/p/hbbcLe4QEFblhsMt1n9kSYd4M9z-L3mmT98aWW-GB8LjGJ8sTRi014Fm_ZfaEogTPba9itOAKiYCYNCciEpVdQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "242693e0e518a473d4374f84de433521",
+                "streamUrl": "https://ravok.buzz/cdn/hls/8d87f7e3d72f440130b9381d1a10c5e8/master.m3u8?md5=5wuvMa8BoArs3-d_bKlK5Q&expires=1792166000",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/8d87f7e3d72f440130b9381d1a10c5e8/master.m3u8?md5=5wuvMa8BoArs3-d_bKlK5Q&expires=1792166000",
+                "videoSource": "https://ravok.buzz/cdn/hls/8d87f7e3d72f440130b9381d1a10c5e8/master.m3u8?md5=5wuvMa8BoArs3-d_bKlK5Q&expires=1792166000",
+                "link": "https://ravok.buzz/cdn/hls/8d87f7e3d72f440130b9381d1a10c5e8/master.m3u8?md5=5wuvMa8BoArs3-d_bKlK5Q&expires=1792166000",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/hbbcLe4QEFblhsMt1n9kSYd4M9z-L3mmT98aWW-GB8LjGJ8sTRi014Fm_ZfaEogTPba9itOAKiYCYNCciEpVdQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "pfru_1HFh"
+        }
+      },
+      "fetched_at": "2026-10-16T13:53:30Z"
+    },
+    {
+      "id": "episode/release-that-witch-1x6",
+      "episode_id": "episode/release-that-witch-1x6",
+      "title": "Release that Witch 1x1",
+      "episode_name": "Release that Witch 1x1",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1999_s1e6.webp",
+      "abyssid": "18238",
+      "abyssId": "18238",
+      "playxid": "8a29a411e91931b2c009daf000f9ed7d",
+      "playXID": "8a29a411e91931b2c009daf000f9ed7d",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18238",
+        "playXID": "8a29a411e91931b2c009daf000f9ed7d",
+        "streamId": "18238",
+        "dubPlayerSrc": "/dub-player/t/18238/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8a29a411e91931b2c009daf000f9ed7d&abyssId=18238"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18238",
+        "playXID": "8a29a411e91931b2c009daf000f9ed7d",
+        "streamId": "18238",
+        "dubPlayerSrc": "/dub-player/t/18238/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8a29a411e91931b2c009daf000f9ed7d&abyssId=18238"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/c766cb374fd37fb59517aac231dafc81",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/c766cb374fd37fb59517aac231dafc81"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18238",
+        "abyssId": "18238",
+        "playXID": "8a29a411e91931b2c009daf000f9ed7d",
+        "title": "Release that Witch",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "0nvv3QXxF"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "KMVg5HSb2"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "-OAkucAdi"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/21d00227b589cd84c042be2a4e875f4b/master.m3u8?md5=WAMq4dE638_o29XAFckCHA&expires=1792166001",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/21d00227b589cd84c042be2a4e875f4b/master.m3u8?md5=WAMq4dE638_o29XAFckCHA&expires=1792166001",
+            "videoSource": "https://ravok.buzz/cdn/hls/21d00227b589cd84c042be2a4e875f4b/master.m3u8?md5=WAMq4dE638_o29XAFckCHA&expires=1792166001",
+            "videoImage": "https://as-cdn30.top/p/qs_-ntzD9MBsN9h-03Q6pvVQ-YN8e0ZdTwVAVBJP1yG0V2DwnC-hqcFq1mTA_UVczXgP0vUg_s8s6MqAXUZjHw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "8a29a411e91931b2c009daf000f9ed7d",
+                "streamUrl": "https://ravok.buzz/cdn/hls/21d00227b589cd84c042be2a4e875f4b/master.m3u8?md5=WAMq4dE638_o29XAFckCHA&expires=1792166001",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/21d00227b589cd84c042be2a4e875f4b/master.m3u8?md5=WAMq4dE638_o29XAFckCHA&expires=1792166001",
+                "videoSource": "https://ravok.buzz/cdn/hls/21d00227b589cd84c042be2a4e875f4b/master.m3u8?md5=WAMq4dE638_o29XAFckCHA&expires=1792166001",
+                "link": "https://ravok.buzz/cdn/hls/21d00227b589cd84c042be2a4e875f4b/master.m3u8?md5=WAMq4dE638_o29XAFckCHA&expires=1792166001",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/qs_-ntzD9MBsN9h-03Q6pvVQ-YN8e0ZdTwVAVBJP1yG0V2DwnC-hqcFq1mTA_UVczXgP0vUg_s8s6MqAXUZjHw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "0nvv3QXxF"
+        }
+      },
+      "fetched_at": "2026-10-16T13:53:31Z"
+    },
+    {
+      "id": "episode/release-that-witch-1x4",
+      "episode_id": "episode/release-that-witch-1x4",
+      "title": "Release that Witch 1x1",
+      "episode_name": "Release that Witch 1x1",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1999_s1e4.webp",
+      "abyssid": "18196",
+      "abyssId": "18196",
+      "playxid": "64b35642ef7b33d20fb435165c8fd904",
+      "playXID": "64b35642ef7b33d20fb435165c8fd904",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18196",
+        "playXID": "64b35642ef7b33d20fb435165c8fd904",
+        "streamId": "18196",
+        "dubPlayerSrc": "/dub-player/t/18196/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=64b35642ef7b33d20fb435165c8fd904&abyssId=18196"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18196",
+        "playXID": "64b35642ef7b33d20fb435165c8fd904",
+        "streamId": "18196",
+        "dubPlayerSrc": "/dub-player/t/18196/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=64b35642ef7b33d20fb435165c8fd904&abyssId=18196"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/0a03d5e4473c0629cfb20c5c31543b06",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/0a03d5e4473c0629cfb20c5c31543b06"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18196",
+        "abyssId": "18196",
+        "playXID": "64b35642ef7b33d20fb435165c8fd904",
+        "title": "Release that Witch",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "N6pAOYFUZ"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "U1-TKaHnnE"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "EgwXjGpAi"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/da5d7bc3e19da7ef1aa17106d99ace31/master.m3u8?md5=QMnmRD6qGCjUTV4mCmtCkw&expires=1792166002",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/da5d7bc3e19da7ef1aa17106d99ace31/master.m3u8?md5=QMnmRD6qGCjUTV4mCmtCkw&expires=1792166002",
+            "videoSource": "https://ravok.buzz/cdn/hls/da5d7bc3e19da7ef1aa17106d99ace31/master.m3u8?md5=QMnmRD6qGCjUTV4mCmtCkw&expires=1792166002",
+            "videoImage": "https://as-cdn28.top/p/A5aIdjTpnHCoITHOXlT9l4hpNwTi1sPrU84YCHMJe8eqwCXcvZ67KPBFxYFoe94K4VAu9UG7oVVJp1BDro6KMA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "64b35642ef7b33d20fb435165c8fd904",
+                "streamUrl": "https://ravok.buzz/cdn/hls/da5d7bc3e19da7ef1aa17106d99ace31/master.m3u8?md5=QMnmRD6qGCjUTV4mCmtCkw&expires=1792166002",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/da5d7bc3e19da7ef1aa17106d99ace31/master.m3u8?md5=QMnmRD6qGCjUTV4mCmtCkw&expires=1792166002",
+                "videoSource": "https://ravok.buzz/cdn/hls/da5d7bc3e19da7ef1aa17106d99ace31/master.m3u8?md5=QMnmRD6qGCjUTV4mCmtCkw&expires=1792166002",
+                "link": "https://ravok.buzz/cdn/hls/da5d7bc3e19da7ef1aa17106d99ace31/master.m3u8?md5=QMnmRD6qGCjUTV4mCmtCkw&expires=1792166002",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/A5aIdjTpnHCoITHOXlT9l4hpNwTi1sPrU84YCHMJe8eqwCXcvZ67KPBFxYFoe94K4VAu9UG7oVVJp1BDro6KMA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "N6pAOYFUZ"
+        }
+      },
+      "fetched_at": "2026-10-16T13:53:32Z"
+    },
+    {
+      "id": "episode/release-that-witch-1x8",
+      "episode_id": "episode/release-that-witch-1x8",
+      "title": "Release that Witch 1x1",
+      "episode_name": "Release that Witch 1x1",
+      "episode_number": 8,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1999_s1e8.webp",
+      "abyssid": "18272",
+      "abyssId": "18272",
+      "playxid": "3f3267d02dea7f94781bd5a437733db3",
+      "playXID": "3f3267d02dea7f94781bd5a437733db3",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18272",
+        "playXID": "3f3267d02dea7f94781bd5a437733db3",
+        "streamId": "18272",
+        "dubPlayerSrc": "/dub-player/t/18272/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=3f3267d02dea7f94781bd5a437733db3&abyssId=18272"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18272",
+        "playXID": "3f3267d02dea7f94781bd5a437733db3",
+        "streamId": "18272",
+        "dubPlayerSrc": "/dub-player/t/18272/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=3f3267d02dea7f94781bd5a437733db3&abyssId=18272"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/56fd8394eb88ae240cd0de2e9a8803a2",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/56fd8394eb88ae240cd0de2e9a8803a2"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18272",
+        "abyssId": "18272",
+        "playXID": "3f3267d02dea7f94781bd5a437733db3",
+        "title": "Release that Witch",
+        "season": 1,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "TeryA6KSz"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "rgWdDnevH"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "2s9z8cq22"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/d38502731a4c346a9aa48eaed93d3ae1/master.m3u8?md5=dIJRy43bhEC3jPZUG6HFug&expires=1792166002",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/d38502731a4c346a9aa48eaed93d3ae1/master.m3u8?md5=dIJRy43bhEC3jPZUG6HFug&expires=1792166002",
+            "videoSource": "https://ravok.buzz/cdn/hls/d38502731a4c346a9aa48eaed93d3ae1/master.m3u8?md5=dIJRy43bhEC3jPZUG6HFug&expires=1792166002",
+            "videoImage": "https://as-cdn29.top/p/CiUvODrKOGbHsiggqQ_lNU7-1BpTkR0q4QhiXHesJypy0KCWhhgYIImr0QZnvLQrGt1iAm_epjrM4S_lW3Hlhw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "3f3267d02dea7f94781bd5a437733db3",
+                "streamUrl": "https://ravok.buzz/cdn/hls/d38502731a4c346a9aa48eaed93d3ae1/master.m3u8?md5=dIJRy43bhEC3jPZUG6HFug&expires=1792166002",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/d38502731a4c346a9aa48eaed93d3ae1/master.m3u8?md5=dIJRy43bhEC3jPZUG6HFug&expires=1792166002",
+                "videoSource": "https://ravok.buzz/cdn/hls/d38502731a4c346a9aa48eaed93d3ae1/master.m3u8?md5=dIJRy43bhEC3jPZUG6HFug&expires=1792166002",
+                "link": "https://ravok.buzz/cdn/hls/d38502731a4c346a9aa48eaed93d3ae1/master.m3u8?md5=dIJRy43bhEC3jPZUG6HFug&expires=1792166002",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/CiUvODrKOGbHsiggqQ_lNU7-1BpTkR0q4QhiXHesJypy0KCWhhgYIImr0QZnvLQrGt1iAm_epjrM4S_lW3Hlhw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "TeryA6KSz"
+        }
+      },
+      "fetched_at": "2026-10-16T13:53:32Z"
+    },
+    {
+      "id": "episode/release-that-witch-1x7",
+      "episode_id": "episode/release-that-witch-1x7",
+      "title": "Release that Witch 1x1",
+      "episode_name": "Release that Witch 1x1",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1999_s1e7.webp",
+      "abyssid": "18239",
+      "abyssId": "18239",
+      "playxid": "693ba0757b77ceb996e90c00431d9ebc",
+      "playXID": "693ba0757b77ceb996e90c00431d9ebc",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18239",
+        "playXID": "693ba0757b77ceb996e90c00431d9ebc",
+        "streamId": "18239",
+        "dubPlayerSrc": "/dub-player/t/18239/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=693ba0757b77ceb996e90c00431d9ebc&abyssId=18239"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18239",
+        "playXID": "693ba0757b77ceb996e90c00431d9ebc",
+        "streamId": "18239",
+        "dubPlayerSrc": "/dub-player/t/18239/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=693ba0757b77ceb996e90c00431d9ebc&abyssId=18239"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/234d5ba71b7020a2389ab5fdfd697149",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/234d5ba71b7020a2389ab5fdfd697149"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18239",
+        "abyssId": "18239",
+        "playXID": "693ba0757b77ceb996e90c00431d9ebc",
+        "title": "Release that Witch",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "uskYSvMJR"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "9WEPgnwT2"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "sfUnxNE1c"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/7e79698490722ccda331e7198b38a021/master.m3u8?md5=X3MwQ7BvuQjwBig6sDztBw&expires=1792166002",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/7e79698490722ccda331e7198b38a021/master.m3u8?md5=X3MwQ7BvuQjwBig6sDztBw&expires=1792166002",
+            "videoSource": "https://ravok.buzz/cdn/hls/7e79698490722ccda331e7198b38a021/master.m3u8?md5=X3MwQ7BvuQjwBig6sDztBw&expires=1792166002",
+            "videoImage": "https://as-cdn29.top/p/7Dgr1l_6bc5mxqyvGdRzV4ZD5ig7lQdKSm88X8VIqM9vy48jQZaOqGx-F1d3OrJpYgVrIlbqL4wVTBXi72Mrww.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "693ba0757b77ceb996e90c00431d9ebc",
+                "streamUrl": "https://ravok.buzz/cdn/hls/7e79698490722ccda331e7198b38a021/master.m3u8?md5=X3MwQ7BvuQjwBig6sDztBw&expires=1792166002",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/7e79698490722ccda331e7198b38a021/master.m3u8?md5=X3MwQ7BvuQjwBig6sDztBw&expires=1792166002",
+                "videoSource": "https://ravok.buzz/cdn/hls/7e79698490722ccda331e7198b38a021/master.m3u8?md5=X3MwQ7BvuQjwBig6sDztBw&expires=1792166002",
+                "link": "https://ravok.buzz/cdn/hls/7e79698490722ccda331e7198b38a021/master.m3u8?md5=X3MwQ7BvuQjwBig6sDztBw&expires=1792166002",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/7Dgr1l_6bc5mxqyvGdRzV4ZD5ig7lQdKSm88X8VIqM9vy48jQZaOqGx-F1d3OrJpYgVrIlbqL4wVTBXi72Mrww.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "uskYSvMJR"
+        }
+      },
+      "fetched_at": "2026-10-16T13:53:32Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T13:53:27Z",
+  "updated_at": "2026-10-16T13:53:32Z"
+}

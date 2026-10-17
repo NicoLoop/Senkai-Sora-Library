@@ -1,0 +1,1501 @@
+{
+  "id": "series/sentenced-to-be-a-hero",
+  "series_name": "Sentenced to Be a Hero",
+  "title": "Sentenced to Be a Hero",
+  "banner": "https://image.tmdb.org/t/p/w1280/k8uBEraJWZf9o7oJbaVHrECwvjC.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/k8bh5mvHDx3czHSF56v9lRyulLC.jpg",
+  "genra": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Drama",
+    "Fantasy"
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Drama",
+    "Fantasy"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Japanese",
+    "Tamil",
+    "Telugu"
+  ],
+  "synopsis": "In a world where heroism is a punishment, Xylo Forbartz, a condemned goddess killer, battles endless hordes of monstrous abominations as part of Penal Hero Unit 9004. Death is no escape, only a cycle of resurrection and relentless combat. But when Xylo encounters a mysterious new goddess, their unlikely alliance sparks a rebellion that could shatter the chains of eternal punishment.",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Sentenced to Be a Hero 1x1",
+          "id": "episode/sentenced-to-be-a-hero-1x1",
+          "image": "https://img.watchanimeworld.one/img/thumb_1958_s1e1.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "Sentenced to Be a Hero 1x2",
+          "id": "episode/sentenced-to-be-a-hero-1x2",
+          "image": "https://img.watchanimeworld.one/img/thumb_1958_s1e2.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "Sentenced to Be a Hero 1x3",
+          "id": "episode/sentenced-to-be-a-hero-1x3",
+          "image": "https://img.watchanimeworld.one/img/thumb_1958_s1e3.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "Sentenced to Be a Hero 1x4",
+          "id": "episode/sentenced-to-be-a-hero-1x4",
+          "image": "https://img.watchanimeworld.one/img/thumb_1958_s1e4.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "Sentenced to Be a Hero 1x5",
+          "id": "episode/sentenced-to-be-a-hero-1x5",
+          "image": "https://img.watchanimeworld.one/img/thumb_1958_s1e5.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "Sentenced to Be a Hero 1x6",
+          "id": "episode/sentenced-to-be-a-hero-1x6",
+          "image": "https://img.watchanimeworld.one/img/thumb_1958_s1e6.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "Sentenced to Be a Hero 1x7",
+          "id": "episode/sentenced-to-be-a-hero-1x7",
+          "image": "https://img.watchanimeworld.one/img/thumb_1958_s1e7.webp",
+          "season": 1
+        },
+        {
+          "episode": 8,
+          "title": "Sentenced to Be a Hero 1x8",
+          "id": "episode/sentenced-to-be-a-hero-1x8",
+          "image": "https://img.watchanimeworld.one/img/thumb_1958_s1e8.webp",
+          "season": 1
+        },
+        {
+          "episode": 9,
+          "title": "Sentenced to Be a Hero 1x9",
+          "id": "episode/sentenced-to-be-a-hero-1x9",
+          "image": "https://img.watchanimeworld.one/img/thumb_1958_s1e9.webp",
+          "season": 1
+        },
+        {
+          "episode": 10,
+          "title": "Sentenced to Be a Hero 1x10",
+          "id": "episode/sentenced-to-be-a-hero-1x10",
+          "image": "https://img.watchanimeworld.one/img/thumb_1958_s1e10.webp",
+          "season": 1
+        },
+        {
+          "episode": 11,
+          "title": "Sentenced to Be a Hero 1x11",
+          "id": "episode/sentenced-to-be-a-hero-1x11",
+          "image": "https://img.watchanimeworld.one/img/thumb_1958_s1e11.webp",
+          "season": 1
+        },
+        {
+          "episode": 12,
+          "title": "Sentenced to Be a Hero 1x12",
+          "id": "episode/sentenced-to-be-a-hero-1x12",
+          "image": "https://img.watchanimeworld.one/img/thumb_1958_s1e12.webp",
+          "season": 1
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/sentenced-to-be-a-hero-1x1",
+      "episode_id": "episode/sentenced-to-be-a-hero-1x1",
+      "title": "Sentenced to Be a Hero 1x1",
+      "episode_name": "Sentenced to Be a Hero 1x1",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1958_s1e1.webp",
+      "abyssid": "17906",
+      "abyssId": "17906",
+      "playxid": "2167fcf808b8f383e7e44e25305a08a8",
+      "playXID": "2167fcf808b8f383e7e44e25305a08a8",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17906",
+        "playXID": "2167fcf808b8f383e7e44e25305a08a8",
+        "streamId": "17906",
+        "dubPlayerSrc": "/dub-player/t/17906/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2167fcf808b8f383e7e44e25305a08a8&abyssId=17906"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17906",
+        "playXID": "2167fcf808b8f383e7e44e25305a08a8",
+        "streamId": "17906",
+        "dubPlayerSrc": "/dub-player/t/17906/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2167fcf808b8f383e7e44e25305a08a8&abyssId=17906"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/0e99eacf79d6fee9b99f889e6da46c0a",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/0e99eacf79d6fee9b99f889e6da46c0a"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17906",
+        "abyssId": "17906",
+        "playXID": "2167fcf808b8f383e7e44e25305a08a8",
+        "title": "Sentenced to Be a Hero",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "VeGDv_fNg"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "U_LDy0gRk"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "oqmnCedxG"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "zig23GhaA"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "AAWvZG-Vc"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/127172a5875bc939ccd8df51154e39c7/master.m3u8?md5=DTbc_iQIXrwe9RRV59PTUA&expires=1792166031",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/127172a5875bc939ccd8df51154e39c7/master.m3u8?md5=DTbc_iQIXrwe9RRV59PTUA&expires=1792166031",
+            "videoSource": "https://ravok.buzz/cdn/hls/127172a5875bc939ccd8df51154e39c7/master.m3u8?md5=DTbc_iQIXrwe9RRV59PTUA&expires=1792166031",
+            "videoImage": "https://as-cdn31.top/p/Y2h4tSNLqJ-6deHJ-Opnx_PLrhoBxz_pNv30SjvHlrrYi8Hps7_0ND8J286dEZS7QNoiKoVtJr_YrgT8_0cjPw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "2167fcf808b8f383e7e44e25305a08a8",
+                "streamUrl": "https://ravok.buzz/cdn/hls/127172a5875bc939ccd8df51154e39c7/master.m3u8?md5=DTbc_iQIXrwe9RRV59PTUA&expires=1792166031",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/127172a5875bc939ccd8df51154e39c7/master.m3u8?md5=DTbc_iQIXrwe9RRV59PTUA&expires=1792166031",
+                "videoSource": "https://ravok.buzz/cdn/hls/127172a5875bc939ccd8df51154e39c7/master.m3u8?md5=DTbc_iQIXrwe9RRV59PTUA&expires=1792166031",
+                "link": "https://ravok.buzz/cdn/hls/127172a5875bc939ccd8df51154e39c7/master.m3u8?md5=DTbc_iQIXrwe9RRV59PTUA&expires=1792166031",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/Y2h4tSNLqJ-6deHJ-Opnx_PLrhoBxz_pNv30SjvHlrrYi8Hps7_0ND8J286dEZS7QNoiKoVtJr_YrgT8_0cjPw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "VeGDv_fNg"
+        }
+      },
+      "fetched_at": "2026-10-16T13:54:01Z"
+    },
+    {
+      "id": "episode/sentenced-to-be-a-hero-1x3",
+      "episode_id": "episode/sentenced-to-be-a-hero-1x3",
+      "title": "Sentenced to Be a Hero 1x1",
+      "episode_name": "Sentenced to Be a Hero 1x1",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1958_s1e3.webp",
+      "abyssid": "17916",
+      "abyssId": "17916",
+      "playxid": "cb53c399f26849a87fe718b19e8c16ca",
+      "playXID": "cb53c399f26849a87fe718b19e8c16ca",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17916",
+        "playXID": "cb53c399f26849a87fe718b19e8c16ca",
+        "streamId": "17916",
+        "dubPlayerSrc": "/dub-player/t/17916/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=cb53c399f26849a87fe718b19e8c16ca&abyssId=17916"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17916",
+        "playXID": "cb53c399f26849a87fe718b19e8c16ca",
+        "streamId": "17916",
+        "dubPlayerSrc": "/dub-player/t/17916/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=cb53c399f26849a87fe718b19e8c16ca&abyssId=17916"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/0ee4791bc282b18c03ab31072ffbbecd",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/0ee4791bc282b18c03ab31072ffbbecd"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17916",
+        "abyssId": "17916",
+        "playXID": "cb53c399f26849a87fe718b19e8c16ca",
+        "title": "Sentenced to Be a Hero",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "TkgGnh636"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "PQ5ttZfvW"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "WPfhBreLV"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "4eDc0dJHbF"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "bhN0I4HJ9k"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/a75a878307d2827782c59209b3e86751/master.m3u8?md5=I4dxABw7Kc0IoexlgALfPQ&expires=1792166031",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/a75a878307d2827782c59209b3e86751/master.m3u8?md5=I4dxABw7Kc0IoexlgALfPQ&expires=1792166031",
+            "videoSource": "https://ravok.buzz/cdn/hls/a75a878307d2827782c59209b3e86751/master.m3u8?md5=I4dxABw7Kc0IoexlgALfPQ&expires=1792166031",
+            "videoImage": "https://as-cdn30.top/p/4G3qPHNAOhhH0fEyZrVOlYxCRBXMUsPn9Kk--Z8Vvp05sbiiGmGhw2WyUUYuLuoc9cfnQdRSxN-mRUTwaetGVw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "cb53c399f26849a87fe718b19e8c16ca",
+                "streamUrl": "https://ravok.buzz/cdn/hls/a75a878307d2827782c59209b3e86751/master.m3u8?md5=I4dxABw7Kc0IoexlgALfPQ&expires=1792166031",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/a75a878307d2827782c59209b3e86751/master.m3u8?md5=I4dxABw7Kc0IoexlgALfPQ&expires=1792166031",
+                "videoSource": "https://ravok.buzz/cdn/hls/a75a878307d2827782c59209b3e86751/master.m3u8?md5=I4dxABw7Kc0IoexlgALfPQ&expires=1792166031",
+                "link": "https://ravok.buzz/cdn/hls/a75a878307d2827782c59209b3e86751/master.m3u8?md5=I4dxABw7Kc0IoexlgALfPQ&expires=1792166031",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/4G3qPHNAOhhH0fEyZrVOlYxCRBXMUsPn9Kk--Z8Vvp05sbiiGmGhw2WyUUYuLuoc9cfnQdRSxN-mRUTwaetGVw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "TkgGnh636"
+        }
+      },
+      "fetched_at": "2026-10-16T13:54:01Z"
+    },
+    {
+      "id": "episode/sentenced-to-be-a-hero-1x5",
+      "episode_id": "episode/sentenced-to-be-a-hero-1x5",
+      "title": "Sentenced to Be a Hero 1x1",
+      "episode_name": "Sentenced to Be a Hero 1x1",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1958_s1e5.webp",
+      "abyssid": "17979",
+      "abyssId": "17979",
+      "playxid": "a34d4cd3742d7f685fde716d42acba64",
+      "playXID": "a34d4cd3742d7f685fde716d42acba64",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17979",
+        "playXID": "a34d4cd3742d7f685fde716d42acba64",
+        "streamId": "17979",
+        "dubPlayerSrc": "/dub-player/t/17979/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a34d4cd3742d7f685fde716d42acba64&abyssId=17979"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17979",
+        "playXID": "a34d4cd3742d7f685fde716d42acba64",
+        "streamId": "17979",
+        "dubPlayerSrc": "/dub-player/t/17979/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a34d4cd3742d7f685fde716d42acba64&abyssId=17979"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/9ff3e121444c4d8c0efd009c98147f72",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/9ff3e121444c4d8c0efd009c98147f72"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17979",
+        "abyssId": "17979",
+        "playXID": "a34d4cd3742d7f685fde716d42acba64",
+        "title": "Sentenced to Be a Hero",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "aXBcq3WCq"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "tGR5-s7hZ"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "Q0W_p2rh6"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "q2t1CW9OY"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "B60IF1Gni"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/31fdec68a301b6d39ed341de12e4d7b9/master.m3u8?md5=sLWcIVa9YlbAARiCB3eZ0g&expires=1792166031",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/31fdec68a301b6d39ed341de12e4d7b9/master.m3u8?md5=sLWcIVa9YlbAARiCB3eZ0g&expires=1792166031",
+            "videoSource": "https://ravok.buzz/cdn/hls/31fdec68a301b6d39ed341de12e4d7b9/master.m3u8?md5=sLWcIVa9YlbAARiCB3eZ0g&expires=1792166031",
+            "videoImage": "https://as-cdn30.top/p/Vnz19gUZjO1kvg8CD6NobTKRkz5XmnH7mlwhrOA-A_CCIKwD68jtHrOb5BZ4lk25AZpWv8rJFRWYJ5jh3bMoAg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "a34d4cd3742d7f685fde716d42acba64",
+                "streamUrl": "https://ravok.buzz/cdn/hls/31fdec68a301b6d39ed341de12e4d7b9/master.m3u8?md5=sLWcIVa9YlbAARiCB3eZ0g&expires=1792166031",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/31fdec68a301b6d39ed341de12e4d7b9/master.m3u8?md5=sLWcIVa9YlbAARiCB3eZ0g&expires=1792166031",
+                "videoSource": "https://ravok.buzz/cdn/hls/31fdec68a301b6d39ed341de12e4d7b9/master.m3u8?md5=sLWcIVa9YlbAARiCB3eZ0g&expires=1792166031",
+                "link": "https://ravok.buzz/cdn/hls/31fdec68a301b6d39ed341de12e4d7b9/master.m3u8?md5=sLWcIVa9YlbAARiCB3eZ0g&expires=1792166031",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/Vnz19gUZjO1kvg8CD6NobTKRkz5XmnH7mlwhrOA-A_CCIKwD68jtHrOb5BZ4lk25AZpWv8rJFRWYJ5jh3bMoAg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "aXBcq3WCq"
+        }
+      },
+      "fetched_at": "2026-10-16T13:54:01Z"
+    },
+    {
+      "id": "episode/sentenced-to-be-a-hero-1x2",
+      "episode_id": "episode/sentenced-to-be-a-hero-1x2",
+      "title": "Sentenced to Be a Hero 1x1",
+      "episode_name": "Sentenced to Be a Hero 1x1",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1958_s1e2.webp",
+      "abyssid": "17907",
+      "abyssId": "17907",
+      "playxid": "b296faad3a199ff1e2c55075e1f544d2",
+      "playXID": "b296faad3a199ff1e2c55075e1f544d2",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17907",
+        "playXID": "b296faad3a199ff1e2c55075e1f544d2",
+        "streamId": "17907",
+        "dubPlayerSrc": "/dub-player/t/17907/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b296faad3a199ff1e2c55075e1f544d2&abyssId=17907"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17907",
+        "playXID": "b296faad3a199ff1e2c55075e1f544d2",
+        "streamId": "17907",
+        "dubPlayerSrc": "/dub-player/t/17907/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b296faad3a199ff1e2c55075e1f544d2&abyssId=17907"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/30aaa035ea6addf3032dc3d63b674344",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/30aaa035ea6addf3032dc3d63b674344"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17907",
+        "abyssId": "17907",
+        "playXID": "b296faad3a199ff1e2c55075e1f544d2",
+        "title": "Sentenced to Be a Hero",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "EMKbsx71t"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "XKSkJLm1c"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "G1p8K2098"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "R_Z1dj1Km"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "fWUFuqp0d"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/2f05cbb37e515e37229c5d5a63f8b9ec/master.m3u8?md5=-Kz9KJhzRf1xlW8vN1QJYA&expires=1792166032",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/2f05cbb37e515e37229c5d5a63f8b9ec/master.m3u8?md5=-Kz9KJhzRf1xlW8vN1QJYA&expires=1792166032",
+            "videoSource": "https://ravok.buzz/cdn/hls/2f05cbb37e515e37229c5d5a63f8b9ec/master.m3u8?md5=-Kz9KJhzRf1xlW8vN1QJYA&expires=1792166032",
+            "videoImage": "https://as-cdn27.top/p/bIhF3Usv6At81z5SXQe6Q4T3Wkh7gvbWOOpcJZRh_-B1bhkx-fYIANVxclT_exiKvMhXYIE3rUc52RFbPvgo2g.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "b296faad3a199ff1e2c55075e1f544d2",
+                "streamUrl": "https://ravok.buzz/cdn/hls/2f05cbb37e515e37229c5d5a63f8b9ec/master.m3u8?md5=-Kz9KJhzRf1xlW8vN1QJYA&expires=1792166032",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/2f05cbb37e515e37229c5d5a63f8b9ec/master.m3u8?md5=-Kz9KJhzRf1xlW8vN1QJYA&expires=1792166032",
+                "videoSource": "https://ravok.buzz/cdn/hls/2f05cbb37e515e37229c5d5a63f8b9ec/master.m3u8?md5=-Kz9KJhzRf1xlW8vN1QJYA&expires=1792166032",
+                "link": "https://ravok.buzz/cdn/hls/2f05cbb37e515e37229c5d5a63f8b9ec/master.m3u8?md5=-Kz9KJhzRf1xlW8vN1QJYA&expires=1792166032",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/bIhF3Usv6At81z5SXQe6Q4T3Wkh7gvbWOOpcJZRh_-B1bhkx-fYIANVxclT_exiKvMhXYIE3rUc52RFbPvgo2g.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "EMKbsx71t"
+        }
+      },
+      "fetched_at": "2026-10-16T13:54:02Z"
+    },
+    {
+      "id": "episode/sentenced-to-be-a-hero-1x4",
+      "episode_id": "episode/sentenced-to-be-a-hero-1x4",
+      "title": "Sentenced to Be a Hero 1x1",
+      "episode_name": "Sentenced to Be a Hero 1x1",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1958_s1e4.webp",
+      "abyssid": "17940",
+      "abyssId": "17940",
+      "playxid": "f08ddeeefd0099a226d98ab014e6e3ca",
+      "playXID": "f08ddeeefd0099a226d98ab014e6e3ca",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17940",
+        "playXID": "f08ddeeefd0099a226d98ab014e6e3ca",
+        "streamId": "17940",
+        "dubPlayerSrc": "/dub-player/t/17940/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f08ddeeefd0099a226d98ab014e6e3ca&abyssId=17940"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17940",
+        "playXID": "f08ddeeefd0099a226d98ab014e6e3ca",
+        "streamId": "17940",
+        "dubPlayerSrc": "/dub-player/t/17940/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f08ddeeefd0099a226d98ab014e6e3ca&abyssId=17940"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/5f679cac1ebdeda165eb49cc3015fd9e",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/5f679cac1ebdeda165eb49cc3015fd9e"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17940",
+        "abyssId": "17940",
+        "playXID": "f08ddeeefd0099a226d98ab014e6e3ca",
+        "title": "Sentenced to Be a Hero",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "25-2k5h6o"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "UM6zRdSyX"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "FhWqQobeA"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "MpTW0MlC_2"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "RQeksacAp"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/de7b0de027573eff28ab5651f78aeaeb/master.m3u8?md5=KhBysy68GZGP6wiCLq_tnA&expires=1792166032",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/de7b0de027573eff28ab5651f78aeaeb/master.m3u8?md5=KhBysy68GZGP6wiCLq_tnA&expires=1792166032",
+            "videoSource": "https://ravok.buzz/cdn/hls/de7b0de027573eff28ab5651f78aeaeb/master.m3u8?md5=KhBysy68GZGP6wiCLq_tnA&expires=1792166032",
+            "videoImage": "https://as-cdn30.top/p/AdrHPTiYv59tgNqkVNE5kNZyXGFzWpVgK9LMF0M7AsiRc2UXsfk5H8KLvraeFvA6SIUFAB8gMJ5tVN2Ag71M7Q.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "f08ddeeefd0099a226d98ab014e6e3ca",
+                "streamUrl": "https://ravok.buzz/cdn/hls/de7b0de027573eff28ab5651f78aeaeb/master.m3u8?md5=KhBysy68GZGP6wiCLq_tnA&expires=1792166032",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/de7b0de027573eff28ab5651f78aeaeb/master.m3u8?md5=KhBysy68GZGP6wiCLq_tnA&expires=1792166032",
+                "videoSource": "https://ravok.buzz/cdn/hls/de7b0de027573eff28ab5651f78aeaeb/master.m3u8?md5=KhBysy68GZGP6wiCLq_tnA&expires=1792166032",
+                "link": "https://ravok.buzz/cdn/hls/de7b0de027573eff28ab5651f78aeaeb/master.m3u8?md5=KhBysy68GZGP6wiCLq_tnA&expires=1792166032",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/AdrHPTiYv59tgNqkVNE5kNZyXGFzWpVgK9LMF0M7AsiRc2UXsfk5H8KLvraeFvA6SIUFAB8gMJ5tVN2Ag71M7Q.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "25-2k5h6o"
+        }
+      },
+      "fetched_at": "2026-10-16T13:54:02Z"
+    },
+    {
+      "id": "episode/sentenced-to-be-a-hero-1x7",
+      "episode_id": "episode/sentenced-to-be-a-hero-1x7",
+      "title": "Sentenced to Be a Hero 1x1",
+      "episode_name": "Sentenced to Be a Hero 1x1",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1958_s1e7.webp",
+      "abyssid": "18009",
+      "abyssId": "18009",
+      "playxid": "e4eb156ab5ddb01cceec9a1bf29e3be5",
+      "playXID": "e4eb156ab5ddb01cceec9a1bf29e3be5",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18009",
+        "playXID": "e4eb156ab5ddb01cceec9a1bf29e3be5",
+        "streamId": "18009",
+        "dubPlayerSrc": "/dub-player/t/18009/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e4eb156ab5ddb01cceec9a1bf29e3be5&abyssId=18009"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18009",
+        "playXID": "e4eb156ab5ddb01cceec9a1bf29e3be5",
+        "streamId": "18009",
+        "dubPlayerSrc": "/dub-player/t/18009/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e4eb156ab5ddb01cceec9a1bf29e3be5&abyssId=18009"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/1f6922d7e707cc6877ea974d7f920589",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/1f6922d7e707cc6877ea974d7f920589"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18009",
+        "abyssId": "18009",
+        "playXID": "e4eb156ab5ddb01cceec9a1bf29e3be5",
+        "title": "Sentenced to Be a Hero",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "M8cYAXjrb"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "UsJCmi-L3"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "ihxqTjHaE"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "Qa0dwaAbO"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "TCUbprAYR"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/d08e73f8cea26de2ee408214b5273a9a/master.m3u8?md5=s4b0F3lrFBGo7U_JOTpNjQ&expires=1792166033",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/d08e73f8cea26de2ee408214b5273a9a/master.m3u8?md5=s4b0F3lrFBGo7U_JOTpNjQ&expires=1792166033",
+            "videoSource": "https://ravok.buzz/cdn/hls/d08e73f8cea26de2ee408214b5273a9a/master.m3u8?md5=s4b0F3lrFBGo7U_JOTpNjQ&expires=1792166033",
+            "videoImage": "https://as-cdn27.top/p/kiGPHzt5_8ZqKZh1o4ZAxlZubM9yD33lU6NZLya7RDjz9PF9L2j1MJamRdRcx83iuUKqryTqdICnaZplyzSZ9Q.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "e4eb156ab5ddb01cceec9a1bf29e3be5",
+                "streamUrl": "https://ravok.buzz/cdn/hls/d08e73f8cea26de2ee408214b5273a9a/master.m3u8?md5=s4b0F3lrFBGo7U_JOTpNjQ&expires=1792166033",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/d08e73f8cea26de2ee408214b5273a9a/master.m3u8?md5=s4b0F3lrFBGo7U_JOTpNjQ&expires=1792166033",
+                "videoSource": "https://ravok.buzz/cdn/hls/d08e73f8cea26de2ee408214b5273a9a/master.m3u8?md5=s4b0F3lrFBGo7U_JOTpNjQ&expires=1792166033",
+                "link": "https://ravok.buzz/cdn/hls/d08e73f8cea26de2ee408214b5273a9a/master.m3u8?md5=s4b0F3lrFBGo7U_JOTpNjQ&expires=1792166033",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/kiGPHzt5_8ZqKZh1o4ZAxlZubM9yD33lU6NZLya7RDjz9PF9L2j1MJamRdRcx83iuUKqryTqdICnaZplyzSZ9Q.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "M8cYAXjrb"
+        }
+      },
+      "fetched_at": "2026-10-16T13:54:03Z"
+    },
+    {
+      "id": "episode/sentenced-to-be-a-hero-1x6",
+      "episode_id": "episode/sentenced-to-be-a-hero-1x6",
+      "title": "Sentenced to Be a Hero 1x1",
+      "episode_name": "Sentenced to Be a Hero 1x1",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1958_s1e6.webp",
+      "abyssid": "18002",
+      "abyssId": "18002",
+      "playxid": "0ef8fec8ddd3c6726e5325b41e61d608",
+      "playXID": "0ef8fec8ddd3c6726e5325b41e61d608",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18002",
+        "playXID": "0ef8fec8ddd3c6726e5325b41e61d608",
+        "streamId": "18002",
+        "dubPlayerSrc": "/dub-player/t/18002/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=0ef8fec8ddd3c6726e5325b41e61d608&abyssId=18002"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18002",
+        "playXID": "0ef8fec8ddd3c6726e5325b41e61d608",
+        "streamId": "18002",
+        "dubPlayerSrc": "/dub-player/t/18002/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=0ef8fec8ddd3c6726e5325b41e61d608&abyssId=18002"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/a0a30f6aadee1dc47393d98b24138964",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/a0a30f6aadee1dc47393d98b24138964"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18002",
+        "abyssId": "18002",
+        "playXID": "0ef8fec8ddd3c6726e5325b41e61d608",
+        "title": "Sentenced to Be a Hero",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "Zv_N02xTm"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "w4sK6B-hK"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "O7X3f_oxN"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "tqhW2f4VW"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "AVE6FN0FL"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/b3a9a408861ec1e207afb94fddb10d66/master.m3u8?md5=k1aUZG3zWnrdsqOBxLqguA&expires=1792166033",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/b3a9a408861ec1e207afb94fddb10d66/master.m3u8?md5=k1aUZG3zWnrdsqOBxLqguA&expires=1792166033",
+            "videoSource": "https://ravok.buzz/cdn/hls/b3a9a408861ec1e207afb94fddb10d66/master.m3u8?md5=k1aUZG3zWnrdsqOBxLqguA&expires=1792166033",
+            "videoImage": "https://as-cdn29.top/p/zMO838_ot-i2dTuBPcQisCMtF3UPfBOxAtM443sF9bO-kw6UbcE-vMFgCidUbK1AqVwi0SKH9bZniw_5vyf1hA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "0ef8fec8ddd3c6726e5325b41e61d608",
+                "streamUrl": "https://ravok.buzz/cdn/hls/b3a9a408861ec1e207afb94fddb10d66/master.m3u8?md5=k1aUZG3zWnrdsqOBxLqguA&expires=1792166033",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/b3a9a408861ec1e207afb94fddb10d66/master.m3u8?md5=k1aUZG3zWnrdsqOBxLqguA&expires=1792166033",
+                "videoSource": "https://ravok.buzz/cdn/hls/b3a9a408861ec1e207afb94fddb10d66/master.m3u8?md5=k1aUZG3zWnrdsqOBxLqguA&expires=1792166033",
+                "link": "https://ravok.buzz/cdn/hls/b3a9a408861ec1e207afb94fddb10d66/master.m3u8?md5=k1aUZG3zWnrdsqOBxLqguA&expires=1792166033",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/zMO838_ot-i2dTuBPcQisCMtF3UPfBOxAtM443sF9bO-kw6UbcE-vMFgCidUbK1AqVwi0SKH9bZniw_5vyf1hA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "Zv_N02xTm"
+        }
+      },
+      "fetched_at": "2026-10-16T13:54:03Z"
+    },
+    {
+      "id": "episode/sentenced-to-be-a-hero-1x9",
+      "episode_id": "episode/sentenced-to-be-a-hero-1x9",
+      "title": "Sentenced to Be a Hero 1x1",
+      "episode_name": "Sentenced to Be a Hero 1x1",
+      "episode_number": 9,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1958_s1e9.webp",
+      "abyssid": "18056",
+      "abyssId": "18056",
+      "playxid": "20e7f31e77cd39cde40e5843ddca6e8b",
+      "playXID": "20e7f31e77cd39cde40e5843ddca6e8b",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18056",
+        "playXID": "20e7f31e77cd39cde40e5843ddca6e8b",
+        "streamId": "18056",
+        "dubPlayerSrc": "/dub-player/t/18056/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=20e7f31e77cd39cde40e5843ddca6e8b&abyssId=18056"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18056",
+        "playXID": "20e7f31e77cd39cde40e5843ddca6e8b",
+        "streamId": "18056",
+        "dubPlayerSrc": "/dub-player/t/18056/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=20e7f31e77cd39cde40e5843ddca6e8b&abyssId=18056"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/61e40fcd266f6924734eefc31492e4b7",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/61e40fcd266f6924734eefc31492e4b7"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18056",
+        "abyssId": "18056",
+        "playXID": "20e7f31e77cd39cde40e5843ddca6e8b",
+        "title": "Sentenced to Be a Hero",
+        "season": 1,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "fNPmesrcl"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "qGdg0TRp8"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "6gGuDhIVt"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "Rk98w0DN4"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "A4n4wU6Yp"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/2b1bd94179d74f1ec58297806b1614a9/master.m3u8?md5=bETSMN4HZRnteCiH8WINIw&expires=1792166033",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/2b1bd94179d74f1ec58297806b1614a9/master.m3u8?md5=bETSMN4HZRnteCiH8WINIw&expires=1792166033",
+            "videoSource": "https://ravok.buzz/cdn/hls/2b1bd94179d74f1ec58297806b1614a9/master.m3u8?md5=bETSMN4HZRnteCiH8WINIw&expires=1792166033",
+            "videoImage": "https://as-cdn31.top/p/SjbKyGDp3ykladOVdi2mcMcEdchkSW0jPTJ-2bzrEZzQnmlMadmdnmrTfLrPW53MehlqoGTs1eGJLxeicWwk2g.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "20e7f31e77cd39cde40e5843ddca6e8b",
+                "streamUrl": "https://ravok.buzz/cdn/hls/2b1bd94179d74f1ec58297806b1614a9/master.m3u8?md5=bETSMN4HZRnteCiH8WINIw&expires=1792166033",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/2b1bd94179d74f1ec58297806b1614a9/master.m3u8?md5=bETSMN4HZRnteCiH8WINIw&expires=1792166033",
+                "videoSource": "https://ravok.buzz/cdn/hls/2b1bd94179d74f1ec58297806b1614a9/master.m3u8?md5=bETSMN4HZRnteCiH8WINIw&expires=1792166033",
+                "link": "https://ravok.buzz/cdn/hls/2b1bd94179d74f1ec58297806b1614a9/master.m3u8?md5=bETSMN4HZRnteCiH8WINIw&expires=1792166033",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/SjbKyGDp3ykladOVdi2mcMcEdchkSW0jPTJ-2bzrEZzQnmlMadmdnmrTfLrPW53MehlqoGTs1eGJLxeicWwk2g.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "fNPmesrcl"
+        }
+      },
+      "fetched_at": "2026-10-16T13:54:03Z"
+    },
+    {
+      "id": "episode/sentenced-to-be-a-hero-1x8",
+      "episode_id": "episode/sentenced-to-be-a-hero-1x8",
+      "title": "Sentenced to Be a Hero 1x1",
+      "episode_name": "Sentenced to Be a Hero 1x1",
+      "episode_number": 8,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1958_s1e8.webp",
+      "abyssid": "18044",
+      "abyssId": "18044",
+      "playxid": "d140b46b9030bd231b950b3e6cf02ee4",
+      "playXID": "d140b46b9030bd231b950b3e6cf02ee4",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18044",
+        "playXID": "d140b46b9030bd231b950b3e6cf02ee4",
+        "streamId": "18044",
+        "dubPlayerSrc": "/dub-player/t/18044/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d140b46b9030bd231b950b3e6cf02ee4&abyssId=18044"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18044",
+        "playXID": "d140b46b9030bd231b950b3e6cf02ee4",
+        "streamId": "18044",
+        "dubPlayerSrc": "/dub-player/t/18044/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d140b46b9030bd231b950b3e6cf02ee4&abyssId=18044"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/f1017c1c7ca672a0b82961a6d2c5bab8",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/f1017c1c7ca672a0b82961a6d2c5bab8"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18044",
+        "abyssId": "18044",
+        "playXID": "d140b46b9030bd231b950b3e6cf02ee4",
+        "title": "Sentenced to Be a Hero",
+        "season": 1,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "EoccB3qkk"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "UDVEfIotA"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "qpDPUR13o"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "c2OyS1Sgw"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "Lov96PSEC"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/3fb3e6e10b1f8b5a74100a7951485eb5/master.m3u8?md5=IPYlfu2nZVu8Kw7pRksAIQ&expires=1792166034",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/3fb3e6e10b1f8b5a74100a7951485eb5/master.m3u8?md5=IPYlfu2nZVu8Kw7pRksAIQ&expires=1792166034",
+            "videoSource": "https://ravok.buzz/cdn/hls/3fb3e6e10b1f8b5a74100a7951485eb5/master.m3u8?md5=IPYlfu2nZVu8Kw7pRksAIQ&expires=1792166034",
+            "videoImage": "https://as-cdn30.top/p/USzOQYzmLXV-5W-kZPSX8llbG3y4rhyj0fUgmx_k8h7I9e1yYyNVCb85TwmhwloT4sgVwiUTgoeNd5iHm84OJQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "d140b46b9030bd231b950b3e6cf02ee4",
+                "streamUrl": "https://ravok.buzz/cdn/hls/3fb3e6e10b1f8b5a74100a7951485eb5/master.m3u8?md5=IPYlfu2nZVu8Kw7pRksAIQ&expires=1792166034",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/3fb3e6e10b1f8b5a74100a7951485eb5/master.m3u8?md5=IPYlfu2nZVu8Kw7pRksAIQ&expires=1792166034",
+                "videoSource": "https://ravok.buzz/cdn/hls/3fb3e6e10b1f8b5a74100a7951485eb5/master.m3u8?md5=IPYlfu2nZVu8Kw7pRksAIQ&expires=1792166034",
+                "link": "https://ravok.buzz/cdn/hls/3fb3e6e10b1f8b5a74100a7951485eb5/master.m3u8?md5=IPYlfu2nZVu8Kw7pRksAIQ&expires=1792166034",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/USzOQYzmLXV-5W-kZPSX8llbG3y4rhyj0fUgmx_k8h7I9e1yYyNVCb85TwmhwloT4sgVwiUTgoeNd5iHm84OJQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "EoccB3qkk"
+        }
+      },
+      "fetched_at": "2026-10-16T13:54:04Z"
+    },
+    {
+      "id": "episode/sentenced-to-be-a-hero-1x10",
+      "episode_id": "episode/sentenced-to-be-a-hero-1x10",
+      "title": "Sentenced to Be a Hero 1x1",
+      "episode_name": "Sentenced to Be a Hero 1x1",
+      "episode_number": 10,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1958_s1e10.webp",
+      "abyssid": "18118",
+      "abyssId": "18118",
+      "playxid": "01f302980181fb494f4524da6f6e62ea",
+      "playXID": "01f302980181fb494f4524da6f6e62ea",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18118",
+        "playXID": "01f302980181fb494f4524da6f6e62ea",
+        "streamId": "18118",
+        "dubPlayerSrc": "/dub-player/t/18118/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=01f302980181fb494f4524da6f6e62ea&abyssId=18118"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18118",
+        "playXID": "01f302980181fb494f4524da6f6e62ea",
+        "streamId": "18118",
+        "dubPlayerSrc": "/dub-player/t/18118/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=01f302980181fb494f4524da6f6e62ea&abyssId=18118"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/366971226c73b87ab69e87918b9338a5",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/366971226c73b87ab69e87918b9338a5"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18118",
+        "abyssId": "18118",
+        "playXID": "01f302980181fb494f4524da6f6e62ea",
+        "title": "Sentenced to Be a Hero",
+        "season": 1,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "qyJ-FfUpy"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "mjeF6bb7I"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "f1eIeApY6"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "xjSM19pqs"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "wH1j7fMB9"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/5bbfb3e677aa0be534281f283bec378e/master.m3u8?md5=mV6MHSzAGM4LW_LD9W6v5w&expires=1792166035",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/5bbfb3e677aa0be534281f283bec378e/master.m3u8?md5=mV6MHSzAGM4LW_LD9W6v5w&expires=1792166035",
+            "videoSource": "https://ravok.buzz/cdn/hls/5bbfb3e677aa0be534281f283bec378e/master.m3u8?md5=mV6MHSzAGM4LW_LD9W6v5w&expires=1792166035",
+            "videoImage": "https://as-cdn27.top/p/GKoy55AvOJ8mPskO-NJCROK8S6VQs0o6NNVIOUn0Qg4-cls5k-OorP4PN_jQa8SCVAuK02pRYY1xxNfZlSxdNQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "01f302980181fb494f4524da6f6e62ea",
+                "streamUrl": "https://ravok.buzz/cdn/hls/5bbfb3e677aa0be534281f283bec378e/master.m3u8?md5=mV6MHSzAGM4LW_LD9W6v5w&expires=1792166035",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/5bbfb3e677aa0be534281f283bec378e/master.m3u8?md5=mV6MHSzAGM4LW_LD9W6v5w&expires=1792166035",
+                "videoSource": "https://ravok.buzz/cdn/hls/5bbfb3e677aa0be534281f283bec378e/master.m3u8?md5=mV6MHSzAGM4LW_LD9W6v5w&expires=1792166035",
+                "link": "https://ravok.buzz/cdn/hls/5bbfb3e677aa0be534281f283bec378e/master.m3u8?md5=mV6MHSzAGM4LW_LD9W6v5w&expires=1792166035",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/GKoy55AvOJ8mPskO-NJCROK8S6VQs0o6NNVIOUn0Qg4-cls5k-OorP4PN_jQa8SCVAuK02pRYY1xxNfZlSxdNQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "qyJ-FfUpy"
+        }
+      },
+      "fetched_at": "2026-10-16T13:54:05Z"
+    },
+    {
+      "id": "episode/sentenced-to-be-a-hero-1x11",
+      "episode_id": "episode/sentenced-to-be-a-hero-1x11",
+      "title": "Sentenced to Be a Hero 1x1",
+      "episode_name": "Sentenced to Be a Hero 1x1",
+      "episode_number": 11,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1958_s1e11.webp",
+      "abyssid": "18151",
+      "abyssId": "18151",
+      "playxid": "991c016c602257061e08f52d57a8606c",
+      "playXID": "991c016c602257061e08f52d57a8606c",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18151",
+        "playXID": "991c016c602257061e08f52d57a8606c",
+        "streamId": "18151",
+        "dubPlayerSrc": "/dub-player/t/18151/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=991c016c602257061e08f52d57a8606c&abyssId=18151"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18151",
+        "playXID": "991c016c602257061e08f52d57a8606c",
+        "streamId": "18151",
+        "dubPlayerSrc": "/dub-player/t/18151/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=991c016c602257061e08f52d57a8606c&abyssId=18151"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/416b9feb0ec119ee3914f27ceda31d79",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/416b9feb0ec119ee3914f27ceda31d79"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18151",
+        "abyssId": "18151",
+        "playXID": "991c016c602257061e08f52d57a8606c",
+        "title": "Sentenced to Be a Hero",
+        "season": 1,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "D_RAur_o4"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "B7YheifQV"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "5-4eLIuzJ"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "DRi5InO_g"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "fEJM4ptQP"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/3819a8115e1a9bdb7649396abe8b62cc/master.m3u8?md5=DklRH6zRKcsjBBYYTBL5pA&expires=1792166035",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/3819a8115e1a9bdb7649396abe8b62cc/master.m3u8?md5=DklRH6zRKcsjBBYYTBL5pA&expires=1792166035",
+            "videoSource": "https://ravok.buzz/cdn/hls/3819a8115e1a9bdb7649396abe8b62cc/master.m3u8?md5=DklRH6zRKcsjBBYYTBL5pA&expires=1792166035",
+            "videoImage": "https://as-cdn29.top/p/hinR1Hzuh8mutqnFcnlWNXklXQkN522w2UzrW5wRUmSLaHPSQo-9g6Wu_9dK9HzcWG4eundxrmR1EOtQpAlBAQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "991c016c602257061e08f52d57a8606c",
+                "streamUrl": "https://ravok.buzz/cdn/hls/3819a8115e1a9bdb7649396abe8b62cc/master.m3u8?md5=DklRH6zRKcsjBBYYTBL5pA&expires=1792166035",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/3819a8115e1a9bdb7649396abe8b62cc/master.m3u8?md5=DklRH6zRKcsjBBYYTBL5pA&expires=1792166035",
+                "videoSource": "https://ravok.buzz/cdn/hls/3819a8115e1a9bdb7649396abe8b62cc/master.m3u8?md5=DklRH6zRKcsjBBYYTBL5pA&expires=1792166035",
+                "link": "https://ravok.buzz/cdn/hls/3819a8115e1a9bdb7649396abe8b62cc/master.m3u8?md5=DklRH6zRKcsjBBYYTBL5pA&expires=1792166035",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/hinR1Hzuh8mutqnFcnlWNXklXQkN522w2UzrW5wRUmSLaHPSQo-9g6Wu_9dK9HzcWG4eundxrmR1EOtQpAlBAQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "D_RAur_o4"
+        }
+      },
+      "fetched_at": "2026-10-16T13:54:05Z"
+    },
+    {
+      "id": "episode/sentenced-to-be-a-hero-1x12",
+      "episode_id": "episode/sentenced-to-be-a-hero-1x12",
+      "title": "Sentenced to Be a Hero 1x1",
+      "episode_name": "Sentenced to Be a Hero 1x1",
+      "episode_number": 12,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1958_s1e12.webp",
+      "abyssid": "18219",
+      "abyssId": "18219",
+      "playxid": "cd7adf7555f811fa22deff50759e73a0",
+      "playXID": "cd7adf7555f811fa22deff50759e73a0",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18219",
+        "playXID": "cd7adf7555f811fa22deff50759e73a0",
+        "streamId": "18219",
+        "dubPlayerSrc": "/dub-player/t/18219/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=cd7adf7555f811fa22deff50759e73a0&abyssId=18219"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18219",
+        "playXID": "cd7adf7555f811fa22deff50759e73a0",
+        "streamId": "18219",
+        "dubPlayerSrc": "/dub-player/t/18219/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=cd7adf7555f811fa22deff50759e73a0&abyssId=18219"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/40c58ee85cc790638034668b73f8b444",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/40c58ee85cc790638034668b73f8b444"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18219",
+        "abyssId": "18219",
+        "playXID": "cd7adf7555f811fa22deff50759e73a0",
+        "title": "Sentenced to Be a Hero",
+        "season": 1,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "FSADL61GT"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "JeSEmh-ix"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "ahEwQVEjC"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "bDrWgwN6K"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "lE9H9hm5X"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/07cfe3666deffb5a179fd19444c7f35d/master.m3u8?md5=YZvkfBZ8kltHTl1UUaO6rQ&expires=1792166035",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/07cfe3666deffb5a179fd19444c7f35d/master.m3u8?md5=YZvkfBZ8kltHTl1UUaO6rQ&expires=1792166035",
+            "videoSource": "https://ravok.buzz/cdn/hls/07cfe3666deffb5a179fd19444c7f35d/master.m3u8?md5=YZvkfBZ8kltHTl1UUaO6rQ&expires=1792166035",
+            "videoImage": "https://as-cdn31.top/p/SO19pmHU3uQk8jVBP-LtmvQLWhKcCa-jGWRr4XJbApb9JuMw_bjK4WgcKUfgk56hLYJrJ-B3EswMje1sAboVAw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "cd7adf7555f811fa22deff50759e73a0",
+                "streamUrl": "https://ravok.buzz/cdn/hls/07cfe3666deffb5a179fd19444c7f35d/master.m3u8?md5=YZvkfBZ8kltHTl1UUaO6rQ&expires=1792166035",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/07cfe3666deffb5a179fd19444c7f35d/master.m3u8?md5=YZvkfBZ8kltHTl1UUaO6rQ&expires=1792166035",
+                "videoSource": "https://ravok.buzz/cdn/hls/07cfe3666deffb5a179fd19444c7f35d/master.m3u8?md5=YZvkfBZ8kltHTl1UUaO6rQ&expires=1792166035",
+                "link": "https://ravok.buzz/cdn/hls/07cfe3666deffb5a179fd19444c7f35d/master.m3u8?md5=YZvkfBZ8kltHTl1UUaO6rQ&expires=1792166035",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/SO19pmHU3uQk8jVBP-LtmvQLWhKcCa-jGWRr4XJbApb9JuMw_bjK4WgcKUfgk56hLYJrJ-B3EswMje1sAboVAw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "FSADL61GT"
+        }
+      },
+      "fetched_at": "2026-10-16T13:54:05Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T13:53:59Z",
+  "updated_at": "2026-10-16T13:54:05Z"
+}

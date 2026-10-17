@@ -1,0 +1,1739 @@
+{
+  "id": "series/liar-game",
+  "series_name": "LIAR GAME",
+  "title": "LIAR GAME",
+  "banner": "https://image.tmdb.org/t/p/w1280/Ag6VnSAb1g02YWHYxYFKRUiBtnc.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/w8yyntTxZlDlZ2TR8kb4C92pmcO.jpg",
+  "genra": [
+    "Drama",
+    "Psychological",
+    "Suspense"
+  ],
+  "genres": [
+    "Drama",
+    "Psychological",
+    "Suspense"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Japanese",
+    "Tamil",
+    "Telugu"
+  ],
+  "synopsis": "When Nao Kanzaki receives a strange letter and a suitcase containing 100 million yen, she learns that she has been selected to participate in the LIAR GAME. In this high-stakes psychological battle, lies, deception, and betrayal reign supreme. Naïve and honest, Nao turns to Shinichi Akiyama, a brilliant former con artist, to survive the twisted game. In a game built on lies, can honesty prevail?",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 14,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 14,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "LIAR GAME 1x1",
+          "id": "episode/liar-game-1x1",
+          "image": "https://img.watchanimeworld.one/img/thumb_2025_s1e1.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "LIAR GAME 1x2",
+          "id": "episode/liar-game-1x2",
+          "image": "https://img.watchanimeworld.one/img/thumb_2025_s1e2.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "LIAR GAME 1x3",
+          "id": "episode/liar-game-1x3",
+          "image": "https://img.watchanimeworld.one/img/thumb_2025_s1e3.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "LIAR GAME 1x4",
+          "id": "episode/liar-game-1x4",
+          "image": "https://img.watchanimeworld.one/img/thumb_2025_s1e4.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "LIAR GAME 1x5",
+          "id": "episode/liar-game-1x5",
+          "image": "https://img.watchanimeworld.one/img/thumb_2025_s1e5.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "LIAR GAME 1x6",
+          "id": "episode/liar-game-1x6",
+          "image": "https://img.watchanimeworld.one/img/thumb_2025_s1e6.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "LIAR GAME 1x7",
+          "id": "episode/liar-game-1x7",
+          "image": "https://img.watchanimeworld.one/img/thumb_2025_s1e7.webp",
+          "season": 1
+        },
+        {
+          "episode": 8,
+          "title": "LIAR GAME 1x8",
+          "id": "episode/liar-game-1x8",
+          "image": "https://img.watchanimeworld.one/img/thumb_2025_s1e8.webp",
+          "season": 1
+        },
+        {
+          "episode": 9,
+          "title": "LIAR GAME 1x9",
+          "id": "episode/liar-game-1x9",
+          "image": "https://img.watchanimeworld.one/img/thumb_2025_s1e9.webp",
+          "season": 1
+        },
+        {
+          "episode": 10,
+          "title": "LIAR GAME 1x10",
+          "id": "episode/liar-game-1x10",
+          "image": "https://img.watchanimeworld.one/img/thumb_2025_s1e10.webp",
+          "season": 1
+        },
+        {
+          "episode": 11,
+          "title": "LIAR GAME 1x11",
+          "id": "episode/liar-game-1x11",
+          "image": "https://img.watchanimeworld.one/img/thumb_2025_s1e11.webp",
+          "season": 1
+        },
+        {
+          "episode": 12,
+          "title": "LIAR GAME 1x12",
+          "id": "episode/liar-game-1x12",
+          "image": "https://img.watchanimeworld.one/img/thumb_2025_s1e12.webp",
+          "season": 1
+        },
+        {
+          "episode": 13,
+          "title": "LIAR GAME 1x13",
+          "id": "episode/liar-game-1x13",
+          "image": "https://img.watchanimeworld.one/img/thumb_2025_s1e13.webp",
+          "season": 1
+        },
+        {
+          "episode": 14,
+          "title": "LIAR GAME 1x14",
+          "id": "episode/liar-game-1x14",
+          "image": "https://img.watchanimeworld.one/img/thumb_2025_s1e14.webp",
+          "season": 1
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/liar-game-1x1",
+      "episode_id": "episode/liar-game-1x1",
+      "title": "LIAR GAME 1x1",
+      "episode_name": "LIAR GAME 1x1",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2025_s1e1.webp",
+      "abyssid": "18229",
+      "abyssId": "18229",
+      "playxid": "e4237e370757c161a7804a217db3d759",
+      "playXID": "e4237e370757c161a7804a217db3d759",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18229",
+        "playXID": "e4237e370757c161a7804a217db3d759",
+        "streamId": "18229",
+        "dubPlayerSrc": "/dub-player/t/18229/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e4237e370757c161a7804a217db3d759&abyssId=18229"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18229",
+        "playXID": "e4237e370757c161a7804a217db3d759",
+        "streamId": "18229",
+        "dubPlayerSrc": "/dub-player/t/18229/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e4237e370757c161a7804a217db3d759&abyssId=18229"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/9d15081dc54bcd9dc23a74f99646b2a6",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/9d15081dc54bcd9dc23a74f99646b2a6"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18229",
+        "abyssId": "18229",
+        "playXID": "e4237e370757c161a7804a217db3d759",
+        "title": "LIAR GAME",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "zh112hbf3"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "kwF8dC5oH"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "MH7cGAsx1"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "VeI49oN5q"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "lST0anowg"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/981cfe28041e950a4a28a26cc87fb4d0/master.m3u8?md5=4xnE45bz-OUUsIEVJj2tcw&expires=1792165978",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/981cfe28041e950a4a28a26cc87fb4d0/master.m3u8?md5=4xnE45bz-OUUsIEVJj2tcw&expires=1792165978",
+            "videoSource": "https://ravok.buzz/cdn/hls/981cfe28041e950a4a28a26cc87fb4d0/master.m3u8?md5=4xnE45bz-OUUsIEVJj2tcw&expires=1792165978",
+            "videoImage": "https://as-cdn30.top/p/6npEAsfYBr-MqPZpJUUCUYRIkp1_hGsUX7JhzAU3QCLqFAPIe3GcHl3kXS4QIJ-KBMCoRwqmCbfHOiVOqXBrjg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "e4237e370757c161a7804a217db3d759",
+                "streamUrl": "https://ravok.buzz/cdn/hls/981cfe28041e950a4a28a26cc87fb4d0/master.m3u8?md5=4xnE45bz-OUUsIEVJj2tcw&expires=1792165978",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/981cfe28041e950a4a28a26cc87fb4d0/master.m3u8?md5=4xnE45bz-OUUsIEVJj2tcw&expires=1792165978",
+                "videoSource": "https://ravok.buzz/cdn/hls/981cfe28041e950a4a28a26cc87fb4d0/master.m3u8?md5=4xnE45bz-OUUsIEVJj2tcw&expires=1792165978",
+                "link": "https://ravok.buzz/cdn/hls/981cfe28041e950a4a28a26cc87fb4d0/master.m3u8?md5=4xnE45bz-OUUsIEVJj2tcw&expires=1792165978",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/6npEAsfYBr-MqPZpJUUCUYRIkp1_hGsUX7JhzAU3QCLqFAPIe3GcHl3kXS4QIJ-KBMCoRwqmCbfHOiVOqXBrjg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "zh112hbf3"
+        }
+      },
+      "fetched_at": "2026-10-16T13:53:08Z"
+    },
+    {
+      "id": "episode/liar-game-1x2",
+      "episode_id": "episode/liar-game-1x2",
+      "title": "LIAR GAME 1x1",
+      "episode_name": "LIAR GAME 1x1",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2025_s1e2.webp",
+      "abyssid": "18251",
+      "abyssId": "18251",
+      "playxid": "e8f5b62d67c6264012aa8ab2475a2a37",
+      "playXID": "e8f5b62d67c6264012aa8ab2475a2a37",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18251",
+        "playXID": "e8f5b62d67c6264012aa8ab2475a2a37",
+        "streamId": "18251",
+        "dubPlayerSrc": "/dub-player/t/18251/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e8f5b62d67c6264012aa8ab2475a2a37&abyssId=18251"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18251",
+        "playXID": "e8f5b62d67c6264012aa8ab2475a2a37",
+        "streamId": "18251",
+        "dubPlayerSrc": "/dub-player/t/18251/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e8f5b62d67c6264012aa8ab2475a2a37&abyssId=18251"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/8ad6635f33710af6a535e8fb8486975e",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/8ad6635f33710af6a535e8fb8486975e"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18251",
+        "abyssId": "18251",
+        "playXID": "e8f5b62d67c6264012aa8ab2475a2a37",
+        "title": "LIAR GAME",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "SnzCVmnaY"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "4tsB5l5l9O"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "LOjIM3o-ti"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "sf6HZo7HF"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "FHhrIywsM"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/9ac95107fa156ef4d8ce8ad0076d728a/master.m3u8?md5=CID3R5F56TgfKqvGuEbaRQ&expires=1792165978",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/9ac95107fa156ef4d8ce8ad0076d728a/master.m3u8?md5=CID3R5F56TgfKqvGuEbaRQ&expires=1792165978",
+            "videoSource": "https://ravok.buzz/cdn/hls/9ac95107fa156ef4d8ce8ad0076d728a/master.m3u8?md5=CID3R5F56TgfKqvGuEbaRQ&expires=1792165978",
+            "videoImage": "https://as-cdn28.top/p/KpaoyxE7xjATxSB5PXzX1Y91xfF3AX8yt6-bHsj-gOeDqkc35asm6LOqm6JFGgdZqY4nqTjw0UUoVLeoq1UHrw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "e8f5b62d67c6264012aa8ab2475a2a37",
+                "streamUrl": "https://ravok.buzz/cdn/hls/9ac95107fa156ef4d8ce8ad0076d728a/master.m3u8?md5=CID3R5F56TgfKqvGuEbaRQ&expires=1792165978",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/9ac95107fa156ef4d8ce8ad0076d728a/master.m3u8?md5=CID3R5F56TgfKqvGuEbaRQ&expires=1792165978",
+                "videoSource": "https://ravok.buzz/cdn/hls/9ac95107fa156ef4d8ce8ad0076d728a/master.m3u8?md5=CID3R5F56TgfKqvGuEbaRQ&expires=1792165978",
+                "link": "https://ravok.buzz/cdn/hls/9ac95107fa156ef4d8ce8ad0076d728a/master.m3u8?md5=CID3R5F56TgfKqvGuEbaRQ&expires=1792165978",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/KpaoyxE7xjATxSB5PXzX1Y91xfF3AX8yt6-bHsj-gOeDqkc35asm6LOqm6JFGgdZqY4nqTjw0UUoVLeoq1UHrw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "SnzCVmnaY"
+        }
+      },
+      "fetched_at": "2026-10-16T13:53:08Z"
+    },
+    {
+      "id": "episode/liar-game-1x3",
+      "episode_id": "episode/liar-game-1x3",
+      "title": "LIAR GAME 1x1",
+      "episode_name": "LIAR GAME 1x1",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2025_s1e3.webp",
+      "abyssid": "18269",
+      "abyssId": "18269",
+      "playxid": "b679aa6ac5fd06c4465b5b78511e2546",
+      "playXID": "b679aa6ac5fd06c4465b5b78511e2546",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18269",
+        "playXID": "b679aa6ac5fd06c4465b5b78511e2546",
+        "streamId": "18269",
+        "dubPlayerSrc": "/dub-player/t/18269/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b679aa6ac5fd06c4465b5b78511e2546&abyssId=18269"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18269",
+        "playXID": "b679aa6ac5fd06c4465b5b78511e2546",
+        "streamId": "18269",
+        "dubPlayerSrc": "/dub-player/t/18269/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b679aa6ac5fd06c4465b5b78511e2546&abyssId=18269"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/235173ebcd720df4c6aa74f3860d8dc4",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/235173ebcd720df4c6aa74f3860d8dc4"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18269",
+        "abyssId": "18269",
+        "playXID": "b679aa6ac5fd06c4465b5b78511e2546",
+        "title": "LIAR GAME",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "8Mpm8cFTau"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "p-pDZwZOK"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "9KFRemDo3"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "Ed56JWZpg"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "4MoUYDk5T"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/67ad0cfc7bc19adbdf1126da91929a54/master.m3u8?md5=8yq8x-aIfd5c55aKKVRBsw&expires=1792165978",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/67ad0cfc7bc19adbdf1126da91929a54/master.m3u8?md5=8yq8x-aIfd5c55aKKVRBsw&expires=1792165978",
+            "videoSource": "https://ravok.buzz/cdn/hls/67ad0cfc7bc19adbdf1126da91929a54/master.m3u8?md5=8yq8x-aIfd5c55aKKVRBsw&expires=1792165978",
+            "videoImage": "https://as-cdn27.top/p/y1dBB0q5gfpBCdR7ziUNz4AV9AGnaCBhAYLk_7RntGOScv5bM7bqlTuy89o4W4U1DwtjRdkeIkrQqJVqeaaRaQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "b679aa6ac5fd06c4465b5b78511e2546",
+                "streamUrl": "https://ravok.buzz/cdn/hls/67ad0cfc7bc19adbdf1126da91929a54/master.m3u8?md5=8yq8x-aIfd5c55aKKVRBsw&expires=1792165978",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/67ad0cfc7bc19adbdf1126da91929a54/master.m3u8?md5=8yq8x-aIfd5c55aKKVRBsw&expires=1792165978",
+                "videoSource": "https://ravok.buzz/cdn/hls/67ad0cfc7bc19adbdf1126da91929a54/master.m3u8?md5=8yq8x-aIfd5c55aKKVRBsw&expires=1792165978",
+                "link": "https://ravok.buzz/cdn/hls/67ad0cfc7bc19adbdf1126da91929a54/master.m3u8?md5=8yq8x-aIfd5c55aKKVRBsw&expires=1792165978",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/y1dBB0q5gfpBCdR7ziUNz4AV9AGnaCBhAYLk_7RntGOScv5bM7bqlTuy89o4W4U1DwtjRdkeIkrQqJVqeaaRaQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "8Mpm8cFTau"
+        }
+      },
+      "fetched_at": "2026-10-16T13:53:08Z"
+    },
+    {
+      "id": "episode/liar-game-1x4",
+      "episode_id": "episode/liar-game-1x4",
+      "title": "LIAR GAME 1x1",
+      "episode_name": "LIAR GAME 1x1",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2025_s1e4.webp",
+      "abyssid": "18293",
+      "abyssId": "18293",
+      "playxid": "17bf10483c4a1a9a3719c01732f06d9e",
+      "playXID": "17bf10483c4a1a9a3719c01732f06d9e",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18293",
+        "playXID": "17bf10483c4a1a9a3719c01732f06d9e",
+        "streamId": "18293",
+        "dubPlayerSrc": "/dub-player/t/18293/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=17bf10483c4a1a9a3719c01732f06d9e&abyssId=18293"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18293",
+        "playXID": "17bf10483c4a1a9a3719c01732f06d9e",
+        "streamId": "18293",
+        "dubPlayerSrc": "/dub-player/t/18293/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=17bf10483c4a1a9a3719c01732f06d9e&abyssId=18293"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/e455b820b9478a022f0ef44cf2f56db4",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/e455b820b9478a022f0ef44cf2f56db4"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18293",
+        "abyssId": "18293",
+        "playXID": "17bf10483c4a1a9a3719c01732f06d9e",
+        "title": "LIAR GAME",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "Lah_2G0Uj"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "CAHCogauR"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "rcbC3j1jk"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "IR05eL6cL"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "tKwStnqTC"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/1679174f2f1a1902afd9a87860e9cd96/master.m3u8?md5=CnF0quTkhOlGbdOqSq0xIw&expires=1792165980",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/1679174f2f1a1902afd9a87860e9cd96/master.m3u8?md5=CnF0quTkhOlGbdOqSq0xIw&expires=1792165980",
+            "videoSource": "https://ravok.buzz/cdn/hls/1679174f2f1a1902afd9a87860e9cd96/master.m3u8?md5=CnF0quTkhOlGbdOqSq0xIw&expires=1792165980",
+            "videoImage": "https://as-cdn31.top/p/UTkYpOAFFBa8o03_q-CJyE6v-gXtjtu34rYwjMpRmkZ7iMS1WefAwZ_EX_K30gouQ3mgcCJiknKVidPpUnYqiQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "17bf10483c4a1a9a3719c01732f06d9e",
+                "streamUrl": "https://ravok.buzz/cdn/hls/1679174f2f1a1902afd9a87860e9cd96/master.m3u8?md5=CnF0quTkhOlGbdOqSq0xIw&expires=1792165980",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/1679174f2f1a1902afd9a87860e9cd96/master.m3u8?md5=CnF0quTkhOlGbdOqSq0xIw&expires=1792165980",
+                "videoSource": "https://ravok.buzz/cdn/hls/1679174f2f1a1902afd9a87860e9cd96/master.m3u8?md5=CnF0quTkhOlGbdOqSq0xIw&expires=1792165980",
+                "link": "https://ravok.buzz/cdn/hls/1679174f2f1a1902afd9a87860e9cd96/master.m3u8?md5=CnF0quTkhOlGbdOqSq0xIw&expires=1792165980",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/UTkYpOAFFBa8o03_q-CJyE6v-gXtjtu34rYwjMpRmkZ7iMS1WefAwZ_EX_K30gouQ3mgcCJiknKVidPpUnYqiQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "Lah_2G0Uj"
+        }
+      },
+      "fetched_at": "2026-10-16T13:53:10Z"
+    },
+    {
+      "id": "episode/liar-game-1x6",
+      "episode_id": "episode/liar-game-1x6",
+      "title": "LIAR GAME 1x1",
+      "episode_name": "LIAR GAME 1x1",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2025_s1e6.webp",
+      "abyssid": "18321",
+      "abyssId": "18321",
+      "playxid": "e7b966126309c9707f07563d62d14f0c",
+      "playXID": "e7b966126309c9707f07563d62d14f0c",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18321",
+        "playXID": "e7b966126309c9707f07563d62d14f0c",
+        "streamId": "18321",
+        "dubPlayerSrc": "/dub-player/t/18321/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e7b966126309c9707f07563d62d14f0c&abyssId=18321"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18321",
+        "playXID": "e7b966126309c9707f07563d62d14f0c",
+        "streamId": "18321",
+        "dubPlayerSrc": "/dub-player/t/18321/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e7b966126309c9707f07563d62d14f0c&abyssId=18321"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/2167fcf808b8f383e7e44e25305a08a8",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/2167fcf808b8f383e7e44e25305a08a8"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18321",
+        "abyssId": "18321",
+        "playXID": "e7b966126309c9707f07563d62d14f0c",
+        "title": "LIAR GAME",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "uxB8QqEmq"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "vJQi_mIkDi"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "qtGZSrj0vp"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "we-pcmK3N"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "E-DOtJQCn"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/ef1900780a0d8319339c0f6bb86b2054/master.m3u8?md5=7vvulgQSsc6Ukdv-1Kz5YQ&expires=1792165981",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/ef1900780a0d8319339c0f6bb86b2054/master.m3u8?md5=7vvulgQSsc6Ukdv-1Kz5YQ&expires=1792165981",
+            "videoSource": "https://ravok.buzz/cdn/hls/ef1900780a0d8319339c0f6bb86b2054/master.m3u8?md5=7vvulgQSsc6Ukdv-1Kz5YQ&expires=1792165981",
+            "videoImage": "https://as-cdn31.top/p/5TgdcMmY-lgM8vQCV17CKu_0UdEANOAFR1w4lyPfsq420lawMXm_OPTRGmIyXeufWF26fYSp1ZIDl3268eDSAQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "e7b966126309c9707f07563d62d14f0c",
+                "streamUrl": "https://ravok.buzz/cdn/hls/ef1900780a0d8319339c0f6bb86b2054/master.m3u8?md5=7vvulgQSsc6Ukdv-1Kz5YQ&expires=1792165981",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/ef1900780a0d8319339c0f6bb86b2054/master.m3u8?md5=7vvulgQSsc6Ukdv-1Kz5YQ&expires=1792165981",
+                "videoSource": "https://ravok.buzz/cdn/hls/ef1900780a0d8319339c0f6bb86b2054/master.m3u8?md5=7vvulgQSsc6Ukdv-1Kz5YQ&expires=1792165981",
+                "link": "https://ravok.buzz/cdn/hls/ef1900780a0d8319339c0f6bb86b2054/master.m3u8?md5=7vvulgQSsc6Ukdv-1Kz5YQ&expires=1792165981",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/5TgdcMmY-lgM8vQCV17CKu_0UdEANOAFR1w4lyPfsq420lawMXm_OPTRGmIyXeufWF26fYSp1ZIDl3268eDSAQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "uxB8QqEmq"
+        }
+      },
+      "fetched_at": "2026-10-16T13:53:11Z"
+    },
+    {
+      "id": "episode/liar-game-1x5",
+      "episode_id": "episode/liar-game-1x5",
+      "title": "LIAR GAME 1x1",
+      "episode_name": "LIAR GAME 1x1",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2025_s1e5.webp",
+      "abyssid": "18304",
+      "abyssId": "18304",
+      "playxid": "8eef9fa83d74d0c0b81a6be7842ce67d",
+      "playXID": "8eef9fa83d74d0c0b81a6be7842ce67d",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18304",
+        "playXID": "8eef9fa83d74d0c0b81a6be7842ce67d",
+        "streamId": "18304",
+        "dubPlayerSrc": "/dub-player/t/18304/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8eef9fa83d74d0c0b81a6be7842ce67d&abyssId=18304"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18304",
+        "playXID": "8eef9fa83d74d0c0b81a6be7842ce67d",
+        "streamId": "18304",
+        "dubPlayerSrc": "/dub-player/t/18304/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8eef9fa83d74d0c0b81a6be7842ce67d&abyssId=18304"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/a59687b426e9eb30465997eb54862a2e",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/a59687b426e9eb30465997eb54862a2e"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18304",
+        "abyssId": "18304",
+        "playXID": "8eef9fa83d74d0c0b81a6be7842ce67d",
+        "title": "LIAR GAME",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "og-FYt-8k"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "6Im-XbHUm"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "VRwDVkDBi"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "1JiMgGJNDm"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "84-PxOmao"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/c5612cde50f38fd6cf08458ef29a864a/master.m3u8?md5=c9GMUcznMu9MvFYqAROU4g&expires=1792165980",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/c5612cde50f38fd6cf08458ef29a864a/master.m3u8?md5=c9GMUcznMu9MvFYqAROU4g&expires=1792165980",
+            "videoSource": "https://ravok.buzz/cdn/hls/c5612cde50f38fd6cf08458ef29a864a/master.m3u8?md5=c9GMUcznMu9MvFYqAROU4g&expires=1792165980",
+            "videoImage": "https://as-cdn27.top/p/vmagr30xdhTBQRkfJCbKwl149qoSWI6ZXdHH1wffeQIk_bvfNgU5OxARb_gzZTbxUNQbEF0Nlim_VQj5GBLecQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "8eef9fa83d74d0c0b81a6be7842ce67d",
+                "streamUrl": "https://ravok.buzz/cdn/hls/c5612cde50f38fd6cf08458ef29a864a/master.m3u8?md5=c9GMUcznMu9MvFYqAROU4g&expires=1792165980",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/c5612cde50f38fd6cf08458ef29a864a/master.m3u8?md5=c9GMUcznMu9MvFYqAROU4g&expires=1792165980",
+                "videoSource": "https://ravok.buzz/cdn/hls/c5612cde50f38fd6cf08458ef29a864a/master.m3u8?md5=c9GMUcznMu9MvFYqAROU4g&expires=1792165980",
+                "link": "https://ravok.buzz/cdn/hls/c5612cde50f38fd6cf08458ef29a864a/master.m3u8?md5=c9GMUcznMu9MvFYqAROU4g&expires=1792165980",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/vmagr30xdhTBQRkfJCbKwl149qoSWI6ZXdHH1wffeQIk_bvfNgU5OxARb_gzZTbxUNQbEF0Nlim_VQj5GBLecQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "og-FYt-8k"
+        }
+      },
+      "fetched_at": "2026-10-16T13:53:11Z"
+    },
+    {
+      "id": "episode/liar-game-1x8",
+      "episode_id": "episode/liar-game-1x8",
+      "title": "LIAR GAME 1x1",
+      "episode_name": "LIAR GAME 1x1",
+      "episode_number": 8,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2025_s1e8.webp",
+      "abyssid": "18394",
+      "abyssId": "18394",
+      "playxid": "d4e65063168542599d17912de37ec68a",
+      "playXID": "d4e65063168542599d17912de37ec68a",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18394",
+        "playXID": "d4e65063168542599d17912de37ec68a",
+        "streamId": "18394",
+        "dubPlayerSrc": "/dub-player/t/18394/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d4e65063168542599d17912de37ec68a&abyssId=18394"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18394",
+        "playXID": "d4e65063168542599d17912de37ec68a",
+        "streamId": "18394",
+        "dubPlayerSrc": "/dub-player/t/18394/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d4e65063168542599d17912de37ec68a&abyssId=18394"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/adc4b51b49fc307aa7f0a8b9015c51bf",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/adc4b51b49fc307aa7f0a8b9015c51bf"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18394",
+        "abyssId": "18394",
+        "playXID": "d4e65063168542599d17912de37ec68a",
+        "title": "LIAR GAME",
+        "season": 1,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "0lUEqGVV6"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "CCUwcju3A"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "glJT4fXJB"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "lM1dzwo8y"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "RG63YIzSP"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/e3ac17492fc646b6f47e18640256174c/master.m3u8?md5=MsKeJKDdTxu_8CSZfoLCUw&expires=1792165981",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/e3ac17492fc646b6f47e18640256174c/master.m3u8?md5=MsKeJKDdTxu_8CSZfoLCUw&expires=1792165981",
+            "videoSource": "https://ravok.buzz/cdn/hls/e3ac17492fc646b6f47e18640256174c/master.m3u8?md5=MsKeJKDdTxu_8CSZfoLCUw&expires=1792165981",
+            "videoImage": "https://as-cdn28.top/p/oBRfsrFiplTQKVUULbKdNj5hPVbiV3TrcnrVSVGB0hIZAO_xWJheQTfzFzdMLKzwK0VTs0spbDp2cd0QmSBjPg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "d4e65063168542599d17912de37ec68a",
+                "streamUrl": "https://ravok.buzz/cdn/hls/e3ac17492fc646b6f47e18640256174c/master.m3u8?md5=MsKeJKDdTxu_8CSZfoLCUw&expires=1792165981",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/e3ac17492fc646b6f47e18640256174c/master.m3u8?md5=MsKeJKDdTxu_8CSZfoLCUw&expires=1792165981",
+                "videoSource": "https://ravok.buzz/cdn/hls/e3ac17492fc646b6f47e18640256174c/master.m3u8?md5=MsKeJKDdTxu_8CSZfoLCUw&expires=1792165981",
+                "link": "https://ravok.buzz/cdn/hls/e3ac17492fc646b6f47e18640256174c/master.m3u8?md5=MsKeJKDdTxu_8CSZfoLCUw&expires=1792165981",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/oBRfsrFiplTQKVUULbKdNj5hPVbiV3TrcnrVSVGB0hIZAO_xWJheQTfzFzdMLKzwK0VTs0spbDp2cd0QmSBjPg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "0lUEqGVV6"
+        }
+      },
+      "fetched_at": "2026-10-16T13:53:11Z"
+    },
+    {
+      "id": "episode/liar-game-1x11",
+      "episode_id": "episode/liar-game-1x11",
+      "title": "LIAR GAME 1x1",
+      "episode_name": "LIAR GAME 1x1",
+      "episode_number": 11,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2025_s1e11.webp",
+      "abyssid": "18466",
+      "abyssId": "18466",
+      "playxid": "4c75be1151d04f3cbdfeeb09922be0ab",
+      "playXID": "4c75be1151d04f3cbdfeeb09922be0ab",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18466",
+        "playXID": "4c75be1151d04f3cbdfeeb09922be0ab",
+        "streamId": "18466",
+        "dubPlayerSrc": "/dub-player/t/18466/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=4c75be1151d04f3cbdfeeb09922be0ab&abyssId=18466"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18466",
+        "playXID": "4c75be1151d04f3cbdfeeb09922be0ab",
+        "streamId": "18466",
+        "dubPlayerSrc": "/dub-player/t/18466/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=4c75be1151d04f3cbdfeeb09922be0ab&abyssId=18466"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/974665989159e4a9ef2595104007e8f7",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/974665989159e4a9ef2595104007e8f7"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18466",
+        "abyssId": "18466",
+        "playXID": "4c75be1151d04f3cbdfeeb09922be0ab",
+        "title": "LIAR GAME",
+        "season": 1,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "IrpzgiZ5Y"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "GD3fCvu6F"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "TLE9sbr36"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "n4j2j3up8"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "eKMBccDT2"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/98e0a0ff32437cc4858be9c611a63fa8/master.m3u8?md5=DXeUM5u3Iy0oeZg-YMc-qQ&expires=1792165983",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/98e0a0ff32437cc4858be9c611a63fa8/master.m3u8?md5=DXeUM5u3Iy0oeZg-YMc-qQ&expires=1792165983",
+            "videoSource": "https://ravok.buzz/cdn/hls/98e0a0ff32437cc4858be9c611a63fa8/master.m3u8?md5=DXeUM5u3Iy0oeZg-YMc-qQ&expires=1792165983",
+            "videoImage": "https://as-cdn29.top/p/VySOUWLzgsQwX09nVeuKg4_72xtC-Is7ydSdNV2qUs-jKlsDS3N2XJW4cwNtAbLQ76uldOMJ6X2WR9nrG4pxaQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "4c75be1151d04f3cbdfeeb09922be0ab",
+                "streamUrl": "https://ravok.buzz/cdn/hls/98e0a0ff32437cc4858be9c611a63fa8/master.m3u8?md5=DXeUM5u3Iy0oeZg-YMc-qQ&expires=1792165983",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/98e0a0ff32437cc4858be9c611a63fa8/master.m3u8?md5=DXeUM5u3Iy0oeZg-YMc-qQ&expires=1792165983",
+                "videoSource": "https://ravok.buzz/cdn/hls/98e0a0ff32437cc4858be9c611a63fa8/master.m3u8?md5=DXeUM5u3Iy0oeZg-YMc-qQ&expires=1792165983",
+                "link": "https://ravok.buzz/cdn/hls/98e0a0ff32437cc4858be9c611a63fa8/master.m3u8?md5=DXeUM5u3Iy0oeZg-YMc-qQ&expires=1792165983",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/VySOUWLzgsQwX09nVeuKg4_72xtC-Is7ydSdNV2qUs-jKlsDS3N2XJW4cwNtAbLQ76uldOMJ6X2WR9nrG4pxaQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "IrpzgiZ5Y"
+        }
+      },
+      "fetched_at": "2026-10-16T13:53:13Z"
+    },
+    {
+      "id": "episode/liar-game-1x10",
+      "episode_id": "episode/liar-game-1x10",
+      "title": "LIAR GAME 1x1",
+      "episode_name": "LIAR GAME 1x1",
+      "episode_number": 10,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2025_s1e10.webp",
+      "abyssid": "18414",
+      "abyssId": "18414",
+      "playxid": "945beadd1794ee1affd8a65dad8b844e",
+      "playXID": "945beadd1794ee1affd8a65dad8b844e",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18414",
+        "playXID": "945beadd1794ee1affd8a65dad8b844e",
+        "streamId": "18414",
+        "dubPlayerSrc": "/dub-player/t/18414/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=945beadd1794ee1affd8a65dad8b844e&abyssId=18414"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18414",
+        "playXID": "945beadd1794ee1affd8a65dad8b844e",
+        "streamId": "18414",
+        "dubPlayerSrc": "/dub-player/t/18414/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=945beadd1794ee1affd8a65dad8b844e&abyssId=18414"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/d5ece54ea76a9e6632f4242df1820164",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/d5ece54ea76a9e6632f4242df1820164"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18414",
+        "abyssId": "18414",
+        "playXID": "945beadd1794ee1affd8a65dad8b844e",
+        "title": "LIAR GAME",
+        "season": 1,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "FhcTsX-Nv"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "GR4Nx1jFCf"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "IZzQ7aSdX"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "a9ExVNh0R"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "YHZ2jgV2K"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/dcde4c9161196edb6034dcab443fe6cd/master.m3u8?md5=VOrUs0F_WgbHiOP0FHNBjA&expires=1792165983",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/dcde4c9161196edb6034dcab443fe6cd/master.m3u8?md5=VOrUs0F_WgbHiOP0FHNBjA&expires=1792165983",
+            "videoSource": "https://ravok.buzz/cdn/hls/dcde4c9161196edb6034dcab443fe6cd/master.m3u8?md5=VOrUs0F_WgbHiOP0FHNBjA&expires=1792165983",
+            "videoImage": "https://as-cdn27.top/p/jpt3xww2GzYGpuVa-HJBzREal1FYkjqlRzKh5MUt_FwMkRZTS9Huc9GnAfR9hoGNIUfanMozCeuevC2ykv_A_w.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "945beadd1794ee1affd8a65dad8b844e",
+                "streamUrl": "https://ravok.buzz/cdn/hls/dcde4c9161196edb6034dcab443fe6cd/master.m3u8?md5=VOrUs0F_WgbHiOP0FHNBjA&expires=1792165983",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/dcde4c9161196edb6034dcab443fe6cd/master.m3u8?md5=VOrUs0F_WgbHiOP0FHNBjA&expires=1792165983",
+                "videoSource": "https://ravok.buzz/cdn/hls/dcde4c9161196edb6034dcab443fe6cd/master.m3u8?md5=VOrUs0F_WgbHiOP0FHNBjA&expires=1792165983",
+                "link": "https://ravok.buzz/cdn/hls/dcde4c9161196edb6034dcab443fe6cd/master.m3u8?md5=VOrUs0F_WgbHiOP0FHNBjA&expires=1792165983",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/jpt3xww2GzYGpuVa-HJBzREal1FYkjqlRzKh5MUt_FwMkRZTS9Huc9GnAfR9hoGNIUfanMozCeuevC2ykv_A_w.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "FhcTsX-Nv"
+        }
+      },
+      "fetched_at": "2026-10-16T13:53:13Z"
+    },
+    {
+      "id": "episode/liar-game-1x12",
+      "episode_id": "episode/liar-game-1x12",
+      "title": "LIAR GAME 1x1",
+      "episode_name": "LIAR GAME 1x1",
+      "episode_number": 12,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2025_s1e12.webp",
+      "abyssid": "18550",
+      "abyssId": "18550",
+      "playxid": "fd5323cdf77a30f8ccc4f468be401563",
+      "playXID": "fd5323cdf77a30f8ccc4f468be401563",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18550",
+        "playXID": "fd5323cdf77a30f8ccc4f468be401563",
+        "streamId": "18550",
+        "dubPlayerSrc": "/dub-player/t/18550/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=fd5323cdf77a30f8ccc4f468be401563&abyssId=18550"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18550",
+        "playXID": "fd5323cdf77a30f8ccc4f468be401563",
+        "streamId": "18550",
+        "dubPlayerSrc": "/dub-player/t/18550/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=fd5323cdf77a30f8ccc4f468be401563&abyssId=18550"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/01671d8272924e3d10bce2c73066e933",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/01671d8272924e3d10bce2c73066e933"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18550",
+        "abyssId": "18550",
+        "playXID": "fd5323cdf77a30f8ccc4f468be401563",
+        "title": "LIAR GAME",
+        "season": 1,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "0Ukz0tQGbm"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "McaV5khXU"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "RA69Vl7s_"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "raZmEahiN"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "EmRldEUx5"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/79790408708ff8eda0680b9abbdb0e42/master.m3u8?md5=epKxFISi_CG8jVMTE4iYpw&expires=1792165983",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/79790408708ff8eda0680b9abbdb0e42/master.m3u8?md5=epKxFISi_CG8jVMTE4iYpw&expires=1792165983",
+            "videoSource": "https://ravok.buzz/cdn/hls/79790408708ff8eda0680b9abbdb0e42/master.m3u8?md5=epKxFISi_CG8jVMTE4iYpw&expires=1792165983",
+            "videoImage": "https://as-cdn27.top/p/4bGQHI6juYi0sFKqhUdy2jjc2ILx8VR1re3cfhZipi2Tt-nQiS_6ac8sEPie_EZ-ropsscjTICI4rnuGSwSDrg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "fd5323cdf77a30f8ccc4f468be401563",
+                "streamUrl": "https://ravok.buzz/cdn/hls/79790408708ff8eda0680b9abbdb0e42/master.m3u8?md5=epKxFISi_CG8jVMTE4iYpw&expires=1792165983",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/79790408708ff8eda0680b9abbdb0e42/master.m3u8?md5=epKxFISi_CG8jVMTE4iYpw&expires=1792165983",
+                "videoSource": "https://ravok.buzz/cdn/hls/79790408708ff8eda0680b9abbdb0e42/master.m3u8?md5=epKxFISi_CG8jVMTE4iYpw&expires=1792165983",
+                "link": "https://ravok.buzz/cdn/hls/79790408708ff8eda0680b9abbdb0e42/master.m3u8?md5=epKxFISi_CG8jVMTE4iYpw&expires=1792165983",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/4bGQHI6juYi0sFKqhUdy2jjc2ILx8VR1re3cfhZipi2Tt-nQiS_6ac8sEPie_EZ-ropsscjTICI4rnuGSwSDrg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "0Ukz0tQGbm"
+        }
+      },
+      "fetched_at": "2026-10-16T13:53:13Z"
+    },
+    {
+      "id": "episode/liar-game-1x9",
+      "episode_id": "episode/liar-game-1x9",
+      "title": "LIAR GAME 1x1",
+      "episode_name": "LIAR GAME 1x1",
+      "episode_number": 9,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2025_s1e9.webp",
+      "abyssid": "18410",
+      "abyssId": "18410",
+      "playxid": "4285f654d1785debf268b92614923237",
+      "playXID": "4285f654d1785debf268b92614923237",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18410",
+        "playXID": "4285f654d1785debf268b92614923237",
+        "streamId": "18410",
+        "dubPlayerSrc": "/dub-player/t/18410/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=4285f654d1785debf268b92614923237&abyssId=18410"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18410",
+        "playXID": "4285f654d1785debf268b92614923237",
+        "streamId": "18410",
+        "dubPlayerSrc": "/dub-player/t/18410/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=4285f654d1785debf268b92614923237&abyssId=18410"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/78f7a8d2193741fa2bfb74ea06e162b4",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/78f7a8d2193741fa2bfb74ea06e162b4"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18410",
+        "abyssId": "18410",
+        "playXID": "4285f654d1785debf268b92614923237",
+        "title": "LIAR GAME",
+        "season": 1,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "gx8I6sez2"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "yVOAt_N7f"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "NblIwI1le"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "W_kq3hAut"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "qWJwx50cB"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/d7dd4fe2598a89dd873c5fdc5e339425/master.m3u8?md5=iMzH-k0b9KzpiQYa6a-w5Q&expires=1792165984",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/d7dd4fe2598a89dd873c5fdc5e339425/master.m3u8?md5=iMzH-k0b9KzpiQYa6a-w5Q&expires=1792165984",
+            "videoSource": "https://ravok.buzz/cdn/hls/d7dd4fe2598a89dd873c5fdc5e339425/master.m3u8?md5=iMzH-k0b9KzpiQYa6a-w5Q&expires=1792165984",
+            "videoImage": "https://as-cdn28.top/p/nSlMDKiWdgY4DOqT8JfYR6De_dsZ0YnzZBQZTO-vpTMuSa3FkwC3Dljfj319XCeV005DdkzKqn1lZlEIZAZTRA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "4285f654d1785debf268b92614923237",
+                "streamUrl": "https://ravok.buzz/cdn/hls/d7dd4fe2598a89dd873c5fdc5e339425/master.m3u8?md5=iMzH-k0b9KzpiQYa6a-w5Q&expires=1792165984",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/d7dd4fe2598a89dd873c5fdc5e339425/master.m3u8?md5=iMzH-k0b9KzpiQYa6a-w5Q&expires=1792165984",
+                "videoSource": "https://ravok.buzz/cdn/hls/d7dd4fe2598a89dd873c5fdc5e339425/master.m3u8?md5=iMzH-k0b9KzpiQYa6a-w5Q&expires=1792165984",
+                "link": "https://ravok.buzz/cdn/hls/d7dd4fe2598a89dd873c5fdc5e339425/master.m3u8?md5=iMzH-k0b9KzpiQYa6a-w5Q&expires=1792165984",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/nSlMDKiWdgY4DOqT8JfYR6De_dsZ0YnzZBQZTO-vpTMuSa3FkwC3Dljfj319XCeV005DdkzKqn1lZlEIZAZTRA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "gx8I6sez2"
+        }
+      },
+      "fetched_at": "2026-10-16T13:53:14Z"
+    },
+    {
+      "id": "episode/liar-game-1x13",
+      "episode_id": "episode/liar-game-1x13",
+      "title": "LIAR GAME 1x1",
+      "episode_name": "LIAR GAME 1x1",
+      "episode_number": 13,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2025_s1e13.webp",
+      "abyssid": "18678",
+      "abyssId": "18678",
+      "playxid": "0d5bfba0961e9c0427e3850c85b591a2",
+      "playXID": "0d5bfba0961e9c0427e3850c85b591a2",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18678",
+        "playXID": "0d5bfba0961e9c0427e3850c85b591a2",
+        "streamId": "18678",
+        "dubPlayerSrc": "/dub-player/t/18678/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=0d5bfba0961e9c0427e3850c85b591a2&abyssId=18678"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18678",
+        "playXID": "0d5bfba0961e9c0427e3850c85b591a2",
+        "streamId": "18678",
+        "dubPlayerSrc": "/dub-player/t/18678/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=0d5bfba0961e9c0427e3850c85b591a2&abyssId=18678"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/b0e54e59a9fb43e43620e7174d30c2d0",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/b0e54e59a9fb43e43620e7174d30c2d0"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18678",
+        "abyssId": "18678",
+        "playXID": "0d5bfba0961e9c0427e3850c85b591a2",
+        "title": "LIAR GAME",
+        "season": 1,
+        "episode": 13,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "kI94B7xSP"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "YDQ0yzFV9"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "tbaLN4yO3"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "fEf7ENvli"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "cLR81po4E"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/044884f441bf05fe46a5054c9afef7c6/master.m3u8?md5=heBvqih6w35Qjhxtz-XUVA&expires=1792165986",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/044884f441bf05fe46a5054c9afef7c6/master.m3u8?md5=heBvqih6w35Qjhxtz-XUVA&expires=1792165986",
+            "videoSource": "https://ravok.buzz/cdn/hls/044884f441bf05fe46a5054c9afef7c6/master.m3u8?md5=heBvqih6w35Qjhxtz-XUVA&expires=1792165986",
+            "videoImage": "https://as-cdn28.top/p/0XNl_sxhT8_oVeRMNpUBuVit9UAwufC5krdHc6emhTCLZGuahUBZWKZ4rciuMxA96SHBh2wEOCf__TxR-AYK1Q.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "0d5bfba0961e9c0427e3850c85b591a2",
+                "streamUrl": "https://ravok.buzz/cdn/hls/044884f441bf05fe46a5054c9afef7c6/master.m3u8?md5=heBvqih6w35Qjhxtz-XUVA&expires=1792165986",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/044884f441bf05fe46a5054c9afef7c6/master.m3u8?md5=heBvqih6w35Qjhxtz-XUVA&expires=1792165986",
+                "videoSource": "https://ravok.buzz/cdn/hls/044884f441bf05fe46a5054c9afef7c6/master.m3u8?md5=heBvqih6w35Qjhxtz-XUVA&expires=1792165986",
+                "link": "https://ravok.buzz/cdn/hls/044884f441bf05fe46a5054c9afef7c6/master.m3u8?md5=heBvqih6w35Qjhxtz-XUVA&expires=1792165986",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/0XNl_sxhT8_oVeRMNpUBuVit9UAwufC5krdHc6emhTCLZGuahUBZWKZ4rciuMxA96SHBh2wEOCf__TxR-AYK1Q.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "kI94B7xSP"
+        }
+      },
+      "fetched_at": "2026-10-16T13:53:16Z"
+    },
+    {
+      "id": "episode/liar-game-1x14",
+      "episode_id": "episode/liar-game-1x14",
+      "title": "LIAR GAME 1x1",
+      "episode_name": "LIAR GAME 1x1",
+      "episode_number": 14,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2025_s1e14.webp",
+      "abyssid": "18734",
+      "abyssId": "18734",
+      "playxid": "0743832ad29f3a3ee0f01243aabbc3b8",
+      "playXID": "0743832ad29f3a3ee0f01243aabbc3b8",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18734",
+        "playXID": "0743832ad29f3a3ee0f01243aabbc3b8",
+        "streamId": "18734",
+        "dubPlayerSrc": "/dub-player/t/18734/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=0743832ad29f3a3ee0f01243aabbc3b8&abyssId=18734"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18734",
+        "playXID": "0743832ad29f3a3ee0f01243aabbc3b8",
+        "streamId": "18734",
+        "dubPlayerSrc": "/dub-player/t/18734/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=0743832ad29f3a3ee0f01243aabbc3b8&abyssId=18734"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/0871af0e2e24e2b794de31ce67099ba0",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/0871af0e2e24e2b794de31ce67099ba0"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18734",
+        "abyssId": "18734",
+        "playXID": "0743832ad29f3a3ee0f01243aabbc3b8",
+        "title": "LIAR GAME",
+        "season": 1,
+        "episode": 14,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "wWY29UoF-"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "IUKUTONLh"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "6dKPaZkpz"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "vWIomLXCV"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "Hon8eUMzw"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/c14578ec4767ec02241013bfd7b4c6f1/master.m3u8?md5=yVEair2Hw9xdJiAt7zH0aQ&expires=1792165985",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/c14578ec4767ec02241013bfd7b4c6f1/master.m3u8?md5=yVEair2Hw9xdJiAt7zH0aQ&expires=1792165985",
+            "videoSource": "https://ravok.buzz/cdn/hls/c14578ec4767ec02241013bfd7b4c6f1/master.m3u8?md5=yVEair2Hw9xdJiAt7zH0aQ&expires=1792165985",
+            "videoImage": "https://as-cdn29.top/p/144Jr4IiVp5O-NWy2dJCr0wDsd_sGiHdxrHhQDfBDeb6S_OA1GolPGqgBuGUHG30qbdzTDZLtv0F4dUG2bs46Q.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "0743832ad29f3a3ee0f01243aabbc3b8",
+                "streamUrl": "https://ravok.buzz/cdn/hls/c14578ec4767ec02241013bfd7b4c6f1/master.m3u8?md5=yVEair2Hw9xdJiAt7zH0aQ&expires=1792165985",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/c14578ec4767ec02241013bfd7b4c6f1/master.m3u8?md5=yVEair2Hw9xdJiAt7zH0aQ&expires=1792165985",
+                "videoSource": "https://ravok.buzz/cdn/hls/c14578ec4767ec02241013bfd7b4c6f1/master.m3u8?md5=yVEair2Hw9xdJiAt7zH0aQ&expires=1792165985",
+                "link": "https://ravok.buzz/cdn/hls/c14578ec4767ec02241013bfd7b4c6f1/master.m3u8?md5=yVEair2Hw9xdJiAt7zH0aQ&expires=1792165985",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/144Jr4IiVp5O-NWy2dJCr0wDsd_sGiHdxrHhQDfBDeb6S_OA1GolPGqgBuGUHG30qbdzTDZLtv0F4dUG2bs46Q.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "wWY29UoF-"
+        }
+      },
+      "fetched_at": "2026-10-16T13:53:16Z"
+    },
+    {
+      "id": "episode/liar-game-1x7",
+      "episode_id": "episode/liar-game-1x7",
+      "title": "LIAR GAME 1x1",
+      "episode_name": "LIAR GAME 1x1",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2025_s1e7.webp",
+      "abyssid": "18376",
+      "abyssId": "18376",
+      "playxid": "e50372d3fee4eadec9c42aa6528097cc",
+      "playXID": "e50372d3fee4eadec9c42aa6528097cc",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18376",
+        "playXID": "e50372d3fee4eadec9c42aa6528097cc",
+        "streamId": "18376",
+        "dubPlayerSrc": "/dub-player/t/18376/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e50372d3fee4eadec9c42aa6528097cc&abyssId=18376"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18376",
+        "playXID": "e50372d3fee4eadec9c42aa6528097cc",
+        "streamId": "18376",
+        "dubPlayerSrc": "/dub-player/t/18376/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e50372d3fee4eadec9c42aa6528097cc&abyssId=18376"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/a3301f2aa1d198cf589d59c5b76d2df4",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/a3301f2aa1d198cf589d59c5b76d2df4"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18376",
+        "abyssId": "18376",
+        "playXID": "e50372d3fee4eadec9c42aa6528097cc",
+        "title": "LIAR GAME",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "Az5Y_gZvA"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "_UigZWHTH"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "kjUYuvHiy"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "cPfFxN5zO"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "-uRBP-pbw"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/ef86af4a936d8c45f4c136838e814180/master.m3u8?md5=xkkL9US2BGZGNdFGrkzTuA&expires=1792165986",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/ef86af4a936d8c45f4c136838e814180/master.m3u8?md5=xkkL9US2BGZGNdFGrkzTuA&expires=1792165986",
+            "videoSource": "https://ravok.buzz/cdn/hls/ef86af4a936d8c45f4c136838e814180/master.m3u8?md5=xkkL9US2BGZGNdFGrkzTuA&expires=1792165986",
+            "videoImage": "https://as-cdn28.top/p/KKCFuCniR1kfsDi2-_snd9fMU_lGZoC5C1zBucsj0cbXmEAXVFVG1vUeArqOo2j54SAehA-Tf-4sgEhHxAmXQg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "e50372d3fee4eadec9c42aa6528097cc",
+                "streamUrl": "https://ravok.buzz/cdn/hls/ef86af4a936d8c45f4c136838e814180/master.m3u8?md5=xkkL9US2BGZGNdFGrkzTuA&expires=1792165986",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/ef86af4a936d8c45f4c136838e814180/master.m3u8?md5=xkkL9US2BGZGNdFGrkzTuA&expires=1792165986",
+                "videoSource": "https://ravok.buzz/cdn/hls/ef86af4a936d8c45f4c136838e814180/master.m3u8?md5=xkkL9US2BGZGNdFGrkzTuA&expires=1792165986",
+                "link": "https://ravok.buzz/cdn/hls/ef86af4a936d8c45f4c136838e814180/master.m3u8?md5=xkkL9US2BGZGNdFGrkzTuA&expires=1792165986",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/KKCFuCniR1kfsDi2-_snd9fMU_lGZoC5C1zBucsj0cbXmEAXVFVG1vUeArqOo2j54SAehA-Tf-4sgEhHxAmXQg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "Az5Y_gZvA"
+        }
+      },
+      "fetched_at": "2026-10-16T13:53:16Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T13:53:06Z",
+  "updated_at": "2026-10-16T13:53:16Z"
+}

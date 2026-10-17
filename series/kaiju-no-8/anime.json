@@ -1,0 +1,2837 @@
+{
+  "id": "series/kaiju-no-8",
+  "series_name": "Kaiju No. 8",
+  "title": "Kaiju No. 8",
+  "banner": "https://image.tmdb.org/t/p/w1280/htGeuCcNhlBe8GTx3izKOsd8frw.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/g4Da5pToG1E0moyaMhP4RewTBCl.jpg",
+  "genra": [
+    "Action",
+    "Military",
+    "Sci-Fi",
+    "Shounen"
+  ],
+  "genres": [
+    "Action",
+    "Military",
+    "Sci-Fi",
+    "Shounen"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Japanese",
+    "Tamil",
+    "Telugu"
+  ],
+  "synopsis": "In a world plagued by creatures known as Kaiju, Kafka Hibino aspired to enlist in The Defense Force. He makes a promise to enlist with his childhood friend, Mina Ashiro. Soon, life takes them in separate ways. While employed cleaning up after Kaiju battles, Kafka meets Reno Ichikawa. Reno's determination to join The Defense Force reawakens Kafka's promise to join Mina and protect humanity.",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 2,
+  "totalEpisodes": 23,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "The Man Who Became a Kaiju",
+          "id": "episode/kaiju-no-8-1x1",
+          "image": "https://img.watchanimeworld.one/images/12483/01.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "The Kaiju Who Defeats Kaiju",
+          "id": "episode/kaiju-no-8-1x2",
+          "image": "https://img.watchanimeworld.one/images/12483/02.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "Revenge Match",
+          "id": "episode/kaiju-no-8-1x3",
+          "image": "https://img.watchanimeworld.one/images/12483/03.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "Fortitude 9.8",
+          "id": "episode/kaiju-no-8-1x4",
+          "image": "https://img.watchanimeworld.one/images/12483/04.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "Joining Up!",
+          "id": "episode/kaiju-no-8-1x5",
+          "image": "https://img.watchanimeworld.one/images/12483/05.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "Sagamihara Neutralization Operation at Daybreak",
+          "id": "episode/kaiju-no-8-1x6",
+          "image": "https://img.watchanimeworld.one/images/12483/06.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "Kaiju No. 9",
+          "id": "episode/kaiju-no-8-1x7",
+          "image": "https://img.watchanimeworld.one/images/12483/07.webp",
+          "season": 1
+        },
+        {
+          "episode": 8,
+          "title": "Welcome to the Defense Force",
+          "id": "episode/kaiju-no-8-1x8",
+          "image": "https://img.watchanimeworld.one/images/12483/08.webp",
+          "season": 1
+        },
+        {
+          "episode": 9,
+          "title": "Raid on Tachikawa Base",
+          "id": "episode/kaiju-no-8-1x9",
+          "image": "https://img.watchanimeworld.one/images/12483/09.webp",
+          "season": 1
+        },
+        {
+          "episode": 10,
+          "title": "Secret Revealed",
+          "id": "episode/kaiju-no-8-1x10",
+          "image": "https://img.watchanimeworld.one/images/12483/10.webp",
+          "season": 1
+        },
+        {
+          "episode": 11,
+          "title": "Kaiju No. 8 Captured",
+          "id": "episode/kaiju-no-8-1x11",
+          "image": "https://img.watchanimeworld.one/images/12483/11.webp",
+          "season": 1
+        },
+        {
+          "episode": 12,
+          "title": "Kafka Hibino",
+          "id": "episode/kaiju-no-8-1x12",
+          "image": "https://img.watchanimeworld.one/images/12483/12.webp",
+          "season": 1
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "name": "Season 2",
+      "episodesCount": 11,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Kaiju No. 8 2x1",
+          "id": "episode/kaiju-no-8-2x1",
+          "image": "https://img.watchanimeworld.one/img/thumb_300_s2e1.webp",
+          "season": 2
+        },
+        {
+          "episode": 2,
+          "title": "Kaiju No. 8 2x2",
+          "id": "episode/kaiju-no-8-2x2",
+          "image": "https://img.watchanimeworld.one/img/thumb_300_s2e2.webp",
+          "season": 2
+        },
+        {
+          "episode": 3,
+          "title": "Kaiju No. 8 2x3",
+          "id": "episode/kaiju-no-8-2x3",
+          "image": "https://img.watchanimeworld.one/img/thumb_300_s2e3.webp",
+          "season": 2
+        },
+        {
+          "episode": 4,
+          "title": "Kaiju No. 8 2x4",
+          "id": "episode/kaiju-no-8-2x4",
+          "image": "https://img.watchanimeworld.one/img/thumb_300_s2e4.webp",
+          "season": 2
+        },
+        {
+          "episode": 5,
+          "title": "Kaiju No. 8 2x5",
+          "id": "episode/kaiju-no-8-2x5",
+          "image": "https://img.watchanimeworld.one/img/thumb_300_s2e5.webp",
+          "season": 2
+        },
+        {
+          "episode": 6,
+          "title": "Kaiju No. 8 2x6",
+          "id": "episode/kaiju-no-8-2x6",
+          "image": "https://img.watchanimeworld.one/img/thumb_300_s2e6.webp",
+          "season": 2
+        },
+        {
+          "episode": 7,
+          "title": "Kaiju No. 8 2x7",
+          "id": "episode/kaiju-no-8-2x7",
+          "image": "https://img.watchanimeworld.one/img/thumb_300_s2e7.webp",
+          "season": 2
+        },
+        {
+          "episode": 8,
+          "title": "Kaiju No. 8 2x8",
+          "id": "episode/kaiju-no-8-2x8",
+          "image": "https://img.watchanimeworld.one/img/thumb_300_s2e8.webp",
+          "season": 2
+        },
+        {
+          "episode": 9,
+          "title": "Kaiju No. 8 2x9",
+          "id": "episode/kaiju-no-8-2x9",
+          "image": "https://img.watchanimeworld.one/img/thumb_300_s2e9.webp",
+          "season": 2
+        },
+        {
+          "episode": 10,
+          "title": "Kaiju No. 8 2x10",
+          "id": "episode/kaiju-no-8-2x10",
+          "image": "https://img.watchanimeworld.one/img/thumb_300_s2e10.webp",
+          "season": 2
+        },
+        {
+          "episode": 11,
+          "title": "Kaiju No. 8 2x11",
+          "id": "episode/kaiju-no-8-2x11",
+          "image": "https://img.watchanimeworld.one/img/thumb_300_s2e11.webp",
+          "season": 2
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/kaiju-no-8-1x1",
+      "episode_id": "episode/kaiju-no-8-1x1",
+      "title": "The Man Who Became a Kaiju",
+      "episode_name": "The Man Who Became a Kaiju",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/12483/01.webp",
+      "abyssid": "7925",
+      "abyssId": "7925",
+      "playxid": "39d6530ef19d55fc98e82cb3907519fa",
+      "playXID": "39d6530ef19d55fc98e82cb3907519fa",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "7925",
+        "playXID": "39d6530ef19d55fc98e82cb3907519fa",
+        "streamId": "7925",
+        "dubPlayerSrc": "/dub-player/t/7925/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=39d6530ef19d55fc98e82cb3907519fa&abyssId=7925"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "7925",
+        "playXID": "39d6530ef19d55fc98e82cb3907519fa",
+        "streamId": "7925",
+        "dubPlayerSrc": "/dub-player/t/7925/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=39d6530ef19d55fc98e82cb3907519fa&abyssId=7925"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/39d6530ef19d55fc98e82cb3907519fa",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/39d6530ef19d55fc98e82cb3907519fa"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "7925",
+        "abyssId": "7925",
+        "playXID": "39d6530ef19d55fc98e82cb3907519fa",
+        "title": "Kaiju No. 8",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "83foduZQU"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "rLkk2v43Q"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "Z0il5TYpW"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "1qEurKFFf"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "RfQQCGbZb"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/0e7ae756c085307c3c1b458cb46dab65/master.m3u8?md5=ELxLOmcwJ07klFJBxCeT9A&expires=1792167474",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/0e7ae756c085307c3c1b458cb46dab65/master.m3u8?md5=ELxLOmcwJ07klFJBxCeT9A&expires=1792167474",
+            "videoSource": "https://ravok.buzz/cdn/hls/0e7ae756c085307c3c1b458cb46dab65/master.m3u8?md5=ELxLOmcwJ07klFJBxCeT9A&expires=1792167474",
+            "videoImage": "https://as-cdn28.top/p/usyvLe4vilmN6-rfL0NcPZrsmydJ-6tPpD-uwCKvSS32WU-ccLqQiddUjTrq8-x1-1xlkUnrFQwOpm-Pu926tQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "39d6530ef19d55fc98e82cb3907519fa",
+                "streamUrl": "https://ravok.buzz/cdn/hls/0e7ae756c085307c3c1b458cb46dab65/master.m3u8?md5=ELxLOmcwJ07klFJBxCeT9A&expires=1792167474",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/0e7ae756c085307c3c1b458cb46dab65/master.m3u8?md5=ELxLOmcwJ07klFJBxCeT9A&expires=1792167474",
+                "videoSource": "https://ravok.buzz/cdn/hls/0e7ae756c085307c3c1b458cb46dab65/master.m3u8?md5=ELxLOmcwJ07klFJBxCeT9A&expires=1792167474",
+                "link": "https://ravok.buzz/cdn/hls/0e7ae756c085307c3c1b458cb46dab65/master.m3u8?md5=ELxLOmcwJ07klFJBxCeT9A&expires=1792167474",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/usyvLe4vilmN6-rfL0NcPZrsmydJ-6tPpD-uwCKvSS32WU-ccLqQiddUjTrq8-x1-1xlkUnrFQwOpm-Pu926tQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "83foduZQU"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:04Z"
+    },
+    {
+      "id": "episode/kaiju-no-8-1x3",
+      "episode_id": "episode/kaiju-no-8-1x3",
+      "title": "The Man Who Became a Kaiju",
+      "episode_name": "The Man Who Became a Kaiju",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/12483/03.webp",
+      "abyssid": "7927",
+      "abyssId": "7927",
+      "playxid": "3a1dd98341fafc1dfe9bcf36360e6b84",
+      "playXID": "3a1dd98341fafc1dfe9bcf36360e6b84",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "7927",
+        "playXID": "3a1dd98341fafc1dfe9bcf36360e6b84",
+        "streamId": "7927",
+        "dubPlayerSrc": "/dub-player/t/7927/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=3a1dd98341fafc1dfe9bcf36360e6b84&abyssId=7927"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "7927",
+        "playXID": "3a1dd98341fafc1dfe9bcf36360e6b84",
+        "streamId": "7927",
+        "dubPlayerSrc": "/dub-player/t/7927/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=3a1dd98341fafc1dfe9bcf36360e6b84&abyssId=7927"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/3a1dd98341fafc1dfe9bcf36360e6b84",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/3a1dd98341fafc1dfe9bcf36360e6b84"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "7927",
+        "abyssId": "7927",
+        "playXID": "3a1dd98341fafc1dfe9bcf36360e6b84",
+        "title": "Kaiju No. 8",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "PGC8NYNso"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "ybuK12WU_"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "foWNefdOX"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "tnnC0rmv_"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "P03pTf5S0"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/e94af660aba4acff65b4766c6612e95f/master.m3u8?md5=HUYUcqv4QTz-ANhlyXEa0Q&expires=1792167474",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/e94af660aba4acff65b4766c6612e95f/master.m3u8?md5=HUYUcqv4QTz-ANhlyXEa0Q&expires=1792167474",
+            "videoSource": "https://ravok.buzz/cdn/hls/e94af660aba4acff65b4766c6612e95f/master.m3u8?md5=HUYUcqv4QTz-ANhlyXEa0Q&expires=1792167474",
+            "videoImage": "https://as-cdn29.top/p/18Z_v-nC_U9KlNEIfHGdXXdSaUTWk3caxLb81ip1XJQ8Ik4E4RDt7f_hmO3xtmX8BbY0EghxLg05QwM_X7uWtQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "3a1dd98341fafc1dfe9bcf36360e6b84",
+                "streamUrl": "https://ravok.buzz/cdn/hls/e94af660aba4acff65b4766c6612e95f/master.m3u8?md5=HUYUcqv4QTz-ANhlyXEa0Q&expires=1792167474",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/e94af660aba4acff65b4766c6612e95f/master.m3u8?md5=HUYUcqv4QTz-ANhlyXEa0Q&expires=1792167474",
+                "videoSource": "https://ravok.buzz/cdn/hls/e94af660aba4acff65b4766c6612e95f/master.m3u8?md5=HUYUcqv4QTz-ANhlyXEa0Q&expires=1792167474",
+                "link": "https://ravok.buzz/cdn/hls/e94af660aba4acff65b4766c6612e95f/master.m3u8?md5=HUYUcqv4QTz-ANhlyXEa0Q&expires=1792167474",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/18Z_v-nC_U9KlNEIfHGdXXdSaUTWk3caxLb81ip1XJQ8Ik4E4RDt7f_hmO3xtmX8BbY0EghxLg05QwM_X7uWtQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "PGC8NYNso"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:04Z"
+    },
+    {
+      "id": "episode/kaiju-no-8-1x2",
+      "episode_id": "episode/kaiju-no-8-1x2",
+      "title": "The Man Who Became a Kaiju",
+      "episode_name": "The Man Who Became a Kaiju",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/12483/02.webp",
+      "abyssid": "7926",
+      "abyssId": "7926",
+      "playxid": "032abcd424b4312e7087f434ef1c0094",
+      "playXID": "032abcd424b4312e7087f434ef1c0094",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "7926",
+        "playXID": "032abcd424b4312e7087f434ef1c0094",
+        "streamId": "7926",
+        "dubPlayerSrc": "/dub-player/t/7926/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=032abcd424b4312e7087f434ef1c0094&abyssId=7926"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "7926",
+        "playXID": "032abcd424b4312e7087f434ef1c0094",
+        "streamId": "7926",
+        "dubPlayerSrc": "/dub-player/t/7926/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=032abcd424b4312e7087f434ef1c0094&abyssId=7926"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/032abcd424b4312e7087f434ef1c0094",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/032abcd424b4312e7087f434ef1c0094"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "7926",
+        "abyssId": "7926",
+        "playXID": "032abcd424b4312e7087f434ef1c0094",
+        "title": "Kaiju No. 8",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "eMdneAiSN"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "ynjkSlkI7"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "6GS3r6EE-"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "p5Gc6obbJ"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "iT9XoK0ADq"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/31f3cf6797a4e56f1de5fc6ffb39af1e/master.m3u8?md5=5ty6ao7MVwEmNBUbv7VEaA&expires=1792167474",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/31f3cf6797a4e56f1de5fc6ffb39af1e/master.m3u8?md5=5ty6ao7MVwEmNBUbv7VEaA&expires=1792167474",
+            "videoSource": "https://ravok.buzz/cdn/hls/31f3cf6797a4e56f1de5fc6ffb39af1e/master.m3u8?md5=5ty6ao7MVwEmNBUbv7VEaA&expires=1792167474",
+            "videoImage": "https://as-cdn31.top/p/cKsuYre-gomlP7MR0EKe5FCPxGHoVs_UmGjiWnSHHZuvvHrIE7KIuNYNnS_yqvjXcNqpZVenweyYB9SJUDq8VQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "032abcd424b4312e7087f434ef1c0094",
+                "streamUrl": "https://ravok.buzz/cdn/hls/31f3cf6797a4e56f1de5fc6ffb39af1e/master.m3u8?md5=5ty6ao7MVwEmNBUbv7VEaA&expires=1792167474",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/31f3cf6797a4e56f1de5fc6ffb39af1e/master.m3u8?md5=5ty6ao7MVwEmNBUbv7VEaA&expires=1792167474",
+                "videoSource": "https://ravok.buzz/cdn/hls/31f3cf6797a4e56f1de5fc6ffb39af1e/master.m3u8?md5=5ty6ao7MVwEmNBUbv7VEaA&expires=1792167474",
+                "link": "https://ravok.buzz/cdn/hls/31f3cf6797a4e56f1de5fc6ffb39af1e/master.m3u8?md5=5ty6ao7MVwEmNBUbv7VEaA&expires=1792167474",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/cKsuYre-gomlP7MR0EKe5FCPxGHoVs_UmGjiWnSHHZuvvHrIE7KIuNYNnS_yqvjXcNqpZVenweyYB9SJUDq8VQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "eMdneAiSN"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:04Z"
+    },
+    {
+      "id": "episode/kaiju-no-8-1x4",
+      "episode_id": "episode/kaiju-no-8-1x4",
+      "title": "The Man Who Became a Kaiju",
+      "episode_name": "The Man Who Became a Kaiju",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/12483/04.webp",
+      "abyssid": "7928",
+      "abyssId": "7928",
+      "playxid": "100d9f30ca54b18d14821dc88fea0631",
+      "playXID": "100d9f30ca54b18d14821dc88fea0631",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "7928",
+        "playXID": "100d9f30ca54b18d14821dc88fea0631",
+        "streamId": "7928",
+        "dubPlayerSrc": "/dub-player/t/7928/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=100d9f30ca54b18d14821dc88fea0631&abyssId=7928"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "7928",
+        "playXID": "100d9f30ca54b18d14821dc88fea0631",
+        "streamId": "7928",
+        "dubPlayerSrc": "/dub-player/t/7928/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=100d9f30ca54b18d14821dc88fea0631&abyssId=7928"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/100d9f30ca54b18d14821dc88fea0631",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/100d9f30ca54b18d14821dc88fea0631"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "7928",
+        "abyssId": "7928",
+        "playXID": "100d9f30ca54b18d14821dc88fea0631",
+        "title": "Kaiju No. 8",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "WY8hvhamK"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "Q38fDL11n"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "QHM3GOnSQ"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "rJ6PatGBW"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "oHd2yOVsB"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/c2eb4f668cf5245e4469a22d2d457e05/master.m3u8?md5=Va2OFOYLPuy8Kmh5aZzyaA&expires=1792167474",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/c2eb4f668cf5245e4469a22d2d457e05/master.m3u8?md5=Va2OFOYLPuy8Kmh5aZzyaA&expires=1792167474",
+            "videoSource": "https://ravok.buzz/cdn/hls/c2eb4f668cf5245e4469a22d2d457e05/master.m3u8?md5=Va2OFOYLPuy8Kmh5aZzyaA&expires=1792167474",
+            "videoImage": "https://as-cdn27.top/p/R9RQoIMEkyqB76VfYrZuDiExHyz8QNk8U5y1dGwoaATopetP0sNaRP_Bkuyi_NEWEPf9aeLFfMBq5TvSNTSgig.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "100d9f30ca54b18d14821dc88fea0631",
+                "streamUrl": "https://ravok.buzz/cdn/hls/c2eb4f668cf5245e4469a22d2d457e05/master.m3u8?md5=Va2OFOYLPuy8Kmh5aZzyaA&expires=1792167474",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/c2eb4f668cf5245e4469a22d2d457e05/master.m3u8?md5=Va2OFOYLPuy8Kmh5aZzyaA&expires=1792167474",
+                "videoSource": "https://ravok.buzz/cdn/hls/c2eb4f668cf5245e4469a22d2d457e05/master.m3u8?md5=Va2OFOYLPuy8Kmh5aZzyaA&expires=1792167474",
+                "link": "https://ravok.buzz/cdn/hls/c2eb4f668cf5245e4469a22d2d457e05/master.m3u8?md5=Va2OFOYLPuy8Kmh5aZzyaA&expires=1792167474",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/R9RQoIMEkyqB76VfYrZuDiExHyz8QNk8U5y1dGwoaATopetP0sNaRP_Bkuyi_NEWEPf9aeLFfMBq5TvSNTSgig.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "WY8hvhamK"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:04Z"
+    },
+    {
+      "id": "episode/kaiju-no-8-1x5",
+      "episode_id": "episode/kaiju-no-8-1x5",
+      "title": "The Man Who Became a Kaiju",
+      "episode_name": "The Man Who Became a Kaiju",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/12483/05.webp",
+      "abyssid": "7929",
+      "abyssId": "7929",
+      "playxid": "d51b416788b6ee70eb0c381c06efc9f1",
+      "playXID": "d51b416788b6ee70eb0c381c06efc9f1",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "7929",
+        "playXID": "d51b416788b6ee70eb0c381c06efc9f1",
+        "streamId": "7929",
+        "dubPlayerSrc": "/dub-player/t/7929/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d51b416788b6ee70eb0c381c06efc9f1&abyssId=7929"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "7929",
+        "playXID": "d51b416788b6ee70eb0c381c06efc9f1",
+        "streamId": "7929",
+        "dubPlayerSrc": "/dub-player/t/7929/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d51b416788b6ee70eb0c381c06efc9f1&abyssId=7929"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/d51b416788b6ee70eb0c381c06efc9f1",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/d51b416788b6ee70eb0c381c06efc9f1"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "7929",
+        "abyssId": "7929",
+        "playXID": "d51b416788b6ee70eb0c381c06efc9f1",
+        "title": "Kaiju No. 8",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "vuQbRRRed"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "29pJzYZ1K"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "wwDVjHJIt"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "rTRcAU5Vu"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "kJoz8x_TH"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/ea961138663dea7153d9b5afa562d698/master.m3u8?md5=vTdU_sdo5rETXYGPTi3VIQ&expires=1792167474",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/ea961138663dea7153d9b5afa562d698/master.m3u8?md5=vTdU_sdo5rETXYGPTi3VIQ&expires=1792167474",
+            "videoSource": "https://ravok.buzz/cdn/hls/ea961138663dea7153d9b5afa562d698/master.m3u8?md5=vTdU_sdo5rETXYGPTi3VIQ&expires=1792167474",
+            "videoImage": "https://as-cdn27.top/p/jHrphK0HglRUW5bb8Mehyqv6gBL87fkgYIvJGDVk9EbEljG2T6Z9L7AMU2ttiH88WYoiqhU2XfNPQGlrkaVGtA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "d51b416788b6ee70eb0c381c06efc9f1",
+                "streamUrl": "https://ravok.buzz/cdn/hls/ea961138663dea7153d9b5afa562d698/master.m3u8?md5=vTdU_sdo5rETXYGPTi3VIQ&expires=1792167474",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/ea961138663dea7153d9b5afa562d698/master.m3u8?md5=vTdU_sdo5rETXYGPTi3VIQ&expires=1792167474",
+                "videoSource": "https://ravok.buzz/cdn/hls/ea961138663dea7153d9b5afa562d698/master.m3u8?md5=vTdU_sdo5rETXYGPTi3VIQ&expires=1792167474",
+                "link": "https://ravok.buzz/cdn/hls/ea961138663dea7153d9b5afa562d698/master.m3u8?md5=vTdU_sdo5rETXYGPTi3VIQ&expires=1792167474",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/jHrphK0HglRUW5bb8Mehyqv6gBL87fkgYIvJGDVk9EbEljG2T6Z9L7AMU2ttiH88WYoiqhU2XfNPQGlrkaVGtA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "vuQbRRRed"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:04Z"
+    },
+    {
+      "id": "episode/kaiju-no-8-1x6",
+      "episode_id": "episode/kaiju-no-8-1x6",
+      "title": "The Man Who Became a Kaiju",
+      "episode_name": "The Man Who Became a Kaiju",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/12483/06.webp",
+      "abyssid": "7930",
+      "abyssId": "7930",
+      "playxid": "2056d8c1dec3d12cbce646b348d189d1",
+      "playXID": "2056d8c1dec3d12cbce646b348d189d1",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "7930",
+        "playXID": "2056d8c1dec3d12cbce646b348d189d1",
+        "streamId": "7930",
+        "dubPlayerSrc": "/dub-player/t/7930/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2056d8c1dec3d12cbce646b348d189d1&abyssId=7930"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "7930",
+        "playXID": "2056d8c1dec3d12cbce646b348d189d1",
+        "streamId": "7930",
+        "dubPlayerSrc": "/dub-player/t/7930/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2056d8c1dec3d12cbce646b348d189d1&abyssId=7930"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/2056d8c1dec3d12cbce646b348d189d1",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/2056d8c1dec3d12cbce646b348d189d1"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "7930",
+        "abyssId": "7930",
+        "playXID": "2056d8c1dec3d12cbce646b348d189d1",
+        "title": "Kaiju No. 8",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "_LJs67tLv"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "pSPma4euJ"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "yMopSVUYb"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "BKH9W6LWD"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "DlOIzjb0i"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/c620f9872c09be21164a4cdb6612871c/master.m3u8?md5=pqpWbINM_xYx7kdZabvgiQ&expires=1792167476",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/c620f9872c09be21164a4cdb6612871c/master.m3u8?md5=pqpWbINM_xYx7kdZabvgiQ&expires=1792167476",
+            "videoSource": "https://ravok.buzz/cdn/hls/c620f9872c09be21164a4cdb6612871c/master.m3u8?md5=pqpWbINM_xYx7kdZabvgiQ&expires=1792167476",
+            "videoImage": "https://as-cdn29.top/p/dKJ3IYlaUJ1rv2VWhRBp4O_4NDIR0wxSpYtoGABYV6HnuZRlU5o-cC7Jgv2YPKaFbhduVOAcBtYgN4_m3lCREQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "2056d8c1dec3d12cbce646b348d189d1",
+                "streamUrl": "https://ravok.buzz/cdn/hls/c620f9872c09be21164a4cdb6612871c/master.m3u8?md5=pqpWbINM_xYx7kdZabvgiQ&expires=1792167476",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/c620f9872c09be21164a4cdb6612871c/master.m3u8?md5=pqpWbINM_xYx7kdZabvgiQ&expires=1792167476",
+                "videoSource": "https://ravok.buzz/cdn/hls/c620f9872c09be21164a4cdb6612871c/master.m3u8?md5=pqpWbINM_xYx7kdZabvgiQ&expires=1792167476",
+                "link": "https://ravok.buzz/cdn/hls/c620f9872c09be21164a4cdb6612871c/master.m3u8?md5=pqpWbINM_xYx7kdZabvgiQ&expires=1792167476",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/dKJ3IYlaUJ1rv2VWhRBp4O_4NDIR0wxSpYtoGABYV6HnuZRlU5o-cC7Jgv2YPKaFbhduVOAcBtYgN4_m3lCREQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "_LJs67tLv"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:06Z"
+    },
+    {
+      "id": "episode/kaiju-no-8-1x7",
+      "episode_id": "episode/kaiju-no-8-1x7",
+      "title": "The Man Who Became a Kaiju",
+      "episode_name": "The Man Who Became a Kaiju",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/12483/07.webp",
+      "abyssid": "7931",
+      "abyssId": "7931",
+      "playxid": "00a03ec6533ca7f5c644d198d815329c",
+      "playXID": "00a03ec6533ca7f5c644d198d815329c",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "7931",
+        "playXID": "00a03ec6533ca7f5c644d198d815329c",
+        "streamId": "7931",
+        "dubPlayerSrc": "/dub-player/t/7931/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=00a03ec6533ca7f5c644d198d815329c&abyssId=7931"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "7931",
+        "playXID": "00a03ec6533ca7f5c644d198d815329c",
+        "streamId": "7931",
+        "dubPlayerSrc": "/dub-player/t/7931/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=00a03ec6533ca7f5c644d198d815329c&abyssId=7931"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/00a03ec6533ca7f5c644d198d815329c",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/00a03ec6533ca7f5c644d198d815329c"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "7931",
+        "abyssId": "7931",
+        "playXID": "00a03ec6533ca7f5c644d198d815329c",
+        "title": "Kaiju No. 8",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "FYqnPt8XD"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "IL_uRuZG1"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "u1lLZvgrt"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "AW6-Vapao"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "glPJ1n6GB"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/9bc069e84064f05767b751904715d273/master.m3u8?md5=fhXC08FyHcDhGoQGZnij8g&expires=1792167476",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/9bc069e84064f05767b751904715d273/master.m3u8?md5=fhXC08FyHcDhGoQGZnij8g&expires=1792167476",
+            "videoSource": "https://ravok.buzz/cdn/hls/9bc069e84064f05767b751904715d273/master.m3u8?md5=fhXC08FyHcDhGoQGZnij8g&expires=1792167476",
+            "videoImage": "https://as-cdn30.top/p/RnHC9h9qwpXG4-5MCRMWm1GT_rhWxrogTXPakpRJ-OcLRI29vlA1n1jpZGXy1A6JnD7SsgWb3LggxhEtkleW1g.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "00a03ec6533ca7f5c644d198d815329c",
+                "streamUrl": "https://ravok.buzz/cdn/hls/9bc069e84064f05767b751904715d273/master.m3u8?md5=fhXC08FyHcDhGoQGZnij8g&expires=1792167476",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/9bc069e84064f05767b751904715d273/master.m3u8?md5=fhXC08FyHcDhGoQGZnij8g&expires=1792167476",
+                "videoSource": "https://ravok.buzz/cdn/hls/9bc069e84064f05767b751904715d273/master.m3u8?md5=fhXC08FyHcDhGoQGZnij8g&expires=1792167476",
+                "link": "https://ravok.buzz/cdn/hls/9bc069e84064f05767b751904715d273/master.m3u8?md5=fhXC08FyHcDhGoQGZnij8g&expires=1792167476",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/RnHC9h9qwpXG4-5MCRMWm1GT_rhWxrogTXPakpRJ-OcLRI29vlA1n1jpZGXy1A6JnD7SsgWb3LggxhEtkleW1g.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "FYqnPt8XD"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:06Z"
+    },
+    {
+      "id": "episode/kaiju-no-8-1x9",
+      "episode_id": "episode/kaiju-no-8-1x9",
+      "title": "The Man Who Became a Kaiju",
+      "episode_name": "The Man Who Became a Kaiju",
+      "episode_number": 9,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/12483/09.webp",
+      "abyssid": "7933",
+      "abyssId": "7933",
+      "playxid": "81b3833e2504647f9d794f7d7b9bf341",
+      "playXID": "81b3833e2504647f9d794f7d7b9bf341",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "7933",
+        "playXID": "81b3833e2504647f9d794f7d7b9bf341",
+        "streamId": "7933",
+        "dubPlayerSrc": "/dub-player/t/7933/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=81b3833e2504647f9d794f7d7b9bf341&abyssId=7933"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "7933",
+        "playXID": "81b3833e2504647f9d794f7d7b9bf341",
+        "streamId": "7933",
+        "dubPlayerSrc": "/dub-player/t/7933/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=81b3833e2504647f9d794f7d7b9bf341&abyssId=7933"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/81b3833e2504647f9d794f7d7b9bf341",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/81b3833e2504647f9d794f7d7b9bf341"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "7933",
+        "abyssId": "7933",
+        "playXID": "81b3833e2504647f9d794f7d7b9bf341",
+        "title": "Kaiju No. 8",
+        "season": 1,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "TCIXX8VE0"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "IJ1vhIrK5"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "85i_SS0c0"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "mGKn5599f"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "ekjYWePCH"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/e3c975d5a0b05a90eb046c5ae270043b/master.m3u8?md5=umKf6MXtZQXNOTxx2ZBpkQ&expires=1792167476",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/e3c975d5a0b05a90eb046c5ae270043b/master.m3u8?md5=umKf6MXtZQXNOTxx2ZBpkQ&expires=1792167476",
+            "videoSource": "https://ravok.buzz/cdn/hls/e3c975d5a0b05a90eb046c5ae270043b/master.m3u8?md5=umKf6MXtZQXNOTxx2ZBpkQ&expires=1792167476",
+            "videoImage": "https://as-cdn31.top/p/z0N02rq20rGQYpKx28RNiKPhPTGTanc7VOe2w54DdLOwHMwOwXofGjMBM0CxtJrQjpPRrzP_8AuLgyM6LHcVgQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "81b3833e2504647f9d794f7d7b9bf341",
+                "streamUrl": "https://ravok.buzz/cdn/hls/e3c975d5a0b05a90eb046c5ae270043b/master.m3u8?md5=umKf6MXtZQXNOTxx2ZBpkQ&expires=1792167476",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/e3c975d5a0b05a90eb046c5ae270043b/master.m3u8?md5=umKf6MXtZQXNOTxx2ZBpkQ&expires=1792167476",
+                "videoSource": "https://ravok.buzz/cdn/hls/e3c975d5a0b05a90eb046c5ae270043b/master.m3u8?md5=umKf6MXtZQXNOTxx2ZBpkQ&expires=1792167476",
+                "link": "https://ravok.buzz/cdn/hls/e3c975d5a0b05a90eb046c5ae270043b/master.m3u8?md5=umKf6MXtZQXNOTxx2ZBpkQ&expires=1792167476",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/z0N02rq20rGQYpKx28RNiKPhPTGTanc7VOe2w54DdLOwHMwOwXofGjMBM0CxtJrQjpPRrzP_8AuLgyM6LHcVgQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "TCIXX8VE0"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:06Z"
+    },
+    {
+      "id": "episode/kaiju-no-8-1x8",
+      "episode_id": "episode/kaiju-no-8-1x8",
+      "title": "The Man Who Became a Kaiju",
+      "episode_name": "The Man Who Became a Kaiju",
+      "episode_number": 8,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/12483/08.webp",
+      "abyssid": "7932",
+      "abyssId": "7932",
+      "playxid": "f12ee9734e1edf70ed02d9829018b3d9",
+      "playXID": "f12ee9734e1edf70ed02d9829018b3d9",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "7932",
+        "playXID": "f12ee9734e1edf70ed02d9829018b3d9",
+        "streamId": "7932",
+        "dubPlayerSrc": "/dub-player/t/7932/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f12ee9734e1edf70ed02d9829018b3d9&abyssId=7932"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "7932",
+        "playXID": "f12ee9734e1edf70ed02d9829018b3d9",
+        "streamId": "7932",
+        "dubPlayerSrc": "/dub-player/t/7932/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f12ee9734e1edf70ed02d9829018b3d9&abyssId=7932"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/f12ee9734e1edf70ed02d9829018b3d9",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/f12ee9734e1edf70ed02d9829018b3d9"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "7932",
+        "abyssId": "7932",
+        "playXID": "f12ee9734e1edf70ed02d9829018b3d9",
+        "title": "Kaiju No. 8",
+        "season": 1,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "ZAl7b4eOI"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "gkMixpOnU"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "0S-93xB_y"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "fIb5b9ssM"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "PMyokM7z9"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/385310ef52b23697b8ecb04c4026c718/master.m3u8?md5=mgYtTHsSp-S9oQxSWFuiSQ&expires=1792167476",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/385310ef52b23697b8ecb04c4026c718/master.m3u8?md5=mgYtTHsSp-S9oQxSWFuiSQ&expires=1792167476",
+            "videoSource": "https://ravok.buzz/cdn/hls/385310ef52b23697b8ecb04c4026c718/master.m3u8?md5=mgYtTHsSp-S9oQxSWFuiSQ&expires=1792167476",
+            "videoImage": "https://as-cdn30.top/p/k4UKZmZO5YOOlv_cWpPBRQcK_IUna-g_xq6CXKo1H3p7lQkNSQcyd6J0ZJsAXeGcAY0e31sb4XchlvybsJ65Ow.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "f12ee9734e1edf70ed02d9829018b3d9",
+                "streamUrl": "https://ravok.buzz/cdn/hls/385310ef52b23697b8ecb04c4026c718/master.m3u8?md5=mgYtTHsSp-S9oQxSWFuiSQ&expires=1792167476",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/385310ef52b23697b8ecb04c4026c718/master.m3u8?md5=mgYtTHsSp-S9oQxSWFuiSQ&expires=1792167476",
+                "videoSource": "https://ravok.buzz/cdn/hls/385310ef52b23697b8ecb04c4026c718/master.m3u8?md5=mgYtTHsSp-S9oQxSWFuiSQ&expires=1792167476",
+                "link": "https://ravok.buzz/cdn/hls/385310ef52b23697b8ecb04c4026c718/master.m3u8?md5=mgYtTHsSp-S9oQxSWFuiSQ&expires=1792167476",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/k4UKZmZO5YOOlv_cWpPBRQcK_IUna-g_xq6CXKo1H3p7lQkNSQcyd6J0ZJsAXeGcAY0e31sb4XchlvybsJ65Ow.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "ZAl7b4eOI"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:06Z"
+    },
+    {
+      "id": "episode/kaiju-no-8-1x10",
+      "episode_id": "episode/kaiju-no-8-1x10",
+      "title": "The Man Who Became a Kaiju",
+      "episode_name": "The Man Who Became a Kaiju",
+      "episode_number": 10,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/12483/10.webp",
+      "abyssid": "7934",
+      "abyssId": "7934",
+      "playxid": "e2ad76f2326fbc6b56a45a56c59fafdb",
+      "playXID": "e2ad76f2326fbc6b56a45a56c59fafdb",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "7934",
+        "playXID": "e2ad76f2326fbc6b56a45a56c59fafdb",
+        "streamId": "7934",
+        "dubPlayerSrc": "/dub-player/t/7934/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e2ad76f2326fbc6b56a45a56c59fafdb&abyssId=7934"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "7934",
+        "playXID": "e2ad76f2326fbc6b56a45a56c59fafdb",
+        "streamId": "7934",
+        "dubPlayerSrc": "/dub-player/t/7934/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e2ad76f2326fbc6b56a45a56c59fafdb&abyssId=7934"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/e2ad76f2326fbc6b56a45a56c59fafdb",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/e2ad76f2326fbc6b56a45a56c59fafdb"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "7934",
+        "abyssId": "7934",
+        "playXID": "e2ad76f2326fbc6b56a45a56c59fafdb",
+        "title": "Kaiju No. 8",
+        "season": 1,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "fnaRf3otS"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "lB9DCHjC5"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "TfGBfcZHt"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "wPiPQMCiO"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "8D8ihcs1M"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/7f43050f005c0f2464cf5b041551d8d5/master.m3u8?md5=Vr8Wa3SnnObsUZ6nh3EFlw&expires=1792167476",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/7f43050f005c0f2464cf5b041551d8d5/master.m3u8?md5=Vr8Wa3SnnObsUZ6nh3EFlw&expires=1792167476",
+            "videoSource": "https://ravok.buzz/cdn/hls/7f43050f005c0f2464cf5b041551d8d5/master.m3u8?md5=Vr8Wa3SnnObsUZ6nh3EFlw&expires=1792167476",
+            "videoImage": "https://as-cdn29.top/p/LfrkfoGFy-hSII3wUa1zUVLBIJgM5S4w83OpOwGamCSn0N--7VJcQ-d8lTlkdJszcWXBVU3ygDfU2tinkbHHmA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "e2ad76f2326fbc6b56a45a56c59fafdb",
+                "streamUrl": "https://ravok.buzz/cdn/hls/7f43050f005c0f2464cf5b041551d8d5/master.m3u8?md5=Vr8Wa3SnnObsUZ6nh3EFlw&expires=1792167476",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/7f43050f005c0f2464cf5b041551d8d5/master.m3u8?md5=Vr8Wa3SnnObsUZ6nh3EFlw&expires=1792167476",
+                "videoSource": "https://ravok.buzz/cdn/hls/7f43050f005c0f2464cf5b041551d8d5/master.m3u8?md5=Vr8Wa3SnnObsUZ6nh3EFlw&expires=1792167476",
+                "link": "https://ravok.buzz/cdn/hls/7f43050f005c0f2464cf5b041551d8d5/master.m3u8?md5=Vr8Wa3SnnObsUZ6nh3EFlw&expires=1792167476",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/LfrkfoGFy-hSII3wUa1zUVLBIJgM5S4w83OpOwGamCSn0N--7VJcQ-d8lTlkdJszcWXBVU3ygDfU2tinkbHHmA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "fnaRf3otS"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:06Z"
+    },
+    {
+      "id": "episode/kaiju-no-8-1x11",
+      "episode_id": "episode/kaiju-no-8-1x11",
+      "title": "The Man Who Became a Kaiju",
+      "episode_name": "The Man Who Became a Kaiju",
+      "episode_number": 11,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/12483/11.webp",
+      "abyssid": "7935",
+      "abyssId": "7935",
+      "playxid": "b440509a0106086a67bc2ea9df0a1dab",
+      "playXID": "b440509a0106086a67bc2ea9df0a1dab",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "7935",
+        "playXID": "b440509a0106086a67bc2ea9df0a1dab",
+        "streamId": "7935",
+        "dubPlayerSrc": "/dub-player/t/7935/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b440509a0106086a67bc2ea9df0a1dab&abyssId=7935"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "7935",
+        "playXID": "b440509a0106086a67bc2ea9df0a1dab",
+        "streamId": "7935",
+        "dubPlayerSrc": "/dub-player/t/7935/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b440509a0106086a67bc2ea9df0a1dab&abyssId=7935"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/b440509a0106086a67bc2ea9df0a1dab",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/b440509a0106086a67bc2ea9df0a1dab"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "7935",
+        "abyssId": "7935",
+        "playXID": "b440509a0106086a67bc2ea9df0a1dab",
+        "title": "Kaiju No. 8",
+        "season": 1,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "xd9Mv3oHB"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "NczpNE9bp"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "07-W-dMSD"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "r-Nraqygx"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "_WxpqsblT"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/1e58be620cf31d9001a8b020a693ed57/master.m3u8?md5=VyTiuu9kIOYdKdsP2toEUw&expires=1792167478",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/1e58be620cf31d9001a8b020a693ed57/master.m3u8?md5=VyTiuu9kIOYdKdsP2toEUw&expires=1792167478",
+            "videoSource": "https://ravok.buzz/cdn/hls/1e58be620cf31d9001a8b020a693ed57/master.m3u8?md5=VyTiuu9kIOYdKdsP2toEUw&expires=1792167478",
+            "videoImage": "https://as-cdn31.top/p/XxVsn0jmWAdSPkOCMBKuLsT0LbomcWL7NCno6W8F2G2vByUbXOmmLsx9xuewkrRmlOC2Jp2hsvQk5fmrNAIVuw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "b440509a0106086a67bc2ea9df0a1dab",
+                "streamUrl": "https://ravok.buzz/cdn/hls/1e58be620cf31d9001a8b020a693ed57/master.m3u8?md5=VyTiuu9kIOYdKdsP2toEUw&expires=1792167478",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/1e58be620cf31d9001a8b020a693ed57/master.m3u8?md5=VyTiuu9kIOYdKdsP2toEUw&expires=1792167478",
+                "videoSource": "https://ravok.buzz/cdn/hls/1e58be620cf31d9001a8b020a693ed57/master.m3u8?md5=VyTiuu9kIOYdKdsP2toEUw&expires=1792167478",
+                "link": "https://ravok.buzz/cdn/hls/1e58be620cf31d9001a8b020a693ed57/master.m3u8?md5=VyTiuu9kIOYdKdsP2toEUw&expires=1792167478",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/XxVsn0jmWAdSPkOCMBKuLsT0LbomcWL7NCno6W8F2G2vByUbXOmmLsx9xuewkrRmlOC2Jp2hsvQk5fmrNAIVuw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "xd9Mv3oHB"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:08Z"
+    },
+    {
+      "id": "episode/kaiju-no-8-1x12",
+      "episode_id": "episode/kaiju-no-8-1x12",
+      "title": "The Man Who Became a Kaiju",
+      "episode_name": "The Man Who Became a Kaiju",
+      "episode_number": 12,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/12483/12.webp",
+      "abyssid": "7936",
+      "abyssId": "7936",
+      "playxid": "1c6a0198177bfcc9bd93f6aab94aad3c",
+      "playXID": "1c6a0198177bfcc9bd93f6aab94aad3c",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "7936",
+        "playXID": "1c6a0198177bfcc9bd93f6aab94aad3c",
+        "streamId": "7936",
+        "dubPlayerSrc": "/dub-player/t/7936/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=1c6a0198177bfcc9bd93f6aab94aad3c&abyssId=7936"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "7936",
+        "playXID": "1c6a0198177bfcc9bd93f6aab94aad3c",
+        "streamId": "7936",
+        "dubPlayerSrc": "/dub-player/t/7936/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=1c6a0198177bfcc9bd93f6aab94aad3c&abyssId=7936"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/1c6a0198177bfcc9bd93f6aab94aad3c",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/1c6a0198177bfcc9bd93f6aab94aad3c"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "7936",
+        "abyssId": "7936",
+        "playXID": "1c6a0198177bfcc9bd93f6aab94aad3c",
+        "title": "Kaiju No. 8",
+        "season": 1,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "aur-4eYlo"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "FzyarJ8mPc"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "hPgOW2Za8"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "Y4N67YGRC"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "s7rV8b53O"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/bbe51547cb4b3780a16333568d84278f/master.m3u8?md5=j2taVXnXCjougr6lyX_UCQ&expires=1792167478",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/bbe51547cb4b3780a16333568d84278f/master.m3u8?md5=j2taVXnXCjougr6lyX_UCQ&expires=1792167478",
+            "videoSource": "https://ravok.buzz/cdn/hls/bbe51547cb4b3780a16333568d84278f/master.m3u8?md5=j2taVXnXCjougr6lyX_UCQ&expires=1792167478",
+            "videoImage": "https://as-cdn30.top/p/W8AtEuulMEdmao1620tHiPlheoWxO8sxWB4MTgWSofn9dc7jn5euM-eVBgsux8s5bF8BWqyBgzfyaGxH8T956g.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "1c6a0198177bfcc9bd93f6aab94aad3c",
+                "streamUrl": "https://ravok.buzz/cdn/hls/bbe51547cb4b3780a16333568d84278f/master.m3u8?md5=j2taVXnXCjougr6lyX_UCQ&expires=1792167478",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/bbe51547cb4b3780a16333568d84278f/master.m3u8?md5=j2taVXnXCjougr6lyX_UCQ&expires=1792167478",
+                "videoSource": "https://ravok.buzz/cdn/hls/bbe51547cb4b3780a16333568d84278f/master.m3u8?md5=j2taVXnXCjougr6lyX_UCQ&expires=1792167478",
+                "link": "https://ravok.buzz/cdn/hls/bbe51547cb4b3780a16333568d84278f/master.m3u8?md5=j2taVXnXCjougr6lyX_UCQ&expires=1792167478",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/W8AtEuulMEdmao1620tHiPlheoWxO8sxWB4MTgWSofn9dc7jn5euM-eVBgsux8s5bF8BWqyBgzfyaGxH8T956g.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "aur-4eYlo"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:08Z"
+    },
+    {
+      "id": "episode/kaiju-no-8-2x1",
+      "episode_id": "episode/kaiju-no-8-2x1",
+      "title": "Kaiju No. 8 2x1",
+      "episode_name": "Kaiju No. 8 2x1",
+      "episode_number": 1,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_300_s2e1.webp",
+      "abyssid": "16284",
+      "abyssId": "16284",
+      "playxid": "803ae237d2df8bdde7bcbd872396d192",
+      "playXID": "803ae237d2df8bdde7bcbd872396d192",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16284",
+        "playXID": "803ae237d2df8bdde7bcbd872396d192",
+        "streamId": "16284",
+        "dubPlayerSrc": "/dub-player/t/16284/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=803ae237d2df8bdde7bcbd872396d192&abyssId=16284"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16284",
+        "playXID": "803ae237d2df8bdde7bcbd872396d192",
+        "streamId": "16284",
+        "dubPlayerSrc": "/dub-player/t/16284/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=803ae237d2df8bdde7bcbd872396d192&abyssId=16284"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/803ae237d2df8bdde7bcbd872396d192",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/803ae237d2df8bdde7bcbd872396d192"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16284",
+        "abyssId": "16284",
+        "playXID": "803ae237d2df8bdde7bcbd872396d192",
+        "title": "Kaiju No. 8",
+        "season": 2,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "IngGUHu9-"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "SIR5Krv9s"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "kYyn4GrBX"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "9DugC1K1j"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "J0CwCDDzy"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/bbd2456ecd8825c118c2796e09c5b126/master.m3u8?md5=3IWXkJcxCT0elDT8Rs-7Ew&expires=1792167478",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/bbd2456ecd8825c118c2796e09c5b126/master.m3u8?md5=3IWXkJcxCT0elDT8Rs-7Ew&expires=1792167478",
+            "videoSource": "https://ravok.buzz/cdn/hls/bbd2456ecd8825c118c2796e09c5b126/master.m3u8?md5=3IWXkJcxCT0elDT8Rs-7Ew&expires=1792167478",
+            "videoImage": "https://as-cdn30.top/p/50Z7PimVPp7Q8ec1w6KCRcndAhelNswnbKYBpLUzutwASUV9Rcl7KZUbNSKs2xLGkq9v76Xzzlbp2QNJHhHpYQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "803ae237d2df8bdde7bcbd872396d192",
+                "streamUrl": "https://ravok.buzz/cdn/hls/bbd2456ecd8825c118c2796e09c5b126/master.m3u8?md5=3IWXkJcxCT0elDT8Rs-7Ew&expires=1792167478",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/bbd2456ecd8825c118c2796e09c5b126/master.m3u8?md5=3IWXkJcxCT0elDT8Rs-7Ew&expires=1792167478",
+                "videoSource": "https://ravok.buzz/cdn/hls/bbd2456ecd8825c118c2796e09c5b126/master.m3u8?md5=3IWXkJcxCT0elDT8Rs-7Ew&expires=1792167478",
+                "link": "https://ravok.buzz/cdn/hls/bbd2456ecd8825c118c2796e09c5b126/master.m3u8?md5=3IWXkJcxCT0elDT8Rs-7Ew&expires=1792167478",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/50Z7PimVPp7Q8ec1w6KCRcndAhelNswnbKYBpLUzutwASUV9Rcl7KZUbNSKs2xLGkq9v76Xzzlbp2QNJHhHpYQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "IngGUHu9-"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:08Z"
+    },
+    {
+      "id": "episode/kaiju-no-8-2x3",
+      "episode_id": "episode/kaiju-no-8-2x3",
+      "title": "Kaiju No. 8 2x1",
+      "episode_name": "Kaiju No. 8 2x1",
+      "episode_number": 3,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_300_s2e3.webp",
+      "abyssid": "16441",
+      "abyssId": "16441",
+      "playxid": "5b18e1a3e2092783aea4b1aa4a894d8a",
+      "playXID": "5b18e1a3e2092783aea4b1aa4a894d8a",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16441",
+        "playXID": "5b18e1a3e2092783aea4b1aa4a894d8a",
+        "streamId": "16441",
+        "dubPlayerSrc": "/dub-player/t/16441/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=5b18e1a3e2092783aea4b1aa4a894d8a&abyssId=16441"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16441",
+        "playXID": "5b18e1a3e2092783aea4b1aa4a894d8a",
+        "streamId": "16441",
+        "dubPlayerSrc": "/dub-player/t/16441/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=5b18e1a3e2092783aea4b1aa4a894d8a&abyssId=16441"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/5b18e1a3e2092783aea4b1aa4a894d8a",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/5b18e1a3e2092783aea4b1aa4a894d8a"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16441",
+        "abyssId": "16441",
+        "playXID": "5b18e1a3e2092783aea4b1aa4a894d8a",
+        "title": "Kaiju No. 8",
+        "season": 2,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "Xg_bwHjrk"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "aSOLsZ132"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "BKEM3__xR"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "nGGpcHsvP"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "HTV5eO-O2"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/9331c183e7d4e718be425ed8d390e0ab/master.m3u8?md5=qG6q0aA9n8dX-ZUhaAIHuw&expires=1792167479",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/9331c183e7d4e718be425ed8d390e0ab/master.m3u8?md5=qG6q0aA9n8dX-ZUhaAIHuw&expires=1792167479",
+            "videoSource": "https://ravok.buzz/cdn/hls/9331c183e7d4e718be425ed8d390e0ab/master.m3u8?md5=qG6q0aA9n8dX-ZUhaAIHuw&expires=1792167479",
+            "videoImage": "https://as-cdn28.top/p/4Pc4X_Ce8qJW85VZv2M0fNCqrDdMYNT6ag4URSFk_eLeILFS0SpAS7FiJPBVRNf9wRFRQszfqOclMJ-aFg-qgg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "5b18e1a3e2092783aea4b1aa4a894d8a",
+                "streamUrl": "https://ravok.buzz/cdn/hls/9331c183e7d4e718be425ed8d390e0ab/master.m3u8?md5=qG6q0aA9n8dX-ZUhaAIHuw&expires=1792167479",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/9331c183e7d4e718be425ed8d390e0ab/master.m3u8?md5=qG6q0aA9n8dX-ZUhaAIHuw&expires=1792167479",
+                "videoSource": "https://ravok.buzz/cdn/hls/9331c183e7d4e718be425ed8d390e0ab/master.m3u8?md5=qG6q0aA9n8dX-ZUhaAIHuw&expires=1792167479",
+                "link": "https://ravok.buzz/cdn/hls/9331c183e7d4e718be425ed8d390e0ab/master.m3u8?md5=qG6q0aA9n8dX-ZUhaAIHuw&expires=1792167479",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/4Pc4X_Ce8qJW85VZv2M0fNCqrDdMYNT6ag4URSFk_eLeILFS0SpAS7FiJPBVRNf9wRFRQszfqOclMJ-aFg-qgg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "Xg_bwHjrk"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:08Z"
+    },
+    {
+      "id": "episode/kaiju-no-8-2x2",
+      "episode_id": "episode/kaiju-no-8-2x2",
+      "title": "Kaiju No. 8 2x1",
+      "episode_name": "Kaiju No. 8 2x1",
+      "episode_number": 2,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_300_s2e2.webp",
+      "abyssid": "16413",
+      "abyssId": "16413",
+      "playxid": "a6dd1cdf6f9693dcf11c4450fab0e3f2",
+      "playXID": "a6dd1cdf6f9693dcf11c4450fab0e3f2",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16413",
+        "playXID": "a6dd1cdf6f9693dcf11c4450fab0e3f2",
+        "streamId": "16413",
+        "dubPlayerSrc": "/dub-player/t/16413/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a6dd1cdf6f9693dcf11c4450fab0e3f2&abyssId=16413"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16413",
+        "playXID": "a6dd1cdf6f9693dcf11c4450fab0e3f2",
+        "streamId": "16413",
+        "dubPlayerSrc": "/dub-player/t/16413/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a6dd1cdf6f9693dcf11c4450fab0e3f2&abyssId=16413"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/a6dd1cdf6f9693dcf11c4450fab0e3f2",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/a6dd1cdf6f9693dcf11c4450fab0e3f2"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16413",
+        "abyssId": "16413",
+        "playXID": "a6dd1cdf6f9693dcf11c4450fab0e3f2",
+        "title": "Kaiju No. 8",
+        "season": 2,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "zxRlEdTK2"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "LV_6WSwVe"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "DVIZNqdxs"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "vvOmkaWg1"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "yo3v7AjfQ"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/1412323d68926973e1ac16d3a1d20426/master.m3u8?md5=FBymd-s6KLyzIl8xvZIrgQ&expires=1792167479",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/1412323d68926973e1ac16d3a1d20426/master.m3u8?md5=FBymd-s6KLyzIl8xvZIrgQ&expires=1792167479",
+            "videoSource": "https://ravok.buzz/cdn/hls/1412323d68926973e1ac16d3a1d20426/master.m3u8?md5=FBymd-s6KLyzIl8xvZIrgQ&expires=1792167479",
+            "videoImage": "https://as-cdn29.top/p/QRwFEXVi_I3oTGfpIO60Fhv8WMOmAh_KKMfzqRvA8685X8LEBEvaW7dwR3tGzuhVzA6UPdrtWXd7X-wQ4JxJbw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "a6dd1cdf6f9693dcf11c4450fab0e3f2",
+                "streamUrl": "https://ravok.buzz/cdn/hls/1412323d68926973e1ac16d3a1d20426/master.m3u8?md5=FBymd-s6KLyzIl8xvZIrgQ&expires=1792167479",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/1412323d68926973e1ac16d3a1d20426/master.m3u8?md5=FBymd-s6KLyzIl8xvZIrgQ&expires=1792167479",
+                "videoSource": "https://ravok.buzz/cdn/hls/1412323d68926973e1ac16d3a1d20426/master.m3u8?md5=FBymd-s6KLyzIl8xvZIrgQ&expires=1792167479",
+                "link": "https://ravok.buzz/cdn/hls/1412323d68926973e1ac16d3a1d20426/master.m3u8?md5=FBymd-s6KLyzIl8xvZIrgQ&expires=1792167479",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/QRwFEXVi_I3oTGfpIO60Fhv8WMOmAh_KKMfzqRvA8685X8LEBEvaW7dwR3tGzuhVzA6UPdrtWXd7X-wQ4JxJbw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "zxRlEdTK2"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:08Z"
+    },
+    {
+      "id": "episode/kaiju-no-8-2x4",
+      "episode_id": "episode/kaiju-no-8-2x4",
+      "title": "Kaiju No. 8 2x1",
+      "episode_name": "Kaiju No. 8 2x1",
+      "episode_number": 4,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_300_s2e4.webp",
+      "abyssid": "16514",
+      "abyssId": "16514",
+      "playxid": "fa7410de86471342fc198f32104ccb31",
+      "playXID": "fa7410de86471342fc198f32104ccb31",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16514",
+        "playXID": "fa7410de86471342fc198f32104ccb31",
+        "streamId": "16514",
+        "dubPlayerSrc": "/dub-player/t/16514/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=fa7410de86471342fc198f32104ccb31&abyssId=16514"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16514",
+        "playXID": "fa7410de86471342fc198f32104ccb31",
+        "streamId": "16514",
+        "dubPlayerSrc": "/dub-player/t/16514/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=fa7410de86471342fc198f32104ccb31&abyssId=16514"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/fa7410de86471342fc198f32104ccb31",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/fa7410de86471342fc198f32104ccb31"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16514",
+        "abyssId": "16514",
+        "playXID": "fa7410de86471342fc198f32104ccb31",
+        "title": "Kaiju No. 8",
+        "season": 2,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "FnjLs6oEF"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "f6tYNtFXW"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "EsMzP7IfI"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "Vb-ACUtD7"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "YA9Gz6IHN"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/682a87b91b743a68ee3504e49708a501/master.m3u8?md5=S_gfwmHLLXhHZuJk5WrV6g&expires=1792167480",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/682a87b91b743a68ee3504e49708a501/master.m3u8?md5=S_gfwmHLLXhHZuJk5WrV6g&expires=1792167480",
+            "videoSource": "https://ravok.buzz/cdn/hls/682a87b91b743a68ee3504e49708a501/master.m3u8?md5=S_gfwmHLLXhHZuJk5WrV6g&expires=1792167480",
+            "videoImage": "https://as-cdn27.top/p/pfzuSj8eSz1_VtVY_eva_wBqW7xiU8VoU1ObiPzNslk74QPHVM58m_Pdj7-AcEnHn5ofPPVB3anoVZ7-RBzv2w.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "fa7410de86471342fc198f32104ccb31",
+                "streamUrl": "https://ravok.buzz/cdn/hls/682a87b91b743a68ee3504e49708a501/master.m3u8?md5=S_gfwmHLLXhHZuJk5WrV6g&expires=1792167480",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/682a87b91b743a68ee3504e49708a501/master.m3u8?md5=S_gfwmHLLXhHZuJk5WrV6g&expires=1792167480",
+                "videoSource": "https://ravok.buzz/cdn/hls/682a87b91b743a68ee3504e49708a501/master.m3u8?md5=S_gfwmHLLXhHZuJk5WrV6g&expires=1792167480",
+                "link": "https://ravok.buzz/cdn/hls/682a87b91b743a68ee3504e49708a501/master.m3u8?md5=S_gfwmHLLXhHZuJk5WrV6g&expires=1792167480",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/pfzuSj8eSz1_VtVY_eva_wBqW7xiU8VoU1ObiPzNslk74QPHVM58m_Pdj7-AcEnHn5ofPPVB3anoVZ7-RBzv2w.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "FnjLs6oEF"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:10Z"
+    },
+    {
+      "id": "episode/kaiju-no-8-2x5",
+      "episode_id": "episode/kaiju-no-8-2x5",
+      "title": "Kaiju No. 8 2x1",
+      "episode_name": "Kaiju No. 8 2x1",
+      "episode_number": 5,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_300_s2e5.webp",
+      "abyssid": "16552",
+      "abyssId": "16552",
+      "playxid": "2e64b43ae33b6a9c6718e03b11f7f24c",
+      "playXID": "2e64b43ae33b6a9c6718e03b11f7f24c",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16552",
+        "playXID": "2e64b43ae33b6a9c6718e03b11f7f24c",
+        "streamId": "16552",
+        "dubPlayerSrc": "/dub-player/t/16552/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2e64b43ae33b6a9c6718e03b11f7f24c&abyssId=16552"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16552",
+        "playXID": "2e64b43ae33b6a9c6718e03b11f7f24c",
+        "streamId": "16552",
+        "dubPlayerSrc": "/dub-player/t/16552/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2e64b43ae33b6a9c6718e03b11f7f24c&abyssId=16552"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/2e64b43ae33b6a9c6718e03b11f7f24c",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/2e64b43ae33b6a9c6718e03b11f7f24c"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16552",
+        "abyssId": "16552",
+        "playXID": "2e64b43ae33b6a9c6718e03b11f7f24c",
+        "title": "Kaiju No. 8",
+        "season": 2,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "Qz81RhB6M"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "dxktBa3sA"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "Prsmmnfh8"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "oXfw4sLCJ"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "1Q_Fnps_U"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/85b5327e5966cd865b84723f2efe78e6/master.m3u8?md5=Y3sZmafTzWwlpjUGCOReyA&expires=1792167480",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/85b5327e5966cd865b84723f2efe78e6/master.m3u8?md5=Y3sZmafTzWwlpjUGCOReyA&expires=1792167480",
+            "videoSource": "https://ravok.buzz/cdn/hls/85b5327e5966cd865b84723f2efe78e6/master.m3u8?md5=Y3sZmafTzWwlpjUGCOReyA&expires=1792167480",
+            "videoImage": "https://as-cdn27.top/p/DoColrnvPUogiIir4X8lVqRjTFf6TDUwKkOr-dX9GOgaXJThonVGSc3uBiudFRM3MMNzBrzXbQp1zXAUVEsBag.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "2e64b43ae33b6a9c6718e03b11f7f24c",
+                "streamUrl": "https://ravok.buzz/cdn/hls/85b5327e5966cd865b84723f2efe78e6/master.m3u8?md5=Y3sZmafTzWwlpjUGCOReyA&expires=1792167480",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/85b5327e5966cd865b84723f2efe78e6/master.m3u8?md5=Y3sZmafTzWwlpjUGCOReyA&expires=1792167480",
+                "videoSource": "https://ravok.buzz/cdn/hls/85b5327e5966cd865b84723f2efe78e6/master.m3u8?md5=Y3sZmafTzWwlpjUGCOReyA&expires=1792167480",
+                "link": "https://ravok.buzz/cdn/hls/85b5327e5966cd865b84723f2efe78e6/master.m3u8?md5=Y3sZmafTzWwlpjUGCOReyA&expires=1792167480",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/DoColrnvPUogiIir4X8lVqRjTFf6TDUwKkOr-dX9GOgaXJThonVGSc3uBiudFRM3MMNzBrzXbQp1zXAUVEsBag.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "Qz81RhB6M"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:10Z"
+    },
+    {
+      "id": "episode/kaiju-no-8-2x6",
+      "episode_id": "episode/kaiju-no-8-2x6",
+      "title": "Kaiju No. 8 2x1",
+      "episode_name": "Kaiju No. 8 2x1",
+      "episode_number": 6,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_300_s2e6.webp",
+      "abyssid": "16565",
+      "abyssId": "16565",
+      "playxid": "0a94234e0f6cc54155bf0f806aa1aac2",
+      "playXID": "0a94234e0f6cc54155bf0f806aa1aac2",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16565",
+        "playXID": "0a94234e0f6cc54155bf0f806aa1aac2",
+        "streamId": "16565",
+        "dubPlayerSrc": "/dub-player/t/16565/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=0a94234e0f6cc54155bf0f806aa1aac2&abyssId=16565"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16565",
+        "playXID": "0a94234e0f6cc54155bf0f806aa1aac2",
+        "streamId": "16565",
+        "dubPlayerSrc": "/dub-player/t/16565/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=0a94234e0f6cc54155bf0f806aa1aac2&abyssId=16565"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/0a94234e0f6cc54155bf0f806aa1aac2",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/0a94234e0f6cc54155bf0f806aa1aac2"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16565",
+        "abyssId": "16565",
+        "playXID": "0a94234e0f6cc54155bf0f806aa1aac2",
+        "title": "Kaiju No. 8",
+        "season": 2,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "_AiCY4dO5"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "TcTs0zp_y"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "by0aHoeYo"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "-yIApoxQB"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "xyioQGrwm"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/e46aadd776386aae3f5763166643fdc7/master.m3u8?md5=F3ulKCWeINJeCW1TZsAnhw&expires=1792167480",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/e46aadd776386aae3f5763166643fdc7/master.m3u8?md5=F3ulKCWeINJeCW1TZsAnhw&expires=1792167480",
+            "videoSource": "https://ravok.buzz/cdn/hls/e46aadd776386aae3f5763166643fdc7/master.m3u8?md5=F3ulKCWeINJeCW1TZsAnhw&expires=1792167480",
+            "videoImage": "https://as-cdn29.top/p/xUu_fd3HoXSrKOKU9YillF7nqHSy-ywn-wa9AZ_Ud73whRfl18j-Ez7DYpuzDWhHRnpQOCKIRFNKnuhM4Rtb_w.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "0a94234e0f6cc54155bf0f806aa1aac2",
+                "streamUrl": "https://ravok.buzz/cdn/hls/e46aadd776386aae3f5763166643fdc7/master.m3u8?md5=F3ulKCWeINJeCW1TZsAnhw&expires=1792167480",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/e46aadd776386aae3f5763166643fdc7/master.m3u8?md5=F3ulKCWeINJeCW1TZsAnhw&expires=1792167480",
+                "videoSource": "https://ravok.buzz/cdn/hls/e46aadd776386aae3f5763166643fdc7/master.m3u8?md5=F3ulKCWeINJeCW1TZsAnhw&expires=1792167480",
+                "link": "https://ravok.buzz/cdn/hls/e46aadd776386aae3f5763166643fdc7/master.m3u8?md5=F3ulKCWeINJeCW1TZsAnhw&expires=1792167480",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/xUu_fd3HoXSrKOKU9YillF7nqHSy-ywn-wa9AZ_Ud73whRfl18j-Ez7DYpuzDWhHRnpQOCKIRFNKnuhM4Rtb_w.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "_AiCY4dO5"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:10Z"
+    },
+    {
+      "id": "episode/kaiju-no-8-2x8",
+      "episode_id": "episode/kaiju-no-8-2x8",
+      "title": "Kaiju No. 8 2x1",
+      "episode_name": "Kaiju No. 8 2x1",
+      "episode_number": 8,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_300_s2e8.webp",
+      "abyssid": "16603",
+      "abyssId": "16603",
+      "playxid": "a2a750ff64f34c66249d0f7d3dd42004",
+      "playXID": "a2a750ff64f34c66249d0f7d3dd42004",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16603",
+        "playXID": "a2a750ff64f34c66249d0f7d3dd42004",
+        "streamId": "16603",
+        "dubPlayerSrc": "/dub-player/t/16603/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a2a750ff64f34c66249d0f7d3dd42004&abyssId=16603"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16603",
+        "playXID": "a2a750ff64f34c66249d0f7d3dd42004",
+        "streamId": "16603",
+        "dubPlayerSrc": "/dub-player/t/16603/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a2a750ff64f34c66249d0f7d3dd42004&abyssId=16603"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/a2a750ff64f34c66249d0f7d3dd42004",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/a2a750ff64f34c66249d0f7d3dd42004"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16603",
+        "abyssId": "16603",
+        "playXID": "a2a750ff64f34c66249d0f7d3dd42004",
+        "title": "Kaiju No. 8",
+        "season": 2,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "s2fy2gjP5"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "rRlMWuX3x"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "kB9i9IkVC"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "kijJK5wrC"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "N56jnd-OJ"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/adba8fd756ba38e6fa062522f436f31c/master.m3u8?md5=Gxlg174gGx6iLlGbro1fSQ&expires=1792167481",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/adba8fd756ba38e6fa062522f436f31c/master.m3u8?md5=Gxlg174gGx6iLlGbro1fSQ&expires=1792167481",
+            "videoSource": "https://ravok.buzz/cdn/hls/adba8fd756ba38e6fa062522f436f31c/master.m3u8?md5=Gxlg174gGx6iLlGbro1fSQ&expires=1792167481",
+            "videoImage": "https://as-cdn30.top/p/HATtKG8-b_2imqHQ-cBgRiw9lB7e6HFDuIPPno0baxQecEgnbHx-yTdA2HAjE-37OJb4WXSpQhBidAa70pFTgA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "a2a750ff64f34c66249d0f7d3dd42004",
+                "streamUrl": "https://ravok.buzz/cdn/hls/adba8fd756ba38e6fa062522f436f31c/master.m3u8?md5=Gxlg174gGx6iLlGbro1fSQ&expires=1792167481",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/adba8fd756ba38e6fa062522f436f31c/master.m3u8?md5=Gxlg174gGx6iLlGbro1fSQ&expires=1792167481",
+                "videoSource": "https://ravok.buzz/cdn/hls/adba8fd756ba38e6fa062522f436f31c/master.m3u8?md5=Gxlg174gGx6iLlGbro1fSQ&expires=1792167481",
+                "link": "https://ravok.buzz/cdn/hls/adba8fd756ba38e6fa062522f436f31c/master.m3u8?md5=Gxlg174gGx6iLlGbro1fSQ&expires=1792167481",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/HATtKG8-b_2imqHQ-cBgRiw9lB7e6HFDuIPPno0baxQecEgnbHx-yTdA2HAjE-37OJb4WXSpQhBidAa70pFTgA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "s2fy2gjP5"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:11Z"
+    },
+    {
+      "id": "episode/kaiju-no-8-2x7",
+      "episode_id": "episode/kaiju-no-8-2x7",
+      "title": "Kaiju No. 8 2x1",
+      "episode_name": "Kaiju No. 8 2x1",
+      "episode_number": 7,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_300_s2e7.webp",
+      "abyssid": "16586",
+      "abyssId": "16586",
+      "playxid": "00f842ec2fc7bc8a6968c511f44dba04",
+      "playXID": "00f842ec2fc7bc8a6968c511f44dba04",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16586",
+        "playXID": "00f842ec2fc7bc8a6968c511f44dba04",
+        "streamId": "16586",
+        "dubPlayerSrc": "/dub-player/t/16586/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=00f842ec2fc7bc8a6968c511f44dba04&abyssId=16586"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16586",
+        "playXID": "00f842ec2fc7bc8a6968c511f44dba04",
+        "streamId": "16586",
+        "dubPlayerSrc": "/dub-player/t/16586/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=00f842ec2fc7bc8a6968c511f44dba04&abyssId=16586"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/00f842ec2fc7bc8a6968c511f44dba04",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/00f842ec2fc7bc8a6968c511f44dba04"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16586",
+        "abyssId": "16586",
+        "playXID": "00f842ec2fc7bc8a6968c511f44dba04",
+        "title": "Kaiju No. 8",
+        "season": 2,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "Nt5xU8dCg"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "92VrCJMlB"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "VgPT5hPEZ"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "_tx_PVFc6"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "NBkH3lyIW"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/aba610a55a885a99d6d300dd353a92c8/master.m3u8?md5=ai9c30klmDqUGDZ6xSEx1w&expires=1792167481",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/aba610a55a885a99d6d300dd353a92c8/master.m3u8?md5=ai9c30klmDqUGDZ6xSEx1w&expires=1792167481",
+            "videoSource": "https://ravok.buzz/cdn/hls/aba610a55a885a99d6d300dd353a92c8/master.m3u8?md5=ai9c30klmDqUGDZ6xSEx1w&expires=1792167481",
+            "videoImage": "https://as-cdn31.top/p/m9IhKXPPwJKWrMY1JPrmH5U8rKFXNBO4NQWKd7oKYwW5O3aWtZg3n_dBLsOq4c2dEm3VSvP77sVYZs5nkQLPog.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "00f842ec2fc7bc8a6968c511f44dba04",
+                "streamUrl": "https://ravok.buzz/cdn/hls/aba610a55a885a99d6d300dd353a92c8/master.m3u8?md5=ai9c30klmDqUGDZ6xSEx1w&expires=1792167481",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/aba610a55a885a99d6d300dd353a92c8/master.m3u8?md5=ai9c30klmDqUGDZ6xSEx1w&expires=1792167481",
+                "videoSource": "https://ravok.buzz/cdn/hls/aba610a55a885a99d6d300dd353a92c8/master.m3u8?md5=ai9c30klmDqUGDZ6xSEx1w&expires=1792167481",
+                "link": "https://ravok.buzz/cdn/hls/aba610a55a885a99d6d300dd353a92c8/master.m3u8?md5=ai9c30klmDqUGDZ6xSEx1w&expires=1792167481",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/m9IhKXPPwJKWrMY1JPrmH5U8rKFXNBO4NQWKd7oKYwW5O3aWtZg3n_dBLsOq4c2dEm3VSvP77sVYZs5nkQLPog.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "Nt5xU8dCg"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:11Z"
+    },
+    {
+      "id": "episode/kaiju-no-8-2x9",
+      "episode_id": "episode/kaiju-no-8-2x9",
+      "title": "Kaiju No. 8 2x1",
+      "episode_name": "Kaiju No. 8 2x1",
+      "episode_number": 9,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_300_s2e9.webp",
+      "abyssid": "16643",
+      "abyssId": "16643",
+      "playxid": "698a2826fe9b85734ee6f3d543d73a80",
+      "playXID": "698a2826fe9b85734ee6f3d543d73a80",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16643",
+        "playXID": "698a2826fe9b85734ee6f3d543d73a80",
+        "streamId": "16643",
+        "dubPlayerSrc": "/dub-player/t/16643/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=698a2826fe9b85734ee6f3d543d73a80&abyssId=16643"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16643",
+        "playXID": "698a2826fe9b85734ee6f3d543d73a80",
+        "streamId": "16643",
+        "dubPlayerSrc": "/dub-player/t/16643/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=698a2826fe9b85734ee6f3d543d73a80&abyssId=16643"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/698a2826fe9b85734ee6f3d543d73a80",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/698a2826fe9b85734ee6f3d543d73a80"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16643",
+        "abyssId": "16643",
+        "playXID": "698a2826fe9b85734ee6f3d543d73a80",
+        "title": "Kaiju No. 8",
+        "season": 2,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "8HP1Jv6Rt"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "W14Cg6CRp"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "LBFiJo0IQ"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "kxa6RpRdY"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "Fre8YwuVv"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/2f2bfc32f8d990b4db0e07097a4d8a70/master.m3u8?md5=WE0KpuOqn0__5hUDchgeXQ&expires=1792167482",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/2f2bfc32f8d990b4db0e07097a4d8a70/master.m3u8?md5=WE0KpuOqn0__5hUDchgeXQ&expires=1792167482",
+            "videoSource": "https://ravok.buzz/cdn/hls/2f2bfc32f8d990b4db0e07097a4d8a70/master.m3u8?md5=WE0KpuOqn0__5hUDchgeXQ&expires=1792167482",
+            "videoImage": "https://as-cdn30.top/p/T7Em7auvzSnM4EDytgsRp_EjqigyUx7t-el2zE8e8rjHtBj645gFaiVcxsyQyZNKwPUcdekflEWbaqn9qcWBPQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "698a2826fe9b85734ee6f3d543d73a80",
+                "streamUrl": "https://ravok.buzz/cdn/hls/2f2bfc32f8d990b4db0e07097a4d8a70/master.m3u8?md5=WE0KpuOqn0__5hUDchgeXQ&expires=1792167482",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/2f2bfc32f8d990b4db0e07097a4d8a70/master.m3u8?md5=WE0KpuOqn0__5hUDchgeXQ&expires=1792167482",
+                "videoSource": "https://ravok.buzz/cdn/hls/2f2bfc32f8d990b4db0e07097a4d8a70/master.m3u8?md5=WE0KpuOqn0__5hUDchgeXQ&expires=1792167482",
+                "link": "https://ravok.buzz/cdn/hls/2f2bfc32f8d990b4db0e07097a4d8a70/master.m3u8?md5=WE0KpuOqn0__5hUDchgeXQ&expires=1792167482",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/T7Em7auvzSnM4EDytgsRp_EjqigyUx7t-el2zE8e8rjHtBj645gFaiVcxsyQyZNKwPUcdekflEWbaqn9qcWBPQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "8HP1Jv6Rt"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:12Z"
+    },
+    {
+      "id": "episode/kaiju-no-8-2x11",
+      "episode_id": "episode/kaiju-no-8-2x11",
+      "title": "Kaiju No. 8 2x1",
+      "episode_name": "Kaiju No. 8 2x1",
+      "episode_number": 11,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_300_s2e11.webp",
+      "abyssid": "16877",
+      "abyssId": "16877",
+      "playxid": "1f689175473dcc4f921a76933e45bbb5",
+      "playXID": "1f689175473dcc4f921a76933e45bbb5",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16877",
+        "playXID": "1f689175473dcc4f921a76933e45bbb5",
+        "streamId": "16877",
+        "dubPlayerSrc": "/dub-player/t/16877/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=1f689175473dcc4f921a76933e45bbb5&abyssId=16877"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16877",
+        "playXID": "1f689175473dcc4f921a76933e45bbb5",
+        "streamId": "16877",
+        "dubPlayerSrc": "/dub-player/t/16877/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=1f689175473dcc4f921a76933e45bbb5&abyssId=16877"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/1f689175473dcc4f921a76933e45bbb5",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/1f689175473dcc4f921a76933e45bbb5"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16877",
+        "abyssId": "16877",
+        "playXID": "1f689175473dcc4f921a76933e45bbb5",
+        "title": "Kaiju No. 8",
+        "season": 2,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "1LkhbzQvj"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "X4lXK0J-9"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "UB8mZ-96x"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "mS2UxPcOa"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "5826Bg2uf"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/a606c9d2bc9c03225e09094e96a26fc4/master.m3u8?md5=akZbmSeP5ogPti1e0KnXcg&expires=1792167482",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/a606c9d2bc9c03225e09094e96a26fc4/master.m3u8?md5=akZbmSeP5ogPti1e0KnXcg&expires=1792167482",
+            "videoSource": "https://ravok.buzz/cdn/hls/a606c9d2bc9c03225e09094e96a26fc4/master.m3u8?md5=akZbmSeP5ogPti1e0KnXcg&expires=1792167482",
+            "videoImage": "https://as-cdn28.top/p/TUfojGNy1801-xD4V__PpsSFf7x5g3Nc-sxAhBIfgmldVgXbEVkxt2aH14ub2f_2r5gLzNU7AC4SnQoyZBIsQw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "1f689175473dcc4f921a76933e45bbb5",
+                "streamUrl": "https://ravok.buzz/cdn/hls/a606c9d2bc9c03225e09094e96a26fc4/master.m3u8?md5=akZbmSeP5ogPti1e0KnXcg&expires=1792167482",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/a606c9d2bc9c03225e09094e96a26fc4/master.m3u8?md5=akZbmSeP5ogPti1e0KnXcg&expires=1792167482",
+                "videoSource": "https://ravok.buzz/cdn/hls/a606c9d2bc9c03225e09094e96a26fc4/master.m3u8?md5=akZbmSeP5ogPti1e0KnXcg&expires=1792167482",
+                "link": "https://ravok.buzz/cdn/hls/a606c9d2bc9c03225e09094e96a26fc4/master.m3u8?md5=akZbmSeP5ogPti1e0KnXcg&expires=1792167482",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/TUfojGNy1801-xD4V__PpsSFf7x5g3Nc-sxAhBIfgmldVgXbEVkxt2aH14ub2f_2r5gLzNU7AC4SnQoyZBIsQw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "1LkhbzQvj"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:12Z"
+    },
+    {
+      "id": "episode/kaiju-no-8-2x10",
+      "episode_id": "episode/kaiju-no-8-2x10",
+      "title": "Kaiju No. 8 2x1",
+      "episode_name": "Kaiju No. 8 2x1",
+      "episode_number": 10,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_300_s2e10.webp",
+      "abyssid": "16733",
+      "abyssId": "16733",
+      "playxid": "e6496f5f04bc759fa7a33e69f604ef17",
+      "playXID": "e6496f5f04bc759fa7a33e69f604ef17",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16733",
+        "playXID": "e6496f5f04bc759fa7a33e69f604ef17",
+        "streamId": "16733",
+        "dubPlayerSrc": "/dub-player/t/16733/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e6496f5f04bc759fa7a33e69f604ef17&abyssId=16733"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16733",
+        "playXID": "e6496f5f04bc759fa7a33e69f604ef17",
+        "streamId": "16733",
+        "dubPlayerSrc": "/dub-player/t/16733/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e6496f5f04bc759fa7a33e69f604ef17&abyssId=16733"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/e6496f5f04bc759fa7a33e69f604ef17",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/e6496f5f04bc759fa7a33e69f604ef17"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16733",
+        "abyssId": "16733",
+        "playXID": "e6496f5f04bc759fa7a33e69f604ef17",
+        "title": "Kaiju No. 8",
+        "season": 2,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "LxkMqn4YL"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "qFGMymks_W"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "FLMjRFbCRG"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "WADX7YQcR"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "z9VmZoCpr"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/b45e5449b8e2f63aa8e6a19e2e932ec8/master.m3u8?md5=JSeA93_Ivc34QDCXs2YoFw&expires=1792167482",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/b45e5449b8e2f63aa8e6a19e2e932ec8/master.m3u8?md5=JSeA93_Ivc34QDCXs2YoFw&expires=1792167482",
+            "videoSource": "https://ravok.buzz/cdn/hls/b45e5449b8e2f63aa8e6a19e2e932ec8/master.m3u8?md5=JSeA93_Ivc34QDCXs2YoFw&expires=1792167482",
+            "videoImage": "https://as-cdn29.top/p/off5qZTm0egD46o8Sc-mkl3tEf_KvwB2gEawUVBDNYuRt6wyr87xTabHSptITxGez7srBFigMH_lsIQ0Ezb41A.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "e6496f5f04bc759fa7a33e69f604ef17",
+                "streamUrl": "https://ravok.buzz/cdn/hls/b45e5449b8e2f63aa8e6a19e2e932ec8/master.m3u8?md5=JSeA93_Ivc34QDCXs2YoFw&expires=1792167482",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/b45e5449b8e2f63aa8e6a19e2e932ec8/master.m3u8?md5=JSeA93_Ivc34QDCXs2YoFw&expires=1792167482",
+                "videoSource": "https://ravok.buzz/cdn/hls/b45e5449b8e2f63aa8e6a19e2e932ec8/master.m3u8?md5=JSeA93_Ivc34QDCXs2YoFw&expires=1792167482",
+                "link": "https://ravok.buzz/cdn/hls/b45e5449b8e2f63aa8e6a19e2e932ec8/master.m3u8?md5=JSeA93_Ivc34QDCXs2YoFw&expires=1792167482",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/off5qZTm0egD46o8Sc-mkl3tEf_KvwB2gEawUVBDNYuRt6wyr87xTabHSptITxGez7srBFigMH_lsIQ0Ezb41A.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "LxkMqn4YL"
+        }
+      },
+      "fetched_at": "2026-10-16T14:18:12Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T14:18:02Z",
+  "updated_at": "2026-10-16T14:18:12Z"
+}

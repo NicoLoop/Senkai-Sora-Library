@@ -1,0 +1,1497 @@
+{
+  "id": "series/nina-the-starry-bride",
+  "series_name": "Nina the Starry Bride",
+  "title": "Nina the Starry Bride",
+  "banner": "https://image.tmdb.org/t/p/w1280/5MDsuNFgcbQPctZIbQK3Zeoz2db.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/goE7QiiaRkzVLnwaODRNKarWljv.jpg",
+  "genra": [
+    "Drama",
+    "Fantasy",
+    "Romance"
+  ],
+  "genres": [
+    "Drama",
+    "Fantasy",
+    "Romance"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Japanese",
+    "Tamil",
+    "Telugu"
+  ],
+  "synopsis": "Nina had a rough start to life, stealing to survive—and eventually being sold into slavery by her own brother. But to her surprise, her captor, Prince Azure, ordained that she would live the life of a princess...specifically, that of the recently deceased princess-priestess, Alisha. But despite her changing fortune, Nina won't give up her old life without a fight...and Azure might just be the one to finally match her wits. But how much can she trust Azure? And can she stop the feelings budding in her heart, knowing she must eventually marry another...?",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "The Origin of Sin",
+          "id": "episode/nina-the-starry-bride-1x1",
+          "image": "https://img.watchanimeworld.one/images/14998/1.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "The Lost Name",
+          "id": "episode/nina-the-starry-bride-1x2",
+          "image": "https://img.watchanimeworld.one/images/14998/2.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "The Night of Dreams",
+          "id": "episode/nina-the-starry-bride-1x3",
+          "image": "https://img.watchanimeworld.one/images/14998/3.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "The Day of Departure",
+          "id": "episode/nina-the-starry-bride-1x4",
+          "image": "https://img.watchanimeworld.one/images/14998/4.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "Crimson Eyes",
+          "id": "episode/nina-the-starry-bride-1x5",
+          "image": "https://img.watchanimeworld.one/images/14998/5.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "The First Princess",
+          "id": "episode/nina-the-starry-bride-1x6",
+          "image": "https://img.watchanimeworld.one/images/14998/6.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "The Great Nation's Dream",
+          "id": "episode/nina-the-starry-bride-1x7",
+          "image": "https://img.watchanimeworld.one/images/14998/7.webp",
+          "season": 1
+        },
+        {
+          "episode": 8,
+          "title": "Memories of Blood",
+          "id": "episode/nina-the-starry-bride-1x8",
+          "image": "https://img.watchanimeworld.one/images/14998/8.webp",
+          "season": 1
+        },
+        {
+          "episode": 9,
+          "title": "Nina the Starry Bride 1x9",
+          "id": "episode/nina-the-starry-bride-1x9",
+          "image": "https://img.watchanimeworld.one/images/14998/9.webp",
+          "season": 1
+        },
+        {
+          "episode": 10,
+          "title": "Nina the Starry Bride 1x10",
+          "id": "episode/nina-the-starry-bride-1x10",
+          "image": "https://img.watchanimeworld.one/images/14998/10.webp",
+          "season": 1
+        },
+        {
+          "episode": 11,
+          "title": "Nina the Starry Bride 1x11",
+          "id": "episode/nina-the-starry-bride-1x11",
+          "image": "https://img.watchanimeworld.one/images/14998/11.webp",
+          "season": 1
+        },
+        {
+          "episode": 12,
+          "title": "Nina the Starry Bride 1x12",
+          "id": "episode/nina-the-starry-bride-1x12",
+          "image": "https://img.watchanimeworld.one/images/14998/12.webp",
+          "season": 1
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/nina-the-starry-bride-1x1",
+      "episode_id": "episode/nina-the-starry-bride-1x1",
+      "title": "The Origin of Sin",
+      "episode_name": "The Origin of Sin",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/14998/1.webp",
+      "abyssid": "10854",
+      "abyssId": "10854",
+      "playxid": "c73dfe6c630edb4c1692db67c510f65c",
+      "playXID": "c73dfe6c630edb4c1692db67c510f65c",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "10854",
+        "playXID": "c73dfe6c630edb4c1692db67c510f65c",
+        "streamId": "10854",
+        "dubPlayerSrc": "/dub-player/t/10854/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c73dfe6c630edb4c1692db67c510f65c&abyssId=10854"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "10854",
+        "playXID": "c73dfe6c630edb4c1692db67c510f65c",
+        "streamId": "10854",
+        "dubPlayerSrc": "/dub-player/t/10854/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c73dfe6c630edb4c1692db67c510f65c&abyssId=10854"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/c73dfe6c630edb4c1692db67c510f65c",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/c73dfe6c630edb4c1692db67c510f65c"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "10854",
+        "abyssId": "10854",
+        "playXID": "c73dfe6c630edb4c1692db67c510f65c",
+        "title": "Nina the Starry Bride",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "kaG41NApK"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "8mPowQMwX"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "ppZE2TJeD"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "HKJQHK9G7"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "PrL4EWnu6"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/7602fdc8648c324853d86a5c1939abf4/master.m3u8?md5=VFFvsyIf5JlYbZiNDyzppg&expires=1792167222",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/7602fdc8648c324853d86a5c1939abf4/master.m3u8?md5=VFFvsyIf5JlYbZiNDyzppg&expires=1792167222",
+            "videoSource": "https://ravok.buzz/cdn/hls/7602fdc8648c324853d86a5c1939abf4/master.m3u8?md5=VFFvsyIf5JlYbZiNDyzppg&expires=1792167222",
+            "videoImage": "https://as-cdn28.top/p/Vh9YjSnPeoKIIXXnApHjlBY6JINkVJFZ1gtcPvKPR3iXgT5kEe9UPr-K48ctAvZg9OL7_1uVSRCFe7KzAK1oMw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "c73dfe6c630edb4c1692db67c510f65c",
+                "streamUrl": "https://ravok.buzz/cdn/hls/7602fdc8648c324853d86a5c1939abf4/master.m3u8?md5=VFFvsyIf5JlYbZiNDyzppg&expires=1792167222",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/7602fdc8648c324853d86a5c1939abf4/master.m3u8?md5=VFFvsyIf5JlYbZiNDyzppg&expires=1792167222",
+                "videoSource": "https://ravok.buzz/cdn/hls/7602fdc8648c324853d86a5c1939abf4/master.m3u8?md5=VFFvsyIf5JlYbZiNDyzppg&expires=1792167222",
+                "link": "https://ravok.buzz/cdn/hls/7602fdc8648c324853d86a5c1939abf4/master.m3u8?md5=VFFvsyIf5JlYbZiNDyzppg&expires=1792167222",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/Vh9YjSnPeoKIIXXnApHjlBY6JINkVJFZ1gtcPvKPR3iXgT5kEe9UPr-K48ctAvZg9OL7_1uVSRCFe7KzAK1oMw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "kaG41NApK"
+        }
+      },
+      "fetched_at": "2026-10-16T14:13:52Z"
+    },
+    {
+      "id": "episode/nina-the-starry-bride-1x2",
+      "episode_id": "episode/nina-the-starry-bride-1x2",
+      "title": "The Origin of Sin",
+      "episode_name": "The Origin of Sin",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/14998/2.webp",
+      "abyssid": "10855",
+      "abyssId": "10855",
+      "playxid": "bcc0d400288793e8bdcd7c19a8ac0c2b",
+      "playXID": "bcc0d400288793e8bdcd7c19a8ac0c2b",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "10855",
+        "playXID": "bcc0d400288793e8bdcd7c19a8ac0c2b",
+        "streamId": "10855",
+        "dubPlayerSrc": "/dub-player/t/10855/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=bcc0d400288793e8bdcd7c19a8ac0c2b&abyssId=10855"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "10855",
+        "playXID": "bcc0d400288793e8bdcd7c19a8ac0c2b",
+        "streamId": "10855",
+        "dubPlayerSrc": "/dub-player/t/10855/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=bcc0d400288793e8bdcd7c19a8ac0c2b&abyssId=10855"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/bcc0d400288793e8bdcd7c19a8ac0c2b",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/bcc0d400288793e8bdcd7c19a8ac0c2b"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "10855",
+        "abyssId": "10855",
+        "playXID": "bcc0d400288793e8bdcd7c19a8ac0c2b",
+        "title": "Nina the Starry Bride",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "7AFLSNvQh"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "dRigo3my8"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "o84g88zp9"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "j6SL2ludT"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "kR9Oiui8JO"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/f1ff27b86d69e405cb3e7899759531a7/master.m3u8?md5=pdPlxubVxibiUa4MLCtACA&expires=1792167222",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/f1ff27b86d69e405cb3e7899759531a7/master.m3u8?md5=pdPlxubVxibiUa4MLCtACA&expires=1792167222",
+            "videoSource": "https://ravok.buzz/cdn/hls/f1ff27b86d69e405cb3e7899759531a7/master.m3u8?md5=pdPlxubVxibiUa4MLCtACA&expires=1792167222",
+            "videoImage": "https://as-cdn30.top/p/LicjDU7-LV_U-SyWpdyCUS0AWtOTd7musWCDXOepHTi8l3Vw5JDWIeJigDWB6DqWldbNIEN24oMA0t9wY6KEGQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "bcc0d400288793e8bdcd7c19a8ac0c2b",
+                "streamUrl": "https://ravok.buzz/cdn/hls/f1ff27b86d69e405cb3e7899759531a7/master.m3u8?md5=pdPlxubVxibiUa4MLCtACA&expires=1792167222",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/f1ff27b86d69e405cb3e7899759531a7/master.m3u8?md5=pdPlxubVxibiUa4MLCtACA&expires=1792167222",
+                "videoSource": "https://ravok.buzz/cdn/hls/f1ff27b86d69e405cb3e7899759531a7/master.m3u8?md5=pdPlxubVxibiUa4MLCtACA&expires=1792167222",
+                "link": "https://ravok.buzz/cdn/hls/f1ff27b86d69e405cb3e7899759531a7/master.m3u8?md5=pdPlxubVxibiUa4MLCtACA&expires=1792167222",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/LicjDU7-LV_U-SyWpdyCUS0AWtOTd7musWCDXOepHTi8l3Vw5JDWIeJigDWB6DqWldbNIEN24oMA0t9wY6KEGQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "7AFLSNvQh"
+        }
+      },
+      "fetched_at": "2026-10-16T14:13:52Z"
+    },
+    {
+      "id": "episode/nina-the-starry-bride-1x3",
+      "episode_id": "episode/nina-the-starry-bride-1x3",
+      "title": "The Origin of Sin",
+      "episode_name": "The Origin of Sin",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/14998/3.webp",
+      "abyssid": "10856",
+      "abyssId": "10856",
+      "playxid": "861dc9bd7f4e7dd3cccd534d0ae2a2e9",
+      "playXID": "861dc9bd7f4e7dd3cccd534d0ae2a2e9",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "10856",
+        "playXID": "861dc9bd7f4e7dd3cccd534d0ae2a2e9",
+        "streamId": "10856",
+        "dubPlayerSrc": "/dub-player/t/10856/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=861dc9bd7f4e7dd3cccd534d0ae2a2e9&abyssId=10856"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "10856",
+        "playXID": "861dc9bd7f4e7dd3cccd534d0ae2a2e9",
+        "streamId": "10856",
+        "dubPlayerSrc": "/dub-player/t/10856/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=861dc9bd7f4e7dd3cccd534d0ae2a2e9&abyssId=10856"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/861dc9bd7f4e7dd3cccd534d0ae2a2e9",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/861dc9bd7f4e7dd3cccd534d0ae2a2e9"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "10856",
+        "abyssId": "10856",
+        "playXID": "861dc9bd7f4e7dd3cccd534d0ae2a2e9",
+        "title": "Nina the Starry Bride",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "PjwNfqseI"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "tFfnu92Pg"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "EaVEaX6Ev"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "AJvRzid-j2"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "wqrw1RKHC"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/b555ffe0c95d2e76afe57dc54f5e7e2e/master.m3u8?md5=xoFTJALkX38QMq8Pmeiz5w&expires=1792167222",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/b555ffe0c95d2e76afe57dc54f5e7e2e/master.m3u8?md5=xoFTJALkX38QMq8Pmeiz5w&expires=1792167222",
+            "videoSource": "https://ravok.buzz/cdn/hls/b555ffe0c95d2e76afe57dc54f5e7e2e/master.m3u8?md5=xoFTJALkX38QMq8Pmeiz5w&expires=1792167222",
+            "videoImage": "https://as-cdn30.top/p/uCYrgW88JXy5qiNXKc7UM7iDC91rEP3maJDlbBmTh2kQN6kF3gYy1VM_5lYknoX5KoySYcLb0ADmBrdbHQpP_g.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "861dc9bd7f4e7dd3cccd534d0ae2a2e9",
+                "streamUrl": "https://ravok.buzz/cdn/hls/b555ffe0c95d2e76afe57dc54f5e7e2e/master.m3u8?md5=xoFTJALkX38QMq8Pmeiz5w&expires=1792167222",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/b555ffe0c95d2e76afe57dc54f5e7e2e/master.m3u8?md5=xoFTJALkX38QMq8Pmeiz5w&expires=1792167222",
+                "videoSource": "https://ravok.buzz/cdn/hls/b555ffe0c95d2e76afe57dc54f5e7e2e/master.m3u8?md5=xoFTJALkX38QMq8Pmeiz5w&expires=1792167222",
+                "link": "https://ravok.buzz/cdn/hls/b555ffe0c95d2e76afe57dc54f5e7e2e/master.m3u8?md5=xoFTJALkX38QMq8Pmeiz5w&expires=1792167222",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/uCYrgW88JXy5qiNXKc7UM7iDC91rEP3maJDlbBmTh2kQN6kF3gYy1VM_5lYknoX5KoySYcLb0ADmBrdbHQpP_g.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "PjwNfqseI"
+        }
+      },
+      "fetched_at": "2026-10-16T14:13:52Z"
+    },
+    {
+      "id": "episode/nina-the-starry-bride-1x5",
+      "episode_id": "episode/nina-the-starry-bride-1x5",
+      "title": "The Origin of Sin",
+      "episode_name": "The Origin of Sin",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/14998/5.webp",
+      "abyssid": "10858",
+      "abyssId": "10858",
+      "playxid": "8b0dc65f996f98fd178a9defd0efa077",
+      "playXID": "8b0dc65f996f98fd178a9defd0efa077",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "10858",
+        "playXID": "8b0dc65f996f98fd178a9defd0efa077",
+        "streamId": "10858",
+        "dubPlayerSrc": "/dub-player/t/10858/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8b0dc65f996f98fd178a9defd0efa077&abyssId=10858"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "10858",
+        "playXID": "8b0dc65f996f98fd178a9defd0efa077",
+        "streamId": "10858",
+        "dubPlayerSrc": "/dub-player/t/10858/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8b0dc65f996f98fd178a9defd0efa077&abyssId=10858"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/8b0dc65f996f98fd178a9defd0efa077",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/8b0dc65f996f98fd178a9defd0efa077"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "10858",
+        "abyssId": "10858",
+        "playXID": "8b0dc65f996f98fd178a9defd0efa077",
+        "title": "Nina the Starry Bride",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "2Jx1slToP"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "6mEGjApZr"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "T3X8BEFs4"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "nuMn0OgrU"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "WjvYqtYlR"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/cfc0603bdf82453477b97948aad3210d/master.m3u8?md5=-KK6d1oC9-t4dn6TkHECdw&expires=1792167222",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/cfc0603bdf82453477b97948aad3210d/master.m3u8?md5=-KK6d1oC9-t4dn6TkHECdw&expires=1792167222",
+            "videoSource": "https://ravok.buzz/cdn/hls/cfc0603bdf82453477b97948aad3210d/master.m3u8?md5=-KK6d1oC9-t4dn6TkHECdw&expires=1792167222",
+            "videoImage": "https://as-cdn30.top/p/R83ci_mqgr3AiWbMR5SSwG4aVudQVjEO6qHbKTzYopyCWM5-whBP6gBqPdjzg9pA5F4vpYRQimkgoIdrcOk7xg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "8b0dc65f996f98fd178a9defd0efa077",
+                "streamUrl": "https://ravok.buzz/cdn/hls/cfc0603bdf82453477b97948aad3210d/master.m3u8?md5=-KK6d1oC9-t4dn6TkHECdw&expires=1792167222",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/cfc0603bdf82453477b97948aad3210d/master.m3u8?md5=-KK6d1oC9-t4dn6TkHECdw&expires=1792167222",
+                "videoSource": "https://ravok.buzz/cdn/hls/cfc0603bdf82453477b97948aad3210d/master.m3u8?md5=-KK6d1oC9-t4dn6TkHECdw&expires=1792167222",
+                "link": "https://ravok.buzz/cdn/hls/cfc0603bdf82453477b97948aad3210d/master.m3u8?md5=-KK6d1oC9-t4dn6TkHECdw&expires=1792167222",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/R83ci_mqgr3AiWbMR5SSwG4aVudQVjEO6qHbKTzYopyCWM5-whBP6gBqPdjzg9pA5F4vpYRQimkgoIdrcOk7xg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "2Jx1slToP"
+        }
+      },
+      "fetched_at": "2026-10-16T14:13:52Z"
+    },
+    {
+      "id": "episode/nina-the-starry-bride-1x8",
+      "episode_id": "episode/nina-the-starry-bride-1x8",
+      "title": "The Origin of Sin",
+      "episode_name": "The Origin of Sin",
+      "episode_number": 8,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/14998/8.webp",
+      "abyssid": "11583",
+      "abyssId": "11583",
+      "playxid": "addfa9b7e234254d26e9c7f2af1005cb",
+      "playXID": "addfa9b7e234254d26e9c7f2af1005cb",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "11583",
+        "playXID": "addfa9b7e234254d26e9c7f2af1005cb",
+        "streamId": "11583",
+        "dubPlayerSrc": "/dub-player/t/11583/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=addfa9b7e234254d26e9c7f2af1005cb&abyssId=11583"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "11583",
+        "playXID": "addfa9b7e234254d26e9c7f2af1005cb",
+        "streamId": "11583",
+        "dubPlayerSrc": "/dub-player/t/11583/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=addfa9b7e234254d26e9c7f2af1005cb&abyssId=11583"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/addfa9b7e234254d26e9c7f2af1005cb",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/addfa9b7e234254d26e9c7f2af1005cb"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "11583",
+        "abyssId": "11583",
+        "playXID": "addfa9b7e234254d26e9c7f2af1005cb",
+        "title": "Nina the Starry Bride",
+        "season": 1,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "6NHrzk9ZM"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "8MrRiD9OH"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "zfNwP8ns7"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "jvC2BOOLK"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "Yf-rigXBB"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/e73ff64cf05242b8f175a1f18d13ff5c/master.m3u8?md5=-qdefP0BpbWA0Bp_Suurkw&expires=1792167224",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/e73ff64cf05242b8f175a1f18d13ff5c/master.m3u8?md5=-qdefP0BpbWA0Bp_Suurkw&expires=1792167224",
+            "videoSource": "https://ravok.buzz/cdn/hls/e73ff64cf05242b8f175a1f18d13ff5c/master.m3u8?md5=-qdefP0BpbWA0Bp_Suurkw&expires=1792167224",
+            "videoImage": "https://as-cdn29.top/p/nyFRkWNot7J8z0pCbbIAxrQRLlL3A85EhFeOJfPp6wwmRLxk2NyGPnckA428jlHPcKSn6C1F03TGqvJ_-5WkHw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "addfa9b7e234254d26e9c7f2af1005cb",
+                "streamUrl": "https://ravok.buzz/cdn/hls/e73ff64cf05242b8f175a1f18d13ff5c/master.m3u8?md5=-qdefP0BpbWA0Bp_Suurkw&expires=1792167224",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/e73ff64cf05242b8f175a1f18d13ff5c/master.m3u8?md5=-qdefP0BpbWA0Bp_Suurkw&expires=1792167224",
+                "videoSource": "https://ravok.buzz/cdn/hls/e73ff64cf05242b8f175a1f18d13ff5c/master.m3u8?md5=-qdefP0BpbWA0Bp_Suurkw&expires=1792167224",
+                "link": "https://ravok.buzz/cdn/hls/e73ff64cf05242b8f175a1f18d13ff5c/master.m3u8?md5=-qdefP0BpbWA0Bp_Suurkw&expires=1792167224",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/nyFRkWNot7J8z0pCbbIAxrQRLlL3A85EhFeOJfPp6wwmRLxk2NyGPnckA428jlHPcKSn6C1F03TGqvJ_-5WkHw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "6NHrzk9ZM"
+        }
+      },
+      "fetched_at": "2026-10-16T14:13:54Z"
+    },
+    {
+      "id": "episode/nina-the-starry-bride-1x6",
+      "episode_id": "episode/nina-the-starry-bride-1x6",
+      "title": "The Origin of Sin",
+      "episode_name": "The Origin of Sin",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/14998/6.webp",
+      "abyssid": "11094",
+      "abyssId": "11094",
+      "playxid": "8a3363abe792db2d8761d6403605aeb7",
+      "playXID": "8a3363abe792db2d8761d6403605aeb7",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "11094",
+        "playXID": "8a3363abe792db2d8761d6403605aeb7",
+        "streamId": "11094",
+        "dubPlayerSrc": "/dub-player/t/11094/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8a3363abe792db2d8761d6403605aeb7&abyssId=11094"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "11094",
+        "playXID": "8a3363abe792db2d8761d6403605aeb7",
+        "streamId": "11094",
+        "dubPlayerSrc": "/dub-player/t/11094/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8a3363abe792db2d8761d6403605aeb7&abyssId=11094"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/8a3363abe792db2d8761d6403605aeb7",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/8a3363abe792db2d8761d6403605aeb7"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "11094",
+        "abyssId": "11094",
+        "playXID": "8a3363abe792db2d8761d6403605aeb7",
+        "title": "Nina the Starry Bride",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "bviqLB1ek"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "qFnV8yDXQ"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "2Di0ueZ-9"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "HbGki0ikj"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "HVqiGadCM"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/e238f1e05116bee1c1a3964de1744bee/master.m3u8?md5=-0gga_RW64oIljYXcxhQow&expires=1792167224",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/e238f1e05116bee1c1a3964de1744bee/master.m3u8?md5=-0gga_RW64oIljYXcxhQow&expires=1792167224",
+            "videoSource": "https://ravok.buzz/cdn/hls/e238f1e05116bee1c1a3964de1744bee/master.m3u8?md5=-0gga_RW64oIljYXcxhQow&expires=1792167224",
+            "videoImage": "https://as-cdn31.top/p/8bTFWqsckdoJYr5hMX9tGSkbCADDeot6nBj2q-4wow6R4QFXrOx7Qgkmgxc_GqJItFLeKcZeuUa_FsC8FUluaw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "8a3363abe792db2d8761d6403605aeb7",
+                "streamUrl": "https://ravok.buzz/cdn/hls/e238f1e05116bee1c1a3964de1744bee/master.m3u8?md5=-0gga_RW64oIljYXcxhQow&expires=1792167224",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/e238f1e05116bee1c1a3964de1744bee/master.m3u8?md5=-0gga_RW64oIljYXcxhQow&expires=1792167224",
+                "videoSource": "https://ravok.buzz/cdn/hls/e238f1e05116bee1c1a3964de1744bee/master.m3u8?md5=-0gga_RW64oIljYXcxhQow&expires=1792167224",
+                "link": "https://ravok.buzz/cdn/hls/e238f1e05116bee1c1a3964de1744bee/master.m3u8?md5=-0gga_RW64oIljYXcxhQow&expires=1792167224",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/8bTFWqsckdoJYr5hMX9tGSkbCADDeot6nBj2q-4wow6R4QFXrOx7Qgkmgxc_GqJItFLeKcZeuUa_FsC8FUluaw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "bviqLB1ek"
+        }
+      },
+      "fetched_at": "2026-10-16T14:13:55Z"
+    },
+    {
+      "id": "episode/nina-the-starry-bride-1x7",
+      "episode_id": "episode/nina-the-starry-bride-1x7",
+      "title": "The Origin of Sin",
+      "episode_name": "The Origin of Sin",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/14998/7.webp",
+      "abyssid": "11465",
+      "abyssId": "11465",
+      "playxid": "8065d07da4a77621450aa84fee5656d9",
+      "playXID": "8065d07da4a77621450aa84fee5656d9",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "11465",
+        "playXID": "8065d07da4a77621450aa84fee5656d9",
+        "streamId": "11465",
+        "dubPlayerSrc": "/dub-player/t/11465/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8065d07da4a77621450aa84fee5656d9&abyssId=11465"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "11465",
+        "playXID": "8065d07da4a77621450aa84fee5656d9",
+        "streamId": "11465",
+        "dubPlayerSrc": "/dub-player/t/11465/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8065d07da4a77621450aa84fee5656d9&abyssId=11465"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/8065d07da4a77621450aa84fee5656d9",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/8065d07da4a77621450aa84fee5656d9"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "11465",
+        "abyssId": "11465",
+        "playXID": "8065d07da4a77621450aa84fee5656d9",
+        "title": "Nina the Starry Bride",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "Gi4jMOIDT"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "Noje6HMJC"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "_nTCbCQHG"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "TjtgEu49s"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "1l14MQSR_"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/d2377ec6cce5a670f302ca37ddca5123/master.m3u8?md5=soiiT7VkBPSmKQWiFMDkYw&expires=1792167225",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/d2377ec6cce5a670f302ca37ddca5123/master.m3u8?md5=soiiT7VkBPSmKQWiFMDkYw&expires=1792167225",
+            "videoSource": "https://ravok.buzz/cdn/hls/d2377ec6cce5a670f302ca37ddca5123/master.m3u8?md5=soiiT7VkBPSmKQWiFMDkYw&expires=1792167225",
+            "videoImage": "https://as-cdn29.top/p/wQxiGnhCS0nYK7jcW2UCnz5j0SPc6f7MvJUzX7g5HgISObdo-cfq7cwmPu63inGCOncG8e1yeSZv3x6ZC126aQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "8065d07da4a77621450aa84fee5656d9",
+                "streamUrl": "https://ravok.buzz/cdn/hls/d2377ec6cce5a670f302ca37ddca5123/master.m3u8?md5=soiiT7VkBPSmKQWiFMDkYw&expires=1792167225",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/d2377ec6cce5a670f302ca37ddca5123/master.m3u8?md5=soiiT7VkBPSmKQWiFMDkYw&expires=1792167225",
+                "videoSource": "https://ravok.buzz/cdn/hls/d2377ec6cce5a670f302ca37ddca5123/master.m3u8?md5=soiiT7VkBPSmKQWiFMDkYw&expires=1792167225",
+                "link": "https://ravok.buzz/cdn/hls/d2377ec6cce5a670f302ca37ddca5123/master.m3u8?md5=soiiT7VkBPSmKQWiFMDkYw&expires=1792167225",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/wQxiGnhCS0nYK7jcW2UCnz5j0SPc6f7MvJUzX7g5HgISObdo-cfq7cwmPu63inGCOncG8e1yeSZv3x6ZC126aQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "Gi4jMOIDT"
+        }
+      },
+      "fetched_at": "2026-10-16T14:13:55Z"
+    },
+    {
+      "id": "episode/nina-the-starry-bride-1x9",
+      "episode_id": "episode/nina-the-starry-bride-1x9",
+      "title": "The Origin of Sin",
+      "episode_name": "The Origin of Sin",
+      "episode_number": 9,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/14998/9.webp",
+      "abyssid": "11628",
+      "abyssId": "11628",
+      "playxid": "a1d33d0dfec820b41b54430b50e96b5c",
+      "playXID": "a1d33d0dfec820b41b54430b50e96b5c",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "11628",
+        "playXID": "a1d33d0dfec820b41b54430b50e96b5c",
+        "streamId": "11628",
+        "dubPlayerSrc": "/dub-player/t/11628/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a1d33d0dfec820b41b54430b50e96b5c&abyssId=11628"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "11628",
+        "playXID": "a1d33d0dfec820b41b54430b50e96b5c",
+        "streamId": "11628",
+        "dubPlayerSrc": "/dub-player/t/11628/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a1d33d0dfec820b41b54430b50e96b5c&abyssId=11628"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/a1d33d0dfec820b41b54430b50e96b5c",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/a1d33d0dfec820b41b54430b50e96b5c"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "11628",
+        "abyssId": "11628",
+        "playXID": "a1d33d0dfec820b41b54430b50e96b5c",
+        "title": "Nina the Starry Bride",
+        "season": 1,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "j8S5CwTwV"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "dZSiu_tBY"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "6hRLsJLQ_"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "KhfDIJUZb"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "ZgDdM0SWU"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/cba7437ff2f6290c6b3005ef6f3fbb12/master.m3u8?md5=klNsviJLtai51DssqMunMA&expires=1792167225",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/cba7437ff2f6290c6b3005ef6f3fbb12/master.m3u8?md5=klNsviJLtai51DssqMunMA&expires=1792167225",
+            "videoSource": "https://ravok.buzz/cdn/hls/cba7437ff2f6290c6b3005ef6f3fbb12/master.m3u8?md5=klNsviJLtai51DssqMunMA&expires=1792167225",
+            "videoImage": "https://as-cdn27.top/p/A6rvOjY6U62vjy3ntwbsff27sIzfUtHAEDxGdldF8zC3_XKYrMxP6NlBqwvDY2en4lu-9GrtJ_jNhEx0R7PsTw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "a1d33d0dfec820b41b54430b50e96b5c",
+                "streamUrl": "https://ravok.buzz/cdn/hls/cba7437ff2f6290c6b3005ef6f3fbb12/master.m3u8?md5=klNsviJLtai51DssqMunMA&expires=1792167225",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/cba7437ff2f6290c6b3005ef6f3fbb12/master.m3u8?md5=klNsviJLtai51DssqMunMA&expires=1792167225",
+                "videoSource": "https://ravok.buzz/cdn/hls/cba7437ff2f6290c6b3005ef6f3fbb12/master.m3u8?md5=klNsviJLtai51DssqMunMA&expires=1792167225",
+                "link": "https://ravok.buzz/cdn/hls/cba7437ff2f6290c6b3005ef6f3fbb12/master.m3u8?md5=klNsviJLtai51DssqMunMA&expires=1792167225",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/A6rvOjY6U62vjy3ntwbsff27sIzfUtHAEDxGdldF8zC3_XKYrMxP6NlBqwvDY2en4lu-9GrtJ_jNhEx0R7PsTw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "j8S5CwTwV"
+        }
+      },
+      "fetched_at": "2026-10-16T14:13:55Z"
+    },
+    {
+      "id": "episode/nina-the-starry-bride-1x4",
+      "episode_id": "episode/nina-the-starry-bride-1x4",
+      "title": "The Origin of Sin",
+      "episode_name": "The Origin of Sin",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/14998/4.webp",
+      "abyssid": "10857",
+      "abyssId": "10857",
+      "playxid": "3e313b9badf12632cdae5452d20e1af6",
+      "playXID": "3e313b9badf12632cdae5452d20e1af6",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "10857",
+        "playXID": "3e313b9badf12632cdae5452d20e1af6",
+        "streamId": "10857",
+        "dubPlayerSrc": "/dub-player/t/10857/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=3e313b9badf12632cdae5452d20e1af6&abyssId=10857"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "10857",
+        "playXID": "3e313b9badf12632cdae5452d20e1af6",
+        "streamId": "10857",
+        "dubPlayerSrc": "/dub-player/t/10857/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=3e313b9badf12632cdae5452d20e1af6&abyssId=10857"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/3e313b9badf12632cdae5452d20e1af6",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/3e313b9badf12632cdae5452d20e1af6"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "10857",
+        "abyssId": "10857",
+        "playXID": "3e313b9badf12632cdae5452d20e1af6",
+        "title": "Nina the Starry Bride",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "s3RZWPurp"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "StPhrcKpMQ"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "MM20eizV6"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "VpuhpO2QN"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "j8vwtkChS"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/d6b349abc27bbbde0e02b0118340dab1/master.m3u8?md5=d2YjZf9K2i3WdM2iMCmsyQ&expires=1792167227",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/d6b349abc27bbbde0e02b0118340dab1/master.m3u8?md5=d2YjZf9K2i3WdM2iMCmsyQ&expires=1792167227",
+            "videoSource": "https://ravok.buzz/cdn/hls/d6b349abc27bbbde0e02b0118340dab1/master.m3u8?md5=d2YjZf9K2i3WdM2iMCmsyQ&expires=1792167227",
+            "videoImage": "https://as-cdn30.top/p/jACqYJd0_M8y6b_AtX2kN1qEEHzgyfUwA86csKP3IzDBb6nDMkr6xbuvY9tBl6Lu6af1HskXYsvCVUx9Mcn-yQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "3e313b9badf12632cdae5452d20e1af6",
+                "streamUrl": "https://ravok.buzz/cdn/hls/d6b349abc27bbbde0e02b0118340dab1/master.m3u8?md5=d2YjZf9K2i3WdM2iMCmsyQ&expires=1792167227",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/d6b349abc27bbbde0e02b0118340dab1/master.m3u8?md5=d2YjZf9K2i3WdM2iMCmsyQ&expires=1792167227",
+                "videoSource": "https://ravok.buzz/cdn/hls/d6b349abc27bbbde0e02b0118340dab1/master.m3u8?md5=d2YjZf9K2i3WdM2iMCmsyQ&expires=1792167227",
+                "link": "https://ravok.buzz/cdn/hls/d6b349abc27bbbde0e02b0118340dab1/master.m3u8?md5=d2YjZf9K2i3WdM2iMCmsyQ&expires=1792167227",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/jACqYJd0_M8y6b_AtX2kN1qEEHzgyfUwA86csKP3IzDBb6nDMkr6xbuvY9tBl6Lu6af1HskXYsvCVUx9Mcn-yQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "s3RZWPurp"
+        }
+      },
+      "fetched_at": "2026-10-16T14:13:56Z"
+    },
+    {
+      "id": "episode/nina-the-starry-bride-1x10",
+      "episode_id": "episode/nina-the-starry-bride-1x10",
+      "title": "The Origin of Sin",
+      "episode_name": "The Origin of Sin",
+      "episode_number": 10,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/14998/10.webp",
+      "abyssid": "11828",
+      "abyssId": "11828",
+      "playxid": "2f37d10131f2a483a8dd005b3d14b0d9",
+      "playXID": "2f37d10131f2a483a8dd005b3d14b0d9",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "11828",
+        "playXID": "2f37d10131f2a483a8dd005b3d14b0d9",
+        "streamId": "11828",
+        "dubPlayerSrc": "/dub-player/t/11828/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2f37d10131f2a483a8dd005b3d14b0d9&abyssId=11828"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "11828",
+        "playXID": "2f37d10131f2a483a8dd005b3d14b0d9",
+        "streamId": "11828",
+        "dubPlayerSrc": "/dub-player/t/11828/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2f37d10131f2a483a8dd005b3d14b0d9&abyssId=11828"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/2f37d10131f2a483a8dd005b3d14b0d9",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/2f37d10131f2a483a8dd005b3d14b0d9"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "11828",
+        "abyssId": "11828",
+        "playXID": "2f37d10131f2a483a8dd005b3d14b0d9",
+        "title": "Nina the Starry Bride",
+        "season": 1,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "89bPlaivq"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "PJcR0_666"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "G3GbT0mth"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "krxOjWixA"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "a_pO3r8-6"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/4a56bfdd6ea3219dbb1bd2b2286405f1/master.m3u8?md5=AQJjNuM4PNaMvBNbakb7Vw&expires=1792167227",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/4a56bfdd6ea3219dbb1bd2b2286405f1/master.m3u8?md5=AQJjNuM4PNaMvBNbakb7Vw&expires=1792167227",
+            "videoSource": "https://ravok.buzz/cdn/hls/4a56bfdd6ea3219dbb1bd2b2286405f1/master.m3u8?md5=AQJjNuM4PNaMvBNbakb7Vw&expires=1792167227",
+            "videoImage": "https://as-cdn27.top/p/tp5nALW1L2nK6C_Uqs0zlRrAUSG8EFWfNrz7QuWWP7B7Ur02QCauMbowUtPL1oOlMzdMogQFo6d94zkOzsqlTw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "2f37d10131f2a483a8dd005b3d14b0d9",
+                "streamUrl": "https://ravok.buzz/cdn/hls/4a56bfdd6ea3219dbb1bd2b2286405f1/master.m3u8?md5=AQJjNuM4PNaMvBNbakb7Vw&expires=1792167227",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/4a56bfdd6ea3219dbb1bd2b2286405f1/master.m3u8?md5=AQJjNuM4PNaMvBNbakb7Vw&expires=1792167227",
+                "videoSource": "https://ravok.buzz/cdn/hls/4a56bfdd6ea3219dbb1bd2b2286405f1/master.m3u8?md5=AQJjNuM4PNaMvBNbakb7Vw&expires=1792167227",
+                "link": "https://ravok.buzz/cdn/hls/4a56bfdd6ea3219dbb1bd2b2286405f1/master.m3u8?md5=AQJjNuM4PNaMvBNbakb7Vw&expires=1792167227",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/tp5nALW1L2nK6C_Uqs0zlRrAUSG8EFWfNrz7QuWWP7B7Ur02QCauMbowUtPL1oOlMzdMogQFo6d94zkOzsqlTw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "89bPlaivq"
+        }
+      },
+      "fetched_at": "2026-10-16T14:13:56Z"
+    },
+    {
+      "id": "episode/nina-the-starry-bride-1x11",
+      "episode_id": "episode/nina-the-starry-bride-1x11",
+      "title": "The Origin of Sin",
+      "episode_name": "The Origin of Sin",
+      "episode_number": 11,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/14998/11.webp",
+      "abyssid": "11857",
+      "abyssId": "11857",
+      "playxid": "5e9f92a01c986bafcabbafd145520b13",
+      "playXID": "5e9f92a01c986bafcabbafd145520b13",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "11857",
+        "playXID": "5e9f92a01c986bafcabbafd145520b13",
+        "streamId": "11857",
+        "dubPlayerSrc": "/dub-player/t/11857/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=5e9f92a01c986bafcabbafd145520b13&abyssId=11857"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "11857",
+        "playXID": "5e9f92a01c986bafcabbafd145520b13",
+        "streamId": "11857",
+        "dubPlayerSrc": "/dub-player/t/11857/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=5e9f92a01c986bafcabbafd145520b13&abyssId=11857"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/5e9f92a01c986bafcabbafd145520b13",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/5e9f92a01c986bafcabbafd145520b13"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "11857",
+        "abyssId": "11857",
+        "playXID": "5e9f92a01c986bafcabbafd145520b13",
+        "title": "Nina the Starry Bride",
+        "season": 1,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "VXGy3Zbnq"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "EOIrG4Bp8"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "zLeQI3dLB"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "pA1H6-ARR"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "8jCmSDPi5"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/af3ecfd63934564527142511b293f996/master.m3u8?md5=Nv-BCuesLrzl2bZIdE8a1Q&expires=1792167227",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/af3ecfd63934564527142511b293f996/master.m3u8?md5=Nv-BCuesLrzl2bZIdE8a1Q&expires=1792167227",
+            "videoSource": "https://ravok.buzz/cdn/hls/af3ecfd63934564527142511b293f996/master.m3u8?md5=Nv-BCuesLrzl2bZIdE8a1Q&expires=1792167227",
+            "videoImage": "https://as-cdn30.top/p/rjMBFnfbLkyfWPi87l8mzOUziFBZsfAGDq29Ma5q-8XG4D3nmE-W9ei8hwy3VFCYOIU2t4RZtZmdBUguBsQfaQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "5e9f92a01c986bafcabbafd145520b13",
+                "streamUrl": "https://ravok.buzz/cdn/hls/af3ecfd63934564527142511b293f996/master.m3u8?md5=Nv-BCuesLrzl2bZIdE8a1Q&expires=1792167227",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/af3ecfd63934564527142511b293f996/master.m3u8?md5=Nv-BCuesLrzl2bZIdE8a1Q&expires=1792167227",
+                "videoSource": "https://ravok.buzz/cdn/hls/af3ecfd63934564527142511b293f996/master.m3u8?md5=Nv-BCuesLrzl2bZIdE8a1Q&expires=1792167227",
+                "link": "https://ravok.buzz/cdn/hls/af3ecfd63934564527142511b293f996/master.m3u8?md5=Nv-BCuesLrzl2bZIdE8a1Q&expires=1792167227",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/rjMBFnfbLkyfWPi87l8mzOUziFBZsfAGDq29Ma5q-8XG4D3nmE-W9ei8hwy3VFCYOIU2t4RZtZmdBUguBsQfaQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "VXGy3Zbnq"
+        }
+      },
+      "fetched_at": "2026-10-16T14:13:56Z"
+    },
+    {
+      "id": "episode/nina-the-starry-bride-1x12",
+      "episode_id": "episode/nina-the-starry-bride-1x12",
+      "title": "The Origin of Sin",
+      "episode_name": "The Origin of Sin",
+      "episode_number": 12,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/14998/12.webp",
+      "abyssid": "11909",
+      "abyssId": "11909",
+      "playxid": "d397c2b2be2178fe6247bd50fc97cff2",
+      "playXID": "d397c2b2be2178fe6247bd50fc97cff2",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "11909",
+        "playXID": "d397c2b2be2178fe6247bd50fc97cff2",
+        "streamId": "11909",
+        "dubPlayerSrc": "/dub-player/t/11909/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d397c2b2be2178fe6247bd50fc97cff2&abyssId=11909"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "11909",
+        "playXID": "d397c2b2be2178fe6247bd50fc97cff2",
+        "streamId": "11909",
+        "dubPlayerSrc": "/dub-player/t/11909/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d397c2b2be2178fe6247bd50fc97cff2&abyssId=11909"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/d397c2b2be2178fe6247bd50fc97cff2",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/d397c2b2be2178fe6247bd50fc97cff2"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "11909",
+        "abyssId": "11909",
+        "playXID": "d397c2b2be2178fe6247bd50fc97cff2",
+        "title": "Nina the Starry Bride",
+        "season": 1,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "6GsXm6pZ_"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "xLMC5Mgd4"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "5TzpUqBDT"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "JPrldiF55"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "NB-8nc3-e"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/03e15e2433a9829900a27df7706c3c1b/master.m3u8?md5=rRANV5qjsbSh0L9-DKV4-w&expires=1792167227",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/03e15e2433a9829900a27df7706c3c1b/master.m3u8?md5=rRANV5qjsbSh0L9-DKV4-w&expires=1792167227",
+            "videoSource": "https://ravok.buzz/cdn/hls/03e15e2433a9829900a27df7706c3c1b/master.m3u8?md5=rRANV5qjsbSh0L9-DKV4-w&expires=1792167227",
+            "videoImage": "https://as-cdn28.top/p/dnXHkMXdgxgohbwqe_KXIE-TVbvl_HaOOzIGeW-LkuhSmgkolx062Yo863KgtZrNHBQKBq97pXgJqBXe3Mu5aw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "d397c2b2be2178fe6247bd50fc97cff2",
+                "streamUrl": "https://ravok.buzz/cdn/hls/03e15e2433a9829900a27df7706c3c1b/master.m3u8?md5=rRANV5qjsbSh0L9-DKV4-w&expires=1792167227",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/03e15e2433a9829900a27df7706c3c1b/master.m3u8?md5=rRANV5qjsbSh0L9-DKV4-w&expires=1792167227",
+                "videoSource": "https://ravok.buzz/cdn/hls/03e15e2433a9829900a27df7706c3c1b/master.m3u8?md5=rRANV5qjsbSh0L9-DKV4-w&expires=1792167227",
+                "link": "https://ravok.buzz/cdn/hls/03e15e2433a9829900a27df7706c3c1b/master.m3u8?md5=rRANV5qjsbSh0L9-DKV4-w&expires=1792167227",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/dnXHkMXdgxgohbwqe_KXIE-TVbvl_HaOOzIGeW-LkuhSmgkolx062Yo863KgtZrNHBQKBq97pXgJqBXe3Mu5aw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "6GsXm6pZ_"
+        }
+      },
+      "fetched_at": "2026-10-16T14:13:57Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T14:13:50Z",
+  "updated_at": "2026-10-16T14:13:57Z"
+}

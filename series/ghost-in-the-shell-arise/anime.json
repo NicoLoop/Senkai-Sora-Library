@@ -1,0 +1,652 @@
+{
+  "id": "series/ghost-in-the-shell-arise",
+  "series_name": "Ghost in the Shell: Arise",
+  "title": "Ghost in the Shell: Arise",
+  "banner": "https://image.tmdb.org/t/p/w1280/vZ4GEdYIipwXF37BGKN1kgb8BIG.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/zaN0EZ4f1b2jCtDj7mpVhPH9C9K.jpg",
+  "genra": [
+    "Action",
+    "Adult Cast",
+    "Mecha",
+    "Mystery",
+    "Psychological",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "genres": [
+    "Action",
+    "Adult Cast",
+    "Mecha",
+    "Mystery",
+    "Psychological",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Japanese",
+    "Tamil",
+    "Telugu"
+  ],
+  "synopsis": "The series takes place in the year 2027, where many people in developed countries have become cyborgs with prosthetic bodies. Primarily set in the fictional Japanese Newport City, the series follows a younger Motoko Kusanagi before the formation of Public Security Section 9. At the start of Arise she is a member of the federal 501 Organization, a group who employs advanced infiltration tactics and espionage to attack or neutralize enemy threats. The 501 Organization is also the legal owner of Kusanagi's prosthetic body, which is lent to her in exchange for her services to the group. This debt displeases her and causes a disparity between herself and her employer.",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 5,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 5,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Ghost in the Shell: Arise 1x1",
+          "id": "episode/ghost-in-the-shell-arise-1x1",
+          "image": "https://img.watchanimeworld.one/img/thumb_2096_s1e1.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "Ghost in the Shell: Arise 1x2",
+          "id": "episode/ghost-in-the-shell-arise-1x2",
+          "image": "https://img.watchanimeworld.one/img/thumb_2096_s1e2.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "Ghost in the Shell: Arise 1x3",
+          "id": "episode/ghost-in-the-shell-arise-1x3",
+          "image": "https://img.watchanimeworld.one/img/thumb_2096_s1e3.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "Ghost in the Shell: Arise 1x4",
+          "id": "episode/ghost-in-the-shell-arise-1x4",
+          "image": "https://img.watchanimeworld.one/img/thumb_2096_s1e4.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "Ghost in the Shell: Arise 1x5",
+          "id": "episode/ghost-in-the-shell-arise-1x5",
+          "image": "https://img.watchanimeworld.one/img/thumb_2096_s1e5.webp",
+          "season": 1
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/ghost-in-the-shell-arise-1x2",
+      "episode_id": "episode/ghost-in-the-shell-arise-1x2",
+      "title": "Ghost in the Shell: Arise 1x1",
+      "episode_name": "Ghost in the Shell: Arise 1x1",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2096_s1e2.webp",
+      "abyssid": "16870",
+      "abyssId": "16870",
+      "playxid": "46fb6ac698d54a632d70b6b83fd6719a",
+      "playXID": "46fb6ac698d54a632d70b6b83fd6719a",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16870",
+        "playXID": "46fb6ac698d54a632d70b6b83fd6719a",
+        "streamId": "16870",
+        "dubPlayerSrc": "/dub-player/t/16870/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=46fb6ac698d54a632d70b6b83fd6719a&abyssId=16870"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16870",
+        "playXID": "46fb6ac698d54a632d70b6b83fd6719a",
+        "streamId": "16870",
+        "dubPlayerSrc": "/dub-player/t/16870/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=46fb6ac698d54a632d70b6b83fd6719a&abyssId=16870"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/46fb6ac698d54a632d70b6b83fd6719a",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/46fb6ac698d54a632d70b6b83fd6719a"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16870",
+        "abyssId": "16870",
+        "playXID": "46fb6ac698d54a632d70b6b83fd6719a",
+        "title": "Ghost in the Shell: Arise",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "3kekO66sx"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "DqoU6zA8E"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "sUXrTcmXS"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "qESaLSzkW"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "b6M02KGg2"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/a535ed2705cd9eaea938e08e2a5036cf/master.m3u8?md5=2thVlfgwcHlyywqfihNXeg&expires=1792166202",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/a535ed2705cd9eaea938e08e2a5036cf/master.m3u8?md5=2thVlfgwcHlyywqfihNXeg&expires=1792166202",
+            "videoSource": "https://ravok.buzz/cdn/hls/a535ed2705cd9eaea938e08e2a5036cf/master.m3u8?md5=2thVlfgwcHlyywqfihNXeg&expires=1792166202",
+            "videoImage": "https://as-cdn29.top/p/K2t-o0V_b3pqWncDmlCbCNdM6HtqP8rxLwroMZmMnl0AQ0ehXQYyYc49litTExZJUUhJ8K8zWFF77WmzQvq1aQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "46fb6ac698d54a632d70b6b83fd6719a",
+                "streamUrl": "https://ravok.buzz/cdn/hls/a535ed2705cd9eaea938e08e2a5036cf/master.m3u8?md5=2thVlfgwcHlyywqfihNXeg&expires=1792166202",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/a535ed2705cd9eaea938e08e2a5036cf/master.m3u8?md5=2thVlfgwcHlyywqfihNXeg&expires=1792166202",
+                "videoSource": "https://ravok.buzz/cdn/hls/a535ed2705cd9eaea938e08e2a5036cf/master.m3u8?md5=2thVlfgwcHlyywqfihNXeg&expires=1792166202",
+                "link": "https://ravok.buzz/cdn/hls/a535ed2705cd9eaea938e08e2a5036cf/master.m3u8?md5=2thVlfgwcHlyywqfihNXeg&expires=1792166202",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/K2t-o0V_b3pqWncDmlCbCNdM6HtqP8rxLwroMZmMnl0AQ0ehXQYyYc49litTExZJUUhJ8K8zWFF77WmzQvq1aQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "3kekO66sx"
+        }
+      },
+      "fetched_at": "2026-10-16T13:56:52Z"
+    },
+    {
+      "id": "episode/ghost-in-the-shell-arise-1x3",
+      "episode_id": "episode/ghost-in-the-shell-arise-1x3",
+      "title": "Ghost in the Shell: Arise 1x1",
+      "episode_name": "Ghost in the Shell: Arise 1x1",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2096_s1e3.webp",
+      "abyssid": "16871",
+      "abyssId": "16871",
+      "playxid": "7337bc5b4a00fa2ee237cf50a57b288d",
+      "playXID": "7337bc5b4a00fa2ee237cf50a57b288d",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16871",
+        "playXID": "7337bc5b4a00fa2ee237cf50a57b288d",
+        "streamId": "16871",
+        "dubPlayerSrc": "/dub-player/t/16871/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=7337bc5b4a00fa2ee237cf50a57b288d&abyssId=16871"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16871",
+        "playXID": "7337bc5b4a00fa2ee237cf50a57b288d",
+        "streamId": "16871",
+        "dubPlayerSrc": "/dub-player/t/16871/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=7337bc5b4a00fa2ee237cf50a57b288d&abyssId=16871"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/7337bc5b4a00fa2ee237cf50a57b288d",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/7337bc5b4a00fa2ee237cf50a57b288d"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16871",
+        "abyssId": "16871",
+        "playXID": "7337bc5b4a00fa2ee237cf50a57b288d",
+        "title": "Ghost in the Shell: Arise",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "FMWOzcFMw"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "UJX7RH9V5"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "fG052NA07"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "R74x7Sh9Pm"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "ySrLe8i0A"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/24f39c2a31b4609ec96cb82484970c71/master.m3u8?md5=edwv-qsS4JVP-oVqsDTEyg&expires=1792166202",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/24f39c2a31b4609ec96cb82484970c71/master.m3u8?md5=edwv-qsS4JVP-oVqsDTEyg&expires=1792166202",
+            "videoSource": "https://ravok.buzz/cdn/hls/24f39c2a31b4609ec96cb82484970c71/master.m3u8?md5=edwv-qsS4JVP-oVqsDTEyg&expires=1792166202",
+            "videoImage": "https://as-cdn29.top/p/WYPlhellY2YC18kGJFXkeVXachv_6ZUgD9NeoP5f39Y2NKvBOnYTUOGK_8n_8gPou7jci3R9ahZ7pS9IKs86zg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "7337bc5b4a00fa2ee237cf50a57b288d",
+                "streamUrl": "https://ravok.buzz/cdn/hls/24f39c2a31b4609ec96cb82484970c71/master.m3u8?md5=edwv-qsS4JVP-oVqsDTEyg&expires=1792166202",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/24f39c2a31b4609ec96cb82484970c71/master.m3u8?md5=edwv-qsS4JVP-oVqsDTEyg&expires=1792166202",
+                "videoSource": "https://ravok.buzz/cdn/hls/24f39c2a31b4609ec96cb82484970c71/master.m3u8?md5=edwv-qsS4JVP-oVqsDTEyg&expires=1792166202",
+                "link": "https://ravok.buzz/cdn/hls/24f39c2a31b4609ec96cb82484970c71/master.m3u8?md5=edwv-qsS4JVP-oVqsDTEyg&expires=1792166202",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/WYPlhellY2YC18kGJFXkeVXachv_6ZUgD9NeoP5f39Y2NKvBOnYTUOGK_8n_8gPou7jci3R9ahZ7pS9IKs86zg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "FMWOzcFMw"
+        }
+      },
+      "fetched_at": "2026-10-16T13:56:52Z"
+    },
+    {
+      "id": "episode/ghost-in-the-shell-arise-1x5",
+      "episode_id": "episode/ghost-in-the-shell-arise-1x5",
+      "title": "Ghost in the Shell: Arise 1x1",
+      "episode_name": "Ghost in the Shell: Arise 1x1",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2096_s1e5.webp",
+      "abyssid": "16873",
+      "abyssId": "16873",
+      "playxid": "cd3b6e78242b4c8faa986194ba2bfc58",
+      "playXID": "cd3b6e78242b4c8faa986194ba2bfc58",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16873",
+        "playXID": "cd3b6e78242b4c8faa986194ba2bfc58",
+        "streamId": "16873",
+        "dubPlayerSrc": "/dub-player/t/16873/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=cd3b6e78242b4c8faa986194ba2bfc58&abyssId=16873"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16873",
+        "playXID": "cd3b6e78242b4c8faa986194ba2bfc58",
+        "streamId": "16873",
+        "dubPlayerSrc": "/dub-player/t/16873/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=cd3b6e78242b4c8faa986194ba2bfc58&abyssId=16873"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/cd3b6e78242b4c8faa986194ba2bfc58",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/cd3b6e78242b4c8faa986194ba2bfc58"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16873",
+        "abyssId": "16873",
+        "playXID": "cd3b6e78242b4c8faa986194ba2bfc58",
+        "title": "Ghost in the Shell: Arise",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "HbRoYxFoF"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "cz_IWJHI2"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "mGTyrUy8-"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "q2hvpyObS"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/9a3181d026d3a4e28561319f201e3e63/master.m3u8?md5=VEW7_hyh4PlqwHL0Is5_2g&expires=1792166202",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/9a3181d026d3a4e28561319f201e3e63/master.m3u8?md5=VEW7_hyh4PlqwHL0Is5_2g&expires=1792166202",
+            "videoSource": "https://ravok.buzz/cdn/hls/9a3181d026d3a4e28561319f201e3e63/master.m3u8?md5=VEW7_hyh4PlqwHL0Is5_2g&expires=1792166202",
+            "videoImage": "https://as-cdn31.top/p/P4eIh_GNlaG9eLIyLDOKkMeqax4bCGittnn7_tNTVK26gyKkNz-i0ErVDaBUJkhTr6eRAfVXqow0NCCVtuUpqg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "cd3b6e78242b4c8faa986194ba2bfc58",
+                "streamUrl": "https://ravok.buzz/cdn/hls/9a3181d026d3a4e28561319f201e3e63/master.m3u8?md5=VEW7_hyh4PlqwHL0Is5_2g&expires=1792166202",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/9a3181d026d3a4e28561319f201e3e63/master.m3u8?md5=VEW7_hyh4PlqwHL0Is5_2g&expires=1792166202",
+                "videoSource": "https://ravok.buzz/cdn/hls/9a3181d026d3a4e28561319f201e3e63/master.m3u8?md5=VEW7_hyh4PlqwHL0Is5_2g&expires=1792166202",
+                "link": "https://ravok.buzz/cdn/hls/9a3181d026d3a4e28561319f201e3e63/master.m3u8?md5=VEW7_hyh4PlqwHL0Is5_2g&expires=1792166202",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/P4eIh_GNlaG9eLIyLDOKkMeqax4bCGittnn7_tNTVK26gyKkNz-i0ErVDaBUJkhTr6eRAfVXqow0NCCVtuUpqg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "HbRoYxFoF"
+        }
+      },
+      "fetched_at": "2026-10-16T13:56:52Z"
+    },
+    {
+      "id": "episode/ghost-in-the-shell-arise-1x1",
+      "episode_id": "episode/ghost-in-the-shell-arise-1x1",
+      "title": "Ghost in the Shell: Arise 1x1",
+      "episode_name": "Ghost in the Shell: Arise 1x1",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2096_s1e1.webp",
+      "abyssid": "16869",
+      "abyssId": "16869",
+      "playxid": "e33b5ba509e687654cd19c642ac2dc09",
+      "playXID": "e33b5ba509e687654cd19c642ac2dc09",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16869",
+        "playXID": "e33b5ba509e687654cd19c642ac2dc09",
+        "streamId": "16869",
+        "dubPlayerSrc": "/dub-player/t/16869/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e33b5ba509e687654cd19c642ac2dc09&abyssId=16869"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16869",
+        "playXID": "e33b5ba509e687654cd19c642ac2dc09",
+        "streamId": "16869",
+        "dubPlayerSrc": "/dub-player/t/16869/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e33b5ba509e687654cd19c642ac2dc09&abyssId=16869"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/e33b5ba509e687654cd19c642ac2dc09",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/e33b5ba509e687654cd19c642ac2dc09"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16869",
+        "abyssId": "16869",
+        "playXID": "e33b5ba509e687654cd19c642ac2dc09",
+        "title": "Ghost in the Shell: Arise",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "WLSazz8GE"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "I4EgprXMN"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "Ew99Lfb1s"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "P5mxbzD0e"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "YgmBfrZLX"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/e9049832fc3fcfa9fcc152b9bc55d607/master.m3u8?md5=6K6UEQueLbA0wrSC74YYYA&expires=1792166202",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/e9049832fc3fcfa9fcc152b9bc55d607/master.m3u8?md5=6K6UEQueLbA0wrSC74YYYA&expires=1792166202",
+            "videoSource": "https://ravok.buzz/cdn/hls/e9049832fc3fcfa9fcc152b9bc55d607/master.m3u8?md5=6K6UEQueLbA0wrSC74YYYA&expires=1792166202",
+            "videoImage": "https://as-cdn30.top/p/QQQNGEx7MfVLhxJXcba8CW-sRjIGj_rVhZ9lFQRwx5qGLJtUCNaXNt6QeWMj5Bfs057-IzA-hMT11I6ia1IIeg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "e33b5ba509e687654cd19c642ac2dc09",
+                "streamUrl": "https://ravok.buzz/cdn/hls/e9049832fc3fcfa9fcc152b9bc55d607/master.m3u8?md5=6K6UEQueLbA0wrSC74YYYA&expires=1792166202",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/e9049832fc3fcfa9fcc152b9bc55d607/master.m3u8?md5=6K6UEQueLbA0wrSC74YYYA&expires=1792166202",
+                "videoSource": "https://ravok.buzz/cdn/hls/e9049832fc3fcfa9fcc152b9bc55d607/master.m3u8?md5=6K6UEQueLbA0wrSC74YYYA&expires=1792166202",
+                "link": "https://ravok.buzz/cdn/hls/e9049832fc3fcfa9fcc152b9bc55d607/master.m3u8?md5=6K6UEQueLbA0wrSC74YYYA&expires=1792166202",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/QQQNGEx7MfVLhxJXcba8CW-sRjIGj_rVhZ9lFQRwx5qGLJtUCNaXNt6QeWMj5Bfs057-IzA-hMT11I6ia1IIeg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "WLSazz8GE"
+        }
+      },
+      "fetched_at": "2026-10-16T13:56:52Z"
+    },
+    {
+      "id": "episode/ghost-in-the-shell-arise-1x4",
+      "episode_id": "episode/ghost-in-the-shell-arise-1x4",
+      "title": "Ghost in the Shell: Arise 1x1",
+      "episode_name": "Ghost in the Shell: Arise 1x1",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2096_s1e4.webp",
+      "abyssid": "16872",
+      "abyssId": "16872",
+      "playxid": "8fc00922bc09442f10ff8a8be0973604",
+      "playXID": "8fc00922bc09442f10ff8a8be0973604",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16872",
+        "playXID": "8fc00922bc09442f10ff8a8be0973604",
+        "streamId": "16872",
+        "dubPlayerSrc": "/dub-player/t/16872/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8fc00922bc09442f10ff8a8be0973604&abyssId=16872"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16872",
+        "playXID": "8fc00922bc09442f10ff8a8be0973604",
+        "streamId": "16872",
+        "dubPlayerSrc": "/dub-player/t/16872/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8fc00922bc09442f10ff8a8be0973604&abyssId=16872"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/8fc00922bc09442f10ff8a8be0973604",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/8fc00922bc09442f10ff8a8be0973604"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16872",
+        "abyssId": "16872",
+        "playXID": "8fc00922bc09442f10ff8a8be0973604",
+        "title": "Ghost in the Shell: Arise",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "5iB_oG0VF"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "8uAemXhEH"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "OJioBVKM8"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "ZxeGUlgf2"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "nGTd0oqtq"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/4459cd0ddb329797f6c1ee4b63452e89/master.m3u8?md5=aW7o5SaY8IqF8Uci7-kSDw&expires=1792166203",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/4459cd0ddb329797f6c1ee4b63452e89/master.m3u8?md5=aW7o5SaY8IqF8Uci7-kSDw&expires=1792166203",
+            "videoSource": "https://ravok.buzz/cdn/hls/4459cd0ddb329797f6c1ee4b63452e89/master.m3u8?md5=aW7o5SaY8IqF8Uci7-kSDw&expires=1792166203",
+            "videoImage": "https://as-cdn28.top/p/0S_I2X0IYz-lUeU3ZyCBSVWrPpujHTxcsx7KZgCbo0g0AohaO5MLJlQpCyjelF158oQNoWbyPUP2JFyanV17zg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "8fc00922bc09442f10ff8a8be0973604",
+                "streamUrl": "https://ravok.buzz/cdn/hls/4459cd0ddb329797f6c1ee4b63452e89/master.m3u8?md5=aW7o5SaY8IqF8Uci7-kSDw&expires=1792166203",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/4459cd0ddb329797f6c1ee4b63452e89/master.m3u8?md5=aW7o5SaY8IqF8Uci7-kSDw&expires=1792166203",
+                "videoSource": "https://ravok.buzz/cdn/hls/4459cd0ddb329797f6c1ee4b63452e89/master.m3u8?md5=aW7o5SaY8IqF8Uci7-kSDw&expires=1792166203",
+                "link": "https://ravok.buzz/cdn/hls/4459cd0ddb329797f6c1ee4b63452e89/master.m3u8?md5=aW7o5SaY8IqF8Uci7-kSDw&expires=1792166203",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/0S_I2X0IYz-lUeU3ZyCBSVWrPpujHTxcsx7KZgCbo0g0AohaO5MLJlQpCyjelF158oQNoWbyPUP2JFyanV17zg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "5iB_oG0VF"
+        }
+      },
+      "fetched_at": "2026-10-16T13:56:53Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T13:56:50Z",
+  "updated_at": "2026-10-16T13:56:53Z"
+}

@@ -1,0 +1,1357 @@
+{
+  "id": "series/junji-ito-collection",
+  "series_name": "Junji Ito Collection",
+  "title": "Junji Ito Collection",
+  "banner": "https://image.tmdb.org/t/p/w1280/33szknNsrRWiw8NPJZbVXOkfBfy.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/umJEelwoLi3x123sbJ9pMTPA5Lt.jpg",
+  "genra": [
+    "Drama",
+    "Horror",
+    "Mystery",
+    "Psychological",
+    "Supernatural",
+    "Suspense"
+  ],
+  "genres": [
+    "Drama",
+    "Horror",
+    "Mystery",
+    "Psychological",
+    "Supernatural",
+    "Suspense"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Japanese"
+  ],
+  "synopsis": "A collection of animated horror stories based on the works of Japanese artist Junji Ito.",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Junji Ito Collection 1x1",
+          "id": "episode/junji-ito-collection-1x1",
+          "image": "https://img.watchanimeworld.one/image/1452/1/1.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "Junji Ito Collection 1x2",
+          "id": "episode/junji-ito-collection-1x2",
+          "image": "https://img.watchanimeworld.one/image/1452/1/2.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "Junji Ito Collection 1x3",
+          "id": "episode/junji-ito-collection-1x3",
+          "image": "https://img.watchanimeworld.one/image/1452/1/3.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "Junji Ito Collection 1x4",
+          "id": "episode/junji-ito-collection-1x4",
+          "image": "https://img.watchanimeworld.one/image/1452/1/4.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "Junji Ito Collection 1x5",
+          "id": "episode/junji-ito-collection-1x5",
+          "image": "https://img.watchanimeworld.one/image/1452/1/5.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "Junji Ito Collection 1x6",
+          "id": "episode/junji-ito-collection-1x6",
+          "image": "https://img.watchanimeworld.one/image/1452/1/6.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "Junji Ito Collection 1x7",
+          "id": "episode/junji-ito-collection-1x7",
+          "image": "https://img.watchanimeworld.one/image/1452/1/7.webp",
+          "season": 1
+        },
+        {
+          "episode": 8,
+          "title": "Junji Ito Collection 1x8",
+          "id": "episode/junji-ito-collection-1x8",
+          "image": "https://img.watchanimeworld.one/image/1452/1/8.webp",
+          "season": 1
+        },
+        {
+          "episode": 9,
+          "title": "Junji Ito Collection 1x9",
+          "id": "episode/junji-ito-collection-1x9",
+          "image": "https://img.watchanimeworld.one/image/1452/1/9.webp",
+          "season": 1
+        },
+        {
+          "episode": 10,
+          "title": "Junji Ito Collection 1x10",
+          "id": "episode/junji-ito-collection-1x10",
+          "image": "https://img.watchanimeworld.one/image/1452/1/10.webp",
+          "season": 1
+        },
+        {
+          "episode": 11,
+          "title": "Junji Ito Collection 1x11",
+          "id": "episode/junji-ito-collection-1x11",
+          "image": "https://img.watchanimeworld.one/image/1452/1/11.webp",
+          "season": 1
+        },
+        {
+          "episode": 12,
+          "title": "Junji Ito Collection 1x12",
+          "id": "episode/junji-ito-collection-1x12",
+          "image": "https://img.watchanimeworld.one/image/1452/1/12.webp",
+          "season": 1
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/junji-ito-collection-1x2",
+      "episode_id": "episode/junji-ito-collection-1x2",
+      "title": "Junji Ito Collection 1x1",
+      "episode_name": "Junji Ito Collection 1x1",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1452/1/2.webp",
+      "abyssid": "13850",
+      "abyssId": "13850",
+      "playxid": "9d405c24be657bbf7a5244815a908922",
+      "playXID": "9d405c24be657bbf7a5244815a908922",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13850",
+        "playXID": "9d405c24be657bbf7a5244815a908922",
+        "streamId": "13850",
+        "dubPlayerSrc": "/dub-player/t/13850/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9d405c24be657bbf7a5244815a908922&abyssId=13850"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13850",
+        "playXID": "9d405c24be657bbf7a5244815a908922",
+        "streamId": "13850",
+        "dubPlayerSrc": "/dub-player/t/13850/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9d405c24be657bbf7a5244815a908922&abyssId=13850"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/9d405c24be657bbf7a5244815a908922",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/9d405c24be657bbf7a5244815a908922"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13850",
+        "abyssId": "13850",
+        "playXID": "9d405c24be657bbf7a5244815a908922",
+        "title": "Junji Ito Collection",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "oNEYeFbeH"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "jWxGy2uk3"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "75pdHjuD5"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/8b5350de248845dbdf5509dc66109c1a/master.m3u8?md5=i-GKOjOEEmqm5kXylah4gQ&expires=1792166704",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/8b5350de248845dbdf5509dc66109c1a/master.m3u8?md5=i-GKOjOEEmqm5kXylah4gQ&expires=1792166704",
+            "videoSource": "https://ravok.buzz/cdn/hls/8b5350de248845dbdf5509dc66109c1a/master.m3u8?md5=i-GKOjOEEmqm5kXylah4gQ&expires=1792166704",
+            "videoImage": "https://as-cdn27.top/p/5vz2G1eQI9EUItoXQjQ55tgqEvKkGF4Q496QLrmNRvc4fPGQzrthUl6eangNOpeS23YaPQxkv1fkVcbK2waY6A.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "9d405c24be657bbf7a5244815a908922",
+                "streamUrl": "https://ravok.buzz/cdn/hls/8b5350de248845dbdf5509dc66109c1a/master.m3u8?md5=i-GKOjOEEmqm5kXylah4gQ&expires=1792166704",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/8b5350de248845dbdf5509dc66109c1a/master.m3u8?md5=i-GKOjOEEmqm5kXylah4gQ&expires=1792166704",
+                "videoSource": "https://ravok.buzz/cdn/hls/8b5350de248845dbdf5509dc66109c1a/master.m3u8?md5=i-GKOjOEEmqm5kXylah4gQ&expires=1792166704",
+                "link": "https://ravok.buzz/cdn/hls/8b5350de248845dbdf5509dc66109c1a/master.m3u8?md5=i-GKOjOEEmqm5kXylah4gQ&expires=1792166704",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/5vz2G1eQI9EUItoXQjQ55tgqEvKkGF4Q496QLrmNRvc4fPGQzrthUl6eangNOpeS23YaPQxkv1fkVcbK2waY6A.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "oNEYeFbeH"
+        }
+      },
+      "fetched_at": "2026-10-16T14:05:14Z"
+    },
+    {
+      "id": "episode/junji-ito-collection-1x3",
+      "episode_id": "episode/junji-ito-collection-1x3",
+      "title": "Junji Ito Collection 1x1",
+      "episode_name": "Junji Ito Collection 1x1",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1452/1/3.webp",
+      "abyssid": "13851",
+      "abyssId": "13851",
+      "playxid": "a4a587f3d0835928d30c2253f0624953",
+      "playXID": "a4a587f3d0835928d30c2253f0624953",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13851",
+        "playXID": "a4a587f3d0835928d30c2253f0624953",
+        "streamId": "13851",
+        "dubPlayerSrc": "/dub-player/t/13851/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a4a587f3d0835928d30c2253f0624953&abyssId=13851"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13851",
+        "playXID": "a4a587f3d0835928d30c2253f0624953",
+        "streamId": "13851",
+        "dubPlayerSrc": "/dub-player/t/13851/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a4a587f3d0835928d30c2253f0624953&abyssId=13851"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/a4a587f3d0835928d30c2253f0624953",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/a4a587f3d0835928d30c2253f0624953"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13851",
+        "abyssId": "13851",
+        "playXID": "a4a587f3d0835928d30c2253f0624953",
+        "title": "Junji Ito Collection",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "TGbgs38S8"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "VOGEZ5Cia"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "tN8707olg"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/38618b9f201001c76e29636cedff895e/master.m3u8?md5=uCFKBX2bci1Ue_kimq7Eiw&expires=1792166704",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/38618b9f201001c76e29636cedff895e/master.m3u8?md5=uCFKBX2bci1Ue_kimq7Eiw&expires=1792166704",
+            "videoSource": "https://ravok.buzz/cdn/hls/38618b9f201001c76e29636cedff895e/master.m3u8?md5=uCFKBX2bci1Ue_kimq7Eiw&expires=1792166704",
+            "videoImage": "https://as-cdn30.top/p/ZwkQcumOeo3ZNzUHj7g0v-R8LQYvMDs4U_5FSwwUmh0fcqJnuvQEKU4Y37KHtW0vk3VXE83ROYHCYoe-7wBnQw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "a4a587f3d0835928d30c2253f0624953",
+                "streamUrl": "https://ravok.buzz/cdn/hls/38618b9f201001c76e29636cedff895e/master.m3u8?md5=uCFKBX2bci1Ue_kimq7Eiw&expires=1792166704",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/38618b9f201001c76e29636cedff895e/master.m3u8?md5=uCFKBX2bci1Ue_kimq7Eiw&expires=1792166704",
+                "videoSource": "https://ravok.buzz/cdn/hls/38618b9f201001c76e29636cedff895e/master.m3u8?md5=uCFKBX2bci1Ue_kimq7Eiw&expires=1792166704",
+                "link": "https://ravok.buzz/cdn/hls/38618b9f201001c76e29636cedff895e/master.m3u8?md5=uCFKBX2bci1Ue_kimq7Eiw&expires=1792166704",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/ZwkQcumOeo3ZNzUHj7g0v-R8LQYvMDs4U_5FSwwUmh0fcqJnuvQEKU4Y37KHtW0vk3VXE83ROYHCYoe-7wBnQw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "TGbgs38S8"
+        }
+      },
+      "fetched_at": "2026-10-16T14:05:14Z"
+    },
+    {
+      "id": "episode/junji-ito-collection-1x1",
+      "episode_id": "episode/junji-ito-collection-1x1",
+      "title": "Junji Ito Collection 1x1",
+      "episode_name": "Junji Ito Collection 1x1",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1452/1/1.webp",
+      "abyssid": "13849",
+      "abyssId": "13849",
+      "playxid": "fc0de4e0396fff257ea362983c2dda5a",
+      "playXID": "fc0de4e0396fff257ea362983c2dda5a",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13849",
+        "playXID": "fc0de4e0396fff257ea362983c2dda5a",
+        "streamId": "13849",
+        "dubPlayerSrc": "/dub-player/t/13849/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=fc0de4e0396fff257ea362983c2dda5a&abyssId=13849"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13849",
+        "playXID": "fc0de4e0396fff257ea362983c2dda5a",
+        "streamId": "13849",
+        "dubPlayerSrc": "/dub-player/t/13849/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=fc0de4e0396fff257ea362983c2dda5a&abyssId=13849"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/fc0de4e0396fff257ea362983c2dda5a",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/fc0de4e0396fff257ea362983c2dda5a"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13849",
+        "abyssId": "13849",
+        "playXID": "fc0de4e0396fff257ea362983c2dda5a",
+        "title": "Junji Ito Collection",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "lnxRZv61v"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "2TCEolCBI"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "rn2OiuC6g"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/524e0f8ba996b4de7ec6725aaca93333/master.m3u8?md5=YhdVSeZ9z4Jr3L-pVCP-XQ&expires=1792166704",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/524e0f8ba996b4de7ec6725aaca93333/master.m3u8?md5=YhdVSeZ9z4Jr3L-pVCP-XQ&expires=1792166704",
+            "videoSource": "https://ravok.buzz/cdn/hls/524e0f8ba996b4de7ec6725aaca93333/master.m3u8?md5=YhdVSeZ9z4Jr3L-pVCP-XQ&expires=1792166704",
+            "videoImage": "https://as-cdn31.top/p/td9saKNxUY9Fg_51COit4l80wbwqRhveP24-NWc4FWt8ED-9AkNDO2CyyRflHnHcf_4YrJoU112bUih_j0PuaQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "fc0de4e0396fff257ea362983c2dda5a",
+                "streamUrl": "https://ravok.buzz/cdn/hls/524e0f8ba996b4de7ec6725aaca93333/master.m3u8?md5=YhdVSeZ9z4Jr3L-pVCP-XQ&expires=1792166704",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/524e0f8ba996b4de7ec6725aaca93333/master.m3u8?md5=YhdVSeZ9z4Jr3L-pVCP-XQ&expires=1792166704",
+                "videoSource": "https://ravok.buzz/cdn/hls/524e0f8ba996b4de7ec6725aaca93333/master.m3u8?md5=YhdVSeZ9z4Jr3L-pVCP-XQ&expires=1792166704",
+                "link": "https://ravok.buzz/cdn/hls/524e0f8ba996b4de7ec6725aaca93333/master.m3u8?md5=YhdVSeZ9z4Jr3L-pVCP-XQ&expires=1792166704",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/td9saKNxUY9Fg_51COit4l80wbwqRhveP24-NWc4FWt8ED-9AkNDO2CyyRflHnHcf_4YrJoU112bUih_j0PuaQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "lnxRZv61v"
+        }
+      },
+      "fetched_at": "2026-10-16T14:05:14Z"
+    },
+    {
+      "id": "episode/junji-ito-collection-1x5",
+      "episode_id": "episode/junji-ito-collection-1x5",
+      "title": "Junji Ito Collection 1x1",
+      "episode_name": "Junji Ito Collection 1x1",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1452/1/5.webp",
+      "abyssid": "13853",
+      "abyssId": "13853",
+      "playxid": "f8abea41f08a479ca29e81fe5f2ce6db",
+      "playXID": "f8abea41f08a479ca29e81fe5f2ce6db",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13853",
+        "playXID": "f8abea41f08a479ca29e81fe5f2ce6db",
+        "streamId": "13853",
+        "dubPlayerSrc": "/dub-player/t/13853/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f8abea41f08a479ca29e81fe5f2ce6db&abyssId=13853"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13853",
+        "playXID": "f8abea41f08a479ca29e81fe5f2ce6db",
+        "streamId": "13853",
+        "dubPlayerSrc": "/dub-player/t/13853/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f8abea41f08a479ca29e81fe5f2ce6db&abyssId=13853"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/f8abea41f08a479ca29e81fe5f2ce6db",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/f8abea41f08a479ca29e81fe5f2ce6db"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13853",
+        "abyssId": "13853",
+        "playXID": "f8abea41f08a479ca29e81fe5f2ce6db",
+        "title": "Junji Ito Collection",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "9o38bNDD3"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "Uy_IDS77Z"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "wketiqrLE"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/31839fba4e99d0b968946e584de5462e/master.m3u8?md5=HguQVcg-dTGn5ZuywTB2sg&expires=1792166705",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/31839fba4e99d0b968946e584de5462e/master.m3u8?md5=HguQVcg-dTGn5ZuywTB2sg&expires=1792166705",
+            "videoSource": "https://ravok.buzz/cdn/hls/31839fba4e99d0b968946e584de5462e/master.m3u8?md5=HguQVcg-dTGn5ZuywTB2sg&expires=1792166705",
+            "videoImage": "https://as-cdn29.top/p/mvtegFLkxGbr1iOg1B-0FpmgadEBmIQPHsyP_kAMOkSBDYKQiPKZ04VPBl1n-_ZNpVON49706DioPIJ-kmBOYw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "f8abea41f08a479ca29e81fe5f2ce6db",
+                "streamUrl": "https://ravok.buzz/cdn/hls/31839fba4e99d0b968946e584de5462e/master.m3u8?md5=HguQVcg-dTGn5ZuywTB2sg&expires=1792166705",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/31839fba4e99d0b968946e584de5462e/master.m3u8?md5=HguQVcg-dTGn5ZuywTB2sg&expires=1792166705",
+                "videoSource": "https://ravok.buzz/cdn/hls/31839fba4e99d0b968946e584de5462e/master.m3u8?md5=HguQVcg-dTGn5ZuywTB2sg&expires=1792166705",
+                "link": "https://ravok.buzz/cdn/hls/31839fba4e99d0b968946e584de5462e/master.m3u8?md5=HguQVcg-dTGn5ZuywTB2sg&expires=1792166705",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/mvtegFLkxGbr1iOg1B-0FpmgadEBmIQPHsyP_kAMOkSBDYKQiPKZ04VPBl1n-_ZNpVON49706DioPIJ-kmBOYw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "9o38bNDD3"
+        }
+      },
+      "fetched_at": "2026-10-16T14:05:15Z"
+    },
+    {
+      "id": "episode/junji-ito-collection-1x4",
+      "episode_id": "episode/junji-ito-collection-1x4",
+      "title": "Junji Ito Collection 1x1",
+      "episode_name": "Junji Ito Collection 1x1",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1452/1/4.webp",
+      "abyssid": "13852",
+      "abyssId": "13852",
+      "playxid": "af9c0e0c1dee63e5acad8b7ed1a5be96",
+      "playXID": "af9c0e0c1dee63e5acad8b7ed1a5be96",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13852",
+        "playXID": "af9c0e0c1dee63e5acad8b7ed1a5be96",
+        "streamId": "13852",
+        "dubPlayerSrc": "/dub-player/t/13852/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=af9c0e0c1dee63e5acad8b7ed1a5be96&abyssId=13852"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13852",
+        "playXID": "af9c0e0c1dee63e5acad8b7ed1a5be96",
+        "streamId": "13852",
+        "dubPlayerSrc": "/dub-player/t/13852/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=af9c0e0c1dee63e5acad8b7ed1a5be96&abyssId=13852"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/af9c0e0c1dee63e5acad8b7ed1a5be96",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/af9c0e0c1dee63e5acad8b7ed1a5be96"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13852",
+        "abyssId": "13852",
+        "playXID": "af9c0e0c1dee63e5acad8b7ed1a5be96",
+        "title": "Junji Ito Collection",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "f-bnr-L1N"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "yWWU3V31T"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "sJ0NOVKOU"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/7248d6df23699925760ad031fdc9f025/master.m3u8?md5=c6S4_XkzjrjSPxs6jfRoeg&expires=1792166705",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/7248d6df23699925760ad031fdc9f025/master.m3u8?md5=c6S4_XkzjrjSPxs6jfRoeg&expires=1792166705",
+            "videoSource": "https://ravok.buzz/cdn/hls/7248d6df23699925760ad031fdc9f025/master.m3u8?md5=c6S4_XkzjrjSPxs6jfRoeg&expires=1792166705",
+            "videoImage": "https://as-cdn29.top/p/4gNPLyMaay6Dj_tCDut7z5maeHdEwon9ohckYGsVMBPIs_NPtIhMKApxQbo5s59ZF-fEH0yjnS35LzfKyFBArA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "af9c0e0c1dee63e5acad8b7ed1a5be96",
+                "streamUrl": "https://ravok.buzz/cdn/hls/7248d6df23699925760ad031fdc9f025/master.m3u8?md5=c6S4_XkzjrjSPxs6jfRoeg&expires=1792166705",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/7248d6df23699925760ad031fdc9f025/master.m3u8?md5=c6S4_XkzjrjSPxs6jfRoeg&expires=1792166705",
+                "videoSource": "https://ravok.buzz/cdn/hls/7248d6df23699925760ad031fdc9f025/master.m3u8?md5=c6S4_XkzjrjSPxs6jfRoeg&expires=1792166705",
+                "link": "https://ravok.buzz/cdn/hls/7248d6df23699925760ad031fdc9f025/master.m3u8?md5=c6S4_XkzjrjSPxs6jfRoeg&expires=1792166705",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/4gNPLyMaay6Dj_tCDut7z5maeHdEwon9ohckYGsVMBPIs_NPtIhMKApxQbo5s59ZF-fEH0yjnS35LzfKyFBArA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "f-bnr-L1N"
+        }
+      },
+      "fetched_at": "2026-10-16T14:05:15Z"
+    },
+    {
+      "id": "episode/junji-ito-collection-1x6",
+      "episode_id": "episode/junji-ito-collection-1x6",
+      "title": "Junji Ito Collection 1x1",
+      "episode_name": "Junji Ito Collection 1x1",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1452/1/6.webp",
+      "abyssid": "13854",
+      "abyssId": "13854",
+      "playxid": "f84c0fd2c9fc0115aa7144af5cb76cfb",
+      "playXID": "f84c0fd2c9fc0115aa7144af5cb76cfb",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13854",
+        "playXID": "f84c0fd2c9fc0115aa7144af5cb76cfb",
+        "streamId": "13854",
+        "dubPlayerSrc": "/dub-player/t/13854/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f84c0fd2c9fc0115aa7144af5cb76cfb&abyssId=13854"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13854",
+        "playXID": "f84c0fd2c9fc0115aa7144af5cb76cfb",
+        "streamId": "13854",
+        "dubPlayerSrc": "/dub-player/t/13854/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f84c0fd2c9fc0115aa7144af5cb76cfb&abyssId=13854"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/f84c0fd2c9fc0115aa7144af5cb76cfb",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/f84c0fd2c9fc0115aa7144af5cb76cfb"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13854",
+        "abyssId": "13854",
+        "playXID": "f84c0fd2c9fc0115aa7144af5cb76cfb",
+        "title": "Junji Ito Collection",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "Rf4_oWXyN"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "zRbnkLkebT"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "6DvHhEOOC"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/7b454b54c12ba27097ddc8a7884122fa/master.m3u8?md5=flOOpCjj-PrpRaSa-HX2jw&expires=1792166706",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/7b454b54c12ba27097ddc8a7884122fa/master.m3u8?md5=flOOpCjj-PrpRaSa-HX2jw&expires=1792166706",
+            "videoSource": "https://ravok.buzz/cdn/hls/7b454b54c12ba27097ddc8a7884122fa/master.m3u8?md5=flOOpCjj-PrpRaSa-HX2jw&expires=1792166706",
+            "videoImage": "https://as-cdn30.top/p/4iTubS_DI9gWN6p0OiPqX66Wv90zYrhVOf8exVnqkDwN1X_KIlaggqKdGoDtCEbObSYx1rcjDuN4J7bV8aDsPw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "f84c0fd2c9fc0115aa7144af5cb76cfb",
+                "streamUrl": "https://ravok.buzz/cdn/hls/7b454b54c12ba27097ddc8a7884122fa/master.m3u8?md5=flOOpCjj-PrpRaSa-HX2jw&expires=1792166706",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/7b454b54c12ba27097ddc8a7884122fa/master.m3u8?md5=flOOpCjj-PrpRaSa-HX2jw&expires=1792166706",
+                "videoSource": "https://ravok.buzz/cdn/hls/7b454b54c12ba27097ddc8a7884122fa/master.m3u8?md5=flOOpCjj-PrpRaSa-HX2jw&expires=1792166706",
+                "link": "https://ravok.buzz/cdn/hls/7b454b54c12ba27097ddc8a7884122fa/master.m3u8?md5=flOOpCjj-PrpRaSa-HX2jw&expires=1792166706",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/4iTubS_DI9gWN6p0OiPqX66Wv90zYrhVOf8exVnqkDwN1X_KIlaggqKdGoDtCEbObSYx1rcjDuN4J7bV8aDsPw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "Rf4_oWXyN"
+        }
+      },
+      "fetched_at": "2026-10-16T14:05:16Z"
+    },
+    {
+      "id": "episode/junji-ito-collection-1x7",
+      "episode_id": "episode/junji-ito-collection-1x7",
+      "title": "Junji Ito Collection 1x1",
+      "episode_name": "Junji Ito Collection 1x1",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1452/1/7.webp",
+      "abyssid": "13855",
+      "abyssId": "13855",
+      "playxid": "688ffcd6367bd153033e41bcc801f33d",
+      "playXID": "688ffcd6367bd153033e41bcc801f33d",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13855",
+        "playXID": "688ffcd6367bd153033e41bcc801f33d",
+        "streamId": "13855",
+        "dubPlayerSrc": "/dub-player/t/13855/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=688ffcd6367bd153033e41bcc801f33d&abyssId=13855"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13855",
+        "playXID": "688ffcd6367bd153033e41bcc801f33d",
+        "streamId": "13855",
+        "dubPlayerSrc": "/dub-player/t/13855/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=688ffcd6367bd153033e41bcc801f33d&abyssId=13855"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/688ffcd6367bd153033e41bcc801f33d",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/688ffcd6367bd153033e41bcc801f33d"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13855",
+        "abyssId": "13855",
+        "playXID": "688ffcd6367bd153033e41bcc801f33d",
+        "title": "Junji Ito Collection",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "FfW2c652j"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "zFBN-64v6"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "SS4NSrIAL"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/44ddf2a697ecfc51dfcb9fa3f5933906/master.m3u8?md5=wjV6qegC4NGWsy_fgg-tdw&expires=1792166706",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/44ddf2a697ecfc51dfcb9fa3f5933906/master.m3u8?md5=wjV6qegC4NGWsy_fgg-tdw&expires=1792166706",
+            "videoSource": "https://ravok.buzz/cdn/hls/44ddf2a697ecfc51dfcb9fa3f5933906/master.m3u8?md5=wjV6qegC4NGWsy_fgg-tdw&expires=1792166706",
+            "videoImage": "https://as-cdn30.top/p/jlZ9hzU1-xkRFoJn1zmlw45OsI74icXwNHazBJs1iVROfvXxDG88pbvTiZy6n4py7Lngbj-0b53dfQ3k_XntRw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "688ffcd6367bd153033e41bcc801f33d",
+                "streamUrl": "https://ravok.buzz/cdn/hls/44ddf2a697ecfc51dfcb9fa3f5933906/master.m3u8?md5=wjV6qegC4NGWsy_fgg-tdw&expires=1792166706",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/44ddf2a697ecfc51dfcb9fa3f5933906/master.m3u8?md5=wjV6qegC4NGWsy_fgg-tdw&expires=1792166706",
+                "videoSource": "https://ravok.buzz/cdn/hls/44ddf2a697ecfc51dfcb9fa3f5933906/master.m3u8?md5=wjV6qegC4NGWsy_fgg-tdw&expires=1792166706",
+                "link": "https://ravok.buzz/cdn/hls/44ddf2a697ecfc51dfcb9fa3f5933906/master.m3u8?md5=wjV6qegC4NGWsy_fgg-tdw&expires=1792166706",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/jlZ9hzU1-xkRFoJn1zmlw45OsI74icXwNHazBJs1iVROfvXxDG88pbvTiZy6n4py7Lngbj-0b53dfQ3k_XntRw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "FfW2c652j"
+        }
+      },
+      "fetched_at": "2026-10-16T14:05:16Z"
+    },
+    {
+      "id": "episode/junji-ito-collection-1x8",
+      "episode_id": "episode/junji-ito-collection-1x8",
+      "title": "Junji Ito Collection 1x1",
+      "episode_name": "Junji Ito Collection 1x1",
+      "episode_number": 8,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1452/1/8.webp",
+      "abyssid": "13856",
+      "abyssId": "13856",
+      "playxid": "0a3df70393993583a13c0dd6686f3f32",
+      "playXID": "0a3df70393993583a13c0dd6686f3f32",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13856",
+        "playXID": "0a3df70393993583a13c0dd6686f3f32",
+        "streamId": "13856",
+        "dubPlayerSrc": "/dub-player/t/13856/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=0a3df70393993583a13c0dd6686f3f32&abyssId=13856"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13856",
+        "playXID": "0a3df70393993583a13c0dd6686f3f32",
+        "streamId": "13856",
+        "dubPlayerSrc": "/dub-player/t/13856/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=0a3df70393993583a13c0dd6686f3f32&abyssId=13856"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/0a3df70393993583a13c0dd6686f3f32",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/0a3df70393993583a13c0dd6686f3f32"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13856",
+        "abyssId": "13856",
+        "playXID": "0a3df70393993583a13c0dd6686f3f32",
+        "title": "Junji Ito Collection",
+        "season": 1,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "Gr7_o9Vpt"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "R0oKLtnr7"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "xQYY7rnoN"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/8e92e098a5eff981abdeb71344d7896c/master.m3u8?md5=dsbbQn0ZFs2Yea3h8iN-nA&expires=1792166707",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/8e92e098a5eff981abdeb71344d7896c/master.m3u8?md5=dsbbQn0ZFs2Yea3h8iN-nA&expires=1792166707",
+            "videoSource": "https://ravok.buzz/cdn/hls/8e92e098a5eff981abdeb71344d7896c/master.m3u8?md5=dsbbQn0ZFs2Yea3h8iN-nA&expires=1792166707",
+            "videoImage": "https://as-cdn27.top/p/NjVgyJrH2HikFktKzzAafugRit6z_Fv7ffIJLEDNP9m1v2AKyjgoI5oMyFfugh5s61y_UA4CR_ilsbzn-d0gyg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "0a3df70393993583a13c0dd6686f3f32",
+                "streamUrl": "https://ravok.buzz/cdn/hls/8e92e098a5eff981abdeb71344d7896c/master.m3u8?md5=dsbbQn0ZFs2Yea3h8iN-nA&expires=1792166707",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/8e92e098a5eff981abdeb71344d7896c/master.m3u8?md5=dsbbQn0ZFs2Yea3h8iN-nA&expires=1792166707",
+                "videoSource": "https://ravok.buzz/cdn/hls/8e92e098a5eff981abdeb71344d7896c/master.m3u8?md5=dsbbQn0ZFs2Yea3h8iN-nA&expires=1792166707",
+                "link": "https://ravok.buzz/cdn/hls/8e92e098a5eff981abdeb71344d7896c/master.m3u8?md5=dsbbQn0ZFs2Yea3h8iN-nA&expires=1792166707",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/NjVgyJrH2HikFktKzzAafugRit6z_Fv7ffIJLEDNP9m1v2AKyjgoI5oMyFfugh5s61y_UA4CR_ilsbzn-d0gyg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "Gr7_o9Vpt"
+        }
+      },
+      "fetched_at": "2026-10-16T14:05:16Z"
+    },
+    {
+      "id": "episode/junji-ito-collection-1x9",
+      "episode_id": "episode/junji-ito-collection-1x9",
+      "title": "Junji Ito Collection 1x1",
+      "episode_name": "Junji Ito Collection 1x1",
+      "episode_number": 9,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1452/1/9.webp",
+      "abyssid": "13857",
+      "abyssId": "13857",
+      "playxid": "9523147e5a6707baf674941812ee5c94",
+      "playXID": "9523147e5a6707baf674941812ee5c94",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13857",
+        "playXID": "9523147e5a6707baf674941812ee5c94",
+        "streamId": "13857",
+        "dubPlayerSrc": "/dub-player/t/13857/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9523147e5a6707baf674941812ee5c94&abyssId=13857"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13857",
+        "playXID": "9523147e5a6707baf674941812ee5c94",
+        "streamId": "13857",
+        "dubPlayerSrc": "/dub-player/t/13857/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9523147e5a6707baf674941812ee5c94&abyssId=13857"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/9523147e5a6707baf674941812ee5c94",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/9523147e5a6707baf674941812ee5c94"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13857",
+        "abyssId": "13857",
+        "playXID": "9523147e5a6707baf674941812ee5c94",
+        "title": "Junji Ito Collection",
+        "season": 1,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "q74dGoVV7"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "XRROroHkg"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "ZTii9AsZG"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/8489cf2fc3a873e549ccc0346e941ae1/master.m3u8?md5=Tg6OyJ84jhM8OEFzZqrgAg&expires=1792166707",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/8489cf2fc3a873e549ccc0346e941ae1/master.m3u8?md5=Tg6OyJ84jhM8OEFzZqrgAg&expires=1792166707",
+            "videoSource": "https://ravok.buzz/cdn/hls/8489cf2fc3a873e549ccc0346e941ae1/master.m3u8?md5=Tg6OyJ84jhM8OEFzZqrgAg&expires=1792166707",
+            "videoImage": "https://as-cdn29.top/p/zXwAXfmQMDy1wg9Q_IZbD5s___YtnlhMhdBcCmtbwcPNlN4zbsZvwn33Dn8gf4FMvvUB41_THNzjR4UY-WrWLQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "9523147e5a6707baf674941812ee5c94",
+                "streamUrl": "https://ravok.buzz/cdn/hls/8489cf2fc3a873e549ccc0346e941ae1/master.m3u8?md5=Tg6OyJ84jhM8OEFzZqrgAg&expires=1792166707",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/8489cf2fc3a873e549ccc0346e941ae1/master.m3u8?md5=Tg6OyJ84jhM8OEFzZqrgAg&expires=1792166707",
+                "videoSource": "https://ravok.buzz/cdn/hls/8489cf2fc3a873e549ccc0346e941ae1/master.m3u8?md5=Tg6OyJ84jhM8OEFzZqrgAg&expires=1792166707",
+                "link": "https://ravok.buzz/cdn/hls/8489cf2fc3a873e549ccc0346e941ae1/master.m3u8?md5=Tg6OyJ84jhM8OEFzZqrgAg&expires=1792166707",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/zXwAXfmQMDy1wg9Q_IZbD5s___YtnlhMhdBcCmtbwcPNlN4zbsZvwn33Dn8gf4FMvvUB41_THNzjR4UY-WrWLQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "q74dGoVV7"
+        }
+      },
+      "fetched_at": "2026-10-16T14:05:17Z"
+    },
+    {
+      "id": "episode/junji-ito-collection-1x11",
+      "episode_id": "episode/junji-ito-collection-1x11",
+      "title": "Junji Ito Collection 1x1",
+      "episode_name": "Junji Ito Collection 1x1",
+      "episode_number": 11,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1452/1/11.webp",
+      "abyssid": "13859",
+      "abyssId": "13859",
+      "playxid": "d31a52679469593424c94da10611eff2",
+      "playXID": "d31a52679469593424c94da10611eff2",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13859",
+        "playXID": "d31a52679469593424c94da10611eff2",
+        "streamId": "13859",
+        "dubPlayerSrc": "/dub-player/t/13859/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d31a52679469593424c94da10611eff2&abyssId=13859"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13859",
+        "playXID": "d31a52679469593424c94da10611eff2",
+        "streamId": "13859",
+        "dubPlayerSrc": "/dub-player/t/13859/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d31a52679469593424c94da10611eff2&abyssId=13859"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/d31a52679469593424c94da10611eff2",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/d31a52679469593424c94da10611eff2"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13859",
+        "abyssId": "13859",
+        "playXID": "d31a52679469593424c94da10611eff2",
+        "title": "Junji Ito Collection",
+        "season": 1,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "fXsT0H8MK"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "oWIRmZZFo"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "PbOxyTDRS"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/e6c784d8dd0ad3cc596c3e00b2bc1887/master.m3u8?md5=Ppl4YfszwaG7yAsXjGN2Hg&expires=1792166708",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/e6c784d8dd0ad3cc596c3e00b2bc1887/master.m3u8?md5=Ppl4YfszwaG7yAsXjGN2Hg&expires=1792166708",
+            "videoSource": "https://ravok.buzz/cdn/hls/e6c784d8dd0ad3cc596c3e00b2bc1887/master.m3u8?md5=Ppl4YfszwaG7yAsXjGN2Hg&expires=1792166708",
+            "videoImage": "https://as-cdn29.top/p/r5yxjrcz0lWX3y42osVT_24gakye3XYgVNgflL0ZIOoIc6ifjt3fDbZrxsx5Z6w1EY_j3yvtOISHTKim35bNQQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "d31a52679469593424c94da10611eff2",
+                "streamUrl": "https://ravok.buzz/cdn/hls/e6c784d8dd0ad3cc596c3e00b2bc1887/master.m3u8?md5=Ppl4YfszwaG7yAsXjGN2Hg&expires=1792166708",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/e6c784d8dd0ad3cc596c3e00b2bc1887/master.m3u8?md5=Ppl4YfszwaG7yAsXjGN2Hg&expires=1792166708",
+                "videoSource": "https://ravok.buzz/cdn/hls/e6c784d8dd0ad3cc596c3e00b2bc1887/master.m3u8?md5=Ppl4YfszwaG7yAsXjGN2Hg&expires=1792166708",
+                "link": "https://ravok.buzz/cdn/hls/e6c784d8dd0ad3cc596c3e00b2bc1887/master.m3u8?md5=Ppl4YfszwaG7yAsXjGN2Hg&expires=1792166708",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/r5yxjrcz0lWX3y42osVT_24gakye3XYgVNgflL0ZIOoIc6ifjt3fDbZrxsx5Z6w1EY_j3yvtOISHTKim35bNQQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "fXsT0H8MK"
+        }
+      },
+      "fetched_at": "2026-10-16T14:05:18Z"
+    },
+    {
+      "id": "episode/junji-ito-collection-1x12",
+      "episode_id": "episode/junji-ito-collection-1x12",
+      "title": "Junji Ito Collection 1x1",
+      "episode_name": "Junji Ito Collection 1x1",
+      "episode_number": 12,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1452/1/12.webp",
+      "abyssid": "13860",
+      "abyssId": "13860",
+      "playxid": "b73bade959e6beceb6678acbbbb5be57",
+      "playXID": "b73bade959e6beceb6678acbbbb5be57",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13860",
+        "playXID": "b73bade959e6beceb6678acbbbb5be57",
+        "streamId": "13860",
+        "dubPlayerSrc": "/dub-player/t/13860/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b73bade959e6beceb6678acbbbb5be57&abyssId=13860"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13860",
+        "playXID": "b73bade959e6beceb6678acbbbb5be57",
+        "streamId": "13860",
+        "dubPlayerSrc": "/dub-player/t/13860/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b73bade959e6beceb6678acbbbb5be57&abyssId=13860"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/b73bade959e6beceb6678acbbbb5be57",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/b73bade959e6beceb6678acbbbb5be57"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13860",
+        "abyssId": "13860",
+        "playXID": "b73bade959e6beceb6678acbbbb5be57",
+        "title": "Junji Ito Collection",
+        "season": 1,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "c5X3PlkVm"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "t6NnYYyUW"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "9rxeR-QU2"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/42781e89d5055e5120829835b3b02351/master.m3u8?md5=5uwgi8Mu-n_jpiKl3K0knQ&expires=1792166708",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/42781e89d5055e5120829835b3b02351/master.m3u8?md5=5uwgi8Mu-n_jpiKl3K0knQ&expires=1792166708",
+            "videoSource": "https://ravok.buzz/cdn/hls/42781e89d5055e5120829835b3b02351/master.m3u8?md5=5uwgi8Mu-n_jpiKl3K0knQ&expires=1792166708",
+            "videoImage": "https://as-cdn27.top/p/uPYy2HhYiKPqxF1AVSr8G-9W4pnwuDg0IWYBTui55jGaIVpgDp3KfVTWhpt0kn6VR19PuKZtmwLwlUc2jRqeXQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "b73bade959e6beceb6678acbbbb5be57",
+                "streamUrl": "https://ravok.buzz/cdn/hls/42781e89d5055e5120829835b3b02351/master.m3u8?md5=5uwgi8Mu-n_jpiKl3K0knQ&expires=1792166708",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/42781e89d5055e5120829835b3b02351/master.m3u8?md5=5uwgi8Mu-n_jpiKl3K0knQ&expires=1792166708",
+                "videoSource": "https://ravok.buzz/cdn/hls/42781e89d5055e5120829835b3b02351/master.m3u8?md5=5uwgi8Mu-n_jpiKl3K0knQ&expires=1792166708",
+                "link": "https://ravok.buzz/cdn/hls/42781e89d5055e5120829835b3b02351/master.m3u8?md5=5uwgi8Mu-n_jpiKl3K0knQ&expires=1792166708",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/uPYy2HhYiKPqxF1AVSr8G-9W4pnwuDg0IWYBTui55jGaIVpgDp3KfVTWhpt0kn6VR19PuKZtmwLwlUc2jRqeXQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "c5X3PlkVm"
+        }
+      },
+      "fetched_at": "2026-10-16T14:05:18Z"
+    },
+    {
+      "id": "episode/junji-ito-collection-1x10",
+      "episode_id": "episode/junji-ito-collection-1x10",
+      "title": "Junji Ito Collection 1x1",
+      "episode_name": "Junji Ito Collection 1x1",
+      "episode_number": 10,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1452/1/10.webp",
+      "abyssid": "13858",
+      "abyssId": "13858",
+      "playxid": "4fdbe57fbc8d940f3492416c169b0073",
+      "playXID": "4fdbe57fbc8d940f3492416c169b0073",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13858",
+        "playXID": "4fdbe57fbc8d940f3492416c169b0073",
+        "streamId": "13858",
+        "dubPlayerSrc": "/dub-player/t/13858/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=4fdbe57fbc8d940f3492416c169b0073&abyssId=13858"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13858",
+        "playXID": "4fdbe57fbc8d940f3492416c169b0073",
+        "streamId": "13858",
+        "dubPlayerSrc": "/dub-player/t/13858/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=4fdbe57fbc8d940f3492416c169b0073&abyssId=13858"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/4fdbe57fbc8d940f3492416c169b0073",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/4fdbe57fbc8d940f3492416c169b0073"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13858",
+        "abyssId": "13858",
+        "playXID": "4fdbe57fbc8d940f3492416c169b0073",
+        "title": "Junji Ito Collection",
+        "season": 1,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "GAaNfy8WP"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "R4DW_fpWv"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "WERgVj6JE"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/b863a286a84097bcdc1b3be81b26c060/master.m3u8?md5=wM2FPY5GcnXxgORIjZdNaQ&expires=1792166711",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/b863a286a84097bcdc1b3be81b26c060/master.m3u8?md5=wM2FPY5GcnXxgORIjZdNaQ&expires=1792166711",
+            "videoSource": "https://ravok.buzz/cdn/hls/b863a286a84097bcdc1b3be81b26c060/master.m3u8?md5=wM2FPY5GcnXxgORIjZdNaQ&expires=1792166711",
+            "videoImage": "https://as-cdn30.top/p/1H5sjfffoyc0nDXo8QpZfndETVoMVV3VlSK-W0DFoEQe40RXD8IzYhh8cdEt7Zba-2-zQ_9tn-xNZu2YNgIhmQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "4fdbe57fbc8d940f3492416c169b0073",
+                "streamUrl": "https://ravok.buzz/cdn/hls/b863a286a84097bcdc1b3be81b26c060/master.m3u8?md5=wM2FPY5GcnXxgORIjZdNaQ&expires=1792166711",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/b863a286a84097bcdc1b3be81b26c060/master.m3u8?md5=wM2FPY5GcnXxgORIjZdNaQ&expires=1792166711",
+                "videoSource": "https://ravok.buzz/cdn/hls/b863a286a84097bcdc1b3be81b26c060/master.m3u8?md5=wM2FPY5GcnXxgORIjZdNaQ&expires=1792166711",
+                "link": "https://ravok.buzz/cdn/hls/b863a286a84097bcdc1b3be81b26c060/master.m3u8?md5=wM2FPY5GcnXxgORIjZdNaQ&expires=1792166711",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/1H5sjfffoyc0nDXo8QpZfndETVoMVV3VlSK-W0DFoEQe40RXD8IzYhh8cdEt7Zba-2-zQ_9tn-xNZu2YNgIhmQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "GAaNfy8WP"
+        }
+      },
+      "fetched_at": "2026-10-16T14:05:21Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T14:05:12Z",
+  "updated_at": "2026-10-16T14:05:21Z"
+}

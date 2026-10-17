@@ -1,0 +1,1280 @@
+{
+  "id": "series/vipers-creed",
+  "series_name": "Viper's Creed",
+  "title": "Viper's Creed",
+  "banner": "https://image.tmdb.org/t/p/w1280/orpBZXtiZr88eYiSFeJGagXqQjl.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/3UiSM3pcJnjKZxJYE70BXueAtCv.jpg",
+  "genra": [
+    "Action",
+    "Mecha",
+    "Military",
+    "Sci-Fi"
+  ],
+  "genres": [
+    "Action",
+    "Mecha",
+    "Military",
+    "Sci-Fi"
+  ],
+  "languages": [
+    "Hindi",
+    "Japanese"
+  ],
+  "synopsis": "Viper's Creed is a Mecha action anime series created by Sony Pictures Entertainment Japan with animation by AIC Spirits and Digital Frontier. Though Hiroyuki Kanbe is the main director of the show, Shinji Aramaki is solely responsible for the creation and conception of the show.",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Private: Viper's Creed 1x1",
+          "id": "episode/private-vipers-creed-1x1",
+          "image": "https://img.watchanimeworld.one/img/thumb_1883_s1e1.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "Private: Viper's Creed 1x2",
+          "id": "episode/private-vipers-creed-1x2",
+          "image": "https://img.watchanimeworld.one/img/thumb_1883_s1e2.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "Private: Viper's Creed 1x3",
+          "id": "episode/private-vipers-creed-1x3",
+          "image": "https://img.watchanimeworld.one/img/thumb_1883_s1e3.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "Private: Viper's Creed 1x4",
+          "id": "episode/private-vipers-creed-1x4",
+          "image": "https://img.watchanimeworld.one/img/thumb_1883_s1e4.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "Private: Viper's Creed 1x5",
+          "id": "episode/private-vipers-creed-1x5",
+          "image": "https://img.watchanimeworld.one/img/thumb_1883_s1e5.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "Private: Viper's Creed 1x6",
+          "id": "episode/private-vipers-creed-1x6",
+          "image": "https://img.watchanimeworld.one/img/thumb_1883_s1e6.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "Private: Viper's Creed 1x7",
+          "id": "episode/private-vipers-creed-1x7",
+          "image": "https://img.watchanimeworld.one/img/thumb_1883_s1e7.webp",
+          "season": 1
+        },
+        {
+          "episode": 8,
+          "title": "Private: Viper's Creed 1x8",
+          "id": "episode/private-vipers-creed-1x8",
+          "image": "https://img.watchanimeworld.one/img/thumb_1883_s1e8.webp",
+          "season": 1
+        },
+        {
+          "episode": 9,
+          "title": "Private: Viper's Creed 1x9",
+          "id": "episode/private-vipers-creed-1x9",
+          "image": "https://img.watchanimeworld.one/img/thumb_1883_s1e9.webp",
+          "season": 1
+        },
+        {
+          "episode": 10,
+          "title": "Private: Viper's Creed 1x10",
+          "id": "episode/private-vipers-creed-1x10",
+          "image": "https://img.watchanimeworld.one/img/thumb_1883_s1e10.webp",
+          "season": 1
+        },
+        {
+          "episode": 11,
+          "title": "Private: Viper's Creed 1x11",
+          "id": "episode/private-vipers-creed-1x11",
+          "image": "https://img.watchanimeworld.one/img/thumb_1883_s1e11.webp",
+          "season": 1
+        },
+        {
+          "episode": 12,
+          "title": "Private: Viper's Creed 1x12",
+          "id": "episode/private-vipers-creed-1x12",
+          "image": "https://img.watchanimeworld.one/img/thumb_1883_s1e12.webp",
+          "season": 1
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/private-vipers-creed-1x5",
+      "episode_id": "episode/private-vipers-creed-1x5",
+      "title": "Private: Viper's Creed 1x1",
+      "episode_name": "Private: Viper's Creed 1x1",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1883_s1e5.webp",
+      "abyssid": "16370",
+      "abyssId": "16370",
+      "playxid": "1cd45c346398d2ee6a71296e1fa88796",
+      "playXID": "1cd45c346398d2ee6a71296e1fa88796",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16370",
+        "playXID": "1cd45c346398d2ee6a71296e1fa88796",
+        "streamId": "16370",
+        "dubPlayerSrc": "/dub-player/t/16370/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=1cd45c346398d2ee6a71296e1fa88796&abyssId=16370"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16370",
+        "playXID": "1cd45c346398d2ee6a71296e1fa88796",
+        "streamId": "16370",
+        "dubPlayerSrc": "/dub-player/t/16370/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=1cd45c346398d2ee6a71296e1fa88796&abyssId=16370"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/1cd45c346398d2ee6a71296e1fa88796",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/1cd45c346398d2ee6a71296e1fa88796"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16370",
+        "abyssId": "16370",
+        "playXID": "1cd45c346398d2ee6a71296e1fa88796",
+        "title": "Viper's Creed",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "_c_yYsE4V"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "5My77I0s1"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/9fc4565e71b52d1973c92bd85ae2a90c/master.m3u8?md5=ITI1tYSJ9PZ9VPiU5lbuJg&expires=1792166472",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/9fc4565e71b52d1973c92bd85ae2a90c/master.m3u8?md5=ITI1tYSJ9PZ9VPiU5lbuJg&expires=1792166472",
+            "videoSource": "https://ravok.buzz/cdn/hls/9fc4565e71b52d1973c92bd85ae2a90c/master.m3u8?md5=ITI1tYSJ9PZ9VPiU5lbuJg&expires=1792166472",
+            "videoImage": "https://as-cdn31.top/p/kyRNPPvNgCkBuVcQdTxzU0iZnK9iUV0z99Uv4SRiFGK48wg9HpswjZIuH9FqnbMS3JNFk5ufdkzct3O3vjO_Qw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "1cd45c346398d2ee6a71296e1fa88796",
+                "streamUrl": "https://ravok.buzz/cdn/hls/9fc4565e71b52d1973c92bd85ae2a90c/master.m3u8?md5=ITI1tYSJ9PZ9VPiU5lbuJg&expires=1792166472",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/9fc4565e71b52d1973c92bd85ae2a90c/master.m3u8?md5=ITI1tYSJ9PZ9VPiU5lbuJg&expires=1792166472",
+                "videoSource": "https://ravok.buzz/cdn/hls/9fc4565e71b52d1973c92bd85ae2a90c/master.m3u8?md5=ITI1tYSJ9PZ9VPiU5lbuJg&expires=1792166472",
+                "link": "https://ravok.buzz/cdn/hls/9fc4565e71b52d1973c92bd85ae2a90c/master.m3u8?md5=ITI1tYSJ9PZ9VPiU5lbuJg&expires=1792166472",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/kyRNPPvNgCkBuVcQdTxzU0iZnK9iUV0z99Uv4SRiFGK48wg9HpswjZIuH9FqnbMS3JNFk5ufdkzct3O3vjO_Qw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "_c_yYsE4V"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:22Z"
+    },
+    {
+      "id": "episode/private-vipers-creed-1x3",
+      "episode_id": "episode/private-vipers-creed-1x3",
+      "title": "Private: Viper's Creed 1x1",
+      "episode_name": "Private: Viper's Creed 1x1",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1883_s1e3.webp",
+      "abyssid": "16368",
+      "abyssId": "16368",
+      "playxid": "75f023b01584c7f37883f41c2a2b91ca",
+      "playXID": "75f023b01584c7f37883f41c2a2b91ca",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16368",
+        "playXID": "75f023b01584c7f37883f41c2a2b91ca",
+        "streamId": "16368",
+        "dubPlayerSrc": "/dub-player/t/16368/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=75f023b01584c7f37883f41c2a2b91ca&abyssId=16368"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16368",
+        "playXID": "75f023b01584c7f37883f41c2a2b91ca",
+        "streamId": "16368",
+        "dubPlayerSrc": "/dub-player/t/16368/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=75f023b01584c7f37883f41c2a2b91ca&abyssId=16368"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/75f023b01584c7f37883f41c2a2b91ca",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/75f023b01584c7f37883f41c2a2b91ca"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16368",
+        "abyssId": "16368",
+        "playXID": "75f023b01584c7f37883f41c2a2b91ca",
+        "title": "Viper's Creed",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "kL8MlsdwO"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "UVwfcBdOq"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/031d76d0cfb8dd4bec82081994e18b1e/master.m3u8?md5=JWEbMR-Y5BfXypsMtUDCYw&expires=1792166472",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/031d76d0cfb8dd4bec82081994e18b1e/master.m3u8?md5=JWEbMR-Y5BfXypsMtUDCYw&expires=1792166472",
+            "videoSource": "https://ravok.buzz/cdn/hls/031d76d0cfb8dd4bec82081994e18b1e/master.m3u8?md5=JWEbMR-Y5BfXypsMtUDCYw&expires=1792166472",
+            "videoImage": "https://as-cdn28.top/p/kyRNPPvNgCkBuVcQdTxzU8T7B7na0wbNWKQvdR09BlZEpzRWW-FiFOz7qK9AO4v7dFFMYt3sN2dsunsQC9AYmg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "75f023b01584c7f37883f41c2a2b91ca",
+                "streamUrl": "https://ravok.buzz/cdn/hls/031d76d0cfb8dd4bec82081994e18b1e/master.m3u8?md5=JWEbMR-Y5BfXypsMtUDCYw&expires=1792166472",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/031d76d0cfb8dd4bec82081994e18b1e/master.m3u8?md5=JWEbMR-Y5BfXypsMtUDCYw&expires=1792166472",
+                "videoSource": "https://ravok.buzz/cdn/hls/031d76d0cfb8dd4bec82081994e18b1e/master.m3u8?md5=JWEbMR-Y5BfXypsMtUDCYw&expires=1792166472",
+                "link": "https://ravok.buzz/cdn/hls/031d76d0cfb8dd4bec82081994e18b1e/master.m3u8?md5=JWEbMR-Y5BfXypsMtUDCYw&expires=1792166472",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/kyRNPPvNgCkBuVcQdTxzU8T7B7na0wbNWKQvdR09BlZEpzRWW-FiFOz7qK9AO4v7dFFMYt3sN2dsunsQC9AYmg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "kL8MlsdwO"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:22Z"
+    },
+    {
+      "id": "episode/private-vipers-creed-1x1",
+      "episode_id": "episode/private-vipers-creed-1x1",
+      "title": "Private: Viper's Creed 1x1",
+      "episode_name": "Private: Viper's Creed 1x1",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1883_s1e1.webp",
+      "abyssid": "16366",
+      "abyssId": "16366",
+      "playxid": "41da34fa4e455c4f3ec73f60665f1738",
+      "playXID": "41da34fa4e455c4f3ec73f60665f1738",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16366",
+        "playXID": "41da34fa4e455c4f3ec73f60665f1738",
+        "streamId": "16366",
+        "dubPlayerSrc": "/dub-player/t/16366/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=41da34fa4e455c4f3ec73f60665f1738&abyssId=16366"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16366",
+        "playXID": "41da34fa4e455c4f3ec73f60665f1738",
+        "streamId": "16366",
+        "dubPlayerSrc": "/dub-player/t/16366/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=41da34fa4e455c4f3ec73f60665f1738&abyssId=16366"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/41da34fa4e455c4f3ec73f60665f1738",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/41da34fa4e455c4f3ec73f60665f1738"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16366",
+        "abyssId": "16366",
+        "playXID": "41da34fa4e455c4f3ec73f60665f1738",
+        "title": "Viper's Creed",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "Rsp_yhmy0"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "bREpgfD-N"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/3a9a8ae40e589ef124e6bb3cb815fa6f/master.m3u8?md5=iqeFekmZCiDuzfn1bY01bA&expires=1792166472",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/3a9a8ae40e589ef124e6bb3cb815fa6f/master.m3u8?md5=iqeFekmZCiDuzfn1bY01bA&expires=1792166472",
+            "videoSource": "https://ravok.buzz/cdn/hls/3a9a8ae40e589ef124e6bb3cb815fa6f/master.m3u8?md5=iqeFekmZCiDuzfn1bY01bA&expires=1792166472",
+            "videoImage": "https://as-cdn27.top/p/kyRNPPvNgCkBuVcQdTxzU7QEoNdCvHNzMvz0-x_Nm9J_DjFjuVQntBXdDFw_j6p7RG_RT7Ak8-wQ_WJMnWq9QQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "41da34fa4e455c4f3ec73f60665f1738",
+                "streamUrl": "https://ravok.buzz/cdn/hls/3a9a8ae40e589ef124e6bb3cb815fa6f/master.m3u8?md5=iqeFekmZCiDuzfn1bY01bA&expires=1792166472",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/3a9a8ae40e589ef124e6bb3cb815fa6f/master.m3u8?md5=iqeFekmZCiDuzfn1bY01bA&expires=1792166472",
+                "videoSource": "https://ravok.buzz/cdn/hls/3a9a8ae40e589ef124e6bb3cb815fa6f/master.m3u8?md5=iqeFekmZCiDuzfn1bY01bA&expires=1792166472",
+                "link": "https://ravok.buzz/cdn/hls/3a9a8ae40e589ef124e6bb3cb815fa6f/master.m3u8?md5=iqeFekmZCiDuzfn1bY01bA&expires=1792166472",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/kyRNPPvNgCkBuVcQdTxzU7QEoNdCvHNzMvz0-x_Nm9J_DjFjuVQntBXdDFw_j6p7RG_RT7Ak8-wQ_WJMnWq9QQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "Rsp_yhmy0"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:22Z"
+    },
+    {
+      "id": "episode/private-vipers-creed-1x2",
+      "episode_id": "episode/private-vipers-creed-1x2",
+      "title": "Private: Viper's Creed 1x1",
+      "episode_name": "Private: Viper's Creed 1x1",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1883_s1e2.webp",
+      "abyssid": "16367",
+      "abyssId": "16367",
+      "playxid": "a283c2fa682d70aae6928ffd73c13363",
+      "playXID": "a283c2fa682d70aae6928ffd73c13363",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16367",
+        "playXID": "a283c2fa682d70aae6928ffd73c13363",
+        "streamId": "16367",
+        "dubPlayerSrc": "/dub-player/t/16367/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a283c2fa682d70aae6928ffd73c13363&abyssId=16367"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16367",
+        "playXID": "a283c2fa682d70aae6928ffd73c13363",
+        "streamId": "16367",
+        "dubPlayerSrc": "/dub-player/t/16367/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a283c2fa682d70aae6928ffd73c13363&abyssId=16367"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/a283c2fa682d70aae6928ffd73c13363",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/a283c2fa682d70aae6928ffd73c13363"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16367",
+        "abyssId": "16367",
+        "playXID": "a283c2fa682d70aae6928ffd73c13363",
+        "title": "Viper's Creed",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "uVhC0PKMg"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "KR3BqFOwy"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/5235cbc8081ea623b201317ab23f0b59/master.m3u8?md5=xm1Dln1Cv8fTo4puV1jmVg&expires=1792166472",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/5235cbc8081ea623b201317ab23f0b59/master.m3u8?md5=xm1Dln1Cv8fTo4puV1jmVg&expires=1792166472",
+            "videoSource": "https://ravok.buzz/cdn/hls/5235cbc8081ea623b201317ab23f0b59/master.m3u8?md5=xm1Dln1Cv8fTo4puV1jmVg&expires=1792166472",
+            "videoImage": "https://as-cdn29.top/p/kyRNPPvNgCkBuVcQdTxzU0aXhHpNIjsanppncPvvdEsqph2UzlrW0q46Dplb1TkF8oNkeLOMaPZPL5fjhM1PRg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "a283c2fa682d70aae6928ffd73c13363",
+                "streamUrl": "https://ravok.buzz/cdn/hls/5235cbc8081ea623b201317ab23f0b59/master.m3u8?md5=xm1Dln1Cv8fTo4puV1jmVg&expires=1792166472",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/5235cbc8081ea623b201317ab23f0b59/master.m3u8?md5=xm1Dln1Cv8fTo4puV1jmVg&expires=1792166472",
+                "videoSource": "https://ravok.buzz/cdn/hls/5235cbc8081ea623b201317ab23f0b59/master.m3u8?md5=xm1Dln1Cv8fTo4puV1jmVg&expires=1792166472",
+                "link": "https://ravok.buzz/cdn/hls/5235cbc8081ea623b201317ab23f0b59/master.m3u8?md5=xm1Dln1Cv8fTo4puV1jmVg&expires=1792166472",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/kyRNPPvNgCkBuVcQdTxzU0aXhHpNIjsanppncPvvdEsqph2UzlrW0q46Dplb1TkF8oNkeLOMaPZPL5fjhM1PRg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "uVhC0PKMg"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:22Z"
+    },
+    {
+      "id": "episode/private-vipers-creed-1x4",
+      "episode_id": "episode/private-vipers-creed-1x4",
+      "title": "Private: Viper's Creed 1x1",
+      "episode_name": "Private: Viper's Creed 1x1",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1883_s1e4.webp",
+      "abyssid": "16369",
+      "abyssId": "16369",
+      "playxid": "92251e8665e19be62c86ff039528e16e",
+      "playXID": "92251e8665e19be62c86ff039528e16e",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16369",
+        "playXID": "92251e8665e19be62c86ff039528e16e",
+        "streamId": "16369",
+        "dubPlayerSrc": "/dub-player/t/16369/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=92251e8665e19be62c86ff039528e16e&abyssId=16369"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16369",
+        "playXID": "92251e8665e19be62c86ff039528e16e",
+        "streamId": "16369",
+        "dubPlayerSrc": "/dub-player/t/16369/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=92251e8665e19be62c86ff039528e16e&abyssId=16369"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/92251e8665e19be62c86ff039528e16e",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/92251e8665e19be62c86ff039528e16e"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16369",
+        "abyssId": "16369",
+        "playXID": "92251e8665e19be62c86ff039528e16e",
+        "title": "Viper's Creed",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "SLx_U0Vek"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "bk8JA6TwV"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/7cae7676a91506bd44dc2fca37d16e56/master.m3u8?md5=BXavRDTkkqb2iOXJmaB8CQ&expires=1792166472",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/7cae7676a91506bd44dc2fca37d16e56/master.m3u8?md5=BXavRDTkkqb2iOXJmaB8CQ&expires=1792166472",
+            "videoSource": "https://ravok.buzz/cdn/hls/7cae7676a91506bd44dc2fca37d16e56/master.m3u8?md5=BXavRDTkkqb2iOXJmaB8CQ&expires=1792166472",
+            "videoImage": "https://as-cdn31.top/p/kyRNPPvNgCkBuVcQdTxzU74NnskKEOpNSEOFWfPT0xDAvMeVlepuCHnK3aTQyTec95bfpCGUwotDI9F0g5445g.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "92251e8665e19be62c86ff039528e16e",
+                "streamUrl": "https://ravok.buzz/cdn/hls/7cae7676a91506bd44dc2fca37d16e56/master.m3u8?md5=BXavRDTkkqb2iOXJmaB8CQ&expires=1792166472",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/7cae7676a91506bd44dc2fca37d16e56/master.m3u8?md5=BXavRDTkkqb2iOXJmaB8CQ&expires=1792166472",
+                "videoSource": "https://ravok.buzz/cdn/hls/7cae7676a91506bd44dc2fca37d16e56/master.m3u8?md5=BXavRDTkkqb2iOXJmaB8CQ&expires=1792166472",
+                "link": "https://ravok.buzz/cdn/hls/7cae7676a91506bd44dc2fca37d16e56/master.m3u8?md5=BXavRDTkkqb2iOXJmaB8CQ&expires=1792166472",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/kyRNPPvNgCkBuVcQdTxzU74NnskKEOpNSEOFWfPT0xDAvMeVlepuCHnK3aTQyTec95bfpCGUwotDI9F0g5445g.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "SLx_U0Vek"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:22Z"
+    },
+    {
+      "id": "episode/private-vipers-creed-1x6",
+      "episode_id": "episode/private-vipers-creed-1x6",
+      "title": "Private: Viper's Creed 1x1",
+      "episode_name": "Private: Viper's Creed 1x1",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1883_s1e6.webp",
+      "abyssid": "16371",
+      "abyssId": "16371",
+      "playxid": "33463bc0c4fcc9398bdb211fd530afa4",
+      "playXID": "33463bc0c4fcc9398bdb211fd530afa4",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16371",
+        "playXID": "33463bc0c4fcc9398bdb211fd530afa4",
+        "streamId": "16371",
+        "dubPlayerSrc": "/dub-player/t/16371/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=33463bc0c4fcc9398bdb211fd530afa4&abyssId=16371"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16371",
+        "playXID": "33463bc0c4fcc9398bdb211fd530afa4",
+        "streamId": "16371",
+        "dubPlayerSrc": "/dub-player/t/16371/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=33463bc0c4fcc9398bdb211fd530afa4&abyssId=16371"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/33463bc0c4fcc9398bdb211fd530afa4",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/33463bc0c4fcc9398bdb211fd530afa4"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16371",
+        "abyssId": "16371",
+        "playXID": "33463bc0c4fcc9398bdb211fd530afa4",
+        "title": "Viper's Creed",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "G5fe1Vx5De"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "aEGow-N8g"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/6dbbfc5a09b56105ff0ab512cd7e74d7/master.m3u8?md5=6j5TYcf6v91SRCyKj3EhnQ&expires=1792166474",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/6dbbfc5a09b56105ff0ab512cd7e74d7/master.m3u8?md5=6j5TYcf6v91SRCyKj3EhnQ&expires=1792166474",
+            "videoSource": "https://ravok.buzz/cdn/hls/6dbbfc5a09b56105ff0ab512cd7e74d7/master.m3u8?md5=6j5TYcf6v91SRCyKj3EhnQ&expires=1792166474",
+            "videoImage": "https://as-cdn31.top/p/kyRNPPvNgCkBuVcQdTxzU8bdT4evxNl9d2jgrs30GBNKB9Dw8ZZUbnjbKUjwYgHJYDUymno569gyCC3hPr-D2w.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "33463bc0c4fcc9398bdb211fd530afa4",
+                "streamUrl": "https://ravok.buzz/cdn/hls/6dbbfc5a09b56105ff0ab512cd7e74d7/master.m3u8?md5=6j5TYcf6v91SRCyKj3EhnQ&expires=1792166474",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/6dbbfc5a09b56105ff0ab512cd7e74d7/master.m3u8?md5=6j5TYcf6v91SRCyKj3EhnQ&expires=1792166474",
+                "videoSource": "https://ravok.buzz/cdn/hls/6dbbfc5a09b56105ff0ab512cd7e74d7/master.m3u8?md5=6j5TYcf6v91SRCyKj3EhnQ&expires=1792166474",
+                "link": "https://ravok.buzz/cdn/hls/6dbbfc5a09b56105ff0ab512cd7e74d7/master.m3u8?md5=6j5TYcf6v91SRCyKj3EhnQ&expires=1792166474",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/kyRNPPvNgCkBuVcQdTxzU8bdT4evxNl9d2jgrs30GBNKB9Dw8ZZUbnjbKUjwYgHJYDUymno569gyCC3hPr-D2w.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "G5fe1Vx5De"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:24Z"
+    },
+    {
+      "id": "episode/private-vipers-creed-1x7",
+      "episode_id": "episode/private-vipers-creed-1x7",
+      "title": "Private: Viper's Creed 1x1",
+      "episode_name": "Private: Viper's Creed 1x1",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1883_s1e7.webp",
+      "abyssid": "16372",
+      "abyssId": "16372",
+      "playxid": "c2e03087da138478aa65a194e4768a3b",
+      "playXID": "c2e03087da138478aa65a194e4768a3b",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16372",
+        "playXID": "c2e03087da138478aa65a194e4768a3b",
+        "streamId": "16372",
+        "dubPlayerSrc": "/dub-player/t/16372/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c2e03087da138478aa65a194e4768a3b&abyssId=16372"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16372",
+        "playXID": "c2e03087da138478aa65a194e4768a3b",
+        "streamId": "16372",
+        "dubPlayerSrc": "/dub-player/t/16372/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c2e03087da138478aa65a194e4768a3b&abyssId=16372"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/c2e03087da138478aa65a194e4768a3b",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/c2e03087da138478aa65a194e4768a3b"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16372",
+        "abyssId": "16372",
+        "playXID": "c2e03087da138478aa65a194e4768a3b",
+        "title": "Viper's Creed",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "kbz8_kcz-"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "QHpGYJ_pe"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/1a5e9dd66cb789a08f7eb15fe89afa29/master.m3u8?md5=qa8_wSbzjO20NIDdafEztw&expires=1792166474",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/1a5e9dd66cb789a08f7eb15fe89afa29/master.m3u8?md5=qa8_wSbzjO20NIDdafEztw&expires=1792166474",
+            "videoSource": "https://ravok.buzz/cdn/hls/1a5e9dd66cb789a08f7eb15fe89afa29/master.m3u8?md5=qa8_wSbzjO20NIDdafEztw&expires=1792166474",
+            "videoImage": "https://as-cdn30.top/p/kyRNPPvNgCkBuVcQdTxzU-mCL7Xlfz1lJjylyPk7nMkBxhNhTyJ6vtPd_gK_jf9MFBHDqR7ntFbB_pOJEbvWMQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "c2e03087da138478aa65a194e4768a3b",
+                "streamUrl": "https://ravok.buzz/cdn/hls/1a5e9dd66cb789a08f7eb15fe89afa29/master.m3u8?md5=qa8_wSbzjO20NIDdafEztw&expires=1792166474",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/1a5e9dd66cb789a08f7eb15fe89afa29/master.m3u8?md5=qa8_wSbzjO20NIDdafEztw&expires=1792166474",
+                "videoSource": "https://ravok.buzz/cdn/hls/1a5e9dd66cb789a08f7eb15fe89afa29/master.m3u8?md5=qa8_wSbzjO20NIDdafEztw&expires=1792166474",
+                "link": "https://ravok.buzz/cdn/hls/1a5e9dd66cb789a08f7eb15fe89afa29/master.m3u8?md5=qa8_wSbzjO20NIDdafEztw&expires=1792166474",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/kyRNPPvNgCkBuVcQdTxzU-mCL7Xlfz1lJjylyPk7nMkBxhNhTyJ6vtPd_gK_jf9MFBHDqR7ntFbB_pOJEbvWMQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "kbz8_kcz-"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:24Z"
+    },
+    {
+      "id": "episode/private-vipers-creed-1x8",
+      "episode_id": "episode/private-vipers-creed-1x8",
+      "title": "Private: Viper's Creed 1x1",
+      "episode_name": "Private: Viper's Creed 1x1",
+      "episode_number": 8,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1883_s1e8.webp",
+      "abyssid": "16373",
+      "abyssId": "16373",
+      "playxid": "9aad93328ed02110438566b1162f48b8",
+      "playXID": "9aad93328ed02110438566b1162f48b8",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16373",
+        "playXID": "9aad93328ed02110438566b1162f48b8",
+        "streamId": "16373",
+        "dubPlayerSrc": "/dub-player/t/16373/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9aad93328ed02110438566b1162f48b8&abyssId=16373"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16373",
+        "playXID": "9aad93328ed02110438566b1162f48b8",
+        "streamId": "16373",
+        "dubPlayerSrc": "/dub-player/t/16373/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9aad93328ed02110438566b1162f48b8&abyssId=16373"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/9aad93328ed02110438566b1162f48b8",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/9aad93328ed02110438566b1162f48b8"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16373",
+        "abyssId": "16373",
+        "playXID": "9aad93328ed02110438566b1162f48b8",
+        "title": "Viper's Creed",
+        "season": 1,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "IC8gYyfYt"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "ozDPl9lIa"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/11b93c2a47f818c217b4830f0f568f97/master.m3u8?md5=9lccf5dNO0nlm0diziF1Iw&expires=1792166474",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/11b93c2a47f818c217b4830f0f568f97/master.m3u8?md5=9lccf5dNO0nlm0diziF1Iw&expires=1792166474",
+            "videoSource": "https://ravok.buzz/cdn/hls/11b93c2a47f818c217b4830f0f568f97/master.m3u8?md5=9lccf5dNO0nlm0diziF1Iw&expires=1792166474",
+            "videoImage": "https://as-cdn28.top/p/kyRNPPvNgCkBuVcQdTxzU3HucSSJpjZ2X3HrIvXVK0UyjYVIreX9NOsB9nLeRWjKv5rC5-H7Un80kThW8AqOZQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "9aad93328ed02110438566b1162f48b8",
+                "streamUrl": "https://ravok.buzz/cdn/hls/11b93c2a47f818c217b4830f0f568f97/master.m3u8?md5=9lccf5dNO0nlm0diziF1Iw&expires=1792166474",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/11b93c2a47f818c217b4830f0f568f97/master.m3u8?md5=9lccf5dNO0nlm0diziF1Iw&expires=1792166474",
+                "videoSource": "https://ravok.buzz/cdn/hls/11b93c2a47f818c217b4830f0f568f97/master.m3u8?md5=9lccf5dNO0nlm0diziF1Iw&expires=1792166474",
+                "link": "https://ravok.buzz/cdn/hls/11b93c2a47f818c217b4830f0f568f97/master.m3u8?md5=9lccf5dNO0nlm0diziF1Iw&expires=1792166474",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/kyRNPPvNgCkBuVcQdTxzU3HucSSJpjZ2X3HrIvXVK0UyjYVIreX9NOsB9nLeRWjKv5rC5-H7Un80kThW8AqOZQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "IC8gYyfYt"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:25Z"
+    },
+    {
+      "id": "episode/private-vipers-creed-1x10",
+      "episode_id": "episode/private-vipers-creed-1x10",
+      "title": "Private: Viper's Creed 1x1",
+      "episode_name": "Private: Viper's Creed 1x1",
+      "episode_number": 10,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1883_s1e10.webp",
+      "abyssid": "16375",
+      "abyssId": "16375",
+      "playxid": "27dcfa6c9fb04dfa28b3e385698e3e5c",
+      "playXID": "27dcfa6c9fb04dfa28b3e385698e3e5c",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16375",
+        "playXID": "27dcfa6c9fb04dfa28b3e385698e3e5c",
+        "streamId": "16375",
+        "dubPlayerSrc": "/dub-player/t/16375/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=27dcfa6c9fb04dfa28b3e385698e3e5c&abyssId=16375"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16375",
+        "playXID": "27dcfa6c9fb04dfa28b3e385698e3e5c",
+        "streamId": "16375",
+        "dubPlayerSrc": "/dub-player/t/16375/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=27dcfa6c9fb04dfa28b3e385698e3e5c&abyssId=16375"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/27dcfa6c9fb04dfa28b3e385698e3e5c",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/27dcfa6c9fb04dfa28b3e385698e3e5c"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16375",
+        "abyssId": "16375",
+        "playXID": "27dcfa6c9fb04dfa28b3e385698e3e5c",
+        "title": "Viper's Creed",
+        "season": 1,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "hfgmDtlpk"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "4ivtdic0-"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/d680d326e63677f77654ad4402f7eed0/master.m3u8?md5=oM1aK4J61EMHjvvat6_SNw&expires=1792166475",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/d680d326e63677f77654ad4402f7eed0/master.m3u8?md5=oM1aK4J61EMHjvvat6_SNw&expires=1792166475",
+            "videoSource": "https://ravok.buzz/cdn/hls/d680d326e63677f77654ad4402f7eed0/master.m3u8?md5=oM1aK4J61EMHjvvat6_SNw&expires=1792166475",
+            "videoImage": "https://as-cdn30.top/p/kyRNPPvNgCkBuVcQdTxzU57vl2PWV9w9-0gVwVlU0CgloYlxWfqWmovmN2xL6sR51iSPL88HkpA_I41ZE133ig.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "27dcfa6c9fb04dfa28b3e385698e3e5c",
+                "streamUrl": "https://ravok.buzz/cdn/hls/d680d326e63677f77654ad4402f7eed0/master.m3u8?md5=oM1aK4J61EMHjvvat6_SNw&expires=1792166475",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/d680d326e63677f77654ad4402f7eed0/master.m3u8?md5=oM1aK4J61EMHjvvat6_SNw&expires=1792166475",
+                "videoSource": "https://ravok.buzz/cdn/hls/d680d326e63677f77654ad4402f7eed0/master.m3u8?md5=oM1aK4J61EMHjvvat6_SNw&expires=1792166475",
+                "link": "https://ravok.buzz/cdn/hls/d680d326e63677f77654ad4402f7eed0/master.m3u8?md5=oM1aK4J61EMHjvvat6_SNw&expires=1792166475",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/kyRNPPvNgCkBuVcQdTxzU57vl2PWV9w9-0gVwVlU0CgloYlxWfqWmovmN2xL6sR51iSPL88HkpA_I41ZE133ig.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "hfgmDtlpk"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:25Z"
+    },
+    {
+      "id": "episode/private-vipers-creed-1x9",
+      "episode_id": "episode/private-vipers-creed-1x9",
+      "title": "Private: Viper's Creed 1x1",
+      "episode_name": "Private: Viper's Creed 1x1",
+      "episode_number": 9,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1883_s1e9.webp",
+      "abyssid": "16374",
+      "abyssId": "16374",
+      "playxid": "c2e8b74defb073cd8cf4e942136ea164",
+      "playXID": "c2e8b74defb073cd8cf4e942136ea164",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16374",
+        "playXID": "c2e8b74defb073cd8cf4e942136ea164",
+        "streamId": "16374",
+        "dubPlayerSrc": "/dub-player/t/16374/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c2e8b74defb073cd8cf4e942136ea164&abyssId=16374"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16374",
+        "playXID": "c2e8b74defb073cd8cf4e942136ea164",
+        "streamId": "16374",
+        "dubPlayerSrc": "/dub-player/t/16374/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c2e8b74defb073cd8cf4e942136ea164&abyssId=16374"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/c2e8b74defb073cd8cf4e942136ea164",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/c2e8b74defb073cd8cf4e942136ea164"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16374",
+        "abyssId": "16374",
+        "playXID": "c2e8b74defb073cd8cf4e942136ea164",
+        "title": "Viper's Creed",
+        "season": 1,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "6yKEjTs9F"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "wIWc7RVf1"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/5312841164645b134fa7625732199f2d/master.m3u8?md5=M31YAZ8k96kskqIXDIQKAA&expires=1792166475",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/5312841164645b134fa7625732199f2d/master.m3u8?md5=M31YAZ8k96kskqIXDIQKAA&expires=1792166475",
+            "videoSource": "https://ravok.buzz/cdn/hls/5312841164645b134fa7625732199f2d/master.m3u8?md5=M31YAZ8k96kskqIXDIQKAA&expires=1792166475",
+            "videoImage": "https://as-cdn28.top/p/kyRNPPvNgCkBuVcQdTxzU4Gbd8FmbGyxp73S4EzmgKmClDp2PSgMrL_9an3nyShtqpiOYApPn3wgRc9L7tXnXA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "c2e8b74defb073cd8cf4e942136ea164",
+                "streamUrl": "https://ravok.buzz/cdn/hls/5312841164645b134fa7625732199f2d/master.m3u8?md5=M31YAZ8k96kskqIXDIQKAA&expires=1792166475",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/5312841164645b134fa7625732199f2d/master.m3u8?md5=M31YAZ8k96kskqIXDIQKAA&expires=1792166475",
+                "videoSource": "https://ravok.buzz/cdn/hls/5312841164645b134fa7625732199f2d/master.m3u8?md5=M31YAZ8k96kskqIXDIQKAA&expires=1792166475",
+                "link": "https://ravok.buzz/cdn/hls/5312841164645b134fa7625732199f2d/master.m3u8?md5=M31YAZ8k96kskqIXDIQKAA&expires=1792166475",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/kyRNPPvNgCkBuVcQdTxzU4Gbd8FmbGyxp73S4EzmgKmClDp2PSgMrL_9an3nyShtqpiOYApPn3wgRc9L7tXnXA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "6yKEjTs9F"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:25Z"
+    },
+    {
+      "id": "episode/private-vipers-creed-1x11",
+      "episode_id": "episode/private-vipers-creed-1x11",
+      "title": "Private: Viper's Creed 1x1",
+      "episode_name": "Private: Viper's Creed 1x1",
+      "episode_number": 11,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1883_s1e11.webp",
+      "abyssid": "16376",
+      "abyssId": "16376",
+      "playxid": "0bbeaf0242180c8abffb2b8dada5a9e4",
+      "playXID": "0bbeaf0242180c8abffb2b8dada5a9e4",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16376",
+        "playXID": "0bbeaf0242180c8abffb2b8dada5a9e4",
+        "streamId": "16376",
+        "dubPlayerSrc": "/dub-player/t/16376/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=0bbeaf0242180c8abffb2b8dada5a9e4&abyssId=16376"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16376",
+        "playXID": "0bbeaf0242180c8abffb2b8dada5a9e4",
+        "streamId": "16376",
+        "dubPlayerSrc": "/dub-player/t/16376/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=0bbeaf0242180c8abffb2b8dada5a9e4&abyssId=16376"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/0bbeaf0242180c8abffb2b8dada5a9e4",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/0bbeaf0242180c8abffb2b8dada5a9e4"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16376",
+        "abyssId": "16376",
+        "playXID": "0bbeaf0242180c8abffb2b8dada5a9e4",
+        "title": "Viper's Creed",
+        "season": 1,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "0BsNqj6_1P"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "arPX66gJC"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/81a154f9e5f57b4660560bf95e15d960/master.m3u8?md5=2ffH09IT9Rva7CSsGywfvA&expires=1792166476",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/81a154f9e5f57b4660560bf95e15d960/master.m3u8?md5=2ffH09IT9Rva7CSsGywfvA&expires=1792166476",
+            "videoSource": "https://ravok.buzz/cdn/hls/81a154f9e5f57b4660560bf95e15d960/master.m3u8?md5=2ffH09IT9Rva7CSsGywfvA&expires=1792166476",
+            "videoImage": "https://as-cdn31.top/p/kyRNPPvNgCkBuVcQdTxzUzf6mtYHSDmYji8jCfj7T60eh91kUTukkI7lTiesOSHuEIQF7v29plBPSO3WOCqmLA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "0bbeaf0242180c8abffb2b8dada5a9e4",
+                "streamUrl": "https://ravok.buzz/cdn/hls/81a154f9e5f57b4660560bf95e15d960/master.m3u8?md5=2ffH09IT9Rva7CSsGywfvA&expires=1792166476",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/81a154f9e5f57b4660560bf95e15d960/master.m3u8?md5=2ffH09IT9Rva7CSsGywfvA&expires=1792166476",
+                "videoSource": "https://ravok.buzz/cdn/hls/81a154f9e5f57b4660560bf95e15d960/master.m3u8?md5=2ffH09IT9Rva7CSsGywfvA&expires=1792166476",
+                "link": "https://ravok.buzz/cdn/hls/81a154f9e5f57b4660560bf95e15d960/master.m3u8?md5=2ffH09IT9Rva7CSsGywfvA&expires=1792166476",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/kyRNPPvNgCkBuVcQdTxzUzf6mtYHSDmYji8jCfj7T60eh91kUTukkI7lTiesOSHuEIQF7v29plBPSO3WOCqmLA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "0BsNqj6_1P"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:26Z"
+    },
+    {
+      "id": "episode/private-vipers-creed-1x12",
+      "episode_id": "episode/private-vipers-creed-1x12",
+      "title": "Private: Viper's Creed 1x1",
+      "episode_name": "Private: Viper's Creed 1x1",
+      "episode_number": 12,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1883_s1e12.webp",
+      "abyssid": "16377",
+      "abyssId": "16377",
+      "playxid": "65a579da11fa712149bca347ecfcb208",
+      "playXID": "65a579da11fa712149bca347ecfcb208",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16377",
+        "playXID": "65a579da11fa712149bca347ecfcb208",
+        "streamId": "16377",
+        "dubPlayerSrc": "/dub-player/t/16377/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=65a579da11fa712149bca347ecfcb208&abyssId=16377"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16377",
+        "playXID": "65a579da11fa712149bca347ecfcb208",
+        "streamId": "16377",
+        "dubPlayerSrc": "/dub-player/t/16377/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=65a579da11fa712149bca347ecfcb208&abyssId=16377"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/65a579da11fa712149bca347ecfcb208",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/65a579da11fa712149bca347ecfcb208"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16377",
+        "abyssId": "16377",
+        "playXID": "65a579da11fa712149bca347ecfcb208",
+        "title": "Viper's Creed",
+        "season": 1,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "najWUWBq4"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "Sd1C9AcYw"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/d054943966094af95b3fc1a81d108aee/master.m3u8?md5=33znXb21V92nPTOXx1cpzw&expires=1792166476",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/d054943966094af95b3fc1a81d108aee/master.m3u8?md5=33znXb21V92nPTOXx1cpzw&expires=1792166476",
+            "videoSource": "https://ravok.buzz/cdn/hls/d054943966094af95b3fc1a81d108aee/master.m3u8?md5=33znXb21V92nPTOXx1cpzw&expires=1792166476",
+            "videoImage": "https://as-cdn31.top/p/kyRNPPvNgCkBuVcQdTxzU-I5aaOU9F2T4LpRgeJbnApN9m4z8ZC4PMv8YEg-uCq2Y2-wNdT8B0sG08QSATHHzA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "65a579da11fa712149bca347ecfcb208",
+                "streamUrl": "https://ravok.buzz/cdn/hls/d054943966094af95b3fc1a81d108aee/master.m3u8?md5=33znXb21V92nPTOXx1cpzw&expires=1792166476",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/d054943966094af95b3fc1a81d108aee/master.m3u8?md5=33znXb21V92nPTOXx1cpzw&expires=1792166476",
+                "videoSource": "https://ravok.buzz/cdn/hls/d054943966094af95b3fc1a81d108aee/master.m3u8?md5=33znXb21V92nPTOXx1cpzw&expires=1792166476",
+                "link": "https://ravok.buzz/cdn/hls/d054943966094af95b3fc1a81d108aee/master.m3u8?md5=33znXb21V92nPTOXx1cpzw&expires=1792166476",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/kyRNPPvNgCkBuVcQdTxzU-I5aaOU9F2T4LpRgeJbnApN9m4z8ZC4PMv8YEg-uCq2Y2-wNdT8B0sG08QSATHHzA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "najWUWBq4"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:26Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T14:01:20Z",
+  "updated_at": "2026-10-16T14:01:26Z"
+}

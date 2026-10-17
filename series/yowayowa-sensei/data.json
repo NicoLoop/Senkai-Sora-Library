@@ -1,0 +1,1145 @@
+{
+  "id": "series/yowayowa-sensei",
+  "series_name": "Yowayowa Sensei",
+  "title": "Yowayowa Sensei",
+  "banner": "https://image.tmdb.org/t/p/w1280/dKA8y1HxEq09M11p896hBkZsku1.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/1WDp9RjN7odYw490WLNw79iceLa.jpg",
+  "genra": [
+    "Comedy",
+    "Ecchi",
+    "Romance",
+    "School",
+    "Shounen"
+  ],
+  "genres": [
+    "Comedy",
+    "Ecchi",
+    "Romance",
+    "School",
+    "Shounen"
+  ],
+  "languages": [
+    "Hindi",
+    "Japanese"
+  ],
+  "synopsis": "Hiyori Hiwamura is known as the \"Scary Teacher,\" and if you offend her, she'll put a curse on you! Or at least that's what everyone believes. She's secretly a total softy who's deeply misunderstood, and once you see her sweet side, she'll put a different kind of spell on you.",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 11,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 11,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Yowayowa Sensei 1x1",
+          "id": "episode/yowayowa-sensei-1x1",
+          "image": "https://img.watchanimeworld.one/img/thumb_2073_s1e1.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "Yowayowa Sensei 1x2",
+          "id": "episode/yowayowa-sensei-1x2",
+          "image": "https://img.watchanimeworld.one/img/thumb_2073_s1e2.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "Yowayowa Sensei 1x3",
+          "id": "episode/yowayowa-sensei-1x3",
+          "image": "https://img.watchanimeworld.one/img/thumb_2073_s1e3.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "Yowayowa Sensei 1x4",
+          "id": "episode/yowayowa-sensei-1x4",
+          "image": "https://img.watchanimeworld.one/img/thumb_2073_s1e4.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "Yowayowa Sensei 1x5",
+          "id": "episode/yowayowa-sensei-1x5",
+          "image": "https://img.watchanimeworld.one/img/thumb_2073_s1e5.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "Yowayowa Sensei 1x6",
+          "id": "episode/yowayowa-sensei-1x6",
+          "image": "https://img.watchanimeworld.one/img/thumb_2073_s1e6.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "Yowayowa Sensei 1x7",
+          "id": "episode/yowayowa-sensei-1x7",
+          "image": "https://img.watchanimeworld.one/img/thumb_2073_s1e7.webp",
+          "season": 1
+        },
+        {
+          "episode": 8,
+          "title": "Yowayowa Sensei 1x8",
+          "id": "episode/yowayowa-sensei-1x8",
+          "image": "https://img.watchanimeworld.one/img/thumb_2073_s1e8.webp",
+          "season": 1
+        },
+        {
+          "episode": 9,
+          "title": "Yowayowa Sensei 1x9",
+          "id": "episode/yowayowa-sensei-1x9",
+          "image": "https://img.watchanimeworld.one/img/thumb_2073_s1e9.webp",
+          "season": 1
+        },
+        {
+          "episode": 10,
+          "title": "Yowayowa Sensei 1x10",
+          "id": "episode/yowayowa-sensei-1x10",
+          "image": "https://img.watchanimeworld.one/img/thumb_2073_s1e10.webp",
+          "season": 1
+        },
+        {
+          "episode": 11,
+          "title": "Yowayowa Sensei 1x11",
+          "id": "episode/yowayowa-sensei-1x11",
+          "image": "https://img.watchanimeworld.one/img/thumb_2073_s1e11.webp",
+          "season": 1
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/yowayowa-sensei-1x2",
+      "episode_id": "episode/yowayowa-sensei-1x2",
+      "title": "Yowayowa Sensei 1x1",
+      "episode_name": "Yowayowa Sensei 1x1",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2073_s1e2.webp",
+      "abyssid": "18450",
+      "abyssId": "18450",
+      "playxid": "9d253ace7cf557b2f1f99d319649e74f",
+      "playXID": "9d253ace7cf557b2f1f99d319649e74f",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18450",
+        "playXID": "9d253ace7cf557b2f1f99d319649e74f",
+        "streamId": "18450",
+        "dubPlayerSrc": "/dub-player/t/18450/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9d253ace7cf557b2f1f99d319649e74f&abyssId=18450"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18450",
+        "playXID": "9d253ace7cf557b2f1f99d319649e74f",
+        "streamId": "18450",
+        "dubPlayerSrc": "/dub-player/t/18450/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9d253ace7cf557b2f1f99d319649e74f&abyssId=18450"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/94773d762d5c6c3edfa0fac6896c074e",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/94773d762d5c6c3edfa0fac6896c074e"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18450",
+        "abyssId": "18450",
+        "playXID": "9d253ace7cf557b2f1f99d319649e74f",
+        "title": "Yowayowa Sensei",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "1GmWBvTsK"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "LY9oFJOUU"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/0b18094d869625f5c256c85aee1304fa/master.m3u8?md5=yh1WXADMn2rwIkb438S4Sg&expires=1792165923",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/0b18094d869625f5c256c85aee1304fa/master.m3u8?md5=yh1WXADMn2rwIkb438S4Sg&expires=1792165923",
+            "videoSource": "https://ravok.buzz/cdn/hls/0b18094d869625f5c256c85aee1304fa/master.m3u8?md5=yh1WXADMn2rwIkb438S4Sg&expires=1792165923",
+            "videoImage": "https://as-cdn28.top/p/Lz_AKEqHCMSIOUaILPOd-UvlsjG8Uj-m4pyW8AFFT4o6vJZQ1G4cWYjzdwZKqvLzSj8jm2ekP5wOxJ9QZd03Rw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "9d253ace7cf557b2f1f99d319649e74f",
+                "streamUrl": "https://ravok.buzz/cdn/hls/0b18094d869625f5c256c85aee1304fa/master.m3u8?md5=yh1WXADMn2rwIkb438S4Sg&expires=1792165923",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/0b18094d869625f5c256c85aee1304fa/master.m3u8?md5=yh1WXADMn2rwIkb438S4Sg&expires=1792165923",
+                "videoSource": "https://ravok.buzz/cdn/hls/0b18094d869625f5c256c85aee1304fa/master.m3u8?md5=yh1WXADMn2rwIkb438S4Sg&expires=1792165923",
+                "link": "https://ravok.buzz/cdn/hls/0b18094d869625f5c256c85aee1304fa/master.m3u8?md5=yh1WXADMn2rwIkb438S4Sg&expires=1792165923",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/Lz_AKEqHCMSIOUaILPOd-UvlsjG8Uj-m4pyW8AFFT4o6vJZQ1G4cWYjzdwZKqvLzSj8jm2ekP5wOxJ9QZd03Rw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "1GmWBvTsK"
+        }
+      },
+      "fetched_at": "2026-10-16T13:52:13Z"
+    },
+    {
+      "id": "episode/yowayowa-sensei-1x1",
+      "episode_id": "episode/yowayowa-sensei-1x1",
+      "title": "Yowayowa Sensei 1x1",
+      "episode_name": "Yowayowa Sensei 1x1",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2073_s1e1.webp",
+      "abyssid": "18449",
+      "abyssId": "18449",
+      "playxid": "b84931d049a63cf56e0a47379c26c5cf",
+      "playXID": "b84931d049a63cf56e0a47379c26c5cf",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18449",
+        "playXID": "b84931d049a63cf56e0a47379c26c5cf",
+        "streamId": "18449",
+        "dubPlayerSrc": "/dub-player/t/18449/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b84931d049a63cf56e0a47379c26c5cf&abyssId=18449"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18449",
+        "playXID": "b84931d049a63cf56e0a47379c26c5cf",
+        "streamId": "18449",
+        "dubPlayerSrc": "/dub-player/t/18449/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b84931d049a63cf56e0a47379c26c5cf&abyssId=18449"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/7815a62bc723a1c2884807eefd6640c5",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/7815a62bc723a1c2884807eefd6640c5"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18449",
+        "abyssId": "18449",
+        "playXID": "b84931d049a63cf56e0a47379c26c5cf",
+        "title": "Yowayowa Sensei",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "MQA1asogRA"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "hH1HbDJ-u"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/30f0c86e04ace64c1861ffa72fd0f72f/master.m3u8?md5=0JiaOO2tJGWIiMnlzicSZw&expires=1792165923",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/30f0c86e04ace64c1861ffa72fd0f72f/master.m3u8?md5=0JiaOO2tJGWIiMnlzicSZw&expires=1792165923",
+            "videoSource": "https://ravok.buzz/cdn/hls/30f0c86e04ace64c1861ffa72fd0f72f/master.m3u8?md5=0JiaOO2tJGWIiMnlzicSZw&expires=1792165923",
+            "videoImage": "https://as-cdn31.top/p/QercJQYlvMjA_AiuPUdmY4WZ6xgW6INix9wT0O52yTJt2ZAx_8BlCeNI16yECV2b4ulq9qIcxvhmS7JOn5tDBQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "b84931d049a63cf56e0a47379c26c5cf",
+                "streamUrl": "https://ravok.buzz/cdn/hls/30f0c86e04ace64c1861ffa72fd0f72f/master.m3u8?md5=0JiaOO2tJGWIiMnlzicSZw&expires=1792165923",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/30f0c86e04ace64c1861ffa72fd0f72f/master.m3u8?md5=0JiaOO2tJGWIiMnlzicSZw&expires=1792165923",
+                "videoSource": "https://ravok.buzz/cdn/hls/30f0c86e04ace64c1861ffa72fd0f72f/master.m3u8?md5=0JiaOO2tJGWIiMnlzicSZw&expires=1792165923",
+                "link": "https://ravok.buzz/cdn/hls/30f0c86e04ace64c1861ffa72fd0f72f/master.m3u8?md5=0JiaOO2tJGWIiMnlzicSZw&expires=1792165923",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/QercJQYlvMjA_AiuPUdmY4WZ6xgW6INix9wT0O52yTJt2ZAx_8BlCeNI16yECV2b4ulq9qIcxvhmS7JOn5tDBQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "MQA1asogRA"
+        }
+      },
+      "fetched_at": "2026-10-16T13:52:13Z"
+    },
+    {
+      "id": "episode/yowayowa-sensei-1x3",
+      "episode_id": "episode/yowayowa-sensei-1x3",
+      "title": "Yowayowa Sensei 1x1",
+      "episode_name": "Yowayowa Sensei 1x1",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2073_s1e3.webp",
+      "abyssid": "18451",
+      "abyssId": "18451",
+      "playxid": "c1a0d1b040dbb9591d60fd82807b5878",
+      "playXID": "c1a0d1b040dbb9591d60fd82807b5878",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18451",
+        "playXID": "c1a0d1b040dbb9591d60fd82807b5878",
+        "streamId": "18451",
+        "dubPlayerSrc": "/dub-player/t/18451/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c1a0d1b040dbb9591d60fd82807b5878&abyssId=18451"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18451",
+        "playXID": "c1a0d1b040dbb9591d60fd82807b5878",
+        "streamId": "18451",
+        "dubPlayerSrc": "/dub-player/t/18451/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c1a0d1b040dbb9591d60fd82807b5878&abyssId=18451"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/18f67e0b989c0e2b840dfd31df1a4ad0",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/18f67e0b989c0e2b840dfd31df1a4ad0"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18451",
+        "abyssId": "18451",
+        "playXID": "c1a0d1b040dbb9591d60fd82807b5878",
+        "title": "Yowayowa Sensei",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "OF6Gl7-V3"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "0BOGe5kUq"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/e7d5fe2e351ec4e9a5f0214a4abcf011/master.m3u8?md5=wiFLi-mM0uomp1WI1c9yQQ&expires=1792165923",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/e7d5fe2e351ec4e9a5f0214a4abcf011/master.m3u8?md5=wiFLi-mM0uomp1WI1c9yQQ&expires=1792165923",
+            "videoSource": "https://ravok.buzz/cdn/hls/e7d5fe2e351ec4e9a5f0214a4abcf011/master.m3u8?md5=wiFLi-mM0uomp1WI1c9yQQ&expires=1792165923",
+            "videoImage": "https://as-cdn29.top/p/CC1zpMS_oqF1wqqKcrwbPKtxMkYcMOnURs0cWBh7UTZTRM25TbJpxChiSKK9PdRvXyy5wXYGPThDY8SYmUzepQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "c1a0d1b040dbb9591d60fd82807b5878",
+                "streamUrl": "https://ravok.buzz/cdn/hls/e7d5fe2e351ec4e9a5f0214a4abcf011/master.m3u8?md5=wiFLi-mM0uomp1WI1c9yQQ&expires=1792165923",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/e7d5fe2e351ec4e9a5f0214a4abcf011/master.m3u8?md5=wiFLi-mM0uomp1WI1c9yQQ&expires=1792165923",
+                "videoSource": "https://ravok.buzz/cdn/hls/e7d5fe2e351ec4e9a5f0214a4abcf011/master.m3u8?md5=wiFLi-mM0uomp1WI1c9yQQ&expires=1792165923",
+                "link": "https://ravok.buzz/cdn/hls/e7d5fe2e351ec4e9a5f0214a4abcf011/master.m3u8?md5=wiFLi-mM0uomp1WI1c9yQQ&expires=1792165923",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/CC1zpMS_oqF1wqqKcrwbPKtxMkYcMOnURs0cWBh7UTZTRM25TbJpxChiSKK9PdRvXyy5wXYGPThDY8SYmUzepQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "OF6Gl7-V3"
+        }
+      },
+      "fetched_at": "2026-10-16T13:52:13Z"
+    },
+    {
+      "id": "episode/yowayowa-sensei-1x5",
+      "episode_id": "episode/yowayowa-sensei-1x5",
+      "title": "Yowayowa Sensei 1x1",
+      "episode_name": "Yowayowa Sensei 1x1",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2073_s1e5.webp",
+      "abyssid": "18488",
+      "abyssId": "18488",
+      "playxid": "588fad4e41a1544c03e7d5625c37cbf0",
+      "playXID": "588fad4e41a1544c03e7d5625c37cbf0",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18488",
+        "playXID": "588fad4e41a1544c03e7d5625c37cbf0",
+        "streamId": "18488",
+        "dubPlayerSrc": "/dub-player/t/18488/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=588fad4e41a1544c03e7d5625c37cbf0&abyssId=18488"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18488",
+        "playXID": "588fad4e41a1544c03e7d5625c37cbf0",
+        "streamId": "18488",
+        "dubPlayerSrc": "/dub-player/t/18488/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=588fad4e41a1544c03e7d5625c37cbf0&abyssId=18488"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/a4c2198d75787693192f0286f4c9f15a",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/a4c2198d75787693192f0286f4c9f15a"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18488",
+        "abyssId": "18488",
+        "playXID": "588fad4e41a1544c03e7d5625c37cbf0",
+        "title": "Yowayowa Sensei",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "DAU-ZYgIK"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "7jrIUOGvR"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/31f83320de1e2e34bf09ca4e6cb9ade2/master.m3u8?md5=AQDxutefOkl4v7WpnCP76Q&expires=1792165923",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/31f83320de1e2e34bf09ca4e6cb9ade2/master.m3u8?md5=AQDxutefOkl4v7WpnCP76Q&expires=1792165923",
+            "videoSource": "https://ravok.buzz/cdn/hls/31f83320de1e2e34bf09ca4e6cb9ade2/master.m3u8?md5=AQDxutefOkl4v7WpnCP76Q&expires=1792165923",
+            "videoImage": "https://as-cdn28.top/p/A-P8DMpc03tBOkhCjiNWgFPecxzmTVNe8Xpc-UOa2Jlg-vMCvT3yE_0KMljSFtK4S-fHuH0lVJkNVmMioIxoBg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "588fad4e41a1544c03e7d5625c37cbf0",
+                "streamUrl": "https://ravok.buzz/cdn/hls/31f83320de1e2e34bf09ca4e6cb9ade2/master.m3u8?md5=AQDxutefOkl4v7WpnCP76Q&expires=1792165923",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/31f83320de1e2e34bf09ca4e6cb9ade2/master.m3u8?md5=AQDxutefOkl4v7WpnCP76Q&expires=1792165923",
+                "videoSource": "https://ravok.buzz/cdn/hls/31f83320de1e2e34bf09ca4e6cb9ade2/master.m3u8?md5=AQDxutefOkl4v7WpnCP76Q&expires=1792165923",
+                "link": "https://ravok.buzz/cdn/hls/31f83320de1e2e34bf09ca4e6cb9ade2/master.m3u8?md5=AQDxutefOkl4v7WpnCP76Q&expires=1792165923",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/A-P8DMpc03tBOkhCjiNWgFPecxzmTVNe8Xpc-UOa2Jlg-vMCvT3yE_0KMljSFtK4S-fHuH0lVJkNVmMioIxoBg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "DAU-ZYgIK"
+        }
+      },
+      "fetched_at": "2026-10-16T13:52:13Z"
+    },
+    {
+      "id": "episode/yowayowa-sensei-1x7",
+      "episode_id": "episode/yowayowa-sensei-1x7",
+      "title": "Yowayowa Sensei 1x1",
+      "episode_name": "Yowayowa Sensei 1x1",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2073_s1e7.webp",
+      "abyssid": "18686",
+      "abyssId": "18686",
+      "playxid": "8807b21924d02314daeb3444bda8acbd",
+      "playXID": "8807b21924d02314daeb3444bda8acbd",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18686",
+        "playXID": "8807b21924d02314daeb3444bda8acbd",
+        "streamId": "18686",
+        "dubPlayerSrc": "/dub-player/t/18686/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8807b21924d02314daeb3444bda8acbd&abyssId=18686"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18686",
+        "playXID": "8807b21924d02314daeb3444bda8acbd",
+        "streamId": "18686",
+        "dubPlayerSrc": "/dub-player/t/18686/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8807b21924d02314daeb3444bda8acbd&abyssId=18686"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/3350f342187a513cfe28119c59dc9038",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/3350f342187a513cfe28119c59dc9038"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18686",
+        "abyssId": "18686",
+        "playXID": "8807b21924d02314daeb3444bda8acbd",
+        "title": "Yowayowa Sensei",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "n-9JCMq-1"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "qYFIBRTwD"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/91dd0d486b4c5f3962c1d93814fb6104/master.m3u8?md5=Tlh4BzEk5mXZy1J4d9vN2A&expires=1792165925",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/91dd0d486b4c5f3962c1d93814fb6104/master.m3u8?md5=Tlh4BzEk5mXZy1J4d9vN2A&expires=1792165925",
+            "videoSource": "https://ravok.buzz/cdn/hls/91dd0d486b4c5f3962c1d93814fb6104/master.m3u8?md5=Tlh4BzEk5mXZy1J4d9vN2A&expires=1792165925",
+            "videoImage": "https://as-cdn30.top/p/BibsfniarFofJcmRPiG0HpSWtdEqT7-KzEhC7lWU_OfAm78BgOrL_x4vSJMdUk4UPAp182e7Q7ENVS1CNmBdJw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "8807b21924d02314daeb3444bda8acbd",
+                "streamUrl": "https://ravok.buzz/cdn/hls/91dd0d486b4c5f3962c1d93814fb6104/master.m3u8?md5=Tlh4BzEk5mXZy1J4d9vN2A&expires=1792165925",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/91dd0d486b4c5f3962c1d93814fb6104/master.m3u8?md5=Tlh4BzEk5mXZy1J4d9vN2A&expires=1792165925",
+                "videoSource": "https://ravok.buzz/cdn/hls/91dd0d486b4c5f3962c1d93814fb6104/master.m3u8?md5=Tlh4BzEk5mXZy1J4d9vN2A&expires=1792165925",
+                "link": "https://ravok.buzz/cdn/hls/91dd0d486b4c5f3962c1d93814fb6104/master.m3u8?md5=Tlh4BzEk5mXZy1J4d9vN2A&expires=1792165925",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/BibsfniarFofJcmRPiG0HpSWtdEqT7-KzEhC7lWU_OfAm78BgOrL_x4vSJMdUk4UPAp182e7Q7ENVS1CNmBdJw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "n-9JCMq-1"
+        }
+      },
+      "fetched_at": "2026-10-16T13:52:15Z"
+    },
+    {
+      "id": "episode/yowayowa-sensei-1x6",
+      "episode_id": "episode/yowayowa-sensei-1x6",
+      "title": "Yowayowa Sensei 1x1",
+      "episode_name": "Yowayowa Sensei 1x1",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2073_s1e6.webp",
+      "abyssid": "18597",
+      "abyssId": "18597",
+      "playxid": "ed777f62b485b3975ac2d4ca644d619e",
+      "playXID": "ed777f62b485b3975ac2d4ca644d619e",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18597",
+        "playXID": "ed777f62b485b3975ac2d4ca644d619e",
+        "streamId": "18597",
+        "dubPlayerSrc": "/dub-player/t/18597/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ed777f62b485b3975ac2d4ca644d619e&abyssId=18597"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18597",
+        "playXID": "ed777f62b485b3975ac2d4ca644d619e",
+        "streamId": "18597",
+        "dubPlayerSrc": "/dub-player/t/18597/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ed777f62b485b3975ac2d4ca644d619e&abyssId=18597"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/5384c4cf5d30e4607b3a231047002de0",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/5384c4cf5d30e4607b3a231047002de0"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18597",
+        "abyssId": "18597",
+        "playXID": "ed777f62b485b3975ac2d4ca644d619e",
+        "title": "Yowayowa Sensei",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "UGko8CsbKO"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "zwCz1G_rC"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/2fece358b16b403cbc9782d52661cf11/master.m3u8?md5=va0X4AZ4T9yPK-SqzjdUFA&expires=1792165925",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/2fece358b16b403cbc9782d52661cf11/master.m3u8?md5=va0X4AZ4T9yPK-SqzjdUFA&expires=1792165925",
+            "videoSource": "https://ravok.buzz/cdn/hls/2fece358b16b403cbc9782d52661cf11/master.m3u8?md5=va0X4AZ4T9yPK-SqzjdUFA&expires=1792165925",
+            "videoImage": "https://as-cdn27.top/p/9kYQBheDuPPiO-8ETG1xY5AZySNJvvZ9HbK4uiUdrY_vywTm6NpglPDsD3SNxGGr4xFqnrOWyIZ7zUQcdydTeQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "ed777f62b485b3975ac2d4ca644d619e",
+                "streamUrl": "https://ravok.buzz/cdn/hls/2fece358b16b403cbc9782d52661cf11/master.m3u8?md5=va0X4AZ4T9yPK-SqzjdUFA&expires=1792165925",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/2fece358b16b403cbc9782d52661cf11/master.m3u8?md5=va0X4AZ4T9yPK-SqzjdUFA&expires=1792165925",
+                "videoSource": "https://ravok.buzz/cdn/hls/2fece358b16b403cbc9782d52661cf11/master.m3u8?md5=va0X4AZ4T9yPK-SqzjdUFA&expires=1792165925",
+                "link": "https://ravok.buzz/cdn/hls/2fece358b16b403cbc9782d52661cf11/master.m3u8?md5=va0X4AZ4T9yPK-SqzjdUFA&expires=1792165925",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/9kYQBheDuPPiO-8ETG1xY5AZySNJvvZ9HbK4uiUdrY_vywTm6NpglPDsD3SNxGGr4xFqnrOWyIZ7zUQcdydTeQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "UGko8CsbKO"
+        }
+      },
+      "fetched_at": "2026-10-16T13:52:15Z"
+    },
+    {
+      "id": "episode/yowayowa-sensei-1x4",
+      "episode_id": "episode/yowayowa-sensei-1x4",
+      "title": "Yowayowa Sensei 1x1",
+      "episode_name": "Yowayowa Sensei 1x1",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2073_s1e4.webp",
+      "abyssid": "18452",
+      "abyssId": "18452",
+      "playxid": "32b4b94134ad4c54ddbd013ec2564deb",
+      "playXID": "32b4b94134ad4c54ddbd013ec2564deb",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18452",
+        "playXID": "32b4b94134ad4c54ddbd013ec2564deb",
+        "streamId": "18452",
+        "dubPlayerSrc": "/dub-player/t/18452/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=32b4b94134ad4c54ddbd013ec2564deb&abyssId=18452"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18452",
+        "playXID": "32b4b94134ad4c54ddbd013ec2564deb",
+        "streamId": "18452",
+        "dubPlayerSrc": "/dub-player/t/18452/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=32b4b94134ad4c54ddbd013ec2564deb&abyssId=18452"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/18856b47d46e2a7ddf650bdadc3b81e3",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/18856b47d46e2a7ddf650bdadc3b81e3"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18452",
+        "abyssId": "18452",
+        "playXID": "32b4b94134ad4c54ddbd013ec2564deb",
+        "title": "Yowayowa Sensei",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "78oNRc3ST"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "LwyPkpf3F"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/bf94910f03484de3d7b9d3a3cdb63e4f/master.m3u8?md5=ZFhyUtcs-CzE3IGJ228hNQ&expires=1792165925",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/bf94910f03484de3d7b9d3a3cdb63e4f/master.m3u8?md5=ZFhyUtcs-CzE3IGJ228hNQ&expires=1792165925",
+            "videoSource": "https://ravok.buzz/cdn/hls/bf94910f03484de3d7b9d3a3cdb63e4f/master.m3u8?md5=ZFhyUtcs-CzE3IGJ228hNQ&expires=1792165925",
+            "videoImage": "https://as-cdn27.top/p/6JpriCqfOr9DH8q9fGM8GfnpSq149CvtmmbR5iqnts7ULVB7dcyJ7k5fmLeDRG0gvaUyhkPoNUa_RwBvPXLh1g.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "32b4b94134ad4c54ddbd013ec2564deb",
+                "streamUrl": "https://ravok.buzz/cdn/hls/bf94910f03484de3d7b9d3a3cdb63e4f/master.m3u8?md5=ZFhyUtcs-CzE3IGJ228hNQ&expires=1792165925",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/bf94910f03484de3d7b9d3a3cdb63e4f/master.m3u8?md5=ZFhyUtcs-CzE3IGJ228hNQ&expires=1792165925",
+                "videoSource": "https://ravok.buzz/cdn/hls/bf94910f03484de3d7b9d3a3cdb63e4f/master.m3u8?md5=ZFhyUtcs-CzE3IGJ228hNQ&expires=1792165925",
+                "link": "https://ravok.buzz/cdn/hls/bf94910f03484de3d7b9d3a3cdb63e4f/master.m3u8?md5=ZFhyUtcs-CzE3IGJ228hNQ&expires=1792165925",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/6JpriCqfOr9DH8q9fGM8GfnpSq149CvtmmbR5iqnts7ULVB7dcyJ7k5fmLeDRG0gvaUyhkPoNUa_RwBvPXLh1g.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "78oNRc3ST"
+        }
+      },
+      "fetched_at": "2026-10-16T13:52:15Z"
+    },
+    {
+      "id": "episode/yowayowa-sensei-1x8",
+      "episode_id": "episode/yowayowa-sensei-1x8",
+      "title": "Yowayowa Sensei 1x1",
+      "episode_name": "Yowayowa Sensei 1x1",
+      "episode_number": 8,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2073_s1e8.webp",
+      "abyssid": "18740",
+      "abyssId": "18740",
+      "playxid": "d6cc54c4be2b2fba33e2d212ce90c2fd",
+      "playXID": "d6cc54c4be2b2fba33e2d212ce90c2fd",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18740",
+        "playXID": "d6cc54c4be2b2fba33e2d212ce90c2fd",
+        "streamId": "18740",
+        "dubPlayerSrc": "/dub-player/t/18740/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d6cc54c4be2b2fba33e2d212ce90c2fd&abyssId=18740"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18740",
+        "playXID": "d6cc54c4be2b2fba33e2d212ce90c2fd",
+        "streamId": "18740",
+        "dubPlayerSrc": "/dub-player/t/18740/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d6cc54c4be2b2fba33e2d212ce90c2fd&abyssId=18740"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/4717c244331eb475a42e5f58945e945c",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/4717c244331eb475a42e5f58945e945c"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18740",
+        "abyssId": "18740",
+        "playXID": "d6cc54c4be2b2fba33e2d212ce90c2fd",
+        "title": "Yowayowa Sensei",
+        "season": 1,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "3rE-usYhj"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "pmkD4uAX9"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/51c917b276c143936ece887214230928/master.m3u8?md5=U4yq3pSZlz5MWCpyS7OQjA&expires=1792165925",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/51c917b276c143936ece887214230928/master.m3u8?md5=U4yq3pSZlz5MWCpyS7OQjA&expires=1792165925",
+            "videoSource": "https://ravok.buzz/cdn/hls/51c917b276c143936ece887214230928/master.m3u8?md5=U4yq3pSZlz5MWCpyS7OQjA&expires=1792165925",
+            "videoImage": "https://as-cdn30.top/p/LyvFboOMRjws6O7PPgEo8KUz0GhEVexpv4SZlx2KzC4EuuwxXsM5udAkKMfrPBTPE7G7WLsr9iq04K6mIoKE1w.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "d6cc54c4be2b2fba33e2d212ce90c2fd",
+                "streamUrl": "https://ravok.buzz/cdn/hls/51c917b276c143936ece887214230928/master.m3u8?md5=U4yq3pSZlz5MWCpyS7OQjA&expires=1792165925",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/51c917b276c143936ece887214230928/master.m3u8?md5=U4yq3pSZlz5MWCpyS7OQjA&expires=1792165925",
+                "videoSource": "https://ravok.buzz/cdn/hls/51c917b276c143936ece887214230928/master.m3u8?md5=U4yq3pSZlz5MWCpyS7OQjA&expires=1792165925",
+                "link": "https://ravok.buzz/cdn/hls/51c917b276c143936ece887214230928/master.m3u8?md5=U4yq3pSZlz5MWCpyS7OQjA&expires=1792165925",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/LyvFboOMRjws6O7PPgEo8KUz0GhEVexpv4SZlx2KzC4EuuwxXsM5udAkKMfrPBTPE7G7WLsr9iq04K6mIoKE1w.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "3rE-usYhj"
+        }
+      },
+      "fetched_at": "2026-10-16T13:52:15Z"
+    },
+    {
+      "id": "episode/yowayowa-sensei-1x9",
+      "episode_id": "episode/yowayowa-sensei-1x9",
+      "title": "Yowayowa Sensei 1x1",
+      "episode_name": "Yowayowa Sensei 1x1",
+      "episode_number": 9,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2073_s1e9.webp",
+      "abyssid": "18774",
+      "abyssId": "18774",
+      "playxid": "6547489ef6174ae02b6d87ee775b3950",
+      "playXID": "6547489ef6174ae02b6d87ee775b3950",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18774",
+        "playXID": "6547489ef6174ae02b6d87ee775b3950",
+        "streamId": "18774",
+        "dubPlayerSrc": "/dub-player/t/18774/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6547489ef6174ae02b6d87ee775b3950&abyssId=18774"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18774",
+        "playXID": "6547489ef6174ae02b6d87ee775b3950",
+        "streamId": "18774",
+        "dubPlayerSrc": "/dub-player/t/18774/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6547489ef6174ae02b6d87ee775b3950&abyssId=18774"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/985e6ec4d9a58573df0f94a372dca9d5",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/985e6ec4d9a58573df0f94a372dca9d5"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18774",
+        "abyssId": "18774",
+        "playXID": "6547489ef6174ae02b6d87ee775b3950",
+        "title": "Yowayowa Sensei",
+        "season": 1,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "6gd7ATn3m"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "-XURKlsSo"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/37e7bd6f7211b1df12cabf8506f2e9fa/master.m3u8?md5=NVfnzJhIb8gm92Puo0X5UQ&expires=1792165926",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/37e7bd6f7211b1df12cabf8506f2e9fa/master.m3u8?md5=NVfnzJhIb8gm92Puo0X5UQ&expires=1792165926",
+            "videoSource": "https://ravok.buzz/cdn/hls/37e7bd6f7211b1df12cabf8506f2e9fa/master.m3u8?md5=NVfnzJhIb8gm92Puo0X5UQ&expires=1792165926",
+            "videoImage": "https://as-cdn28.top/p/lsOa90fHl3YekbiqTRsfN_TWXTR8HVS8x56JBp5ishXF6YMcX7jZbtuxBSICQN-B4zU_lVAViQnC41kurzlJPA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "6547489ef6174ae02b6d87ee775b3950",
+                "streamUrl": "https://ravok.buzz/cdn/hls/37e7bd6f7211b1df12cabf8506f2e9fa/master.m3u8?md5=NVfnzJhIb8gm92Puo0X5UQ&expires=1792165926",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/37e7bd6f7211b1df12cabf8506f2e9fa/master.m3u8?md5=NVfnzJhIb8gm92Puo0X5UQ&expires=1792165926",
+                "videoSource": "https://ravok.buzz/cdn/hls/37e7bd6f7211b1df12cabf8506f2e9fa/master.m3u8?md5=NVfnzJhIb8gm92Puo0X5UQ&expires=1792165926",
+                "link": "https://ravok.buzz/cdn/hls/37e7bd6f7211b1df12cabf8506f2e9fa/master.m3u8?md5=NVfnzJhIb8gm92Puo0X5UQ&expires=1792165926",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/lsOa90fHl3YekbiqTRsfN_TWXTR8HVS8x56JBp5ishXF6YMcX7jZbtuxBSICQN-B4zU_lVAViQnC41kurzlJPA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "6gd7ATn3m"
+        }
+      },
+      "fetched_at": "2026-10-16T13:52:16Z"
+    },
+    {
+      "id": "episode/yowayowa-sensei-1x10",
+      "episode_id": "episode/yowayowa-sensei-1x10",
+      "title": "Yowayowa Sensei 1x1",
+      "episode_name": "Yowayowa Sensei 1x1",
+      "episode_number": 10,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2073_s1e10.webp",
+      "abyssid": null,
+      "abyssId": null,
+      "playxid": "e103d1ed1d6c41b0f098ff377dde2966",
+      "playXID": "e103d1ed1d6c41b0f098ff377dde2966",
+      "stream_info": {
+        "hasDubPlayer": false,
+        "abyssId": null,
+        "playXID": "e103d1ed1d6c41b0f098ff377dde2966",
+        "streamId": null,
+        "dubPlayerSrc": null,
+        "message": "No episode sources found",
+        "serversEndpoint": "/stream/servers/?playXID=e103d1ed1d6c41b0f098ff377dde2966"
+      },
+      "streamInfo": {
+        "hasDubPlayer": false,
+        "abyssId": null,
+        "playXID": "e103d1ed1d6c41b0f098ff377dde2966",
+        "streamId": null,
+        "dubPlayerSrc": null,
+        "message": "No episode sources found",
+        "serversEndpoint": "/stream/servers/?playXID=e103d1ed1d6c41b0f098ff377dde2966"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/154860e7d6c1a90ff1fd9f6c8b209054",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/154860e7d6c1a90ff1fd9f6c8b209054"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "e103d1ed1d6c41b0f098ff377dde2966",
+        "abyssId": null,
+        "playXID": "e103d1ed1d6c41b0f098ff377dde2966",
+        "title": "Episode Stream",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/f3644aa00478b7f364cbf6d9aab71a95/master.m3u8?md5=RbmPlKDSSJheEc6FPIGmVQ&expires=1792165927",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/f3644aa00478b7f364cbf6d9aab71a95/master.m3u8?md5=RbmPlKDSSJheEc6FPIGmVQ&expires=1792165927",
+            "videoSource": "https://ravok.buzz/cdn/hls/f3644aa00478b7f364cbf6d9aab71a95/master.m3u8?md5=RbmPlKDSSJheEc6FPIGmVQ&expires=1792165927",
+            "videoImage": "https://as-cdn29.top/p/rPfb4ipeFAAeaSsVYTgBXbfFqFpXoGt4OGF7D0RkXe-wRT1ONJ9PU4KYQ2lf0Px6y6U4-YgnFpU7CGazFrJDsQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "e103d1ed1d6c41b0f098ff377dde2966",
+                "streamUrl": "https://ravok.buzz/cdn/hls/f3644aa00478b7f364cbf6d9aab71a95/master.m3u8?md5=RbmPlKDSSJheEc6FPIGmVQ&expires=1792165927",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/f3644aa00478b7f364cbf6d9aab71a95/master.m3u8?md5=RbmPlKDSSJheEc6FPIGmVQ&expires=1792165927",
+                "videoSource": "https://ravok.buzz/cdn/hls/f3644aa00478b7f364cbf6d9aab71a95/master.m3u8?md5=RbmPlKDSSJheEc6FPIGmVQ&expires=1792165927",
+                "link": "https://ravok.buzz/cdn/hls/f3644aa00478b7f364cbf6d9aab71a95/master.m3u8?md5=RbmPlKDSSJheEc6FPIGmVQ&expires=1792165927",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/rPfb4ipeFAAeaSsVYTgBXbfFqFpXoGt4OGF7D0RkXe-wRT1ONJ9PU4KYQ2lf0Px6y6U4-YgnFpU7CGazFrJDsQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "playx",
+          "language": "multi",
+          "video_id": "e103d1ed1d6c41b0f098ff377dde2966",
+          "streamUrl": "https://ravok.buzz/cdn/hls/f3644aa00478b7f364cbf6d9aab71a95/master.m3u8?md5=RbmPlKDSSJheEc6FPIGmVQ&expires=1792165927"
+        }
+      },
+      "fetched_at": "2026-10-16T13:52:17Z"
+    },
+    {
+      "id": "episode/yowayowa-sensei-1x11",
+      "episode_id": "episode/yowayowa-sensei-1x11",
+      "title": "Yowayowa Sensei 1x1",
+      "episode_name": "Yowayowa Sensei 1x1",
+      "episode_number": 11,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2073_s1e11.webp",
+      "abyssid": null,
+      "abyssId": null,
+      "playxid": "f0b77be6bb9550347d8763f2518cb312",
+      "playXID": "f0b77be6bb9550347d8763f2518cb312",
+      "stream_info": {
+        "hasDubPlayer": false,
+        "abyssId": null,
+        "playXID": "f0b77be6bb9550347d8763f2518cb312",
+        "streamId": null,
+        "dubPlayerSrc": null,
+        "message": "No episode sources found",
+        "serversEndpoint": "/stream/servers/?playXID=f0b77be6bb9550347d8763f2518cb312"
+      },
+      "streamInfo": {
+        "hasDubPlayer": false,
+        "abyssId": null,
+        "playXID": "f0b77be6bb9550347d8763f2518cb312",
+        "streamId": null,
+        "dubPlayerSrc": null,
+        "message": "No episode sources found",
+        "serversEndpoint": "/stream/servers/?playXID=f0b77be6bb9550347d8763f2518cb312"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/b877c34c37d3ab54dcabe110b6a67214",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/b877c34c37d3ab54dcabe110b6a67214"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "f0b77be6bb9550347d8763f2518cb312",
+        "abyssId": null,
+        "playXID": "f0b77be6bb9550347d8763f2518cb312",
+        "title": "Episode Stream",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/87201e8b156746a5d4f7a1a4c8d82980/master.m3u8?md5=EGxN7gzNOfqe5JV2ta_QPw&expires=1792165927",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/87201e8b156746a5d4f7a1a4c8d82980/master.m3u8?md5=EGxN7gzNOfqe5JV2ta_QPw&expires=1792165927",
+            "videoSource": "https://ravok.buzz/cdn/hls/87201e8b156746a5d4f7a1a4c8d82980/master.m3u8?md5=EGxN7gzNOfqe5JV2ta_QPw&expires=1792165927",
+            "videoImage": "https://as-cdn31.top/p/fu3_glyaFvSsCfEaI0lMYUuD7pJUOrfELKpb2Wloo0fLaLolOwmW109akXOE4GUBaMI1JFG1n0MzMH9M705lyw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "f0b77be6bb9550347d8763f2518cb312",
+                "streamUrl": "https://ravok.buzz/cdn/hls/87201e8b156746a5d4f7a1a4c8d82980/master.m3u8?md5=EGxN7gzNOfqe5JV2ta_QPw&expires=1792165927",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/87201e8b156746a5d4f7a1a4c8d82980/master.m3u8?md5=EGxN7gzNOfqe5JV2ta_QPw&expires=1792165927",
+                "videoSource": "https://ravok.buzz/cdn/hls/87201e8b156746a5d4f7a1a4c8d82980/master.m3u8?md5=EGxN7gzNOfqe5JV2ta_QPw&expires=1792165927",
+                "link": "https://ravok.buzz/cdn/hls/87201e8b156746a5d4f7a1a4c8d82980/master.m3u8?md5=EGxN7gzNOfqe5JV2ta_QPw&expires=1792165927",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/fu3_glyaFvSsCfEaI0lMYUuD7pJUOrfELKpb2Wloo0fLaLolOwmW109akXOE4GUBaMI1JFG1n0MzMH9M705lyw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "playx",
+          "language": "multi",
+          "video_id": "f0b77be6bb9550347d8763f2518cb312",
+          "streamUrl": "https://ravok.buzz/cdn/hls/87201e8b156746a5d4f7a1a4c8d82980/master.m3u8?md5=EGxN7gzNOfqe5JV2ta_QPw&expires=1792165927"
+        }
+      },
+      "fetched_at": "2026-10-16T13:52:17Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T13:52:11Z",
+  "updated_at": "2026-10-16T13:52:17Z"
+}

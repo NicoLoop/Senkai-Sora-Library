@@ -1,0 +1,1171 @@
+{
+  "id": "series/tamons-b-side",
+  "series_name": "Tamon's B-Side",
+  "title": "Tamon's B-Side",
+  "banner": "https://image.tmdb.org/t/p/w1280/bj1TPffyPj6WtKSIrq8hYiZS3Qe.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/1iTCxEIK1xlmIXjHcLjt0UyOU8w.jpg",
+  "genra": [
+    "Comedy",
+    "Romance"
+  ],
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Japanese"
+  ],
+  "synopsis": "Utage Kinoshita is a high school girl who works part-time as a housekeeper. She has devoted her life to her favorite idol, Tamon Fukuhara, from the group F/ACE. Then one day, Utage ends up being assigned to Tamon’s house! There she discovers that off-stage, he is nothing like his wild idol persona. A gloomy, introverted boy with no self-confidence, Utage still finds herself falling for him anyway.",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 11,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 11,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Tamon's B-Side 1x1",
+          "id": "episode/tamons-b-side-1x1",
+          "image": "https://img.watchanimeworld.one/img/thumb_2078_s1e1.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "Tamon's B-Side 1x2",
+          "id": "episode/tamons-b-side-1x2",
+          "image": "https://img.watchanimeworld.one/img/thumb_2078_s1e2.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "Tamon's B-Side 1x3",
+          "id": "episode/tamons-b-side-1x3",
+          "image": "https://img.watchanimeworld.one/img/thumb_2078_s1e3.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "Tamon's B-Side 1x4",
+          "id": "episode/tamons-b-side-1x4",
+          "image": "https://img.watchanimeworld.one/img/thumb_2078_s1e4.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "Tamon's B-Side 1x5",
+          "id": "episode/tamons-b-side-1x5",
+          "image": "https://img.watchanimeworld.one/img/thumb_2078_s1e5.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "Tamon's B-Side 1x6",
+          "id": "episode/tamons-b-side-1x6",
+          "image": "https://img.watchanimeworld.one/img/thumb_2078_s1e6.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "Tamon's B-Side 1x7",
+          "id": "episode/tamons-b-side-1x7",
+          "image": "https://img.watchanimeworld.one/img/thumb_2078_s1e7.webp",
+          "season": 1
+        },
+        {
+          "episode": 8,
+          "title": "Tamon's B-Side 1x8",
+          "id": "episode/tamons-b-side-1x8",
+          "image": "https://img.watchanimeworld.one/img/thumb_2078_s1e8.webp",
+          "season": 1
+        },
+        {
+          "episode": 9,
+          "title": "Tamon's B-Side 1x9",
+          "id": "episode/tamons-b-side-1x9",
+          "image": "https://img.watchanimeworld.one/img/thumb_2078_s1e9.webp",
+          "season": 1
+        },
+        {
+          "episode": 10,
+          "title": "Tamon's B-Side 1x10",
+          "id": "episode/tamons-b-side-1x10",
+          "image": "https://img.watchanimeworld.one/img/thumb_2078_s1e10.webp",
+          "season": 1
+        },
+        {
+          "episode": 11,
+          "title": "Tamon's B-Side 1x11",
+          "id": "episode/tamons-b-side-1x11",
+          "image": "https://img.watchanimeworld.one/img/thumb_2078_s1e11.webp",
+          "season": 1
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/tamons-b-side-1x1",
+      "episode_id": "episode/tamons-b-side-1x1",
+      "title": "Tamon's B-Side 1x1",
+      "episode_name": "Tamon's B-Side 1x1",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2078_s1e1.webp",
+      "abyssid": "18437",
+      "abyssId": "18437",
+      "playxid": "87be96790ea277c50f980ce4df0b4412",
+      "playXID": "87be96790ea277c50f980ce4df0b4412",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18437",
+        "playXID": "87be96790ea277c50f980ce4df0b4412",
+        "streamId": "18437",
+        "dubPlayerSrc": "/dub-player/t/18437/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=87be96790ea277c50f980ce4df0b4412&abyssId=18437"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18437",
+        "playXID": "87be96790ea277c50f980ce4df0b4412",
+        "streamId": "18437",
+        "dubPlayerSrc": "/dub-player/t/18437/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=87be96790ea277c50f980ce4df0b4412&abyssId=18437"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/043c00e6c7ff021e8cc4d394d3264cb5",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/043c00e6c7ff021e8cc4d394d3264cb5"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18437",
+        "abyssId": "18437",
+        "playXID": "87be96790ea277c50f980ce4df0b4412",
+        "title": "Tamon's B-Side",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "fAyVDjHPj"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "rSfyyYdAb"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "qI6S13QLZ"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/4bfa6608a9bb67123f4a3a6954d98572/master.m3u8?md5=wQa0Cj4yD8gLOvGYkGt5mg&expires=1792165917",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/4bfa6608a9bb67123f4a3a6954d98572/master.m3u8?md5=wQa0Cj4yD8gLOvGYkGt5mg&expires=1792165917",
+            "videoSource": "https://ravok.buzz/cdn/hls/4bfa6608a9bb67123f4a3a6954d98572/master.m3u8?md5=wQa0Cj4yD8gLOvGYkGt5mg&expires=1792165917",
+            "videoImage": "https://as-cdn31.top/p/5Q26UzeCrIkUjWzsFJMNtlvNJtEpbq0XnUUh51UydjD2ZuSRdT7dqwHgOsTLHq6NZzrC0rkGI8-8WwGT3n-dsA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "87be96790ea277c50f980ce4df0b4412",
+                "streamUrl": "https://ravok.buzz/cdn/hls/4bfa6608a9bb67123f4a3a6954d98572/master.m3u8?md5=wQa0Cj4yD8gLOvGYkGt5mg&expires=1792165917",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/4bfa6608a9bb67123f4a3a6954d98572/master.m3u8?md5=wQa0Cj4yD8gLOvGYkGt5mg&expires=1792165917",
+                "videoSource": "https://ravok.buzz/cdn/hls/4bfa6608a9bb67123f4a3a6954d98572/master.m3u8?md5=wQa0Cj4yD8gLOvGYkGt5mg&expires=1792165917",
+                "link": "https://ravok.buzz/cdn/hls/4bfa6608a9bb67123f4a3a6954d98572/master.m3u8?md5=wQa0Cj4yD8gLOvGYkGt5mg&expires=1792165917",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/5Q26UzeCrIkUjWzsFJMNtlvNJtEpbq0XnUUh51UydjD2ZuSRdT7dqwHgOsTLHq6NZzrC0rkGI8-8WwGT3n-dsA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "fAyVDjHPj"
+        }
+      },
+      "fetched_at": "2026-10-16T13:52:07Z"
+    },
+    {
+      "id": "episode/tamons-b-side-1x4",
+      "episode_id": "episode/tamons-b-side-1x4",
+      "title": "Tamon's B-Side 1x1",
+      "episode_name": "Tamon's B-Side 1x1",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2078_s1e4.webp",
+      "abyssid": "18440",
+      "abyssId": "18440",
+      "playxid": "19873725ed76e249281f495eb7d547ac",
+      "playXID": "19873725ed76e249281f495eb7d547ac",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18440",
+        "playXID": "19873725ed76e249281f495eb7d547ac",
+        "streamId": "18440",
+        "dubPlayerSrc": "/dub-player/t/18440/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=19873725ed76e249281f495eb7d547ac&abyssId=18440"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18440",
+        "playXID": "19873725ed76e249281f495eb7d547ac",
+        "streamId": "18440",
+        "dubPlayerSrc": "/dub-player/t/18440/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=19873725ed76e249281f495eb7d547ac&abyssId=18440"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/4537a9e98e90f416dadaedd65c416843",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/4537a9e98e90f416dadaedd65c416843"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18440",
+        "abyssId": "18440",
+        "playXID": "19873725ed76e249281f495eb7d547ac",
+        "title": "Tamon's B-Side",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "NJX8FvWKk"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "hxh58iYSg"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "noEwDbICM"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/106be62d68c6102aeaf394a08e17e7b9/master.m3u8?md5=nJq1uSLoFp_u-XfpRmJAGw&expires=1792165917",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/106be62d68c6102aeaf394a08e17e7b9/master.m3u8?md5=nJq1uSLoFp_u-XfpRmJAGw&expires=1792165917",
+            "videoSource": "https://ravok.buzz/cdn/hls/106be62d68c6102aeaf394a08e17e7b9/master.m3u8?md5=nJq1uSLoFp_u-XfpRmJAGw&expires=1792165917",
+            "videoImage": "https://as-cdn29.top/p/nisYwV_nl-996BubVT-_9qgk2p9GYGaqF6tG8kCvCSzcmg0sa6I2CNjxtGaFEhq1EZmBU91E_pLBAjCj5Vi6jg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "19873725ed76e249281f495eb7d547ac",
+                "streamUrl": "https://ravok.buzz/cdn/hls/106be62d68c6102aeaf394a08e17e7b9/master.m3u8?md5=nJq1uSLoFp_u-XfpRmJAGw&expires=1792165917",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/106be62d68c6102aeaf394a08e17e7b9/master.m3u8?md5=nJq1uSLoFp_u-XfpRmJAGw&expires=1792165917",
+                "videoSource": "https://ravok.buzz/cdn/hls/106be62d68c6102aeaf394a08e17e7b9/master.m3u8?md5=nJq1uSLoFp_u-XfpRmJAGw&expires=1792165917",
+                "link": "https://ravok.buzz/cdn/hls/106be62d68c6102aeaf394a08e17e7b9/master.m3u8?md5=nJq1uSLoFp_u-XfpRmJAGw&expires=1792165917",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/nisYwV_nl-996BubVT-_9qgk2p9GYGaqF6tG8kCvCSzcmg0sa6I2CNjxtGaFEhq1EZmBU91E_pLBAjCj5Vi6jg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "NJX8FvWKk"
+        }
+      },
+      "fetched_at": "2026-10-16T13:52:07Z"
+    },
+    {
+      "id": "episode/tamons-b-side-1x2",
+      "episode_id": "episode/tamons-b-side-1x2",
+      "title": "Tamon's B-Side 1x1",
+      "episode_name": "Tamon's B-Side 1x1",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2078_s1e2.webp",
+      "abyssid": "18438",
+      "abyssId": "18438",
+      "playxid": "e62f08e80dc2abefd52476b25ca29cee",
+      "playXID": "e62f08e80dc2abefd52476b25ca29cee",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18438",
+        "playXID": "e62f08e80dc2abefd52476b25ca29cee",
+        "streamId": "18438",
+        "dubPlayerSrc": "/dub-player/t/18438/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e62f08e80dc2abefd52476b25ca29cee&abyssId=18438"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18438",
+        "playXID": "e62f08e80dc2abefd52476b25ca29cee",
+        "streamId": "18438",
+        "dubPlayerSrc": "/dub-player/t/18438/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e62f08e80dc2abefd52476b25ca29cee&abyssId=18438"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/0d6d4579fd82b21026c44e6910669fcf",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/0d6d4579fd82b21026c44e6910669fcf"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18438",
+        "abyssId": "18438",
+        "playXID": "e62f08e80dc2abefd52476b25ca29cee",
+        "title": "Tamon's B-Side",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "ogSYyJkZX"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "MEAZIbDuC"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "OQVJFrA5w"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/021e9d1c6fe27a140c921ae53e8f67f1/master.m3u8?md5=7NF7YoTR-d8WIzm7lvL_oA&expires=1792165917",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/021e9d1c6fe27a140c921ae53e8f67f1/master.m3u8?md5=7NF7YoTR-d8WIzm7lvL_oA&expires=1792165917",
+            "videoSource": "https://ravok.buzz/cdn/hls/021e9d1c6fe27a140c921ae53e8f67f1/master.m3u8?md5=7NF7YoTR-d8WIzm7lvL_oA&expires=1792165917",
+            "videoImage": "https://as-cdn30.top/p/tKvd2Lqbes-I8f3feWcqrT4vtxkfrMfudUanWHrp2rqalV4H57iLYJpG-v-vhek_xcGKWMJOsvdXKVzGAi2bpA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "e62f08e80dc2abefd52476b25ca29cee",
+                "streamUrl": "https://ravok.buzz/cdn/hls/021e9d1c6fe27a140c921ae53e8f67f1/master.m3u8?md5=7NF7YoTR-d8WIzm7lvL_oA&expires=1792165917",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/021e9d1c6fe27a140c921ae53e8f67f1/master.m3u8?md5=7NF7YoTR-d8WIzm7lvL_oA&expires=1792165917",
+                "videoSource": "https://ravok.buzz/cdn/hls/021e9d1c6fe27a140c921ae53e8f67f1/master.m3u8?md5=7NF7YoTR-d8WIzm7lvL_oA&expires=1792165917",
+                "link": "https://ravok.buzz/cdn/hls/021e9d1c6fe27a140c921ae53e8f67f1/master.m3u8?md5=7NF7YoTR-d8WIzm7lvL_oA&expires=1792165917",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/tKvd2Lqbes-I8f3feWcqrT4vtxkfrMfudUanWHrp2rqalV4H57iLYJpG-v-vhek_xcGKWMJOsvdXKVzGAi2bpA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "ogSYyJkZX"
+        }
+      },
+      "fetched_at": "2026-10-16T13:52:07Z"
+    },
+    {
+      "id": "episode/tamons-b-side-1x5",
+      "episode_id": "episode/tamons-b-side-1x5",
+      "title": "Tamon's B-Side 1x1",
+      "episode_name": "Tamon's B-Side 1x1",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2078_s1e5.webp",
+      "abyssid": "18506",
+      "abyssId": "18506",
+      "playxid": "9fa6e27bc99c0b69a035721498cc4710",
+      "playXID": "9fa6e27bc99c0b69a035721498cc4710",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18506",
+        "playXID": "9fa6e27bc99c0b69a035721498cc4710",
+        "streamId": "18506",
+        "dubPlayerSrc": "/dub-player/t/18506/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9fa6e27bc99c0b69a035721498cc4710&abyssId=18506"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18506",
+        "playXID": "9fa6e27bc99c0b69a035721498cc4710",
+        "streamId": "18506",
+        "dubPlayerSrc": "/dub-player/t/18506/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9fa6e27bc99c0b69a035721498cc4710&abyssId=18506"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/a4567880c61cb00693665491b5c356a3",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/a4567880c61cb00693665491b5c356a3"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18506",
+        "abyssId": "18506",
+        "playXID": "9fa6e27bc99c0b69a035721498cc4710",
+        "title": "Tamon's B-Side",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "5aRuScAY8"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "_AH1Sjdd9"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "nnX0mlUU1"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/2fb83c43ab2bb7fd4cd40f42b7e420cb/master.m3u8?md5=-JOwf8FHaqB8ap6MpFHN7w&expires=1792165918",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/2fb83c43ab2bb7fd4cd40f42b7e420cb/master.m3u8?md5=-JOwf8FHaqB8ap6MpFHN7w&expires=1792165918",
+            "videoSource": "https://ravok.buzz/cdn/hls/2fb83c43ab2bb7fd4cd40f42b7e420cb/master.m3u8?md5=-JOwf8FHaqB8ap6MpFHN7w&expires=1792165918",
+            "videoImage": "https://as-cdn27.top/p/hzNdJPIsI4RqBSM3gz7e2ExA8NT7qAuxRifTuz_YP0qMMEP2ycYrV5Vixiil81ev4JJR5RkN6zg_TqhoZFEKBg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "9fa6e27bc99c0b69a035721498cc4710",
+                "streamUrl": "https://ravok.buzz/cdn/hls/2fb83c43ab2bb7fd4cd40f42b7e420cb/master.m3u8?md5=-JOwf8FHaqB8ap6MpFHN7w&expires=1792165918",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/2fb83c43ab2bb7fd4cd40f42b7e420cb/master.m3u8?md5=-JOwf8FHaqB8ap6MpFHN7w&expires=1792165918",
+                "videoSource": "https://ravok.buzz/cdn/hls/2fb83c43ab2bb7fd4cd40f42b7e420cb/master.m3u8?md5=-JOwf8FHaqB8ap6MpFHN7w&expires=1792165918",
+                "link": "https://ravok.buzz/cdn/hls/2fb83c43ab2bb7fd4cd40f42b7e420cb/master.m3u8?md5=-JOwf8FHaqB8ap6MpFHN7w&expires=1792165918",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/hzNdJPIsI4RqBSM3gz7e2ExA8NT7qAuxRifTuz_YP0qMMEP2ycYrV5Vixiil81ev4JJR5RkN6zg_TqhoZFEKBg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "5aRuScAY8"
+        }
+      },
+      "fetched_at": "2026-10-16T13:52:08Z"
+    },
+    {
+      "id": "episode/tamons-b-side-1x3",
+      "episode_id": "episode/tamons-b-side-1x3",
+      "title": "Tamon's B-Side 1x1",
+      "episode_name": "Tamon's B-Side 1x1",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2078_s1e3.webp",
+      "abyssid": "18439",
+      "abyssId": "18439",
+      "playxid": "13ac6fa08d39e7879e9962ffdabe7502",
+      "playXID": "13ac6fa08d39e7879e9962ffdabe7502",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18439",
+        "playXID": "13ac6fa08d39e7879e9962ffdabe7502",
+        "streamId": "18439",
+        "dubPlayerSrc": "/dub-player/t/18439/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=13ac6fa08d39e7879e9962ffdabe7502&abyssId=18439"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18439",
+        "playXID": "13ac6fa08d39e7879e9962ffdabe7502",
+        "streamId": "18439",
+        "dubPlayerSrc": "/dub-player/t/18439/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=13ac6fa08d39e7879e9962ffdabe7502&abyssId=18439"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/eb7c1eabb2baa803f2635d2ba4792d3f",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/eb7c1eabb2baa803f2635d2ba4792d3f"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18439",
+        "abyssId": "18439",
+        "playXID": "13ac6fa08d39e7879e9962ffdabe7502",
+        "title": "Tamon's B-Side",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "Mg7RIrHrK"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "veX4KrAec"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "FLYF8bS3SW"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/38542b56b6b7ce704c8bfcc1258f025c/master.m3u8?md5=Kh-YYMkwik0SK03ufikJIQ&expires=1792165918",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/38542b56b6b7ce704c8bfcc1258f025c/master.m3u8?md5=Kh-YYMkwik0SK03ufikJIQ&expires=1792165918",
+            "videoSource": "https://ravok.buzz/cdn/hls/38542b56b6b7ce704c8bfcc1258f025c/master.m3u8?md5=Kh-YYMkwik0SK03ufikJIQ&expires=1792165918",
+            "videoImage": "https://as-cdn28.top/p/pUAGszvWDx32lPVN2s87vrNIO7AEs1oilh6cEHNR6lJWbmI6TGHiVIFfNGP537Spouz9AFgNSue1ytXhJVSwlw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "13ac6fa08d39e7879e9962ffdabe7502",
+                "streamUrl": "https://ravok.buzz/cdn/hls/38542b56b6b7ce704c8bfcc1258f025c/master.m3u8?md5=Kh-YYMkwik0SK03ufikJIQ&expires=1792165918",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/38542b56b6b7ce704c8bfcc1258f025c/master.m3u8?md5=Kh-YYMkwik0SK03ufikJIQ&expires=1792165918",
+                "videoSource": "https://ravok.buzz/cdn/hls/38542b56b6b7ce704c8bfcc1258f025c/master.m3u8?md5=Kh-YYMkwik0SK03ufikJIQ&expires=1792165918",
+                "link": "https://ravok.buzz/cdn/hls/38542b56b6b7ce704c8bfcc1258f025c/master.m3u8?md5=Kh-YYMkwik0SK03ufikJIQ&expires=1792165918",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/pUAGszvWDx32lPVN2s87vrNIO7AEs1oilh6cEHNR6lJWbmI6TGHiVIFfNGP537Spouz9AFgNSue1ytXhJVSwlw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "Mg7RIrHrK"
+        }
+      },
+      "fetched_at": "2026-10-16T13:52:08Z"
+    },
+    {
+      "id": "episode/tamons-b-side-1x8",
+      "episode_id": "episode/tamons-b-side-1x8",
+      "title": "Tamon's B-Side 1x1",
+      "episode_name": "Tamon's B-Side 1x1",
+      "episode_number": 8,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2078_s1e8.webp",
+      "abyssid": "18738",
+      "abyssId": "18738",
+      "playxid": "f2935c67f1ed6bc5c498c86262d113c3",
+      "playXID": "f2935c67f1ed6bc5c498c86262d113c3",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18738",
+        "playXID": "f2935c67f1ed6bc5c498c86262d113c3",
+        "streamId": "18738",
+        "dubPlayerSrc": "/dub-player/t/18738/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f2935c67f1ed6bc5c498c86262d113c3&abyssId=18738"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18738",
+        "playXID": "f2935c67f1ed6bc5c498c86262d113c3",
+        "streamId": "18738",
+        "dubPlayerSrc": "/dub-player/t/18738/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f2935c67f1ed6bc5c498c86262d113c3&abyssId=18738"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/dcbe4be7606b574be9a50c64ffbe5254",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/dcbe4be7606b574be9a50c64ffbe5254"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18738",
+        "abyssId": "18738",
+        "playXID": "f2935c67f1ed6bc5c498c86262d113c3",
+        "title": "Tamon's B-Side",
+        "season": 1,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "clNtyhQLn"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "1yFL15lGw"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "oP4rDfoZ5"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/298e8547f1713072ea9a6bf7f73d31af/master.m3u8?md5=yGrOtWnzYn74Foyq7CBdmw&expires=1792165919",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/298e8547f1713072ea9a6bf7f73d31af/master.m3u8?md5=yGrOtWnzYn74Foyq7CBdmw&expires=1792165919",
+            "videoSource": "https://ravok.buzz/cdn/hls/298e8547f1713072ea9a6bf7f73d31af/master.m3u8?md5=yGrOtWnzYn74Foyq7CBdmw&expires=1792165919",
+            "videoImage": "https://as-cdn29.top/p/Z7uGJwyfGMgSgqooTbMaYFnK3Daj9ORw6WkyWnQJUv48JBAYembP0F0yD2kv08L_yIYR-9zh6PXRNhr35jfV5w.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "f2935c67f1ed6bc5c498c86262d113c3",
+                "streamUrl": "https://ravok.buzz/cdn/hls/298e8547f1713072ea9a6bf7f73d31af/master.m3u8?md5=yGrOtWnzYn74Foyq7CBdmw&expires=1792165919",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/298e8547f1713072ea9a6bf7f73d31af/master.m3u8?md5=yGrOtWnzYn74Foyq7CBdmw&expires=1792165919",
+                "videoSource": "https://ravok.buzz/cdn/hls/298e8547f1713072ea9a6bf7f73d31af/master.m3u8?md5=yGrOtWnzYn74Foyq7CBdmw&expires=1792165919",
+                "link": "https://ravok.buzz/cdn/hls/298e8547f1713072ea9a6bf7f73d31af/master.m3u8?md5=yGrOtWnzYn74Foyq7CBdmw&expires=1792165919",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/Z7uGJwyfGMgSgqooTbMaYFnK3Daj9ORw6WkyWnQJUv48JBAYembP0F0yD2kv08L_yIYR-9zh6PXRNhr35jfV5w.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "clNtyhQLn"
+        }
+      },
+      "fetched_at": "2026-10-16T13:52:09Z"
+    },
+    {
+      "id": "episode/tamons-b-side-1x7",
+      "episode_id": "episode/tamons-b-side-1x7",
+      "title": "Tamon's B-Side 1x1",
+      "episode_name": "Tamon's B-Side 1x1",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2078_s1e7.webp",
+      "abyssid": "18685",
+      "abyssId": "18685",
+      "playxid": "bb36e395b063bec9205952807471e86a",
+      "playXID": "bb36e395b063bec9205952807471e86a",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18685",
+        "playXID": "bb36e395b063bec9205952807471e86a",
+        "streamId": "18685",
+        "dubPlayerSrc": "/dub-player/t/18685/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=bb36e395b063bec9205952807471e86a&abyssId=18685"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18685",
+        "playXID": "bb36e395b063bec9205952807471e86a",
+        "streamId": "18685",
+        "dubPlayerSrc": "/dub-player/t/18685/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=bb36e395b063bec9205952807471e86a&abyssId=18685"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/795fa27ba9ab21b61b12e6f27dd5687b",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/795fa27ba9ab21b61b12e6f27dd5687b"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18685",
+        "abyssId": "18685",
+        "playXID": "bb36e395b063bec9205952807471e86a",
+        "title": "Tamon's B-Side",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "CL3iWY3Xa"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "S9t6_c1DV"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "ReRn4Kv7I6"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/7adc52cad0579422f83c0e624c18c292/master.m3u8?md5=4faL2GE6yPQ_8gCHc4KcOg&expires=1792165920",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/7adc52cad0579422f83c0e624c18c292/master.m3u8?md5=4faL2GE6yPQ_8gCHc4KcOg&expires=1792165920",
+            "videoSource": "https://ravok.buzz/cdn/hls/7adc52cad0579422f83c0e624c18c292/master.m3u8?md5=4faL2GE6yPQ_8gCHc4KcOg&expires=1792165920",
+            "videoImage": "https://as-cdn28.top/p/oBJqc11zxFJDzg-PzRIm9f2ORACYc3XItKeNLoOsvpgtnfthgw9PpNDEqUvj3BlvL5vvT3_5npLCCQEIZDE-tQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "bb36e395b063bec9205952807471e86a",
+                "streamUrl": "https://ravok.buzz/cdn/hls/7adc52cad0579422f83c0e624c18c292/master.m3u8?md5=4faL2GE6yPQ_8gCHc4KcOg&expires=1792165920",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/7adc52cad0579422f83c0e624c18c292/master.m3u8?md5=4faL2GE6yPQ_8gCHc4KcOg&expires=1792165920",
+                "videoSource": "https://ravok.buzz/cdn/hls/7adc52cad0579422f83c0e624c18c292/master.m3u8?md5=4faL2GE6yPQ_8gCHc4KcOg&expires=1792165920",
+                "link": "https://ravok.buzz/cdn/hls/7adc52cad0579422f83c0e624c18c292/master.m3u8?md5=4faL2GE6yPQ_8gCHc4KcOg&expires=1792165920",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/oBJqc11zxFJDzg-PzRIm9f2ORACYc3XItKeNLoOsvpgtnfthgw9PpNDEqUvj3BlvL5vvT3_5npLCCQEIZDE-tQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "CL3iWY3Xa"
+        }
+      },
+      "fetched_at": "2026-10-16T13:52:10Z"
+    },
+    {
+      "id": "episode/tamons-b-side-1x9",
+      "episode_id": "episode/tamons-b-side-1x9",
+      "title": "Tamon's B-Side 1x1",
+      "episode_name": "Tamon's B-Side 1x1",
+      "episode_number": 9,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2078_s1e9.webp",
+      "abyssid": null,
+      "abyssId": null,
+      "playxid": "9a1ecce2d381e29ac81279bdae9886bd",
+      "playXID": "9a1ecce2d381e29ac81279bdae9886bd",
+      "stream_info": {
+        "hasDubPlayer": false,
+        "abyssId": null,
+        "playXID": "9a1ecce2d381e29ac81279bdae9886bd",
+        "streamId": null,
+        "dubPlayerSrc": null,
+        "message": "No episode sources found",
+        "serversEndpoint": "/stream/servers/?playXID=9a1ecce2d381e29ac81279bdae9886bd"
+      },
+      "streamInfo": {
+        "hasDubPlayer": false,
+        "abyssId": null,
+        "playXID": "9a1ecce2d381e29ac81279bdae9886bd",
+        "streamId": null,
+        "dubPlayerSrc": null,
+        "message": "No episode sources found",
+        "serversEndpoint": "/stream/servers/?playXID=9a1ecce2d381e29ac81279bdae9886bd"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/e024a97d9de60d7f9ea098651934a7df",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/e024a97d9de60d7f9ea098651934a7df"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "9a1ecce2d381e29ac81279bdae9886bd",
+        "abyssId": null,
+        "playXID": "9a1ecce2d381e29ac81279bdae9886bd",
+        "title": "Episode Stream",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/01f0f92342fca712306588bfb8e82aef/master.m3u8?md5=jVwsfgYfwO4MGk-JyTpyWw&expires=1792165920",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/01f0f92342fca712306588bfb8e82aef/master.m3u8?md5=jVwsfgYfwO4MGk-JyTpyWw&expires=1792165920",
+            "videoSource": "https://ravok.buzz/cdn/hls/01f0f92342fca712306588bfb8e82aef/master.m3u8?md5=jVwsfgYfwO4MGk-JyTpyWw&expires=1792165920",
+            "videoImage": "https://as-cdn27.top/p/toDy49q0XSBb24ll6fiDIsInqDlgeLSpkQtddETxk_ZMFsyG4pwRc2CLF8FGM1Rd8OGcyZmu1BBshOxchXQDaw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "9a1ecce2d381e29ac81279bdae9886bd",
+                "streamUrl": "https://ravok.buzz/cdn/hls/01f0f92342fca712306588bfb8e82aef/master.m3u8?md5=jVwsfgYfwO4MGk-JyTpyWw&expires=1792165920",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/01f0f92342fca712306588bfb8e82aef/master.m3u8?md5=jVwsfgYfwO4MGk-JyTpyWw&expires=1792165920",
+                "videoSource": "https://ravok.buzz/cdn/hls/01f0f92342fca712306588bfb8e82aef/master.m3u8?md5=jVwsfgYfwO4MGk-JyTpyWw&expires=1792165920",
+                "link": "https://ravok.buzz/cdn/hls/01f0f92342fca712306588bfb8e82aef/master.m3u8?md5=jVwsfgYfwO4MGk-JyTpyWw&expires=1792165920",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/toDy49q0XSBb24ll6fiDIsInqDlgeLSpkQtddETxk_ZMFsyG4pwRc2CLF8FGM1Rd8OGcyZmu1BBshOxchXQDaw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "playx",
+          "language": "multi",
+          "video_id": "9a1ecce2d381e29ac81279bdae9886bd",
+          "streamUrl": "https://ravok.buzz/cdn/hls/01f0f92342fca712306588bfb8e82aef/master.m3u8?md5=jVwsfgYfwO4MGk-JyTpyWw&expires=1792165920"
+        }
+      },
+      "fetched_at": "2026-10-16T13:52:10Z"
+    },
+    {
+      "id": "episode/tamons-b-side-1x6",
+      "episode_id": "episode/tamons-b-side-1x6",
+      "title": "Tamon's B-Side 1x1",
+      "episode_name": "Tamon's B-Side 1x1",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2078_s1e6.webp",
+      "abyssid": "18599",
+      "abyssId": "18599",
+      "playxid": "589ea909454046646ff91c5ecac646ea",
+      "playXID": "589ea909454046646ff91c5ecac646ea",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18599",
+        "playXID": "589ea909454046646ff91c5ecac646ea",
+        "streamId": "18599",
+        "dubPlayerSrc": "/dub-player/t/18599/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=589ea909454046646ff91c5ecac646ea&abyssId=18599"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18599",
+        "playXID": "589ea909454046646ff91c5ecac646ea",
+        "streamId": "18599",
+        "dubPlayerSrc": "/dub-player/t/18599/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=589ea909454046646ff91c5ecac646ea&abyssId=18599"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/f4901fe9f7579de134a23723831738ac",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/f4901fe9f7579de134a23723831738ac"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18599",
+        "abyssId": "18599",
+        "playXID": "589ea909454046646ff91c5ecac646ea",
+        "title": "Tamon's B-Side",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "HMNHGEOSl"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "a-aQNJ9OxO"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "TcmCDHE4x"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/885c2f81c7b82e7ef28d2f33ce41ad06/master.m3u8?md5=MjwGpac6GWxcv3pdj7RJXQ&expires=1792165920",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/885c2f81c7b82e7ef28d2f33ce41ad06/master.m3u8?md5=MjwGpac6GWxcv3pdj7RJXQ&expires=1792165920",
+            "videoSource": "https://ravok.buzz/cdn/hls/885c2f81c7b82e7ef28d2f33ce41ad06/master.m3u8?md5=MjwGpac6GWxcv3pdj7RJXQ&expires=1792165920",
+            "videoImage": "https://as-cdn30.top/p/Wd5Wqaxp2pJ02r7lDhYaTrJ1OGfgTUI0HeMvC4FtIHAZZVcL34J64RIUwLhygfeQY5KpCTzQF1iOjbsU9Zb-Gg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "589ea909454046646ff91c5ecac646ea",
+                "streamUrl": "https://ravok.buzz/cdn/hls/885c2f81c7b82e7ef28d2f33ce41ad06/master.m3u8?md5=MjwGpac6GWxcv3pdj7RJXQ&expires=1792165920",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/885c2f81c7b82e7ef28d2f33ce41ad06/master.m3u8?md5=MjwGpac6GWxcv3pdj7RJXQ&expires=1792165920",
+                "videoSource": "https://ravok.buzz/cdn/hls/885c2f81c7b82e7ef28d2f33ce41ad06/master.m3u8?md5=MjwGpac6GWxcv3pdj7RJXQ&expires=1792165920",
+                "link": "https://ravok.buzz/cdn/hls/885c2f81c7b82e7ef28d2f33ce41ad06/master.m3u8?md5=MjwGpac6GWxcv3pdj7RJXQ&expires=1792165920",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/Wd5Wqaxp2pJ02r7lDhYaTrJ1OGfgTUI0HeMvC4FtIHAZZVcL34J64RIUwLhygfeQY5KpCTzQF1iOjbsU9Zb-Gg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "HMNHGEOSl"
+        }
+      },
+      "fetched_at": "2026-10-16T13:52:10Z"
+    },
+    {
+      "id": "episode/tamons-b-side-1x10",
+      "episode_id": "episode/tamons-b-side-1x10",
+      "title": "Tamon's B-Side 1x1",
+      "episode_name": "Tamon's B-Side 1x1",
+      "episode_number": 10,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2078_s1e10.webp",
+      "abyssid": null,
+      "abyssId": null,
+      "playxid": "614794dbe82384e43122cc92e6a66f6f",
+      "playXID": "614794dbe82384e43122cc92e6a66f6f",
+      "stream_info": {
+        "hasDubPlayer": false,
+        "abyssId": null,
+        "playXID": "614794dbe82384e43122cc92e6a66f6f",
+        "streamId": null,
+        "dubPlayerSrc": null,
+        "message": "No episode sources found",
+        "serversEndpoint": "/stream/servers/?playXID=614794dbe82384e43122cc92e6a66f6f"
+      },
+      "streamInfo": {
+        "hasDubPlayer": false,
+        "abyssId": null,
+        "playXID": "614794dbe82384e43122cc92e6a66f6f",
+        "streamId": null,
+        "dubPlayerSrc": null,
+        "message": "No episode sources found",
+        "serversEndpoint": "/stream/servers/?playXID=614794dbe82384e43122cc92e6a66f6f"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/fce9b873e83319fcd5ff9de7e0cbecae",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/fce9b873e83319fcd5ff9de7e0cbecae"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "614794dbe82384e43122cc92e6a66f6f",
+        "abyssId": null,
+        "playXID": "614794dbe82384e43122cc92e6a66f6f",
+        "title": "Episode Stream",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/2d78b5d87c29230e4e049143e4e44064/master.m3u8?md5=VmdDj5fc19yUGT2KPcKaow&expires=1792165920",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/2d78b5d87c29230e4e049143e4e44064/master.m3u8?md5=VmdDj5fc19yUGT2KPcKaow&expires=1792165920",
+            "videoSource": "https://ravok.buzz/cdn/hls/2d78b5d87c29230e4e049143e4e44064/master.m3u8?md5=VmdDj5fc19yUGT2KPcKaow&expires=1792165920",
+            "videoImage": "https://as-cdn27.top/p/s-RUGWDmz7xCR6dvUWjMxMWXnGo8DPQM4kM-5Va_nRTmte-iQL0dgET8JbdpoNNG7OrUCj9tY9jaAXEtnLnrIQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "614794dbe82384e43122cc92e6a66f6f",
+                "streamUrl": "https://ravok.buzz/cdn/hls/2d78b5d87c29230e4e049143e4e44064/master.m3u8?md5=VmdDj5fc19yUGT2KPcKaow&expires=1792165920",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/2d78b5d87c29230e4e049143e4e44064/master.m3u8?md5=VmdDj5fc19yUGT2KPcKaow&expires=1792165920",
+                "videoSource": "https://ravok.buzz/cdn/hls/2d78b5d87c29230e4e049143e4e44064/master.m3u8?md5=VmdDj5fc19yUGT2KPcKaow&expires=1792165920",
+                "link": "https://ravok.buzz/cdn/hls/2d78b5d87c29230e4e049143e4e44064/master.m3u8?md5=VmdDj5fc19yUGT2KPcKaow&expires=1792165920",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/s-RUGWDmz7xCR6dvUWjMxMWXnGo8DPQM4kM-5Va_nRTmte-iQL0dgET8JbdpoNNG7OrUCj9tY9jaAXEtnLnrIQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "playx",
+          "language": "multi",
+          "video_id": "614794dbe82384e43122cc92e6a66f6f",
+          "streamUrl": "https://ravok.buzz/cdn/hls/2d78b5d87c29230e4e049143e4e44064/master.m3u8?md5=VmdDj5fc19yUGT2KPcKaow&expires=1792165920"
+        }
+      },
+      "fetched_at": "2026-10-16T13:52:10Z"
+    },
+    {
+      "id": "episode/tamons-b-side-1x11",
+      "episode_id": "episode/tamons-b-side-1x11",
+      "title": "Tamon's B-Side 1x1",
+      "episode_name": "Tamon's B-Side 1x1",
+      "episode_number": 11,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2078_s1e11.webp",
+      "abyssid": null,
+      "abyssId": null,
+      "playxid": "4daab94b22b63a9e47c1762083a4c9e0",
+      "playXID": "4daab94b22b63a9e47c1762083a4c9e0",
+      "stream_info": {
+        "hasDubPlayer": false,
+        "abyssId": null,
+        "playXID": "4daab94b22b63a9e47c1762083a4c9e0",
+        "streamId": null,
+        "dubPlayerSrc": null,
+        "message": "No episode sources found",
+        "serversEndpoint": "/stream/servers/?playXID=4daab94b22b63a9e47c1762083a4c9e0"
+      },
+      "streamInfo": {
+        "hasDubPlayer": false,
+        "abyssId": null,
+        "playXID": "4daab94b22b63a9e47c1762083a4c9e0",
+        "streamId": null,
+        "dubPlayerSrc": null,
+        "message": "No episode sources found",
+        "serversEndpoint": "/stream/servers/?playXID=4daab94b22b63a9e47c1762083a4c9e0"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/fec16d1d594dae3de2fc1d8536896760",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/fec16d1d594dae3de2fc1d8536896760"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "4daab94b22b63a9e47c1762083a4c9e0",
+        "abyssId": null,
+        "playXID": "4daab94b22b63a9e47c1762083a4c9e0",
+        "title": "Episode Stream",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/c00c3f8dcd640c2c09630d13787fbe3a/master.m3u8?md5=xIjj1_-IhG-Bw5A7Ok1abg&expires=1792165921",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/c00c3f8dcd640c2c09630d13787fbe3a/master.m3u8?md5=xIjj1_-IhG-Bw5A7Ok1abg&expires=1792165921",
+            "videoSource": "https://ravok.buzz/cdn/hls/c00c3f8dcd640c2c09630d13787fbe3a/master.m3u8?md5=xIjj1_-IhG-Bw5A7Ok1abg&expires=1792165921",
+            "videoImage": "https://as-cdn27.top/p/tK17qa4aH0aICsh8CUwZ8c3FjUp0zLDNLn--ba6JTCEkR7xLtUwz9EZxb8mm8CiAwcleWNiTyT921T4ySkApYw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "4daab94b22b63a9e47c1762083a4c9e0",
+                "streamUrl": "https://ravok.buzz/cdn/hls/c00c3f8dcd640c2c09630d13787fbe3a/master.m3u8?md5=xIjj1_-IhG-Bw5A7Ok1abg&expires=1792165921",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/c00c3f8dcd640c2c09630d13787fbe3a/master.m3u8?md5=xIjj1_-IhG-Bw5A7Ok1abg&expires=1792165921",
+                "videoSource": "https://ravok.buzz/cdn/hls/c00c3f8dcd640c2c09630d13787fbe3a/master.m3u8?md5=xIjj1_-IhG-Bw5A7Ok1abg&expires=1792165921",
+                "link": "https://ravok.buzz/cdn/hls/c00c3f8dcd640c2c09630d13787fbe3a/master.m3u8?md5=xIjj1_-IhG-Bw5A7Ok1abg&expires=1792165921",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/tK17qa4aH0aICsh8CUwZ8c3FjUp0zLDNLn--ba6JTCEkR7xLtUwz9EZxb8mm8CiAwcleWNiTyT921T4ySkApYw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "playx",
+          "language": "multi",
+          "video_id": "4daab94b22b63a9e47c1762083a4c9e0",
+          "streamUrl": "https://ravok.buzz/cdn/hls/c00c3f8dcd640c2c09630d13787fbe3a/master.m3u8?md5=xIjj1_-IhG-Bw5A7Ok1abg&expires=1792165921"
+        }
+      },
+      "fetched_at": "2026-10-16T13:52:11Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T13:52:05Z",
+  "updated_at": "2026-10-16T13:52:11Z"
+}

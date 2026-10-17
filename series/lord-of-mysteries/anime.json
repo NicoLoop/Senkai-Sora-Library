@@ -1,0 +1,1393 @@
+{
+  "id": "series/lord-of-mysteries",
+  "series_name": "Lord of Mysteries",
+  "title": "Lord of Mysteries",
+  "banner": "https://image.tmdb.org/t/p/w1280/AdWWrcYKNXlpeWNJlmK4HCJ6Dj9.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/c8fHePq3yTn3WvZd4hupkHwsjm5.jpg",
+  "genra": [
+    "Action",
+    "Adult Cast",
+    "Fantasy",
+    "Kids",
+    "Mystery",
+    "Sci-Fi",
+    "Supernatural",
+    "Thriller",
+    "Urban"
+  ],
+  "genres": [
+    "Action",
+    "Adult Cast",
+    "Fantasy",
+    "Kids",
+    "Mystery",
+    "Sci-Fi",
+    "Supernatural",
+    "Thriller",
+    "Urban"
+  ],
+  "languages": [
+    "Chinese",
+    "Hindi"
+  ],
+  "synopsis": "In a Victorian world of steam, dreadnoughts, and occult horrors, Zhou Mingrui awakens as Klein Moretti. He walks a razor’s edge between light and darkness, entangled with warring Churches. This is the legend of unlimited potential…and unspeakable danger.",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 13,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 13,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Private: Lord of Mysteries 1x1",
+          "id": "episode/private-lord-of-mysteries-1x1",
+          "image": "https://img.watchanimeworld.one/img/thumb_1888_s1e1.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "Private: Lord of Mysteries 1x2",
+          "id": "episode/private-lord-of-mysteries-1x2",
+          "image": "https://img.watchanimeworld.one/img/thumb_1888_s1e2.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "Lord of Mysteries 1x3",
+          "id": "episode/lord-of-mysteries-1x3",
+          "image": "https://img.watchanimeworld.one/img/thumb_1888_s1e3.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "Lord of Mysteries 1x4",
+          "id": "episode/lord-of-mysteries-1x4",
+          "image": "https://img.watchanimeworld.one/img/thumb_1888_s1e4.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "Lord of Mysteries 1x5",
+          "id": "episode/lord-of-mysteries-1x5",
+          "image": "https://img.watchanimeworld.one/img/thumb_1888_s1e5.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "Lord of Mysteries 1x6",
+          "id": "episode/lord-of-mysteries-1x6",
+          "image": "https://img.watchanimeworld.one/img/thumb_1888_s1e6.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "Lord of Mysteries 1x7",
+          "id": "episode/lord-of-mysteries-1x7",
+          "image": "https://img.watchanimeworld.one/img/thumb_1888_s1e7.webp",
+          "season": 1
+        },
+        {
+          "episode": 8,
+          "title": "Lord of Mysteries 1x8",
+          "id": "episode/lord-of-mysteries-1x8",
+          "image": "https://img.watchanimeworld.one/img/thumb_1888_s1e8.webp",
+          "season": 1
+        },
+        {
+          "episode": 9,
+          "title": "Lord of Mysteries 1x9",
+          "id": "episode/lord-of-mysteries-1x9",
+          "image": "https://img.watchanimeworld.one/img/thumb_1888_s1e9.webp",
+          "season": 1
+        },
+        {
+          "episode": 10,
+          "title": "Lord of Mysteries 1x10",
+          "id": "episode/lord-of-mysteries-1x10",
+          "image": "https://img.watchanimeworld.one/img/thumb_1888_s1e10.webp",
+          "season": 1
+        },
+        {
+          "episode": 11,
+          "title": "Lord of Mysteries 1x11",
+          "id": "episode/lord-of-mysteries-1x11",
+          "image": "https://img.watchanimeworld.one/img/thumb_1888_s1e11.webp",
+          "season": 1
+        },
+        {
+          "episode": 12,
+          "title": "Lord of Mysteries 1x12",
+          "id": "episode/lord-of-mysteries-1x12",
+          "image": "https://img.watchanimeworld.one/img/thumb_1888_s1e12.webp",
+          "season": 1
+        },
+        {
+          "episode": 13,
+          "title": "Lord of Mysteries 1x13",
+          "id": "episode/lord-of-mysteries-1x13",
+          "image": "https://img.watchanimeworld.one/img/thumb_1888_s1e13.webp",
+          "season": 1
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/private-lord-of-mysteries-1x2",
+      "episode_id": "episode/private-lord-of-mysteries-1x2",
+      "title": "Private: Lord of Mysteries 1x1",
+      "episode_name": "Private: Lord of Mysteries 1x1",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1888_s1e2.webp",
+      "abyssid": "16396",
+      "abyssId": "16396",
+      "playxid": "6efd23ca96571c0b369cf7286650e9b8",
+      "playXID": "6efd23ca96571c0b369cf7286650e9b8",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16396",
+        "playXID": "6efd23ca96571c0b369cf7286650e9b8",
+        "streamId": "16396",
+        "dubPlayerSrc": "/dub-player/t/16396/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6efd23ca96571c0b369cf7286650e9b8&abyssId=16396"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16396",
+        "playXID": "6efd23ca96571c0b369cf7286650e9b8",
+        "streamId": "16396",
+        "dubPlayerSrc": "/dub-player/t/16396/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6efd23ca96571c0b369cf7286650e9b8&abyssId=16396"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/6efd23ca96571c0b369cf7286650e9b8",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/6efd23ca96571c0b369cf7286650e9b8"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16396",
+        "abyssId": "16396",
+        "playXID": "6efd23ca96571c0b369cf7286650e9b8",
+        "title": "Lord of Mysteries",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "McpPgGRcs"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "Pe33o_QCR"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/979df74d1dc1680812f05d6e5d953921/master.m3u8?md5=ufKrY4DPCv1KGX62w5ruNw&expires=1792166452",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/979df74d1dc1680812f05d6e5d953921/master.m3u8?md5=ufKrY4DPCv1KGX62w5ruNw&expires=1792166452",
+            "videoSource": "https://ravok.buzz/cdn/hls/979df74d1dc1680812f05d6e5d953921/master.m3u8?md5=ufKrY4DPCv1KGX62w5ruNw&expires=1792166452",
+            "videoImage": "https://as-cdn30.top/p/jYcK61aMfaoM9Q9n6j9FePwZOSa2l0dUAnH7PJx-eFqAwCe9x44hr0yuv3Yt1p418K2zZBS8JRFBskeMeMAymQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "6efd23ca96571c0b369cf7286650e9b8",
+                "streamUrl": "https://ravok.buzz/cdn/hls/979df74d1dc1680812f05d6e5d953921/master.m3u8?md5=ufKrY4DPCv1KGX62w5ruNw&expires=1792166452",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/979df74d1dc1680812f05d6e5d953921/master.m3u8?md5=ufKrY4DPCv1KGX62w5ruNw&expires=1792166452",
+                "videoSource": "https://ravok.buzz/cdn/hls/979df74d1dc1680812f05d6e5d953921/master.m3u8?md5=ufKrY4DPCv1KGX62w5ruNw&expires=1792166452",
+                "link": "https://ravok.buzz/cdn/hls/979df74d1dc1680812f05d6e5d953921/master.m3u8?md5=ufKrY4DPCv1KGX62w5ruNw&expires=1792166452",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/jYcK61aMfaoM9Q9n6j9FePwZOSa2l0dUAnH7PJx-eFqAwCe9x44hr0yuv3Yt1p418K2zZBS8JRFBskeMeMAymQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "McpPgGRcs"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:02Z"
+    },
+    {
+      "id": "episode/private-lord-of-mysteries-1x1",
+      "episode_id": "episode/private-lord-of-mysteries-1x1",
+      "title": "Private: Lord of Mysteries 1x1",
+      "episode_name": "Private: Lord of Mysteries 1x1",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1888_s1e1.webp",
+      "abyssid": "16395",
+      "abyssId": "16395",
+      "playxid": "f1deaee7fb4927ad7e67675b4f411d2e",
+      "playXID": "f1deaee7fb4927ad7e67675b4f411d2e",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16395",
+        "playXID": "f1deaee7fb4927ad7e67675b4f411d2e",
+        "streamId": "16395",
+        "dubPlayerSrc": "/dub-player/t/16395/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f1deaee7fb4927ad7e67675b4f411d2e&abyssId=16395"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16395",
+        "playXID": "f1deaee7fb4927ad7e67675b4f411d2e",
+        "streamId": "16395",
+        "dubPlayerSrc": "/dub-player/t/16395/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f1deaee7fb4927ad7e67675b4f411d2e&abyssId=16395"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/f1deaee7fb4927ad7e67675b4f411d2e",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/f1deaee7fb4927ad7e67675b4f411d2e"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16395",
+        "abyssId": "16395",
+        "playXID": "f1deaee7fb4927ad7e67675b4f411d2e",
+        "title": "Lord of Mysteries",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "daKU9SS0Y"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "nNdw3qxWJ"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/ad7bb52537d91456cff2b82fda35bc37/master.m3u8?md5=F8Zfj899cMkTbHoNP3BE3Q&expires=1792166452",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/ad7bb52537d91456cff2b82fda35bc37/master.m3u8?md5=F8Zfj899cMkTbHoNP3BE3Q&expires=1792166452",
+            "videoSource": "https://ravok.buzz/cdn/hls/ad7bb52537d91456cff2b82fda35bc37/master.m3u8?md5=F8Zfj899cMkTbHoNP3BE3Q&expires=1792166452",
+            "videoImage": "https://as-cdn27.top/p/Ky5E8TPcnefhtQYgKgbqnCLDwN0k_ZEGxvxXqhYwUPcZmd8s8lQJs-29Y8FlepNOdYl5EonJiHt9dPy1VrOuTQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "f1deaee7fb4927ad7e67675b4f411d2e",
+                "streamUrl": "https://ravok.buzz/cdn/hls/ad7bb52537d91456cff2b82fda35bc37/master.m3u8?md5=F8Zfj899cMkTbHoNP3BE3Q&expires=1792166452",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/ad7bb52537d91456cff2b82fda35bc37/master.m3u8?md5=F8Zfj899cMkTbHoNP3BE3Q&expires=1792166452",
+                "videoSource": "https://ravok.buzz/cdn/hls/ad7bb52537d91456cff2b82fda35bc37/master.m3u8?md5=F8Zfj899cMkTbHoNP3BE3Q&expires=1792166452",
+                "link": "https://ravok.buzz/cdn/hls/ad7bb52537d91456cff2b82fda35bc37/master.m3u8?md5=F8Zfj899cMkTbHoNP3BE3Q&expires=1792166452",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/Ky5E8TPcnefhtQYgKgbqnCLDwN0k_ZEGxvxXqhYwUPcZmd8s8lQJs-29Y8FlepNOdYl5EonJiHt9dPy1VrOuTQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "daKU9SS0Y"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:02Z"
+    },
+    {
+      "id": "episode/lord-of-mysteries-1x5",
+      "episode_id": "episode/lord-of-mysteries-1x5",
+      "title": "Private: Lord of Mysteries 1x1",
+      "episode_name": "Private: Lord of Mysteries 1x1",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1888_s1e5.webp",
+      "abyssid": "16511",
+      "abyssId": "16511",
+      "playxid": "d4d0144bbd63942f6b936d4e9eff1676",
+      "playXID": "d4d0144bbd63942f6b936d4e9eff1676",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16511",
+        "playXID": "d4d0144bbd63942f6b936d4e9eff1676",
+        "streamId": "16511",
+        "dubPlayerSrc": "/dub-player/t/16511/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d4d0144bbd63942f6b936d4e9eff1676&abyssId=16511"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16511",
+        "playXID": "d4d0144bbd63942f6b936d4e9eff1676",
+        "streamId": "16511",
+        "dubPlayerSrc": "/dub-player/t/16511/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d4d0144bbd63942f6b936d4e9eff1676&abyssId=16511"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/d4d0144bbd63942f6b936d4e9eff1676",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/d4d0144bbd63942f6b936d4e9eff1676"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16511",
+        "abyssId": "16511",
+        "playXID": "d4d0144bbd63942f6b936d4e9eff1676",
+        "title": "Lord of Mysteries",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "6Z1Dkd0zI"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "Hc_7EuQiV"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/5f146783a33c07aefb4d471860a6889e/master.m3u8?md5=E5ZJrsIb--LeDrOCJNRasQ&expires=1792166452",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/5f146783a33c07aefb4d471860a6889e/master.m3u8?md5=E5ZJrsIb--LeDrOCJNRasQ&expires=1792166452",
+            "videoSource": "https://ravok.buzz/cdn/hls/5f146783a33c07aefb4d471860a6889e/master.m3u8?md5=E5ZJrsIb--LeDrOCJNRasQ&expires=1792166452",
+            "videoImage": "https://as-cdn28.top/p/qUZL_gIxmGRPxTLSRQ8t5ZwLf2g2lUbtyd4tbg2ZVSphbvKTOD4X62rxDck6HYCdk5H6rMhDgwucKjV14MLA9w.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "d4d0144bbd63942f6b936d4e9eff1676",
+                "streamUrl": "https://ravok.buzz/cdn/hls/5f146783a33c07aefb4d471860a6889e/master.m3u8?md5=E5ZJrsIb--LeDrOCJNRasQ&expires=1792166452",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/5f146783a33c07aefb4d471860a6889e/master.m3u8?md5=E5ZJrsIb--LeDrOCJNRasQ&expires=1792166452",
+                "videoSource": "https://ravok.buzz/cdn/hls/5f146783a33c07aefb4d471860a6889e/master.m3u8?md5=E5ZJrsIb--LeDrOCJNRasQ&expires=1792166452",
+                "link": "https://ravok.buzz/cdn/hls/5f146783a33c07aefb4d471860a6889e/master.m3u8?md5=E5ZJrsIb--LeDrOCJNRasQ&expires=1792166452",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/qUZL_gIxmGRPxTLSRQ8t5ZwLf2g2lUbtyd4tbg2ZVSphbvKTOD4X62rxDck6HYCdk5H6rMhDgwucKjV14MLA9w.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "6Z1Dkd0zI"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:02Z"
+    },
+    {
+      "id": "episode/lord-of-mysteries-1x3",
+      "episode_id": "episode/lord-of-mysteries-1x3",
+      "title": "Private: Lord of Mysteries 1x1",
+      "episode_name": "Private: Lord of Mysteries 1x1",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1888_s1e3.webp",
+      "abyssid": "16411",
+      "abyssId": "16411",
+      "playxid": "97194d08565841c08a6d1ce3c82da0b3",
+      "playXID": "97194d08565841c08a6d1ce3c82da0b3",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16411",
+        "playXID": "97194d08565841c08a6d1ce3c82da0b3",
+        "streamId": "16411",
+        "dubPlayerSrc": "/dub-player/t/16411/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=97194d08565841c08a6d1ce3c82da0b3&abyssId=16411"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16411",
+        "playXID": "97194d08565841c08a6d1ce3c82da0b3",
+        "streamId": "16411",
+        "dubPlayerSrc": "/dub-player/t/16411/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=97194d08565841c08a6d1ce3c82da0b3&abyssId=16411"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/97194d08565841c08a6d1ce3c82da0b3",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/97194d08565841c08a6d1ce3c82da0b3"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16411",
+        "abyssId": "16411",
+        "playXID": "97194d08565841c08a6d1ce3c82da0b3",
+        "title": "Lord of Mysteries",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "j97W6PPiF"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "7EdQpEePI"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/39ae329ff1d5291b7ae15e5ad3b0c8dd/master.m3u8?md5=BtDA1wXwZyLWd6zsEtHWsw&expires=1792166452",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/39ae329ff1d5291b7ae15e5ad3b0c8dd/master.m3u8?md5=BtDA1wXwZyLWd6zsEtHWsw&expires=1792166452",
+            "videoSource": "https://ravok.buzz/cdn/hls/39ae329ff1d5291b7ae15e5ad3b0c8dd/master.m3u8?md5=BtDA1wXwZyLWd6zsEtHWsw&expires=1792166452",
+            "videoImage": "https://as-cdn31.top/p/VXoMYJrBJUblqPjvL71EALPBL9x4qkV8izyV-71W3JSYE-1PFsAhhBPNt2ugddUQIA5-VXq9L5AL8V24MF-cAg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "97194d08565841c08a6d1ce3c82da0b3",
+                "streamUrl": "https://ravok.buzz/cdn/hls/39ae329ff1d5291b7ae15e5ad3b0c8dd/master.m3u8?md5=BtDA1wXwZyLWd6zsEtHWsw&expires=1792166452",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/39ae329ff1d5291b7ae15e5ad3b0c8dd/master.m3u8?md5=BtDA1wXwZyLWd6zsEtHWsw&expires=1792166452",
+                "videoSource": "https://ravok.buzz/cdn/hls/39ae329ff1d5291b7ae15e5ad3b0c8dd/master.m3u8?md5=BtDA1wXwZyLWd6zsEtHWsw&expires=1792166452",
+                "link": "https://ravok.buzz/cdn/hls/39ae329ff1d5291b7ae15e5ad3b0c8dd/master.m3u8?md5=BtDA1wXwZyLWd6zsEtHWsw&expires=1792166452",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/VXoMYJrBJUblqPjvL71EALPBL9x4qkV8izyV-71W3JSYE-1PFsAhhBPNt2ugddUQIA5-VXq9L5AL8V24MF-cAg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "j97W6PPiF"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:02Z"
+    },
+    {
+      "id": "episode/lord-of-mysteries-1x4",
+      "episode_id": "episode/lord-of-mysteries-1x4",
+      "title": "Private: Lord of Mysteries 1x1",
+      "episode_name": "Private: Lord of Mysteries 1x1",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1888_s1e4.webp",
+      "abyssid": "16439",
+      "abyssId": "16439",
+      "playxid": "ad48ef812e1189e7c488a956e7a3676c",
+      "playXID": "ad48ef812e1189e7c488a956e7a3676c",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16439",
+        "playXID": "ad48ef812e1189e7c488a956e7a3676c",
+        "streamId": "16439",
+        "dubPlayerSrc": "/dub-player/t/16439/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ad48ef812e1189e7c488a956e7a3676c&abyssId=16439"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16439",
+        "playXID": "ad48ef812e1189e7c488a956e7a3676c",
+        "streamId": "16439",
+        "dubPlayerSrc": "/dub-player/t/16439/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ad48ef812e1189e7c488a956e7a3676c&abyssId=16439"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/ad48ef812e1189e7c488a956e7a3676c",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/ad48ef812e1189e7c488a956e7a3676c"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16439",
+        "abyssId": "16439",
+        "playXID": "ad48ef812e1189e7c488a956e7a3676c",
+        "title": "Lord of Mysteries",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "Q0j1osWq2"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "nHxKg5ag7"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/dbad8ef82c10d3897bed0cc6adb5b58b/master.m3u8?md5=akpCT6jVe0P6xdt6ay2BPg&expires=1792166452",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/dbad8ef82c10d3897bed0cc6adb5b58b/master.m3u8?md5=akpCT6jVe0P6xdt6ay2BPg&expires=1792166452",
+            "videoSource": "https://ravok.buzz/cdn/hls/dbad8ef82c10d3897bed0cc6adb5b58b/master.m3u8?md5=akpCT6jVe0P6xdt6ay2BPg&expires=1792166452",
+            "videoImage": "https://as-cdn29.top/p/h-8PBTy_8riM8njG5h0nWNmB9fnXWGgsCFA26aTk-XcCfBRXFo_i4exbbJVjPoT-n3hz0SVmMH4MhsljPclzEA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "ad48ef812e1189e7c488a956e7a3676c",
+                "streamUrl": "https://ravok.buzz/cdn/hls/dbad8ef82c10d3897bed0cc6adb5b58b/master.m3u8?md5=akpCT6jVe0P6xdt6ay2BPg&expires=1792166452",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/dbad8ef82c10d3897bed0cc6adb5b58b/master.m3u8?md5=akpCT6jVe0P6xdt6ay2BPg&expires=1792166452",
+                "videoSource": "https://ravok.buzz/cdn/hls/dbad8ef82c10d3897bed0cc6adb5b58b/master.m3u8?md5=akpCT6jVe0P6xdt6ay2BPg&expires=1792166452",
+                "link": "https://ravok.buzz/cdn/hls/dbad8ef82c10d3897bed0cc6adb5b58b/master.m3u8?md5=akpCT6jVe0P6xdt6ay2BPg&expires=1792166452",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/h-8PBTy_8riM8njG5h0nWNmB9fnXWGgsCFA26aTk-XcCfBRXFo_i4exbbJVjPoT-n3hz0SVmMH4MhsljPclzEA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "Q0j1osWq2"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:02Z"
+    },
+    {
+      "id": "episode/lord-of-mysteries-1x6",
+      "episode_id": "episode/lord-of-mysteries-1x6",
+      "title": "Private: Lord of Mysteries 1x1",
+      "episode_name": "Private: Lord of Mysteries 1x1",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1888_s1e6.webp",
+      "abyssid": "16534",
+      "abyssId": "16534",
+      "playxid": "b952fb76427d6ab439fbd2b78f691ba5",
+      "playXID": "b952fb76427d6ab439fbd2b78f691ba5",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16534",
+        "playXID": "b952fb76427d6ab439fbd2b78f691ba5",
+        "streamId": "16534",
+        "dubPlayerSrc": "/dub-player/t/16534/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b952fb76427d6ab439fbd2b78f691ba5&abyssId=16534"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16534",
+        "playXID": "b952fb76427d6ab439fbd2b78f691ba5",
+        "streamId": "16534",
+        "dubPlayerSrc": "/dub-player/t/16534/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b952fb76427d6ab439fbd2b78f691ba5&abyssId=16534"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/b952fb76427d6ab439fbd2b78f691ba5",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/b952fb76427d6ab439fbd2b78f691ba5"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16534",
+        "abyssId": "16534",
+        "playXID": "b952fb76427d6ab439fbd2b78f691ba5",
+        "title": "Lord of Mysteries",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "OAR0__2xm"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "pAyEF-jmCN"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/c15e699ec26d7c5bd121c1705ac75c26/master.m3u8?md5=J0oRyzAvtiBq4oPj-IHKoA&expires=1792166453",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/c15e699ec26d7c5bd121c1705ac75c26/master.m3u8?md5=J0oRyzAvtiBq4oPj-IHKoA&expires=1792166453",
+            "videoSource": "https://ravok.buzz/cdn/hls/c15e699ec26d7c5bd121c1705ac75c26/master.m3u8?md5=J0oRyzAvtiBq4oPj-IHKoA&expires=1792166453",
+            "videoImage": "https://as-cdn30.top/p/mW_h4LUETrzNTXpxcWqcw9Oy3k0U3dVHErxOo6IcnBA35hQ-VdvmUTwo4iHd_BkGiMuI8OzzydD9j8ONGCtwBA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "b952fb76427d6ab439fbd2b78f691ba5",
+                "streamUrl": "https://ravok.buzz/cdn/hls/c15e699ec26d7c5bd121c1705ac75c26/master.m3u8?md5=J0oRyzAvtiBq4oPj-IHKoA&expires=1792166453",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/c15e699ec26d7c5bd121c1705ac75c26/master.m3u8?md5=J0oRyzAvtiBq4oPj-IHKoA&expires=1792166453",
+                "videoSource": "https://ravok.buzz/cdn/hls/c15e699ec26d7c5bd121c1705ac75c26/master.m3u8?md5=J0oRyzAvtiBq4oPj-IHKoA&expires=1792166453",
+                "link": "https://ravok.buzz/cdn/hls/c15e699ec26d7c5bd121c1705ac75c26/master.m3u8?md5=J0oRyzAvtiBq4oPj-IHKoA&expires=1792166453",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/mW_h4LUETrzNTXpxcWqcw9Oy3k0U3dVHErxOo6IcnBA35hQ-VdvmUTwo4iHd_BkGiMuI8OzzydD9j8ONGCtwBA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "OAR0__2xm"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:03Z"
+    },
+    {
+      "id": "episode/lord-of-mysteries-1x7",
+      "episode_id": "episode/lord-of-mysteries-1x7",
+      "title": "Private: Lord of Mysteries 1x1",
+      "episode_name": "Private: Lord of Mysteries 1x1",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1888_s1e7.webp",
+      "abyssid": "16563",
+      "abyssId": "16563",
+      "playxid": "8e200fc779d0a8e7eaba42e877f0a5c0",
+      "playXID": "8e200fc779d0a8e7eaba42e877f0a5c0",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16563",
+        "playXID": "8e200fc779d0a8e7eaba42e877f0a5c0",
+        "streamId": "16563",
+        "dubPlayerSrc": "/dub-player/t/16563/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8e200fc779d0a8e7eaba42e877f0a5c0&abyssId=16563"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16563",
+        "playXID": "8e200fc779d0a8e7eaba42e877f0a5c0",
+        "streamId": "16563",
+        "dubPlayerSrc": "/dub-player/t/16563/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8e200fc779d0a8e7eaba42e877f0a5c0&abyssId=16563"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/8e200fc779d0a8e7eaba42e877f0a5c0",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/8e200fc779d0a8e7eaba42e877f0a5c0"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16563",
+        "abyssId": "16563",
+        "playXID": "8e200fc779d0a8e7eaba42e877f0a5c0",
+        "title": "Lord of Mysteries",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "M0O1Lv7X2"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "cic5Kgoeo"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/e1eaf6d68f610a9f082b01d36f6025e0/master.m3u8?md5=zWyfVeCDQoCsphoP39Ajvg&expires=1792166454",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/e1eaf6d68f610a9f082b01d36f6025e0/master.m3u8?md5=zWyfVeCDQoCsphoP39Ajvg&expires=1792166454",
+            "videoSource": "https://ravok.buzz/cdn/hls/e1eaf6d68f610a9f082b01d36f6025e0/master.m3u8?md5=zWyfVeCDQoCsphoP39Ajvg&expires=1792166454",
+            "videoImage": "https://as-cdn27.top/p/bddtsxTNHe47B44fsV3qQci3A9FQsqSSjLVOeWMVCSfpPM8JsA0asPdYH8iTmdngPDL_9-nqiL59Mv6MIQyEUw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "8e200fc779d0a8e7eaba42e877f0a5c0",
+                "streamUrl": "https://ravok.buzz/cdn/hls/e1eaf6d68f610a9f082b01d36f6025e0/master.m3u8?md5=zWyfVeCDQoCsphoP39Ajvg&expires=1792166454",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/e1eaf6d68f610a9f082b01d36f6025e0/master.m3u8?md5=zWyfVeCDQoCsphoP39Ajvg&expires=1792166454",
+                "videoSource": "https://ravok.buzz/cdn/hls/e1eaf6d68f610a9f082b01d36f6025e0/master.m3u8?md5=zWyfVeCDQoCsphoP39Ajvg&expires=1792166454",
+                "link": "https://ravok.buzz/cdn/hls/e1eaf6d68f610a9f082b01d36f6025e0/master.m3u8?md5=zWyfVeCDQoCsphoP39Ajvg&expires=1792166454",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/bddtsxTNHe47B44fsV3qQci3A9FQsqSSjLVOeWMVCSfpPM8JsA0asPdYH8iTmdngPDL_9-nqiL59Mv6MIQyEUw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "M0O1Lv7X2"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:03Z"
+    },
+    {
+      "id": "episode/lord-of-mysteries-1x9",
+      "episode_id": "episode/lord-of-mysteries-1x9",
+      "title": "Private: Lord of Mysteries 1x1",
+      "episode_name": "Private: Lord of Mysteries 1x1",
+      "episode_number": 9,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1888_s1e9.webp",
+      "abyssid": "16602",
+      "abyssId": "16602",
+      "playxid": "ccf496c9b493d05362e3b602d69775c0",
+      "playXID": "ccf496c9b493d05362e3b602d69775c0",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16602",
+        "playXID": "ccf496c9b493d05362e3b602d69775c0",
+        "streamId": "16602",
+        "dubPlayerSrc": "/dub-player/t/16602/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ccf496c9b493d05362e3b602d69775c0&abyssId=16602"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16602",
+        "playXID": "ccf496c9b493d05362e3b602d69775c0",
+        "streamId": "16602",
+        "dubPlayerSrc": "/dub-player/t/16602/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ccf496c9b493d05362e3b602d69775c0&abyssId=16602"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/ccf496c9b493d05362e3b602d69775c0",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/ccf496c9b493d05362e3b602d69775c0"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16602",
+        "abyssId": "16602",
+        "playXID": "ccf496c9b493d05362e3b602d69775c0",
+        "title": "Lord of Mysteries",
+        "season": 1,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "BaB8IfcP3"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "mw559lNlC"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/88156b89a162394bab126617fcb6aa63/master.m3u8?md5=4txpCdCRHAnoFDThh_Yp_w&expires=1792166454",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/88156b89a162394bab126617fcb6aa63/master.m3u8?md5=4txpCdCRHAnoFDThh_Yp_w&expires=1792166454",
+            "videoSource": "https://ravok.buzz/cdn/hls/88156b89a162394bab126617fcb6aa63/master.m3u8?md5=4txpCdCRHAnoFDThh_Yp_w&expires=1792166454",
+            "videoImage": "https://as-cdn28.top/p/Axh4DXBizY1HdEQ2Q1hjZ6H-LA-YbbvotjN-2iUxh8WcrbPpnNDyW-hohZFLL4jwv8sHuBgQlsBM8aKEmnJYtw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "ccf496c9b493d05362e3b602d69775c0",
+                "streamUrl": "https://ravok.buzz/cdn/hls/88156b89a162394bab126617fcb6aa63/master.m3u8?md5=4txpCdCRHAnoFDThh_Yp_w&expires=1792166454",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/88156b89a162394bab126617fcb6aa63/master.m3u8?md5=4txpCdCRHAnoFDThh_Yp_w&expires=1792166454",
+                "videoSource": "https://ravok.buzz/cdn/hls/88156b89a162394bab126617fcb6aa63/master.m3u8?md5=4txpCdCRHAnoFDThh_Yp_w&expires=1792166454",
+                "link": "https://ravok.buzz/cdn/hls/88156b89a162394bab126617fcb6aa63/master.m3u8?md5=4txpCdCRHAnoFDThh_Yp_w&expires=1792166454",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/Axh4DXBizY1HdEQ2Q1hjZ6H-LA-YbbvotjN-2iUxh8WcrbPpnNDyW-hohZFLL4jwv8sHuBgQlsBM8aKEmnJYtw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "BaB8IfcP3"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:04Z"
+    },
+    {
+      "id": "episode/lord-of-mysteries-1x10",
+      "episode_id": "episode/lord-of-mysteries-1x10",
+      "title": "Private: Lord of Mysteries 1x1",
+      "episode_name": "Private: Lord of Mysteries 1x1",
+      "episode_number": 10,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1888_s1e10.webp",
+      "abyssid": "16636",
+      "abyssId": "16636",
+      "playxid": "bb7b76330e286eb5f158ff2fd3d82d5d",
+      "playXID": "bb7b76330e286eb5f158ff2fd3d82d5d",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16636",
+        "playXID": "bb7b76330e286eb5f158ff2fd3d82d5d",
+        "streamId": "16636",
+        "dubPlayerSrc": "/dub-player/t/16636/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=bb7b76330e286eb5f158ff2fd3d82d5d&abyssId=16636"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16636",
+        "playXID": "bb7b76330e286eb5f158ff2fd3d82d5d",
+        "streamId": "16636",
+        "dubPlayerSrc": "/dub-player/t/16636/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=bb7b76330e286eb5f158ff2fd3d82d5d&abyssId=16636"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/bb7b76330e286eb5f158ff2fd3d82d5d",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/bb7b76330e286eb5f158ff2fd3d82d5d"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16636",
+        "abyssId": "16636",
+        "playXID": "bb7b76330e286eb5f158ff2fd3d82d5d",
+        "title": "Lord of Mysteries",
+        "season": 1,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "7Sn1MCNWP"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "CXJbyG9y_"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/cb349a295e217a0c49d065c592a5b0f3/master.m3u8?md5=MPdFeLPtfcZhWuoM-J7_YA&expires=1792166454",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/cb349a295e217a0c49d065c592a5b0f3/master.m3u8?md5=MPdFeLPtfcZhWuoM-J7_YA&expires=1792166454",
+            "videoSource": "https://ravok.buzz/cdn/hls/cb349a295e217a0c49d065c592a5b0f3/master.m3u8?md5=MPdFeLPtfcZhWuoM-J7_YA&expires=1792166454",
+            "videoImage": "https://as-cdn28.top/p/SJD53IpRAK5fvRvHIHyBOfCkRVNWo7ArhBQSELrJ2zS9laoy6gKC-Ouy6MM_RCn-x1tzayGqTHn-lHWZ1LO6sg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "bb7b76330e286eb5f158ff2fd3d82d5d",
+                "streamUrl": "https://ravok.buzz/cdn/hls/cb349a295e217a0c49d065c592a5b0f3/master.m3u8?md5=MPdFeLPtfcZhWuoM-J7_YA&expires=1792166454",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/cb349a295e217a0c49d065c592a5b0f3/master.m3u8?md5=MPdFeLPtfcZhWuoM-J7_YA&expires=1792166454",
+                "videoSource": "https://ravok.buzz/cdn/hls/cb349a295e217a0c49d065c592a5b0f3/master.m3u8?md5=MPdFeLPtfcZhWuoM-J7_YA&expires=1792166454",
+                "link": "https://ravok.buzz/cdn/hls/cb349a295e217a0c49d065c592a5b0f3/master.m3u8?md5=MPdFeLPtfcZhWuoM-J7_YA&expires=1792166454",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/SJD53IpRAK5fvRvHIHyBOfCkRVNWo7ArhBQSELrJ2zS9laoy6gKC-Ouy6MM_RCn-x1tzayGqTHn-lHWZ1LO6sg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "7Sn1MCNWP"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:04Z"
+    },
+    {
+      "id": "episode/lord-of-mysteries-1x8",
+      "episode_id": "episode/lord-of-mysteries-1x8",
+      "title": "Private: Lord of Mysteries 1x1",
+      "episode_name": "Private: Lord of Mysteries 1x1",
+      "episode_number": 8,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1888_s1e8.webp",
+      "abyssid": "16585",
+      "abyssId": "16585",
+      "playxid": "14edc6ebfdae2e23bbed83d67f50e983",
+      "playXID": "14edc6ebfdae2e23bbed83d67f50e983",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16585",
+        "playXID": "14edc6ebfdae2e23bbed83d67f50e983",
+        "streamId": "16585",
+        "dubPlayerSrc": "/dub-player/t/16585/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=14edc6ebfdae2e23bbed83d67f50e983&abyssId=16585"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16585",
+        "playXID": "14edc6ebfdae2e23bbed83d67f50e983",
+        "streamId": "16585",
+        "dubPlayerSrc": "/dub-player/t/16585/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=14edc6ebfdae2e23bbed83d67f50e983&abyssId=16585"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/14edc6ebfdae2e23bbed83d67f50e983",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/14edc6ebfdae2e23bbed83d67f50e983"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16585",
+        "abyssId": "16585",
+        "playXID": "14edc6ebfdae2e23bbed83d67f50e983",
+        "title": "Lord of Mysteries",
+        "season": 1,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "5ia_-Ji_q"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "2U2akwEoK"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/0ee14148fe0148acbfcdc95a1ebd84f1/master.m3u8?md5=NkDvnALrJFQmz_G8WUDsFQ&expires=1792166454",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/0ee14148fe0148acbfcdc95a1ebd84f1/master.m3u8?md5=NkDvnALrJFQmz_G8WUDsFQ&expires=1792166454",
+            "videoSource": "https://ravok.buzz/cdn/hls/0ee14148fe0148acbfcdc95a1ebd84f1/master.m3u8?md5=NkDvnALrJFQmz_G8WUDsFQ&expires=1792166454",
+            "videoImage": "https://as-cdn30.top/p/zYgo5DPJAsBDLTo34CzYRK2txFZbIy9BYUTD2HoRIBPG17HpShZmF9u-rY3JrPdEY46Spa144n-BPSEOKvf4Bg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "14edc6ebfdae2e23bbed83d67f50e983",
+                "streamUrl": "https://ravok.buzz/cdn/hls/0ee14148fe0148acbfcdc95a1ebd84f1/master.m3u8?md5=NkDvnALrJFQmz_G8WUDsFQ&expires=1792166454",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/0ee14148fe0148acbfcdc95a1ebd84f1/master.m3u8?md5=NkDvnALrJFQmz_G8WUDsFQ&expires=1792166454",
+                "videoSource": "https://ravok.buzz/cdn/hls/0ee14148fe0148acbfcdc95a1ebd84f1/master.m3u8?md5=NkDvnALrJFQmz_G8WUDsFQ&expires=1792166454",
+                "link": "https://ravok.buzz/cdn/hls/0ee14148fe0148acbfcdc95a1ebd84f1/master.m3u8?md5=NkDvnALrJFQmz_G8WUDsFQ&expires=1792166454",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/zYgo5DPJAsBDLTo34CzYRK2txFZbIy9BYUTD2HoRIBPG17HpShZmF9u-rY3JrPdEY46Spa144n-BPSEOKvf4Bg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "5ia_-Ji_q"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:04Z"
+    },
+    {
+      "id": "episode/lord-of-mysteries-1x11",
+      "episode_id": "episode/lord-of-mysteries-1x11",
+      "title": "Private: Lord of Mysteries 1x1",
+      "episode_name": "Private: Lord of Mysteries 1x1",
+      "episode_number": 11,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1888_s1e11.webp",
+      "abyssid": "16732",
+      "abyssId": "16732",
+      "playxid": "1e4503555f3509d72f0ae55f8c3880d0",
+      "playXID": "1e4503555f3509d72f0ae55f8c3880d0",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16732",
+        "playXID": "1e4503555f3509d72f0ae55f8c3880d0",
+        "streamId": "16732",
+        "dubPlayerSrc": "/dub-player/t/16732/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=1e4503555f3509d72f0ae55f8c3880d0&abyssId=16732"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16732",
+        "playXID": "1e4503555f3509d72f0ae55f8c3880d0",
+        "streamId": "16732",
+        "dubPlayerSrc": "/dub-player/t/16732/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=1e4503555f3509d72f0ae55f8c3880d0&abyssId=16732"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/1e4503555f3509d72f0ae55f8c3880d0",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/1e4503555f3509d72f0ae55f8c3880d0"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16732",
+        "abyssId": "16732",
+        "playXID": "1e4503555f3509d72f0ae55f8c3880d0",
+        "title": "Lord of Mysteries",
+        "season": 1,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "KMYcAS8B8"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "niDPJ92b9"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/0afd92209b9769bbe0e9fefe51e7db3a/master.m3u8?md5=nDeW6AoePMK9Udd3ChMFEQ&expires=1792166456",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/0afd92209b9769bbe0e9fefe51e7db3a/master.m3u8?md5=nDeW6AoePMK9Udd3ChMFEQ&expires=1792166456",
+            "videoSource": "https://ravok.buzz/cdn/hls/0afd92209b9769bbe0e9fefe51e7db3a/master.m3u8?md5=nDeW6AoePMK9Udd3ChMFEQ&expires=1792166456",
+            "videoImage": "https://as-cdn30.top/p/goT5kQXO1hETfBDSUz8ocbEgmnTpUNU1gVg_weQVw77FlrM8MPqB0lfkA8eoEGoIL2wdt07u7-FyI7vSFPm5DQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "1e4503555f3509d72f0ae55f8c3880d0",
+                "streamUrl": "https://ravok.buzz/cdn/hls/0afd92209b9769bbe0e9fefe51e7db3a/master.m3u8?md5=nDeW6AoePMK9Udd3ChMFEQ&expires=1792166456",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/0afd92209b9769bbe0e9fefe51e7db3a/master.m3u8?md5=nDeW6AoePMK9Udd3ChMFEQ&expires=1792166456",
+                "videoSource": "https://ravok.buzz/cdn/hls/0afd92209b9769bbe0e9fefe51e7db3a/master.m3u8?md5=nDeW6AoePMK9Udd3ChMFEQ&expires=1792166456",
+                "link": "https://ravok.buzz/cdn/hls/0afd92209b9769bbe0e9fefe51e7db3a/master.m3u8?md5=nDeW6AoePMK9Udd3ChMFEQ&expires=1792166456",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/goT5kQXO1hETfBDSUz8ocbEgmnTpUNU1gVg_weQVw77FlrM8MPqB0lfkA8eoEGoIL2wdt07u7-FyI7vSFPm5DQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "KMYcAS8B8"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:05Z"
+    },
+    {
+      "id": "episode/lord-of-mysteries-1x12",
+      "episode_id": "episode/lord-of-mysteries-1x12",
+      "title": "Private: Lord of Mysteries 1x1",
+      "episode_name": "Private: Lord of Mysteries 1x1",
+      "episode_number": 12,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1888_s1e12.webp",
+      "abyssid": "16876",
+      "abyssId": "16876",
+      "playxid": "6d090e8d4f2d61498fe04b05cc2ba6eb",
+      "playXID": "6d090e8d4f2d61498fe04b05cc2ba6eb",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16876",
+        "playXID": "6d090e8d4f2d61498fe04b05cc2ba6eb",
+        "streamId": "16876",
+        "dubPlayerSrc": "/dub-player/t/16876/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6d090e8d4f2d61498fe04b05cc2ba6eb&abyssId=16876"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16876",
+        "playXID": "6d090e8d4f2d61498fe04b05cc2ba6eb",
+        "streamId": "16876",
+        "dubPlayerSrc": "/dub-player/t/16876/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6d090e8d4f2d61498fe04b05cc2ba6eb&abyssId=16876"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/6d090e8d4f2d61498fe04b05cc2ba6eb",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/6d090e8d4f2d61498fe04b05cc2ba6eb"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16876",
+        "abyssId": "16876",
+        "playXID": "6d090e8d4f2d61498fe04b05cc2ba6eb",
+        "title": "Lord of Mysteries",
+        "season": 1,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "l0pPK8CYh"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "xYUsTF9JF"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/380fade1d94f34edfe6644693371b493/master.m3u8?md5=FINxOumpWVlbYLrxQCEJlw&expires=1792166456",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/380fade1d94f34edfe6644693371b493/master.m3u8?md5=FINxOumpWVlbYLrxQCEJlw&expires=1792166456",
+            "videoSource": "https://ravok.buzz/cdn/hls/380fade1d94f34edfe6644693371b493/master.m3u8?md5=FINxOumpWVlbYLrxQCEJlw&expires=1792166456",
+            "videoImage": "https://as-cdn29.top/p/8nLhbOk_xD2FXaJ9OyVn1oQAUZTvOsNuRovHTOsv6CaTljLxLA2RnsxgTQ9drdHTZlmJxd102oGOdlubQ8edlg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "6d090e8d4f2d61498fe04b05cc2ba6eb",
+                "streamUrl": "https://ravok.buzz/cdn/hls/380fade1d94f34edfe6644693371b493/master.m3u8?md5=FINxOumpWVlbYLrxQCEJlw&expires=1792166456",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/380fade1d94f34edfe6644693371b493/master.m3u8?md5=FINxOumpWVlbYLrxQCEJlw&expires=1792166456",
+                "videoSource": "https://ravok.buzz/cdn/hls/380fade1d94f34edfe6644693371b493/master.m3u8?md5=FINxOumpWVlbYLrxQCEJlw&expires=1792166456",
+                "link": "https://ravok.buzz/cdn/hls/380fade1d94f34edfe6644693371b493/master.m3u8?md5=FINxOumpWVlbYLrxQCEJlw&expires=1792166456",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/8nLhbOk_xD2FXaJ9OyVn1oQAUZTvOsNuRovHTOsv6CaTljLxLA2RnsxgTQ9drdHTZlmJxd102oGOdlubQ8edlg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "l0pPK8CYh"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:06Z"
+    },
+    {
+      "id": "episode/lord-of-mysteries-1x13",
+      "episode_id": "episode/lord-of-mysteries-1x13",
+      "title": "Private: Lord of Mysteries 1x1",
+      "episode_name": "Private: Lord of Mysteries 1x1",
+      "episode_number": 13,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1888_s1e13.webp",
+      "abyssid": "16903",
+      "abyssId": "16903",
+      "playxid": "5fce283940707ef04a5994b82d076bbb",
+      "playXID": "5fce283940707ef04a5994b82d076bbb",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16903",
+        "playXID": "5fce283940707ef04a5994b82d076bbb",
+        "streamId": "16903",
+        "dubPlayerSrc": "/dub-player/t/16903/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=5fce283940707ef04a5994b82d076bbb&abyssId=16903"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16903",
+        "playXID": "5fce283940707ef04a5994b82d076bbb",
+        "streamId": "16903",
+        "dubPlayerSrc": "/dub-player/t/16903/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=5fce283940707ef04a5994b82d076bbb&abyssId=16903"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/5fce283940707ef04a5994b82d076bbb",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/5fce283940707ef04a5994b82d076bbb"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16903",
+        "abyssId": "16903",
+        "playXID": "5fce283940707ef04a5994b82d076bbb",
+        "title": "Lord of Mysteries",
+        "season": 1,
+        "episode": 13,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "dxbQSyI1E"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "seTWGT8L-"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/c184b13f98e225c81957644710c99a96/master.m3u8?md5=TgpPj6D0ImaPs0zUcqFhgw&expires=1792166456",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/c184b13f98e225c81957644710c99a96/master.m3u8?md5=TgpPj6D0ImaPs0zUcqFhgw&expires=1792166456",
+            "videoSource": "https://ravok.buzz/cdn/hls/c184b13f98e225c81957644710c99a96/master.m3u8?md5=TgpPj6D0ImaPs0zUcqFhgw&expires=1792166456",
+            "videoImage": "https://as-cdn31.top/p/x2trzm7-cK3xngA-QUuDoPhnQt9ryw8JpL2xz-ekghpXlXCdBK8YoYYXMtQesT08HRrwQWZkGtSWazSOyPJv_Q.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "5fce283940707ef04a5994b82d076bbb",
+                "streamUrl": "https://ravok.buzz/cdn/hls/c184b13f98e225c81957644710c99a96/master.m3u8?md5=TgpPj6D0ImaPs0zUcqFhgw&expires=1792166456",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/c184b13f98e225c81957644710c99a96/master.m3u8?md5=TgpPj6D0ImaPs0zUcqFhgw&expires=1792166456",
+                "videoSource": "https://ravok.buzz/cdn/hls/c184b13f98e225c81957644710c99a96/master.m3u8?md5=TgpPj6D0ImaPs0zUcqFhgw&expires=1792166456",
+                "link": "https://ravok.buzz/cdn/hls/c184b13f98e225c81957644710c99a96/master.m3u8?md5=TgpPj6D0ImaPs0zUcqFhgw&expires=1792166456",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/x2trzm7-cK3xngA-QUuDoPhnQt9ryw8JpL2xz-ekghpXlXCdBK8YoYYXMtQesT08HRrwQWZkGtSWazSOyPJv_Q.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "dxbQSyI1E"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:06Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T14:01:00Z",
+  "updated_at": "2026-10-16T14:01:06Z"
+}

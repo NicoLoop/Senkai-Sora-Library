@@ -1,0 +1,739 @@
+{
+  "id": "series/sparks-of-tomorrow",
+  "series_name": "Sparks of Tomorrow",
+  "title": "Sparks of Tomorrow",
+  "banner": "https://image.tmdb.org/t/p/w1280/fx5JyhFvPn1GSm5ITtNNM6hmpUa.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/yDTcX4l5D3OFeYGsQVI5Jqxx1D7.jpg",
+  "genra": [
+    "Adventure",
+    "Drama",
+    "Historical",
+    "Romance"
+  ],
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Historical",
+    "Romance"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Japanese"
+  ],
+  "synopsis": "In an alternate past, an unlikely duo team up to look for a missing catalog that could bring electricity to the smoke-filled streets of Kyoto.",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 7,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 7,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Sparks of Tomorrow 1x1",
+          "id": "episode/sparks-of-tomorrow-1x1",
+          "image": "https://img.watchanimeworld.one/img/thumb_2082_s1e1.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "Sparks of Tomorrow 1x2",
+          "id": "episode/sparks-of-tomorrow-1x2",
+          "image": "https://img.watchanimeworld.one/img/thumb_2082_s1e2.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "Sparks of Tomorrow 1x3",
+          "id": "episode/sparks-of-tomorrow-1x3",
+          "image": "https://img.watchanimeworld.one/img/thumb_2082_s1e3.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "Sparks of Tomorrow 1x4",
+          "id": "episode/sparks-of-tomorrow-1x4",
+          "image": "https://img.watchanimeworld.one/img/thumb_2082_s1e4.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "Sparks of Tomorrow 1x5",
+          "id": "episode/sparks-of-tomorrow-1x5",
+          "image": "https://img.watchanimeworld.one/img/thumb_2082_s1e5.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "Sparks of Tomorrow 1x6",
+          "id": "episode/sparks-of-tomorrow-1x6",
+          "image": "https://img.watchanimeworld.one/img/thumb_2082_s1e6.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "Sparks of Tomorrow 1x7",
+          "id": "episode/sparks-of-tomorrow-1x7",
+          "image": "https://img.watchanimeworld.one/img/thumb_2082_s1e7.webp",
+          "season": 1
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/sparks-of-tomorrow-1x5",
+      "episode_id": "episode/sparks-of-tomorrow-1x5",
+      "title": "Sparks of Tomorrow 1x1",
+      "episode_name": "Sparks of Tomorrow 1x1",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2082_s1e5.webp",
+      "abyssid": null,
+      "abyssId": null,
+      "playxid": "083e81455b9ce29d158420b35214c4df",
+      "playXID": "083e81455b9ce29d158420b35214c4df",
+      "stream_info": {
+        "hasDubPlayer": false,
+        "abyssId": null,
+        "playXID": "083e81455b9ce29d158420b35214c4df",
+        "streamId": null,
+        "dubPlayerSrc": null,
+        "message": "No episode sources found",
+        "serversEndpoint": "/stream/servers/?playXID=083e81455b9ce29d158420b35214c4df"
+      },
+      "streamInfo": {
+        "hasDubPlayer": false,
+        "abyssId": null,
+        "playXID": "083e81455b9ce29d158420b35214c4df",
+        "streamId": null,
+        "dubPlayerSrc": null,
+        "message": "No episode sources found",
+        "serversEndpoint": "/stream/servers/?playXID=083e81455b9ce29d158420b35214c4df"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/3391f7714552ccfd36c887e27dee4842",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/3391f7714552ccfd36c887e27dee4842"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "083e81455b9ce29d158420b35214c4df",
+        "abyssId": null,
+        "playXID": "083e81455b9ce29d158420b35214c4df",
+        "title": "Episode Stream",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/7bdc8beaa6b84144b0b672e209d1501b/master.m3u8?md5=zkGlJoWEHFMNeoGyDCGTgA&expires=1792165918",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/7bdc8beaa6b84144b0b672e209d1501b/master.m3u8?md5=zkGlJoWEHFMNeoGyDCGTgA&expires=1792165918",
+            "videoSource": "https://ravok.buzz/cdn/hls/7bdc8beaa6b84144b0b672e209d1501b/master.m3u8?md5=zkGlJoWEHFMNeoGyDCGTgA&expires=1792165918",
+            "videoImage": "https://as-cdn30.top/p/11gqLfdAyNPD5AmkvOApWr6h7qrsj_3sMNAiU2nhqOsfybwFqrfTEr8pYdVe9elD4xbxIWJWlN-WhUbwTpmtTw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "083e81455b9ce29d158420b35214c4df",
+                "streamUrl": "https://ravok.buzz/cdn/hls/7bdc8beaa6b84144b0b672e209d1501b/master.m3u8?md5=zkGlJoWEHFMNeoGyDCGTgA&expires=1792165918",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/7bdc8beaa6b84144b0b672e209d1501b/master.m3u8?md5=zkGlJoWEHFMNeoGyDCGTgA&expires=1792165918",
+                "videoSource": "https://ravok.buzz/cdn/hls/7bdc8beaa6b84144b0b672e209d1501b/master.m3u8?md5=zkGlJoWEHFMNeoGyDCGTgA&expires=1792165918",
+                "link": "https://ravok.buzz/cdn/hls/7bdc8beaa6b84144b0b672e209d1501b/master.m3u8?md5=zkGlJoWEHFMNeoGyDCGTgA&expires=1792165918",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/11gqLfdAyNPD5AmkvOApWr6h7qrsj_3sMNAiU2nhqOsfybwFqrfTEr8pYdVe9elD4xbxIWJWlN-WhUbwTpmtTw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "playx",
+          "language": "multi",
+          "video_id": "083e81455b9ce29d158420b35214c4df",
+          "streamUrl": "https://ravok.buzz/cdn/hls/7bdc8beaa6b84144b0b672e209d1501b/master.m3u8?md5=zkGlJoWEHFMNeoGyDCGTgA&expires=1792165918"
+        }
+      },
+      "fetched_at": "2026-10-16T13:52:08Z"
+    },
+    {
+      "id": "episode/sparks-of-tomorrow-1x4",
+      "episode_id": "episode/sparks-of-tomorrow-1x4",
+      "title": "Sparks of Tomorrow 1x1",
+      "episode_name": "Sparks of Tomorrow 1x1",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2082_s1e4.webp",
+      "abyssid": "18770",
+      "abyssId": "18770",
+      "playxid": "0df6dca4c9db6381e0c4e523a3e0f42b",
+      "playXID": "0df6dca4c9db6381e0c4e523a3e0f42b",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18770",
+        "playXID": "0df6dca4c9db6381e0c4e523a3e0f42b",
+        "streamId": "18770",
+        "dubPlayerSrc": "/dub-player/t/18770/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=0df6dca4c9db6381e0c4e523a3e0f42b&abyssId=18770"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18770",
+        "playXID": "0df6dca4c9db6381e0c4e523a3e0f42b",
+        "streamId": "18770",
+        "dubPlayerSrc": "/dub-player/t/18770/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=0df6dca4c9db6381e0c4e523a3e0f42b&abyssId=18770"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/4b12d1170b1c520116d2b7987dd47140",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/4b12d1170b1c520116d2b7987dd47140"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18770",
+        "abyssId": "18770",
+        "playXID": "0df6dca4c9db6381e0c4e523a3e0f42b",
+        "title": "Sparks of Tomorrow",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "7XFHHakIz"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "wYWOTRG37"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "CzjFPUVjI"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/e179a5641fe04798cc499293394518c5/master.m3u8?md5=uB8IOFWh8g8H8BVWgtigXQ&expires=1792165918",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/e179a5641fe04798cc499293394518c5/master.m3u8?md5=uB8IOFWh8g8H8BVWgtigXQ&expires=1792165918",
+            "videoSource": "https://ravok.buzz/cdn/hls/e179a5641fe04798cc499293394518c5/master.m3u8?md5=uB8IOFWh8g8H8BVWgtigXQ&expires=1792165918",
+            "videoImage": "https://as-cdn30.top/p/bMP3xw6_8IMVef9tnPaEdaWis56FUC-CRklNucFb8Ndvt2_P0Fzsw3UMJg1cWvdzjEd1x3E3EZ1L9ykW9TNVPw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "0df6dca4c9db6381e0c4e523a3e0f42b",
+                "streamUrl": "https://ravok.buzz/cdn/hls/e179a5641fe04798cc499293394518c5/master.m3u8?md5=uB8IOFWh8g8H8BVWgtigXQ&expires=1792165918",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/e179a5641fe04798cc499293394518c5/master.m3u8?md5=uB8IOFWh8g8H8BVWgtigXQ&expires=1792165918",
+                "videoSource": "https://ravok.buzz/cdn/hls/e179a5641fe04798cc499293394518c5/master.m3u8?md5=uB8IOFWh8g8H8BVWgtigXQ&expires=1792165918",
+                "link": "https://ravok.buzz/cdn/hls/e179a5641fe04798cc499293394518c5/master.m3u8?md5=uB8IOFWh8g8H8BVWgtigXQ&expires=1792165918",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/bMP3xw6_8IMVef9tnPaEdaWis56FUC-CRklNucFb8Ndvt2_P0Fzsw3UMJg1cWvdzjEd1x3E3EZ1L9ykW9TNVPw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "7XFHHakIz"
+        }
+      },
+      "fetched_at": "2026-10-16T13:52:08Z"
+    },
+    {
+      "id": "episode/sparks-of-tomorrow-1x1",
+      "episode_id": "episode/sparks-of-tomorrow-1x1",
+      "title": "Sparks of Tomorrow 1x1",
+      "episode_name": "Sparks of Tomorrow 1x1",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2082_s1e1.webp",
+      "abyssid": "18491",
+      "abyssId": "18491",
+      "playxid": "1a795f72604e4e1d35075019929d5b95",
+      "playXID": "1a795f72604e4e1d35075019929d5b95",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18491",
+        "playXID": "1a795f72604e4e1d35075019929d5b95",
+        "streamId": "18491",
+        "dubPlayerSrc": "/dub-player/t/18491/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=1a795f72604e4e1d35075019929d5b95&abyssId=18491"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18491",
+        "playXID": "1a795f72604e4e1d35075019929d5b95",
+        "streamId": "18491",
+        "dubPlayerSrc": "/dub-player/t/18491/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=1a795f72604e4e1d35075019929d5b95&abyssId=18491"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/9b38965364330406f2af50c5bac6b5cf",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/9b38965364330406f2af50c5bac6b5cf"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18491",
+        "abyssId": "18491",
+        "playXID": "1a795f72604e4e1d35075019929d5b95",
+        "title": "Sparks of Tomorrow",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "qkKinmdc5"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "zxj2J1HN6"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "GCgnzWTVW"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/de9a863e97be396632d53e6f22fd99fa/master.m3u8?md5=xkzdP0Lobgta8plYIYYJfg&expires=1792165918",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/de9a863e97be396632d53e6f22fd99fa/master.m3u8?md5=xkzdP0Lobgta8plYIYYJfg&expires=1792165918",
+            "videoSource": "https://ravok.buzz/cdn/hls/de9a863e97be396632d53e6f22fd99fa/master.m3u8?md5=xkzdP0Lobgta8plYIYYJfg&expires=1792165918",
+            "videoImage": "https://as-cdn28.top/p/2J1QAH3rD1B5mu7vbn0NE15lVaUa6ec_ycTZjdQlr37xtJDP4kwKjSczUJ5kBtw3esGY5a_bUcR22_HUIyBo6Q.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "1a795f72604e4e1d35075019929d5b95",
+                "streamUrl": "https://ravok.buzz/cdn/hls/de9a863e97be396632d53e6f22fd99fa/master.m3u8?md5=xkzdP0Lobgta8plYIYYJfg&expires=1792165918",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/de9a863e97be396632d53e6f22fd99fa/master.m3u8?md5=xkzdP0Lobgta8plYIYYJfg&expires=1792165918",
+                "videoSource": "https://ravok.buzz/cdn/hls/de9a863e97be396632d53e6f22fd99fa/master.m3u8?md5=xkzdP0Lobgta8plYIYYJfg&expires=1792165918",
+                "link": "https://ravok.buzz/cdn/hls/de9a863e97be396632d53e6f22fd99fa/master.m3u8?md5=xkzdP0Lobgta8plYIYYJfg&expires=1792165918",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/2J1QAH3rD1B5mu7vbn0NE15lVaUa6ec_ycTZjdQlr37xtJDP4kwKjSczUJ5kBtw3esGY5a_bUcR22_HUIyBo6Q.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "qkKinmdc5"
+        }
+      },
+      "fetched_at": "2026-10-16T13:52:08Z"
+    },
+    {
+      "id": "episode/sparks-of-tomorrow-1x2",
+      "episode_id": "episode/sparks-of-tomorrow-1x2",
+      "title": "Sparks of Tomorrow 1x1",
+      "episode_name": "Sparks of Tomorrow 1x1",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2082_s1e2.webp",
+      "abyssid": "18598",
+      "abyssId": "18598",
+      "playxid": "a633795cebee6473d1aae96d5a28df15",
+      "playXID": "a633795cebee6473d1aae96d5a28df15",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18598",
+        "playXID": "a633795cebee6473d1aae96d5a28df15",
+        "streamId": "18598",
+        "dubPlayerSrc": "/dub-player/t/18598/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a633795cebee6473d1aae96d5a28df15&abyssId=18598"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18598",
+        "playXID": "a633795cebee6473d1aae96d5a28df15",
+        "streamId": "18598",
+        "dubPlayerSrc": "/dub-player/t/18598/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a633795cebee6473d1aae96d5a28df15&abyssId=18598"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/50806d9f6a9a340bcbd59d1f7ee5126c",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/50806d9f6a9a340bcbd59d1f7ee5126c"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18598",
+        "abyssId": "18598",
+        "playXID": "a633795cebee6473d1aae96d5a28df15",
+        "title": "Sparks of Tomorrow",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "dx9-y1SqA"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "XsrDDZcmO"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "J-rtY1CyQ"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/4935b4d7353c5d9c52b3ce66a00b4e46/master.m3u8?md5=YRNuyI2qKX2pTi0MxJ8Szw&expires=1792165918",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/4935b4d7353c5d9c52b3ce66a00b4e46/master.m3u8?md5=YRNuyI2qKX2pTi0MxJ8Szw&expires=1792165918",
+            "videoSource": "https://ravok.buzz/cdn/hls/4935b4d7353c5d9c52b3ce66a00b4e46/master.m3u8?md5=YRNuyI2qKX2pTi0MxJ8Szw&expires=1792165918",
+            "videoImage": "https://as-cdn27.top/p/FnRR1dKl1MMiDY5_OUHpRhdw6YBcADEymiq3ym3mRwAY-FHAe4s_o_DayS_lEjgWgcg7-QTBHWilV-pqqW3p2A.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "a633795cebee6473d1aae96d5a28df15",
+                "streamUrl": "https://ravok.buzz/cdn/hls/4935b4d7353c5d9c52b3ce66a00b4e46/master.m3u8?md5=YRNuyI2qKX2pTi0MxJ8Szw&expires=1792165918",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/4935b4d7353c5d9c52b3ce66a00b4e46/master.m3u8?md5=YRNuyI2qKX2pTi0MxJ8Szw&expires=1792165918",
+                "videoSource": "https://ravok.buzz/cdn/hls/4935b4d7353c5d9c52b3ce66a00b4e46/master.m3u8?md5=YRNuyI2qKX2pTi0MxJ8Szw&expires=1792165918",
+                "link": "https://ravok.buzz/cdn/hls/4935b4d7353c5d9c52b3ce66a00b4e46/master.m3u8?md5=YRNuyI2qKX2pTi0MxJ8Szw&expires=1792165918",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/FnRR1dKl1MMiDY5_OUHpRhdw6YBcADEymiq3ym3mRwAY-FHAe4s_o_DayS_lEjgWgcg7-QTBHWilV-pqqW3p2A.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "dx9-y1SqA"
+        }
+      },
+      "fetched_at": "2026-10-16T13:52:08Z"
+    },
+    {
+      "id": "episode/sparks-of-tomorrow-1x3",
+      "episode_id": "episode/sparks-of-tomorrow-1x3",
+      "title": "Sparks of Tomorrow 1x1",
+      "episode_name": "Sparks of Tomorrow 1x1",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2082_s1e3.webp",
+      "abyssid": "18684",
+      "abyssId": "18684",
+      "playxid": "038831681b99600e276ab9b8c4e95ef0",
+      "playXID": "038831681b99600e276ab9b8c4e95ef0",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18684",
+        "playXID": "038831681b99600e276ab9b8c4e95ef0",
+        "streamId": "18684",
+        "dubPlayerSrc": "/dub-player/t/18684/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=038831681b99600e276ab9b8c4e95ef0&abyssId=18684"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18684",
+        "playXID": "038831681b99600e276ab9b8c4e95ef0",
+        "streamId": "18684",
+        "dubPlayerSrc": "/dub-player/t/18684/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=038831681b99600e276ab9b8c4e95ef0&abyssId=18684"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/cae582c97681e4f465420fadb30e84a4",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/cae582c97681e4f465420fadb30e84a4"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18684",
+        "abyssId": "18684",
+        "playXID": "038831681b99600e276ab9b8c4e95ef0",
+        "title": "Sparks of Tomorrow",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "WhOFbsHfX"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "nF3Mnv_CO"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "q4_thSkHZ"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/094ab62bc285c897e8aee2ced9fbb045/master.m3u8?md5=nLxf6g7S7XanDFBnL4aBiQ&expires=1792165918",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/094ab62bc285c897e8aee2ced9fbb045/master.m3u8?md5=nLxf6g7S7XanDFBnL4aBiQ&expires=1792165918",
+            "videoSource": "https://ravok.buzz/cdn/hls/094ab62bc285c897e8aee2ced9fbb045/master.m3u8?md5=nLxf6g7S7XanDFBnL4aBiQ&expires=1792165918",
+            "videoImage": "https://as-cdn31.top/p/cT5C6CvtWTvJYxuOqFS3nW-xvmCcLErfWPSwTrpP78fXuqzjz0NFhn352JTvfb-Lp3aOG1WEJwkKJih0QfuvOw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "038831681b99600e276ab9b8c4e95ef0",
+                "streamUrl": "https://ravok.buzz/cdn/hls/094ab62bc285c897e8aee2ced9fbb045/master.m3u8?md5=nLxf6g7S7XanDFBnL4aBiQ&expires=1792165918",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/094ab62bc285c897e8aee2ced9fbb045/master.m3u8?md5=nLxf6g7S7XanDFBnL4aBiQ&expires=1792165918",
+                "videoSource": "https://ravok.buzz/cdn/hls/094ab62bc285c897e8aee2ced9fbb045/master.m3u8?md5=nLxf6g7S7XanDFBnL4aBiQ&expires=1792165918",
+                "link": "https://ravok.buzz/cdn/hls/094ab62bc285c897e8aee2ced9fbb045/master.m3u8?md5=nLxf6g7S7XanDFBnL4aBiQ&expires=1792165918",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/cT5C6CvtWTvJYxuOqFS3nW-xvmCcLErfWPSwTrpP78fXuqzjz0NFhn352JTvfb-Lp3aOG1WEJwkKJih0QfuvOw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "WhOFbsHfX"
+        }
+      },
+      "fetched_at": "2026-10-16T13:52:08Z"
+    },
+    {
+      "id": "episode/sparks-of-tomorrow-1x6",
+      "episode_id": "episode/sparks-of-tomorrow-1x6",
+      "title": "Sparks of Tomorrow 1x1",
+      "episode_name": "Sparks of Tomorrow 1x1",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2082_s1e6.webp",
+      "abyssid": null,
+      "abyssId": null,
+      "playxid": "561f4e83fce053679ab5bbc45e64d9e8",
+      "playXID": "561f4e83fce053679ab5bbc45e64d9e8",
+      "stream_info": {
+        "hasDubPlayer": false,
+        "abyssId": null,
+        "playXID": "561f4e83fce053679ab5bbc45e64d9e8",
+        "streamId": null,
+        "dubPlayerSrc": null,
+        "message": "No episode sources found",
+        "serversEndpoint": "/stream/servers/?playXID=561f4e83fce053679ab5bbc45e64d9e8"
+      },
+      "streamInfo": {
+        "hasDubPlayer": false,
+        "abyssId": null,
+        "playXID": "561f4e83fce053679ab5bbc45e64d9e8",
+        "streamId": null,
+        "dubPlayerSrc": null,
+        "message": "No episode sources found",
+        "serversEndpoint": "/stream/servers/?playXID=561f4e83fce053679ab5bbc45e64d9e8"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/b53f8d01835616293e994afe0ea01bdf",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/b53f8d01835616293e994afe0ea01bdf"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "561f4e83fce053679ab5bbc45e64d9e8",
+        "abyssId": null,
+        "playXID": "561f4e83fce053679ab5bbc45e64d9e8",
+        "title": "Episode Stream",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/5386aa0070228e6e91a27af26b5ea4df/master.m3u8?md5=NYoM4si8bWEz-ZbdSCjBmg&expires=1792165920",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/5386aa0070228e6e91a27af26b5ea4df/master.m3u8?md5=NYoM4si8bWEz-ZbdSCjBmg&expires=1792165920",
+            "videoSource": "https://ravok.buzz/cdn/hls/5386aa0070228e6e91a27af26b5ea4df/master.m3u8?md5=NYoM4si8bWEz-ZbdSCjBmg&expires=1792165920",
+            "videoImage": "https://as-cdn31.top/p/764Ukd9SfFh0NikAwMunbaV7M_hApx0TDdaf3qJ1kyBcAYD3eGKINOvekNqriDBUHqzYq_wgUYBKz9ajvVHN8w.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "561f4e83fce053679ab5bbc45e64d9e8",
+                "streamUrl": "https://ravok.buzz/cdn/hls/5386aa0070228e6e91a27af26b5ea4df/master.m3u8?md5=NYoM4si8bWEz-ZbdSCjBmg&expires=1792165920",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/5386aa0070228e6e91a27af26b5ea4df/master.m3u8?md5=NYoM4si8bWEz-ZbdSCjBmg&expires=1792165920",
+                "videoSource": "https://ravok.buzz/cdn/hls/5386aa0070228e6e91a27af26b5ea4df/master.m3u8?md5=NYoM4si8bWEz-ZbdSCjBmg&expires=1792165920",
+                "link": "https://ravok.buzz/cdn/hls/5386aa0070228e6e91a27af26b5ea4df/master.m3u8?md5=NYoM4si8bWEz-ZbdSCjBmg&expires=1792165920",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/764Ukd9SfFh0NikAwMunbaV7M_hApx0TDdaf3qJ1kyBcAYD3eGKINOvekNqriDBUHqzYq_wgUYBKz9ajvVHN8w.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "playx",
+          "language": "multi",
+          "video_id": "561f4e83fce053679ab5bbc45e64d9e8",
+          "streamUrl": "https://ravok.buzz/cdn/hls/5386aa0070228e6e91a27af26b5ea4df/master.m3u8?md5=NYoM4si8bWEz-ZbdSCjBmg&expires=1792165920"
+        }
+      },
+      "fetched_at": "2026-10-16T13:52:10Z"
+    },
+    {
+      "id": "episode/sparks-of-tomorrow-1x7",
+      "episode_id": "episode/sparks-of-tomorrow-1x7",
+      "title": "Sparks of Tomorrow 1x1",
+      "episode_name": "Sparks of Tomorrow 1x1",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2082_s1e7.webp",
+      "abyssid": null,
+      "abyssId": null,
+      "playxid": "47faaa86a0f77d1d93bdc57e86cfd6c6",
+      "playXID": "47faaa86a0f77d1d93bdc57e86cfd6c6",
+      "stream_info": {
+        "hasDubPlayer": false,
+        "abyssId": null,
+        "playXID": "47faaa86a0f77d1d93bdc57e86cfd6c6",
+        "streamId": null,
+        "dubPlayerSrc": null,
+        "message": "No episode sources found",
+        "serversEndpoint": "/stream/servers/?playXID=47faaa86a0f77d1d93bdc57e86cfd6c6"
+      },
+      "streamInfo": {
+        "hasDubPlayer": false,
+        "abyssId": null,
+        "playXID": "47faaa86a0f77d1d93bdc57e86cfd6c6",
+        "streamId": null,
+        "dubPlayerSrc": null,
+        "message": "No episode sources found",
+        "serversEndpoint": "/stream/servers/?playXID=47faaa86a0f77d1d93bdc57e86cfd6c6"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/9b3283db416902b9c8912bc05b9fee78",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/9b3283db416902b9c8912bc05b9fee78"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "47faaa86a0f77d1d93bdc57e86cfd6c6",
+        "abyssId": null,
+        "playXID": "47faaa86a0f77d1d93bdc57e86cfd6c6",
+        "title": "Episode Stream",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/9fc6a7afa085994e6cff5cb7477724b6/master.m3u8?md5=Lh3xHbuhJvGNiEik992LQQ&expires=1792165920",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/9fc6a7afa085994e6cff5cb7477724b6/master.m3u8?md5=Lh3xHbuhJvGNiEik992LQQ&expires=1792165920",
+            "videoSource": "https://ravok.buzz/cdn/hls/9fc6a7afa085994e6cff5cb7477724b6/master.m3u8?md5=Lh3xHbuhJvGNiEik992LQQ&expires=1792165920",
+            "videoImage": "https://as-cdn30.top/p/WuEsvsC37wUNlBpHqahgf2ZNo7nGvaECoK-qnf62lo_l-ZY_FWqRcmi2vsE-lOEtgYBnPxaf-NmtvCEmqSugLg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "47faaa86a0f77d1d93bdc57e86cfd6c6",
+                "streamUrl": "https://ravok.buzz/cdn/hls/9fc6a7afa085994e6cff5cb7477724b6/master.m3u8?md5=Lh3xHbuhJvGNiEik992LQQ&expires=1792165920",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/9fc6a7afa085994e6cff5cb7477724b6/master.m3u8?md5=Lh3xHbuhJvGNiEik992LQQ&expires=1792165920",
+                "videoSource": "https://ravok.buzz/cdn/hls/9fc6a7afa085994e6cff5cb7477724b6/master.m3u8?md5=Lh3xHbuhJvGNiEik992LQQ&expires=1792165920",
+                "link": "https://ravok.buzz/cdn/hls/9fc6a7afa085994e6cff5cb7477724b6/master.m3u8?md5=Lh3xHbuhJvGNiEik992LQQ&expires=1792165920",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/WuEsvsC37wUNlBpHqahgf2ZNo7nGvaECoK-qnf62lo_l-ZY_FWqRcmi2vsE-lOEtgYBnPxaf-NmtvCEmqSugLg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "playx",
+          "language": "multi",
+          "video_id": "47faaa86a0f77d1d93bdc57e86cfd6c6",
+          "streamUrl": "https://ravok.buzz/cdn/hls/9fc6a7afa085994e6cff5cb7477724b6/master.m3u8?md5=Lh3xHbuhJvGNiEik992LQQ&expires=1792165920"
+        }
+      },
+      "fetched_at": "2026-10-16T13:52:10Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T13:52:05Z",
+  "updated_at": "2026-10-16T13:52:10Z"
+}

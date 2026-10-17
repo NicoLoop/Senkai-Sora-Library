@@ -1,0 +1,338 @@
+{
+  "id": "series/hanaori-san-still-wants-to-fight-in-the-next-life",
+  "series_name": "Hanaori-san Still Wants to Fight in the Next Life",
+  "title": "Hanaori-san Still Wants to Fight in the Next Life",
+  "banner": "https://image.tmdb.org/t/p/w1280/uwDbJwDrzM6Xqx1yh4lkh8xUsbp.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/h2JZRLaFXWWhh61vAjqgHXeiZd8.jpg",
+  "genra": [
+    "Comedy",
+    "Romance",
+    "Supernatural"
+  ],
+  "genres": [
+    "Comedy",
+    "Romance",
+    "Supernatural"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Japanese",
+    "Tamil",
+    "Telugu"
+  ],
+  "synopsis": "Once the Demon King, now a shut-in NEET—Ryusei Narukami's second life is anything but peaceful! When Meteor Hanaori, the Hero who once defeated him, suddenly returns as a normal high school girl, his world is thrown into chaos. Determined to change, Ryusei reenters society as a teacher and ends up teaching at her school! Their explosive reunion reignites the past—and sparks an unexpected love!",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 3,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 3,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Hanaori-san Still Wants to Fight in the Next Life 1x1",
+          "id": "episode/hanaori-san-still-wants-to-fight-in-the-next-life-1x1",
+          "image": "https://img.watchanimeworld.one/img/thumb_2506_s1e1.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "Hanaori-san Still Wants to Fight in the Next Life 1x2",
+          "id": "episode/hanaori-san-still-wants-to-fight-in-the-next-life-1x2",
+          "image": "https://img.watchanimeworld.one/img/thumb_2506_s1e2.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "Hanaori-san Still Wants to Fight in the Next Life 1x3",
+          "id": "episode/hanaori-san-still-wants-to-fight-in-the-next-life-1x3",
+          "image": "https://img.watchanimeworld.one/img/thumb_2506_s1e3.webp",
+          "season": 1
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/hanaori-san-still-wants-to-fight-in-the-next-life-1x1",
+      "episode_id": "episode/hanaori-san-still-wants-to-fight-in-the-next-life-1x1",
+      "title": "Hanaori-san Still Wants to Fight in the Next Life 1x1",
+      "episode_name": "Hanaori-san Still Wants to Fight in the Next Life 1x1",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2506_s1e1.webp",
+      "abyssid": "18776",
+      "abyssId": "18776",
+      "playxid": "73715c097259c228af0648823d754407",
+      "playXID": "73715c097259c228af0648823d754407",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18776",
+        "playXID": "73715c097259c228af0648823d754407",
+        "streamId": "18776",
+        "dubPlayerSrc": "/dub-player/t/18776/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=73715c097259c228af0648823d754407&abyssId=18776"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18776",
+        "playXID": "73715c097259c228af0648823d754407",
+        "streamId": "18776",
+        "dubPlayerSrc": "/dub-player/t/18776/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=73715c097259c228af0648823d754407&abyssId=18776"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/699123454aa4781d475b96aaac59dc62",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/699123454aa4781d475b96aaac59dc62"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18776",
+        "abyssId": "18776",
+        "playXID": "73715c097259c228af0648823d754407",
+        "title": "Hanaori-san Still Wants to Fight in the Next Life",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "YdbL1Thul"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "B0puhw-U8"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "Ff3Yn11C4"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "WcX3Yvxli"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "Y8dDoA9Bz"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/2d2f4a8fab7a01db939d383c623eb5b0/master.m3u8?md5=2o7Pm2Dn3gHvOdiL1y_QUA&expires=1792165697",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/2d2f4a8fab7a01db939d383c623eb5b0/master.m3u8?md5=2o7Pm2Dn3gHvOdiL1y_QUA&expires=1792165697",
+            "videoSource": "https://ravok.buzz/cdn/hls/2d2f4a8fab7a01db939d383c623eb5b0/master.m3u8?md5=2o7Pm2Dn3gHvOdiL1y_QUA&expires=1792165697",
+            "videoImage": "https://as-cdn31.top/p/5mpx_9HEEhjPvu5Z6xTr8iR1f3XIKYTDaubxkwZ3XC1TMSzWh2nNmFXIPQj2ps-b7PVuArJgX93yFJoJxa99Bw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "73715c097259c228af0648823d754407",
+                "streamUrl": "https://ravok.buzz/cdn/hls/2d2f4a8fab7a01db939d383c623eb5b0/master.m3u8?md5=2o7Pm2Dn3gHvOdiL1y_QUA&expires=1792165697",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/2d2f4a8fab7a01db939d383c623eb5b0/master.m3u8?md5=2o7Pm2Dn3gHvOdiL1y_QUA&expires=1792165697",
+                "videoSource": "https://ravok.buzz/cdn/hls/2d2f4a8fab7a01db939d383c623eb5b0/master.m3u8?md5=2o7Pm2Dn3gHvOdiL1y_QUA&expires=1792165697",
+                "link": "https://ravok.buzz/cdn/hls/2d2f4a8fab7a01db939d383c623eb5b0/master.m3u8?md5=2o7Pm2Dn3gHvOdiL1y_QUA&expires=1792165697",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/5mpx_9HEEhjPvu5Z6xTr8iR1f3XIKYTDaubxkwZ3XC1TMSzWh2nNmFXIPQj2ps-b7PVuArJgX93yFJoJxa99Bw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "YdbL1Thul"
+        }
+      },
+      "fetched_at": "2026-10-16T13:48:27Z"
+    },
+    {
+      "id": "episode/hanaori-san-still-wants-to-fight-in-the-next-life-1x2",
+      "episode_id": "episode/hanaori-san-still-wants-to-fight-in-the-next-life-1x2",
+      "title": "Hanaori-san Still Wants to Fight in the Next Life 1x1",
+      "episode_name": "Hanaori-san Still Wants to Fight in the Next Life 1x1",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2506_s1e2.webp",
+      "abyssid": null,
+      "abyssId": null,
+      "playxid": "2cf48a149caf6a7f6331511988d4174e",
+      "playXID": "2cf48a149caf6a7f6331511988d4174e",
+      "stream_info": {
+        "hasDubPlayer": false,
+        "abyssId": null,
+        "playXID": "2cf48a149caf6a7f6331511988d4174e",
+        "streamId": null,
+        "dubPlayerSrc": null,
+        "message": "No episode sources found",
+        "serversEndpoint": "/stream/servers/?playXID=2cf48a149caf6a7f6331511988d4174e"
+      },
+      "streamInfo": {
+        "hasDubPlayer": false,
+        "abyssId": null,
+        "playXID": "2cf48a149caf6a7f6331511988d4174e",
+        "streamId": null,
+        "dubPlayerSrc": null,
+        "message": "No episode sources found",
+        "serversEndpoint": "/stream/servers/?playXID=2cf48a149caf6a7f6331511988d4174e"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/98ea09126edd6eea0b7affbbeb0d9b17",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/98ea09126edd6eea0b7affbbeb0d9b17"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "2cf48a149caf6a7f6331511988d4174e",
+        "abyssId": null,
+        "playXID": "2cf48a149caf6a7f6331511988d4174e",
+        "title": "Episode Stream",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/2e55aa13095d81e84449f1d51b91045f/master.m3u8?md5=xqusJVQw8wpGCyhFUYSFAg&expires=1792165699",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/2e55aa13095d81e84449f1d51b91045f/master.m3u8?md5=xqusJVQw8wpGCyhFUYSFAg&expires=1792165699",
+            "videoSource": "https://ravok.buzz/cdn/hls/2e55aa13095d81e84449f1d51b91045f/master.m3u8?md5=xqusJVQw8wpGCyhFUYSFAg&expires=1792165699",
+            "videoImage": "https://as-cdn30.top/p/QLQiSAuwXpVB5QuuagULbwb2W4ByTKvdDl1bZaO7-Ur5iu2F3UVEmsHd3izTJpx-ETDBf7B8HjFDjSVprCkUxg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "2cf48a149caf6a7f6331511988d4174e",
+                "streamUrl": "https://ravok.buzz/cdn/hls/2e55aa13095d81e84449f1d51b91045f/master.m3u8?md5=xqusJVQw8wpGCyhFUYSFAg&expires=1792165699",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/2e55aa13095d81e84449f1d51b91045f/master.m3u8?md5=xqusJVQw8wpGCyhFUYSFAg&expires=1792165699",
+                "videoSource": "https://ravok.buzz/cdn/hls/2e55aa13095d81e84449f1d51b91045f/master.m3u8?md5=xqusJVQw8wpGCyhFUYSFAg&expires=1792165699",
+                "link": "https://ravok.buzz/cdn/hls/2e55aa13095d81e84449f1d51b91045f/master.m3u8?md5=xqusJVQw8wpGCyhFUYSFAg&expires=1792165699",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/QLQiSAuwXpVB5QuuagULbwb2W4ByTKvdDl1bZaO7-Ur5iu2F3UVEmsHd3izTJpx-ETDBf7B8HjFDjSVprCkUxg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "playx",
+          "language": "multi",
+          "video_id": "2cf48a149caf6a7f6331511988d4174e",
+          "streamUrl": "https://ravok.buzz/cdn/hls/2e55aa13095d81e84449f1d51b91045f/master.m3u8?md5=xqusJVQw8wpGCyhFUYSFAg&expires=1792165699"
+        }
+      },
+      "fetched_at": "2026-10-16T13:48:29Z"
+    },
+    {
+      "id": "episode/hanaori-san-still-wants-to-fight-in-the-next-life-1x3",
+      "episode_id": "episode/hanaori-san-still-wants-to-fight-in-the-next-life-1x3",
+      "title": "Hanaori-san Still Wants to Fight in the Next Life 1x1",
+      "episode_name": "Hanaori-san Still Wants to Fight in the Next Life 1x1",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2506_s1e3.webp",
+      "abyssid": null,
+      "abyssId": null,
+      "playxid": "d17a7f1ab65bd42c6088a5b8b359ae8a",
+      "playXID": "d17a7f1ab65bd42c6088a5b8b359ae8a",
+      "stream_info": {
+        "hasDubPlayer": false,
+        "abyssId": null,
+        "playXID": "d17a7f1ab65bd42c6088a5b8b359ae8a",
+        "streamId": null,
+        "dubPlayerSrc": null,
+        "message": "No episode sources found",
+        "serversEndpoint": "/stream/servers/?playXID=d17a7f1ab65bd42c6088a5b8b359ae8a"
+      },
+      "streamInfo": {
+        "hasDubPlayer": false,
+        "abyssId": null,
+        "playXID": "d17a7f1ab65bd42c6088a5b8b359ae8a",
+        "streamId": null,
+        "dubPlayerSrc": null,
+        "message": "No episode sources found",
+        "serversEndpoint": "/stream/servers/?playXID=d17a7f1ab65bd42c6088a5b8b359ae8a"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/b7cf739bf3f291eb97b5e3d425eea00d",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/b7cf739bf3f291eb97b5e3d425eea00d"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "d17a7f1ab65bd42c6088a5b8b359ae8a",
+        "abyssId": null,
+        "playXID": "d17a7f1ab65bd42c6088a5b8b359ae8a",
+        "title": "Episode Stream",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/a3b1c064bc732656c5d462b3b1c4d862/master.m3u8?md5=LOQWSYydkBeZb9H2elRF2Q&expires=1792165702",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/a3b1c064bc732656c5d462b3b1c4d862/master.m3u8?md5=LOQWSYydkBeZb9H2elRF2Q&expires=1792165702",
+            "videoSource": "https://ravok.buzz/cdn/hls/a3b1c064bc732656c5d462b3b1c4d862/master.m3u8?md5=LOQWSYydkBeZb9H2elRF2Q&expires=1792165702",
+            "videoImage": "https://as-cdn29.top/p/J7xepuU9TDn17uoTiY_XdnYahqPtf16fsb4OakMpf-9lFodqP-IzxxWBxlsJnu8v6lo5NxvJEjg6QG-Uvoi7Mg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "d17a7f1ab65bd42c6088a5b8b359ae8a",
+                "streamUrl": "https://ravok.buzz/cdn/hls/a3b1c064bc732656c5d462b3b1c4d862/master.m3u8?md5=LOQWSYydkBeZb9H2elRF2Q&expires=1792165702",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/a3b1c064bc732656c5d462b3b1c4d862/master.m3u8?md5=LOQWSYydkBeZb9H2elRF2Q&expires=1792165702",
+                "videoSource": "https://ravok.buzz/cdn/hls/a3b1c064bc732656c5d462b3b1c4d862/master.m3u8?md5=LOQWSYydkBeZb9H2elRF2Q&expires=1792165702",
+                "link": "https://ravok.buzz/cdn/hls/a3b1c064bc732656c5d462b3b1c4d862/master.m3u8?md5=LOQWSYydkBeZb9H2elRF2Q&expires=1792165702",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/J7xepuU9TDn17uoTiY_XdnYahqPtf16fsb4OakMpf-9lFodqP-IzxxWBxlsJnu8v6lo5NxvJEjg6QG-Uvoi7Mg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "playx",
+          "language": "multi",
+          "video_id": "d17a7f1ab65bd42c6088a5b8b359ae8a",
+          "streamUrl": "https://ravok.buzz/cdn/hls/a3b1c064bc732656c5d462b3b1c4d862/master.m3u8?md5=LOQWSYydkBeZb9H2elRF2Q&expires=1792165702"
+        }
+      },
+      "fetched_at": "2026-10-16T13:48:32Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T13:48:24Z",
+  "updated_at": "2026-10-16T13:48:32Z"
+}

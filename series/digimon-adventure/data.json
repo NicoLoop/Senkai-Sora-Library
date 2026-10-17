@@ -1,0 +1,2785 @@
+{
+  "id": "series/digimon-adventure",
+  "series_name": "Digimon Adventure:",
+  "title": "Digimon Adventure:",
+  "banner": "https://image.tmdb.org/t/p/w1280/xsEMAdrDprq3Ldre56Rm0zqbfCA.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/7Qspx2eFX0uBSQLLlAKnYrjZgse.jpg",
+  "genra": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Isekai",
+    "Kids"
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Isekai",
+    "Kids"
+  ],
+  "languages": [
+    "Hindi",
+    "Japanese",
+    "Tamil",
+    "Telugu"
+  ],
+  "synopsis": "It's the year 2020. The Network has become something humans can no longer do without in their daily lives. But what humans don't know is that on the other side of the Network is the Digital World, a realm of light and darkness. Nor are they aware of the Digimon who live there. Fifth grader Taichi Yagami's mother and little sister Hikari went to Shibuya, and now they're aboard a runaway train. Taichi hurries to Shibuya to save his mother and sister, but the instant he heads toward the station platform... a strange phenomenon befalls the DigiDestined, and Taichi goes to the Digital World!",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 24,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 24,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "And So it Begins...",
+          "id": "episode/digimon-adventure-1x1",
+          "image": "https://img.watchanimeworld.one/images/2847/01.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "The Birth of Greymon",
+          "id": "episode/digimon-adventure-1x2",
+          "image": "https://img.watchanimeworld.one/images/2847/02.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "Garurumon",
+          "id": "episode/digimon-adventure-1x3",
+          "image": "https://img.watchanimeworld.one/images/2847/03.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "Biyomon Gets Firepower",
+          "id": "episode/digimon-adventure-1x4",
+          "image": "https://img.watchanimeworld.one/images/2847/04.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "Kabuterimon's Electro Shocker",
+          "id": "episode/digimon-adventure-1x5",
+          "image": "https://img.watchanimeworld.one/images/2847/05.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "Togemon in Toy Town",
+          "id": "episode/digimon-adventure-1x6",
+          "image": "https://img.watchanimeworld.one/images/2847/06.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "Ikkakumon's Harpoon Torpedo",
+          "id": "episode/digimon-adventure-1x7",
+          "image": "https://img.watchanimeworld.one/images/2847/07.webp",
+          "season": 1
+        },
+        {
+          "episode": 8,
+          "title": "Evil Shows His Face",
+          "id": "episode/digimon-adventure-1x8",
+          "image": "https://img.watchanimeworld.one/images/2847/08.webp",
+          "season": 1
+        },
+        {
+          "episode": 9,
+          "title": "Subzero Ice Punch!",
+          "id": "episode/digimon-adventure-1x9",
+          "image": "https://img.watchanimeworld.one/images/2847/09.webp",
+          "season": 1
+        },
+        {
+          "episode": 10,
+          "title": "A Clue from the Digi-Past",
+          "id": "episode/digimon-adventure-1x10",
+          "image": "https://img.watchanimeworld.one/images/2847/10.webp",
+          "season": 1
+        },
+        {
+          "episode": 11,
+          "title": "The Dancing Digimon",
+          "id": "episode/digimon-adventure-1x11",
+          "image": "https://img.watchanimeworld.one/images/2847/11.webp",
+          "season": 1
+        },
+        {
+          "episode": 12,
+          "title": "DigiBaby Boom",
+          "id": "episode/digimon-adventure-1x12",
+          "image": "https://img.watchanimeworld.one/images/2847/12.webp",
+          "season": 1
+        },
+        {
+          "episode": 13,
+          "title": "The Legend of the Digi-destined",
+          "id": "episode/digimon-adventure-1x13",
+          "image": "https://img.watchanimeworld.one/images/2847/13.webp",
+          "season": 1
+        },
+        {
+          "episode": 14,
+          "title": "Departure For a New Continent",
+          "id": "episode/digimon-adventure-1x14",
+          "image": "https://img.watchanimeworld.one/images/2847/14.webp",
+          "season": 1
+        },
+        {
+          "episode": 15,
+          "title": "The Dark Network of Etemon",
+          "id": "episode/digimon-adventure-1x15",
+          "image": "https://img.watchanimeworld.one/images/2847/15.webp",
+          "season": 1
+        },
+        {
+          "episode": 16,
+          "title": "The Arrival of Skullgreymon",
+          "id": "episode/digimon-adventure-1x16",
+          "image": "https://img.watchanimeworld.one/images/2847/16.webp",
+          "season": 1
+        },
+        {
+          "episode": 17,
+          "title": "The Crest of Sincerity",
+          "id": "episode/digimon-adventure-1x17",
+          "image": "https://img.watchanimeworld.one/images/2847/17.webp",
+          "season": 1
+        },
+        {
+          "episode": 18,
+          "title": "The Piximon Cometh",
+          "id": "episode/digimon-adventure-1x18",
+          "image": "https://img.watchanimeworld.one/images/2847/18.webp",
+          "season": 1
+        },
+        {
+          "episode": 19,
+          "title": "The Prisoner of the Pyramid",
+          "id": "episode/digimon-adventure-1x19",
+          "image": "https://img.watchanimeworld.one/images/2847/19.webp",
+          "season": 1
+        },
+        {
+          "episode": 20,
+          "title": "The Earthquake of MetalGreymon",
+          "id": "episode/digimon-adventure-1x20",
+          "image": "https://img.watchanimeworld.one/images/2847/20.webp",
+          "season": 1
+        },
+        {
+          "episode": 21,
+          "title": "Home Away from Home",
+          "id": "episode/digimon-adventure-1x21",
+          "image": "https://img.watchanimeworld.one/images/2847/21.webp",
+          "season": 1
+        },
+        {
+          "episode": 22,
+          "title": "Forget About It!",
+          "id": "episode/digimon-adventure-1x22",
+          "image": "https://img.watchanimeworld.one/images/2847/22.webp",
+          "season": 1
+        },
+        {
+          "episode": 23,
+          "title": "WereGarurumon's Diner",
+          "id": "episode/digimon-adventure-1x23",
+          "image": "https://img.watchanimeworld.one/images/2847/23.webp",
+          "season": 1
+        },
+        {
+          "episode": 24,
+          "title": "No Questions, Please",
+          "id": "episode/digimon-adventure-1x24",
+          "image": "https://img.watchanimeworld.one/images/2847/24.webp",
+          "season": 1
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/digimon-adventure-1x3",
+      "episode_id": "episode/digimon-adventure-1x3",
+      "title": "And So it Begins...",
+      "episode_name": "And So it Begins...",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/2847/03.webp",
+      "abyssid": "6397",
+      "abyssId": "6397",
+      "playxid": "27669f3f141da48bfe5e6b7aa37c38f9",
+      "playXID": "27669f3f141da48bfe5e6b7aa37c38f9",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "6397",
+        "playXID": "27669f3f141da48bfe5e6b7aa37c38f9",
+        "streamId": "6397",
+        "dubPlayerSrc": "/dub-player/t/6397/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=27669f3f141da48bfe5e6b7aa37c38f9&abyssId=6397"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "6397",
+        "playXID": "27669f3f141da48bfe5e6b7aa37c38f9",
+        "streamId": "6397",
+        "dubPlayerSrc": "/dub-player/t/6397/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=27669f3f141da48bfe5e6b7aa37c38f9&abyssId=6397"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/27669f3f141da48bfe5e6b7aa37c38f9",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/27669f3f141da48bfe5e6b7aa37c38f9"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "6397",
+        "abyssId": "6397",
+        "playXID": "27669f3f141da48bfe5e6b7aa37c38f9",
+        "title": "Digimon Adventure:",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "F6C74eHzT"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "8iysgZpSf"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "zlRbTp5Su"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "wTqB3zhSwI"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/9bc14fb54b524ce2f54aebd1cb5518ac/master.m3u8?md5=8bA3WR8xtUFLE7ktARmt1Q&expires=1792167837",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/9bc14fb54b524ce2f54aebd1cb5518ac/master.m3u8?md5=8bA3WR8xtUFLE7ktARmt1Q&expires=1792167837",
+            "videoSource": "https://ravok.buzz/cdn/hls/9bc14fb54b524ce2f54aebd1cb5518ac/master.m3u8?md5=8bA3WR8xtUFLE7ktARmt1Q&expires=1792167837",
+            "videoImage": "https://as-cdn29.top/p/FvryEaFlQ4Lqgz84kqBv7ozuGBWf5aDBOKsGk_uXkbt8n6aB91ib79jK9KiXFyxhBQAuIAK0OKlO2sH71J-9SA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "27669f3f141da48bfe5e6b7aa37c38f9",
+                "streamUrl": "https://ravok.buzz/cdn/hls/9bc14fb54b524ce2f54aebd1cb5518ac/master.m3u8?md5=8bA3WR8xtUFLE7ktARmt1Q&expires=1792167837",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/9bc14fb54b524ce2f54aebd1cb5518ac/master.m3u8?md5=8bA3WR8xtUFLE7ktARmt1Q&expires=1792167837",
+                "videoSource": "https://ravok.buzz/cdn/hls/9bc14fb54b524ce2f54aebd1cb5518ac/master.m3u8?md5=8bA3WR8xtUFLE7ktARmt1Q&expires=1792167837",
+                "link": "https://ravok.buzz/cdn/hls/9bc14fb54b524ce2f54aebd1cb5518ac/master.m3u8?md5=8bA3WR8xtUFLE7ktARmt1Q&expires=1792167837",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/FvryEaFlQ4Lqgz84kqBv7ozuGBWf5aDBOKsGk_uXkbt8n6aB91ib79jK9KiXFyxhBQAuIAK0OKlO2sH71J-9SA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "F6C74eHzT"
+        }
+      },
+      "fetched_at": "2026-10-16T14:24:07Z"
+    },
+    {
+      "id": "episode/digimon-adventure-1x5",
+      "episode_id": "episode/digimon-adventure-1x5",
+      "title": "And So it Begins...",
+      "episode_name": "And So it Begins...",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/2847/05.webp",
+      "abyssid": "6399",
+      "abyssId": "6399",
+      "playxid": "0f9cafd014db7a619ddb4276af0d692c",
+      "playXID": "0f9cafd014db7a619ddb4276af0d692c",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "6399",
+        "playXID": "0f9cafd014db7a619ddb4276af0d692c",
+        "streamId": "6399",
+        "dubPlayerSrc": "/dub-player/t/6399/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=0f9cafd014db7a619ddb4276af0d692c&abyssId=6399"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "6399",
+        "playXID": "0f9cafd014db7a619ddb4276af0d692c",
+        "streamId": "6399",
+        "dubPlayerSrc": "/dub-player/t/6399/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=0f9cafd014db7a619ddb4276af0d692c&abyssId=6399"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/0f9cafd014db7a619ddb4276af0d692c",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/0f9cafd014db7a619ddb4276af0d692c"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "6399",
+        "abyssId": "6399",
+        "playXID": "0f9cafd014db7a619ddb4276af0d692c",
+        "title": "Digimon Adventure:",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "YtEaAbXbM"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "TEylhKZL5"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "ryMJAm_z5"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "wY1DsE2UF"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/71c7e59dea64ffb0da3f89508a319887/master.m3u8?md5=F1eNcRQ5QjWAPvLNENYs-A&expires=1792167837",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/71c7e59dea64ffb0da3f89508a319887/master.m3u8?md5=F1eNcRQ5QjWAPvLNENYs-A&expires=1792167837",
+            "videoSource": "https://ravok.buzz/cdn/hls/71c7e59dea64ffb0da3f89508a319887/master.m3u8?md5=F1eNcRQ5QjWAPvLNENYs-A&expires=1792167837",
+            "videoImage": "https://as-cdn31.top/p/RN-Cq8JgK8IlIu8lcrIgb7_hgxOHyvQUWtGxVBfUaXUKnaijE9GRx_oa5HsOtI-k2x9Gj47Bs-Dae1bO9oUxzw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "0f9cafd014db7a619ddb4276af0d692c",
+                "streamUrl": "https://ravok.buzz/cdn/hls/71c7e59dea64ffb0da3f89508a319887/master.m3u8?md5=F1eNcRQ5QjWAPvLNENYs-A&expires=1792167837",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/71c7e59dea64ffb0da3f89508a319887/master.m3u8?md5=F1eNcRQ5QjWAPvLNENYs-A&expires=1792167837",
+                "videoSource": "https://ravok.buzz/cdn/hls/71c7e59dea64ffb0da3f89508a319887/master.m3u8?md5=F1eNcRQ5QjWAPvLNENYs-A&expires=1792167837",
+                "link": "https://ravok.buzz/cdn/hls/71c7e59dea64ffb0da3f89508a319887/master.m3u8?md5=F1eNcRQ5QjWAPvLNENYs-A&expires=1792167837",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/RN-Cq8JgK8IlIu8lcrIgb7_hgxOHyvQUWtGxVBfUaXUKnaijE9GRx_oa5HsOtI-k2x9Gj47Bs-Dae1bO9oUxzw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "YtEaAbXbM"
+        }
+      },
+      "fetched_at": "2026-10-16T14:24:07Z"
+    },
+    {
+      "id": "episode/digimon-adventure-1x1",
+      "episode_id": "episode/digimon-adventure-1x1",
+      "title": "And So it Begins...",
+      "episode_name": "And So it Begins...",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/2847/01.webp",
+      "abyssid": "6395",
+      "abyssId": "6395",
+      "playxid": "d01eeca8b24321cd2fe89dd85b9beb51",
+      "playXID": "d01eeca8b24321cd2fe89dd85b9beb51",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "6395",
+        "playXID": "d01eeca8b24321cd2fe89dd85b9beb51",
+        "streamId": "6395",
+        "dubPlayerSrc": "/dub-player/t/6395/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d01eeca8b24321cd2fe89dd85b9beb51&abyssId=6395"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "6395",
+        "playXID": "d01eeca8b24321cd2fe89dd85b9beb51",
+        "streamId": "6395",
+        "dubPlayerSrc": "/dub-player/t/6395/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d01eeca8b24321cd2fe89dd85b9beb51&abyssId=6395"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/d01eeca8b24321cd2fe89dd85b9beb51",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/d01eeca8b24321cd2fe89dd85b9beb51"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "6395",
+        "abyssId": "6395",
+        "playXID": "d01eeca8b24321cd2fe89dd85b9beb51",
+        "title": "Digimon Adventure:",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "6QwJDAF0q"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "KAnTtMmwS"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "U5v16fDqj"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "oUJhvNfsN"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/f4e02ff0fb35b7d3f3a770c42211a182/master.m3u8?md5=pKnOT09CwuuMSuyEQCSLXQ&expires=1792167837",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/f4e02ff0fb35b7d3f3a770c42211a182/master.m3u8?md5=pKnOT09CwuuMSuyEQCSLXQ&expires=1792167837",
+            "videoSource": "https://ravok.buzz/cdn/hls/f4e02ff0fb35b7d3f3a770c42211a182/master.m3u8?md5=pKnOT09CwuuMSuyEQCSLXQ&expires=1792167837",
+            "videoImage": "https://as-cdn28.top/p/8nUnm4HCg55gkclLLhA3GXcXWFr3aRSRJx4wATwWUV39xM4-4tXAZ5gJenfR4slwNbWIdaT3NuW8LNICIbSdPQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "d01eeca8b24321cd2fe89dd85b9beb51",
+                "streamUrl": "https://ravok.buzz/cdn/hls/f4e02ff0fb35b7d3f3a770c42211a182/master.m3u8?md5=pKnOT09CwuuMSuyEQCSLXQ&expires=1792167837",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/f4e02ff0fb35b7d3f3a770c42211a182/master.m3u8?md5=pKnOT09CwuuMSuyEQCSLXQ&expires=1792167837",
+                "videoSource": "https://ravok.buzz/cdn/hls/f4e02ff0fb35b7d3f3a770c42211a182/master.m3u8?md5=pKnOT09CwuuMSuyEQCSLXQ&expires=1792167837",
+                "link": "https://ravok.buzz/cdn/hls/f4e02ff0fb35b7d3f3a770c42211a182/master.m3u8?md5=pKnOT09CwuuMSuyEQCSLXQ&expires=1792167837",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/8nUnm4HCg55gkclLLhA3GXcXWFr3aRSRJx4wATwWUV39xM4-4tXAZ5gJenfR4slwNbWIdaT3NuW8LNICIbSdPQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "6QwJDAF0q"
+        }
+      },
+      "fetched_at": "2026-10-16T14:24:07Z"
+    },
+    {
+      "id": "episode/digimon-adventure-1x2",
+      "episode_id": "episode/digimon-adventure-1x2",
+      "title": "And So it Begins...",
+      "episode_name": "And So it Begins...",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/2847/02.webp",
+      "abyssid": "6396",
+      "abyssId": "6396",
+      "playxid": "fa8dbbcb682699544e4e8f2212115f73",
+      "playXID": "fa8dbbcb682699544e4e8f2212115f73",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "6396",
+        "playXID": "fa8dbbcb682699544e4e8f2212115f73",
+        "streamId": "6396",
+        "dubPlayerSrc": "/dub-player/t/6396/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=fa8dbbcb682699544e4e8f2212115f73&abyssId=6396"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "6396",
+        "playXID": "fa8dbbcb682699544e4e8f2212115f73",
+        "streamId": "6396",
+        "dubPlayerSrc": "/dub-player/t/6396/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=fa8dbbcb682699544e4e8f2212115f73&abyssId=6396"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/fa8dbbcb682699544e4e8f2212115f73",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/fa8dbbcb682699544e4e8f2212115f73"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "6396",
+        "abyssId": "6396",
+        "playXID": "fa8dbbcb682699544e4e8f2212115f73",
+        "title": "Digimon Adventure:",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "vzJseLowI"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "9DF-X40Yh5"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "SOCe2tPs_"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "0Hnqb0SwV"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/23da1690aa3f66d7e120fc6d3943f5af/master.m3u8?md5=3tVT9W_6tcrFhx29xyB_iA&expires=1792167837",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/23da1690aa3f66d7e120fc6d3943f5af/master.m3u8?md5=3tVT9W_6tcrFhx29xyB_iA&expires=1792167837",
+            "videoSource": "https://ravok.buzz/cdn/hls/23da1690aa3f66d7e120fc6d3943f5af/master.m3u8?md5=3tVT9W_6tcrFhx29xyB_iA&expires=1792167837",
+            "videoImage": "https://as-cdn28.top/p/qtVHl_qB2LvJ7JFMZTQTNadYVoGVhyPQ_apjDBTSY7NqpcfItqcKG0ILALcNf_kSnf8htjfiB-LN6GCHHj2fHA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "fa8dbbcb682699544e4e8f2212115f73",
+                "streamUrl": "https://ravok.buzz/cdn/hls/23da1690aa3f66d7e120fc6d3943f5af/master.m3u8?md5=3tVT9W_6tcrFhx29xyB_iA&expires=1792167837",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/23da1690aa3f66d7e120fc6d3943f5af/master.m3u8?md5=3tVT9W_6tcrFhx29xyB_iA&expires=1792167837",
+                "videoSource": "https://ravok.buzz/cdn/hls/23da1690aa3f66d7e120fc6d3943f5af/master.m3u8?md5=3tVT9W_6tcrFhx29xyB_iA&expires=1792167837",
+                "link": "https://ravok.buzz/cdn/hls/23da1690aa3f66d7e120fc6d3943f5af/master.m3u8?md5=3tVT9W_6tcrFhx29xyB_iA&expires=1792167837",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/qtVHl_qB2LvJ7JFMZTQTNadYVoGVhyPQ_apjDBTSY7NqpcfItqcKG0ILALcNf_kSnf8htjfiB-LN6GCHHj2fHA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "vzJseLowI"
+        }
+      },
+      "fetched_at": "2026-10-16T14:24:07Z"
+    },
+    {
+      "id": "episode/digimon-adventure-1x4",
+      "episode_id": "episode/digimon-adventure-1x4",
+      "title": "And So it Begins...",
+      "episode_name": "And So it Begins...",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/2847/04.webp",
+      "abyssid": "6398",
+      "abyssId": "6398",
+      "playxid": "350a3797caea1668d227c8cbe52c793e",
+      "playXID": "350a3797caea1668d227c8cbe52c793e",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "6398",
+        "playXID": "350a3797caea1668d227c8cbe52c793e",
+        "streamId": "6398",
+        "dubPlayerSrc": "/dub-player/t/6398/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=350a3797caea1668d227c8cbe52c793e&abyssId=6398"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "6398",
+        "playXID": "350a3797caea1668d227c8cbe52c793e",
+        "streamId": "6398",
+        "dubPlayerSrc": "/dub-player/t/6398/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=350a3797caea1668d227c8cbe52c793e&abyssId=6398"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/350a3797caea1668d227c8cbe52c793e",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/350a3797caea1668d227c8cbe52c793e"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "6398",
+        "abyssId": "6398",
+        "playXID": "350a3797caea1668d227c8cbe52c793e",
+        "title": "Digimon Adventure:",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "dng6tepA_"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "flRX1agdB"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "_QLtPTUS_"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "ib8DWCRdV"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/48f9566a74b351aa6b032a297c555274/master.m3u8?md5=XjVPyynlB54xxc_H4i697g&expires=1792167837",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/48f9566a74b351aa6b032a297c555274/master.m3u8?md5=XjVPyynlB54xxc_H4i697g&expires=1792167837",
+            "videoSource": "https://ravok.buzz/cdn/hls/48f9566a74b351aa6b032a297c555274/master.m3u8?md5=XjVPyynlB54xxc_H4i697g&expires=1792167837",
+            "videoImage": "https://as-cdn30.top/p/bBdvnrU0hy4PNStMtK9OnTHExTq4Gjcjnwx9-wpZl5GxBMZEd7rxJie3wymC5U6qibA6TexsgJOEu4KcxGWK9Q.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "350a3797caea1668d227c8cbe52c793e",
+                "streamUrl": "https://ravok.buzz/cdn/hls/48f9566a74b351aa6b032a297c555274/master.m3u8?md5=XjVPyynlB54xxc_H4i697g&expires=1792167837",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/48f9566a74b351aa6b032a297c555274/master.m3u8?md5=XjVPyynlB54xxc_H4i697g&expires=1792167837",
+                "videoSource": "https://ravok.buzz/cdn/hls/48f9566a74b351aa6b032a297c555274/master.m3u8?md5=XjVPyynlB54xxc_H4i697g&expires=1792167837",
+                "link": "https://ravok.buzz/cdn/hls/48f9566a74b351aa6b032a297c555274/master.m3u8?md5=XjVPyynlB54xxc_H4i697g&expires=1792167837",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/bBdvnrU0hy4PNStMtK9OnTHExTq4Gjcjnwx9-wpZl5GxBMZEd7rxJie3wymC5U6qibA6TexsgJOEu4KcxGWK9Q.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "dng6tepA_"
+        }
+      },
+      "fetched_at": "2026-10-16T14:24:07Z"
+    },
+    {
+      "id": "episode/digimon-adventure-1x6",
+      "episode_id": "episode/digimon-adventure-1x6",
+      "title": "And So it Begins...",
+      "episode_name": "And So it Begins...",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/2847/06.webp",
+      "abyssid": "6400",
+      "abyssId": "6400",
+      "playxid": "a62a015d7642877c86d50c266a38b636",
+      "playXID": "a62a015d7642877c86d50c266a38b636",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "6400",
+        "playXID": "a62a015d7642877c86d50c266a38b636",
+        "streamId": "6400",
+        "dubPlayerSrc": "/dub-player/t/6400/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a62a015d7642877c86d50c266a38b636&abyssId=6400"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "6400",
+        "playXID": "a62a015d7642877c86d50c266a38b636",
+        "streamId": "6400",
+        "dubPlayerSrc": "/dub-player/t/6400/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a62a015d7642877c86d50c266a38b636&abyssId=6400"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/a62a015d7642877c86d50c266a38b636",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/a62a015d7642877c86d50c266a38b636"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "6400",
+        "abyssId": "6400",
+        "playXID": "a62a015d7642877c86d50c266a38b636",
+        "title": "Digimon Adventure:",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "yJ1pETIOv"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "niD2MagRW"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "b2EpY6WOp"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "cDBi3IG2k"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/bd230d278e8c6f2b0cc091d260db9bab/master.m3u8?md5=ughSBQE6maoEzf04M7x4Mw&expires=1792167839",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/bd230d278e8c6f2b0cc091d260db9bab/master.m3u8?md5=ughSBQE6maoEzf04M7x4Mw&expires=1792167839",
+            "videoSource": "https://ravok.buzz/cdn/hls/bd230d278e8c6f2b0cc091d260db9bab/master.m3u8?md5=ughSBQE6maoEzf04M7x4Mw&expires=1792167839",
+            "videoImage": "https://as-cdn27.top/p/Yi5461yTGFfNha0e9wHVrqqDq1prskTh47ddqNNN6e_RRiQOqzeY3CbQvr_SVz1AO0rwU3bhlGl777kQdA6apA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "a62a015d7642877c86d50c266a38b636",
+                "streamUrl": "https://ravok.buzz/cdn/hls/bd230d278e8c6f2b0cc091d260db9bab/master.m3u8?md5=ughSBQE6maoEzf04M7x4Mw&expires=1792167839",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/bd230d278e8c6f2b0cc091d260db9bab/master.m3u8?md5=ughSBQE6maoEzf04M7x4Mw&expires=1792167839",
+                "videoSource": "https://ravok.buzz/cdn/hls/bd230d278e8c6f2b0cc091d260db9bab/master.m3u8?md5=ughSBQE6maoEzf04M7x4Mw&expires=1792167839",
+                "link": "https://ravok.buzz/cdn/hls/bd230d278e8c6f2b0cc091d260db9bab/master.m3u8?md5=ughSBQE6maoEzf04M7x4Mw&expires=1792167839",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/Yi5461yTGFfNha0e9wHVrqqDq1prskTh47ddqNNN6e_RRiQOqzeY3CbQvr_SVz1AO0rwU3bhlGl777kQdA6apA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "yJ1pETIOv"
+        }
+      },
+      "fetched_at": "2026-10-16T14:24:09Z"
+    },
+    {
+      "id": "episode/digimon-adventure-1x7",
+      "episode_id": "episode/digimon-adventure-1x7",
+      "title": "And So it Begins...",
+      "episode_name": "And So it Begins...",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/2847/07.webp",
+      "abyssid": "6401",
+      "abyssId": "6401",
+      "playxid": "e3b21256183cf7c2c7a66be163579d37",
+      "playXID": "e3b21256183cf7c2c7a66be163579d37",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "6401",
+        "playXID": "e3b21256183cf7c2c7a66be163579d37",
+        "streamId": "6401",
+        "dubPlayerSrc": "/dub-player/t/6401/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e3b21256183cf7c2c7a66be163579d37&abyssId=6401"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "6401",
+        "playXID": "e3b21256183cf7c2c7a66be163579d37",
+        "streamId": "6401",
+        "dubPlayerSrc": "/dub-player/t/6401/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e3b21256183cf7c2c7a66be163579d37&abyssId=6401"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/e3b21256183cf7c2c7a66be163579d37",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/e3b21256183cf7c2c7a66be163579d37"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "6401",
+        "abyssId": "6401",
+        "playXID": "e3b21256183cf7c2c7a66be163579d37",
+        "title": "Digimon Adventure:",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "CvYx2neik"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "nFj-VduKc"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "_QDLuCNfw"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "f0ccGAxMf"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/2e1adbeba60eb886973d34429eb7f16e/master.m3u8?md5=uobK_yxJAITWzCV5DZGIsw&expires=1792167839",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/2e1adbeba60eb886973d34429eb7f16e/master.m3u8?md5=uobK_yxJAITWzCV5DZGIsw&expires=1792167839",
+            "videoSource": "https://ravok.buzz/cdn/hls/2e1adbeba60eb886973d34429eb7f16e/master.m3u8?md5=uobK_yxJAITWzCV5DZGIsw&expires=1792167839",
+            "videoImage": "https://as-cdn28.top/p/UM0uQhfIkaWhVtm1ac8XNn0pXLhIWWrIWmZjIbmp3RCjdFL_2KElrPy8WOs4Oq833ZaHezFxtmaCxGb-Z7wk2Q.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "e3b21256183cf7c2c7a66be163579d37",
+                "streamUrl": "https://ravok.buzz/cdn/hls/2e1adbeba60eb886973d34429eb7f16e/master.m3u8?md5=uobK_yxJAITWzCV5DZGIsw&expires=1792167839",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/2e1adbeba60eb886973d34429eb7f16e/master.m3u8?md5=uobK_yxJAITWzCV5DZGIsw&expires=1792167839",
+                "videoSource": "https://ravok.buzz/cdn/hls/2e1adbeba60eb886973d34429eb7f16e/master.m3u8?md5=uobK_yxJAITWzCV5DZGIsw&expires=1792167839",
+                "link": "https://ravok.buzz/cdn/hls/2e1adbeba60eb886973d34429eb7f16e/master.m3u8?md5=uobK_yxJAITWzCV5DZGIsw&expires=1792167839",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/UM0uQhfIkaWhVtm1ac8XNn0pXLhIWWrIWmZjIbmp3RCjdFL_2KElrPy8WOs4Oq833ZaHezFxtmaCxGb-Z7wk2Q.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "CvYx2neik"
+        }
+      },
+      "fetched_at": "2026-10-16T14:24:09Z"
+    },
+    {
+      "id": "episode/digimon-adventure-1x9",
+      "episode_id": "episode/digimon-adventure-1x9",
+      "title": "And So it Begins...",
+      "episode_name": "And So it Begins...",
+      "episode_number": 9,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/2847/09.webp",
+      "abyssid": "6403",
+      "abyssId": "6403",
+      "playxid": "ec0f40c389aeef789ce03eb814facc6c",
+      "playXID": "ec0f40c389aeef789ce03eb814facc6c",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "6403",
+        "playXID": "ec0f40c389aeef789ce03eb814facc6c",
+        "streamId": "6403",
+        "dubPlayerSrc": "/dub-player/t/6403/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ec0f40c389aeef789ce03eb814facc6c&abyssId=6403"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "6403",
+        "playXID": "ec0f40c389aeef789ce03eb814facc6c",
+        "streamId": "6403",
+        "dubPlayerSrc": "/dub-player/t/6403/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ec0f40c389aeef789ce03eb814facc6c&abyssId=6403"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/ec0f40c389aeef789ce03eb814facc6c",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/ec0f40c389aeef789ce03eb814facc6c"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "6403",
+        "abyssId": "6403",
+        "playXID": "ec0f40c389aeef789ce03eb814facc6c",
+        "title": "Digimon Adventure:",
+        "season": 1,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "ws6tldIac"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "hdOrLBnDw"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "6Pi4lZwPi"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "M3qRe37rP"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/a6eed8221e1808f2a29dfd18588e58c8/master.m3u8?md5=E2B6UHXJ1KcI-TPjY4WfhA&expires=1792167839",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/a6eed8221e1808f2a29dfd18588e58c8/master.m3u8?md5=E2B6UHXJ1KcI-TPjY4WfhA&expires=1792167839",
+            "videoSource": "https://ravok.buzz/cdn/hls/a6eed8221e1808f2a29dfd18588e58c8/master.m3u8?md5=E2B6UHXJ1KcI-TPjY4WfhA&expires=1792167839",
+            "videoImage": "https://as-cdn29.top/p/JrBT9WVYpFCr5UwtrPre8Cxm41wLF9cCpjDMh7Qa3IjrJnn5c4GTtdiz8qhANokHgnvBJy1ajyOXH14UloZyog.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "ec0f40c389aeef789ce03eb814facc6c",
+                "streamUrl": "https://ravok.buzz/cdn/hls/a6eed8221e1808f2a29dfd18588e58c8/master.m3u8?md5=E2B6UHXJ1KcI-TPjY4WfhA&expires=1792167839",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/a6eed8221e1808f2a29dfd18588e58c8/master.m3u8?md5=E2B6UHXJ1KcI-TPjY4WfhA&expires=1792167839",
+                "videoSource": "https://ravok.buzz/cdn/hls/a6eed8221e1808f2a29dfd18588e58c8/master.m3u8?md5=E2B6UHXJ1KcI-TPjY4WfhA&expires=1792167839",
+                "link": "https://ravok.buzz/cdn/hls/a6eed8221e1808f2a29dfd18588e58c8/master.m3u8?md5=E2B6UHXJ1KcI-TPjY4WfhA&expires=1792167839",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/JrBT9WVYpFCr5UwtrPre8Cxm41wLF9cCpjDMh7Qa3IjrJnn5c4GTtdiz8qhANokHgnvBJy1ajyOXH14UloZyog.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "ws6tldIac"
+        }
+      },
+      "fetched_at": "2026-10-16T14:24:09Z"
+    },
+    {
+      "id": "episode/digimon-adventure-1x8",
+      "episode_id": "episode/digimon-adventure-1x8",
+      "title": "And So it Begins...",
+      "episode_name": "And So it Begins...",
+      "episode_number": 8,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/2847/08.webp",
+      "abyssid": "6402",
+      "abyssId": "6402",
+      "playxid": "a3147b88259a8e5745ebd59394aee83e",
+      "playXID": "a3147b88259a8e5745ebd59394aee83e",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "6402",
+        "playXID": "a3147b88259a8e5745ebd59394aee83e",
+        "streamId": "6402",
+        "dubPlayerSrc": "/dub-player/t/6402/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a3147b88259a8e5745ebd59394aee83e&abyssId=6402"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "6402",
+        "playXID": "a3147b88259a8e5745ebd59394aee83e",
+        "streamId": "6402",
+        "dubPlayerSrc": "/dub-player/t/6402/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a3147b88259a8e5745ebd59394aee83e&abyssId=6402"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/a3147b88259a8e5745ebd59394aee83e",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/a3147b88259a8e5745ebd59394aee83e"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "6402",
+        "abyssId": "6402",
+        "playXID": "a3147b88259a8e5745ebd59394aee83e",
+        "title": "Digimon Adventure:",
+        "season": 1,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "YRnnxrkfw"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "Fyl1OZ-xO"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "WjCHDOHCm"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "v96Ja3WO4"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/6dfb35b322b853c15269498b475235de/master.m3u8?md5=vjqPeCmruP8cOPStGkMfTw&expires=1792167839",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/6dfb35b322b853c15269498b475235de/master.m3u8?md5=vjqPeCmruP8cOPStGkMfTw&expires=1792167839",
+            "videoSource": "https://ravok.buzz/cdn/hls/6dfb35b322b853c15269498b475235de/master.m3u8?md5=vjqPeCmruP8cOPStGkMfTw&expires=1792167839",
+            "videoImage": "https://as-cdn30.top/p/JJAcdR4oPaKqlC4Oip7Dxwswpj9b7eZYI0gomBksF_dUEBX4whtXcRHoKKjulBRfPymPP9Y7mJg7rcyHDa20pw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "a3147b88259a8e5745ebd59394aee83e",
+                "streamUrl": "https://ravok.buzz/cdn/hls/6dfb35b322b853c15269498b475235de/master.m3u8?md5=vjqPeCmruP8cOPStGkMfTw&expires=1792167839",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/6dfb35b322b853c15269498b475235de/master.m3u8?md5=vjqPeCmruP8cOPStGkMfTw&expires=1792167839",
+                "videoSource": "https://ravok.buzz/cdn/hls/6dfb35b322b853c15269498b475235de/master.m3u8?md5=vjqPeCmruP8cOPStGkMfTw&expires=1792167839",
+                "link": "https://ravok.buzz/cdn/hls/6dfb35b322b853c15269498b475235de/master.m3u8?md5=vjqPeCmruP8cOPStGkMfTw&expires=1792167839",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/JJAcdR4oPaKqlC4Oip7Dxwswpj9b7eZYI0gomBksF_dUEBX4whtXcRHoKKjulBRfPymPP9Y7mJg7rcyHDa20pw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "YRnnxrkfw"
+        }
+      },
+      "fetched_at": "2026-10-16T14:24:09Z"
+    },
+    {
+      "id": "episode/digimon-adventure-1x10",
+      "episode_id": "episode/digimon-adventure-1x10",
+      "title": "And So it Begins...",
+      "episode_name": "And So it Begins...",
+      "episode_number": 10,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/2847/10.webp",
+      "abyssid": "6404",
+      "abyssId": "6404",
+      "playxid": "ad68473a64305626a27c32a5408552d7",
+      "playXID": "ad68473a64305626a27c32a5408552d7",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "6404",
+        "playXID": "ad68473a64305626a27c32a5408552d7",
+        "streamId": "6404",
+        "dubPlayerSrc": "/dub-player/t/6404/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ad68473a64305626a27c32a5408552d7&abyssId=6404"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "6404",
+        "playXID": "ad68473a64305626a27c32a5408552d7",
+        "streamId": "6404",
+        "dubPlayerSrc": "/dub-player/t/6404/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ad68473a64305626a27c32a5408552d7&abyssId=6404"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/ad68473a64305626a27c32a5408552d7",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/ad68473a64305626a27c32a5408552d7"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "6404",
+        "abyssId": "6404",
+        "playXID": "ad68473a64305626a27c32a5408552d7",
+        "title": "Digimon Adventure:",
+        "season": 1,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "XNIfn2Atp"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "4H8XNxLAB"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "7-wt4CUXU"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "1SY81i4Jc"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/4554a8c3131f514a601f7793f542b828/master.m3u8?md5=XFYNZrK6QNvxz3PS9VpyIQ&expires=1792167839",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/4554a8c3131f514a601f7793f542b828/master.m3u8?md5=XFYNZrK6QNvxz3PS9VpyIQ&expires=1792167839",
+            "videoSource": "https://ravok.buzz/cdn/hls/4554a8c3131f514a601f7793f542b828/master.m3u8?md5=XFYNZrK6QNvxz3PS9VpyIQ&expires=1792167839",
+            "videoImage": "https://as-cdn30.top/p/FNe9_gIGyWKx3xy4rl-jDnzjA7eGtmB7BTnXGKcbolhobPDjlSAm2eIpGmIRaYN7WtwngHTZMv-hvT0zTrNxcA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "ad68473a64305626a27c32a5408552d7",
+                "streamUrl": "https://ravok.buzz/cdn/hls/4554a8c3131f514a601f7793f542b828/master.m3u8?md5=XFYNZrK6QNvxz3PS9VpyIQ&expires=1792167839",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/4554a8c3131f514a601f7793f542b828/master.m3u8?md5=XFYNZrK6QNvxz3PS9VpyIQ&expires=1792167839",
+                "videoSource": "https://ravok.buzz/cdn/hls/4554a8c3131f514a601f7793f542b828/master.m3u8?md5=XFYNZrK6QNvxz3PS9VpyIQ&expires=1792167839",
+                "link": "https://ravok.buzz/cdn/hls/4554a8c3131f514a601f7793f542b828/master.m3u8?md5=XFYNZrK6QNvxz3PS9VpyIQ&expires=1792167839",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/FNe9_gIGyWKx3xy4rl-jDnzjA7eGtmB7BTnXGKcbolhobPDjlSAm2eIpGmIRaYN7WtwngHTZMv-hvT0zTrNxcA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "XNIfn2Atp"
+        }
+      },
+      "fetched_at": "2026-10-16T14:24:09Z"
+    },
+    {
+      "id": "episode/digimon-adventure-1x11",
+      "episode_id": "episode/digimon-adventure-1x11",
+      "title": "And So it Begins...",
+      "episode_name": "And So it Begins...",
+      "episode_number": 11,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/2847/11.webp",
+      "abyssid": "6405",
+      "abyssId": "6405",
+      "playxid": "9c9f1366edbae758a3bb56eca4388b64",
+      "playXID": "9c9f1366edbae758a3bb56eca4388b64",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "6405",
+        "playXID": "9c9f1366edbae758a3bb56eca4388b64",
+        "streamId": "6405",
+        "dubPlayerSrc": "/dub-player/t/6405/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9c9f1366edbae758a3bb56eca4388b64&abyssId=6405"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "6405",
+        "playXID": "9c9f1366edbae758a3bb56eca4388b64",
+        "streamId": "6405",
+        "dubPlayerSrc": "/dub-player/t/6405/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9c9f1366edbae758a3bb56eca4388b64&abyssId=6405"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/9c9f1366edbae758a3bb56eca4388b64",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/9c9f1366edbae758a3bb56eca4388b64"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "6405",
+        "abyssId": "6405",
+        "playXID": "9c9f1366edbae758a3bb56eca4388b64",
+        "title": "Digimon Adventure:",
+        "season": 1,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "6y6yifWW-"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "jHfHteB2r"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "gPax-OGch"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "R067VQ0gf"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/fa7bc570624c568aa6f5194fb5f57a36/master.m3u8?md5=yjvDYF3qak8m4gKwgPczng&expires=1792167841",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/fa7bc570624c568aa6f5194fb5f57a36/master.m3u8?md5=yjvDYF3qak8m4gKwgPczng&expires=1792167841",
+            "videoSource": "https://ravok.buzz/cdn/hls/fa7bc570624c568aa6f5194fb5f57a36/master.m3u8?md5=yjvDYF3qak8m4gKwgPczng&expires=1792167841",
+            "videoImage": "https://as-cdn30.top/p/LQKiZRZADWHfMHCJRtbCXi2gzgS27DbVACaI3fbz9ovYmx599E1NTIQrJ8xTLOXSlk0_r_8Q2FQjOIlHiXBUpg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "9c9f1366edbae758a3bb56eca4388b64",
+                "streamUrl": "https://ravok.buzz/cdn/hls/fa7bc570624c568aa6f5194fb5f57a36/master.m3u8?md5=yjvDYF3qak8m4gKwgPczng&expires=1792167841",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/fa7bc570624c568aa6f5194fb5f57a36/master.m3u8?md5=yjvDYF3qak8m4gKwgPczng&expires=1792167841",
+                "videoSource": "https://ravok.buzz/cdn/hls/fa7bc570624c568aa6f5194fb5f57a36/master.m3u8?md5=yjvDYF3qak8m4gKwgPczng&expires=1792167841",
+                "link": "https://ravok.buzz/cdn/hls/fa7bc570624c568aa6f5194fb5f57a36/master.m3u8?md5=yjvDYF3qak8m4gKwgPczng&expires=1792167841",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/LQKiZRZADWHfMHCJRtbCXi2gzgS27DbVACaI3fbz9ovYmx599E1NTIQrJ8xTLOXSlk0_r_8Q2FQjOIlHiXBUpg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "6y6yifWW-"
+        }
+      },
+      "fetched_at": "2026-10-16T14:24:10Z"
+    },
+    {
+      "id": "episode/digimon-adventure-1x12",
+      "episode_id": "episode/digimon-adventure-1x12",
+      "title": "And So it Begins...",
+      "episode_name": "And So it Begins...",
+      "episode_number": 12,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/2847/12.webp",
+      "abyssid": "6406",
+      "abyssId": "6406",
+      "playxid": "3b9be7e15b46c42911f39a4a9e861022",
+      "playXID": "3b9be7e15b46c42911f39a4a9e861022",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "6406",
+        "playXID": "3b9be7e15b46c42911f39a4a9e861022",
+        "streamId": "6406",
+        "dubPlayerSrc": "/dub-player/t/6406/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=3b9be7e15b46c42911f39a4a9e861022&abyssId=6406"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "6406",
+        "playXID": "3b9be7e15b46c42911f39a4a9e861022",
+        "streamId": "6406",
+        "dubPlayerSrc": "/dub-player/t/6406/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=3b9be7e15b46c42911f39a4a9e861022&abyssId=6406"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/3b9be7e15b46c42911f39a4a9e861022",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/3b9be7e15b46c42911f39a4a9e861022"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "6406",
+        "abyssId": "6406",
+        "playXID": "3b9be7e15b46c42911f39a4a9e861022",
+        "title": "Digimon Adventure:",
+        "season": 1,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "R9b65exs1"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "AMdRVFxSG"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "3oBRZ1RJN"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "hlp1pHqTd"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/0319e64863f4ab16e1eafbefa545ba68/master.m3u8?md5=Gg1UtjqVbYYdFU_ohKCYcw&expires=1792167841",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/0319e64863f4ab16e1eafbefa545ba68/master.m3u8?md5=Gg1UtjqVbYYdFU_ohKCYcw&expires=1792167841",
+            "videoSource": "https://ravok.buzz/cdn/hls/0319e64863f4ab16e1eafbefa545ba68/master.m3u8?md5=Gg1UtjqVbYYdFU_ohKCYcw&expires=1792167841",
+            "videoImage": "https://as-cdn27.top/p/MmuGrAavtOJYmNFt1wJK_4U6T7wVllsX4nqe4MLupEDZdzZVfw5TdwGO_IUpPNOsCgju4cfF1sx3H0QqiUWI3Q.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "3b9be7e15b46c42911f39a4a9e861022",
+                "streamUrl": "https://ravok.buzz/cdn/hls/0319e64863f4ab16e1eafbefa545ba68/master.m3u8?md5=Gg1UtjqVbYYdFU_ohKCYcw&expires=1792167841",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/0319e64863f4ab16e1eafbefa545ba68/master.m3u8?md5=Gg1UtjqVbYYdFU_ohKCYcw&expires=1792167841",
+                "videoSource": "https://ravok.buzz/cdn/hls/0319e64863f4ab16e1eafbefa545ba68/master.m3u8?md5=Gg1UtjqVbYYdFU_ohKCYcw&expires=1792167841",
+                "link": "https://ravok.buzz/cdn/hls/0319e64863f4ab16e1eafbefa545ba68/master.m3u8?md5=Gg1UtjqVbYYdFU_ohKCYcw&expires=1792167841",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/MmuGrAavtOJYmNFt1wJK_4U6T7wVllsX4nqe4MLupEDZdzZVfw5TdwGO_IUpPNOsCgju4cfF1sx3H0QqiUWI3Q.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "R9b65exs1"
+        }
+      },
+      "fetched_at": "2026-10-16T14:24:11Z"
+    },
+    {
+      "id": "episode/digimon-adventure-1x13",
+      "episode_id": "episode/digimon-adventure-1x13",
+      "title": "And So it Begins...",
+      "episode_name": "And So it Begins...",
+      "episode_number": 13,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/2847/13.webp",
+      "abyssid": "6407",
+      "abyssId": "6407",
+      "playxid": "486c825db2f776da72d0b7a791f45b8f",
+      "playXID": "486c825db2f776da72d0b7a791f45b8f",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "6407",
+        "playXID": "486c825db2f776da72d0b7a791f45b8f",
+        "streamId": "6407",
+        "dubPlayerSrc": "/dub-player/t/6407/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=486c825db2f776da72d0b7a791f45b8f&abyssId=6407"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "6407",
+        "playXID": "486c825db2f776da72d0b7a791f45b8f",
+        "streamId": "6407",
+        "dubPlayerSrc": "/dub-player/t/6407/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=486c825db2f776da72d0b7a791f45b8f&abyssId=6407"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/486c825db2f776da72d0b7a791f45b8f",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/486c825db2f776da72d0b7a791f45b8f"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "6407",
+        "abyssId": "6407",
+        "playXID": "486c825db2f776da72d0b7a791f45b8f",
+        "title": "Digimon Adventure:",
+        "season": 1,
+        "episode": 13,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "J7TZ71PBNq"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "C0VeqQbRQ"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "sl8vKQU13"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "EAcU8Z8fC"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/60599c5db814003609209117a0536e53/master.m3u8?md5=Tac8MXnVgxy3Ze-6MoszwQ&expires=1792167841",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/60599c5db814003609209117a0536e53/master.m3u8?md5=Tac8MXnVgxy3Ze-6MoszwQ&expires=1792167841",
+            "videoSource": "https://ravok.buzz/cdn/hls/60599c5db814003609209117a0536e53/master.m3u8?md5=Tac8MXnVgxy3Ze-6MoszwQ&expires=1792167841",
+            "videoImage": "https://as-cdn30.top/p/14iYndTwWVO0yfQ52pNAxhsikoKG2T1ktmjogiQt_FyibuS3pCcstDe7dySW7Q1PJmxAndVz9ir8mEbRk4OXEA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "486c825db2f776da72d0b7a791f45b8f",
+                "streamUrl": "https://ravok.buzz/cdn/hls/60599c5db814003609209117a0536e53/master.m3u8?md5=Tac8MXnVgxy3Ze-6MoszwQ&expires=1792167841",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/60599c5db814003609209117a0536e53/master.m3u8?md5=Tac8MXnVgxy3Ze-6MoszwQ&expires=1792167841",
+                "videoSource": "https://ravok.buzz/cdn/hls/60599c5db814003609209117a0536e53/master.m3u8?md5=Tac8MXnVgxy3Ze-6MoszwQ&expires=1792167841",
+                "link": "https://ravok.buzz/cdn/hls/60599c5db814003609209117a0536e53/master.m3u8?md5=Tac8MXnVgxy3Ze-6MoszwQ&expires=1792167841",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/14iYndTwWVO0yfQ52pNAxhsikoKG2T1ktmjogiQt_FyibuS3pCcstDe7dySW7Q1PJmxAndVz9ir8mEbRk4OXEA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "J7TZ71PBNq"
+        }
+      },
+      "fetched_at": "2026-10-16T14:24:11Z"
+    },
+    {
+      "id": "episode/digimon-adventure-1x14",
+      "episode_id": "episode/digimon-adventure-1x14",
+      "title": "And So it Begins...",
+      "episode_name": "And So it Begins...",
+      "episode_number": 14,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/2847/14.webp",
+      "abyssid": "6408",
+      "abyssId": "6408",
+      "playxid": "02bf86214e264535e3412283e817deaa",
+      "playXID": "02bf86214e264535e3412283e817deaa",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "6408",
+        "playXID": "02bf86214e264535e3412283e817deaa",
+        "streamId": "6408",
+        "dubPlayerSrc": "/dub-player/t/6408/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=02bf86214e264535e3412283e817deaa&abyssId=6408"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "6408",
+        "playXID": "02bf86214e264535e3412283e817deaa",
+        "streamId": "6408",
+        "dubPlayerSrc": "/dub-player/t/6408/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=02bf86214e264535e3412283e817deaa&abyssId=6408"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/02bf86214e264535e3412283e817deaa",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/02bf86214e264535e3412283e817deaa"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "6408",
+        "abyssId": "6408",
+        "playXID": "02bf86214e264535e3412283e817deaa",
+        "title": "Digimon Adventure:",
+        "season": 1,
+        "episode": 14,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "cgpxkuuP-8"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "dypDqx1a9"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "xKYPewQhP"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "ISTttxcwb"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/3ebed70e133d211724d5fa714f126fe0/master.m3u8?md5=pfNn1vYMnsMkXQPDnVe5Xg&expires=1792167841",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/3ebed70e133d211724d5fa714f126fe0/master.m3u8?md5=pfNn1vYMnsMkXQPDnVe5Xg&expires=1792167841",
+            "videoSource": "https://ravok.buzz/cdn/hls/3ebed70e133d211724d5fa714f126fe0/master.m3u8?md5=pfNn1vYMnsMkXQPDnVe5Xg&expires=1792167841",
+            "videoImage": "https://as-cdn28.top/p/E_NKsYNW4z4U4YacWGLB3wi4zw3dlhSIssRlwk-udKPyzdu6egCDKpVv205a0CJDCU45I8O_vLOMeHInsSF2PA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "02bf86214e264535e3412283e817deaa",
+                "streamUrl": "https://ravok.buzz/cdn/hls/3ebed70e133d211724d5fa714f126fe0/master.m3u8?md5=pfNn1vYMnsMkXQPDnVe5Xg&expires=1792167841",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/3ebed70e133d211724d5fa714f126fe0/master.m3u8?md5=pfNn1vYMnsMkXQPDnVe5Xg&expires=1792167841",
+                "videoSource": "https://ravok.buzz/cdn/hls/3ebed70e133d211724d5fa714f126fe0/master.m3u8?md5=pfNn1vYMnsMkXQPDnVe5Xg&expires=1792167841",
+                "link": "https://ravok.buzz/cdn/hls/3ebed70e133d211724d5fa714f126fe0/master.m3u8?md5=pfNn1vYMnsMkXQPDnVe5Xg&expires=1792167841",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/E_NKsYNW4z4U4YacWGLB3wi4zw3dlhSIssRlwk-udKPyzdu6egCDKpVv205a0CJDCU45I8O_vLOMeHInsSF2PA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "cgpxkuuP-8"
+        }
+      },
+      "fetched_at": "2026-10-16T14:24:11Z"
+    },
+    {
+      "id": "episode/digimon-adventure-1x15",
+      "episode_id": "episode/digimon-adventure-1x15",
+      "title": "And So it Begins...",
+      "episode_name": "And So it Begins...",
+      "episode_number": 15,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/2847/15.webp",
+      "abyssid": "6409",
+      "abyssId": "6409",
+      "playxid": "e1b90346c92331860b1391257a106bb1",
+      "playXID": "e1b90346c92331860b1391257a106bb1",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "6409",
+        "playXID": "e1b90346c92331860b1391257a106bb1",
+        "streamId": "6409",
+        "dubPlayerSrc": "/dub-player/t/6409/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e1b90346c92331860b1391257a106bb1&abyssId=6409"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "6409",
+        "playXID": "e1b90346c92331860b1391257a106bb1",
+        "streamId": "6409",
+        "dubPlayerSrc": "/dub-player/t/6409/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e1b90346c92331860b1391257a106bb1&abyssId=6409"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/e1b90346c92331860b1391257a106bb1",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/e1b90346c92331860b1391257a106bb1"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "6409",
+        "abyssId": "6409",
+        "playXID": "e1b90346c92331860b1391257a106bb1",
+        "title": "Digimon Adventure:",
+        "season": 1,
+        "episode": 15,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "kmF5rLITR"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "Lsf1pS1om"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "cShd91UQR"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "Hv4xQ25JH"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/95e71cf78031d0a9297ea38fbbdc316e/master.m3u8?md5=1vj29awoq9soKfEtuNG8ug&expires=1792167841",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/95e71cf78031d0a9297ea38fbbdc316e/master.m3u8?md5=1vj29awoq9soKfEtuNG8ug&expires=1792167841",
+            "videoSource": "https://ravok.buzz/cdn/hls/95e71cf78031d0a9297ea38fbbdc316e/master.m3u8?md5=1vj29awoq9soKfEtuNG8ug&expires=1792167841",
+            "videoImage": "https://as-cdn27.top/p/tnEporb4mIPLsr2eBuSWxIjC15ASVswIhbEq9vcMgDQ9zFil3RGtK0UST72Y3Kg4E6hoKbh5eYzcIoD4ok2Igw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "e1b90346c92331860b1391257a106bb1",
+                "streamUrl": "https://ravok.buzz/cdn/hls/95e71cf78031d0a9297ea38fbbdc316e/master.m3u8?md5=1vj29awoq9soKfEtuNG8ug&expires=1792167841",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/95e71cf78031d0a9297ea38fbbdc316e/master.m3u8?md5=1vj29awoq9soKfEtuNG8ug&expires=1792167841",
+                "videoSource": "https://ravok.buzz/cdn/hls/95e71cf78031d0a9297ea38fbbdc316e/master.m3u8?md5=1vj29awoq9soKfEtuNG8ug&expires=1792167841",
+                "link": "https://ravok.buzz/cdn/hls/95e71cf78031d0a9297ea38fbbdc316e/master.m3u8?md5=1vj29awoq9soKfEtuNG8ug&expires=1792167841",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/tnEporb4mIPLsr2eBuSWxIjC15ASVswIhbEq9vcMgDQ9zFil3RGtK0UST72Y3Kg4E6hoKbh5eYzcIoD4ok2Igw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "kmF5rLITR"
+        }
+      },
+      "fetched_at": "2026-10-16T14:24:11Z"
+    },
+    {
+      "id": "episode/digimon-adventure-1x16",
+      "episode_id": "episode/digimon-adventure-1x16",
+      "title": "And So it Begins...",
+      "episode_name": "And So it Begins...",
+      "episode_number": 16,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/2847/16.webp",
+      "abyssid": "6410",
+      "abyssId": "6410",
+      "playxid": "7ac71d433f282034e088473244df8c02",
+      "playXID": "7ac71d433f282034e088473244df8c02",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "6410",
+        "playXID": "7ac71d433f282034e088473244df8c02",
+        "streamId": "6410",
+        "dubPlayerSrc": "/dub-player/t/6410/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=7ac71d433f282034e088473244df8c02&abyssId=6410"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "6410",
+        "playXID": "7ac71d433f282034e088473244df8c02",
+        "streamId": "6410",
+        "dubPlayerSrc": "/dub-player/t/6410/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=7ac71d433f282034e088473244df8c02&abyssId=6410"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/7ac71d433f282034e088473244df8c02",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/7ac71d433f282034e088473244df8c02"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "6410",
+        "abyssId": "6410",
+        "playXID": "7ac71d433f282034e088473244df8c02",
+        "title": "Digimon Adventure:",
+        "season": 1,
+        "episode": 16,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "PRjTY_YAZ"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "xG5zrtJnb"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "pNYBYkVqD"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "kZB357hqf"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/1749da72bb7139d42459f9d4261239fe/master.m3u8?md5=PraEk4wHF71WIozeKxUB4w&expires=1792167843",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/1749da72bb7139d42459f9d4261239fe/master.m3u8?md5=PraEk4wHF71WIozeKxUB4w&expires=1792167843",
+            "videoSource": "https://ravok.buzz/cdn/hls/1749da72bb7139d42459f9d4261239fe/master.m3u8?md5=PraEk4wHF71WIozeKxUB4w&expires=1792167843",
+            "videoImage": "https://as-cdn31.top/p/pSZkCo3Bv_hiEfNdu-ELNyxCdB9wDtVa5txxmdQWXCthu6UeKIO9iw4LpKGacmuTtVM5Dy1oQYQE7Vn0wVB0-w.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "7ac71d433f282034e088473244df8c02",
+                "streamUrl": "https://ravok.buzz/cdn/hls/1749da72bb7139d42459f9d4261239fe/master.m3u8?md5=PraEk4wHF71WIozeKxUB4w&expires=1792167843",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/1749da72bb7139d42459f9d4261239fe/master.m3u8?md5=PraEk4wHF71WIozeKxUB4w&expires=1792167843",
+                "videoSource": "https://ravok.buzz/cdn/hls/1749da72bb7139d42459f9d4261239fe/master.m3u8?md5=PraEk4wHF71WIozeKxUB4w&expires=1792167843",
+                "link": "https://ravok.buzz/cdn/hls/1749da72bb7139d42459f9d4261239fe/master.m3u8?md5=PraEk4wHF71WIozeKxUB4w&expires=1792167843",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/pSZkCo3Bv_hiEfNdu-ELNyxCdB9wDtVa5txxmdQWXCthu6UeKIO9iw4LpKGacmuTtVM5Dy1oQYQE7Vn0wVB0-w.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "PRjTY_YAZ"
+        }
+      },
+      "fetched_at": "2026-10-16T14:24:12Z"
+    },
+    {
+      "id": "episode/digimon-adventure-1x18",
+      "episode_id": "episode/digimon-adventure-1x18",
+      "title": "And So it Begins...",
+      "episode_name": "And So it Begins...",
+      "episode_number": 18,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/2847/18.webp",
+      "abyssid": "6412",
+      "abyssId": "6412",
+      "playxid": "46123e470d3226911c48df4e9867b9db",
+      "playXID": "46123e470d3226911c48df4e9867b9db",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "6412",
+        "playXID": "46123e470d3226911c48df4e9867b9db",
+        "streamId": "6412",
+        "dubPlayerSrc": "/dub-player/t/6412/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=46123e470d3226911c48df4e9867b9db&abyssId=6412"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "6412",
+        "playXID": "46123e470d3226911c48df4e9867b9db",
+        "streamId": "6412",
+        "dubPlayerSrc": "/dub-player/t/6412/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=46123e470d3226911c48df4e9867b9db&abyssId=6412"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/46123e470d3226911c48df4e9867b9db",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/46123e470d3226911c48df4e9867b9db"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "6412",
+        "abyssId": "6412",
+        "playXID": "46123e470d3226911c48df4e9867b9db",
+        "title": "Digimon Adventure:",
+        "season": 1,
+        "episode": 18,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "sWSydkRV7"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "ds9yo1rXB"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "NurAyvU0TQ"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "0m6Wv8M5x"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/e8fb675df06a65cae487903b5509b873/master.m3u8?md5=RjGMNU7NFRxbGZWGNWgJiA&expires=1792167843",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/e8fb675df06a65cae487903b5509b873/master.m3u8?md5=RjGMNU7NFRxbGZWGNWgJiA&expires=1792167843",
+            "videoSource": "https://ravok.buzz/cdn/hls/e8fb675df06a65cae487903b5509b873/master.m3u8?md5=RjGMNU7NFRxbGZWGNWgJiA&expires=1792167843",
+            "videoImage": "https://as-cdn28.top/p/q0EQxxjc9QItIHWvSQg_J3OYaV_KbK92Eeu-3Hh-7_ZorUa3JbQl15kFPDgyLPikDlGWuy06q5rL38g1RefcmQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "46123e470d3226911c48df4e9867b9db",
+                "streamUrl": "https://ravok.buzz/cdn/hls/e8fb675df06a65cae487903b5509b873/master.m3u8?md5=RjGMNU7NFRxbGZWGNWgJiA&expires=1792167843",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/e8fb675df06a65cae487903b5509b873/master.m3u8?md5=RjGMNU7NFRxbGZWGNWgJiA&expires=1792167843",
+                "videoSource": "https://ravok.buzz/cdn/hls/e8fb675df06a65cae487903b5509b873/master.m3u8?md5=RjGMNU7NFRxbGZWGNWgJiA&expires=1792167843",
+                "link": "https://ravok.buzz/cdn/hls/e8fb675df06a65cae487903b5509b873/master.m3u8?md5=RjGMNU7NFRxbGZWGNWgJiA&expires=1792167843",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/q0EQxxjc9QItIHWvSQg_J3OYaV_KbK92Eeu-3Hh-7_ZorUa3JbQl15kFPDgyLPikDlGWuy06q5rL38g1RefcmQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "sWSydkRV7"
+        }
+      },
+      "fetched_at": "2026-10-16T14:24:13Z"
+    },
+    {
+      "id": "episode/digimon-adventure-1x17",
+      "episode_id": "episode/digimon-adventure-1x17",
+      "title": "And So it Begins...",
+      "episode_name": "And So it Begins...",
+      "episode_number": 17,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/2847/17.webp",
+      "abyssid": "6411",
+      "abyssId": "6411",
+      "playxid": "fc76150735dde1d2d860aeb77ee2009e",
+      "playXID": "fc76150735dde1d2d860aeb77ee2009e",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "6411",
+        "playXID": "fc76150735dde1d2d860aeb77ee2009e",
+        "streamId": "6411",
+        "dubPlayerSrc": "/dub-player/t/6411/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=fc76150735dde1d2d860aeb77ee2009e&abyssId=6411"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "6411",
+        "playXID": "fc76150735dde1d2d860aeb77ee2009e",
+        "streamId": "6411",
+        "dubPlayerSrc": "/dub-player/t/6411/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=fc76150735dde1d2d860aeb77ee2009e&abyssId=6411"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/fc76150735dde1d2d860aeb77ee2009e",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/fc76150735dde1d2d860aeb77ee2009e"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "6411",
+        "abyssId": "6411",
+        "playXID": "fc76150735dde1d2d860aeb77ee2009e",
+        "title": "Digimon Adventure:",
+        "season": 1,
+        "episode": 17,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "DNnUn9mZo"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "kq6XjwK46"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "C5-A1rbbh"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "vcY9u_zYi"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/fd08142e1ce0402356bf7de4c6759ff6/master.m3u8?md5=svpvptXMcxIqLABDGfy99g&expires=1792167843",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/fd08142e1ce0402356bf7de4c6759ff6/master.m3u8?md5=svpvptXMcxIqLABDGfy99g&expires=1792167843",
+            "videoSource": "https://ravok.buzz/cdn/hls/fd08142e1ce0402356bf7de4c6759ff6/master.m3u8?md5=svpvptXMcxIqLABDGfy99g&expires=1792167843",
+            "videoImage": "https://as-cdn31.top/p/mja43dyFfqALYvWzpv7fU-c4wJ8cnaW9kCwx_SfaOsPfKDIam27mqem1DBtt-XqXwuYtvAYP_lSRvz1Vtw6r1A.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "fc76150735dde1d2d860aeb77ee2009e",
+                "streamUrl": "https://ravok.buzz/cdn/hls/fd08142e1ce0402356bf7de4c6759ff6/master.m3u8?md5=svpvptXMcxIqLABDGfy99g&expires=1792167843",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/fd08142e1ce0402356bf7de4c6759ff6/master.m3u8?md5=svpvptXMcxIqLABDGfy99g&expires=1792167843",
+                "videoSource": "https://ravok.buzz/cdn/hls/fd08142e1ce0402356bf7de4c6759ff6/master.m3u8?md5=svpvptXMcxIqLABDGfy99g&expires=1792167843",
+                "link": "https://ravok.buzz/cdn/hls/fd08142e1ce0402356bf7de4c6759ff6/master.m3u8?md5=svpvptXMcxIqLABDGfy99g&expires=1792167843",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/mja43dyFfqALYvWzpv7fU-c4wJ8cnaW9kCwx_SfaOsPfKDIam27mqem1DBtt-XqXwuYtvAYP_lSRvz1Vtw6r1A.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "DNnUn9mZo"
+        }
+      },
+      "fetched_at": "2026-10-16T14:24:13Z"
+    },
+    {
+      "id": "episode/digimon-adventure-1x19",
+      "episode_id": "episode/digimon-adventure-1x19",
+      "title": "And So it Begins...",
+      "episode_name": "And So it Begins...",
+      "episode_number": 19,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/2847/19.webp",
+      "abyssid": "6413",
+      "abyssId": "6413",
+      "playxid": "d2a2c1da2acde3ed27003dba9c3c1ccc",
+      "playXID": "d2a2c1da2acde3ed27003dba9c3c1ccc",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "6413",
+        "playXID": "d2a2c1da2acde3ed27003dba9c3c1ccc",
+        "streamId": "6413",
+        "dubPlayerSrc": "/dub-player/t/6413/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d2a2c1da2acde3ed27003dba9c3c1ccc&abyssId=6413"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "6413",
+        "playXID": "d2a2c1da2acde3ed27003dba9c3c1ccc",
+        "streamId": "6413",
+        "dubPlayerSrc": "/dub-player/t/6413/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d2a2c1da2acde3ed27003dba9c3c1ccc&abyssId=6413"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/d2a2c1da2acde3ed27003dba9c3c1ccc",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/d2a2c1da2acde3ed27003dba9c3c1ccc"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "6413",
+        "abyssId": "6413",
+        "playXID": "d2a2c1da2acde3ed27003dba9c3c1ccc",
+        "title": "Digimon Adventure:",
+        "season": 1,
+        "episode": 19,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "421zWrmWz"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "wKBzVAf4k"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "4z3fxlF67"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "_x5RL7uR-"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/77b469d28475912cbe45c86bf1d1ba28/master.m3u8?md5=hT_u15FN300-i-ZjqMN-iw&expires=1792167843",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/77b469d28475912cbe45c86bf1d1ba28/master.m3u8?md5=hT_u15FN300-i-ZjqMN-iw&expires=1792167843",
+            "videoSource": "https://ravok.buzz/cdn/hls/77b469d28475912cbe45c86bf1d1ba28/master.m3u8?md5=hT_u15FN300-i-ZjqMN-iw&expires=1792167843",
+            "videoImage": "https://as-cdn30.top/p/bvFwJTDdKRuIG7okNvWyyGbdXM-_l1HFY0_m-Yc4ocok_tvdY3Nt-knpACVsRhTm5fe1VJifpsIe9n0kejBdNw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "d2a2c1da2acde3ed27003dba9c3c1ccc",
+                "streamUrl": "https://ravok.buzz/cdn/hls/77b469d28475912cbe45c86bf1d1ba28/master.m3u8?md5=hT_u15FN300-i-ZjqMN-iw&expires=1792167843",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/77b469d28475912cbe45c86bf1d1ba28/master.m3u8?md5=hT_u15FN300-i-ZjqMN-iw&expires=1792167843",
+                "videoSource": "https://ravok.buzz/cdn/hls/77b469d28475912cbe45c86bf1d1ba28/master.m3u8?md5=hT_u15FN300-i-ZjqMN-iw&expires=1792167843",
+                "link": "https://ravok.buzz/cdn/hls/77b469d28475912cbe45c86bf1d1ba28/master.m3u8?md5=hT_u15FN300-i-ZjqMN-iw&expires=1792167843",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/bvFwJTDdKRuIG7okNvWyyGbdXM-_l1HFY0_m-Yc4ocok_tvdY3Nt-knpACVsRhTm5fe1VJifpsIe9n0kejBdNw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "421zWrmWz"
+        }
+      },
+      "fetched_at": "2026-10-16T14:24:13Z"
+    },
+    {
+      "id": "episode/digimon-adventure-1x20",
+      "episode_id": "episode/digimon-adventure-1x20",
+      "title": "And So it Begins...",
+      "episode_name": "And So it Begins...",
+      "episode_number": 20,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/2847/20.webp",
+      "abyssid": "6414",
+      "abyssId": "6414",
+      "playxid": "73c14008d55c730e10bb9412a5be1a16",
+      "playXID": "73c14008d55c730e10bb9412a5be1a16",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "6414",
+        "playXID": "73c14008d55c730e10bb9412a5be1a16",
+        "streamId": "6414",
+        "dubPlayerSrc": "/dub-player/t/6414/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=73c14008d55c730e10bb9412a5be1a16&abyssId=6414"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "6414",
+        "playXID": "73c14008d55c730e10bb9412a5be1a16",
+        "streamId": "6414",
+        "dubPlayerSrc": "/dub-player/t/6414/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=73c14008d55c730e10bb9412a5be1a16&abyssId=6414"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/73c14008d55c730e10bb9412a5be1a16",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/73c14008d55c730e10bb9412a5be1a16"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "6414",
+        "abyssId": "6414",
+        "playXID": "73c14008d55c730e10bb9412a5be1a16",
+        "title": "Digimon Adventure:",
+        "season": 1,
+        "episode": 20,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "8EBZsgA0X"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "ogro94GT9"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "D0WpsBQXR"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "jMvZCT7g7"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/d4a52070ae61e2b347c51cdca0b10bdf/master.m3u8?md5=F2teqwg0RE2VidXmNpkCwA&expires=1792167843",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/d4a52070ae61e2b347c51cdca0b10bdf/master.m3u8?md5=F2teqwg0RE2VidXmNpkCwA&expires=1792167843",
+            "videoSource": "https://ravok.buzz/cdn/hls/d4a52070ae61e2b347c51cdca0b10bdf/master.m3u8?md5=F2teqwg0RE2VidXmNpkCwA&expires=1792167843",
+            "videoImage": "https://as-cdn27.top/p/78Q8WatXuslQOEO9x2Qkkolc9Tt8_UYq9emxsDmmg8d5WtNE829jauOjr9xMF2a8gg8HnCsU9tO4wbNZ7PBUnA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "73c14008d55c730e10bb9412a5be1a16",
+                "streamUrl": "https://ravok.buzz/cdn/hls/d4a52070ae61e2b347c51cdca0b10bdf/master.m3u8?md5=F2teqwg0RE2VidXmNpkCwA&expires=1792167843",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/d4a52070ae61e2b347c51cdca0b10bdf/master.m3u8?md5=F2teqwg0RE2VidXmNpkCwA&expires=1792167843",
+                "videoSource": "https://ravok.buzz/cdn/hls/d4a52070ae61e2b347c51cdca0b10bdf/master.m3u8?md5=F2teqwg0RE2VidXmNpkCwA&expires=1792167843",
+                "link": "https://ravok.buzz/cdn/hls/d4a52070ae61e2b347c51cdca0b10bdf/master.m3u8?md5=F2teqwg0RE2VidXmNpkCwA&expires=1792167843",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/78Q8WatXuslQOEO9x2Qkkolc9Tt8_UYq9emxsDmmg8d5WtNE829jauOjr9xMF2a8gg8HnCsU9tO4wbNZ7PBUnA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "8EBZsgA0X"
+        }
+      },
+      "fetched_at": "2026-10-16T14:24:13Z"
+    },
+    {
+      "id": "episode/digimon-adventure-1x21",
+      "episode_id": "episode/digimon-adventure-1x21",
+      "title": "And So it Begins...",
+      "episode_name": "And So it Begins...",
+      "episode_number": 21,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/2847/21.webp",
+      "abyssid": "6415",
+      "abyssId": "6415",
+      "playxid": "be93cca187e923aabc702667ba5f0d06",
+      "playXID": "be93cca187e923aabc702667ba5f0d06",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "6415",
+        "playXID": "be93cca187e923aabc702667ba5f0d06",
+        "streamId": "6415",
+        "dubPlayerSrc": "/dub-player/t/6415/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=be93cca187e923aabc702667ba5f0d06&abyssId=6415"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "6415",
+        "playXID": "be93cca187e923aabc702667ba5f0d06",
+        "streamId": "6415",
+        "dubPlayerSrc": "/dub-player/t/6415/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=be93cca187e923aabc702667ba5f0d06&abyssId=6415"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/be93cca187e923aabc702667ba5f0d06",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/be93cca187e923aabc702667ba5f0d06"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "6415",
+        "abyssId": "6415",
+        "playXID": "be93cca187e923aabc702667ba5f0d06",
+        "title": "Digimon Adventure:",
+        "season": 1,
+        "episode": 21,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "VO64lm2Dg"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "FLjlL6v6v"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "9CCN7pBow"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "MxdMa_Vqx"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/075aeec0c6a94138e15afcaeae3a44e3/master.m3u8?md5=_US_KEeRA_rsR1XEfjr5Lw&expires=1792167845",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/075aeec0c6a94138e15afcaeae3a44e3/master.m3u8?md5=_US_KEeRA_rsR1XEfjr5Lw&expires=1792167845",
+            "videoSource": "https://ravok.buzz/cdn/hls/075aeec0c6a94138e15afcaeae3a44e3/master.m3u8?md5=_US_KEeRA_rsR1XEfjr5Lw&expires=1792167845",
+            "videoImage": "https://as-cdn29.top/p/1exx3-gS9sWkFHBBwPK2tq-81f7bVthJtfWx2OFEDDXPiPm1NeTQHDlo0JsYzu1bbPp9p-pfNPnPAjdrDbMonQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "be93cca187e923aabc702667ba5f0d06",
+                "streamUrl": "https://ravok.buzz/cdn/hls/075aeec0c6a94138e15afcaeae3a44e3/master.m3u8?md5=_US_KEeRA_rsR1XEfjr5Lw&expires=1792167845",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/075aeec0c6a94138e15afcaeae3a44e3/master.m3u8?md5=_US_KEeRA_rsR1XEfjr5Lw&expires=1792167845",
+                "videoSource": "https://ravok.buzz/cdn/hls/075aeec0c6a94138e15afcaeae3a44e3/master.m3u8?md5=_US_KEeRA_rsR1XEfjr5Lw&expires=1792167845",
+                "link": "https://ravok.buzz/cdn/hls/075aeec0c6a94138e15afcaeae3a44e3/master.m3u8?md5=_US_KEeRA_rsR1XEfjr5Lw&expires=1792167845",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/1exx3-gS9sWkFHBBwPK2tq-81f7bVthJtfWx2OFEDDXPiPm1NeTQHDlo0JsYzu1bbPp9p-pfNPnPAjdrDbMonQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "VO64lm2Dg"
+        }
+      },
+      "fetched_at": "2026-10-16T14:24:14Z"
+    },
+    {
+      "id": "episode/digimon-adventure-1x22",
+      "episode_id": "episode/digimon-adventure-1x22",
+      "title": "And So it Begins...",
+      "episode_name": "And So it Begins...",
+      "episode_number": 22,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/2847/22.webp",
+      "abyssid": "6416",
+      "abyssId": "6416",
+      "playxid": "ae31ee951b4d4bfb5518e0fcdc064a83",
+      "playXID": "ae31ee951b4d4bfb5518e0fcdc064a83",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "6416",
+        "playXID": "ae31ee951b4d4bfb5518e0fcdc064a83",
+        "streamId": "6416",
+        "dubPlayerSrc": "/dub-player/t/6416/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ae31ee951b4d4bfb5518e0fcdc064a83&abyssId=6416"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "6416",
+        "playXID": "ae31ee951b4d4bfb5518e0fcdc064a83",
+        "streamId": "6416",
+        "dubPlayerSrc": "/dub-player/t/6416/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ae31ee951b4d4bfb5518e0fcdc064a83&abyssId=6416"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/ae31ee951b4d4bfb5518e0fcdc064a83",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/ae31ee951b4d4bfb5518e0fcdc064a83"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "6416",
+        "abyssId": "6416",
+        "playXID": "ae31ee951b4d4bfb5518e0fcdc064a83",
+        "title": "Digimon Adventure:",
+        "season": 1,
+        "episode": 22,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "wgWGMm7sX"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "cqKW2Kqmv"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "mNe2JAQdy"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "DgZ14ivXn"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "wgWGMm7sX"
+        }
+      },
+      "fetched_at": "2026-10-16T14:24:14Z"
+    },
+    {
+      "id": "episode/digimon-adventure-1x23",
+      "episode_id": "episode/digimon-adventure-1x23",
+      "title": "And So it Begins...",
+      "episode_name": "And So it Begins...",
+      "episode_number": 23,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/2847/23.webp",
+      "abyssid": "6417",
+      "abyssId": "6417",
+      "playxid": "06f2e099b4f87109d52e15d7c05f0084",
+      "playXID": "06f2e099b4f87109d52e15d7c05f0084",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "6417",
+        "playXID": "06f2e099b4f87109d52e15d7c05f0084",
+        "streamId": "6417",
+        "dubPlayerSrc": "/dub-player/t/6417/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=06f2e099b4f87109d52e15d7c05f0084&abyssId=6417"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "6417",
+        "playXID": "06f2e099b4f87109d52e15d7c05f0084",
+        "streamId": "6417",
+        "dubPlayerSrc": "/dub-player/t/6417/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=06f2e099b4f87109d52e15d7c05f0084&abyssId=6417"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/06f2e099b4f87109d52e15d7c05f0084",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/06f2e099b4f87109d52e15d7c05f0084"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "6417",
+        "abyssId": "6417",
+        "playXID": "06f2e099b4f87109d52e15d7c05f0084",
+        "title": "Digimon Adventure:",
+        "season": 1,
+        "episode": 23,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "tBfCM-8vBY"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "6lacJfb2O"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "ZjkB5swgm"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "BCKCLpkmM"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/f5f0dd2d60991bb9d623ef8dc1aac761/master.m3u8?md5=puS7od34Dx-qs6STrDszUA&expires=1792167845",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/f5f0dd2d60991bb9d623ef8dc1aac761/master.m3u8?md5=puS7od34Dx-qs6STrDszUA&expires=1792167845",
+            "videoSource": "https://ravok.buzz/cdn/hls/f5f0dd2d60991bb9d623ef8dc1aac761/master.m3u8?md5=puS7od34Dx-qs6STrDszUA&expires=1792167845",
+            "videoImage": "https://as-cdn31.top/p/o4k1JngMyHV86h0McPlcWaPiI3clPS43t8Rg2FmmP_1GC72AK-ptqv-kLOfBmG-L5g5J6TfmVmdwRPyib-joGA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "06f2e099b4f87109d52e15d7c05f0084",
+                "streamUrl": "https://ravok.buzz/cdn/hls/f5f0dd2d60991bb9d623ef8dc1aac761/master.m3u8?md5=puS7od34Dx-qs6STrDszUA&expires=1792167845",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/f5f0dd2d60991bb9d623ef8dc1aac761/master.m3u8?md5=puS7od34Dx-qs6STrDszUA&expires=1792167845",
+                "videoSource": "https://ravok.buzz/cdn/hls/f5f0dd2d60991bb9d623ef8dc1aac761/master.m3u8?md5=puS7od34Dx-qs6STrDszUA&expires=1792167845",
+                "link": "https://ravok.buzz/cdn/hls/f5f0dd2d60991bb9d623ef8dc1aac761/master.m3u8?md5=puS7od34Dx-qs6STrDszUA&expires=1792167845",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/o4k1JngMyHV86h0McPlcWaPiI3clPS43t8Rg2FmmP_1GC72AK-ptqv-kLOfBmG-L5g5J6TfmVmdwRPyib-joGA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "tBfCM-8vBY"
+        }
+      },
+      "fetched_at": "2026-10-16T14:24:15Z"
+    },
+    {
+      "id": "episode/digimon-adventure-1x24",
+      "episode_id": "episode/digimon-adventure-1x24",
+      "title": "And So it Begins...",
+      "episode_name": "And So it Begins...",
+      "episode_number": 24,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/2847/24.webp",
+      "abyssid": "6418",
+      "abyssId": "6418",
+      "playxid": "77340c2e00e9e6ad1b2784dad06291ea",
+      "playXID": "77340c2e00e9e6ad1b2784dad06291ea",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "6418",
+        "playXID": "77340c2e00e9e6ad1b2784dad06291ea",
+        "streamId": "6418",
+        "dubPlayerSrc": "/dub-player/t/6418/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=77340c2e00e9e6ad1b2784dad06291ea&abyssId=6418"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "6418",
+        "playXID": "77340c2e00e9e6ad1b2784dad06291ea",
+        "streamId": "6418",
+        "dubPlayerSrc": "/dub-player/t/6418/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=77340c2e00e9e6ad1b2784dad06291ea&abyssId=6418"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/77340c2e00e9e6ad1b2784dad06291ea",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/77340c2e00e9e6ad1b2784dad06291ea"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "6418",
+        "abyssId": "6418",
+        "playXID": "77340c2e00e9e6ad1b2784dad06291ea",
+        "title": "Digimon Adventure:",
+        "season": 1,
+        "episode": 24,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "TrYVQDAkM"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "uCXy2Yi8I"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "r1xzWhZHB"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "xTvGhWBuN"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/4a5e4b141fbd0c9e9242313cbc5fe8b0/master.m3u8?md5=aEwCzFvR7CfC9zdwD8SNig&expires=1792167845",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/4a5e4b141fbd0c9e9242313cbc5fe8b0/master.m3u8?md5=aEwCzFvR7CfC9zdwD8SNig&expires=1792167845",
+            "videoSource": "https://ravok.buzz/cdn/hls/4a5e4b141fbd0c9e9242313cbc5fe8b0/master.m3u8?md5=aEwCzFvR7CfC9zdwD8SNig&expires=1792167845",
+            "videoImage": "https://as-cdn29.top/p/_ikkg5bIXcanUdNDsAJB82dv1W_o5TRZ9_jzCRUCFLcTDDhH6suBY7jNaU69-bxHhTfAIbiGqhL2-hpYaY1yew.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "77340c2e00e9e6ad1b2784dad06291ea",
+                "streamUrl": "https://ravok.buzz/cdn/hls/4a5e4b141fbd0c9e9242313cbc5fe8b0/master.m3u8?md5=aEwCzFvR7CfC9zdwD8SNig&expires=1792167845",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/4a5e4b141fbd0c9e9242313cbc5fe8b0/master.m3u8?md5=aEwCzFvR7CfC9zdwD8SNig&expires=1792167845",
+                "videoSource": "https://ravok.buzz/cdn/hls/4a5e4b141fbd0c9e9242313cbc5fe8b0/master.m3u8?md5=aEwCzFvR7CfC9zdwD8SNig&expires=1792167845",
+                "link": "https://ravok.buzz/cdn/hls/4a5e4b141fbd0c9e9242313cbc5fe8b0/master.m3u8?md5=aEwCzFvR7CfC9zdwD8SNig&expires=1792167845",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/_ikkg5bIXcanUdNDsAJB82dv1W_o5TRZ9_jzCRUCFLcTDDhH6suBY7jNaU69-bxHhTfAIbiGqhL2-hpYaY1yew.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "TrYVQDAkM"
+        }
+      },
+      "fetched_at": "2026-10-16T14:24:15Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T14:24:05Z",
+  "updated_at": "2026-10-16T14:24:15Z"
+}

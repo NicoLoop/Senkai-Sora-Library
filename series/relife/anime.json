@@ -1,0 +1,1464 @@
+{
+  "id": "series/relife",
+  "series_name": "ReLIFE",
+  "title": "ReLIFE",
+  "banner": "https://image.tmdb.org/t/p/w1280/oxLu3qleFPp7T1U17adAQADJt7Q.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/aRK64bB8hMsuZZnitebPyKqOR5d.jpg",
+  "genra": [
+    "Comedy",
+    "Drama",
+    "Romance",
+    "School",
+    "Slice of Life"
+  ],
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance",
+    "School",
+    "Slice of Life"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Japanese"
+  ],
+  "synopsis": "Arata Kaizaki (27) quit the job he landed after graduation in only three months. His life did not go well after that. Now his parents are threatening to stop sending money, and want him to come back to the country. He has no friend or girlfriend to share his troubles with...as he hits rock bottom a strange man named Ryou Yoake appears. He invites Arata to join a societal rehabilitation program for NEETs called ReLife. This program uses a mysterious drug to make him look younger, and sends him back to high school for a year...",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 13,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 13,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "ReLIFE 1x1",
+          "id": "episode/relife-1x1",
+          "image": "https://img.watchanimeworld.one/image/1316/1/1.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "ReLIFE 1x2",
+          "id": "episode/relife-1x2",
+          "image": "https://img.watchanimeworld.one/image/1316/1/2.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "ReLIFE 1x3",
+          "id": "episode/relife-1x3",
+          "image": "https://img.watchanimeworld.one/image/1316/1/3.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "ReLIFE 1x4",
+          "id": "episode/relife-1x4",
+          "image": "https://img.watchanimeworld.one/image/1316/1/4.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "ReLIFE 1x5",
+          "id": "episode/relife-1x5",
+          "image": "https://img.watchanimeworld.one/image/1316/1/5.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "ReLIFE 1x6",
+          "id": "episode/relife-1x6",
+          "image": "https://img.watchanimeworld.one/image/1316/1/6.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "ReLIFE 1x7",
+          "id": "episode/relife-1x7",
+          "image": "https://img.watchanimeworld.one/image/1316/1/7.webp",
+          "season": 1
+        },
+        {
+          "episode": 8,
+          "title": "ReLIFE 1x8",
+          "id": "episode/relife-1x8",
+          "image": "https://img.watchanimeworld.one/image/1316/1/8.webp",
+          "season": 1
+        },
+        {
+          "episode": 9,
+          "title": "ReLIFE 1x9",
+          "id": "episode/relife-1x9",
+          "image": "https://img.watchanimeworld.one/image/1316/1/9.webp",
+          "season": 1
+        },
+        {
+          "episode": 10,
+          "title": "ReLIFE 1x10",
+          "id": "episode/relife-1x10",
+          "image": "https://img.watchanimeworld.one/image/1316/1/10.webp",
+          "season": 1
+        },
+        {
+          "episode": 11,
+          "title": "ReLIFE 1x11",
+          "id": "episode/relife-1x11",
+          "image": "https://img.watchanimeworld.one/image/1316/1/11.webp",
+          "season": 1
+        },
+        {
+          "episode": 12,
+          "title": "ReLIFE 1x12",
+          "id": "episode/relife-1x12",
+          "image": "https://img.watchanimeworld.one/image/1316/1/12.webp",
+          "season": 1
+        },
+        {
+          "episode": 13,
+          "title": "ReLIFE 1x13",
+          "id": "episode/relife-1x13",
+          "image": "https://img.watchanimeworld.one/image/1316/1/13.webp",
+          "season": 1
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/relife-1x3",
+      "episode_id": "episode/relife-1x3",
+      "title": "ReLIFE 1x1",
+      "episode_name": "ReLIFE 1x1",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1316/1/3.webp",
+      "abyssid": "13062",
+      "abyssId": "13062",
+      "playxid": "915e3742d51cb477268ba29275c3ce09",
+      "playXID": "915e3742d51cb477268ba29275c3ce09",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13062",
+        "playXID": "915e3742d51cb477268ba29275c3ce09",
+        "streamId": "13062",
+        "dubPlayerSrc": "/dub-player/t/13062/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=915e3742d51cb477268ba29275c3ce09&abyssId=13062"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13062",
+        "playXID": "915e3742d51cb477268ba29275c3ce09",
+        "streamId": "13062",
+        "dubPlayerSrc": "/dub-player/t/13062/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=915e3742d51cb477268ba29275c3ce09&abyssId=13062"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/915e3742d51cb477268ba29275c3ce09",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/915e3742d51cb477268ba29275c3ce09"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13062",
+        "abyssId": "13062",
+        "playXID": "915e3742d51cb477268ba29275c3ce09",
+        "title": "ReLIFE",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "AdrIFbN07"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "UB2-4S8nm"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "udDp6fasF"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/52087d75a18403229344a55dc620daa2/master.m3u8?md5=Vb6E2eESEr0yT5WyA4VfuQ&expires=1792166868",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/52087d75a18403229344a55dc620daa2/master.m3u8?md5=Vb6E2eESEr0yT5WyA4VfuQ&expires=1792166868",
+            "videoSource": "https://ravok.buzz/cdn/hls/52087d75a18403229344a55dc620daa2/master.m3u8?md5=Vb6E2eESEr0yT5WyA4VfuQ&expires=1792166868",
+            "videoImage": "https://as-cdn30.top/p/-JtRedKDNKvTjs4j-yD8zyCPHIqeOovivIWycH1Uy87hKv8rISU2MUwJ4uSfOK7CNI4ieBWwd8qD8d55lGMBTw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "915e3742d51cb477268ba29275c3ce09",
+                "streamUrl": "https://ravok.buzz/cdn/hls/52087d75a18403229344a55dc620daa2/master.m3u8?md5=Vb6E2eESEr0yT5WyA4VfuQ&expires=1792166868",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/52087d75a18403229344a55dc620daa2/master.m3u8?md5=Vb6E2eESEr0yT5WyA4VfuQ&expires=1792166868",
+                "videoSource": "https://ravok.buzz/cdn/hls/52087d75a18403229344a55dc620daa2/master.m3u8?md5=Vb6E2eESEr0yT5WyA4VfuQ&expires=1792166868",
+                "link": "https://ravok.buzz/cdn/hls/52087d75a18403229344a55dc620daa2/master.m3u8?md5=Vb6E2eESEr0yT5WyA4VfuQ&expires=1792166868",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/-JtRedKDNKvTjs4j-yD8zyCPHIqeOovivIWycH1Uy87hKv8rISU2MUwJ4uSfOK7CNI4ieBWwd8qD8d55lGMBTw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "AdrIFbN07"
+        }
+      },
+      "fetched_at": "2026-10-16T14:07:58Z"
+    },
+    {
+      "id": "episode/relife-1x1",
+      "episode_id": "episode/relife-1x1",
+      "title": "ReLIFE 1x1",
+      "episode_name": "ReLIFE 1x1",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1316/1/1.webp",
+      "abyssid": "13060",
+      "abyssId": "13060",
+      "playxid": "eba55fca4575e35eec8587f10ba60a43",
+      "playXID": "eba55fca4575e35eec8587f10ba60a43",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13060",
+        "playXID": "eba55fca4575e35eec8587f10ba60a43",
+        "streamId": "13060",
+        "dubPlayerSrc": "/dub-player/t/13060/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=eba55fca4575e35eec8587f10ba60a43&abyssId=13060"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13060",
+        "playXID": "eba55fca4575e35eec8587f10ba60a43",
+        "streamId": "13060",
+        "dubPlayerSrc": "/dub-player/t/13060/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=eba55fca4575e35eec8587f10ba60a43&abyssId=13060"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/eba55fca4575e35eec8587f10ba60a43",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/eba55fca4575e35eec8587f10ba60a43"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13060",
+        "abyssId": "13060",
+        "playXID": "eba55fca4575e35eec8587f10ba60a43",
+        "title": "ReLIFE",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "7kDZO3WBp"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "zKlKQwU76h"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "GvY2WIHmg"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/f1ff16ed5a5ac5c488dd1171aa93ae27/master.m3u8?md5=MnD_qNXo-6fEzCN5Ztn-sg&expires=1792166868",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/f1ff16ed5a5ac5c488dd1171aa93ae27/master.m3u8?md5=MnD_qNXo-6fEzCN5Ztn-sg&expires=1792166868",
+            "videoSource": "https://ravok.buzz/cdn/hls/f1ff16ed5a5ac5c488dd1171aa93ae27/master.m3u8?md5=MnD_qNXo-6fEzCN5Ztn-sg&expires=1792166868",
+            "videoImage": "https://as-cdn28.top/p/RHntxS4T9GAiODyt82f2OKGbVFfaxTCFYd-ZcTbFvX20Vy-rfqjfXFuJj2l3Y8A27a7mkuXpoW820xafddmhtA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "eba55fca4575e35eec8587f10ba60a43",
+                "streamUrl": "https://ravok.buzz/cdn/hls/f1ff16ed5a5ac5c488dd1171aa93ae27/master.m3u8?md5=MnD_qNXo-6fEzCN5Ztn-sg&expires=1792166868",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/f1ff16ed5a5ac5c488dd1171aa93ae27/master.m3u8?md5=MnD_qNXo-6fEzCN5Ztn-sg&expires=1792166868",
+                "videoSource": "https://ravok.buzz/cdn/hls/f1ff16ed5a5ac5c488dd1171aa93ae27/master.m3u8?md5=MnD_qNXo-6fEzCN5Ztn-sg&expires=1792166868",
+                "link": "https://ravok.buzz/cdn/hls/f1ff16ed5a5ac5c488dd1171aa93ae27/master.m3u8?md5=MnD_qNXo-6fEzCN5Ztn-sg&expires=1792166868",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/RHntxS4T9GAiODyt82f2OKGbVFfaxTCFYd-ZcTbFvX20Vy-rfqjfXFuJj2l3Y8A27a7mkuXpoW820xafddmhtA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "7kDZO3WBp"
+        }
+      },
+      "fetched_at": "2026-10-16T14:07:58Z"
+    },
+    {
+      "id": "episode/relife-1x2",
+      "episode_id": "episode/relife-1x2",
+      "title": "ReLIFE 1x1",
+      "episode_name": "ReLIFE 1x1",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1316/1/2.webp",
+      "abyssid": "13061",
+      "abyssId": "13061",
+      "playxid": "43a2348027cdb8d216f4fb15fd9e1e4f",
+      "playXID": "43a2348027cdb8d216f4fb15fd9e1e4f",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13061",
+        "playXID": "43a2348027cdb8d216f4fb15fd9e1e4f",
+        "streamId": "13061",
+        "dubPlayerSrc": "/dub-player/t/13061/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=43a2348027cdb8d216f4fb15fd9e1e4f&abyssId=13061"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13061",
+        "playXID": "43a2348027cdb8d216f4fb15fd9e1e4f",
+        "streamId": "13061",
+        "dubPlayerSrc": "/dub-player/t/13061/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=43a2348027cdb8d216f4fb15fd9e1e4f&abyssId=13061"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/43a2348027cdb8d216f4fb15fd9e1e4f",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/43a2348027cdb8d216f4fb15fd9e1e4f"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13061",
+        "abyssId": "13061",
+        "playXID": "43a2348027cdb8d216f4fb15fd9e1e4f",
+        "title": "ReLIFE",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "unuELw-Zm"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "fM3IhiAwW"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "C9-_ioaI8"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/01df8869260ed97c6dc394c9358ad324/master.m3u8?md5=GAskRCmxHMm18Zdd7Ls10g&expires=1792166869",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/01df8869260ed97c6dc394c9358ad324/master.m3u8?md5=GAskRCmxHMm18Zdd7Ls10g&expires=1792166869",
+            "videoSource": "https://ravok.buzz/cdn/hls/01df8869260ed97c6dc394c9358ad324/master.m3u8?md5=GAskRCmxHMm18Zdd7Ls10g&expires=1792166869",
+            "videoImage": "https://as-cdn29.top/p/ZOlWVqC36pfjJC24PpTu_21IIX8r0FtX_TZZ-rzKtaSqTuJpXx2VCf9_MPdiXHPtI9Js04t1cq3jEhie7tKryw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "43a2348027cdb8d216f4fb15fd9e1e4f",
+                "streamUrl": "https://ravok.buzz/cdn/hls/01df8869260ed97c6dc394c9358ad324/master.m3u8?md5=GAskRCmxHMm18Zdd7Ls10g&expires=1792166869",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/01df8869260ed97c6dc394c9358ad324/master.m3u8?md5=GAskRCmxHMm18Zdd7Ls10g&expires=1792166869",
+                "videoSource": "https://ravok.buzz/cdn/hls/01df8869260ed97c6dc394c9358ad324/master.m3u8?md5=GAskRCmxHMm18Zdd7Ls10g&expires=1792166869",
+                "link": "https://ravok.buzz/cdn/hls/01df8869260ed97c6dc394c9358ad324/master.m3u8?md5=GAskRCmxHMm18Zdd7Ls10g&expires=1792166869",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/ZOlWVqC36pfjJC24PpTu_21IIX8r0FtX_TZZ-rzKtaSqTuJpXx2VCf9_MPdiXHPtI9Js04t1cq3jEhie7tKryw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "unuELw-Zm"
+        }
+      },
+      "fetched_at": "2026-10-16T14:07:58Z"
+    },
+    {
+      "id": "episode/relife-1x4",
+      "episode_id": "episode/relife-1x4",
+      "title": "ReLIFE 1x1",
+      "episode_name": "ReLIFE 1x1",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1316/1/4.webp",
+      "abyssid": "13063",
+      "abyssId": "13063",
+      "playxid": "7e6b20d014d1c659e4eaf20dc2dcd7eb",
+      "playXID": "7e6b20d014d1c659e4eaf20dc2dcd7eb",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13063",
+        "playXID": "7e6b20d014d1c659e4eaf20dc2dcd7eb",
+        "streamId": "13063",
+        "dubPlayerSrc": "/dub-player/t/13063/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=7e6b20d014d1c659e4eaf20dc2dcd7eb&abyssId=13063"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13063",
+        "playXID": "7e6b20d014d1c659e4eaf20dc2dcd7eb",
+        "streamId": "13063",
+        "dubPlayerSrc": "/dub-player/t/13063/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=7e6b20d014d1c659e4eaf20dc2dcd7eb&abyssId=13063"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/7e6b20d014d1c659e4eaf20dc2dcd7eb",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/7e6b20d014d1c659e4eaf20dc2dcd7eb"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13063",
+        "abyssId": "13063",
+        "playXID": "7e6b20d014d1c659e4eaf20dc2dcd7eb",
+        "title": "ReLIFE",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "w172yn8Db"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "u11JoriD3"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "pAWny8ZIR"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/02afefadb9993ea8c19b393729470f41/master.m3u8?md5=cSEVicrLQNR1H7RpTYP4mg&expires=1792166869",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/02afefadb9993ea8c19b393729470f41/master.m3u8?md5=cSEVicrLQNR1H7RpTYP4mg&expires=1792166869",
+            "videoSource": "https://ravok.buzz/cdn/hls/02afefadb9993ea8c19b393729470f41/master.m3u8?md5=cSEVicrLQNR1H7RpTYP4mg&expires=1792166869",
+            "videoImage": "https://as-cdn27.top/p/FS66_o-j32Pu9ZBFPc5VTrIdQ-QS5MIdRA_CIXd0Sihxm2-53fQleYFnHj8oRh85vbWqXx5voyWA_8hBeHd2GA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "7e6b20d014d1c659e4eaf20dc2dcd7eb",
+                "streamUrl": "https://ravok.buzz/cdn/hls/02afefadb9993ea8c19b393729470f41/master.m3u8?md5=cSEVicrLQNR1H7RpTYP4mg&expires=1792166869",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/02afefadb9993ea8c19b393729470f41/master.m3u8?md5=cSEVicrLQNR1H7RpTYP4mg&expires=1792166869",
+                "videoSource": "https://ravok.buzz/cdn/hls/02afefadb9993ea8c19b393729470f41/master.m3u8?md5=cSEVicrLQNR1H7RpTYP4mg&expires=1792166869",
+                "link": "https://ravok.buzz/cdn/hls/02afefadb9993ea8c19b393729470f41/master.m3u8?md5=cSEVicrLQNR1H7RpTYP4mg&expires=1792166869",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/FS66_o-j32Pu9ZBFPc5VTrIdQ-QS5MIdRA_CIXd0Sihxm2-53fQleYFnHj8oRh85vbWqXx5voyWA_8hBeHd2GA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "w172yn8Db"
+        }
+      },
+      "fetched_at": "2026-10-16T14:07:58Z"
+    },
+    {
+      "id": "episode/relife-1x5",
+      "episode_id": "episode/relife-1x5",
+      "title": "ReLIFE 1x1",
+      "episode_name": "ReLIFE 1x1",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1316/1/5.webp",
+      "abyssid": "13064",
+      "abyssId": "13064",
+      "playxid": "c24f4c5eef7ec01c46e003a9296c8645",
+      "playXID": "c24f4c5eef7ec01c46e003a9296c8645",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13064",
+        "playXID": "c24f4c5eef7ec01c46e003a9296c8645",
+        "streamId": "13064",
+        "dubPlayerSrc": "/dub-player/t/13064/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c24f4c5eef7ec01c46e003a9296c8645&abyssId=13064"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13064",
+        "playXID": "c24f4c5eef7ec01c46e003a9296c8645",
+        "streamId": "13064",
+        "dubPlayerSrc": "/dub-player/t/13064/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c24f4c5eef7ec01c46e003a9296c8645&abyssId=13064"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/c24f4c5eef7ec01c46e003a9296c8645",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/c24f4c5eef7ec01c46e003a9296c8645"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13064",
+        "abyssId": "13064",
+        "playXID": "c24f4c5eef7ec01c46e003a9296c8645",
+        "title": "ReLIFE",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "fJDccHzzm"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "DVJGn5TWT"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "pZNWgGFKK"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/25baee339492e05aefeaae2470ab02b1/master.m3u8?md5=z5BCmld2Xyz5Qc0tTXU1FQ&expires=1792166869",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/25baee339492e05aefeaae2470ab02b1/master.m3u8?md5=z5BCmld2Xyz5Qc0tTXU1FQ&expires=1792166869",
+            "videoSource": "https://ravok.buzz/cdn/hls/25baee339492e05aefeaae2470ab02b1/master.m3u8?md5=z5BCmld2Xyz5Qc0tTXU1FQ&expires=1792166869",
+            "videoImage": "https://as-cdn28.top/p/X4hABlF-JwV49_K9D7dQR3iy3reCpywGhX3mitlG0SJ2c_oMNURy5maFIsDa6VRWhkco1VCbqHEYGVz44xxSXQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "c24f4c5eef7ec01c46e003a9296c8645",
+                "streamUrl": "https://ravok.buzz/cdn/hls/25baee339492e05aefeaae2470ab02b1/master.m3u8?md5=z5BCmld2Xyz5Qc0tTXU1FQ&expires=1792166869",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/25baee339492e05aefeaae2470ab02b1/master.m3u8?md5=z5BCmld2Xyz5Qc0tTXU1FQ&expires=1792166869",
+                "videoSource": "https://ravok.buzz/cdn/hls/25baee339492e05aefeaae2470ab02b1/master.m3u8?md5=z5BCmld2Xyz5Qc0tTXU1FQ&expires=1792166869",
+                "link": "https://ravok.buzz/cdn/hls/25baee339492e05aefeaae2470ab02b1/master.m3u8?md5=z5BCmld2Xyz5Qc0tTXU1FQ&expires=1792166869",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/X4hABlF-JwV49_K9D7dQR3iy3reCpywGhX3mitlG0SJ2c_oMNURy5maFIsDa6VRWhkco1VCbqHEYGVz44xxSXQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "fJDccHzzm"
+        }
+      },
+      "fetched_at": "2026-10-16T14:07:58Z"
+    },
+    {
+      "id": "episode/relife-1x6",
+      "episode_id": "episode/relife-1x6",
+      "title": "ReLIFE 1x1",
+      "episode_name": "ReLIFE 1x1",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1316/1/6.webp",
+      "abyssid": "13065",
+      "abyssId": "13065",
+      "playxid": "e3d11d85deaf57a720d252cd069bcd37",
+      "playXID": "e3d11d85deaf57a720d252cd069bcd37",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13065",
+        "playXID": "e3d11d85deaf57a720d252cd069bcd37",
+        "streamId": "13065",
+        "dubPlayerSrc": "/dub-player/t/13065/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e3d11d85deaf57a720d252cd069bcd37&abyssId=13065"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13065",
+        "playXID": "e3d11d85deaf57a720d252cd069bcd37",
+        "streamId": "13065",
+        "dubPlayerSrc": "/dub-player/t/13065/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e3d11d85deaf57a720d252cd069bcd37&abyssId=13065"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/e3d11d85deaf57a720d252cd069bcd37",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/e3d11d85deaf57a720d252cd069bcd37"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13065",
+        "abyssId": "13065",
+        "playXID": "e3d11d85deaf57a720d252cd069bcd37",
+        "title": "ReLIFE",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "OmxkZnMPm"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "A-cV7aN5_"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "-B1WBMyDf"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/318baa8adc7fc115ca693b09249de978/master.m3u8?md5=JZr3YlNWply4pwgb3QiZTQ&expires=1792166871",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/318baa8adc7fc115ca693b09249de978/master.m3u8?md5=JZr3YlNWply4pwgb3QiZTQ&expires=1792166871",
+            "videoSource": "https://ravok.buzz/cdn/hls/318baa8adc7fc115ca693b09249de978/master.m3u8?md5=JZr3YlNWply4pwgb3QiZTQ&expires=1792166871",
+            "videoImage": "https://as-cdn30.top/p/SmC9cb3ftSoZVom5b0pJcS2dLrjkC9oi1PAcepikIiZ_p0PeMCJJJwEg3PktpdQAVCQasgJvspBo7QqbLcgyUg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "e3d11d85deaf57a720d252cd069bcd37",
+                "streamUrl": "https://ravok.buzz/cdn/hls/318baa8adc7fc115ca693b09249de978/master.m3u8?md5=JZr3YlNWply4pwgb3QiZTQ&expires=1792166871",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/318baa8adc7fc115ca693b09249de978/master.m3u8?md5=JZr3YlNWply4pwgb3QiZTQ&expires=1792166871",
+                "videoSource": "https://ravok.buzz/cdn/hls/318baa8adc7fc115ca693b09249de978/master.m3u8?md5=JZr3YlNWply4pwgb3QiZTQ&expires=1792166871",
+                "link": "https://ravok.buzz/cdn/hls/318baa8adc7fc115ca693b09249de978/master.m3u8?md5=JZr3YlNWply4pwgb3QiZTQ&expires=1792166871",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/SmC9cb3ftSoZVom5b0pJcS2dLrjkC9oi1PAcepikIiZ_p0PeMCJJJwEg3PktpdQAVCQasgJvspBo7QqbLcgyUg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "OmxkZnMPm"
+        }
+      },
+      "fetched_at": "2026-10-16T14:08:01Z"
+    },
+    {
+      "id": "episode/relife-1x7",
+      "episode_id": "episode/relife-1x7",
+      "title": "ReLIFE 1x1",
+      "episode_name": "ReLIFE 1x1",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1316/1/7.webp",
+      "abyssid": "13066",
+      "abyssId": "13066",
+      "playxid": "eec96a7f788e88184c0e713456026f3f",
+      "playXID": "eec96a7f788e88184c0e713456026f3f",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13066",
+        "playXID": "eec96a7f788e88184c0e713456026f3f",
+        "streamId": "13066",
+        "dubPlayerSrc": "/dub-player/t/13066/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=eec96a7f788e88184c0e713456026f3f&abyssId=13066"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13066",
+        "playXID": "eec96a7f788e88184c0e713456026f3f",
+        "streamId": "13066",
+        "dubPlayerSrc": "/dub-player/t/13066/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=eec96a7f788e88184c0e713456026f3f&abyssId=13066"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/eec96a7f788e88184c0e713456026f3f",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/eec96a7f788e88184c0e713456026f3f"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13066",
+        "abyssId": "13066",
+        "playXID": "eec96a7f788e88184c0e713456026f3f",
+        "title": "ReLIFE",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "-ftDC2Ic1"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "cIjoXtSFT"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "6HVJJDbKM"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/6b9b780ac119030d1394115c990065f9/master.m3u8?md5=RYwwH5zSq2c6qxIkYUNYBg&expires=1792166871",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/6b9b780ac119030d1394115c990065f9/master.m3u8?md5=RYwwH5zSq2c6qxIkYUNYBg&expires=1792166871",
+            "videoSource": "https://ravok.buzz/cdn/hls/6b9b780ac119030d1394115c990065f9/master.m3u8?md5=RYwwH5zSq2c6qxIkYUNYBg&expires=1792166871",
+            "videoImage": "https://as-cdn28.top/p/Nw13jYc86H5WBJeW-rdUq2rMFJKOlArBYBtiD610zZEw6ZkreoB6Ds5vehwkQULNteBiFF6XijwnlKZ-81rf2A.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "eec96a7f788e88184c0e713456026f3f",
+                "streamUrl": "https://ravok.buzz/cdn/hls/6b9b780ac119030d1394115c990065f9/master.m3u8?md5=RYwwH5zSq2c6qxIkYUNYBg&expires=1792166871",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/6b9b780ac119030d1394115c990065f9/master.m3u8?md5=RYwwH5zSq2c6qxIkYUNYBg&expires=1792166871",
+                "videoSource": "https://ravok.buzz/cdn/hls/6b9b780ac119030d1394115c990065f9/master.m3u8?md5=RYwwH5zSq2c6qxIkYUNYBg&expires=1792166871",
+                "link": "https://ravok.buzz/cdn/hls/6b9b780ac119030d1394115c990065f9/master.m3u8?md5=RYwwH5zSq2c6qxIkYUNYBg&expires=1792166871",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/Nw13jYc86H5WBJeW-rdUq2rMFJKOlArBYBtiD610zZEw6ZkreoB6Ds5vehwkQULNteBiFF6XijwnlKZ-81rf2A.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "-ftDC2Ic1"
+        }
+      },
+      "fetched_at": "2026-10-16T14:08:01Z"
+    },
+    {
+      "id": "episode/relife-1x9",
+      "episode_id": "episode/relife-1x9",
+      "title": "ReLIFE 1x1",
+      "episode_name": "ReLIFE 1x1",
+      "episode_number": 9,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1316/1/9.webp",
+      "abyssid": "13068",
+      "abyssId": "13068",
+      "playxid": "44590aa922914066f965ae67be0222d2",
+      "playXID": "44590aa922914066f965ae67be0222d2",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13068",
+        "playXID": "44590aa922914066f965ae67be0222d2",
+        "streamId": "13068",
+        "dubPlayerSrc": "/dub-player/t/13068/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=44590aa922914066f965ae67be0222d2&abyssId=13068"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13068",
+        "playXID": "44590aa922914066f965ae67be0222d2",
+        "streamId": "13068",
+        "dubPlayerSrc": "/dub-player/t/13068/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=44590aa922914066f965ae67be0222d2&abyssId=13068"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/44590aa922914066f965ae67be0222d2",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/44590aa922914066f965ae67be0222d2"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13068",
+        "abyssId": "13068",
+        "playXID": "44590aa922914066f965ae67be0222d2",
+        "title": "ReLIFE",
+        "season": 1,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "8amBP1mEZQ"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "gjkbOqQ7N"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "raGyARleT"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/65933ff504875e68368bdbb66eb84e62/master.m3u8?md5=P7QlwnMOUAmV1W6Enyyghw&expires=1792166871",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/65933ff504875e68368bdbb66eb84e62/master.m3u8?md5=P7QlwnMOUAmV1W6Enyyghw&expires=1792166871",
+            "videoSource": "https://ravok.buzz/cdn/hls/65933ff504875e68368bdbb66eb84e62/master.m3u8?md5=P7QlwnMOUAmV1W6Enyyghw&expires=1792166871",
+            "videoImage": "https://as-cdn30.top/p/_Oq1Xw8abZnincHWIdeKGjmzpgt4HIKoh81uKFhPv1bkzo-eifNocypgWVYQJp7tPrqI6QzEniFyUZUpTJHxJA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "44590aa922914066f965ae67be0222d2",
+                "streamUrl": "https://ravok.buzz/cdn/hls/65933ff504875e68368bdbb66eb84e62/master.m3u8?md5=P7QlwnMOUAmV1W6Enyyghw&expires=1792166871",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/65933ff504875e68368bdbb66eb84e62/master.m3u8?md5=P7QlwnMOUAmV1W6Enyyghw&expires=1792166871",
+                "videoSource": "https://ravok.buzz/cdn/hls/65933ff504875e68368bdbb66eb84e62/master.m3u8?md5=P7QlwnMOUAmV1W6Enyyghw&expires=1792166871",
+                "link": "https://ravok.buzz/cdn/hls/65933ff504875e68368bdbb66eb84e62/master.m3u8?md5=P7QlwnMOUAmV1W6Enyyghw&expires=1792166871",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/_Oq1Xw8abZnincHWIdeKGjmzpgt4HIKoh81uKFhPv1bkzo-eifNocypgWVYQJp7tPrqI6QzEniFyUZUpTJHxJA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "8amBP1mEZQ"
+        }
+      },
+      "fetched_at": "2026-10-16T14:08:01Z"
+    },
+    {
+      "id": "episode/relife-1x8",
+      "episode_id": "episode/relife-1x8",
+      "title": "ReLIFE 1x1",
+      "episode_name": "ReLIFE 1x1",
+      "episode_number": 8,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1316/1/8.webp",
+      "abyssid": "13067",
+      "abyssId": "13067",
+      "playxid": "67b4e63655366f054314061dadd539a0",
+      "playXID": "67b4e63655366f054314061dadd539a0",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13067",
+        "playXID": "67b4e63655366f054314061dadd539a0",
+        "streamId": "13067",
+        "dubPlayerSrc": "/dub-player/t/13067/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=67b4e63655366f054314061dadd539a0&abyssId=13067"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13067",
+        "playXID": "67b4e63655366f054314061dadd539a0",
+        "streamId": "13067",
+        "dubPlayerSrc": "/dub-player/t/13067/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=67b4e63655366f054314061dadd539a0&abyssId=13067"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/67b4e63655366f054314061dadd539a0",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/67b4e63655366f054314061dadd539a0"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13067",
+        "abyssId": "13067",
+        "playXID": "67b4e63655366f054314061dadd539a0",
+        "title": "ReLIFE",
+        "season": 1,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "TKhV_U3Fw"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "E1wSHMPB7"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "gsSOgqFFs"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/3de13d5a35d35190c54e18b15beec60a/master.m3u8?md5=zzB4s7ck40Rdte0BLR8C4w&expires=1792166871",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/3de13d5a35d35190c54e18b15beec60a/master.m3u8?md5=zzB4s7ck40Rdte0BLR8C4w&expires=1792166871",
+            "videoSource": "https://ravok.buzz/cdn/hls/3de13d5a35d35190c54e18b15beec60a/master.m3u8?md5=zzB4s7ck40Rdte0BLR8C4w&expires=1792166871",
+            "videoImage": "https://as-cdn28.top/p/pQaNLpXFP-Sb_WETz70V8KMS5hfXc4azhRdceX2Ers33O6ZINcslwrbUnkVv4n0Q06cCgm7SAOI6a7XXup6ZsA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "67b4e63655366f054314061dadd539a0",
+                "streamUrl": "https://ravok.buzz/cdn/hls/3de13d5a35d35190c54e18b15beec60a/master.m3u8?md5=zzB4s7ck40Rdte0BLR8C4w&expires=1792166871",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/3de13d5a35d35190c54e18b15beec60a/master.m3u8?md5=zzB4s7ck40Rdte0BLR8C4w&expires=1792166871",
+                "videoSource": "https://ravok.buzz/cdn/hls/3de13d5a35d35190c54e18b15beec60a/master.m3u8?md5=zzB4s7ck40Rdte0BLR8C4w&expires=1792166871",
+                "link": "https://ravok.buzz/cdn/hls/3de13d5a35d35190c54e18b15beec60a/master.m3u8?md5=zzB4s7ck40Rdte0BLR8C4w&expires=1792166871",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/pQaNLpXFP-Sb_WETz70V8KMS5hfXc4azhRdceX2Ers33O6ZINcslwrbUnkVv4n0Q06cCgm7SAOI6a7XXup6ZsA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "TKhV_U3Fw"
+        }
+      },
+      "fetched_at": "2026-10-16T14:08:01Z"
+    },
+    {
+      "id": "episode/relife-1x10",
+      "episode_id": "episode/relife-1x10",
+      "title": "ReLIFE 1x1",
+      "episode_name": "ReLIFE 1x1",
+      "episode_number": 10,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1316/1/10.webp",
+      "abyssid": "13069",
+      "abyssId": "13069",
+      "playxid": "deee9fe5195586bf4545518a76aff2f7",
+      "playXID": "deee9fe5195586bf4545518a76aff2f7",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13069",
+        "playXID": "deee9fe5195586bf4545518a76aff2f7",
+        "streamId": "13069",
+        "dubPlayerSrc": "/dub-player/t/13069/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=deee9fe5195586bf4545518a76aff2f7&abyssId=13069"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13069",
+        "playXID": "deee9fe5195586bf4545518a76aff2f7",
+        "streamId": "13069",
+        "dubPlayerSrc": "/dub-player/t/13069/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=deee9fe5195586bf4545518a76aff2f7&abyssId=13069"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/deee9fe5195586bf4545518a76aff2f7",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/deee9fe5195586bf4545518a76aff2f7"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13069",
+        "abyssId": "13069",
+        "playXID": "deee9fe5195586bf4545518a76aff2f7",
+        "title": "ReLIFE",
+        "season": 1,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "z5QDO0dLs"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "YLrFYjNkq"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "ZxDTkmsTC"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/2d7c87a09eb88b1e331f2a0f73010264/master.m3u8?md5=8XucidTilwRyN4L7aMDKYQ&expires=1792166871",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/2d7c87a09eb88b1e331f2a0f73010264/master.m3u8?md5=8XucidTilwRyN4L7aMDKYQ&expires=1792166871",
+            "videoSource": "https://ravok.buzz/cdn/hls/2d7c87a09eb88b1e331f2a0f73010264/master.m3u8?md5=8XucidTilwRyN4L7aMDKYQ&expires=1792166871",
+            "videoImage": "https://as-cdn27.top/p/zXgbxcwLdqhEDkhm9OjWiEpp5BUC48m74oqyy5V0zN2C_RQhCM27SaGsZlGz4oDrKETa6ItNyNVM1CNvxKqYGg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "deee9fe5195586bf4545518a76aff2f7",
+                "streamUrl": "https://ravok.buzz/cdn/hls/2d7c87a09eb88b1e331f2a0f73010264/master.m3u8?md5=8XucidTilwRyN4L7aMDKYQ&expires=1792166871",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/2d7c87a09eb88b1e331f2a0f73010264/master.m3u8?md5=8XucidTilwRyN4L7aMDKYQ&expires=1792166871",
+                "videoSource": "https://ravok.buzz/cdn/hls/2d7c87a09eb88b1e331f2a0f73010264/master.m3u8?md5=8XucidTilwRyN4L7aMDKYQ&expires=1792166871",
+                "link": "https://ravok.buzz/cdn/hls/2d7c87a09eb88b1e331f2a0f73010264/master.m3u8?md5=8XucidTilwRyN4L7aMDKYQ&expires=1792166871",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/zXgbxcwLdqhEDkhm9OjWiEpp5BUC48m74oqyy5V0zN2C_RQhCM27SaGsZlGz4oDrKETa6ItNyNVM1CNvxKqYGg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "z5QDO0dLs"
+        }
+      },
+      "fetched_at": "2026-10-16T14:08:01Z"
+    },
+    {
+      "id": "episode/relife-1x11",
+      "episode_id": "episode/relife-1x11",
+      "title": "ReLIFE 1x1",
+      "episode_name": "ReLIFE 1x1",
+      "episode_number": 11,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1316/1/11.webp",
+      "abyssid": "13070",
+      "abyssId": "13070",
+      "playxid": "f80ebff16ccaa9b48a0224d7c489cef4",
+      "playXID": "f80ebff16ccaa9b48a0224d7c489cef4",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13070",
+        "playXID": "f80ebff16ccaa9b48a0224d7c489cef4",
+        "streamId": "13070",
+        "dubPlayerSrc": "/dub-player/t/13070/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f80ebff16ccaa9b48a0224d7c489cef4&abyssId=13070"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13070",
+        "playXID": "f80ebff16ccaa9b48a0224d7c489cef4",
+        "streamId": "13070",
+        "dubPlayerSrc": "/dub-player/t/13070/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f80ebff16ccaa9b48a0224d7c489cef4&abyssId=13070"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/f80ebff16ccaa9b48a0224d7c489cef4",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/f80ebff16ccaa9b48a0224d7c489cef4"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13070",
+        "abyssId": "13070",
+        "playXID": "f80ebff16ccaa9b48a0224d7c489cef4",
+        "title": "ReLIFE",
+        "season": 1,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "yidDescU5"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "LHqJQtrkb"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "HhjOy8zHF"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/f7e38c36dc385e29d715a4588b0d096b/master.m3u8?md5=CIHGkFA3Bl4QuSubNdiZXg&expires=1792166872",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/f7e38c36dc385e29d715a4588b0d096b/master.m3u8?md5=CIHGkFA3Bl4QuSubNdiZXg&expires=1792166872",
+            "videoSource": "https://ravok.buzz/cdn/hls/f7e38c36dc385e29d715a4588b0d096b/master.m3u8?md5=CIHGkFA3Bl4QuSubNdiZXg&expires=1792166872",
+            "videoImage": "https://as-cdn30.top/p/h9_lnaZapXBymp57a5qsVqSkC84mr_EOrl_SiLecLcjdQ0AA2QJFIOWJqtNH73gDytRZ8drqKx2K98Jbpksu2g.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "f80ebff16ccaa9b48a0224d7c489cef4",
+                "streamUrl": "https://ravok.buzz/cdn/hls/f7e38c36dc385e29d715a4588b0d096b/master.m3u8?md5=CIHGkFA3Bl4QuSubNdiZXg&expires=1792166872",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/f7e38c36dc385e29d715a4588b0d096b/master.m3u8?md5=CIHGkFA3Bl4QuSubNdiZXg&expires=1792166872",
+                "videoSource": "https://ravok.buzz/cdn/hls/f7e38c36dc385e29d715a4588b0d096b/master.m3u8?md5=CIHGkFA3Bl4QuSubNdiZXg&expires=1792166872",
+                "link": "https://ravok.buzz/cdn/hls/f7e38c36dc385e29d715a4588b0d096b/master.m3u8?md5=CIHGkFA3Bl4QuSubNdiZXg&expires=1792166872",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/h9_lnaZapXBymp57a5qsVqSkC84mr_EOrl_SiLecLcjdQ0AA2QJFIOWJqtNH73gDytRZ8drqKx2K98Jbpksu2g.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "yidDescU5"
+        }
+      },
+      "fetched_at": "2026-10-16T14:08:02Z"
+    },
+    {
+      "id": "episode/relife-1x12",
+      "episode_id": "episode/relife-1x12",
+      "title": "ReLIFE 1x1",
+      "episode_name": "ReLIFE 1x1",
+      "episode_number": 12,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1316/1/12.webp",
+      "abyssid": "13071",
+      "abyssId": "13071",
+      "playxid": "8e0ce414531179ae9b7f60e20351ee8b",
+      "playXID": "8e0ce414531179ae9b7f60e20351ee8b",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13071",
+        "playXID": "8e0ce414531179ae9b7f60e20351ee8b",
+        "streamId": "13071",
+        "dubPlayerSrc": "/dub-player/t/13071/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8e0ce414531179ae9b7f60e20351ee8b&abyssId=13071"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13071",
+        "playXID": "8e0ce414531179ae9b7f60e20351ee8b",
+        "streamId": "13071",
+        "dubPlayerSrc": "/dub-player/t/13071/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8e0ce414531179ae9b7f60e20351ee8b&abyssId=13071"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/8e0ce414531179ae9b7f60e20351ee8b",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/8e0ce414531179ae9b7f60e20351ee8b"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13071",
+        "abyssId": "13071",
+        "playXID": "8e0ce414531179ae9b7f60e20351ee8b",
+        "title": "ReLIFE",
+        "season": 1,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "HAEoSZSc6"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "vyiLRJ2gS"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "6IPxp42ug"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/c1c349ec8aec5a910a4e8300df3bfcc5/master.m3u8?md5=ttx0CpWWe4fCEkzmQBIuuA&expires=1792166873",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/c1c349ec8aec5a910a4e8300df3bfcc5/master.m3u8?md5=ttx0CpWWe4fCEkzmQBIuuA&expires=1792166873",
+            "videoSource": "https://ravok.buzz/cdn/hls/c1c349ec8aec5a910a4e8300df3bfcc5/master.m3u8?md5=ttx0CpWWe4fCEkzmQBIuuA&expires=1792166873",
+            "videoImage": "https://as-cdn30.top/p/Zvu2Hhqb64khh5_3Wpbh2qBO24x98Vfmy-GoP1zy6kM8omFzVbvwHHauyo8bppYuWTUmx4N2aBMfRKgp4TQSeg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "8e0ce414531179ae9b7f60e20351ee8b",
+                "streamUrl": "https://ravok.buzz/cdn/hls/c1c349ec8aec5a910a4e8300df3bfcc5/master.m3u8?md5=ttx0CpWWe4fCEkzmQBIuuA&expires=1792166873",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/c1c349ec8aec5a910a4e8300df3bfcc5/master.m3u8?md5=ttx0CpWWe4fCEkzmQBIuuA&expires=1792166873",
+                "videoSource": "https://ravok.buzz/cdn/hls/c1c349ec8aec5a910a4e8300df3bfcc5/master.m3u8?md5=ttx0CpWWe4fCEkzmQBIuuA&expires=1792166873",
+                "link": "https://ravok.buzz/cdn/hls/c1c349ec8aec5a910a4e8300df3bfcc5/master.m3u8?md5=ttx0CpWWe4fCEkzmQBIuuA&expires=1792166873",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/Zvu2Hhqb64khh5_3Wpbh2qBO24x98Vfmy-GoP1zy6kM8omFzVbvwHHauyo8bppYuWTUmx4N2aBMfRKgp4TQSeg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "HAEoSZSc6"
+        }
+      },
+      "fetched_at": "2026-10-16T14:08:02Z"
+    },
+    {
+      "id": "episode/relife-1x13",
+      "episode_id": "episode/relife-1x13",
+      "title": "ReLIFE 1x1",
+      "episode_name": "ReLIFE 1x1",
+      "episode_number": 13,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1316/1/13.webp",
+      "abyssid": "13072",
+      "abyssId": "13072",
+      "playxid": "a1ada9947e0d683b4625f94c74104d73",
+      "playXID": "a1ada9947e0d683b4625f94c74104d73",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13072",
+        "playXID": "a1ada9947e0d683b4625f94c74104d73",
+        "streamId": "13072",
+        "dubPlayerSrc": "/dub-player/t/13072/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a1ada9947e0d683b4625f94c74104d73&abyssId=13072"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13072",
+        "playXID": "a1ada9947e0d683b4625f94c74104d73",
+        "streamId": "13072",
+        "dubPlayerSrc": "/dub-player/t/13072/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a1ada9947e0d683b4625f94c74104d73&abyssId=13072"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/a1ada9947e0d683b4625f94c74104d73",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/a1ada9947e0d683b4625f94c74104d73"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13072",
+        "abyssId": "13072",
+        "playXID": "a1ada9947e0d683b4625f94c74104d73",
+        "title": "ReLIFE",
+        "season": 1,
+        "episode": 13,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "u_tQM8Ot-"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "ozR-Yk-QLj"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "tGXm-iPgt"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/d75ad39ec0c38d9232f98fa4f4785d05/master.m3u8?md5=vpdBEQ9yNqOfItzPHtEJpg&expires=1792166873",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/d75ad39ec0c38d9232f98fa4f4785d05/master.m3u8?md5=vpdBEQ9yNqOfItzPHtEJpg&expires=1792166873",
+            "videoSource": "https://ravok.buzz/cdn/hls/d75ad39ec0c38d9232f98fa4f4785d05/master.m3u8?md5=vpdBEQ9yNqOfItzPHtEJpg&expires=1792166873",
+            "videoImage": "https://as-cdn28.top/p/uHUPDE8b0TX_Fli6tsa4s2Wesk8hIrmX0-ZoFJuY6p-FGMKWUAZYpMr0LgSXnmNx7e1Xud4jFbwaouG0F7ZofQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "a1ada9947e0d683b4625f94c74104d73",
+                "streamUrl": "https://ravok.buzz/cdn/hls/d75ad39ec0c38d9232f98fa4f4785d05/master.m3u8?md5=vpdBEQ9yNqOfItzPHtEJpg&expires=1792166873",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/d75ad39ec0c38d9232f98fa4f4785d05/master.m3u8?md5=vpdBEQ9yNqOfItzPHtEJpg&expires=1792166873",
+                "videoSource": "https://ravok.buzz/cdn/hls/d75ad39ec0c38d9232f98fa4f4785d05/master.m3u8?md5=vpdBEQ9yNqOfItzPHtEJpg&expires=1792166873",
+                "link": "https://ravok.buzz/cdn/hls/d75ad39ec0c38d9232f98fa4f4785d05/master.m3u8?md5=vpdBEQ9yNqOfItzPHtEJpg&expires=1792166873",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/uHUPDE8b0TX_Fli6tsa4s2Wesk8hIrmX0-ZoFJuY6p-FGMKWUAZYpMr0LgSXnmNx7e1Xud4jFbwaouG0F7ZofQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "u_tQM8Ot-"
+        }
+      },
+      "fetched_at": "2026-10-16T14:08:03Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T14:07:56Z",
+  "updated_at": "2026-10-16T14:08:03Z"
+}

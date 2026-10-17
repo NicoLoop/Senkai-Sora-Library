@@ -1,0 +1,1355 @@
+{
+  "id": "series/leviathan",
+  "series_name": "Leviathan",
+  "title": "Leviathan",
+  "banner": "https://image.tmdb.org/t/p/w1280/kjm1vV87jzOZf3FM2inwDaYsq5e.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/7HIswF211LMu6PxerdByCgKSuAS.jpg",
+  "genra": [
+    "Action",
+    "Adventure",
+    "Drama",
+    "Fantasy",
+    "Sci-Fi"
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama",
+    "Fantasy",
+    "Sci-Fi"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Japanese"
+  ],
+  "synopsis": "Set in an alternate steampunk past, an Austrian fugitive prince and a Scottish airman in disguise embark on an unexpected quest to prevent a world war.",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Private: Leviathan 1x1",
+          "id": "episode/private-leviathan-1x1",
+          "image": "https://img.watchanimeworld.one/img/thumb_1803_s1e1.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "Private: Leviathan 1x2",
+          "id": "episode/private-leviathan-1x2",
+          "image": "https://img.watchanimeworld.one/img/thumb_1803_s1e2.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "Private: Leviathan 1x3",
+          "id": "episode/private-leviathan-1x3",
+          "image": "https://img.watchanimeworld.one/img/thumb_1803_s1e3.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "Private: Leviathan 1x4",
+          "id": "episode/private-leviathan-1x4",
+          "image": "https://img.watchanimeworld.one/img/thumb_1803_s1e4.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "Leviathan 1x5",
+          "id": "episode/leviathan-1x5",
+          "image": "https://img.watchanimeworld.one/img/thumb_1803_s1e5.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "Leviathan 1x6",
+          "id": "episode/leviathan-1x6",
+          "image": "https://img.watchanimeworld.one/img/thumb_1803_s1e6.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "Leviathan 1x7",
+          "id": "episode/leviathan-1x7",
+          "image": "https://img.watchanimeworld.one/img/thumb_1803_s1e7.webp",
+          "season": 1
+        },
+        {
+          "episode": 8,
+          "title": "Leviathan 1x8",
+          "id": "episode/leviathan-1x8",
+          "image": "https://img.watchanimeworld.one/img/thumb_1803_s1e8.webp",
+          "season": 1
+        },
+        {
+          "episode": 9,
+          "title": "Leviathan 1x9",
+          "id": "episode/leviathan-1x9",
+          "image": "https://img.watchanimeworld.one/img/thumb_1803_s1e9.webp",
+          "season": 1
+        },
+        {
+          "episode": 10,
+          "title": "Leviathan 1x10",
+          "id": "episode/leviathan-1x10",
+          "image": "https://img.watchanimeworld.one/img/thumb_1803_s1e10.webp",
+          "season": 1
+        },
+        {
+          "episode": 11,
+          "title": "Leviathan 1x11",
+          "id": "episode/leviathan-1x11",
+          "image": "https://img.watchanimeworld.one/img/thumb_1803_s1e11.webp",
+          "season": 1
+        },
+        {
+          "episode": 12,
+          "title": "Leviathan 1x12",
+          "id": "episode/leviathan-1x12",
+          "image": "https://img.watchanimeworld.one/img/thumb_1803_s1e12.webp",
+          "season": 1
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/private-leviathan-1x2",
+      "episode_id": "episode/private-leviathan-1x2",
+      "title": "Private: Leviathan 1x1",
+      "episode_name": "Private: Leviathan 1x1",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1803_s1e2.webp",
+      "abyssid": "16117",
+      "abyssId": "16117",
+      "playxid": "dba0ff02313bd467ce9d52df8d6c80e6",
+      "playXID": "dba0ff02313bd467ce9d52df8d6c80e6",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16117",
+        "playXID": "dba0ff02313bd467ce9d52df8d6c80e6",
+        "streamId": "16117",
+        "dubPlayerSrc": "/dub-player/t/16117/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=dba0ff02313bd467ce9d52df8d6c80e6&abyssId=16117"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16117",
+        "playXID": "dba0ff02313bd467ce9d52df8d6c80e6",
+        "streamId": "16117",
+        "dubPlayerSrc": "/dub-player/t/16117/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=dba0ff02313bd467ce9d52df8d6c80e6&abyssId=16117"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/dba0ff02313bd467ce9d52df8d6c80e6",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/dba0ff02313bd467ce9d52df8d6c80e6"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16117",
+        "abyssId": "16117",
+        "playXID": "dba0ff02313bd467ce9d52df8d6c80e6",
+        "title": "Leviathan",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "gc3R9sUsJ"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "mefytktXM"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "mkp4n1AC6"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/42cdd3b3651daaa8684b61a4d1fda21d/master.m3u8?md5=b9jhAV8HskZexkgmVreLuw&expires=1792166563",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/42cdd3b3651daaa8684b61a4d1fda21d/master.m3u8?md5=b9jhAV8HskZexkgmVreLuw&expires=1792166563",
+            "videoSource": "https://ravok.buzz/cdn/hls/42cdd3b3651daaa8684b61a4d1fda21d/master.m3u8?md5=b9jhAV8HskZexkgmVreLuw&expires=1792166563",
+            "videoImage": "https://as-cdn29.top/p/o2ql6FCA47dlMkHlMN4ig6-FF2dwR2WRsx9qOUT0ICXlCezeJOVApun3jpZniMZDZHOicebTlmdavbUcAdT6uw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "dba0ff02313bd467ce9d52df8d6c80e6",
+                "streamUrl": "https://ravok.buzz/cdn/hls/42cdd3b3651daaa8684b61a4d1fda21d/master.m3u8?md5=b9jhAV8HskZexkgmVreLuw&expires=1792166563",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/42cdd3b3651daaa8684b61a4d1fda21d/master.m3u8?md5=b9jhAV8HskZexkgmVreLuw&expires=1792166563",
+                "videoSource": "https://ravok.buzz/cdn/hls/42cdd3b3651daaa8684b61a4d1fda21d/master.m3u8?md5=b9jhAV8HskZexkgmVreLuw&expires=1792166563",
+                "link": "https://ravok.buzz/cdn/hls/42cdd3b3651daaa8684b61a4d1fda21d/master.m3u8?md5=b9jhAV8HskZexkgmVreLuw&expires=1792166563",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/o2ql6FCA47dlMkHlMN4ig6-FF2dwR2WRsx9qOUT0ICXlCezeJOVApun3jpZniMZDZHOicebTlmdavbUcAdT6uw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "gc3R9sUsJ"
+        }
+      },
+      "fetched_at": "2026-10-16T14:02:53Z"
+    },
+    {
+      "id": "episode/private-leviathan-1x3",
+      "episode_id": "episode/private-leviathan-1x3",
+      "title": "Private: Leviathan 1x1",
+      "episode_name": "Private: Leviathan 1x1",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1803_s1e3.webp",
+      "abyssid": "16118",
+      "abyssId": "16118",
+      "playxid": "32f791428812696ee7ce8f161ecd490c",
+      "playXID": "32f791428812696ee7ce8f161ecd490c",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16118",
+        "playXID": "32f791428812696ee7ce8f161ecd490c",
+        "streamId": "16118",
+        "dubPlayerSrc": "/dub-player/t/16118/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=32f791428812696ee7ce8f161ecd490c&abyssId=16118"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16118",
+        "playXID": "32f791428812696ee7ce8f161ecd490c",
+        "streamId": "16118",
+        "dubPlayerSrc": "/dub-player/t/16118/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=32f791428812696ee7ce8f161ecd490c&abyssId=16118"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/32f791428812696ee7ce8f161ecd490c",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/32f791428812696ee7ce8f161ecd490c"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16118",
+        "abyssId": "16118",
+        "playXID": "32f791428812696ee7ce8f161ecd490c",
+        "title": "Leviathan",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "ix7945DCy"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "_sFc44s5L"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "pZkXvUAz7"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/3c78e33760b3a80053833a48703e4a56/master.m3u8?md5=0UogQUKn0dxUSFXyY5KDqg&expires=1792166563",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/3c78e33760b3a80053833a48703e4a56/master.m3u8?md5=0UogQUKn0dxUSFXyY5KDqg&expires=1792166563",
+            "videoSource": "https://ravok.buzz/cdn/hls/3c78e33760b3a80053833a48703e4a56/master.m3u8?md5=0UogQUKn0dxUSFXyY5KDqg&expires=1792166563",
+            "videoImage": "https://as-cdn30.top/p/_Br0ahWZy549Ts898T6wJjSTvT_h9sUS7G-8uf54gp8GW9gRbI2Bbn5Oze-lYsFqrzfiNm3W49n9IYEabQ1EwQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "32f791428812696ee7ce8f161ecd490c",
+                "streamUrl": "https://ravok.buzz/cdn/hls/3c78e33760b3a80053833a48703e4a56/master.m3u8?md5=0UogQUKn0dxUSFXyY5KDqg&expires=1792166563",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/3c78e33760b3a80053833a48703e4a56/master.m3u8?md5=0UogQUKn0dxUSFXyY5KDqg&expires=1792166563",
+                "videoSource": "https://ravok.buzz/cdn/hls/3c78e33760b3a80053833a48703e4a56/master.m3u8?md5=0UogQUKn0dxUSFXyY5KDqg&expires=1792166563",
+                "link": "https://ravok.buzz/cdn/hls/3c78e33760b3a80053833a48703e4a56/master.m3u8?md5=0UogQUKn0dxUSFXyY5KDqg&expires=1792166563",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/_Br0ahWZy549Ts898T6wJjSTvT_h9sUS7G-8uf54gp8GW9gRbI2Bbn5Oze-lYsFqrzfiNm3W49n9IYEabQ1EwQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "ix7945DCy"
+        }
+      },
+      "fetched_at": "2026-10-16T14:02:53Z"
+    },
+    {
+      "id": "episode/private-leviathan-1x4",
+      "episode_id": "episode/private-leviathan-1x4",
+      "title": "Private: Leviathan 1x1",
+      "episode_name": "Private: Leviathan 1x1",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1803_s1e4.webp",
+      "abyssid": "16119",
+      "abyssId": "16119",
+      "playxid": "b6b48639e4627ac7813f3501da8e4465",
+      "playXID": "b6b48639e4627ac7813f3501da8e4465",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16119",
+        "playXID": "b6b48639e4627ac7813f3501da8e4465",
+        "streamId": "16119",
+        "dubPlayerSrc": "/dub-player/t/16119/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b6b48639e4627ac7813f3501da8e4465&abyssId=16119"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16119",
+        "playXID": "b6b48639e4627ac7813f3501da8e4465",
+        "streamId": "16119",
+        "dubPlayerSrc": "/dub-player/t/16119/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b6b48639e4627ac7813f3501da8e4465&abyssId=16119"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/b6b48639e4627ac7813f3501da8e4465",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/b6b48639e4627ac7813f3501da8e4465"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16119",
+        "abyssId": "16119",
+        "playXID": "b6b48639e4627ac7813f3501da8e4465",
+        "title": "Leviathan",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "ZWr711rSw"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "g9gPu6amI"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "pwfwur-Ux"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/75c5b6bcb4fe9f51065a42401f32523c/master.m3u8?md5=erFfudtgCmsAvquVU4GF4Q&expires=1792166563",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/75c5b6bcb4fe9f51065a42401f32523c/master.m3u8?md5=erFfudtgCmsAvquVU4GF4Q&expires=1792166563",
+            "videoSource": "https://ravok.buzz/cdn/hls/75c5b6bcb4fe9f51065a42401f32523c/master.m3u8?md5=erFfudtgCmsAvquVU4GF4Q&expires=1792166563",
+            "videoImage": "https://as-cdn27.top/p/YaEA8qLgAYUIx2KVRSu8kkbJ7RIWpimwp67lZBei0YRJwp0nsmPg38l5A24ljPAb5H_BxuSv2HMWYCRoC4jk5A.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "b6b48639e4627ac7813f3501da8e4465",
+                "streamUrl": "https://ravok.buzz/cdn/hls/75c5b6bcb4fe9f51065a42401f32523c/master.m3u8?md5=erFfudtgCmsAvquVU4GF4Q&expires=1792166563",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/75c5b6bcb4fe9f51065a42401f32523c/master.m3u8?md5=erFfudtgCmsAvquVU4GF4Q&expires=1792166563",
+                "videoSource": "https://ravok.buzz/cdn/hls/75c5b6bcb4fe9f51065a42401f32523c/master.m3u8?md5=erFfudtgCmsAvquVU4GF4Q&expires=1792166563",
+                "link": "https://ravok.buzz/cdn/hls/75c5b6bcb4fe9f51065a42401f32523c/master.m3u8?md5=erFfudtgCmsAvquVU4GF4Q&expires=1792166563",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/YaEA8qLgAYUIx2KVRSu8kkbJ7RIWpimwp67lZBei0YRJwp0nsmPg38l5A24ljPAb5H_BxuSv2HMWYCRoC4jk5A.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "ZWr711rSw"
+        }
+      },
+      "fetched_at": "2026-10-16T14:02:53Z"
+    },
+    {
+      "id": "episode/leviathan-1x5",
+      "episode_id": "episode/leviathan-1x5",
+      "title": "Private: Leviathan 1x1",
+      "episode_name": "Private: Leviathan 1x1",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1803_s1e5.webp",
+      "abyssid": "16120",
+      "abyssId": "16120",
+      "playxid": "e1c2e55cc575a2ccb30e7bbafc011b03",
+      "playXID": "e1c2e55cc575a2ccb30e7bbafc011b03",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16120",
+        "playXID": "e1c2e55cc575a2ccb30e7bbafc011b03",
+        "streamId": "16120",
+        "dubPlayerSrc": "/dub-player/t/16120/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e1c2e55cc575a2ccb30e7bbafc011b03&abyssId=16120"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16120",
+        "playXID": "e1c2e55cc575a2ccb30e7bbafc011b03",
+        "streamId": "16120",
+        "dubPlayerSrc": "/dub-player/t/16120/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e1c2e55cc575a2ccb30e7bbafc011b03&abyssId=16120"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/e1c2e55cc575a2ccb30e7bbafc011b03",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/e1c2e55cc575a2ccb30e7bbafc011b03"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16120",
+        "abyssId": "16120",
+        "playXID": "e1c2e55cc575a2ccb30e7bbafc011b03",
+        "title": "Leviathan",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "L1g4w9IyO"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "5iqdeVyjh"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "VOVJpYkLk"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/0abba96cf46124ba4fe10f3275a58600/master.m3u8?md5=B6sASKnQq7mA_2li-xVLSw&expires=1792166564",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/0abba96cf46124ba4fe10f3275a58600/master.m3u8?md5=B6sASKnQq7mA_2li-xVLSw&expires=1792166564",
+            "videoSource": "https://ravok.buzz/cdn/hls/0abba96cf46124ba4fe10f3275a58600/master.m3u8?md5=B6sASKnQq7mA_2li-xVLSw&expires=1792166564",
+            "videoImage": "https://as-cdn31.top/p/LBvFVPwR9BXOU7AuFNEA-sK21UAB93-_pIolLM-U0OTNXj0TgroIZVdGpx3M0Dl0dznJJTc1Htk18hFQNUZNZg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "e1c2e55cc575a2ccb30e7bbafc011b03",
+                "streamUrl": "https://ravok.buzz/cdn/hls/0abba96cf46124ba4fe10f3275a58600/master.m3u8?md5=B6sASKnQq7mA_2li-xVLSw&expires=1792166564",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/0abba96cf46124ba4fe10f3275a58600/master.m3u8?md5=B6sASKnQq7mA_2li-xVLSw&expires=1792166564",
+                "videoSource": "https://ravok.buzz/cdn/hls/0abba96cf46124ba4fe10f3275a58600/master.m3u8?md5=B6sASKnQq7mA_2li-xVLSw&expires=1792166564",
+                "link": "https://ravok.buzz/cdn/hls/0abba96cf46124ba4fe10f3275a58600/master.m3u8?md5=B6sASKnQq7mA_2li-xVLSw&expires=1792166564",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/LBvFVPwR9BXOU7AuFNEA-sK21UAB93-_pIolLM-U0OTNXj0TgroIZVdGpx3M0Dl0dznJJTc1Htk18hFQNUZNZg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "L1g4w9IyO"
+        }
+      },
+      "fetched_at": "2026-10-16T14:02:54Z"
+    },
+    {
+      "id": "episode/leviathan-1x6",
+      "episode_id": "episode/leviathan-1x6",
+      "title": "Private: Leviathan 1x1",
+      "episode_name": "Private: Leviathan 1x1",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1803_s1e6.webp",
+      "abyssid": "16121",
+      "abyssId": "16121",
+      "playxid": "efe7beaa44d6e14c30432d43b2522ba2",
+      "playXID": "efe7beaa44d6e14c30432d43b2522ba2",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16121",
+        "playXID": "efe7beaa44d6e14c30432d43b2522ba2",
+        "streamId": "16121",
+        "dubPlayerSrc": "/dub-player/t/16121/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=efe7beaa44d6e14c30432d43b2522ba2&abyssId=16121"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16121",
+        "playXID": "efe7beaa44d6e14c30432d43b2522ba2",
+        "streamId": "16121",
+        "dubPlayerSrc": "/dub-player/t/16121/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=efe7beaa44d6e14c30432d43b2522ba2&abyssId=16121"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/efe7beaa44d6e14c30432d43b2522ba2",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/efe7beaa44d6e14c30432d43b2522ba2"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16121",
+        "abyssId": "16121",
+        "playXID": "efe7beaa44d6e14c30432d43b2522ba2",
+        "title": "Leviathan",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "vRHtFkv0t"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "z0JKV3yCJ"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "LSE9v6uY6"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/8d58e6626e8fccff4b30f47ac4651fa1/master.m3u8?md5=drY5pcRtlF3f49NkV088aw&expires=1792166565",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/8d58e6626e8fccff4b30f47ac4651fa1/master.m3u8?md5=drY5pcRtlF3f49NkV088aw&expires=1792166565",
+            "videoSource": "https://ravok.buzz/cdn/hls/8d58e6626e8fccff4b30f47ac4651fa1/master.m3u8?md5=drY5pcRtlF3f49NkV088aw&expires=1792166565",
+            "videoImage": "https://as-cdn28.top/p/vDKW0MW_fARWLadtmt9M18tvKIvytGhVMom2NemqxrGejd5Lq1iDcbSHLw6b1K0gXqQIcihRno761afUmGz98g.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "efe7beaa44d6e14c30432d43b2522ba2",
+                "streamUrl": "https://ravok.buzz/cdn/hls/8d58e6626e8fccff4b30f47ac4651fa1/master.m3u8?md5=drY5pcRtlF3f49NkV088aw&expires=1792166565",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/8d58e6626e8fccff4b30f47ac4651fa1/master.m3u8?md5=drY5pcRtlF3f49NkV088aw&expires=1792166565",
+                "videoSource": "https://ravok.buzz/cdn/hls/8d58e6626e8fccff4b30f47ac4651fa1/master.m3u8?md5=drY5pcRtlF3f49NkV088aw&expires=1792166565",
+                "link": "https://ravok.buzz/cdn/hls/8d58e6626e8fccff4b30f47ac4651fa1/master.m3u8?md5=drY5pcRtlF3f49NkV088aw&expires=1792166565",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/vDKW0MW_fARWLadtmt9M18tvKIvytGhVMom2NemqxrGejd5Lq1iDcbSHLw6b1K0gXqQIcihRno761afUmGz98g.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "vRHtFkv0t"
+        }
+      },
+      "fetched_at": "2026-10-16T14:02:55Z"
+    },
+    {
+      "id": "episode/leviathan-1x7",
+      "episode_id": "episode/leviathan-1x7",
+      "title": "Private: Leviathan 1x1",
+      "episode_name": "Private: Leviathan 1x1",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1803_s1e7.webp",
+      "abyssid": "16122",
+      "abyssId": "16122",
+      "playxid": "63e6bc520edcbaa95446b5690d989f30",
+      "playXID": "63e6bc520edcbaa95446b5690d989f30",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16122",
+        "playXID": "63e6bc520edcbaa95446b5690d989f30",
+        "streamId": "16122",
+        "dubPlayerSrc": "/dub-player/t/16122/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=63e6bc520edcbaa95446b5690d989f30&abyssId=16122"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16122",
+        "playXID": "63e6bc520edcbaa95446b5690d989f30",
+        "streamId": "16122",
+        "dubPlayerSrc": "/dub-player/t/16122/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=63e6bc520edcbaa95446b5690d989f30&abyssId=16122"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/63e6bc520edcbaa95446b5690d989f30",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/63e6bc520edcbaa95446b5690d989f30"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16122",
+        "abyssId": "16122",
+        "playXID": "63e6bc520edcbaa95446b5690d989f30",
+        "title": "Leviathan",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "tSKhHG1kh"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "7a8YWEwnZ"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "P8tLujehhn"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/ad04ee8b56612ecd5803f0b630e35300/master.m3u8?md5=Jo3rOOmBOgX621pFyeqESA&expires=1792166565",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/ad04ee8b56612ecd5803f0b630e35300/master.m3u8?md5=Jo3rOOmBOgX621pFyeqESA&expires=1792166565",
+            "videoSource": "https://ravok.buzz/cdn/hls/ad04ee8b56612ecd5803f0b630e35300/master.m3u8?md5=Jo3rOOmBOgX621pFyeqESA&expires=1792166565",
+            "videoImage": "https://as-cdn29.top/p/CFvD47Ct6eAvLEqTenjBL0rlx1KoMdV2kJEdxv9gmdnBD4c2-dvSg2Bib9bSL7pFwIajgnkodm34Ykvfw0q6wA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "63e6bc520edcbaa95446b5690d989f30",
+                "streamUrl": "https://ravok.buzz/cdn/hls/ad04ee8b56612ecd5803f0b630e35300/master.m3u8?md5=Jo3rOOmBOgX621pFyeqESA&expires=1792166565",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/ad04ee8b56612ecd5803f0b630e35300/master.m3u8?md5=Jo3rOOmBOgX621pFyeqESA&expires=1792166565",
+                "videoSource": "https://ravok.buzz/cdn/hls/ad04ee8b56612ecd5803f0b630e35300/master.m3u8?md5=Jo3rOOmBOgX621pFyeqESA&expires=1792166565",
+                "link": "https://ravok.buzz/cdn/hls/ad04ee8b56612ecd5803f0b630e35300/master.m3u8?md5=Jo3rOOmBOgX621pFyeqESA&expires=1792166565",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/CFvD47Ct6eAvLEqTenjBL0rlx1KoMdV2kJEdxv9gmdnBD4c2-dvSg2Bib9bSL7pFwIajgnkodm34Ykvfw0q6wA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "tSKhHG1kh"
+        }
+      },
+      "fetched_at": "2026-10-16T14:02:55Z"
+    },
+    {
+      "id": "episode/leviathan-1x9",
+      "episode_id": "episode/leviathan-1x9",
+      "title": "Private: Leviathan 1x1",
+      "episode_name": "Private: Leviathan 1x1",
+      "episode_number": 9,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1803_s1e9.webp",
+      "abyssid": "16124",
+      "abyssId": "16124",
+      "playxid": "5898493fbdf4a44a24084021b2215f85",
+      "playXID": "5898493fbdf4a44a24084021b2215f85",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16124",
+        "playXID": "5898493fbdf4a44a24084021b2215f85",
+        "streamId": "16124",
+        "dubPlayerSrc": "/dub-player/t/16124/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=5898493fbdf4a44a24084021b2215f85&abyssId=16124"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16124",
+        "playXID": "5898493fbdf4a44a24084021b2215f85",
+        "streamId": "16124",
+        "dubPlayerSrc": "/dub-player/t/16124/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=5898493fbdf4a44a24084021b2215f85&abyssId=16124"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/5898493fbdf4a44a24084021b2215f85",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/5898493fbdf4a44a24084021b2215f85"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16124",
+        "abyssId": "16124",
+        "playXID": "5898493fbdf4a44a24084021b2215f85",
+        "title": "Leviathan",
+        "season": 1,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "EJJRj713k"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "dx-XOA8t-"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "XwTMK1vDD"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/0e6b428c9e140e8bb8ce4baf6c15934f/master.m3u8?md5=sjUD1YPK0dUI-9AcKAqYBw&expires=1792166566",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/0e6b428c9e140e8bb8ce4baf6c15934f/master.m3u8?md5=sjUD1YPK0dUI-9AcKAqYBw&expires=1792166566",
+            "videoSource": "https://ravok.buzz/cdn/hls/0e6b428c9e140e8bb8ce4baf6c15934f/master.m3u8?md5=sjUD1YPK0dUI-9AcKAqYBw&expires=1792166566",
+            "videoImage": "https://as-cdn27.top/p/euOvwRs-NkvES3IRgrVuhDyAUiGhoxXJojGDf3DjXEsEopsHZhB5loyeqRq4Dr2pRlra4mLPggDTbyb8ZS3USA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "5898493fbdf4a44a24084021b2215f85",
+                "streamUrl": "https://ravok.buzz/cdn/hls/0e6b428c9e140e8bb8ce4baf6c15934f/master.m3u8?md5=sjUD1YPK0dUI-9AcKAqYBw&expires=1792166566",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/0e6b428c9e140e8bb8ce4baf6c15934f/master.m3u8?md5=sjUD1YPK0dUI-9AcKAqYBw&expires=1792166566",
+                "videoSource": "https://ravok.buzz/cdn/hls/0e6b428c9e140e8bb8ce4baf6c15934f/master.m3u8?md5=sjUD1YPK0dUI-9AcKAqYBw&expires=1792166566",
+                "link": "https://ravok.buzz/cdn/hls/0e6b428c9e140e8bb8ce4baf6c15934f/master.m3u8?md5=sjUD1YPK0dUI-9AcKAqYBw&expires=1792166566",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/euOvwRs-NkvES3IRgrVuhDyAUiGhoxXJojGDf3DjXEsEopsHZhB5loyeqRq4Dr2pRlra4mLPggDTbyb8ZS3USA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "EJJRj713k"
+        }
+      },
+      "fetched_at": "2026-10-16T14:02:56Z"
+    },
+    {
+      "id": "episode/leviathan-1x8",
+      "episode_id": "episode/leviathan-1x8",
+      "title": "Private: Leviathan 1x1",
+      "episode_name": "Private: Leviathan 1x1",
+      "episode_number": 8,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1803_s1e8.webp",
+      "abyssid": "16123",
+      "abyssId": "16123",
+      "playxid": "1ad93267910df9c994eae8e51f527c7b",
+      "playXID": "1ad93267910df9c994eae8e51f527c7b",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16123",
+        "playXID": "1ad93267910df9c994eae8e51f527c7b",
+        "streamId": "16123",
+        "dubPlayerSrc": "/dub-player/t/16123/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=1ad93267910df9c994eae8e51f527c7b&abyssId=16123"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16123",
+        "playXID": "1ad93267910df9c994eae8e51f527c7b",
+        "streamId": "16123",
+        "dubPlayerSrc": "/dub-player/t/16123/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=1ad93267910df9c994eae8e51f527c7b&abyssId=16123"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/1ad93267910df9c994eae8e51f527c7b",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/1ad93267910df9c994eae8e51f527c7b"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16123",
+        "abyssId": "16123",
+        "playXID": "1ad93267910df9c994eae8e51f527c7b",
+        "title": "Leviathan",
+        "season": 1,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "La4S3fFx5"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "NVhBLxAyB"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "xTaPt7Afk"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/4358493478aa21d46f8b48d4230d1372/master.m3u8?md5=miGqsFHopucmKiAmtKXljw&expires=1792166566",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/4358493478aa21d46f8b48d4230d1372/master.m3u8?md5=miGqsFHopucmKiAmtKXljw&expires=1792166566",
+            "videoSource": "https://ravok.buzz/cdn/hls/4358493478aa21d46f8b48d4230d1372/master.m3u8?md5=miGqsFHopucmKiAmtKXljw&expires=1792166566",
+            "videoImage": "https://as-cdn31.top/p/JbzEyONTRn1ONOWswEOtFtfgTpLWkUZLSOaacUJgbHoZkM64reNvC_43L0rjq2-ZC6x48xKTraF3KEFxl51Hqg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "1ad93267910df9c994eae8e51f527c7b",
+                "streamUrl": "https://ravok.buzz/cdn/hls/4358493478aa21d46f8b48d4230d1372/master.m3u8?md5=miGqsFHopucmKiAmtKXljw&expires=1792166566",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/4358493478aa21d46f8b48d4230d1372/master.m3u8?md5=miGqsFHopucmKiAmtKXljw&expires=1792166566",
+                "videoSource": "https://ravok.buzz/cdn/hls/4358493478aa21d46f8b48d4230d1372/master.m3u8?md5=miGqsFHopucmKiAmtKXljw&expires=1792166566",
+                "link": "https://ravok.buzz/cdn/hls/4358493478aa21d46f8b48d4230d1372/master.m3u8?md5=miGqsFHopucmKiAmtKXljw&expires=1792166566",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/JbzEyONTRn1ONOWswEOtFtfgTpLWkUZLSOaacUJgbHoZkM64reNvC_43L0rjq2-ZC6x48xKTraF3KEFxl51Hqg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "La4S3fFx5"
+        }
+      },
+      "fetched_at": "2026-10-16T14:02:56Z"
+    },
+    {
+      "id": "episode/leviathan-1x10",
+      "episode_id": "episode/leviathan-1x10",
+      "title": "Private: Leviathan 1x1",
+      "episode_name": "Private: Leviathan 1x1",
+      "episode_number": 10,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1803_s1e10.webp",
+      "abyssid": "16125",
+      "abyssId": "16125",
+      "playxid": "c47a3ba2c793b5b9e21260f903c37d4d",
+      "playXID": "c47a3ba2c793b5b9e21260f903c37d4d",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16125",
+        "playXID": "c47a3ba2c793b5b9e21260f903c37d4d",
+        "streamId": "16125",
+        "dubPlayerSrc": "/dub-player/t/16125/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c47a3ba2c793b5b9e21260f903c37d4d&abyssId=16125"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16125",
+        "playXID": "c47a3ba2c793b5b9e21260f903c37d4d",
+        "streamId": "16125",
+        "dubPlayerSrc": "/dub-player/t/16125/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c47a3ba2c793b5b9e21260f903c37d4d&abyssId=16125"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/c47a3ba2c793b5b9e21260f903c37d4d",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/c47a3ba2c793b5b9e21260f903c37d4d"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16125",
+        "abyssId": "16125",
+        "playXID": "c47a3ba2c793b5b9e21260f903c37d4d",
+        "title": "Leviathan",
+        "season": 1,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "sH2tZZF9g"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "I78UOr5jM"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "nMuhrqxkD"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/07ba670662a00996d2b0d0fc78ac4718/master.m3u8?md5=V5UvOg_PglPAPxnFdU1oNg&expires=1792166567",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/07ba670662a00996d2b0d0fc78ac4718/master.m3u8?md5=V5UvOg_PglPAPxnFdU1oNg&expires=1792166567",
+            "videoSource": "https://ravok.buzz/cdn/hls/07ba670662a00996d2b0d0fc78ac4718/master.m3u8?md5=V5UvOg_PglPAPxnFdU1oNg&expires=1792166567",
+            "videoImage": "https://as-cdn30.top/p/wSTI8Hxhy94_veej7SxlPtAR9bfZKZVOBXOTvc9ALpx_rEn55ZG-H2N0H0siYB68DNvjlg1c0Feg5f2YddbWMg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "c47a3ba2c793b5b9e21260f903c37d4d",
+                "streamUrl": "https://ravok.buzz/cdn/hls/07ba670662a00996d2b0d0fc78ac4718/master.m3u8?md5=V5UvOg_PglPAPxnFdU1oNg&expires=1792166567",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/07ba670662a00996d2b0d0fc78ac4718/master.m3u8?md5=V5UvOg_PglPAPxnFdU1oNg&expires=1792166567",
+                "videoSource": "https://ravok.buzz/cdn/hls/07ba670662a00996d2b0d0fc78ac4718/master.m3u8?md5=V5UvOg_PglPAPxnFdU1oNg&expires=1792166567",
+                "link": "https://ravok.buzz/cdn/hls/07ba670662a00996d2b0d0fc78ac4718/master.m3u8?md5=V5UvOg_PglPAPxnFdU1oNg&expires=1792166567",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/wSTI8Hxhy94_veej7SxlPtAR9bfZKZVOBXOTvc9ALpx_rEn55ZG-H2N0H0siYB68DNvjlg1c0Feg5f2YddbWMg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "sH2tZZF9g"
+        }
+      },
+      "fetched_at": "2026-10-16T14:02:57Z"
+    },
+    {
+      "id": "episode/leviathan-1x11",
+      "episode_id": "episode/leviathan-1x11",
+      "title": "Private: Leviathan 1x1",
+      "episode_name": "Private: Leviathan 1x1",
+      "episode_number": 11,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1803_s1e11.webp",
+      "abyssid": "16126",
+      "abyssId": "16126",
+      "playxid": "86158a6b3924670a32dad65bbc41bd95",
+      "playXID": "86158a6b3924670a32dad65bbc41bd95",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16126",
+        "playXID": "86158a6b3924670a32dad65bbc41bd95",
+        "streamId": "16126",
+        "dubPlayerSrc": "/dub-player/t/16126/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=86158a6b3924670a32dad65bbc41bd95&abyssId=16126"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16126",
+        "playXID": "86158a6b3924670a32dad65bbc41bd95",
+        "streamId": "16126",
+        "dubPlayerSrc": "/dub-player/t/16126/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=86158a6b3924670a32dad65bbc41bd95&abyssId=16126"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/86158a6b3924670a32dad65bbc41bd95",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/86158a6b3924670a32dad65bbc41bd95"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16126",
+        "abyssId": "16126",
+        "playXID": "86158a6b3924670a32dad65bbc41bd95",
+        "title": "Leviathan",
+        "season": 1,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "OoUFbHTUf"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "C5Vgn90bb"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "mU2fjFjOK"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/8647b30b75d878ed0688db13b8079cef/master.m3u8?md5=F6MezS4JvWOfcN45Bk_aZw&expires=1792166567",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/8647b30b75d878ed0688db13b8079cef/master.m3u8?md5=F6MezS4JvWOfcN45Bk_aZw&expires=1792166567",
+            "videoSource": "https://ravok.buzz/cdn/hls/8647b30b75d878ed0688db13b8079cef/master.m3u8?md5=F6MezS4JvWOfcN45Bk_aZw&expires=1792166567",
+            "videoImage": "https://as-cdn28.top/p/ubPABo4ARGvOV6C2SzE9HqVl5rozYMIA347ghC-XR9Z-CVDZcH6wGx9lHMPcJAZfsZ7WLuSQ1IxmaMXw3hcXBQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "86158a6b3924670a32dad65bbc41bd95",
+                "streamUrl": "https://ravok.buzz/cdn/hls/8647b30b75d878ed0688db13b8079cef/master.m3u8?md5=F6MezS4JvWOfcN45Bk_aZw&expires=1792166567",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/8647b30b75d878ed0688db13b8079cef/master.m3u8?md5=F6MezS4JvWOfcN45Bk_aZw&expires=1792166567",
+                "videoSource": "https://ravok.buzz/cdn/hls/8647b30b75d878ed0688db13b8079cef/master.m3u8?md5=F6MezS4JvWOfcN45Bk_aZw&expires=1792166567",
+                "link": "https://ravok.buzz/cdn/hls/8647b30b75d878ed0688db13b8079cef/master.m3u8?md5=F6MezS4JvWOfcN45Bk_aZw&expires=1792166567",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/ubPABo4ARGvOV6C2SzE9HqVl5rozYMIA347ghC-XR9Z-CVDZcH6wGx9lHMPcJAZfsZ7WLuSQ1IxmaMXw3hcXBQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "OoUFbHTUf"
+        }
+      },
+      "fetched_at": "2026-10-16T14:02:57Z"
+    },
+    {
+      "id": "episode/private-leviathan-1x1",
+      "episode_id": "episode/private-leviathan-1x1",
+      "title": "Private: Leviathan 1x1",
+      "episode_name": "Private: Leviathan 1x1",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1803_s1e1.webp",
+      "abyssid": "16116",
+      "abyssId": "16116",
+      "playxid": "d13dda85502e18dac4bca8c4c429b86c",
+      "playXID": "d13dda85502e18dac4bca8c4c429b86c",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16116",
+        "playXID": "d13dda85502e18dac4bca8c4c429b86c",
+        "streamId": "16116",
+        "dubPlayerSrc": "/dub-player/t/16116/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d13dda85502e18dac4bca8c4c429b86c&abyssId=16116"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16116",
+        "playXID": "d13dda85502e18dac4bca8c4c429b86c",
+        "streamId": "16116",
+        "dubPlayerSrc": "/dub-player/t/16116/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d13dda85502e18dac4bca8c4c429b86c&abyssId=16116"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/d13dda85502e18dac4bca8c4c429b86c",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/d13dda85502e18dac4bca8c4c429b86c"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16116",
+        "abyssId": "16116",
+        "playXID": "d13dda85502e18dac4bca8c4c429b86c",
+        "title": "Leviathan",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "QTuq43dj3"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "XxCZLFTiN"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "r8bwm7M7n"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/8c2d1991923698c089bbdbeb1b75abb4/master.m3u8?md5=HqYVKE0vQOaXk0WasWyE9w&expires=1792166568",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/8c2d1991923698c089bbdbeb1b75abb4/master.m3u8?md5=HqYVKE0vQOaXk0WasWyE9w&expires=1792166568",
+            "videoSource": "https://ravok.buzz/cdn/hls/8c2d1991923698c089bbdbeb1b75abb4/master.m3u8?md5=HqYVKE0vQOaXk0WasWyE9w&expires=1792166568",
+            "videoImage": "https://as-cdn29.top/p/0wvCworMBy4-Pk3WLTMg5NxTUBfdtAZ9E5LgYHZEZW4exWYGtfLgiyvBDesaHsLsjRw1K6yhytlOmKUwsBNQlw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "d13dda85502e18dac4bca8c4c429b86c",
+                "streamUrl": "https://ravok.buzz/cdn/hls/8c2d1991923698c089bbdbeb1b75abb4/master.m3u8?md5=HqYVKE0vQOaXk0WasWyE9w&expires=1792166568",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/8c2d1991923698c089bbdbeb1b75abb4/master.m3u8?md5=HqYVKE0vQOaXk0WasWyE9w&expires=1792166568",
+                "videoSource": "https://ravok.buzz/cdn/hls/8c2d1991923698c089bbdbeb1b75abb4/master.m3u8?md5=HqYVKE0vQOaXk0WasWyE9w&expires=1792166568",
+                "link": "https://ravok.buzz/cdn/hls/8c2d1991923698c089bbdbeb1b75abb4/master.m3u8?md5=HqYVKE0vQOaXk0WasWyE9w&expires=1792166568",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/0wvCworMBy4-Pk3WLTMg5NxTUBfdtAZ9E5LgYHZEZW4exWYGtfLgiyvBDesaHsLsjRw1K6yhytlOmKUwsBNQlw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "QTuq43dj3"
+        }
+      },
+      "fetched_at": "2026-10-16T14:02:57Z"
+    },
+    {
+      "id": "episode/leviathan-1x12",
+      "episode_id": "episode/leviathan-1x12",
+      "title": "Private: Leviathan 1x1",
+      "episode_name": "Private: Leviathan 1x1",
+      "episode_number": 12,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1803_s1e12.webp",
+      "abyssid": "16127",
+      "abyssId": "16127",
+      "playxid": "f2671992766736eaee5018a1de716c86",
+      "playXID": "f2671992766736eaee5018a1de716c86",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16127",
+        "playXID": "f2671992766736eaee5018a1de716c86",
+        "streamId": "16127",
+        "dubPlayerSrc": "/dub-player/t/16127/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f2671992766736eaee5018a1de716c86&abyssId=16127"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16127",
+        "playXID": "f2671992766736eaee5018a1de716c86",
+        "streamId": "16127",
+        "dubPlayerSrc": "/dub-player/t/16127/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f2671992766736eaee5018a1de716c86&abyssId=16127"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/f2671992766736eaee5018a1de716c86",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/f2671992766736eaee5018a1de716c86"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16127",
+        "abyssId": "16127",
+        "playXID": "f2671992766736eaee5018a1de716c86",
+        "title": "Leviathan",
+        "season": 1,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "nNWVsD1RP"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "Y0jXN5qXR"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "lYCsKm_xP"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/d9481361f9807cd402eae508552f895f/master.m3u8?md5=tr3w4QH3k1YO0KCTKR9yZg&expires=1792166568",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/d9481361f9807cd402eae508552f895f/master.m3u8?md5=tr3w4QH3k1YO0KCTKR9yZg&expires=1792166568",
+            "videoSource": "https://ravok.buzz/cdn/hls/d9481361f9807cd402eae508552f895f/master.m3u8?md5=tr3w4QH3k1YO0KCTKR9yZg&expires=1792166568",
+            "videoImage": "https://as-cdn27.top/p/BS4b114_ZLzFHEhbQ8yQ3dW06YQKd-YGD6yPncvGuE7gjq2cp8r6g8FJTdmsgbA8becVCQLCSghmQVyWg91cWQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "f2671992766736eaee5018a1de716c86",
+                "streamUrl": "https://ravok.buzz/cdn/hls/d9481361f9807cd402eae508552f895f/master.m3u8?md5=tr3w4QH3k1YO0KCTKR9yZg&expires=1792166568",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/d9481361f9807cd402eae508552f895f/master.m3u8?md5=tr3w4QH3k1YO0KCTKR9yZg&expires=1792166568",
+                "videoSource": "https://ravok.buzz/cdn/hls/d9481361f9807cd402eae508552f895f/master.m3u8?md5=tr3w4QH3k1YO0KCTKR9yZg&expires=1792166568",
+                "link": "https://ravok.buzz/cdn/hls/d9481361f9807cd402eae508552f895f/master.m3u8?md5=tr3w4QH3k1YO0KCTKR9yZg&expires=1792166568",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/BS4b114_ZLzFHEhbQ8yQ3dW06YQKd-YGD6yPncvGuE7gjq2cp8r6g8FJTdmsgbA8becVCQLCSghmQVyWg91cWQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "nNWVsD1RP"
+        }
+      },
+      "fetched_at": "2026-10-16T14:02:59Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T14:02:51Z",
+  "updated_at": "2026-10-16T14:02:59Z"
+}

@@ -1,0 +1,814 @@
+{
+  "id": "series/tatsuki-fujimoto-17-26",
+  "series_name": "Tatsuki Fujimoto 17-26",
+  "title": "Tatsuki Fujimoto 17-26",
+  "banner": "https://image.tmdb.org/t/p/w1280/4YrYmBx26WZgITKlcceaIz74vj3.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/rVBxMx1IrBdxbxbBuOWK8kiurMB.jpg",
+  "genra": [
+    "Action",
+    "Comedy",
+    "Drama",
+    "Romance",
+    "School",
+    "Shounen",
+    "Supernatural"
+  ],
+  "genres": [
+    "Action",
+    "Comedy",
+    "Drama",
+    "Romance",
+    "School",
+    "Shounen",
+    "Supernatural"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Japanese"
+  ],
+  "synopsis": "Six studios and seven directors adapt the early works of Tatsuki Fujimoto, the mastermind behind \"Chainsaw Man,\" into an anime anthology. Each episode is an anime adaptation of a short story he drew from ages seventeen to twenty-six, including the first manga he ever submitted for competition. Watch as vivid tales of young love, chaos, madness, and the bonds between people unfold in each episode.",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 7,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 7,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Tatsuki Fujimoto 17-26 1x1",
+          "id": "episode/tatsuki-fujimoto-17-26-1x1",
+          "image": "https://img.watchanimeworld.one/img/thumb_2182_s1e1.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "Tatsuki Fujimoto 17-26 1x2",
+          "id": "episode/tatsuki-fujimoto-17-26-1x2",
+          "image": "https://img.watchanimeworld.one/img/thumb_2182_s1e2.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "Tatsuki Fujimoto 17-26 1x3",
+          "id": "episode/tatsuki-fujimoto-17-26-1x3",
+          "image": "https://img.watchanimeworld.one/img/thumb_2182_s1e3.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "Tatsuki Fujimoto 17-26 1x4",
+          "id": "episode/tatsuki-fujimoto-17-26-1x4",
+          "image": "https://img.watchanimeworld.one/img/thumb_2182_s1e4.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "Tatsuki Fujimoto 17-26 1x5",
+          "id": "episode/tatsuki-fujimoto-17-26-1x5",
+          "image": "https://img.watchanimeworld.one/img/thumb_2182_s1e5.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "Tatsuki Fujimoto 17-26 1x6",
+          "id": "episode/tatsuki-fujimoto-17-26-1x6",
+          "image": "https://img.watchanimeworld.one/img/thumb_2182_s1e6.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "Tatsuki Fujimoto 17-26 1x7",
+          "id": "episode/tatsuki-fujimoto-17-26-1x7",
+          "image": "https://img.watchanimeworld.one/img/thumb_2182_s1e7.webp",
+          "season": 1
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/tatsuki-fujimoto-17-26-1x1",
+      "episode_id": "episode/tatsuki-fujimoto-17-26-1x1",
+      "title": "Tatsuki Fujimoto 17-26 1x1",
+      "episode_name": "Tatsuki Fujimoto 17-26 1x1",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2182_s1e1.webp",
+      "abyssid": "17522",
+      "abyssId": "17522",
+      "playxid": "56705e032d3b13b849ca05bb7799013e",
+      "playXID": "56705e032d3b13b849ca05bb7799013e",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17522",
+        "playXID": "56705e032d3b13b849ca05bb7799013e",
+        "streamId": "17522",
+        "dubPlayerSrc": "/dub-player/t/17522/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=56705e032d3b13b849ca05bb7799013e&abyssId=17522"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17522",
+        "playXID": "56705e032d3b13b849ca05bb7799013e",
+        "streamId": "17522",
+        "dubPlayerSrc": "/dub-player/t/17522/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=56705e032d3b13b849ca05bb7799013e&abyssId=17522"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/56705e032d3b13b849ca05bb7799013e",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/56705e032d3b13b849ca05bb7799013e"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17522",
+        "abyssId": "17522",
+        "playXID": "56705e032d3b13b849ca05bb7799013e",
+        "title": "Tatsuki Fujimoto 17-26",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "SLGaYwO9R"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "Il0g4rXkw"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "3d1_pb9Gw"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/7a8e5e4cadd5bcc045085ae92b869dc5/master.m3u8?md5=x6TPqoSvV-C3QYrZ3-czMQ&expires=1792166070",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/7a8e5e4cadd5bcc045085ae92b869dc5/master.m3u8?md5=x6TPqoSvV-C3QYrZ3-czMQ&expires=1792166070",
+            "videoSource": "https://ravok.buzz/cdn/hls/7a8e5e4cadd5bcc045085ae92b869dc5/master.m3u8?md5=x6TPqoSvV-C3QYrZ3-czMQ&expires=1792166070",
+            "videoImage": "https://as-cdn31.top/p/__F-OrorD1Ejhs4fsjxIQPxrmmNY38H0KkildyziC-dgMWRlhJpI0e961a0tDLM7UHowKf1Y0yc9-lYHN183eg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "56705e032d3b13b849ca05bb7799013e",
+                "streamUrl": "https://ravok.buzz/cdn/hls/7a8e5e4cadd5bcc045085ae92b869dc5/master.m3u8?md5=x6TPqoSvV-C3QYrZ3-czMQ&expires=1792166070",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/7a8e5e4cadd5bcc045085ae92b869dc5/master.m3u8?md5=x6TPqoSvV-C3QYrZ3-czMQ&expires=1792166070",
+                "videoSource": "https://ravok.buzz/cdn/hls/7a8e5e4cadd5bcc045085ae92b869dc5/master.m3u8?md5=x6TPqoSvV-C3QYrZ3-czMQ&expires=1792166070",
+                "link": "https://ravok.buzz/cdn/hls/7a8e5e4cadd5bcc045085ae92b869dc5/master.m3u8?md5=x6TPqoSvV-C3QYrZ3-czMQ&expires=1792166070",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/__F-OrorD1Ejhs4fsjxIQPxrmmNY38H0KkildyziC-dgMWRlhJpI0e961a0tDLM7UHowKf1Y0yc9-lYHN183eg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "SLGaYwO9R"
+        }
+      },
+      "fetched_at": "2026-10-16T13:54:40Z"
+    },
+    {
+      "id": "episode/tatsuki-fujimoto-17-26-1x5",
+      "episode_id": "episode/tatsuki-fujimoto-17-26-1x5",
+      "title": "Tatsuki Fujimoto 17-26 1x1",
+      "episode_name": "Tatsuki Fujimoto 17-26 1x1",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2182_s1e5.webp",
+      "abyssid": "17526",
+      "abyssId": "17526",
+      "playxid": "4de7729ea5daf28540ee79b3dca73d19",
+      "playXID": "4de7729ea5daf28540ee79b3dca73d19",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17526",
+        "playXID": "4de7729ea5daf28540ee79b3dca73d19",
+        "streamId": "17526",
+        "dubPlayerSrc": "/dub-player/t/17526/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=4de7729ea5daf28540ee79b3dca73d19&abyssId=17526"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17526",
+        "playXID": "4de7729ea5daf28540ee79b3dca73d19",
+        "streamId": "17526",
+        "dubPlayerSrc": "/dub-player/t/17526/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=4de7729ea5daf28540ee79b3dca73d19&abyssId=17526"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/4de7729ea5daf28540ee79b3dca73d19",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/4de7729ea5daf28540ee79b3dca73d19"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17526",
+        "abyssId": "17526",
+        "playXID": "4de7729ea5daf28540ee79b3dca73d19",
+        "title": "Tatsuki Fujimoto 17-26",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "gFQy7CJt-"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "6CeR3fhPK"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "2DAzuVmol"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/7fbdae85f48dfa9df78e46e6fa6b6f0b/master.m3u8?md5=cXC1C_f5cy9RkCeG_bFyEQ&expires=1792166071",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/7fbdae85f48dfa9df78e46e6fa6b6f0b/master.m3u8?md5=cXC1C_f5cy9RkCeG_bFyEQ&expires=1792166071",
+            "videoSource": "https://ravok.buzz/cdn/hls/7fbdae85f48dfa9df78e46e6fa6b6f0b/master.m3u8?md5=cXC1C_f5cy9RkCeG_bFyEQ&expires=1792166071",
+            "videoImage": "https://as-cdn30.top/p/VoJEoW2-eK8Obe2Y0WPaUHP-QgSy3eBg7lD6FMmcJBBXfhoC8IaLyCmf89cv2S3pmoiYkvQG7duIPQmpKUKCjQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "4de7729ea5daf28540ee79b3dca73d19",
+                "streamUrl": "https://ravok.buzz/cdn/hls/7fbdae85f48dfa9df78e46e6fa6b6f0b/master.m3u8?md5=cXC1C_f5cy9RkCeG_bFyEQ&expires=1792166071",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/7fbdae85f48dfa9df78e46e6fa6b6f0b/master.m3u8?md5=cXC1C_f5cy9RkCeG_bFyEQ&expires=1792166071",
+                "videoSource": "https://ravok.buzz/cdn/hls/7fbdae85f48dfa9df78e46e6fa6b6f0b/master.m3u8?md5=cXC1C_f5cy9RkCeG_bFyEQ&expires=1792166071",
+                "link": "https://ravok.buzz/cdn/hls/7fbdae85f48dfa9df78e46e6fa6b6f0b/master.m3u8?md5=cXC1C_f5cy9RkCeG_bFyEQ&expires=1792166071",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/VoJEoW2-eK8Obe2Y0WPaUHP-QgSy3eBg7lD6FMmcJBBXfhoC8IaLyCmf89cv2S3pmoiYkvQG7duIPQmpKUKCjQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "gFQy7CJt-"
+        }
+      },
+      "fetched_at": "2026-10-16T13:54:41Z"
+    },
+    {
+      "id": "episode/tatsuki-fujimoto-17-26-1x3",
+      "episode_id": "episode/tatsuki-fujimoto-17-26-1x3",
+      "title": "Tatsuki Fujimoto 17-26 1x1",
+      "episode_name": "Tatsuki Fujimoto 17-26 1x1",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2182_s1e3.webp",
+      "abyssid": "17524",
+      "abyssId": "17524",
+      "playxid": "8945e380613d55b5fc2968c42b1a58fd",
+      "playXID": "8945e380613d55b5fc2968c42b1a58fd",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17524",
+        "playXID": "8945e380613d55b5fc2968c42b1a58fd",
+        "streamId": "17524",
+        "dubPlayerSrc": "/dub-player/t/17524/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8945e380613d55b5fc2968c42b1a58fd&abyssId=17524"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17524",
+        "playXID": "8945e380613d55b5fc2968c42b1a58fd",
+        "streamId": "17524",
+        "dubPlayerSrc": "/dub-player/t/17524/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8945e380613d55b5fc2968c42b1a58fd&abyssId=17524"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/8945e380613d55b5fc2968c42b1a58fd",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/8945e380613d55b5fc2968c42b1a58fd"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17524",
+        "abyssId": "17524",
+        "playXID": "8945e380613d55b5fc2968c42b1a58fd",
+        "title": "Tatsuki Fujimoto 17-26",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "ofFkBIL-0"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "zd4lIcEMp"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "PaFPuaUcd"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/51ee930409dbbd95547909c9a07f0327/master.m3u8?md5=X9mylEbZwsRYBQGYALmc8g&expires=1792166070",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/51ee930409dbbd95547909c9a07f0327/master.m3u8?md5=X9mylEbZwsRYBQGYALmc8g&expires=1792166070",
+            "videoSource": "https://ravok.buzz/cdn/hls/51ee930409dbbd95547909c9a07f0327/master.m3u8?md5=X9mylEbZwsRYBQGYALmc8g&expires=1792166070",
+            "videoImage": "https://as-cdn28.top/p/gdspjwKvpWdiCHFWgHw5wLJUGi9ImUTyjOKQehuAmcft5O_xqwoMenAxBiTc7JaEvxW-9da4X9b37PKolLutYQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "8945e380613d55b5fc2968c42b1a58fd",
+                "streamUrl": "https://ravok.buzz/cdn/hls/51ee930409dbbd95547909c9a07f0327/master.m3u8?md5=X9mylEbZwsRYBQGYALmc8g&expires=1792166070",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/51ee930409dbbd95547909c9a07f0327/master.m3u8?md5=X9mylEbZwsRYBQGYALmc8g&expires=1792166070",
+                "videoSource": "https://ravok.buzz/cdn/hls/51ee930409dbbd95547909c9a07f0327/master.m3u8?md5=X9mylEbZwsRYBQGYALmc8g&expires=1792166070",
+                "link": "https://ravok.buzz/cdn/hls/51ee930409dbbd95547909c9a07f0327/master.m3u8?md5=X9mylEbZwsRYBQGYALmc8g&expires=1792166070",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/gdspjwKvpWdiCHFWgHw5wLJUGi9ImUTyjOKQehuAmcft5O_xqwoMenAxBiTc7JaEvxW-9da4X9b37PKolLutYQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "ofFkBIL-0"
+        }
+      },
+      "fetched_at": "2026-10-16T13:54:41Z"
+    },
+    {
+      "id": "episode/tatsuki-fujimoto-17-26-1x4",
+      "episode_id": "episode/tatsuki-fujimoto-17-26-1x4",
+      "title": "Tatsuki Fujimoto 17-26 1x1",
+      "episode_name": "Tatsuki Fujimoto 17-26 1x1",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2182_s1e4.webp",
+      "abyssid": "17525",
+      "abyssId": "17525",
+      "playxid": "4a7d2be8648d00c3d1090ed4168a5748",
+      "playXID": "4a7d2be8648d00c3d1090ed4168a5748",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17525",
+        "playXID": "4a7d2be8648d00c3d1090ed4168a5748",
+        "streamId": "17525",
+        "dubPlayerSrc": "/dub-player/t/17525/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=4a7d2be8648d00c3d1090ed4168a5748&abyssId=17525"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17525",
+        "playXID": "4a7d2be8648d00c3d1090ed4168a5748",
+        "streamId": "17525",
+        "dubPlayerSrc": "/dub-player/t/17525/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=4a7d2be8648d00c3d1090ed4168a5748&abyssId=17525"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/4a7d2be8648d00c3d1090ed4168a5748",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/4a7d2be8648d00c3d1090ed4168a5748"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17525",
+        "abyssId": "17525",
+        "playXID": "4a7d2be8648d00c3d1090ed4168a5748",
+        "title": "Tatsuki Fujimoto 17-26",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "BgYLJMA2C"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "wjrLrPhmb"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "MGobXqZyk"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/c400551ad6458ffb9c07fac2e239eb46/master.m3u8?md5=4pl1m728uYvZ3PQyKkRA6g&expires=1792166071",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/c400551ad6458ffb9c07fac2e239eb46/master.m3u8?md5=4pl1m728uYvZ3PQyKkRA6g&expires=1792166071",
+            "videoSource": "https://ravok.buzz/cdn/hls/c400551ad6458ffb9c07fac2e239eb46/master.m3u8?md5=4pl1m728uYvZ3PQyKkRA6g&expires=1792166071",
+            "videoImage": "https://as-cdn28.top/p/TZ4gOul_eX95XanA3_xWB5x95uo0XroMWT29Ca5BGsmoIrGaQ-pddlbbhNYxW8ohNCMkZlD2pq-CCNCbLdOLRA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "4a7d2be8648d00c3d1090ed4168a5748",
+                "streamUrl": "https://ravok.buzz/cdn/hls/c400551ad6458ffb9c07fac2e239eb46/master.m3u8?md5=4pl1m728uYvZ3PQyKkRA6g&expires=1792166071",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/c400551ad6458ffb9c07fac2e239eb46/master.m3u8?md5=4pl1m728uYvZ3PQyKkRA6g&expires=1792166071",
+                "videoSource": "https://ravok.buzz/cdn/hls/c400551ad6458ffb9c07fac2e239eb46/master.m3u8?md5=4pl1m728uYvZ3PQyKkRA6g&expires=1792166071",
+                "link": "https://ravok.buzz/cdn/hls/c400551ad6458ffb9c07fac2e239eb46/master.m3u8?md5=4pl1m728uYvZ3PQyKkRA6g&expires=1792166071",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/TZ4gOul_eX95XanA3_xWB5x95uo0XroMWT29Ca5BGsmoIrGaQ-pddlbbhNYxW8ohNCMkZlD2pq-CCNCbLdOLRA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "BgYLJMA2C"
+        }
+      },
+      "fetched_at": "2026-10-16T13:54:41Z"
+    },
+    {
+      "id": "episode/tatsuki-fujimoto-17-26-1x2",
+      "episode_id": "episode/tatsuki-fujimoto-17-26-1x2",
+      "title": "Tatsuki Fujimoto 17-26 1x1",
+      "episode_name": "Tatsuki Fujimoto 17-26 1x1",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2182_s1e2.webp",
+      "abyssid": "17523",
+      "abyssId": "17523",
+      "playxid": "fe05902972a0cee210923aa814be2f23",
+      "playXID": "fe05902972a0cee210923aa814be2f23",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17523",
+        "playXID": "fe05902972a0cee210923aa814be2f23",
+        "streamId": "17523",
+        "dubPlayerSrc": "/dub-player/t/17523/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=fe05902972a0cee210923aa814be2f23&abyssId=17523"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17523",
+        "playXID": "fe05902972a0cee210923aa814be2f23",
+        "streamId": "17523",
+        "dubPlayerSrc": "/dub-player/t/17523/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=fe05902972a0cee210923aa814be2f23&abyssId=17523"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/fe05902972a0cee210923aa814be2f23",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/fe05902972a0cee210923aa814be2f23"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17523",
+        "abyssId": "17523",
+        "playXID": "fe05902972a0cee210923aa814be2f23",
+        "title": "Tatsuki Fujimoto 17-26",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "GOTNF7bDv"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "mYIgGvj_d"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "ZrkKl-Hil"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/e5bdf8515bf008146c15a0a2cb27213c/master.m3u8?md5=THztJMh6pM0D6af86ubkmg&expires=1792166071",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/e5bdf8515bf008146c15a0a2cb27213c/master.m3u8?md5=THztJMh6pM0D6af86ubkmg&expires=1792166071",
+            "videoSource": "https://ravok.buzz/cdn/hls/e5bdf8515bf008146c15a0a2cb27213c/master.m3u8?md5=THztJMh6pM0D6af86ubkmg&expires=1792166071",
+            "videoImage": "https://as-cdn27.top/p/xDsweIoHCGxYlBcoi1Nl0gvxWXUqBapqbXfTqtvGhDWSUbA_rXox1g0Rmic5i2XVDWMHgedY6foqltpp1YTXMg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "fe05902972a0cee210923aa814be2f23",
+                "streamUrl": "https://ravok.buzz/cdn/hls/e5bdf8515bf008146c15a0a2cb27213c/master.m3u8?md5=THztJMh6pM0D6af86ubkmg&expires=1792166071",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/e5bdf8515bf008146c15a0a2cb27213c/master.m3u8?md5=THztJMh6pM0D6af86ubkmg&expires=1792166071",
+                "videoSource": "https://ravok.buzz/cdn/hls/e5bdf8515bf008146c15a0a2cb27213c/master.m3u8?md5=THztJMh6pM0D6af86ubkmg&expires=1792166071",
+                "link": "https://ravok.buzz/cdn/hls/e5bdf8515bf008146c15a0a2cb27213c/master.m3u8?md5=THztJMh6pM0D6af86ubkmg&expires=1792166071",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/xDsweIoHCGxYlBcoi1Nl0gvxWXUqBapqbXfTqtvGhDWSUbA_rXox1g0Rmic5i2XVDWMHgedY6foqltpp1YTXMg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "GOTNF7bDv"
+        }
+      },
+      "fetched_at": "2026-10-16T13:54:41Z"
+    },
+    {
+      "id": "episode/tatsuki-fujimoto-17-26-1x6",
+      "episode_id": "episode/tatsuki-fujimoto-17-26-1x6",
+      "title": "Tatsuki Fujimoto 17-26 1x1",
+      "episode_name": "Tatsuki Fujimoto 17-26 1x1",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2182_s1e6.webp",
+      "abyssid": "17527",
+      "abyssId": "17527",
+      "playxid": "8cad7770bea867c44a6cd63bae19903d",
+      "playXID": "8cad7770bea867c44a6cd63bae19903d",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17527",
+        "playXID": "8cad7770bea867c44a6cd63bae19903d",
+        "streamId": "17527",
+        "dubPlayerSrc": "/dub-player/t/17527/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8cad7770bea867c44a6cd63bae19903d&abyssId=17527"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17527",
+        "playXID": "8cad7770bea867c44a6cd63bae19903d",
+        "streamId": "17527",
+        "dubPlayerSrc": "/dub-player/t/17527/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8cad7770bea867c44a6cd63bae19903d&abyssId=17527"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/8cad7770bea867c44a6cd63bae19903d",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/8cad7770bea867c44a6cd63bae19903d"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17527",
+        "abyssId": "17527",
+        "playXID": "8cad7770bea867c44a6cd63bae19903d",
+        "title": "Tatsuki Fujimoto 17-26",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "w70OEkTBl"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "c9TDevPu1"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "MjID9TH54"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/4a7a74b2306b5064b738b81d3bdec45b/master.m3u8?md5=DIbAJmQTjROHGsQZu1uzCA&expires=1792166072",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/4a7a74b2306b5064b738b81d3bdec45b/master.m3u8?md5=DIbAJmQTjROHGsQZu1uzCA&expires=1792166072",
+            "videoSource": "https://ravok.buzz/cdn/hls/4a7a74b2306b5064b738b81d3bdec45b/master.m3u8?md5=DIbAJmQTjROHGsQZu1uzCA&expires=1792166072",
+            "videoImage": "https://as-cdn31.top/p/jA1E42M4KFl6o6qLybXwrDYA7P4vhEsVfDoZQjMF1yrYvinwxdoOTa1lGdo8VBtasG3q9cegsH29qZuYULyaJw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "8cad7770bea867c44a6cd63bae19903d",
+                "streamUrl": "https://ravok.buzz/cdn/hls/4a7a74b2306b5064b738b81d3bdec45b/master.m3u8?md5=DIbAJmQTjROHGsQZu1uzCA&expires=1792166072",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/4a7a74b2306b5064b738b81d3bdec45b/master.m3u8?md5=DIbAJmQTjROHGsQZu1uzCA&expires=1792166072",
+                "videoSource": "https://ravok.buzz/cdn/hls/4a7a74b2306b5064b738b81d3bdec45b/master.m3u8?md5=DIbAJmQTjROHGsQZu1uzCA&expires=1792166072",
+                "link": "https://ravok.buzz/cdn/hls/4a7a74b2306b5064b738b81d3bdec45b/master.m3u8?md5=DIbAJmQTjROHGsQZu1uzCA&expires=1792166072",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/jA1E42M4KFl6o6qLybXwrDYA7P4vhEsVfDoZQjMF1yrYvinwxdoOTa1lGdo8VBtasG3q9cegsH29qZuYULyaJw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "w70OEkTBl"
+        }
+      },
+      "fetched_at": "2026-10-16T13:54:42Z"
+    },
+    {
+      "id": "episode/tatsuki-fujimoto-17-26-1x7",
+      "episode_id": "episode/tatsuki-fujimoto-17-26-1x7",
+      "title": "Tatsuki Fujimoto 17-26 1x1",
+      "episode_name": "Tatsuki Fujimoto 17-26 1x1",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2182_s1e7.webp",
+      "abyssid": "17528",
+      "abyssId": "17528",
+      "playxid": "dfb61b74af460c2fd68bb8266f9f0814",
+      "playXID": "dfb61b74af460c2fd68bb8266f9f0814",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17528",
+        "playXID": "dfb61b74af460c2fd68bb8266f9f0814",
+        "streamId": "17528",
+        "dubPlayerSrc": "/dub-player/t/17528/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=dfb61b74af460c2fd68bb8266f9f0814&abyssId=17528"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17528",
+        "playXID": "dfb61b74af460c2fd68bb8266f9f0814",
+        "streamId": "17528",
+        "dubPlayerSrc": "/dub-player/t/17528/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=dfb61b74af460c2fd68bb8266f9f0814&abyssId=17528"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/dfb61b74af460c2fd68bb8266f9f0814",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/dfb61b74af460c2fd68bb8266f9f0814"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17528",
+        "abyssId": "17528",
+        "playXID": "dfb61b74af460c2fd68bb8266f9f0814",
+        "title": "Tatsuki Fujimoto 17-26",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "uhUWvf9Bo"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "3jqDlVu4H"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "PNdcUG3-N"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/06b1380f1d7ebde35e14eb43600150d5/master.m3u8?md5=SbaMinP_eQdTa790ufxiZg&expires=1792166072",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/06b1380f1d7ebde35e14eb43600150d5/master.m3u8?md5=SbaMinP_eQdTa790ufxiZg&expires=1792166072",
+            "videoSource": "https://ravok.buzz/cdn/hls/06b1380f1d7ebde35e14eb43600150d5/master.m3u8?md5=SbaMinP_eQdTa790ufxiZg&expires=1792166072",
+            "videoImage": "https://as-cdn27.top/p/A2uUhD5ZbSNSKb-08-HvUwEqAyb7vPV5JlIypd4wMKU5PRt4FFCGvojNGzdnxxTELDN45TYlf8cUr-R3f-g2vw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "dfb61b74af460c2fd68bb8266f9f0814",
+                "streamUrl": "https://ravok.buzz/cdn/hls/06b1380f1d7ebde35e14eb43600150d5/master.m3u8?md5=SbaMinP_eQdTa790ufxiZg&expires=1792166072",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/06b1380f1d7ebde35e14eb43600150d5/master.m3u8?md5=SbaMinP_eQdTa790ufxiZg&expires=1792166072",
+                "videoSource": "https://ravok.buzz/cdn/hls/06b1380f1d7ebde35e14eb43600150d5/master.m3u8?md5=SbaMinP_eQdTa790ufxiZg&expires=1792166072",
+                "link": "https://ravok.buzz/cdn/hls/06b1380f1d7ebde35e14eb43600150d5/master.m3u8?md5=SbaMinP_eQdTa790ufxiZg&expires=1792166072",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/A2uUhD5ZbSNSKb-08-HvUwEqAyb7vPV5JlIypd4wMKU5PRt4FFCGvojNGzdnxxTELDN45TYlf8cUr-R3f-g2vw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "uhUWvf9Bo"
+        }
+      },
+      "fetched_at": "2026-10-16T13:54:42Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T13:54:38Z",
+  "updated_at": "2026-10-16T13:54:42Z"
+}

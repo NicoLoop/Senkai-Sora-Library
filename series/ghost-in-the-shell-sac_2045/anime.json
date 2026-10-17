@@ -1,0 +1,1288 @@
+{
+  "id": "series/ghost-in-the-shell-sac_2045",
+  "series_name": "Ghost in the Shell: SAC_2045",
+  "title": "Ghost in the Shell: SAC_2045",
+  "banner": "https://image.tmdb.org/t/p/w1280/2L4ob76e1tp6fgMXgMD2BC2hSUT.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/tPK8BER0Pyq68IGKHrTemGlxBV4.jpg",
+  "genra": [
+    "Action",
+    "Adult Cast",
+    "Drama",
+    "Mecha",
+    "Military",
+    "Sci-Fi"
+  ],
+  "genres": [
+    "Action",
+    "Adult Cast",
+    "Drama",
+    "Mecha",
+    "Military",
+    "Sci-Fi"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Japanese"
+  ],
+  "synopsis": "After a global financial crisis, the world is engulfed in an AI-driven \"sustainable war.\" It's up to Section 9 to counter new forms of cyber threats.",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "NO NOISE NO LIFE - Sustainable War",
+          "id": "episode/ghost-in-the-shell-sac_2045-1x1",
+          "image": "https://img.watchanimeworld.one/images/3422/01.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "AT YOUR OWN RISK - Divided by a Wall",
+          "id": "episode/ghost-in-the-shell-sac_2045-1x2",
+          "image": "https://img.watchanimeworld.one/images/3422/02.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "MAVERICK - Missing In Action",
+          "id": "episode/ghost-in-the-shell-sac_2045-1x3",
+          "image": "https://img.watchanimeworld.one/images/3422/03.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "SACRIFICIAL PAWN - Emissary from the Divide",
+          "id": "episode/ghost-in-the-shell-sac_2045-1x4",
+          "image": "https://img.watchanimeworld.one/images/3422/04.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "PATRICK HUGE - Gift from God",
+          "id": "episode/ghost-in-the-shell-sac_2045-1x5",
+          "image": "https://img.watchanimeworld.one/images/3422/05.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "DISCLOSURE - Quantized Gospel",
+          "id": "episode/ghost-in-the-shell-sac_2045-1x6",
+          "image": "https://img.watchanimeworld.one/images/3422/06.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "PIE IN THE SKY - First Bank Robbery",
+          "id": "episode/ghost-in-the-shell-sac_2045-1x7",
+          "image": "https://img.watchanimeworld.one/images/3422/07.webp",
+          "season": 1
+        },
+        {
+          "episode": 8,
+          "title": "ASSEMBLE - What Came About as a Result of Togusa's Death",
+          "id": "episode/ghost-in-the-shell-sac_2045-1x8",
+          "image": "https://img.watchanimeworld.one/images/3422/08.webp",
+          "season": 1
+        },
+        {
+          "episode": 9,
+          "title": "IDENTITY THEFT - The Lonely Struggle",
+          "id": "episode/ghost-in-the-shell-sac_2045-1x9",
+          "image": "https://img.watchanimeworld.one/images/3422/09.webp",
+          "season": 1
+        },
+        {
+          "episode": 10,
+          "title": "NET PEOPLE - What Led to the Hate Mob",
+          "id": "episode/ghost-in-the-shell-sac_2045-1x10",
+          "image": "https://img.watchanimeworld.one/images/3422/10.webp",
+          "season": 1
+        },
+        {
+          "episode": 11,
+          "title": "EDGELORD - Revolution of the 14-Year-Olds",
+          "id": "episode/ghost-in-the-shell-sac_2045-1x11",
+          "image": "https://img.watchanimeworld.one/images/3422/11.webp",
+          "season": 1
+        },
+        {
+          "episode": 12,
+          "title": "NOSTALGIA - All Will Become N.",
+          "id": "episode/ghost-in-the-shell-sac_2045-1x12",
+          "image": "https://img.watchanimeworld.one/images/3422/12.webp",
+          "season": 1
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/ghost-in-the-shell-sac_2045-1x1",
+      "episode_id": "episode/ghost-in-the-shell-sac_2045-1x1",
+      "title": "NO NOISE NO LIFE - Sustainable War",
+      "episode_name": "NO NOISE NO LIFE - Sustainable War",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/3422/01.webp",
+      "abyssid": "6564",
+      "abyssId": "6564",
+      "playxid": "99ef04eb612baf0e86671a5109e22154",
+      "playXID": "99ef04eb612baf0e86671a5109e22154",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "6564",
+        "playXID": "99ef04eb612baf0e86671a5109e22154",
+        "streamId": "6564",
+        "dubPlayerSrc": "/dub-player/t/6564/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=99ef04eb612baf0e86671a5109e22154&abyssId=6564"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "6564",
+        "playXID": "99ef04eb612baf0e86671a5109e22154",
+        "streamId": "6564",
+        "dubPlayerSrc": "/dub-player/t/6564/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=99ef04eb612baf0e86671a5109e22154&abyssId=6564"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/99ef04eb612baf0e86671a5109e22154",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/99ef04eb612baf0e86671a5109e22154"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "6564",
+        "abyssId": "6564",
+        "playXID": "99ef04eb612baf0e86671a5109e22154",
+        "title": "Ghost in the Shell: SAC_2045",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "2HQFukpYE"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "Hxz8VnO4y"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "7cM-GEweN"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/6093661be7dfda896c0541eed5e47d1f/master.m3u8?md5=9FxAXxIrfiooLKldxVHnEw&expires=1792167830",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/6093661be7dfda896c0541eed5e47d1f/master.m3u8?md5=9FxAXxIrfiooLKldxVHnEw&expires=1792167830",
+            "videoSource": "https://ravok.buzz/cdn/hls/6093661be7dfda896c0541eed5e47d1f/master.m3u8?md5=9FxAXxIrfiooLKldxVHnEw&expires=1792167830",
+            "videoImage": "https://as-cdn31.top/p/m420kuNK49KT_if_ItjpK7Uxw096Sxk92WijxHOfqO-dyYC_QatF5wSLwvb6me66PQjBDcAuDk2R02XzE4ktJw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "99ef04eb612baf0e86671a5109e22154",
+                "streamUrl": "https://ravok.buzz/cdn/hls/6093661be7dfda896c0541eed5e47d1f/master.m3u8?md5=9FxAXxIrfiooLKldxVHnEw&expires=1792167830",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/6093661be7dfda896c0541eed5e47d1f/master.m3u8?md5=9FxAXxIrfiooLKldxVHnEw&expires=1792167830",
+                "videoSource": "https://ravok.buzz/cdn/hls/6093661be7dfda896c0541eed5e47d1f/master.m3u8?md5=9FxAXxIrfiooLKldxVHnEw&expires=1792167830",
+                "link": "https://ravok.buzz/cdn/hls/6093661be7dfda896c0541eed5e47d1f/master.m3u8?md5=9FxAXxIrfiooLKldxVHnEw&expires=1792167830",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/m420kuNK49KT_if_ItjpK7Uxw096Sxk92WijxHOfqO-dyYC_QatF5wSLwvb6me66PQjBDcAuDk2R02XzE4ktJw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "2HQFukpYE"
+        }
+      },
+      "fetched_at": "2026-10-16T14:23:59Z"
+    },
+    {
+      "id": "episode/ghost-in-the-shell-sac_2045-1x2",
+      "episode_id": "episode/ghost-in-the-shell-sac_2045-1x2",
+      "title": "NO NOISE NO LIFE - Sustainable War",
+      "episode_name": "NO NOISE NO LIFE - Sustainable War",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/3422/02.webp",
+      "abyssid": "6565",
+      "abyssId": "6565",
+      "playxid": "9808ae38758804501ca3fc0697050e03",
+      "playXID": "9808ae38758804501ca3fc0697050e03",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "6565",
+        "playXID": "9808ae38758804501ca3fc0697050e03",
+        "streamId": "6565",
+        "dubPlayerSrc": "/dub-player/t/6565/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9808ae38758804501ca3fc0697050e03&abyssId=6565"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "6565",
+        "playXID": "9808ae38758804501ca3fc0697050e03",
+        "streamId": "6565",
+        "dubPlayerSrc": "/dub-player/t/6565/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9808ae38758804501ca3fc0697050e03&abyssId=6565"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/9808ae38758804501ca3fc0697050e03",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/9808ae38758804501ca3fc0697050e03"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "6565",
+        "abyssId": "6565",
+        "playXID": "9808ae38758804501ca3fc0697050e03",
+        "title": "Ghost in the Shell: SAC_2045",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "MZytDEc3A"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "Vp5EU2ihk"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "giiBPqSIo"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/80dc8cb78d017772a4f2ac392523c64b/master.m3u8?md5=rIdvKvYiy_NLX22v-vXjEg&expires=1792167830",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/80dc8cb78d017772a4f2ac392523c64b/master.m3u8?md5=rIdvKvYiy_NLX22v-vXjEg&expires=1792167830",
+            "videoSource": "https://ravok.buzz/cdn/hls/80dc8cb78d017772a4f2ac392523c64b/master.m3u8?md5=rIdvKvYiy_NLX22v-vXjEg&expires=1792167830",
+            "videoImage": "https://as-cdn29.top/p/34C0Me4HTZ5EzbAbj1-oSenaOp3nZeVWM-fUjFHVu8RcPthD0piAwSGMTGXfBDVHOJytj0Du5ccN0nNut5HN_g.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "9808ae38758804501ca3fc0697050e03",
+                "streamUrl": "https://ravok.buzz/cdn/hls/80dc8cb78d017772a4f2ac392523c64b/master.m3u8?md5=rIdvKvYiy_NLX22v-vXjEg&expires=1792167830",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/80dc8cb78d017772a4f2ac392523c64b/master.m3u8?md5=rIdvKvYiy_NLX22v-vXjEg&expires=1792167830",
+                "videoSource": "https://ravok.buzz/cdn/hls/80dc8cb78d017772a4f2ac392523c64b/master.m3u8?md5=rIdvKvYiy_NLX22v-vXjEg&expires=1792167830",
+                "link": "https://ravok.buzz/cdn/hls/80dc8cb78d017772a4f2ac392523c64b/master.m3u8?md5=rIdvKvYiy_NLX22v-vXjEg&expires=1792167830",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/34C0Me4HTZ5EzbAbj1-oSenaOp3nZeVWM-fUjFHVu8RcPthD0piAwSGMTGXfBDVHOJytj0Du5ccN0nNut5HN_g.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "MZytDEc3A"
+        }
+      },
+      "fetched_at": "2026-10-16T14:24:00Z"
+    },
+    {
+      "id": "episode/ghost-in-the-shell-sac_2045-1x4",
+      "episode_id": "episode/ghost-in-the-shell-sac_2045-1x4",
+      "title": "NO NOISE NO LIFE - Sustainable War",
+      "episode_name": "NO NOISE NO LIFE - Sustainable War",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/3422/04.webp",
+      "abyssid": "6567",
+      "abyssId": "6567",
+      "playxid": "d60678e8f2ba9c540798ebbde31177e8",
+      "playXID": "d60678e8f2ba9c540798ebbde31177e8",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "6567",
+        "playXID": "d60678e8f2ba9c540798ebbde31177e8",
+        "streamId": "6567",
+        "dubPlayerSrc": "/dub-player/t/6567/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d60678e8f2ba9c540798ebbde31177e8&abyssId=6567"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "6567",
+        "playXID": "d60678e8f2ba9c540798ebbde31177e8",
+        "streamId": "6567",
+        "dubPlayerSrc": "/dub-player/t/6567/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d60678e8f2ba9c540798ebbde31177e8&abyssId=6567"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/d60678e8f2ba9c540798ebbde31177e8",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/d60678e8f2ba9c540798ebbde31177e8"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "6567",
+        "abyssId": "6567",
+        "playXID": "d60678e8f2ba9c540798ebbde31177e8",
+        "title": "Ghost in the Shell: SAC_2045",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "F0l40t8qr"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "9cwGSD4tc"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "JrY6riKz-"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/3fa385411c8862a64bf3417f2f3b9efd/master.m3u8?md5=Jwym2lIC8fEotHX7dWAL-w&expires=1792167830",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/3fa385411c8862a64bf3417f2f3b9efd/master.m3u8?md5=Jwym2lIC8fEotHX7dWAL-w&expires=1792167830",
+            "videoSource": "https://ravok.buzz/cdn/hls/3fa385411c8862a64bf3417f2f3b9efd/master.m3u8?md5=Jwym2lIC8fEotHX7dWAL-w&expires=1792167830",
+            "videoImage": "https://as-cdn29.top/p/kyRNPPvNgCkBuVcQdTxzU7gleXtwWTBER0peCztOXP5P8k0t3-fas5U-j5zX16duuILGer9h7s8BpKJj9fFbMw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "d60678e8f2ba9c540798ebbde31177e8",
+                "streamUrl": "https://ravok.buzz/cdn/hls/3fa385411c8862a64bf3417f2f3b9efd/master.m3u8?md5=Jwym2lIC8fEotHX7dWAL-w&expires=1792167830",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/3fa385411c8862a64bf3417f2f3b9efd/master.m3u8?md5=Jwym2lIC8fEotHX7dWAL-w&expires=1792167830",
+                "videoSource": "https://ravok.buzz/cdn/hls/3fa385411c8862a64bf3417f2f3b9efd/master.m3u8?md5=Jwym2lIC8fEotHX7dWAL-w&expires=1792167830",
+                "link": "https://ravok.buzz/cdn/hls/3fa385411c8862a64bf3417f2f3b9efd/master.m3u8?md5=Jwym2lIC8fEotHX7dWAL-w&expires=1792167830",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/kyRNPPvNgCkBuVcQdTxzU7gleXtwWTBER0peCztOXP5P8k0t3-fas5U-j5zX16duuILGer9h7s8BpKJj9fFbMw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "F0l40t8qr"
+        }
+      },
+      "fetched_at": "2026-10-16T14:24:00Z"
+    },
+    {
+      "id": "episode/ghost-in-the-shell-sac_2045-1x3",
+      "episode_id": "episode/ghost-in-the-shell-sac_2045-1x3",
+      "title": "NO NOISE NO LIFE - Sustainable War",
+      "episode_name": "NO NOISE NO LIFE - Sustainable War",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/3422/03.webp",
+      "abyssid": "6566",
+      "abyssId": "6566",
+      "playxid": "29539ed932d32f1c56324cded92c07c2",
+      "playXID": "29539ed932d32f1c56324cded92c07c2",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "6566",
+        "playXID": "29539ed932d32f1c56324cded92c07c2",
+        "streamId": "6566",
+        "dubPlayerSrc": "/dub-player/t/6566/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=29539ed932d32f1c56324cded92c07c2&abyssId=6566"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "6566",
+        "playXID": "29539ed932d32f1c56324cded92c07c2",
+        "streamId": "6566",
+        "dubPlayerSrc": "/dub-player/t/6566/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=29539ed932d32f1c56324cded92c07c2&abyssId=6566"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/29539ed932d32f1c56324cded92c07c2",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/29539ed932d32f1c56324cded92c07c2"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "6566",
+        "abyssId": "6566",
+        "playXID": "29539ed932d32f1c56324cded92c07c2",
+        "title": "Ghost in the Shell: SAC_2045",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "6aJZIESWk"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "n_s_uGTpN"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "qZsCFq0ji"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/8b48ada5d55fa62d62db95633a9c8c6a/master.m3u8?md5=R_H2u-BKLKoHIiZjhFHqJg&expires=1792167830",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/8b48ada5d55fa62d62db95633a9c8c6a/master.m3u8?md5=R_H2u-BKLKoHIiZjhFHqJg&expires=1792167830",
+            "videoSource": "https://ravok.buzz/cdn/hls/8b48ada5d55fa62d62db95633a9c8c6a/master.m3u8?md5=R_H2u-BKLKoHIiZjhFHqJg&expires=1792167830",
+            "videoImage": "https://as-cdn31.top/p/kyRNPPvNgCkBuVcQdTxzU-oMq9ZAEY7SFCc00E5d77ZOXPIZ2iD9efPlyypUnfxVsnW3GKHZifb9WNS5MIdj6A.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "29539ed932d32f1c56324cded92c07c2",
+                "streamUrl": "https://ravok.buzz/cdn/hls/8b48ada5d55fa62d62db95633a9c8c6a/master.m3u8?md5=R_H2u-BKLKoHIiZjhFHqJg&expires=1792167830",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/8b48ada5d55fa62d62db95633a9c8c6a/master.m3u8?md5=R_H2u-BKLKoHIiZjhFHqJg&expires=1792167830",
+                "videoSource": "https://ravok.buzz/cdn/hls/8b48ada5d55fa62d62db95633a9c8c6a/master.m3u8?md5=R_H2u-BKLKoHIiZjhFHqJg&expires=1792167830",
+                "link": "https://ravok.buzz/cdn/hls/8b48ada5d55fa62d62db95633a9c8c6a/master.m3u8?md5=R_H2u-BKLKoHIiZjhFHqJg&expires=1792167830",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/kyRNPPvNgCkBuVcQdTxzU-oMq9ZAEY7SFCc00E5d77ZOXPIZ2iD9efPlyypUnfxVsnW3GKHZifb9WNS5MIdj6A.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "6aJZIESWk"
+        }
+      },
+      "fetched_at": "2026-10-16T14:24:00Z"
+    },
+    {
+      "id": "episode/ghost-in-the-shell-sac_2045-1x5",
+      "episode_id": "episode/ghost-in-the-shell-sac_2045-1x5",
+      "title": "NO NOISE NO LIFE - Sustainable War",
+      "episode_name": "NO NOISE NO LIFE - Sustainable War",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/3422/05.webp",
+      "abyssid": "6568",
+      "abyssId": "6568",
+      "playxid": "6a4d5952d4c018a1c1af9fa590a10dda",
+      "playXID": "6a4d5952d4c018a1c1af9fa590a10dda",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "6568",
+        "playXID": "6a4d5952d4c018a1c1af9fa590a10dda",
+        "streamId": "6568",
+        "dubPlayerSrc": "/dub-player/t/6568/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6a4d5952d4c018a1c1af9fa590a10dda&abyssId=6568"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "6568",
+        "playXID": "6a4d5952d4c018a1c1af9fa590a10dda",
+        "streamId": "6568",
+        "dubPlayerSrc": "/dub-player/t/6568/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6a4d5952d4c018a1c1af9fa590a10dda&abyssId=6568"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/6a4d5952d4c018a1c1af9fa590a10dda",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/6a4d5952d4c018a1c1af9fa590a10dda"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "6568",
+        "abyssId": "6568",
+        "playXID": "6a4d5952d4c018a1c1af9fa590a10dda",
+        "title": "Ghost in the Shell: SAC_2045",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "VgJ3pqQYo"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "cnd5H6UAj"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "jVccZaUd6"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/5fa3679a3d0cee8b4dafd8baacacdeae/master.m3u8?md5=JeG6lLRHUuCnBe0Ta4dahg&expires=1792167831",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/5fa3679a3d0cee8b4dafd8baacacdeae/master.m3u8?md5=JeG6lLRHUuCnBe0Ta4dahg&expires=1792167831",
+            "videoSource": "https://ravok.buzz/cdn/hls/5fa3679a3d0cee8b4dafd8baacacdeae/master.m3u8?md5=JeG6lLRHUuCnBe0Ta4dahg&expires=1792167831",
+            "videoImage": "https://as-cdn30.top/p/kyRNPPvNgCkBuVcQdTxzUzPnLPys-XNKvSWcJzDSi_O1ZbmLd2CH5FnjE23-uMTrjJoT36j0TpQ-hXNaotU5AA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "6a4d5952d4c018a1c1af9fa590a10dda",
+                "streamUrl": "https://ravok.buzz/cdn/hls/5fa3679a3d0cee8b4dafd8baacacdeae/master.m3u8?md5=JeG6lLRHUuCnBe0Ta4dahg&expires=1792167831",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/5fa3679a3d0cee8b4dafd8baacacdeae/master.m3u8?md5=JeG6lLRHUuCnBe0Ta4dahg&expires=1792167831",
+                "videoSource": "https://ravok.buzz/cdn/hls/5fa3679a3d0cee8b4dafd8baacacdeae/master.m3u8?md5=JeG6lLRHUuCnBe0Ta4dahg&expires=1792167831",
+                "link": "https://ravok.buzz/cdn/hls/5fa3679a3d0cee8b4dafd8baacacdeae/master.m3u8?md5=JeG6lLRHUuCnBe0Ta4dahg&expires=1792167831",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/kyRNPPvNgCkBuVcQdTxzUzPnLPys-XNKvSWcJzDSi_O1ZbmLd2CH5FnjE23-uMTrjJoT36j0TpQ-hXNaotU5AA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "VgJ3pqQYo"
+        }
+      },
+      "fetched_at": "2026-10-16T14:24:01Z"
+    },
+    {
+      "id": "episode/ghost-in-the-shell-sac_2045-1x6",
+      "episode_id": "episode/ghost-in-the-shell-sac_2045-1x6",
+      "title": "NO NOISE NO LIFE - Sustainable War",
+      "episode_name": "NO NOISE NO LIFE - Sustainable War",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/3422/06.webp",
+      "abyssid": "6569",
+      "abyssId": "6569",
+      "playxid": "98b17f068d5d9b7668e19fb8ae470841",
+      "playXID": "98b17f068d5d9b7668e19fb8ae470841",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "6569",
+        "playXID": "98b17f068d5d9b7668e19fb8ae470841",
+        "streamId": "6569",
+        "dubPlayerSrc": "/dub-player/t/6569/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=98b17f068d5d9b7668e19fb8ae470841&abyssId=6569"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "6569",
+        "playXID": "98b17f068d5d9b7668e19fb8ae470841",
+        "streamId": "6569",
+        "dubPlayerSrc": "/dub-player/t/6569/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=98b17f068d5d9b7668e19fb8ae470841&abyssId=6569"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/98b17f068d5d9b7668e19fb8ae470841",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/98b17f068d5d9b7668e19fb8ae470841"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "6569",
+        "abyssId": "6569",
+        "playXID": "98b17f068d5d9b7668e19fb8ae470841",
+        "title": "Ghost in the Shell: SAC_2045",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "EJod3Cvf0"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "JsaUC8QRT"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "ANsuXJb2cc"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "EJod3Cvf0"
+        }
+      },
+      "fetched_at": "2026-10-16T14:24:01Z"
+    },
+    {
+      "id": "episode/ghost-in-the-shell-sac_2045-1x7",
+      "episode_id": "episode/ghost-in-the-shell-sac_2045-1x7",
+      "title": "NO NOISE NO LIFE - Sustainable War",
+      "episode_name": "NO NOISE NO LIFE - Sustainable War",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/3422/07.webp",
+      "abyssid": "6570",
+      "abyssId": "6570",
+      "playxid": "b299ad862b6f12cb57679f0538eca514",
+      "playXID": "b299ad862b6f12cb57679f0538eca514",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "6570",
+        "playXID": "b299ad862b6f12cb57679f0538eca514",
+        "streamId": "6570",
+        "dubPlayerSrc": "/dub-player/t/6570/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b299ad862b6f12cb57679f0538eca514&abyssId=6570"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "6570",
+        "playXID": "b299ad862b6f12cb57679f0538eca514",
+        "streamId": "6570",
+        "dubPlayerSrc": "/dub-player/t/6570/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b299ad862b6f12cb57679f0538eca514&abyssId=6570"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/b299ad862b6f12cb57679f0538eca514",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/b299ad862b6f12cb57679f0538eca514"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "6570",
+        "abyssId": "6570",
+        "playXID": "b299ad862b6f12cb57679f0538eca514",
+        "title": "Ghost in the Shell: SAC_2045",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "9shFYeOMB"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "UdeXmrjbR"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "VYksH0B8r"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "9shFYeOMB"
+        }
+      },
+      "fetched_at": "2026-10-16T14:24:02Z"
+    },
+    {
+      "id": "episode/ghost-in-the-shell-sac_2045-1x10",
+      "episode_id": "episode/ghost-in-the-shell-sac_2045-1x10",
+      "title": "NO NOISE NO LIFE - Sustainable War",
+      "episode_name": "NO NOISE NO LIFE - Sustainable War",
+      "episode_number": 10,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/3422/10.webp",
+      "abyssid": "6573",
+      "abyssId": "6573",
+      "playxid": "ce393994e8cf430867408678d1a5a9c8",
+      "playXID": "ce393994e8cf430867408678d1a5a9c8",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "6573",
+        "playXID": "ce393994e8cf430867408678d1a5a9c8",
+        "streamId": "6573",
+        "dubPlayerSrc": "/dub-player/t/6573/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ce393994e8cf430867408678d1a5a9c8&abyssId=6573"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "6573",
+        "playXID": "ce393994e8cf430867408678d1a5a9c8",
+        "streamId": "6573",
+        "dubPlayerSrc": "/dub-player/t/6573/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ce393994e8cf430867408678d1a5a9c8&abyssId=6573"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/ce393994e8cf430867408678d1a5a9c8",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/ce393994e8cf430867408678d1a5a9c8"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "6573",
+        "abyssId": "6573",
+        "playXID": "ce393994e8cf430867408678d1a5a9c8",
+        "title": "Ghost in the Shell: SAC_2045",
+        "season": 1,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "ycv4elPxs"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "CkR2SlLgj"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "3J_D1TUhEP"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/0e330bc7f4f3429e7ccf8a1d0ec61a3c/master.m3u8?md5=W_xouu6A3brC4wl09G3NDw&expires=1792167833",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/0e330bc7f4f3429e7ccf8a1d0ec61a3c/master.m3u8?md5=W_xouu6A3brC4wl09G3NDw&expires=1792167833",
+            "videoSource": "https://ravok.buzz/cdn/hls/0e330bc7f4f3429e7ccf8a1d0ec61a3c/master.m3u8?md5=W_xouu6A3brC4wl09G3NDw&expires=1792167833",
+            "videoImage": "https://as-cdn30.top/p/kyRNPPvNgCkBuVcQdTxzUwurPLpexdfY4DWjMe4b3YVXHIUGoLu7Vkvecyz5HdY4Xq3fPEhxMAJHiuPrIvzSDA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "ce393994e8cf430867408678d1a5a9c8",
+                "streamUrl": "https://ravok.buzz/cdn/hls/0e330bc7f4f3429e7ccf8a1d0ec61a3c/master.m3u8?md5=W_xouu6A3brC4wl09G3NDw&expires=1792167833",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/0e330bc7f4f3429e7ccf8a1d0ec61a3c/master.m3u8?md5=W_xouu6A3brC4wl09G3NDw&expires=1792167833",
+                "videoSource": "https://ravok.buzz/cdn/hls/0e330bc7f4f3429e7ccf8a1d0ec61a3c/master.m3u8?md5=W_xouu6A3brC4wl09G3NDw&expires=1792167833",
+                "link": "https://ravok.buzz/cdn/hls/0e330bc7f4f3429e7ccf8a1d0ec61a3c/master.m3u8?md5=W_xouu6A3brC4wl09G3NDw&expires=1792167833",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/kyRNPPvNgCkBuVcQdTxzUwurPLpexdfY4DWjMe4b3YVXHIUGoLu7Vkvecyz5HdY4Xq3fPEhxMAJHiuPrIvzSDA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "ycv4elPxs"
+        }
+      },
+      "fetched_at": "2026-10-16T14:24:03Z"
+    },
+    {
+      "id": "episode/ghost-in-the-shell-sac_2045-1x12",
+      "episode_id": "episode/ghost-in-the-shell-sac_2045-1x12",
+      "title": "NO NOISE NO LIFE - Sustainable War",
+      "episode_name": "NO NOISE NO LIFE - Sustainable War",
+      "episode_number": 12,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/3422/12.webp",
+      "abyssid": "6575",
+      "abyssId": "6575",
+      "playxid": "73e5080f0f3804cb9cf470a8ce895dac",
+      "playXID": "73e5080f0f3804cb9cf470a8ce895dac",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "6575",
+        "playXID": "73e5080f0f3804cb9cf470a8ce895dac",
+        "streamId": "6575",
+        "dubPlayerSrc": "/dub-player/t/6575/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=73e5080f0f3804cb9cf470a8ce895dac&abyssId=6575"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "6575",
+        "playXID": "73e5080f0f3804cb9cf470a8ce895dac",
+        "streamId": "6575",
+        "dubPlayerSrc": "/dub-player/t/6575/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=73e5080f0f3804cb9cf470a8ce895dac&abyssId=6575"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/73e5080f0f3804cb9cf470a8ce895dac",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/73e5080f0f3804cb9cf470a8ce895dac"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "6575",
+        "abyssId": "6575",
+        "playXID": "73e5080f0f3804cb9cf470a8ce895dac",
+        "title": "Ghost in the Shell: SAC_2045",
+        "season": 1,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "HS64o_uaX"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "lJUQHMAU9"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "M2CPUYwt5"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/517899d1fdb75f9f1eea6aaf5431a928/master.m3u8?md5=KCu3XKFLgYF_Lmtlgk60bw&expires=1792167834",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/517899d1fdb75f9f1eea6aaf5431a928/master.m3u8?md5=KCu3XKFLgYF_Lmtlgk60bw&expires=1792167834",
+            "videoSource": "https://ravok.buzz/cdn/hls/517899d1fdb75f9f1eea6aaf5431a928/master.m3u8?md5=KCu3XKFLgYF_Lmtlgk60bw&expires=1792167834",
+            "videoImage": "https://as-cdn31.top/p/Kw2cfNKTZmxFqbOMLMales84-7vNj5P_4Lt2ayCU1h8N_FSLvZB1wGOW8mS90Wv7srSn51hsH7HaykbbtAvIhg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "73e5080f0f3804cb9cf470a8ce895dac",
+                "streamUrl": "https://ravok.buzz/cdn/hls/517899d1fdb75f9f1eea6aaf5431a928/master.m3u8?md5=KCu3XKFLgYF_Lmtlgk60bw&expires=1792167834",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/517899d1fdb75f9f1eea6aaf5431a928/master.m3u8?md5=KCu3XKFLgYF_Lmtlgk60bw&expires=1792167834",
+                "videoSource": "https://ravok.buzz/cdn/hls/517899d1fdb75f9f1eea6aaf5431a928/master.m3u8?md5=KCu3XKFLgYF_Lmtlgk60bw&expires=1792167834",
+                "link": "https://ravok.buzz/cdn/hls/517899d1fdb75f9f1eea6aaf5431a928/master.m3u8?md5=KCu3XKFLgYF_Lmtlgk60bw&expires=1792167834",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/Kw2cfNKTZmxFqbOMLMales84-7vNj5P_4Lt2ayCU1h8N_FSLvZB1wGOW8mS90Wv7srSn51hsH7HaykbbtAvIhg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "HS64o_uaX"
+        }
+      },
+      "fetched_at": "2026-10-16T14:24:03Z"
+    },
+    {
+      "id": "episode/ghost-in-the-shell-sac_2045-1x9",
+      "episode_id": "episode/ghost-in-the-shell-sac_2045-1x9",
+      "title": "NO NOISE NO LIFE - Sustainable War",
+      "episode_name": "NO NOISE NO LIFE - Sustainable War",
+      "episode_number": 9,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/3422/09.webp",
+      "abyssid": "6572",
+      "abyssId": "6572",
+      "playxid": "20c86a628232a67e7bd46f76fba7ce12",
+      "playXID": "20c86a628232a67e7bd46f76fba7ce12",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "6572",
+        "playXID": "20c86a628232a67e7bd46f76fba7ce12",
+        "streamId": "6572",
+        "dubPlayerSrc": "/dub-player/t/6572/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=20c86a628232a67e7bd46f76fba7ce12&abyssId=6572"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "6572",
+        "playXID": "20c86a628232a67e7bd46f76fba7ce12",
+        "streamId": "6572",
+        "dubPlayerSrc": "/dub-player/t/6572/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=20c86a628232a67e7bd46f76fba7ce12&abyssId=6572"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/20c86a628232a67e7bd46f76fba7ce12",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/20c86a628232a67e7bd46f76fba7ce12"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "6572",
+        "abyssId": "6572",
+        "playXID": "20c86a628232a67e7bd46f76fba7ce12",
+        "title": "Ghost in the Shell: SAC_2045",
+        "season": 1,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "BoiepsWBc"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "bkdR-Izfp"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "16XNuDSJb"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/d5d91be68667e10e8758d54a94b52578/master.m3u8?md5=LXHzTUk8sVi3OVdVCkGC3A&expires=1792167835",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/d5d91be68667e10e8758d54a94b52578/master.m3u8?md5=LXHzTUk8sVi3OVdVCkGC3A&expires=1792167835",
+            "videoSource": "https://ravok.buzz/cdn/hls/d5d91be68667e10e8758d54a94b52578/master.m3u8?md5=LXHzTUk8sVi3OVdVCkGC3A&expires=1792167835",
+            "videoImage": "https://as-cdn29.top/p/GxFwvyiSKvjL-LOo74X9bsNFstqOrtdvw4XT2YXKvO9LemC0j_5ElfaumH8TUfTQy48PYxRQVgqQQ-CQFohE1g.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "20c86a628232a67e7bd46f76fba7ce12",
+                "streamUrl": "https://ravok.buzz/cdn/hls/d5d91be68667e10e8758d54a94b52578/master.m3u8?md5=LXHzTUk8sVi3OVdVCkGC3A&expires=1792167835",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/d5d91be68667e10e8758d54a94b52578/master.m3u8?md5=LXHzTUk8sVi3OVdVCkGC3A&expires=1792167835",
+                "videoSource": "https://ravok.buzz/cdn/hls/d5d91be68667e10e8758d54a94b52578/master.m3u8?md5=LXHzTUk8sVi3OVdVCkGC3A&expires=1792167835",
+                "link": "https://ravok.buzz/cdn/hls/d5d91be68667e10e8758d54a94b52578/master.m3u8?md5=LXHzTUk8sVi3OVdVCkGC3A&expires=1792167835",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/GxFwvyiSKvjL-LOo74X9bsNFstqOrtdvw4XT2YXKvO9LemC0j_5ElfaumH8TUfTQy48PYxRQVgqQQ-CQFohE1g.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "BoiepsWBc"
+        }
+      },
+      "fetched_at": "2026-10-16T14:24:05Z"
+    },
+    {
+      "id": "episode/ghost-in-the-shell-sac_2045-1x8",
+      "episode_id": "episode/ghost-in-the-shell-sac_2045-1x8",
+      "title": "NO NOISE NO LIFE - Sustainable War",
+      "episode_name": "NO NOISE NO LIFE - Sustainable War",
+      "episode_number": 8,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/3422/08.webp",
+      "abyssid": "6571",
+      "abyssId": "6571",
+      "playxid": "5e6d27a7a8a8330df4b53240737ccc85",
+      "playXID": "5e6d27a7a8a8330df4b53240737ccc85",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "6571",
+        "playXID": "5e6d27a7a8a8330df4b53240737ccc85",
+        "streamId": "6571",
+        "dubPlayerSrc": "/dub-player/t/6571/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=5e6d27a7a8a8330df4b53240737ccc85&abyssId=6571"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "6571",
+        "playXID": "5e6d27a7a8a8330df4b53240737ccc85",
+        "streamId": "6571",
+        "dubPlayerSrc": "/dub-player/t/6571/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=5e6d27a7a8a8330df4b53240737ccc85&abyssId=6571"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/5e6d27a7a8a8330df4b53240737ccc85",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/5e6d27a7a8a8330df4b53240737ccc85"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "6571",
+        "abyssId": "6571",
+        "playXID": "5e6d27a7a8a8330df4b53240737ccc85",
+        "title": "Ghost in the Shell: SAC_2045",
+        "season": 1,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "aSp_9GqG8M"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "VYprqJl6t"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "FuFV2VuEm"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "aSp_9GqG8M"
+        }
+      },
+      "fetched_at": "2026-10-16T14:24:06Z"
+    },
+    {
+      "id": "episode/ghost-in-the-shell-sac_2045-1x11",
+      "episode_id": "episode/ghost-in-the-shell-sac_2045-1x11",
+      "title": "NO NOISE NO LIFE - Sustainable War",
+      "episode_name": "NO NOISE NO LIFE - Sustainable War",
+      "episode_number": 11,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/3422/11.webp",
+      "abyssid": "6574",
+      "abyssId": "6574",
+      "playxid": "7a98af17e63a0ac09ce2e96d03992fbc",
+      "playXID": "7a98af17e63a0ac09ce2e96d03992fbc",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "6574",
+        "playXID": "7a98af17e63a0ac09ce2e96d03992fbc",
+        "streamId": "6574",
+        "dubPlayerSrc": "/dub-player/t/6574/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=7a98af17e63a0ac09ce2e96d03992fbc&abyssId=6574"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "6574",
+        "playXID": "7a98af17e63a0ac09ce2e96d03992fbc",
+        "streamId": "6574",
+        "dubPlayerSrc": "/dub-player/t/6574/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=7a98af17e63a0ac09ce2e96d03992fbc&abyssId=6574"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/7a98af17e63a0ac09ce2e96d03992fbc",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/7a98af17e63a0ac09ce2e96d03992fbc"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "6574",
+        "abyssId": "6574",
+        "playXID": "7a98af17e63a0ac09ce2e96d03992fbc",
+        "title": "Ghost in the Shell: SAC_2045",
+        "season": 1,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "IlPUSC2gW"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "fTi7FDQZ_"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "vaBsGW8MH0"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/4ae2edce58b2fb40e6640f91c32deb2b/master.m3u8?md5=Ko0WAyv6brHPfvYrHny2Yw&expires=1792167838",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/4ae2edce58b2fb40e6640f91c32deb2b/master.m3u8?md5=Ko0WAyv6brHPfvYrHny2Yw&expires=1792167838",
+            "videoSource": "https://ravok.buzz/cdn/hls/4ae2edce58b2fb40e6640f91c32deb2b/master.m3u8?md5=Ko0WAyv6brHPfvYrHny2Yw&expires=1792167838",
+            "videoImage": "https://as-cdn30.top/p/kyRNPPvNgCkBuVcQdTxzU0TV0IBkqUvTDtVubXwfCv6v6Vxn6F2qpzjxpIdzZUfQVKqgAUzsd4gc1pJFuBCt3Q.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "7a98af17e63a0ac09ce2e96d03992fbc",
+                "streamUrl": "https://ravok.buzz/cdn/hls/4ae2edce58b2fb40e6640f91c32deb2b/master.m3u8?md5=Ko0WAyv6brHPfvYrHny2Yw&expires=1792167838",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/4ae2edce58b2fb40e6640f91c32deb2b/master.m3u8?md5=Ko0WAyv6brHPfvYrHny2Yw&expires=1792167838",
+                "videoSource": "https://ravok.buzz/cdn/hls/4ae2edce58b2fb40e6640f91c32deb2b/master.m3u8?md5=Ko0WAyv6brHPfvYrHny2Yw&expires=1792167838",
+                "link": "https://ravok.buzz/cdn/hls/4ae2edce58b2fb40e6640f91c32deb2b/master.m3u8?md5=Ko0WAyv6brHPfvYrHny2Yw&expires=1792167838",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/kyRNPPvNgCkBuVcQdTxzU0TV0IBkqUvTDtVubXwfCv6v6Vxn6F2qpzjxpIdzZUfQVKqgAUzsd4gc1pJFuBCt3Q.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "IlPUSC2gW"
+        }
+      },
+      "fetched_at": "2026-10-16T14:24:08Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T14:23:57Z",
+  "updated_at": "2026-10-16T14:24:08Z"
+}

@@ -1,0 +1,2680 @@
+{
+  "id": "series/tokyo-ghoul",
+  "series_name": "Tokyo Ghoul",
+  "title": "Tokyo Ghoul",
+  "banner": "https://image.tmdb.org/t/p/w1280/yOarY3Yo0NMkuTuft87M5oAZa3C.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/1m4RlC9BTCbyY549TOdVQ5NRPcR.jpg",
+  "genra": [
+    "Action",
+    "Drama",
+    "Fantasy",
+    "Gore",
+    "Horror",
+    "Mystery",
+    "Psychological",
+    "Sci-Fi",
+    "Suspense",
+    "Urban"
+  ],
+  "genres": [
+    "Action",
+    "Drama",
+    "Fantasy",
+    "Gore",
+    "Horror",
+    "Mystery",
+    "Psychological",
+    "Sci-Fi",
+    "Suspense",
+    "Urban"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Japanese"
+  ],
+  "synopsis": "Ken Kaneki, a bookworm college student, meets Rize, a girl his own age with whom he shares many interests. Shy Ken Kaneki is thrilled to go on a date with the beautiful Rize. But it turns out that she’s only interested in his body—eating it, that is. When a morally questionable rescue transforms him into the first half-human half-Ghoul hybrid, Ken is drawn into the dark and violent world of Ghouls, which exists alongside our own.",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 2,
+  "totalEpisodes": 24,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Tokyo Ghoul 1x1",
+          "id": "episode/tokyo-ghoul-1x1",
+          "image": "https://img.watchanimeworld.one/img/thumb_1726_s1e1.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "Tokyo Ghoul 1x2",
+          "id": "episode/tokyo-ghoul-1x2",
+          "image": "https://img.watchanimeworld.one/img/thumb_1726_s1e2.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "Tokyo Ghoul 1x3",
+          "id": "episode/tokyo-ghoul-1x3",
+          "image": "https://img.watchanimeworld.one/img/thumb_1726_s1e3.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "Tokyo Ghoul 1x4",
+          "id": "episode/tokyo-ghoul-1x4",
+          "image": "https://img.watchanimeworld.one/img/thumb_1726_s1e4.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "Tokyo Ghoul 1x5",
+          "id": "episode/tokyo-ghoul-1x5",
+          "image": "https://img.watchanimeworld.one/img/thumb_1726_s1e5.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "Tokyo Ghoul 1x6",
+          "id": "episode/tokyo-ghoul-1x6",
+          "image": "https://img.watchanimeworld.one/img/thumb_1726_s1e6.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "Tokyo Ghoul 1x7",
+          "id": "episode/tokyo-ghoul-1x7",
+          "image": "https://img.watchanimeworld.one/img/thumb_1726_s1e7.webp",
+          "season": 1
+        },
+        {
+          "episode": 8,
+          "title": "Tokyo Ghoul 1x8",
+          "id": "episode/tokyo-ghoul-1x8",
+          "image": "https://img.watchanimeworld.one/img/thumb_1726_s1e8.webp",
+          "season": 1
+        },
+        {
+          "episode": 9,
+          "title": "Tokyo Ghoul 1x9",
+          "id": "episode/tokyo-ghoul-1x9",
+          "image": "https://img.watchanimeworld.one/img/thumb_1726_s1e9.webp",
+          "season": 1
+        },
+        {
+          "episode": 10,
+          "title": "Tokyo Ghoul 1x10",
+          "id": "episode/tokyo-ghoul-1x10",
+          "image": "https://img.watchanimeworld.one/img/thumb_1726_s1e10.webp",
+          "season": 1
+        },
+        {
+          "episode": 11,
+          "title": "Tokyo Ghoul 1x11",
+          "id": "episode/tokyo-ghoul-1x11",
+          "image": "https://img.watchanimeworld.one/img/thumb_1726_s1e11.webp",
+          "season": 1
+        },
+        {
+          "episode": 12,
+          "title": "Tokyo Ghoul 1x12",
+          "id": "episode/tokyo-ghoul-1x12",
+          "image": "https://img.watchanimeworld.one/img/thumb_1726_s1e12.webp",
+          "season": 1
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "name": "Season 2",
+      "episodesCount": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Tokyo Ghoul 2x1",
+          "id": "episode/tokyo-ghoul-2x1",
+          "image": "https://img.watchanimeworld.one/img/thumb_1726_s2e1.webp",
+          "season": 2
+        },
+        {
+          "episode": 2,
+          "title": "Tokyo Ghoul 2x2",
+          "id": "episode/tokyo-ghoul-2x2",
+          "image": "https://img.watchanimeworld.one/img/thumb_1726_s2e2.webp",
+          "season": 2
+        },
+        {
+          "episode": 3,
+          "title": "Tokyo Ghoul 2x3",
+          "id": "episode/tokyo-ghoul-2x3",
+          "image": "https://img.watchanimeworld.one/img/thumb_1726_s2e3.webp",
+          "season": 2
+        },
+        {
+          "episode": 4,
+          "title": "Tokyo Ghoul 2x4",
+          "id": "episode/tokyo-ghoul-2x4",
+          "image": "https://img.watchanimeworld.one/img/thumb_1726_s2e4.webp",
+          "season": 2
+        },
+        {
+          "episode": 5,
+          "title": "Tokyo Ghoul 2x5",
+          "id": "episode/tokyo-ghoul-2x5",
+          "image": "https://img.watchanimeworld.one/img/thumb_1726_s2e5.webp",
+          "season": 2
+        },
+        {
+          "episode": 6,
+          "title": "Tokyo Ghoul 2x6",
+          "id": "episode/tokyo-ghoul-2x6",
+          "image": "https://img.watchanimeworld.one/img/thumb_1726_s2e6.webp",
+          "season": 2
+        },
+        {
+          "episode": 7,
+          "title": "Tokyo Ghoul 2x7",
+          "id": "episode/tokyo-ghoul-2x7",
+          "image": "https://img.watchanimeworld.one/img/thumb_1726_s2e7.webp",
+          "season": 2
+        },
+        {
+          "episode": 8,
+          "title": "Tokyo Ghoul 2x8",
+          "id": "episode/tokyo-ghoul-2x8",
+          "image": "https://img.watchanimeworld.one/img/thumb_1726_s2e8.webp",
+          "season": 2
+        },
+        {
+          "episode": 9,
+          "title": "Tokyo Ghoul 2x9",
+          "id": "episode/tokyo-ghoul-2x9",
+          "image": "https://img.watchanimeworld.one/img/thumb_1726_s2e9.webp",
+          "season": 2
+        },
+        {
+          "episode": 10,
+          "title": "Tokyo Ghoul 2x10",
+          "id": "episode/tokyo-ghoul-2x10",
+          "image": "https://img.watchanimeworld.one/img/thumb_1726_s2e10.webp",
+          "season": 2
+        },
+        {
+          "episode": 11,
+          "title": "Tokyo Ghoul 2x11",
+          "id": "episode/tokyo-ghoul-2x11",
+          "image": "https://img.watchanimeworld.one/img/thumb_1726_s2e11.webp",
+          "season": 2
+        },
+        {
+          "episode": 12,
+          "title": "Tokyo Ghoul 2x12",
+          "id": "episode/tokyo-ghoul-2x12",
+          "image": "https://img.watchanimeworld.one/img/thumb_1726_s2e12.webp",
+          "season": 2
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/tokyo-ghoul-1x1",
+      "episode_id": "episode/tokyo-ghoul-1x1",
+      "title": "Tokyo Ghoul 1x1",
+      "episode_name": "Tokyo Ghoul 1x1",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1726_s1e1.webp",
+      "abyssid": "17875",
+      "abyssId": "17875",
+      "playxid": "87191796a64e570bc2ce6f722d7f8277",
+      "playXID": "87191796a64e570bc2ce6f722d7f8277",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17875",
+        "playXID": "87191796a64e570bc2ce6f722d7f8277",
+        "streamId": "17875",
+        "dubPlayerSrc": "/dub-player/t/17875/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=87191796a64e570bc2ce6f722d7f8277&abyssId=17875"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17875",
+        "playXID": "87191796a64e570bc2ce6f722d7f8277",
+        "streamId": "17875",
+        "dubPlayerSrc": "/dub-player/t/17875/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=87191796a64e570bc2ce6f722d7f8277&abyssId=17875"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/700a143a1799e92c5aca1d4bf9de0b2a",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/700a143a1799e92c5aca1d4bf9de0b2a"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17875",
+        "abyssId": "17875",
+        "playXID": "87191796a64e570bc2ce6f722d7f8277",
+        "title": "Tokyo Ghoul",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "WYC5Toh54"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "Q1hXo9ewp"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "7gxOxI0x6"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/49248d5b37a6fc00c5be15c72bb9b725/master.m3u8?md5=5ClkO2fa6_7hU34rM2c8DA&expires=1792166039",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/49248d5b37a6fc00c5be15c72bb9b725/master.m3u8?md5=5ClkO2fa6_7hU34rM2c8DA&expires=1792166039",
+            "videoSource": "https://ravok.buzz/cdn/hls/49248d5b37a6fc00c5be15c72bb9b725/master.m3u8?md5=5ClkO2fa6_7hU34rM2c8DA&expires=1792166039",
+            "videoImage": "https://as-cdn27.top/p/ERhoDqD_XLBXSRKYqxfQye_JhEse3lwKIkAMbbQWlfHBA18hRbLtWnUvEZU0GO0VJAJaYnGK3AQHcJH-CvrbLg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "87191796a64e570bc2ce6f722d7f8277",
+                "streamUrl": "https://ravok.buzz/cdn/hls/49248d5b37a6fc00c5be15c72bb9b725/master.m3u8?md5=5ClkO2fa6_7hU34rM2c8DA&expires=1792166039",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/49248d5b37a6fc00c5be15c72bb9b725/master.m3u8?md5=5ClkO2fa6_7hU34rM2c8DA&expires=1792166039",
+                "videoSource": "https://ravok.buzz/cdn/hls/49248d5b37a6fc00c5be15c72bb9b725/master.m3u8?md5=5ClkO2fa6_7hU34rM2c8DA&expires=1792166039",
+                "link": "https://ravok.buzz/cdn/hls/49248d5b37a6fc00c5be15c72bb9b725/master.m3u8?md5=5ClkO2fa6_7hU34rM2c8DA&expires=1792166039",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/ERhoDqD_XLBXSRKYqxfQye_JhEse3lwKIkAMbbQWlfHBA18hRbLtWnUvEZU0GO0VJAJaYnGK3AQHcJH-CvrbLg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "WYC5Toh54"
+        }
+      },
+      "fetched_at": "2026-10-16T13:54:09Z"
+    },
+    {
+      "id": "episode/tokyo-ghoul-1x4",
+      "episode_id": "episode/tokyo-ghoul-1x4",
+      "title": "Tokyo Ghoul 1x1",
+      "episode_name": "Tokyo Ghoul 1x1",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1726_s1e4.webp",
+      "abyssid": "17878",
+      "abyssId": "17878",
+      "playxid": "8ad6635f33710af6a535e8fb8486975e",
+      "playXID": "8ad6635f33710af6a535e8fb8486975e",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17878",
+        "playXID": "8ad6635f33710af6a535e8fb8486975e",
+        "streamId": "17878",
+        "dubPlayerSrc": "/dub-player/t/17878/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8ad6635f33710af6a535e8fb8486975e&abyssId=17878"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17878",
+        "playXID": "8ad6635f33710af6a535e8fb8486975e",
+        "streamId": "17878",
+        "dubPlayerSrc": "/dub-player/t/17878/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8ad6635f33710af6a535e8fb8486975e&abyssId=17878"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/924b3e384ff2f09a4722e16511f82caa",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/924b3e384ff2f09a4722e16511f82caa"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17878",
+        "abyssId": "17878",
+        "playXID": "8ad6635f33710af6a535e8fb8486975e",
+        "title": "Tokyo Ghoul",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "5cvCmP4Co"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "AflNdxwHA"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "YeQKDNxJG"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/07870b0951e76bfb6563e6a48b2d1b77/master.m3u8?md5=yWUeP7PXFwqAKdbinDLWSQ&expires=1792166039",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/07870b0951e76bfb6563e6a48b2d1b77/master.m3u8?md5=yWUeP7PXFwqAKdbinDLWSQ&expires=1792166039",
+            "videoSource": "https://ravok.buzz/cdn/hls/07870b0951e76bfb6563e6a48b2d1b77/master.m3u8?md5=yWUeP7PXFwqAKdbinDLWSQ&expires=1792166039",
+            "videoImage": "https://as-cdn29.top/p/8WGIR6__tGcy4r9kElfoU6BRP6_1Q8K4WPDTCDgskX84Y0AoewBj90Y54oGG_6MqZe-NMlM3jyLaraEmCcEqMQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "8ad6635f33710af6a535e8fb8486975e",
+                "streamUrl": "https://ravok.buzz/cdn/hls/07870b0951e76bfb6563e6a48b2d1b77/master.m3u8?md5=yWUeP7PXFwqAKdbinDLWSQ&expires=1792166039",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/07870b0951e76bfb6563e6a48b2d1b77/master.m3u8?md5=yWUeP7PXFwqAKdbinDLWSQ&expires=1792166039",
+                "videoSource": "https://ravok.buzz/cdn/hls/07870b0951e76bfb6563e6a48b2d1b77/master.m3u8?md5=yWUeP7PXFwqAKdbinDLWSQ&expires=1792166039",
+                "link": "https://ravok.buzz/cdn/hls/07870b0951e76bfb6563e6a48b2d1b77/master.m3u8?md5=yWUeP7PXFwqAKdbinDLWSQ&expires=1792166039",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/8WGIR6__tGcy4r9kElfoU6BRP6_1Q8K4WPDTCDgskX84Y0AoewBj90Y54oGG_6MqZe-NMlM3jyLaraEmCcEqMQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "5cvCmP4Co"
+        }
+      },
+      "fetched_at": "2026-10-16T13:54:09Z"
+    },
+    {
+      "id": "episode/tokyo-ghoul-1x5",
+      "episode_id": "episode/tokyo-ghoul-1x5",
+      "title": "Tokyo Ghoul 1x1",
+      "episode_name": "Tokyo Ghoul 1x1",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1726_s1e5.webp",
+      "abyssid": "17879",
+      "abyssId": "17879",
+      "playxid": "65213079f85e2832dc71e5eee3c09d6b",
+      "playXID": "65213079f85e2832dc71e5eee3c09d6b",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17879",
+        "playXID": "65213079f85e2832dc71e5eee3c09d6b",
+        "streamId": "17879",
+        "dubPlayerSrc": "/dub-player/t/17879/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=65213079f85e2832dc71e5eee3c09d6b&abyssId=17879"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17879",
+        "playXID": "65213079f85e2832dc71e5eee3c09d6b",
+        "streamId": "17879",
+        "dubPlayerSrc": "/dub-player/t/17879/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=65213079f85e2832dc71e5eee3c09d6b&abyssId=17879"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/f5d90c77afffe78f475b3fdb079243ea",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/f5d90c77afffe78f475b3fdb079243ea"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17879",
+        "abyssId": "17879",
+        "playXID": "65213079f85e2832dc71e5eee3c09d6b",
+        "title": "Tokyo Ghoul",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "Y_i2YFaSX"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "PzunyZ3ni"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "cKlw1E6JA"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/19ce9ee515bf3d6e43bd7c74667ba51c/master.m3u8?md5=62Whojt__vjoJBuaNy6ZyQ&expires=1792166039",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/19ce9ee515bf3d6e43bd7c74667ba51c/master.m3u8?md5=62Whojt__vjoJBuaNy6ZyQ&expires=1792166039",
+            "videoSource": "https://ravok.buzz/cdn/hls/19ce9ee515bf3d6e43bd7c74667ba51c/master.m3u8?md5=62Whojt__vjoJBuaNy6ZyQ&expires=1792166039",
+            "videoImage": "https://as-cdn29.top/p/m4m_v2NmJF6i3Mk28D8Qtg3hoeNA2iEUYQOZqW9AnjTBNj53OUjLlyRhUyyKmSkOCp1EGREFjYMtM0XwS5YDvA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "65213079f85e2832dc71e5eee3c09d6b",
+                "streamUrl": "https://ravok.buzz/cdn/hls/19ce9ee515bf3d6e43bd7c74667ba51c/master.m3u8?md5=62Whojt__vjoJBuaNy6ZyQ&expires=1792166039",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/19ce9ee515bf3d6e43bd7c74667ba51c/master.m3u8?md5=62Whojt__vjoJBuaNy6ZyQ&expires=1792166039",
+                "videoSource": "https://ravok.buzz/cdn/hls/19ce9ee515bf3d6e43bd7c74667ba51c/master.m3u8?md5=62Whojt__vjoJBuaNy6ZyQ&expires=1792166039",
+                "link": "https://ravok.buzz/cdn/hls/19ce9ee515bf3d6e43bd7c74667ba51c/master.m3u8?md5=62Whojt__vjoJBuaNy6ZyQ&expires=1792166039",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/m4m_v2NmJF6i3Mk28D8Qtg3hoeNA2iEUYQOZqW9AnjTBNj53OUjLlyRhUyyKmSkOCp1EGREFjYMtM0XwS5YDvA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "Y_i2YFaSX"
+        }
+      },
+      "fetched_at": "2026-10-16T13:54:09Z"
+    },
+    {
+      "id": "episode/tokyo-ghoul-1x3",
+      "episode_id": "episode/tokyo-ghoul-1x3",
+      "title": "Tokyo Ghoul 1x1",
+      "episode_name": "Tokyo Ghoul 1x1",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1726_s1e3.webp",
+      "abyssid": "17877",
+      "abyssId": "17877",
+      "playxid": "bf6fa64a2e79b2800523f3a06745f5a3",
+      "playXID": "bf6fa64a2e79b2800523f3a06745f5a3",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17877",
+        "playXID": "bf6fa64a2e79b2800523f3a06745f5a3",
+        "streamId": "17877",
+        "dubPlayerSrc": "/dub-player/t/17877/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=bf6fa64a2e79b2800523f3a06745f5a3&abyssId=17877"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17877",
+        "playXID": "bf6fa64a2e79b2800523f3a06745f5a3",
+        "streamId": "17877",
+        "dubPlayerSrc": "/dub-player/t/17877/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=bf6fa64a2e79b2800523f3a06745f5a3&abyssId=17877"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/0366cd91ea30dd83c73415b64afda334",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/0366cd91ea30dd83c73415b64afda334"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17877",
+        "abyssId": "17877",
+        "playXID": "bf6fa64a2e79b2800523f3a06745f5a3",
+        "title": "Tokyo Ghoul",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "84SaH-ajh"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "Wek-kbi3R"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "4ggDEjQ-E"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/f5df8cbbbcb2da9c6f190d27c46443a3/master.m3u8?md5=7uKKidbVRjB9zfhWgyluUw&expires=1792166039",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/f5df8cbbbcb2da9c6f190d27c46443a3/master.m3u8?md5=7uKKidbVRjB9zfhWgyluUw&expires=1792166039",
+            "videoSource": "https://ravok.buzz/cdn/hls/f5df8cbbbcb2da9c6f190d27c46443a3/master.m3u8?md5=7uKKidbVRjB9zfhWgyluUw&expires=1792166039",
+            "videoImage": "https://as-cdn31.top/p/sPW0QhK0c9kNglAj_gtOmsu9d7k-5ANULj4pAl4AaRnMwEGfWSaai9j1T0gbdkUKNelOvw9KM72LJNf4uk9vIw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "bf6fa64a2e79b2800523f3a06745f5a3",
+                "streamUrl": "https://ravok.buzz/cdn/hls/f5df8cbbbcb2da9c6f190d27c46443a3/master.m3u8?md5=7uKKidbVRjB9zfhWgyluUw&expires=1792166039",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/f5df8cbbbcb2da9c6f190d27c46443a3/master.m3u8?md5=7uKKidbVRjB9zfhWgyluUw&expires=1792166039",
+                "videoSource": "https://ravok.buzz/cdn/hls/f5df8cbbbcb2da9c6f190d27c46443a3/master.m3u8?md5=7uKKidbVRjB9zfhWgyluUw&expires=1792166039",
+                "link": "https://ravok.buzz/cdn/hls/f5df8cbbbcb2da9c6f190d27c46443a3/master.m3u8?md5=7uKKidbVRjB9zfhWgyluUw&expires=1792166039",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/sPW0QhK0c9kNglAj_gtOmsu9d7k-5ANULj4pAl4AaRnMwEGfWSaai9j1T0gbdkUKNelOvw9KM72LJNf4uk9vIw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "84SaH-ajh"
+        }
+      },
+      "fetched_at": "2026-10-16T13:54:09Z"
+    },
+    {
+      "id": "episode/tokyo-ghoul-1x2",
+      "episode_id": "episode/tokyo-ghoul-1x2",
+      "title": "Tokyo Ghoul 1x1",
+      "episode_name": "Tokyo Ghoul 1x1",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1726_s1e2.webp",
+      "abyssid": "17876",
+      "abyssId": "17876",
+      "playxid": "e6bfd869a81f98ce424bfff9642fbe39",
+      "playXID": "e6bfd869a81f98ce424bfff9642fbe39",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17876",
+        "playXID": "e6bfd869a81f98ce424bfff9642fbe39",
+        "streamId": "17876",
+        "dubPlayerSrc": "/dub-player/t/17876/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e6bfd869a81f98ce424bfff9642fbe39&abyssId=17876"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17876",
+        "playXID": "e6bfd869a81f98ce424bfff9642fbe39",
+        "streamId": "17876",
+        "dubPlayerSrc": "/dub-player/t/17876/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e6bfd869a81f98ce424bfff9642fbe39&abyssId=17876"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/5e26868bd52fd169086cc736cbf03946",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/5e26868bd52fd169086cc736cbf03946"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17876",
+        "abyssId": "17876",
+        "playXID": "e6bfd869a81f98ce424bfff9642fbe39",
+        "title": "Tokyo Ghoul",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "F9PAkriVa"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "0iN8vvQeX"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "YFu95lu2Y"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/b70902f593549c784d51701b7e0c22dc/master.m3u8?md5=mXDvJBxaicFKQ7f1Xyyz5A&expires=1792166039",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/b70902f593549c784d51701b7e0c22dc/master.m3u8?md5=mXDvJBxaicFKQ7f1Xyyz5A&expires=1792166039",
+            "videoSource": "https://ravok.buzz/cdn/hls/b70902f593549c784d51701b7e0c22dc/master.m3u8?md5=mXDvJBxaicFKQ7f1Xyyz5A&expires=1792166039",
+            "videoImage": "https://as-cdn31.top/p/qPQ2q0L5DV1ib17uof7qAKyyzIclDAgNpIyFYtv0jXW6QVsGC-5MDMDMWHHPUc2rvTxfC043zT52hQRZ4JWTmA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "e6bfd869a81f98ce424bfff9642fbe39",
+                "streamUrl": "https://ravok.buzz/cdn/hls/b70902f593549c784d51701b7e0c22dc/master.m3u8?md5=mXDvJBxaicFKQ7f1Xyyz5A&expires=1792166039",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/b70902f593549c784d51701b7e0c22dc/master.m3u8?md5=mXDvJBxaicFKQ7f1Xyyz5A&expires=1792166039",
+                "videoSource": "https://ravok.buzz/cdn/hls/b70902f593549c784d51701b7e0c22dc/master.m3u8?md5=mXDvJBxaicFKQ7f1Xyyz5A&expires=1792166039",
+                "link": "https://ravok.buzz/cdn/hls/b70902f593549c784d51701b7e0c22dc/master.m3u8?md5=mXDvJBxaicFKQ7f1Xyyz5A&expires=1792166039",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/qPQ2q0L5DV1ib17uof7qAKyyzIclDAgNpIyFYtv0jXW6QVsGC-5MDMDMWHHPUc2rvTxfC043zT52hQRZ4JWTmA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "F9PAkriVa"
+        }
+      },
+      "fetched_at": "2026-10-16T13:54:09Z"
+    },
+    {
+      "id": "episode/tokyo-ghoul-1x6",
+      "episode_id": "episode/tokyo-ghoul-1x6",
+      "title": "Tokyo Ghoul 1x1",
+      "episode_name": "Tokyo Ghoul 1x1",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1726_s1e6.webp",
+      "abyssid": "17880",
+      "abyssId": "17880",
+      "playxid": "930dcd054bee88067db8ded7a2086106",
+      "playXID": "930dcd054bee88067db8ded7a2086106",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17880",
+        "playXID": "930dcd054bee88067db8ded7a2086106",
+        "streamId": "17880",
+        "dubPlayerSrc": "/dub-player/t/17880/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=930dcd054bee88067db8ded7a2086106&abyssId=17880"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17880",
+        "playXID": "930dcd054bee88067db8ded7a2086106",
+        "streamId": "17880",
+        "dubPlayerSrc": "/dub-player/t/17880/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=930dcd054bee88067db8ded7a2086106&abyssId=17880"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/2c97470b88a7147de0853a9b6ba8d0ce",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/2c97470b88a7147de0853a9b6ba8d0ce"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17880",
+        "abyssId": "17880",
+        "playXID": "930dcd054bee88067db8ded7a2086106",
+        "title": "Tokyo Ghoul",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "mCSKIjWNM"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "dJFlC1Q7o6"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "4B6gPK6Xt"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/db755b547c6ab92e76be3ed9ef92bc3f/master.m3u8?md5=c4zQgN6VlrzrR2WumSIt6Q&expires=1792166041",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/db755b547c6ab92e76be3ed9ef92bc3f/master.m3u8?md5=c4zQgN6VlrzrR2WumSIt6Q&expires=1792166041",
+            "videoSource": "https://ravok.buzz/cdn/hls/db755b547c6ab92e76be3ed9ef92bc3f/master.m3u8?md5=c4zQgN6VlrzrR2WumSIt6Q&expires=1792166041",
+            "videoImage": "https://as-cdn29.top/p/bVEdaix77i4V-nPmUhJucGqn-kfDuMlqeLhQ1wclBkX7IAZBNTRvyDF_uKn-fztYQC4i_c2Fvoz8OLuw_U_nPQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "930dcd054bee88067db8ded7a2086106",
+                "streamUrl": "https://ravok.buzz/cdn/hls/db755b547c6ab92e76be3ed9ef92bc3f/master.m3u8?md5=c4zQgN6VlrzrR2WumSIt6Q&expires=1792166041",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/db755b547c6ab92e76be3ed9ef92bc3f/master.m3u8?md5=c4zQgN6VlrzrR2WumSIt6Q&expires=1792166041",
+                "videoSource": "https://ravok.buzz/cdn/hls/db755b547c6ab92e76be3ed9ef92bc3f/master.m3u8?md5=c4zQgN6VlrzrR2WumSIt6Q&expires=1792166041",
+                "link": "https://ravok.buzz/cdn/hls/db755b547c6ab92e76be3ed9ef92bc3f/master.m3u8?md5=c4zQgN6VlrzrR2WumSIt6Q&expires=1792166041",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/bVEdaix77i4V-nPmUhJucGqn-kfDuMlqeLhQ1wclBkX7IAZBNTRvyDF_uKn-fztYQC4i_c2Fvoz8OLuw_U_nPQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "mCSKIjWNM"
+        }
+      },
+      "fetched_at": "2026-10-16T13:54:11Z"
+    },
+    {
+      "id": "episode/tokyo-ghoul-1x10",
+      "episode_id": "episode/tokyo-ghoul-1x10",
+      "title": "Tokyo Ghoul 1x1",
+      "episode_name": "Tokyo Ghoul 1x1",
+      "episode_number": 10,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1726_s1e10.webp",
+      "abyssid": "17931",
+      "abyssId": "17931",
+      "playxid": "c8fd9e36fdeb06bcc93a0732c667b6d8",
+      "playXID": "c8fd9e36fdeb06bcc93a0732c667b6d8",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17931",
+        "playXID": "c8fd9e36fdeb06bcc93a0732c667b6d8",
+        "streamId": "17931",
+        "dubPlayerSrc": "/dub-player/t/17931/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c8fd9e36fdeb06bcc93a0732c667b6d8&abyssId=17931"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17931",
+        "playXID": "c8fd9e36fdeb06bcc93a0732c667b6d8",
+        "streamId": "17931",
+        "dubPlayerSrc": "/dub-player/t/17931/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c8fd9e36fdeb06bcc93a0732c667b6d8&abyssId=17931"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/2a222fead8906cbc8c782be1a3548533",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/2a222fead8906cbc8c782be1a3548533"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17931",
+        "abyssId": "17931",
+        "playXID": "c8fd9e36fdeb06bcc93a0732c667b6d8",
+        "title": "Tokyo Ghoul",
+        "season": 1,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "jyxpbSqct"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "167qUWQOs"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "kE6LQvPeH"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/73c2d4e5651a8f14e1ae022570f2efb4/master.m3u8?md5=hUX0w7lSj7ZXYt4foZqvtA&expires=1792166041",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/73c2d4e5651a8f14e1ae022570f2efb4/master.m3u8?md5=hUX0w7lSj7ZXYt4foZqvtA&expires=1792166041",
+            "videoSource": "https://ravok.buzz/cdn/hls/73c2d4e5651a8f14e1ae022570f2efb4/master.m3u8?md5=hUX0w7lSj7ZXYt4foZqvtA&expires=1792166041",
+            "videoImage": "https://as-cdn29.top/p/LjN-784vv3YG6vZCvFGK2bl9sJJgzFSq65APtqBP5CC5f9ufPE4r-1iv0qjKYbsD7Xw7AsgS6Ozr--DPXlleIQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "c8fd9e36fdeb06bcc93a0732c667b6d8",
+                "streamUrl": "https://ravok.buzz/cdn/hls/73c2d4e5651a8f14e1ae022570f2efb4/master.m3u8?md5=hUX0w7lSj7ZXYt4foZqvtA&expires=1792166041",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/73c2d4e5651a8f14e1ae022570f2efb4/master.m3u8?md5=hUX0w7lSj7ZXYt4foZqvtA&expires=1792166041",
+                "videoSource": "https://ravok.buzz/cdn/hls/73c2d4e5651a8f14e1ae022570f2efb4/master.m3u8?md5=hUX0w7lSj7ZXYt4foZqvtA&expires=1792166041",
+                "link": "https://ravok.buzz/cdn/hls/73c2d4e5651a8f14e1ae022570f2efb4/master.m3u8?md5=hUX0w7lSj7ZXYt4foZqvtA&expires=1792166041",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/LjN-784vv3YG6vZCvFGK2bl9sJJgzFSq65APtqBP5CC5f9ufPE4r-1iv0qjKYbsD7Xw7AsgS6Ozr--DPXlleIQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "jyxpbSqct"
+        }
+      },
+      "fetched_at": "2026-10-16T13:54:12Z"
+    },
+    {
+      "id": "episode/tokyo-ghoul-1x8",
+      "episode_id": "episode/tokyo-ghoul-1x8",
+      "title": "Tokyo Ghoul 1x1",
+      "episode_name": "Tokyo Ghoul 1x1",
+      "episode_number": 8,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1726_s1e8.webp",
+      "abyssid": "17882",
+      "abyssId": "17882",
+      "playxid": "f0d9b8cdc92c7e4c6b28e0143d95b5df",
+      "playXID": "f0d9b8cdc92c7e4c6b28e0143d95b5df",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17882",
+        "playXID": "f0d9b8cdc92c7e4c6b28e0143d95b5df",
+        "streamId": "17882",
+        "dubPlayerSrc": "/dub-player/t/17882/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f0d9b8cdc92c7e4c6b28e0143d95b5df&abyssId=17882"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17882",
+        "playXID": "f0d9b8cdc92c7e4c6b28e0143d95b5df",
+        "streamId": "17882",
+        "dubPlayerSrc": "/dub-player/t/17882/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f0d9b8cdc92c7e4c6b28e0143d95b5df&abyssId=17882"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/f126a36acc1144ddade56fca3cd710f5",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/f126a36acc1144ddade56fca3cd710f5"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17882",
+        "abyssId": "17882",
+        "playXID": "f0d9b8cdc92c7e4c6b28e0143d95b5df",
+        "title": "Tokyo Ghoul",
+        "season": 1,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "W1LUyvVkW"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "8rrXA2frY"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "KCccQcSYi"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/95fc67ce1707a29153fa6301d2e8be09/master.m3u8?md5=vRtIqtcoGaSXZV4Y1P7XXg&expires=1792166042",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/95fc67ce1707a29153fa6301d2e8be09/master.m3u8?md5=vRtIqtcoGaSXZV4Y1P7XXg&expires=1792166042",
+            "videoSource": "https://ravok.buzz/cdn/hls/95fc67ce1707a29153fa6301d2e8be09/master.m3u8?md5=vRtIqtcoGaSXZV4Y1P7XXg&expires=1792166042",
+            "videoImage": "https://as-cdn29.top/p/a_QAvy8xa1Rq_PUuNSWCMHIstgD_JW0fK2NPBLbPwP3k-SiWneOPSIgD1lbft9-Wu9WLsl4oKhT-OmWGJTia5A.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "f0d9b8cdc92c7e4c6b28e0143d95b5df",
+                "streamUrl": "https://ravok.buzz/cdn/hls/95fc67ce1707a29153fa6301d2e8be09/master.m3u8?md5=vRtIqtcoGaSXZV4Y1P7XXg&expires=1792166042",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/95fc67ce1707a29153fa6301d2e8be09/master.m3u8?md5=vRtIqtcoGaSXZV4Y1P7XXg&expires=1792166042",
+                "videoSource": "https://ravok.buzz/cdn/hls/95fc67ce1707a29153fa6301d2e8be09/master.m3u8?md5=vRtIqtcoGaSXZV4Y1P7XXg&expires=1792166042",
+                "link": "https://ravok.buzz/cdn/hls/95fc67ce1707a29153fa6301d2e8be09/master.m3u8?md5=vRtIqtcoGaSXZV4Y1P7XXg&expires=1792166042",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/a_QAvy8xa1Rq_PUuNSWCMHIstgD_JW0fK2NPBLbPwP3k-SiWneOPSIgD1lbft9-Wu9WLsl4oKhT-OmWGJTia5A.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "W1LUyvVkW"
+        }
+      },
+      "fetched_at": "2026-10-16T13:54:12Z"
+    },
+    {
+      "id": "episode/tokyo-ghoul-1x9",
+      "episode_id": "episode/tokyo-ghoul-1x9",
+      "title": "Tokyo Ghoul 1x1",
+      "episode_name": "Tokyo Ghoul 1x1",
+      "episode_number": 9,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1726_s1e9.webp",
+      "abyssid": "17883",
+      "abyssId": "17883",
+      "playxid": "1986405e39c5a79665af1746738c1f46",
+      "playXID": "1986405e39c5a79665af1746738c1f46",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17883",
+        "playXID": "1986405e39c5a79665af1746738c1f46",
+        "streamId": "17883",
+        "dubPlayerSrc": "/dub-player/t/17883/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=1986405e39c5a79665af1746738c1f46&abyssId=17883"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17883",
+        "playXID": "1986405e39c5a79665af1746738c1f46",
+        "streamId": "17883",
+        "dubPlayerSrc": "/dub-player/t/17883/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=1986405e39c5a79665af1746738c1f46&abyssId=17883"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/c1dad158473d599736ffe74624b615b1",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/c1dad158473d599736ffe74624b615b1"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17883",
+        "abyssId": "17883",
+        "playXID": "1986405e39c5a79665af1746738c1f46",
+        "title": "Tokyo Ghoul",
+        "season": 1,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "gDrUVOutG"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "Fav96n3q3"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "T9WN9DxcT"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/197abb3ffa3149995bc3b15f0721195e/master.m3u8?md5=Vnq6pSt_jvNmFa6reQ-tCw&expires=1792166041",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/197abb3ffa3149995bc3b15f0721195e/master.m3u8?md5=Vnq6pSt_jvNmFa6reQ-tCw&expires=1792166041",
+            "videoSource": "https://ravok.buzz/cdn/hls/197abb3ffa3149995bc3b15f0721195e/master.m3u8?md5=Vnq6pSt_jvNmFa6reQ-tCw&expires=1792166041",
+            "videoImage": "https://as-cdn27.top/p/9tTbo0kCZobvVzBfay7nRH6wMWjeyL6EFPw8jy27wtGRssN9hoWD7eOzbJMhKUHgbFv2Rz1hXj5TPk9pBuN9Ew.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "1986405e39c5a79665af1746738c1f46",
+                "streamUrl": "https://ravok.buzz/cdn/hls/197abb3ffa3149995bc3b15f0721195e/master.m3u8?md5=Vnq6pSt_jvNmFa6reQ-tCw&expires=1792166041",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/197abb3ffa3149995bc3b15f0721195e/master.m3u8?md5=Vnq6pSt_jvNmFa6reQ-tCw&expires=1792166041",
+                "videoSource": "https://ravok.buzz/cdn/hls/197abb3ffa3149995bc3b15f0721195e/master.m3u8?md5=Vnq6pSt_jvNmFa6reQ-tCw&expires=1792166041",
+                "link": "https://ravok.buzz/cdn/hls/197abb3ffa3149995bc3b15f0721195e/master.m3u8?md5=Vnq6pSt_jvNmFa6reQ-tCw&expires=1792166041",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/9tTbo0kCZobvVzBfay7nRH6wMWjeyL6EFPw8jy27wtGRssN9hoWD7eOzbJMhKUHgbFv2Rz1hXj5TPk9pBuN9Ew.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "gDrUVOutG"
+        }
+      },
+      "fetched_at": "2026-10-16T13:54:12Z"
+    },
+    {
+      "id": "episode/tokyo-ghoul-1x7",
+      "episode_id": "episode/tokyo-ghoul-1x7",
+      "title": "Tokyo Ghoul 1x1",
+      "episode_name": "Tokyo Ghoul 1x1",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1726_s1e7.webp",
+      "abyssid": "17881",
+      "abyssId": "17881",
+      "playxid": "ecd4232a467c3085d7fa1302a827caa9",
+      "playXID": "ecd4232a467c3085d7fa1302a827caa9",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17881",
+        "playXID": "ecd4232a467c3085d7fa1302a827caa9",
+        "streamId": "17881",
+        "dubPlayerSrc": "/dub-player/t/17881/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ecd4232a467c3085d7fa1302a827caa9&abyssId=17881"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17881",
+        "playXID": "ecd4232a467c3085d7fa1302a827caa9",
+        "streamId": "17881",
+        "dubPlayerSrc": "/dub-player/t/17881/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ecd4232a467c3085d7fa1302a827caa9&abyssId=17881"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/2b20b3682e832df224a5c404d8f9f365",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/2b20b3682e832df224a5c404d8f9f365"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17881",
+        "abyssId": "17881",
+        "playXID": "ecd4232a467c3085d7fa1302a827caa9",
+        "title": "Tokyo Ghoul",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "N2PByZ1HQ"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "eViZpXERB"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "eM6GkDNLT"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/ae1f4b5ff8a79bbd42ec0c2a3b2798ec/master.m3u8?md5=jcF2ZXxRIfEtEfJk6oX5FQ&expires=1792166042",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/ae1f4b5ff8a79bbd42ec0c2a3b2798ec/master.m3u8?md5=jcF2ZXxRIfEtEfJk6oX5FQ&expires=1792166042",
+            "videoSource": "https://ravok.buzz/cdn/hls/ae1f4b5ff8a79bbd42ec0c2a3b2798ec/master.m3u8?md5=jcF2ZXxRIfEtEfJk6oX5FQ&expires=1792166042",
+            "videoImage": "https://as-cdn29.top/p/gTNI8m0QnnddX2LOyPHT2BILVfoSS3tbTaMcPlnfJJZ1RU2Q4DSKq3QbCVlao_kaZoA1s3LGurxnwXb2HRUyqw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "ecd4232a467c3085d7fa1302a827caa9",
+                "streamUrl": "https://ravok.buzz/cdn/hls/ae1f4b5ff8a79bbd42ec0c2a3b2798ec/master.m3u8?md5=jcF2ZXxRIfEtEfJk6oX5FQ&expires=1792166042",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/ae1f4b5ff8a79bbd42ec0c2a3b2798ec/master.m3u8?md5=jcF2ZXxRIfEtEfJk6oX5FQ&expires=1792166042",
+                "videoSource": "https://ravok.buzz/cdn/hls/ae1f4b5ff8a79bbd42ec0c2a3b2798ec/master.m3u8?md5=jcF2ZXxRIfEtEfJk6oX5FQ&expires=1792166042",
+                "link": "https://ravok.buzz/cdn/hls/ae1f4b5ff8a79bbd42ec0c2a3b2798ec/master.m3u8?md5=jcF2ZXxRIfEtEfJk6oX5FQ&expires=1792166042",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/gTNI8m0QnnddX2LOyPHT2BILVfoSS3tbTaMcPlnfJJZ1RU2Q4DSKq3QbCVlao_kaZoA1s3LGurxnwXb2HRUyqw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "N2PByZ1HQ"
+        }
+      },
+      "fetched_at": "2026-10-16T13:54:12Z"
+    },
+    {
+      "id": "episode/tokyo-ghoul-1x11",
+      "episode_id": "episode/tokyo-ghoul-1x11",
+      "title": "Tokyo Ghoul 1x1",
+      "episode_name": "Tokyo Ghoul 1x1",
+      "episode_number": 11,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1726_s1e11.webp",
+      "abyssid": "17932",
+      "abyssId": "17932",
+      "playxid": "600a4d6403d3914e1e24b13808bd4bd4",
+      "playXID": "600a4d6403d3914e1e24b13808bd4bd4",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17932",
+        "playXID": "600a4d6403d3914e1e24b13808bd4bd4",
+        "streamId": "17932",
+        "dubPlayerSrc": "/dub-player/t/17932/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=600a4d6403d3914e1e24b13808bd4bd4&abyssId=17932"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17932",
+        "playXID": "600a4d6403d3914e1e24b13808bd4bd4",
+        "streamId": "17932",
+        "dubPlayerSrc": "/dub-player/t/17932/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=600a4d6403d3914e1e24b13808bd4bd4&abyssId=17932"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/4b3f1eb677f18a452dc6823e38c4721e",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/4b3f1eb677f18a452dc6823e38c4721e"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17932",
+        "abyssId": "17932",
+        "playXID": "600a4d6403d3914e1e24b13808bd4bd4",
+        "title": "Tokyo Ghoul",
+        "season": 1,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "Q2ngJCZ-8"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "xf2lnoYwX"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "2Q947ZyZhk"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/0a5ed756661c10d65b33fc65030a974f/master.m3u8?md5=LSX1SeYKPoTKu6CLIbjf6w&expires=1792166043",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/0a5ed756661c10d65b33fc65030a974f/master.m3u8?md5=LSX1SeYKPoTKu6CLIbjf6w&expires=1792166043",
+            "videoSource": "https://ravok.buzz/cdn/hls/0a5ed756661c10d65b33fc65030a974f/master.m3u8?md5=LSX1SeYKPoTKu6CLIbjf6w&expires=1792166043",
+            "videoImage": "https://as-cdn29.top/p/O9I6obv_NVnQNuw4hDAzajGJFW2Is1fbcWK_jqKR8bWTGQJ06IcIN5oabRjUuQsL5MjTrgzeMrJ4FWxaowm-zQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "600a4d6403d3914e1e24b13808bd4bd4",
+                "streamUrl": "https://ravok.buzz/cdn/hls/0a5ed756661c10d65b33fc65030a974f/master.m3u8?md5=LSX1SeYKPoTKu6CLIbjf6w&expires=1792166043",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/0a5ed756661c10d65b33fc65030a974f/master.m3u8?md5=LSX1SeYKPoTKu6CLIbjf6w&expires=1792166043",
+                "videoSource": "https://ravok.buzz/cdn/hls/0a5ed756661c10d65b33fc65030a974f/master.m3u8?md5=LSX1SeYKPoTKu6CLIbjf6w&expires=1792166043",
+                "link": "https://ravok.buzz/cdn/hls/0a5ed756661c10d65b33fc65030a974f/master.m3u8?md5=LSX1SeYKPoTKu6CLIbjf6w&expires=1792166043",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/O9I6obv_NVnQNuw4hDAzajGJFW2Is1fbcWK_jqKR8bWTGQJ06IcIN5oabRjUuQsL5MjTrgzeMrJ4FWxaowm-zQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "Q2ngJCZ-8"
+        }
+      },
+      "fetched_at": "2026-10-16T13:54:13Z"
+    },
+    {
+      "id": "episode/tokyo-ghoul-2x2",
+      "episode_id": "episode/tokyo-ghoul-2x2",
+      "title": "Tokyo Ghoul 2x1",
+      "episode_name": "Tokyo Ghoul 2x1",
+      "episode_number": 2,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_1726_s2e2.webp",
+      "abyssid": "18019",
+      "abyssId": "18019",
+      "playxid": "d0ebd6bc2bbe739aa720a704abaffc87",
+      "playXID": "d0ebd6bc2bbe739aa720a704abaffc87",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18019",
+        "playXID": "d0ebd6bc2bbe739aa720a704abaffc87",
+        "streamId": "18019",
+        "dubPlayerSrc": "/dub-player/t/18019/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d0ebd6bc2bbe739aa720a704abaffc87&abyssId=18019"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18019",
+        "playXID": "d0ebd6bc2bbe739aa720a704abaffc87",
+        "streamId": "18019",
+        "dubPlayerSrc": "/dub-player/t/18019/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d0ebd6bc2bbe739aa720a704abaffc87&abyssId=18019"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/4c7318c9d14f1ac6f4826d46646d2551",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/4c7318c9d14f1ac6f4826d46646d2551"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18019",
+        "abyssId": "18019",
+        "playXID": "d0ebd6bc2bbe739aa720a704abaffc87",
+        "title": "Tokyo Ghoul",
+        "season": 2,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "dMnK7nSPI"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "CgQsBFjM5"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "osd3I_n9C"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/c32d5bafd126fde61595154aacb5b77e/master.m3u8?md5=tGPsfks7JdQmJhZbmfox5g&expires=1792166044",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/c32d5bafd126fde61595154aacb5b77e/master.m3u8?md5=tGPsfks7JdQmJhZbmfox5g&expires=1792166044",
+            "videoSource": "https://ravok.buzz/cdn/hls/c32d5bafd126fde61595154aacb5b77e/master.m3u8?md5=tGPsfks7JdQmJhZbmfox5g&expires=1792166044",
+            "videoImage": "https://as-cdn28.top/p/sIaN9Ydfgg0c86ooMdz3jy3ENsM748kV_qp6lyXx6NYDF3NRPSJAovCarvCyOHv-yRmORT4-OBVwUOYGa0vY4Q.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "d0ebd6bc2bbe739aa720a704abaffc87",
+                "streamUrl": "https://ravok.buzz/cdn/hls/c32d5bafd126fde61595154aacb5b77e/master.m3u8?md5=tGPsfks7JdQmJhZbmfox5g&expires=1792166044",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/c32d5bafd126fde61595154aacb5b77e/master.m3u8?md5=tGPsfks7JdQmJhZbmfox5g&expires=1792166044",
+                "videoSource": "https://ravok.buzz/cdn/hls/c32d5bafd126fde61595154aacb5b77e/master.m3u8?md5=tGPsfks7JdQmJhZbmfox5g&expires=1792166044",
+                "link": "https://ravok.buzz/cdn/hls/c32d5bafd126fde61595154aacb5b77e/master.m3u8?md5=tGPsfks7JdQmJhZbmfox5g&expires=1792166044",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/sIaN9Ydfgg0c86ooMdz3jy3ENsM748kV_qp6lyXx6NYDF3NRPSJAovCarvCyOHv-yRmORT4-OBVwUOYGa0vY4Q.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "dMnK7nSPI"
+        }
+      },
+      "fetched_at": "2026-10-16T13:54:14Z"
+    },
+    {
+      "id": "episode/tokyo-ghoul-1x12",
+      "episode_id": "episode/tokyo-ghoul-1x12",
+      "title": "Tokyo Ghoul 1x1",
+      "episode_name": "Tokyo Ghoul 1x1",
+      "episode_number": 12,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1726_s1e12.webp",
+      "abyssid": "17933",
+      "abyssId": "17933",
+      "playxid": "aa2c6857a88b778501aa2d51ae3ccade",
+      "playXID": "aa2c6857a88b778501aa2d51ae3ccade",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17933",
+        "playXID": "aa2c6857a88b778501aa2d51ae3ccade",
+        "streamId": "17933",
+        "dubPlayerSrc": "/dub-player/t/17933/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=aa2c6857a88b778501aa2d51ae3ccade&abyssId=17933"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17933",
+        "playXID": "aa2c6857a88b778501aa2d51ae3ccade",
+        "streamId": "17933",
+        "dubPlayerSrc": "/dub-player/t/17933/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=aa2c6857a88b778501aa2d51ae3ccade&abyssId=17933"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/d3036eaa59b31dade3e8ef4916a3e821",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/d3036eaa59b31dade3e8ef4916a3e821"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17933",
+        "abyssId": "17933",
+        "playXID": "aa2c6857a88b778501aa2d51ae3ccade",
+        "title": "Tokyo Ghoul",
+        "season": 1,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "mDIOmZUkQ"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "aMwhX5xMW"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "80CFCgEQq"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/c72b6a4e125a198cada293e03a655595/master.m3u8?md5=Gg3sjll6ttZuYUoYI7utzg&expires=1792166044",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/c72b6a4e125a198cada293e03a655595/master.m3u8?md5=Gg3sjll6ttZuYUoYI7utzg&expires=1792166044",
+            "videoSource": "https://ravok.buzz/cdn/hls/c72b6a4e125a198cada293e03a655595/master.m3u8?md5=Gg3sjll6ttZuYUoYI7utzg&expires=1792166044",
+            "videoImage": "https://as-cdn27.top/p/R-DnOCnDJDnftJ6V_dxCzpeOgEs9okKrj8GJHogb5ozONgMuLm0PjEUTiVYq9MwQ91y2tgsOYFeSYuhKQJJU9A.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "aa2c6857a88b778501aa2d51ae3ccade",
+                "streamUrl": "https://ravok.buzz/cdn/hls/c72b6a4e125a198cada293e03a655595/master.m3u8?md5=Gg3sjll6ttZuYUoYI7utzg&expires=1792166044",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/c72b6a4e125a198cada293e03a655595/master.m3u8?md5=Gg3sjll6ttZuYUoYI7utzg&expires=1792166044",
+                "videoSource": "https://ravok.buzz/cdn/hls/c72b6a4e125a198cada293e03a655595/master.m3u8?md5=Gg3sjll6ttZuYUoYI7utzg&expires=1792166044",
+                "link": "https://ravok.buzz/cdn/hls/c72b6a4e125a198cada293e03a655595/master.m3u8?md5=Gg3sjll6ttZuYUoYI7utzg&expires=1792166044",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/R-DnOCnDJDnftJ6V_dxCzpeOgEs9okKrj8GJHogb5ozONgMuLm0PjEUTiVYq9MwQ91y2tgsOYFeSYuhKQJJU9A.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "mDIOmZUkQ"
+        }
+      },
+      "fetched_at": "2026-10-16T13:54:14Z"
+    },
+    {
+      "id": "episode/tokyo-ghoul-2x1",
+      "episode_id": "episode/tokyo-ghoul-2x1",
+      "title": "Tokyo Ghoul 2x1",
+      "episode_name": "Tokyo Ghoul 2x1",
+      "episode_number": 1,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_1726_s2e1.webp",
+      "abyssid": "18018",
+      "abyssId": "18018",
+      "playxid": "90ee81d4b0a4e17baec9fd7956ef26b3",
+      "playXID": "90ee81d4b0a4e17baec9fd7956ef26b3",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18018",
+        "playXID": "90ee81d4b0a4e17baec9fd7956ef26b3",
+        "streamId": "18018",
+        "dubPlayerSrc": "/dub-player/t/18018/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=90ee81d4b0a4e17baec9fd7956ef26b3&abyssId=18018"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18018",
+        "playXID": "90ee81d4b0a4e17baec9fd7956ef26b3",
+        "streamId": "18018",
+        "dubPlayerSrc": "/dub-player/t/18018/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=90ee81d4b0a4e17baec9fd7956ef26b3&abyssId=18018"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/1ecb6468735bde11b1d125b787158088",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/1ecb6468735bde11b1d125b787158088"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18018",
+        "abyssId": "18018",
+        "playXID": "90ee81d4b0a4e17baec9fd7956ef26b3",
+        "title": "Tokyo Ghoul",
+        "season": 2,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "6X9ARdVqN"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "Eo7MleuC7"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "wE6sVOKs8"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/f5be2574c237b2abfbde568a2e519ffd/master.m3u8?md5=vOwo7BoUn9E2mjylLAc_Aw&expires=1792166044",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/f5be2574c237b2abfbde568a2e519ffd/master.m3u8?md5=vOwo7BoUn9E2mjylLAc_Aw&expires=1792166044",
+            "videoSource": "https://ravok.buzz/cdn/hls/f5be2574c237b2abfbde568a2e519ffd/master.m3u8?md5=vOwo7BoUn9E2mjylLAc_Aw&expires=1792166044",
+            "videoImage": "https://as-cdn27.top/p/LImUASo7Wynf5PU_J_gMjvYyU6v5egjL9Iz0NMaUj5NquYzWqIqk9czFeWJ7iOx1eMfA7oPcPhbRcmId4fHaiw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "90ee81d4b0a4e17baec9fd7956ef26b3",
+                "streamUrl": "https://ravok.buzz/cdn/hls/f5be2574c237b2abfbde568a2e519ffd/master.m3u8?md5=vOwo7BoUn9E2mjylLAc_Aw&expires=1792166044",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/f5be2574c237b2abfbde568a2e519ffd/master.m3u8?md5=vOwo7BoUn9E2mjylLAc_Aw&expires=1792166044",
+                "videoSource": "https://ravok.buzz/cdn/hls/f5be2574c237b2abfbde568a2e519ffd/master.m3u8?md5=vOwo7BoUn9E2mjylLAc_Aw&expires=1792166044",
+                "link": "https://ravok.buzz/cdn/hls/f5be2574c237b2abfbde568a2e519ffd/master.m3u8?md5=vOwo7BoUn9E2mjylLAc_Aw&expires=1792166044",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/LImUASo7Wynf5PU_J_gMjvYyU6v5egjL9Iz0NMaUj5NquYzWqIqk9czFeWJ7iOx1eMfA7oPcPhbRcmId4fHaiw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "6X9ARdVqN"
+        }
+      },
+      "fetched_at": "2026-10-16T13:54:14Z"
+    },
+    {
+      "id": "episode/tokyo-ghoul-2x3",
+      "episode_id": "episode/tokyo-ghoul-2x3",
+      "title": "Tokyo Ghoul 2x1",
+      "episode_name": "Tokyo Ghoul 2x1",
+      "episode_number": 3,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_1726_s2e3.webp",
+      "abyssid": "18020",
+      "abyssId": "18020",
+      "playxid": "2eb33140f3d093631fb0aefd60b457ba",
+      "playXID": "2eb33140f3d093631fb0aefd60b457ba",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18020",
+        "playXID": "2eb33140f3d093631fb0aefd60b457ba",
+        "streamId": "18020",
+        "dubPlayerSrc": "/dub-player/t/18020/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2eb33140f3d093631fb0aefd60b457ba&abyssId=18020"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18020",
+        "playXID": "2eb33140f3d093631fb0aefd60b457ba",
+        "streamId": "18020",
+        "dubPlayerSrc": "/dub-player/t/18020/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2eb33140f3d093631fb0aefd60b457ba&abyssId=18020"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/419d2439f2540b883c361010cc19e4b8",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/419d2439f2540b883c361010cc19e4b8"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18020",
+        "abyssId": "18020",
+        "playXID": "2eb33140f3d093631fb0aefd60b457ba",
+        "title": "Tokyo Ghoul",
+        "season": 2,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "HNh8V3v2o"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "Zz3kwMjDy"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "UOXUwPQfU"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/527a5ecad921d9a228070c696318971e/master.m3u8?md5=tLQT8cGHrH54LOgTZTMQxg&expires=1792166045",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/527a5ecad921d9a228070c696318971e/master.m3u8?md5=tLQT8cGHrH54LOgTZTMQxg&expires=1792166045",
+            "videoSource": "https://ravok.buzz/cdn/hls/527a5ecad921d9a228070c696318971e/master.m3u8?md5=tLQT8cGHrH54LOgTZTMQxg&expires=1792166045",
+            "videoImage": "https://as-cdn30.top/p/iO-SZQOpcffSoESNf0haICYXbSAVWxPR1-ZdkgfZ4jeb9ptZ0FuApontlhwebnZVjj84iwmMTD1Itim4OE730Q.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "2eb33140f3d093631fb0aefd60b457ba",
+                "streamUrl": "https://ravok.buzz/cdn/hls/527a5ecad921d9a228070c696318971e/master.m3u8?md5=tLQT8cGHrH54LOgTZTMQxg&expires=1792166045",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/527a5ecad921d9a228070c696318971e/master.m3u8?md5=tLQT8cGHrH54LOgTZTMQxg&expires=1792166045",
+                "videoSource": "https://ravok.buzz/cdn/hls/527a5ecad921d9a228070c696318971e/master.m3u8?md5=tLQT8cGHrH54LOgTZTMQxg&expires=1792166045",
+                "link": "https://ravok.buzz/cdn/hls/527a5ecad921d9a228070c696318971e/master.m3u8?md5=tLQT8cGHrH54LOgTZTMQxg&expires=1792166045",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/iO-SZQOpcffSoESNf0haICYXbSAVWxPR1-ZdkgfZ4jeb9ptZ0FuApontlhwebnZVjj84iwmMTD1Itim4OE730Q.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "HNh8V3v2o"
+        }
+      },
+      "fetched_at": "2026-10-16T13:54:15Z"
+    },
+    {
+      "id": "episode/tokyo-ghoul-2x4",
+      "episode_id": "episode/tokyo-ghoul-2x4",
+      "title": "Tokyo Ghoul 2x1",
+      "episode_name": "Tokyo Ghoul 2x1",
+      "episode_number": 4,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_1726_s2e4.webp",
+      "abyssid": "18021",
+      "abyssId": "18021",
+      "playxid": "c39fff1ad6a93b434b117d46dfdf6681",
+      "playXID": "c39fff1ad6a93b434b117d46dfdf6681",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18021",
+        "playXID": "c39fff1ad6a93b434b117d46dfdf6681",
+        "streamId": "18021",
+        "dubPlayerSrc": "/dub-player/t/18021/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c39fff1ad6a93b434b117d46dfdf6681&abyssId=18021"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18021",
+        "playXID": "c39fff1ad6a93b434b117d46dfdf6681",
+        "streamId": "18021",
+        "dubPlayerSrc": "/dub-player/t/18021/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c39fff1ad6a93b434b117d46dfdf6681&abyssId=18021"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/e61c7b2d4e0e9cdf707fbc671586e901",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/e61c7b2d4e0e9cdf707fbc671586e901"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18021",
+        "abyssId": "18021",
+        "playXID": "c39fff1ad6a93b434b117d46dfdf6681",
+        "title": "Tokyo Ghoul",
+        "season": 2,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "uMmT6380Z"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "RzkZ3gwax"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "UbLO4tnGY"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/0e07434a5074f8f06045861223c3a26f/master.m3u8?md5=QHkvXVT28ckwY9-IONYYmQ&expires=1792166045",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/0e07434a5074f8f06045861223c3a26f/master.m3u8?md5=QHkvXVT28ckwY9-IONYYmQ&expires=1792166045",
+            "videoSource": "https://ravok.buzz/cdn/hls/0e07434a5074f8f06045861223c3a26f/master.m3u8?md5=QHkvXVT28ckwY9-IONYYmQ&expires=1792166045",
+            "videoImage": "https://as-cdn31.top/p/hyVqPHl6Myg1Q3QHjHIq1ZCqUFziKm3i1tu6xTE4MTTjiGMsGnyOOG_NdMhOBpnguX7qWwCvp9x4tlJADrfbbA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "c39fff1ad6a93b434b117d46dfdf6681",
+                "streamUrl": "https://ravok.buzz/cdn/hls/0e07434a5074f8f06045861223c3a26f/master.m3u8?md5=QHkvXVT28ckwY9-IONYYmQ&expires=1792166045",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/0e07434a5074f8f06045861223c3a26f/master.m3u8?md5=QHkvXVT28ckwY9-IONYYmQ&expires=1792166045",
+                "videoSource": "https://ravok.buzz/cdn/hls/0e07434a5074f8f06045861223c3a26f/master.m3u8?md5=QHkvXVT28ckwY9-IONYYmQ&expires=1792166045",
+                "link": "https://ravok.buzz/cdn/hls/0e07434a5074f8f06045861223c3a26f/master.m3u8?md5=QHkvXVT28ckwY9-IONYYmQ&expires=1792166045",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/hyVqPHl6Myg1Q3QHjHIq1ZCqUFziKm3i1tu6xTE4MTTjiGMsGnyOOG_NdMhOBpnguX7qWwCvp9x4tlJADrfbbA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "uMmT6380Z"
+        }
+      },
+      "fetched_at": "2026-10-16T13:54:15Z"
+    },
+    {
+      "id": "episode/tokyo-ghoul-2x6",
+      "episode_id": "episode/tokyo-ghoul-2x6",
+      "title": "Tokyo Ghoul 2x1",
+      "episode_name": "Tokyo Ghoul 2x1",
+      "episode_number": 6,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_1726_s2e6.webp",
+      "abyssid": "18023",
+      "abyssId": "18023",
+      "playxid": "721954837adbdf1aeecdf6d31715536f",
+      "playXID": "721954837adbdf1aeecdf6d31715536f",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18023",
+        "playXID": "721954837adbdf1aeecdf6d31715536f",
+        "streamId": "18023",
+        "dubPlayerSrc": "/dub-player/t/18023/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=721954837adbdf1aeecdf6d31715536f&abyssId=18023"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18023",
+        "playXID": "721954837adbdf1aeecdf6d31715536f",
+        "streamId": "18023",
+        "dubPlayerSrc": "/dub-player/t/18023/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=721954837adbdf1aeecdf6d31715536f&abyssId=18023"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/4d883854d72e0b60688786f83fce9e7d",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/4d883854d72e0b60688786f83fce9e7d"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18023",
+        "abyssId": "18023",
+        "playXID": "721954837adbdf1aeecdf6d31715536f",
+        "title": "Tokyo Ghoul",
+        "season": 2,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "lt6Y3-Shv"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "8Y7Wa_xGL"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "cEx72bZjf"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/d53fdfdc71a8d72b32bd9ba97d5442f7/master.m3u8?md5=ct6NBYa8DzGkDh525-2o_w&expires=1792166046",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/d53fdfdc71a8d72b32bd9ba97d5442f7/master.m3u8?md5=ct6NBYa8DzGkDh525-2o_w&expires=1792166046",
+            "videoSource": "https://ravok.buzz/cdn/hls/d53fdfdc71a8d72b32bd9ba97d5442f7/master.m3u8?md5=ct6NBYa8DzGkDh525-2o_w&expires=1792166046",
+            "videoImage": "https://as-cdn28.top/p/pD5WcAhuCTTn34W1wQpCdLLk0-R3QFepT27VvStBGsgCCwQ7XVLVr8wEDoP01I9qLmK10ejDK_ikrQCIj2eVRg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "721954837adbdf1aeecdf6d31715536f",
+                "streamUrl": "https://ravok.buzz/cdn/hls/d53fdfdc71a8d72b32bd9ba97d5442f7/master.m3u8?md5=ct6NBYa8DzGkDh525-2o_w&expires=1792166046",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/d53fdfdc71a8d72b32bd9ba97d5442f7/master.m3u8?md5=ct6NBYa8DzGkDh525-2o_w&expires=1792166046",
+                "videoSource": "https://ravok.buzz/cdn/hls/d53fdfdc71a8d72b32bd9ba97d5442f7/master.m3u8?md5=ct6NBYa8DzGkDh525-2o_w&expires=1792166046",
+                "link": "https://ravok.buzz/cdn/hls/d53fdfdc71a8d72b32bd9ba97d5442f7/master.m3u8?md5=ct6NBYa8DzGkDh525-2o_w&expires=1792166046",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/pD5WcAhuCTTn34W1wQpCdLLk0-R3QFepT27VvStBGsgCCwQ7XVLVr8wEDoP01I9qLmK10ejDK_ikrQCIj2eVRg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "lt6Y3-Shv"
+        }
+      },
+      "fetched_at": "2026-10-16T13:54:16Z"
+    },
+    {
+      "id": "episode/tokyo-ghoul-2x5",
+      "episode_id": "episode/tokyo-ghoul-2x5",
+      "title": "Tokyo Ghoul 2x1",
+      "episode_name": "Tokyo Ghoul 2x1",
+      "episode_number": 5,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_1726_s2e5.webp",
+      "abyssid": "18022",
+      "abyssId": "18022",
+      "playxid": "85ba19084919b81731aae4edcf6c5181",
+      "playXID": "85ba19084919b81731aae4edcf6c5181",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18022",
+        "playXID": "85ba19084919b81731aae4edcf6c5181",
+        "streamId": "18022",
+        "dubPlayerSrc": "/dub-player/t/18022/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=85ba19084919b81731aae4edcf6c5181&abyssId=18022"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18022",
+        "playXID": "85ba19084919b81731aae4edcf6c5181",
+        "streamId": "18022",
+        "dubPlayerSrc": "/dub-player/t/18022/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=85ba19084919b81731aae4edcf6c5181&abyssId=18022"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/5c6c364bf5f3e00a2e2b017859dde995",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/5c6c364bf5f3e00a2e2b017859dde995"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18022",
+        "abyssId": "18022",
+        "playXID": "85ba19084919b81731aae4edcf6c5181",
+        "title": "Tokyo Ghoul",
+        "season": 2,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "ZDDecrhTT"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "2NhI2Etq7"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "Po7zHdbxf"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/cc6d2ef9ec32c87442788770dc321b55/master.m3u8?md5=oFLzRZpWvs1_ue7waY6MFQ&expires=1792166046",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/cc6d2ef9ec32c87442788770dc321b55/master.m3u8?md5=oFLzRZpWvs1_ue7waY6MFQ&expires=1792166046",
+            "videoSource": "https://ravok.buzz/cdn/hls/cc6d2ef9ec32c87442788770dc321b55/master.m3u8?md5=oFLzRZpWvs1_ue7waY6MFQ&expires=1792166046",
+            "videoImage": "https://as-cdn29.top/p/2DBFIVJ4UAjdpc-Kz_-sT2G3m8molmTnL8lfaLAVAL9C9uxSImO3Yvg5Ss-dHUwW6KkP33EWfn0mgHe6U9ZSlQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "85ba19084919b81731aae4edcf6c5181",
+                "streamUrl": "https://ravok.buzz/cdn/hls/cc6d2ef9ec32c87442788770dc321b55/master.m3u8?md5=oFLzRZpWvs1_ue7waY6MFQ&expires=1792166046",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/cc6d2ef9ec32c87442788770dc321b55/master.m3u8?md5=oFLzRZpWvs1_ue7waY6MFQ&expires=1792166046",
+                "videoSource": "https://ravok.buzz/cdn/hls/cc6d2ef9ec32c87442788770dc321b55/master.m3u8?md5=oFLzRZpWvs1_ue7waY6MFQ&expires=1792166046",
+                "link": "https://ravok.buzz/cdn/hls/cc6d2ef9ec32c87442788770dc321b55/master.m3u8?md5=oFLzRZpWvs1_ue7waY6MFQ&expires=1792166046",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/2DBFIVJ4UAjdpc-Kz_-sT2G3m8molmTnL8lfaLAVAL9C9uxSImO3Yvg5Ss-dHUwW6KkP33EWfn0mgHe6U9ZSlQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "ZDDecrhTT"
+        }
+      },
+      "fetched_at": "2026-10-16T13:54:16Z"
+    },
+    {
+      "id": "episode/tokyo-ghoul-2x7",
+      "episode_id": "episode/tokyo-ghoul-2x7",
+      "title": "Tokyo Ghoul 2x1",
+      "episode_name": "Tokyo Ghoul 2x1",
+      "episode_number": 7,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_1726_s2e7.webp",
+      "abyssid": "18024",
+      "abyssId": "18024",
+      "playxid": "70431822025c237eddc9145838fc7046",
+      "playXID": "70431822025c237eddc9145838fc7046",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18024",
+        "playXID": "70431822025c237eddc9145838fc7046",
+        "streamId": "18024",
+        "dubPlayerSrc": "/dub-player/t/18024/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=70431822025c237eddc9145838fc7046&abyssId=18024"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18024",
+        "playXID": "70431822025c237eddc9145838fc7046",
+        "streamId": "18024",
+        "dubPlayerSrc": "/dub-player/t/18024/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=70431822025c237eddc9145838fc7046&abyssId=18024"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/b887f82284199f5553f5cf0d1453bd1d",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/b887f82284199f5553f5cf0d1453bd1d"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18024",
+        "abyssId": "18024",
+        "playXID": "70431822025c237eddc9145838fc7046",
+        "title": "Tokyo Ghoul",
+        "season": 2,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "kSKrfZ5CW"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "XEbD2qGaS"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "8acD3A-Ye"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/d239907634ebcd132baa791ed340c9c9/master.m3u8?md5=lUEN4ZxU4eGGyrPEnGRnJQ&expires=1792166046",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/d239907634ebcd132baa791ed340c9c9/master.m3u8?md5=lUEN4ZxU4eGGyrPEnGRnJQ&expires=1792166046",
+            "videoSource": "https://ravok.buzz/cdn/hls/d239907634ebcd132baa791ed340c9c9/master.m3u8?md5=lUEN4ZxU4eGGyrPEnGRnJQ&expires=1792166046",
+            "videoImage": "https://as-cdn27.top/p/ZRqHF5drhTTATiHyNolBplLCKpMdufJQscPnk4M4BQgHq5kk2wcWYyJwbK8IhpVsUemX_PuEwlhEpvq48FkXeA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "70431822025c237eddc9145838fc7046",
+                "streamUrl": "https://ravok.buzz/cdn/hls/d239907634ebcd132baa791ed340c9c9/master.m3u8?md5=lUEN4ZxU4eGGyrPEnGRnJQ&expires=1792166046",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/d239907634ebcd132baa791ed340c9c9/master.m3u8?md5=lUEN4ZxU4eGGyrPEnGRnJQ&expires=1792166046",
+                "videoSource": "https://ravok.buzz/cdn/hls/d239907634ebcd132baa791ed340c9c9/master.m3u8?md5=lUEN4ZxU4eGGyrPEnGRnJQ&expires=1792166046",
+                "link": "https://ravok.buzz/cdn/hls/d239907634ebcd132baa791ed340c9c9/master.m3u8?md5=lUEN4ZxU4eGGyrPEnGRnJQ&expires=1792166046",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/ZRqHF5drhTTATiHyNolBplLCKpMdufJQscPnk4M4BQgHq5kk2wcWYyJwbK8IhpVsUemX_PuEwlhEpvq48FkXeA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "kSKrfZ5CW"
+        }
+      },
+      "fetched_at": "2026-10-16T13:54:16Z"
+    },
+    {
+      "id": "episode/tokyo-ghoul-2x8",
+      "episode_id": "episode/tokyo-ghoul-2x8",
+      "title": "Tokyo Ghoul 2x1",
+      "episode_name": "Tokyo Ghoul 2x1",
+      "episode_number": 8,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_1726_s2e8.webp",
+      "abyssid": "18025",
+      "abyssId": "18025",
+      "playxid": "18ebf96a2f92ee2fb5a254536239cc38",
+      "playXID": "18ebf96a2f92ee2fb5a254536239cc38",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18025",
+        "playXID": "18ebf96a2f92ee2fb5a254536239cc38",
+        "streamId": "18025",
+        "dubPlayerSrc": "/dub-player/t/18025/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=18ebf96a2f92ee2fb5a254536239cc38&abyssId=18025"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18025",
+        "playXID": "18ebf96a2f92ee2fb5a254536239cc38",
+        "streamId": "18025",
+        "dubPlayerSrc": "/dub-player/t/18025/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=18ebf96a2f92ee2fb5a254536239cc38&abyssId=18025"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/fff079091fab64095f9cad3298f1057a",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/fff079091fab64095f9cad3298f1057a"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18025",
+        "abyssId": "18025",
+        "playXID": "18ebf96a2f92ee2fb5a254536239cc38",
+        "title": "Tokyo Ghoul",
+        "season": 2,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "8jEE01pY8"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "dgNAUyhv3"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "isXlOko3F"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/95d13796f06b877b897381615437c004/master.m3u8?md5=vAzrDLzSUn7cfZJWzTK4bw&expires=1792166047",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/95d13796f06b877b897381615437c004/master.m3u8?md5=vAzrDLzSUn7cfZJWzTK4bw&expires=1792166047",
+            "videoSource": "https://ravok.buzz/cdn/hls/95d13796f06b877b897381615437c004/master.m3u8?md5=vAzrDLzSUn7cfZJWzTK4bw&expires=1792166047",
+            "videoImage": "https://as-cdn29.top/p/hl-cwZJn3sniCsTYVc6e50j7v42nlg3HupDNMMdaP8SR1OtvjJN-ASsyHI0FdRLY0f5Go_zgBxS229cZ6zLd5Q.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "18ebf96a2f92ee2fb5a254536239cc38",
+                "streamUrl": "https://ravok.buzz/cdn/hls/95d13796f06b877b897381615437c004/master.m3u8?md5=vAzrDLzSUn7cfZJWzTK4bw&expires=1792166047",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/95d13796f06b877b897381615437c004/master.m3u8?md5=vAzrDLzSUn7cfZJWzTK4bw&expires=1792166047",
+                "videoSource": "https://ravok.buzz/cdn/hls/95d13796f06b877b897381615437c004/master.m3u8?md5=vAzrDLzSUn7cfZJWzTK4bw&expires=1792166047",
+                "link": "https://ravok.buzz/cdn/hls/95d13796f06b877b897381615437c004/master.m3u8?md5=vAzrDLzSUn7cfZJWzTK4bw&expires=1792166047",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/hl-cwZJn3sniCsTYVc6e50j7v42nlg3HupDNMMdaP8SR1OtvjJN-ASsyHI0FdRLY0f5Go_zgBxS229cZ6zLd5Q.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "8jEE01pY8"
+        }
+      },
+      "fetched_at": "2026-10-16T13:54:17Z"
+    },
+    {
+      "id": "episode/tokyo-ghoul-2x9",
+      "episode_id": "episode/tokyo-ghoul-2x9",
+      "title": "Tokyo Ghoul 2x1",
+      "episode_name": "Tokyo Ghoul 2x1",
+      "episode_number": 9,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_1726_s2e9.webp",
+      "abyssid": "18026",
+      "abyssId": "18026",
+      "playxid": "9863c2d1f9c2fd8e0e10ba7838592b73",
+      "playXID": "9863c2d1f9c2fd8e0e10ba7838592b73",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18026",
+        "playXID": "9863c2d1f9c2fd8e0e10ba7838592b73",
+        "streamId": "18026",
+        "dubPlayerSrc": "/dub-player/t/18026/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9863c2d1f9c2fd8e0e10ba7838592b73&abyssId=18026"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18026",
+        "playXID": "9863c2d1f9c2fd8e0e10ba7838592b73",
+        "streamId": "18026",
+        "dubPlayerSrc": "/dub-player/t/18026/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9863c2d1f9c2fd8e0e10ba7838592b73&abyssId=18026"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/197fabf83fac149373c2c7acdd53f0c2",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/197fabf83fac149373c2c7acdd53f0c2"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18026",
+        "abyssId": "18026",
+        "playXID": "9863c2d1f9c2fd8e0e10ba7838592b73",
+        "title": "Tokyo Ghoul",
+        "season": 2,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "C2Xv7heaU"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "y9xjDK5s3"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "sPswns_R9"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/d3509beba421ea26da62c06216e70a6c/master.m3u8?md5=gU02d8oHkAoVsB8ZB9M_LA&expires=1792166047",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/d3509beba421ea26da62c06216e70a6c/master.m3u8?md5=gU02d8oHkAoVsB8ZB9M_LA&expires=1792166047",
+            "videoSource": "https://ravok.buzz/cdn/hls/d3509beba421ea26da62c06216e70a6c/master.m3u8?md5=gU02d8oHkAoVsB8ZB9M_LA&expires=1792166047",
+            "videoImage": "https://as-cdn31.top/p/R-LSDK2O3KirL0eh_hNgNJQAGBZdmBP-MZr8uZteIQZq_gKu0TC0LntO94Fhu0vXwGISi0wm6AfUL3fdLv297Q.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "9863c2d1f9c2fd8e0e10ba7838592b73",
+                "streamUrl": "https://ravok.buzz/cdn/hls/d3509beba421ea26da62c06216e70a6c/master.m3u8?md5=gU02d8oHkAoVsB8ZB9M_LA&expires=1792166047",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/d3509beba421ea26da62c06216e70a6c/master.m3u8?md5=gU02d8oHkAoVsB8ZB9M_LA&expires=1792166047",
+                "videoSource": "https://ravok.buzz/cdn/hls/d3509beba421ea26da62c06216e70a6c/master.m3u8?md5=gU02d8oHkAoVsB8ZB9M_LA&expires=1792166047",
+                "link": "https://ravok.buzz/cdn/hls/d3509beba421ea26da62c06216e70a6c/master.m3u8?md5=gU02d8oHkAoVsB8ZB9M_LA&expires=1792166047",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/R-LSDK2O3KirL0eh_hNgNJQAGBZdmBP-MZr8uZteIQZq_gKu0TC0LntO94Fhu0vXwGISi0wm6AfUL3fdLv297Q.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "C2Xv7heaU"
+        }
+      },
+      "fetched_at": "2026-10-16T13:54:17Z"
+    },
+    {
+      "id": "episode/tokyo-ghoul-2x11",
+      "episode_id": "episode/tokyo-ghoul-2x11",
+      "title": "Tokyo Ghoul 2x1",
+      "episode_name": "Tokyo Ghoul 2x1",
+      "episode_number": 11,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_1726_s2e11.webp",
+      "abyssid": "18028",
+      "abyssId": "18028",
+      "playxid": "c81515bd823be1bece85f08897b0dcc1",
+      "playXID": "c81515bd823be1bece85f08897b0dcc1",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18028",
+        "playXID": "c81515bd823be1bece85f08897b0dcc1",
+        "streamId": "18028",
+        "dubPlayerSrc": "/dub-player/t/18028/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c81515bd823be1bece85f08897b0dcc1&abyssId=18028"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18028",
+        "playXID": "c81515bd823be1bece85f08897b0dcc1",
+        "streamId": "18028",
+        "dubPlayerSrc": "/dub-player/t/18028/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c81515bd823be1bece85f08897b0dcc1&abyssId=18028"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/fc0aafd651946d038137a3b480c2e639",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/fc0aafd651946d038137a3b480c2e639"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18028",
+        "abyssId": "18028",
+        "playXID": "c81515bd823be1bece85f08897b0dcc1",
+        "title": "Tokyo Ghoul",
+        "season": 2,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "P5K8O-jXJJ"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "fG_2fvT6s"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "SwltyTH4l"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/15f2260d881787fba1de4f4fae3920af/master.m3u8?md5=sL469BNxOo6PEzEC5vWNDg&expires=1792166048",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/15f2260d881787fba1de4f4fae3920af/master.m3u8?md5=sL469BNxOo6PEzEC5vWNDg&expires=1792166048",
+            "videoSource": "https://ravok.buzz/cdn/hls/15f2260d881787fba1de4f4fae3920af/master.m3u8?md5=sL469BNxOo6PEzEC5vWNDg&expires=1792166048",
+            "videoImage": "https://as-cdn31.top/p/lMeNlRJw1SNHmEZ7ltLmrPQHHYh_nh_n_srlTzxAkoZPFSOESp8YhXuZIPHXoze6rJWcg7mHPXNzpewLtD52rQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "c81515bd823be1bece85f08897b0dcc1",
+                "streamUrl": "https://ravok.buzz/cdn/hls/15f2260d881787fba1de4f4fae3920af/master.m3u8?md5=sL469BNxOo6PEzEC5vWNDg&expires=1792166048",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/15f2260d881787fba1de4f4fae3920af/master.m3u8?md5=sL469BNxOo6PEzEC5vWNDg&expires=1792166048",
+                "videoSource": "https://ravok.buzz/cdn/hls/15f2260d881787fba1de4f4fae3920af/master.m3u8?md5=sL469BNxOo6PEzEC5vWNDg&expires=1792166048",
+                "link": "https://ravok.buzz/cdn/hls/15f2260d881787fba1de4f4fae3920af/master.m3u8?md5=sL469BNxOo6PEzEC5vWNDg&expires=1792166048",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/lMeNlRJw1SNHmEZ7ltLmrPQHHYh_nh_n_srlTzxAkoZPFSOESp8YhXuZIPHXoze6rJWcg7mHPXNzpewLtD52rQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "P5K8O-jXJJ"
+        }
+      },
+      "fetched_at": "2026-10-16T13:54:18Z"
+    },
+    {
+      "id": "episode/tokyo-ghoul-2x10",
+      "episode_id": "episode/tokyo-ghoul-2x10",
+      "title": "Tokyo Ghoul 2x1",
+      "episode_name": "Tokyo Ghoul 2x1",
+      "episode_number": 10,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_1726_s2e10.webp",
+      "abyssid": "18027",
+      "abyssId": "18027",
+      "playxid": "927a76a0841cbed3ee15f5f1a3a25898",
+      "playXID": "927a76a0841cbed3ee15f5f1a3a25898",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18027",
+        "playXID": "927a76a0841cbed3ee15f5f1a3a25898",
+        "streamId": "18027",
+        "dubPlayerSrc": "/dub-player/t/18027/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=927a76a0841cbed3ee15f5f1a3a25898&abyssId=18027"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18027",
+        "playXID": "927a76a0841cbed3ee15f5f1a3a25898",
+        "streamId": "18027",
+        "dubPlayerSrc": "/dub-player/t/18027/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=927a76a0841cbed3ee15f5f1a3a25898&abyssId=18027"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/8e047e51a0262a54c2dffb2274683c07",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/8e047e51a0262a54c2dffb2274683c07"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18027",
+        "abyssId": "18027",
+        "playXID": "927a76a0841cbed3ee15f5f1a3a25898",
+        "title": "Tokyo Ghoul",
+        "season": 2,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "w9M3FApYAX"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "f1ymwKwuY"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "3AtVUqsWE"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/52a8fad91a7de1574a5592c6d1089c04/master.m3u8?md5=9qrTX_AlSmROJQuqQJHfcQ&expires=1792166048",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/52a8fad91a7de1574a5592c6d1089c04/master.m3u8?md5=9qrTX_AlSmROJQuqQJHfcQ&expires=1792166048",
+            "videoSource": "https://ravok.buzz/cdn/hls/52a8fad91a7de1574a5592c6d1089c04/master.m3u8?md5=9qrTX_AlSmROJQuqQJHfcQ&expires=1792166048",
+            "videoImage": "https://as-cdn27.top/p/QoZAJZzXD5Z6cNo2ylM_HXVFfrbE4g3Vz5MWEwLDenNyQwPYG4i3X9QyM1FavnhUpA8rpDPUfLHIORmnnnBttA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "927a76a0841cbed3ee15f5f1a3a25898",
+                "streamUrl": "https://ravok.buzz/cdn/hls/52a8fad91a7de1574a5592c6d1089c04/master.m3u8?md5=9qrTX_AlSmROJQuqQJHfcQ&expires=1792166048",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/52a8fad91a7de1574a5592c6d1089c04/master.m3u8?md5=9qrTX_AlSmROJQuqQJHfcQ&expires=1792166048",
+                "videoSource": "https://ravok.buzz/cdn/hls/52a8fad91a7de1574a5592c6d1089c04/master.m3u8?md5=9qrTX_AlSmROJQuqQJHfcQ&expires=1792166048",
+                "link": "https://ravok.buzz/cdn/hls/52a8fad91a7de1574a5592c6d1089c04/master.m3u8?md5=9qrTX_AlSmROJQuqQJHfcQ&expires=1792166048",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/QoZAJZzXD5Z6cNo2ylM_HXVFfrbE4g3Vz5MWEwLDenNyQwPYG4i3X9QyM1FavnhUpA8rpDPUfLHIORmnnnBttA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "w9M3FApYAX"
+        }
+      },
+      "fetched_at": "2026-10-16T13:54:18Z"
+    },
+    {
+      "id": "episode/tokyo-ghoul-2x12",
+      "episode_id": "episode/tokyo-ghoul-2x12",
+      "title": "Tokyo Ghoul 2x1",
+      "episode_name": "Tokyo Ghoul 2x1",
+      "episode_number": 12,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_1726_s2e12.webp",
+      "abyssid": "18029",
+      "abyssId": "18029",
+      "playxid": "59da4b9e77bff518243c6119241d441a",
+      "playXID": "59da4b9e77bff518243c6119241d441a",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18029",
+        "playXID": "59da4b9e77bff518243c6119241d441a",
+        "streamId": "18029",
+        "dubPlayerSrc": "/dub-player/t/18029/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=59da4b9e77bff518243c6119241d441a&abyssId=18029"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18029",
+        "playXID": "59da4b9e77bff518243c6119241d441a",
+        "streamId": "18029",
+        "dubPlayerSrc": "/dub-player/t/18029/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=59da4b9e77bff518243c6119241d441a&abyssId=18029"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/9be2610ec283e1a45c7642ab8dcd713b",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/9be2610ec283e1a45c7642ab8dcd713b"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18029",
+        "abyssId": "18029",
+        "playXID": "59da4b9e77bff518243c6119241d441a",
+        "title": "Tokyo Ghoul",
+        "season": 2,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "TG_MkeyhD"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "pTwVxGXuB"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "yIywvGVCn"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/1334258bb6b761267229890127c05d98/master.m3u8?md5=1qrPUWDV6mqT7OvzGkHZig&expires=1792166048",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/1334258bb6b761267229890127c05d98/master.m3u8?md5=1qrPUWDV6mqT7OvzGkHZig&expires=1792166048",
+            "videoSource": "https://ravok.buzz/cdn/hls/1334258bb6b761267229890127c05d98/master.m3u8?md5=1qrPUWDV6mqT7OvzGkHZig&expires=1792166048",
+            "videoImage": "https://as-cdn30.top/p/eoRJIZVHS4ZP2CAzvdOAc6rYBtXr0Sb8lnYtspzwfNd21H7YMmp2aG_wt7cPfjbkklnn1VY-m8xOD5QLOgc3NQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "59da4b9e77bff518243c6119241d441a",
+                "streamUrl": "https://ravok.buzz/cdn/hls/1334258bb6b761267229890127c05d98/master.m3u8?md5=1qrPUWDV6mqT7OvzGkHZig&expires=1792166048",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/1334258bb6b761267229890127c05d98/master.m3u8?md5=1qrPUWDV6mqT7OvzGkHZig&expires=1792166048",
+                "videoSource": "https://ravok.buzz/cdn/hls/1334258bb6b761267229890127c05d98/master.m3u8?md5=1qrPUWDV6mqT7OvzGkHZig&expires=1792166048",
+                "link": "https://ravok.buzz/cdn/hls/1334258bb6b761267229890127c05d98/master.m3u8?md5=1qrPUWDV6mqT7OvzGkHZig&expires=1792166048",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/eoRJIZVHS4ZP2CAzvdOAc6rYBtXr0Sb8lnYtspzwfNd21H7YMmp2aG_wt7cPfjbkklnn1VY-m8xOD5QLOgc3NQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "TG_MkeyhD"
+        }
+      },
+      "fetched_at": "2026-10-16T13:54:18Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T13:54:07Z",
+  "updated_at": "2026-10-16T13:54:18Z"
+}

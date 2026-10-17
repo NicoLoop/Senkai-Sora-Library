@@ -1,0 +1,920 @@
+{
+  "id": "series/lookism",
+  "series_name": "Lookism",
+  "title": "Lookism",
+  "banner": "https://image.tmdb.org/t/p/w1280/uoBUj75vcxF17uq2ToD63lgPdzD.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/qkoM63HDuCOSwxGfb0pljrgns9I.jpg",
+  "genra": [
+    "Action",
+    "Comedy",
+    "Drama",
+    "School",
+    "Supernatural"
+  ],
+  "genres": [
+    "Action",
+    "Comedy",
+    "Drama",
+    "School",
+    "Supernatural"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Japanese",
+    "Korean"
+  ],
+  "synopsis": "Violence, name-calling, and humiliation are a daily reality for high school student Park Hyung Suk. Chubby and insecure, he is often used as a plaything and punching bag for bullies, which leads him to wish he could just disappear. Unexpectedly, when he transfers schools in the hopes of starting anew, a miraculous opportunity emerges: he awakens in a tall, handsome, and strangely athletic body. Hyung Suk quickly realizes that he is now the owner of two disparate bodies; when one falls asleep, he wakes up in the other.",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 8,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 8,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Change",
+          "id": "episode/lookism-1x1",
+          "image": "https://img.watchanimeworld.one/images/15108/1.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "New Life",
+          "id": "episode/lookism-1x2",
+          "image": "https://img.watchanimeworld.one/images/15108/2.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "Friends",
+          "id": "episode/lookism-1x3",
+          "image": "https://img.watchanimeworld.one/images/15108/3.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "Mom",
+          "id": "episode/lookism-1x4",
+          "image": "https://img.watchanimeworld.one/images/15108/4.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "Kidness",
+          "id": "episode/lookism-1x5",
+          "image": "https://img.watchanimeworld.one/images/15108/5.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "Recommendation",
+          "id": "episode/lookism-1x6",
+          "image": "https://img.watchanimeworld.one/images/15108/6.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "Special Training",
+          "id": "episode/lookism-1x7",
+          "image": "https://img.watchanimeworld.one/images/15108/7.webp",
+          "season": 1
+        },
+        {
+          "episode": 8,
+          "title": "Wall",
+          "id": "episode/lookism-1x8",
+          "image": "https://img.watchanimeworld.one/images/15108/8.webp",
+          "season": 1
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/lookism-1x5",
+      "episode_id": "episode/lookism-1x5",
+      "title": "Change",
+      "episode_name": "Change",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/15108/5.webp",
+      "abyssid": "10884",
+      "abyssId": "10884",
+      "playxid": "f29b38f160f87ae86df31cee1982066f",
+      "playXID": "f29b38f160f87ae86df31cee1982066f",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "10884",
+        "playXID": "f29b38f160f87ae86df31cee1982066f",
+        "streamId": "10884",
+        "dubPlayerSrc": "/dub-player/t/10884/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f29b38f160f87ae86df31cee1982066f&abyssId=10884"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "10884",
+        "playXID": "f29b38f160f87ae86df31cee1982066f",
+        "streamId": "10884",
+        "dubPlayerSrc": "/dub-player/t/10884/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f29b38f160f87ae86df31cee1982066f&abyssId=10884"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/f29b38f160f87ae86df31cee1982066f",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/f29b38f160f87ae86df31cee1982066f"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "10884",
+        "abyssId": "10884",
+        "playXID": "f29b38f160f87ae86df31cee1982066f",
+        "title": "Lookism",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "yiXJdZRt0"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "0BQ2gaDqi"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "rAZgqtBR9"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/a4dbf09b4d0e0692dbc1373a7490c517/master.m3u8?md5=wXYS-SjgyMQuryPRNIhTpQ&expires=1792167195",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/a4dbf09b4d0e0692dbc1373a7490c517/master.m3u8?md5=wXYS-SjgyMQuryPRNIhTpQ&expires=1792167195",
+            "videoSource": "https://ravok.buzz/cdn/hls/a4dbf09b4d0e0692dbc1373a7490c517/master.m3u8?md5=wXYS-SjgyMQuryPRNIhTpQ&expires=1792167195",
+            "videoImage": "https://as-cdn31.top/p/hFBqtI_xcWyOQDZ6iPAv9o7G1w04Lbl_6SVQWt8rHk5hZEndj_De2VzLmt-SFlGhy0WwXDk5eYDVuAesSCBTyg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "f29b38f160f87ae86df31cee1982066f",
+                "streamUrl": "https://ravok.buzz/cdn/hls/a4dbf09b4d0e0692dbc1373a7490c517/master.m3u8?md5=wXYS-SjgyMQuryPRNIhTpQ&expires=1792167195",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/a4dbf09b4d0e0692dbc1373a7490c517/master.m3u8?md5=wXYS-SjgyMQuryPRNIhTpQ&expires=1792167195",
+                "videoSource": "https://ravok.buzz/cdn/hls/a4dbf09b4d0e0692dbc1373a7490c517/master.m3u8?md5=wXYS-SjgyMQuryPRNIhTpQ&expires=1792167195",
+                "link": "https://ravok.buzz/cdn/hls/a4dbf09b4d0e0692dbc1373a7490c517/master.m3u8?md5=wXYS-SjgyMQuryPRNIhTpQ&expires=1792167195",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/hFBqtI_xcWyOQDZ6iPAv9o7G1w04Lbl_6SVQWt8rHk5hZEndj_De2VzLmt-SFlGhy0WwXDk5eYDVuAesSCBTyg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "yiXJdZRt0"
+        }
+      },
+      "fetched_at": "2026-10-16T14:13:25Z"
+    },
+    {
+      "id": "episode/lookism-1x4",
+      "episode_id": "episode/lookism-1x4",
+      "title": "Change",
+      "episode_name": "Change",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/15108/4.webp",
+      "abyssid": "10883",
+      "abyssId": "10883",
+      "playxid": "7bb060764a818184ebb1cc0d43d382aa",
+      "playXID": "7bb060764a818184ebb1cc0d43d382aa",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "10883",
+        "playXID": "7bb060764a818184ebb1cc0d43d382aa",
+        "streamId": "10883",
+        "dubPlayerSrc": "/dub-player/t/10883/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=7bb060764a818184ebb1cc0d43d382aa&abyssId=10883"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "10883",
+        "playXID": "7bb060764a818184ebb1cc0d43d382aa",
+        "streamId": "10883",
+        "dubPlayerSrc": "/dub-player/t/10883/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=7bb060764a818184ebb1cc0d43d382aa&abyssId=10883"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/7bb060764a818184ebb1cc0d43d382aa",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/7bb060764a818184ebb1cc0d43d382aa"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "10883",
+        "abyssId": "10883",
+        "playXID": "7bb060764a818184ebb1cc0d43d382aa",
+        "title": "Lookism",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "ykmWYHau0"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "-YS2mFVp-"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "w-EvHKZI_"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/46c4a604e8d185eb42df431d5cee4c2f/master.m3u8?md5=hB1mKmMyN6WLabnm9EAfPA&expires=1792167195",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/46c4a604e8d185eb42df431d5cee4c2f/master.m3u8?md5=hB1mKmMyN6WLabnm9EAfPA&expires=1792167195",
+            "videoSource": "https://ravok.buzz/cdn/hls/46c4a604e8d185eb42df431d5cee4c2f/master.m3u8?md5=hB1mKmMyN6WLabnm9EAfPA&expires=1792167195",
+            "videoImage": "https://as-cdn27.top/p/CgHXRd6i57aRXRh26JXdNP7RjQcEXBRquEQ4IOxkAGeWsH0wRcTzGC0gi64mTamZ36q1gWJlew46QUjKY2h3SA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "7bb060764a818184ebb1cc0d43d382aa",
+                "streamUrl": "https://ravok.buzz/cdn/hls/46c4a604e8d185eb42df431d5cee4c2f/master.m3u8?md5=hB1mKmMyN6WLabnm9EAfPA&expires=1792167195",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/46c4a604e8d185eb42df431d5cee4c2f/master.m3u8?md5=hB1mKmMyN6WLabnm9EAfPA&expires=1792167195",
+                "videoSource": "https://ravok.buzz/cdn/hls/46c4a604e8d185eb42df431d5cee4c2f/master.m3u8?md5=hB1mKmMyN6WLabnm9EAfPA&expires=1792167195",
+                "link": "https://ravok.buzz/cdn/hls/46c4a604e8d185eb42df431d5cee4c2f/master.m3u8?md5=hB1mKmMyN6WLabnm9EAfPA&expires=1792167195",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/CgHXRd6i57aRXRh26JXdNP7RjQcEXBRquEQ4IOxkAGeWsH0wRcTzGC0gi64mTamZ36q1gWJlew46QUjKY2h3SA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "ykmWYHau0"
+        }
+      },
+      "fetched_at": "2026-10-16T14:13:25Z"
+    },
+    {
+      "id": "episode/lookism-1x2",
+      "episode_id": "episode/lookism-1x2",
+      "title": "Change",
+      "episode_name": "Change",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/15108/2.webp",
+      "abyssid": "10881",
+      "abyssId": "10881",
+      "playxid": "4476b929e30dd0c4e8bdbcc82c6ba23a",
+      "playXID": "4476b929e30dd0c4e8bdbcc82c6ba23a",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "10881",
+        "playXID": "4476b929e30dd0c4e8bdbcc82c6ba23a",
+        "streamId": "10881",
+        "dubPlayerSrc": "/dub-player/t/10881/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=4476b929e30dd0c4e8bdbcc82c6ba23a&abyssId=10881"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "10881",
+        "playXID": "4476b929e30dd0c4e8bdbcc82c6ba23a",
+        "streamId": "10881",
+        "dubPlayerSrc": "/dub-player/t/10881/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=4476b929e30dd0c4e8bdbcc82c6ba23a&abyssId=10881"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/4476b929e30dd0c4e8bdbcc82c6ba23a",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/4476b929e30dd0c4e8bdbcc82c6ba23a"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "10881",
+        "abyssId": "10881",
+        "playXID": "4476b929e30dd0c4e8bdbcc82c6ba23a",
+        "title": "Lookism",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "9qutyEyI2"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "KmS5QQs-p"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "gyukRwtTT"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/b8265c4224eb73bb42ec65ec4e2ee65a/master.m3u8?md5=MopTNOKLWOwQHIQcdALbFA&expires=1792167196",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/b8265c4224eb73bb42ec65ec4e2ee65a/master.m3u8?md5=MopTNOKLWOwQHIQcdALbFA&expires=1792167196",
+            "videoSource": "https://ravok.buzz/cdn/hls/b8265c4224eb73bb42ec65ec4e2ee65a/master.m3u8?md5=MopTNOKLWOwQHIQcdALbFA&expires=1792167196",
+            "videoImage": "https://as-cdn28.top/p/lrdvVOsRbhSGGVNPt2vvgsaVB4NaO2fAzcCiite8wcSaOm9YWHn2UT1bgXtuQMGdl9i-J21eJ24TT02lfTMowg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "4476b929e30dd0c4e8bdbcc82c6ba23a",
+                "streamUrl": "https://ravok.buzz/cdn/hls/b8265c4224eb73bb42ec65ec4e2ee65a/master.m3u8?md5=MopTNOKLWOwQHIQcdALbFA&expires=1792167196",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/b8265c4224eb73bb42ec65ec4e2ee65a/master.m3u8?md5=MopTNOKLWOwQHIQcdALbFA&expires=1792167196",
+                "videoSource": "https://ravok.buzz/cdn/hls/b8265c4224eb73bb42ec65ec4e2ee65a/master.m3u8?md5=MopTNOKLWOwQHIQcdALbFA&expires=1792167196",
+                "link": "https://ravok.buzz/cdn/hls/b8265c4224eb73bb42ec65ec4e2ee65a/master.m3u8?md5=MopTNOKLWOwQHIQcdALbFA&expires=1792167196",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/lrdvVOsRbhSGGVNPt2vvgsaVB4NaO2fAzcCiite8wcSaOm9YWHn2UT1bgXtuQMGdl9i-J21eJ24TT02lfTMowg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "9qutyEyI2"
+        }
+      },
+      "fetched_at": "2026-10-16T14:13:25Z"
+    },
+    {
+      "id": "episode/lookism-1x3",
+      "episode_id": "episode/lookism-1x3",
+      "title": "Change",
+      "episode_name": "Change",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/15108/3.webp",
+      "abyssid": "10882",
+      "abyssId": "10882",
+      "playxid": "535ab76633d94208236a2e829ea6d888",
+      "playXID": "535ab76633d94208236a2e829ea6d888",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "10882",
+        "playXID": "535ab76633d94208236a2e829ea6d888",
+        "streamId": "10882",
+        "dubPlayerSrc": "/dub-player/t/10882/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=535ab76633d94208236a2e829ea6d888&abyssId=10882"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "10882",
+        "playXID": "535ab76633d94208236a2e829ea6d888",
+        "streamId": "10882",
+        "dubPlayerSrc": "/dub-player/t/10882/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=535ab76633d94208236a2e829ea6d888&abyssId=10882"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/535ab76633d94208236a2e829ea6d888",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/535ab76633d94208236a2e829ea6d888"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "10882",
+        "abyssId": "10882",
+        "playXID": "535ab76633d94208236a2e829ea6d888",
+        "title": "Lookism",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "uCpyRh3TD"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "TRv4I5Gk8"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "9ELDPwDAc"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/e7eff31668780ac810d6053435f9d069/master.m3u8?md5=XbNPQJZazdfZjZFopCv2Rw&expires=1792167195",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/e7eff31668780ac810d6053435f9d069/master.m3u8?md5=XbNPQJZazdfZjZFopCv2Rw&expires=1792167195",
+            "videoSource": "https://ravok.buzz/cdn/hls/e7eff31668780ac810d6053435f9d069/master.m3u8?md5=XbNPQJZazdfZjZFopCv2Rw&expires=1792167195",
+            "videoImage": "https://as-cdn29.top/p/WGEZxfwRolVYNqiq0ZF8OfS7z-hUEaw_B4QG3WUbzWo3wNbDWP6Yof1OfBAu9qCUBD4HfXssuUX6g6e2L5DZAg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "535ab76633d94208236a2e829ea6d888",
+                "streamUrl": "https://ravok.buzz/cdn/hls/e7eff31668780ac810d6053435f9d069/master.m3u8?md5=XbNPQJZazdfZjZFopCv2Rw&expires=1792167195",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/e7eff31668780ac810d6053435f9d069/master.m3u8?md5=XbNPQJZazdfZjZFopCv2Rw&expires=1792167195",
+                "videoSource": "https://ravok.buzz/cdn/hls/e7eff31668780ac810d6053435f9d069/master.m3u8?md5=XbNPQJZazdfZjZFopCv2Rw&expires=1792167195",
+                "link": "https://ravok.buzz/cdn/hls/e7eff31668780ac810d6053435f9d069/master.m3u8?md5=XbNPQJZazdfZjZFopCv2Rw&expires=1792167195",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/WGEZxfwRolVYNqiq0ZF8OfS7z-hUEaw_B4QG3WUbzWo3wNbDWP6Yof1OfBAu9qCUBD4HfXssuUX6g6e2L5DZAg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "uCpyRh3TD"
+        }
+      },
+      "fetched_at": "2026-10-16T14:13:25Z"
+    },
+    {
+      "id": "episode/lookism-1x1",
+      "episode_id": "episode/lookism-1x1",
+      "title": "Change",
+      "episode_name": "Change",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/15108/1.webp",
+      "abyssid": "10880",
+      "abyssId": "10880",
+      "playxid": "a0872cc5b5ca4cc25076f3d868e1bdf8",
+      "playXID": "a0872cc5b5ca4cc25076f3d868e1bdf8",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "10880",
+        "playXID": "a0872cc5b5ca4cc25076f3d868e1bdf8",
+        "streamId": "10880",
+        "dubPlayerSrc": "/dub-player/t/10880/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a0872cc5b5ca4cc25076f3d868e1bdf8&abyssId=10880"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "10880",
+        "playXID": "a0872cc5b5ca4cc25076f3d868e1bdf8",
+        "streamId": "10880",
+        "dubPlayerSrc": "/dub-player/t/10880/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a0872cc5b5ca4cc25076f3d868e1bdf8&abyssId=10880"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/a0872cc5b5ca4cc25076f3d868e1bdf8",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/a0872cc5b5ca4cc25076f3d868e1bdf8"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "10880",
+        "abyssId": "10880",
+        "playXID": "a0872cc5b5ca4cc25076f3d868e1bdf8",
+        "title": "Lookism",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "0XLE_UPyD"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "CvTUtIaJP"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "LdUWlR-p7x"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/ae8ec9c03624b08261645626fff4a454/master.m3u8?md5=UneO5QyqTi-zpc7GizfhrA&expires=1792167196",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/ae8ec9c03624b08261645626fff4a454/master.m3u8?md5=UneO5QyqTi-zpc7GizfhrA&expires=1792167196",
+            "videoSource": "https://ravok.buzz/cdn/hls/ae8ec9c03624b08261645626fff4a454/master.m3u8?md5=UneO5QyqTi-zpc7GizfhrA&expires=1792167196",
+            "videoImage": "https://as-cdn29.top/p/iW_tDi8XgrmM6X752tS6b2fJWg55tUfToAGK0cVU6MvBp5ClpFa6RYWgmTBHhVDBoiM6bGhgGz4nrKqj3GzpDA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "a0872cc5b5ca4cc25076f3d868e1bdf8",
+                "streamUrl": "https://ravok.buzz/cdn/hls/ae8ec9c03624b08261645626fff4a454/master.m3u8?md5=UneO5QyqTi-zpc7GizfhrA&expires=1792167196",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/ae8ec9c03624b08261645626fff4a454/master.m3u8?md5=UneO5QyqTi-zpc7GizfhrA&expires=1792167196",
+                "videoSource": "https://ravok.buzz/cdn/hls/ae8ec9c03624b08261645626fff4a454/master.m3u8?md5=UneO5QyqTi-zpc7GizfhrA&expires=1792167196",
+                "link": "https://ravok.buzz/cdn/hls/ae8ec9c03624b08261645626fff4a454/master.m3u8?md5=UneO5QyqTi-zpc7GizfhrA&expires=1792167196",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/iW_tDi8XgrmM6X752tS6b2fJWg55tUfToAGK0cVU6MvBp5ClpFa6RYWgmTBHhVDBoiM6bGhgGz4nrKqj3GzpDA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "0XLE_UPyD"
+        }
+      },
+      "fetched_at": "2026-10-16T14:13:26Z"
+    },
+    {
+      "id": "episode/lookism-1x8",
+      "episode_id": "episode/lookism-1x8",
+      "title": "Change",
+      "episode_name": "Change",
+      "episode_number": 8,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/15108/8.webp",
+      "abyssid": "10887",
+      "abyssId": "10887",
+      "playxid": "dfd7468ac613286cdbb40872c8ef3b06",
+      "playXID": "dfd7468ac613286cdbb40872c8ef3b06",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "10887",
+        "playXID": "dfd7468ac613286cdbb40872c8ef3b06",
+        "streamId": "10887",
+        "dubPlayerSrc": "/dub-player/t/10887/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=dfd7468ac613286cdbb40872c8ef3b06&abyssId=10887"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "10887",
+        "playXID": "dfd7468ac613286cdbb40872c8ef3b06",
+        "streamId": "10887",
+        "dubPlayerSrc": "/dub-player/t/10887/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=dfd7468ac613286cdbb40872c8ef3b06&abyssId=10887"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/dfd7468ac613286cdbb40872c8ef3b06",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/dfd7468ac613286cdbb40872c8ef3b06"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "10887",
+        "abyssId": "10887",
+        "playXID": "dfd7468ac613286cdbb40872c8ef3b06",
+        "title": "Lookism",
+        "season": 1,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "iMsib-BT-"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "0Ifb4ki0i"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "oN3Q8X2dP"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/556bd41cabf9300c1dd416493109afb6/master.m3u8?md5=MiBi7vG1FxbN43FRWW0OdQ&expires=1792167198",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/556bd41cabf9300c1dd416493109afb6/master.m3u8?md5=MiBi7vG1FxbN43FRWW0OdQ&expires=1792167198",
+            "videoSource": "https://ravok.buzz/cdn/hls/556bd41cabf9300c1dd416493109afb6/master.m3u8?md5=MiBi7vG1FxbN43FRWW0OdQ&expires=1792167198",
+            "videoImage": "https://as-cdn29.top/p/wpGrT-oj3Zlzi9e5LQJVxT4q9RMSMyvjK9s-2JUFSYukqZiqH0UBKJnzlTcKgxy26-64Zk-Se7lXbKylYhc5mA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "dfd7468ac613286cdbb40872c8ef3b06",
+                "streamUrl": "https://ravok.buzz/cdn/hls/556bd41cabf9300c1dd416493109afb6/master.m3u8?md5=MiBi7vG1FxbN43FRWW0OdQ&expires=1792167198",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/556bd41cabf9300c1dd416493109afb6/master.m3u8?md5=MiBi7vG1FxbN43FRWW0OdQ&expires=1792167198",
+                "videoSource": "https://ravok.buzz/cdn/hls/556bd41cabf9300c1dd416493109afb6/master.m3u8?md5=MiBi7vG1FxbN43FRWW0OdQ&expires=1792167198",
+                "link": "https://ravok.buzz/cdn/hls/556bd41cabf9300c1dd416493109afb6/master.m3u8?md5=MiBi7vG1FxbN43FRWW0OdQ&expires=1792167198",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/wpGrT-oj3Zlzi9e5LQJVxT4q9RMSMyvjK9s-2JUFSYukqZiqH0UBKJnzlTcKgxy26-64Zk-Se7lXbKylYhc5mA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "iMsib-BT-"
+        }
+      },
+      "fetched_at": "2026-10-16T14:13:27Z"
+    },
+    {
+      "id": "episode/lookism-1x7",
+      "episode_id": "episode/lookism-1x7",
+      "title": "Change",
+      "episode_name": "Change",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/15108/7.webp",
+      "abyssid": "10886",
+      "abyssId": "10886",
+      "playxid": "50905d7b2216bfeccb5b41016357176b",
+      "playXID": "50905d7b2216bfeccb5b41016357176b",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "10886",
+        "playXID": "50905d7b2216bfeccb5b41016357176b",
+        "streamId": "10886",
+        "dubPlayerSrc": "/dub-player/t/10886/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=50905d7b2216bfeccb5b41016357176b&abyssId=10886"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "10886",
+        "playXID": "50905d7b2216bfeccb5b41016357176b",
+        "streamId": "10886",
+        "dubPlayerSrc": "/dub-player/t/10886/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=50905d7b2216bfeccb5b41016357176b&abyssId=10886"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/50905d7b2216bfeccb5b41016357176b",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/50905d7b2216bfeccb5b41016357176b"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "10886",
+        "abyssId": "10886",
+        "playXID": "50905d7b2216bfeccb5b41016357176b",
+        "title": "Lookism",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "R-9LE9Ev9"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "56vPyYeBJ"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "e9jBem1vt"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/c6e647920c6b1dff52cdd8995c4ef7ef/master.m3u8?md5=LblZPw1Q0wRgJ3OEy1g-3w&expires=1792167198",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/c6e647920c6b1dff52cdd8995c4ef7ef/master.m3u8?md5=LblZPw1Q0wRgJ3OEy1g-3w&expires=1792167198",
+            "videoSource": "https://ravok.buzz/cdn/hls/c6e647920c6b1dff52cdd8995c4ef7ef/master.m3u8?md5=LblZPw1Q0wRgJ3OEy1g-3w&expires=1792167198",
+            "videoImage": "https://as-cdn27.top/p/dB14FZg_4LiDbwOaOUNi876IJiTLjWZAR9rWl7YNMTuFtzkNbeh3el-vxig-Sb-Y_88dRY4NErGlquB4jMrPFA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "50905d7b2216bfeccb5b41016357176b",
+                "streamUrl": "https://ravok.buzz/cdn/hls/c6e647920c6b1dff52cdd8995c4ef7ef/master.m3u8?md5=LblZPw1Q0wRgJ3OEy1g-3w&expires=1792167198",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/c6e647920c6b1dff52cdd8995c4ef7ef/master.m3u8?md5=LblZPw1Q0wRgJ3OEy1g-3w&expires=1792167198",
+                "videoSource": "https://ravok.buzz/cdn/hls/c6e647920c6b1dff52cdd8995c4ef7ef/master.m3u8?md5=LblZPw1Q0wRgJ3OEy1g-3w&expires=1792167198",
+                "link": "https://ravok.buzz/cdn/hls/c6e647920c6b1dff52cdd8995c4ef7ef/master.m3u8?md5=LblZPw1Q0wRgJ3OEy1g-3w&expires=1792167198",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/dB14FZg_4LiDbwOaOUNi876IJiTLjWZAR9rWl7YNMTuFtzkNbeh3el-vxig-Sb-Y_88dRY4NErGlquB4jMrPFA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "R-9LE9Ev9"
+        }
+      },
+      "fetched_at": "2026-10-16T14:13:28Z"
+    },
+    {
+      "id": "episode/lookism-1x6",
+      "episode_id": "episode/lookism-1x6",
+      "title": "Change",
+      "episode_name": "Change",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/15108/6.webp",
+      "abyssid": "10885",
+      "abyssId": "10885",
+      "playxid": "f09696910bdd874a99cd74c8f05b5c44",
+      "playXID": "f09696910bdd874a99cd74c8f05b5c44",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "10885",
+        "playXID": "f09696910bdd874a99cd74c8f05b5c44",
+        "streamId": "10885",
+        "dubPlayerSrc": "/dub-player/t/10885/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f09696910bdd874a99cd74c8f05b5c44&abyssId=10885"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "10885",
+        "playXID": "f09696910bdd874a99cd74c8f05b5c44",
+        "streamId": "10885",
+        "dubPlayerSrc": "/dub-player/t/10885/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f09696910bdd874a99cd74c8f05b5c44&abyssId=10885"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/f09696910bdd874a99cd74c8f05b5c44",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/f09696910bdd874a99cd74c8f05b5c44"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "10885",
+        "abyssId": "10885",
+        "playXID": "f09696910bdd874a99cd74c8f05b5c44",
+        "title": "Lookism",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "x8fs_4X0w"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "hv8Jw83oW"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "1if6_fibV"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/f11765317b918c380038e208d9db54d3/master.m3u8?md5=y8bWvSCKW01pQKh3-CAk0Q&expires=1792167198",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/f11765317b918c380038e208d9db54d3/master.m3u8?md5=y8bWvSCKW01pQKh3-CAk0Q&expires=1792167198",
+            "videoSource": "https://ravok.buzz/cdn/hls/f11765317b918c380038e208d9db54d3/master.m3u8?md5=y8bWvSCKW01pQKh3-CAk0Q&expires=1792167198",
+            "videoImage": "https://as-cdn30.top/p/CGZDJIoPe0skcfXiFrpWlQDOJd5ZBHQrdYcMcoEULC-pxhLYVp3kUxaq1mx_mx4o2XC8tgVBJo41Apt5NxraXg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "f09696910bdd874a99cd74c8f05b5c44",
+                "streamUrl": "https://ravok.buzz/cdn/hls/f11765317b918c380038e208d9db54d3/master.m3u8?md5=y8bWvSCKW01pQKh3-CAk0Q&expires=1792167198",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/f11765317b918c380038e208d9db54d3/master.m3u8?md5=y8bWvSCKW01pQKh3-CAk0Q&expires=1792167198",
+                "videoSource": "https://ravok.buzz/cdn/hls/f11765317b918c380038e208d9db54d3/master.m3u8?md5=y8bWvSCKW01pQKh3-CAk0Q&expires=1792167198",
+                "link": "https://ravok.buzz/cdn/hls/f11765317b918c380038e208d9db54d3/master.m3u8?md5=y8bWvSCKW01pQKh3-CAk0Q&expires=1792167198",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/CGZDJIoPe0skcfXiFrpWlQDOJd5ZBHQrdYcMcoEULC-pxhLYVp3kUxaq1mx_mx4o2XC8tgVBJo41Apt5NxraXg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "x8fs_4X0w"
+        }
+      },
+      "fetched_at": "2026-10-16T14:13:28Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T14:13:22Z",
+  "updated_at": "2026-10-16T14:13:28Z"
+}

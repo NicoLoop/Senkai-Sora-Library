@@ -1,0 +1,1497 @@
+{
+  "id": "series/metallic-rouge",
+  "series_name": "Metallic Rouge",
+  "title": "Metallic Rouge",
+  "banner": "https://image.tmdb.org/t/p/w1280/wlHjte7xC8ZfgAMxUKxLL77ejyC.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/dcUWxOeCiEM7n7KdIYk1O8Xzgzp.jpg",
+  "genra": [
+    "Action",
+    "Mystery",
+    "Sci-Fi"
+  ],
+  "genres": [
+    "Action",
+    "Mystery",
+    "Sci-Fi"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Japanese",
+    "Tamil",
+    "Telugu"
+  ],
+  "synopsis": "In a world where humans coexist with androids called Neans, a group known as the Immortal Nine rises up against society. Tasked with disposing of the revolters, a Nean named Rouge Redstar (aka Metal Rouge) and investigator Naomi Orthmann head to Mars to track them down…but first, Rouge wants some chocolate.",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Metallic Rouge 1x1",
+          "id": "episode/metallic-rouge-1x1",
+          "image": "https://img.watchanimeworld.one/image/1230/1/1.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "Metallic Rouge 1x2",
+          "id": "episode/metallic-rouge-1x2",
+          "image": "https://img.watchanimeworld.one/image/1230/1/2.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "Metallic Rouge 1x3",
+          "id": "episode/metallic-rouge-1x3",
+          "image": "https://img.watchanimeworld.one/image/1230/1/3.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "Metallic Rouge 1x4",
+          "id": "episode/metallic-rouge-1x4",
+          "image": "https://img.watchanimeworld.one/image/1230/1/4.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "Metallic Rouge 1x5",
+          "id": "episode/metallic-rouge-1x5",
+          "image": "https://img.watchanimeworld.one/image/1230/1/5.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "Metallic Rouge 1x6",
+          "id": "episode/metallic-rouge-1x6",
+          "image": "https://img.watchanimeworld.one/image/1230/1/6.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "Metallic Rouge 1x7",
+          "id": "episode/metallic-rouge-1x7",
+          "image": "https://img.watchanimeworld.one/image/1230/1/7.webp",
+          "season": 1
+        },
+        {
+          "episode": 8,
+          "title": "Metallic Rouge 1x8",
+          "id": "episode/metallic-rouge-1x8",
+          "image": "https://img.watchanimeworld.one/image/1230/1/8.webp",
+          "season": 1
+        },
+        {
+          "episode": 9,
+          "title": "Metallic Rouge 1x9",
+          "id": "episode/metallic-rouge-1x9",
+          "image": "https://img.watchanimeworld.one/image/1230/1/9.webp",
+          "season": 1
+        },
+        {
+          "episode": 10,
+          "title": "Metallic Rouge 1x10",
+          "id": "episode/metallic-rouge-1x10",
+          "image": "https://img.watchanimeworld.one/image/1230/1/10.webp",
+          "season": 1
+        },
+        {
+          "episode": 11,
+          "title": "Metallic Rouge 1x11",
+          "id": "episode/metallic-rouge-1x11",
+          "image": "https://img.watchanimeworld.one/image/1230/1/11.webp",
+          "season": 1
+        },
+        {
+          "episode": 12,
+          "title": "Metallic Rouge 1x12",
+          "id": "episode/metallic-rouge-1x12",
+          "image": "https://img.watchanimeworld.one/image/1230/1/12.webp",
+          "season": 1
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/metallic-rouge-1x1",
+      "episode_id": "episode/metallic-rouge-1x1",
+      "title": "Metallic Rouge 1x1",
+      "episode_name": "Metallic Rouge 1x1",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1230/1/1.webp",
+      "abyssid": "12441",
+      "abyssId": "12441",
+      "playxid": "ce4449660c6523b377b22a1dc2da5556",
+      "playXID": "ce4449660c6523b377b22a1dc2da5556",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12441",
+        "playXID": "ce4449660c6523b377b22a1dc2da5556",
+        "streamId": "12441",
+        "dubPlayerSrc": "/dub-player/t/12441/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ce4449660c6523b377b22a1dc2da5556&abyssId=12441"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12441",
+        "playXID": "ce4449660c6523b377b22a1dc2da5556",
+        "streamId": "12441",
+        "dubPlayerSrc": "/dub-player/t/12441/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ce4449660c6523b377b22a1dc2da5556&abyssId=12441"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/ce4449660c6523b377b22a1dc2da5556",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/ce4449660c6523b377b22a1dc2da5556"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12441",
+        "abyssId": "12441",
+        "playXID": "ce4449660c6523b377b22a1dc2da5556",
+        "title": "Metallic Rouge",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "kwufvI3Kw"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "qtb_7tqCZ"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "z_c1FJLAk"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "hAEITHtfn"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "KDjzZkuBN"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/b0d7d84d83a6666b23ab186dc16e4614/master.m3u8?md5=w0bK74evZSM5mClSdLeWgg&expires=1792166963",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/b0d7d84d83a6666b23ab186dc16e4614/master.m3u8?md5=w0bK74evZSM5mClSdLeWgg&expires=1792166963",
+            "videoSource": "https://ravok.buzz/cdn/hls/b0d7d84d83a6666b23ab186dc16e4614/master.m3u8?md5=w0bK74evZSM5mClSdLeWgg&expires=1792166963",
+            "videoImage": "https://as-cdn29.top/p/0zh4czviN9Mtke2KCXpsJM0oBZWsJ8g8RIizW3Dt6YTini0ZqWvpU2VnK_r93dlnVk8KsBaJDxlXEyk3QpZWlw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "ce4449660c6523b377b22a1dc2da5556",
+                "streamUrl": "https://ravok.buzz/cdn/hls/b0d7d84d83a6666b23ab186dc16e4614/master.m3u8?md5=w0bK74evZSM5mClSdLeWgg&expires=1792166963",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/b0d7d84d83a6666b23ab186dc16e4614/master.m3u8?md5=w0bK74evZSM5mClSdLeWgg&expires=1792166963",
+                "videoSource": "https://ravok.buzz/cdn/hls/b0d7d84d83a6666b23ab186dc16e4614/master.m3u8?md5=w0bK74evZSM5mClSdLeWgg&expires=1792166963",
+                "link": "https://ravok.buzz/cdn/hls/b0d7d84d83a6666b23ab186dc16e4614/master.m3u8?md5=w0bK74evZSM5mClSdLeWgg&expires=1792166963",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/0zh4czviN9Mtke2KCXpsJM0oBZWsJ8g8RIizW3Dt6YTini0ZqWvpU2VnK_r93dlnVk8KsBaJDxlXEyk3QpZWlw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "kwufvI3Kw"
+        }
+      },
+      "fetched_at": "2026-10-16T14:09:33Z"
+    },
+    {
+      "id": "episode/metallic-rouge-1x3",
+      "episode_id": "episode/metallic-rouge-1x3",
+      "title": "Metallic Rouge 1x1",
+      "episode_name": "Metallic Rouge 1x1",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1230/1/3.webp",
+      "abyssid": "12443",
+      "abyssId": "12443",
+      "playxid": "de5eeca522e12fd5c9ff9077408dcf17",
+      "playXID": "de5eeca522e12fd5c9ff9077408dcf17",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12443",
+        "playXID": "de5eeca522e12fd5c9ff9077408dcf17",
+        "streamId": "12443",
+        "dubPlayerSrc": "/dub-player/t/12443/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=de5eeca522e12fd5c9ff9077408dcf17&abyssId=12443"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12443",
+        "playXID": "de5eeca522e12fd5c9ff9077408dcf17",
+        "streamId": "12443",
+        "dubPlayerSrc": "/dub-player/t/12443/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=de5eeca522e12fd5c9ff9077408dcf17&abyssId=12443"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/de5eeca522e12fd5c9ff9077408dcf17",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/de5eeca522e12fd5c9ff9077408dcf17"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12443",
+        "abyssId": "12443",
+        "playXID": "de5eeca522e12fd5c9ff9077408dcf17",
+        "title": "Metallic Rouge",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "j8KTg7WcHm"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "w92hzw4MZ"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "BrH_hdrqG"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "OYeYV9ACO"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "0riJxd_ffw"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/46d73321d04bdfb25a652652aabf21dc/master.m3u8?md5=5Apb6FRfjI4kHxXSRaxJZg&expires=1792166963",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/46d73321d04bdfb25a652652aabf21dc/master.m3u8?md5=5Apb6FRfjI4kHxXSRaxJZg&expires=1792166963",
+            "videoSource": "https://ravok.buzz/cdn/hls/46d73321d04bdfb25a652652aabf21dc/master.m3u8?md5=5Apb6FRfjI4kHxXSRaxJZg&expires=1792166963",
+            "videoImage": "https://as-cdn29.top/p/EJrd7aEzzXFFgUxZLs2lMbQcLP2xqBb1zUKIHSkx0TnL070io3nhbdMHsxD_Nb_HEVoJE0c021W-fm75dTERsg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "de5eeca522e12fd5c9ff9077408dcf17",
+                "streamUrl": "https://ravok.buzz/cdn/hls/46d73321d04bdfb25a652652aabf21dc/master.m3u8?md5=5Apb6FRfjI4kHxXSRaxJZg&expires=1792166963",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/46d73321d04bdfb25a652652aabf21dc/master.m3u8?md5=5Apb6FRfjI4kHxXSRaxJZg&expires=1792166963",
+                "videoSource": "https://ravok.buzz/cdn/hls/46d73321d04bdfb25a652652aabf21dc/master.m3u8?md5=5Apb6FRfjI4kHxXSRaxJZg&expires=1792166963",
+                "link": "https://ravok.buzz/cdn/hls/46d73321d04bdfb25a652652aabf21dc/master.m3u8?md5=5Apb6FRfjI4kHxXSRaxJZg&expires=1792166963",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/EJrd7aEzzXFFgUxZLs2lMbQcLP2xqBb1zUKIHSkx0TnL070io3nhbdMHsxD_Nb_HEVoJE0c021W-fm75dTERsg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "j8KTg7WcHm"
+        }
+      },
+      "fetched_at": "2026-10-16T14:09:33Z"
+    },
+    {
+      "id": "episode/metallic-rouge-1x4",
+      "episode_id": "episode/metallic-rouge-1x4",
+      "title": "Metallic Rouge 1x1",
+      "episode_name": "Metallic Rouge 1x1",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1230/1/4.webp",
+      "abyssid": "12444",
+      "abyssId": "12444",
+      "playxid": "0da54aa0b1ee702d0c45af548b1a54c7",
+      "playXID": "0da54aa0b1ee702d0c45af548b1a54c7",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12444",
+        "playXID": "0da54aa0b1ee702d0c45af548b1a54c7",
+        "streamId": "12444",
+        "dubPlayerSrc": "/dub-player/t/12444/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=0da54aa0b1ee702d0c45af548b1a54c7&abyssId=12444"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12444",
+        "playXID": "0da54aa0b1ee702d0c45af548b1a54c7",
+        "streamId": "12444",
+        "dubPlayerSrc": "/dub-player/t/12444/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=0da54aa0b1ee702d0c45af548b1a54c7&abyssId=12444"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/0da54aa0b1ee702d0c45af548b1a54c7",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/0da54aa0b1ee702d0c45af548b1a54c7"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12444",
+        "abyssId": "12444",
+        "playXID": "0da54aa0b1ee702d0c45af548b1a54c7",
+        "title": "Metallic Rouge",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "DL7V78jR1"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "Yue2AlFrj"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "Af277njAc"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "E7SjiaUpR"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "19NJdTyOB"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/a8b9d9c3c822fd5cf87c1f94df6495c7/master.m3u8?md5=9HQadarvxkmSdO0jWUa0DA&expires=1792166963",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/a8b9d9c3c822fd5cf87c1f94df6495c7/master.m3u8?md5=9HQadarvxkmSdO0jWUa0DA&expires=1792166963",
+            "videoSource": "https://ravok.buzz/cdn/hls/a8b9d9c3c822fd5cf87c1f94df6495c7/master.m3u8?md5=9HQadarvxkmSdO0jWUa0DA&expires=1792166963",
+            "videoImage": "https://as-cdn31.top/p/BO3rLBfpWxsWXAK84WWN3TiaFArkwIt9_SoSGpmIwpB3qfSqRH6zx3N3qF6_nVqx2meSxLyehETjj2y_oTRUOQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "0da54aa0b1ee702d0c45af548b1a54c7",
+                "streamUrl": "https://ravok.buzz/cdn/hls/a8b9d9c3c822fd5cf87c1f94df6495c7/master.m3u8?md5=9HQadarvxkmSdO0jWUa0DA&expires=1792166963",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/a8b9d9c3c822fd5cf87c1f94df6495c7/master.m3u8?md5=9HQadarvxkmSdO0jWUa0DA&expires=1792166963",
+                "videoSource": "https://ravok.buzz/cdn/hls/a8b9d9c3c822fd5cf87c1f94df6495c7/master.m3u8?md5=9HQadarvxkmSdO0jWUa0DA&expires=1792166963",
+                "link": "https://ravok.buzz/cdn/hls/a8b9d9c3c822fd5cf87c1f94df6495c7/master.m3u8?md5=9HQadarvxkmSdO0jWUa0DA&expires=1792166963",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/BO3rLBfpWxsWXAK84WWN3TiaFArkwIt9_SoSGpmIwpB3qfSqRH6zx3N3qF6_nVqx2meSxLyehETjj2y_oTRUOQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "DL7V78jR1"
+        }
+      },
+      "fetched_at": "2026-10-16T14:09:33Z"
+    },
+    {
+      "id": "episode/metallic-rouge-1x5",
+      "episode_id": "episode/metallic-rouge-1x5",
+      "title": "Metallic Rouge 1x1",
+      "episode_name": "Metallic Rouge 1x1",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1230/1/5.webp",
+      "abyssid": "12445",
+      "abyssId": "12445",
+      "playxid": "3dcaf04c357c577a857f3ffadc555f9b",
+      "playXID": "3dcaf04c357c577a857f3ffadc555f9b",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12445",
+        "playXID": "3dcaf04c357c577a857f3ffadc555f9b",
+        "streamId": "12445",
+        "dubPlayerSrc": "/dub-player/t/12445/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=3dcaf04c357c577a857f3ffadc555f9b&abyssId=12445"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12445",
+        "playXID": "3dcaf04c357c577a857f3ffadc555f9b",
+        "streamId": "12445",
+        "dubPlayerSrc": "/dub-player/t/12445/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=3dcaf04c357c577a857f3ffadc555f9b&abyssId=12445"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/3dcaf04c357c577a857f3ffadc555f9b",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/3dcaf04c357c577a857f3ffadc555f9b"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12445",
+        "abyssId": "12445",
+        "playXID": "3dcaf04c357c577a857f3ffadc555f9b",
+        "title": "Metallic Rouge",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "K2X08JkxZ"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "jp_8C2T7q"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "y8-qst13_"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "r4zLUAd3B"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "2rJ1VQnHa"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/8287d266b889df5870a4efac13014ac4/master.m3u8?md5=UFhsgAVVmnWaTNu093RLFg&expires=1792166963",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/8287d266b889df5870a4efac13014ac4/master.m3u8?md5=UFhsgAVVmnWaTNu093RLFg&expires=1792166963",
+            "videoSource": "https://ravok.buzz/cdn/hls/8287d266b889df5870a4efac13014ac4/master.m3u8?md5=UFhsgAVVmnWaTNu093RLFg&expires=1792166963",
+            "videoImage": "https://as-cdn31.top/p/NxrR8m3u36ulY5Qkg-6oIQHtDfzQ1Yc-RhayJcx37w9VJxpwOwXDn7OBHtZpldo4JzD31r2P7S7CwtG5_PFsbA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "3dcaf04c357c577a857f3ffadc555f9b",
+                "streamUrl": "https://ravok.buzz/cdn/hls/8287d266b889df5870a4efac13014ac4/master.m3u8?md5=UFhsgAVVmnWaTNu093RLFg&expires=1792166963",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/8287d266b889df5870a4efac13014ac4/master.m3u8?md5=UFhsgAVVmnWaTNu093RLFg&expires=1792166963",
+                "videoSource": "https://ravok.buzz/cdn/hls/8287d266b889df5870a4efac13014ac4/master.m3u8?md5=UFhsgAVVmnWaTNu093RLFg&expires=1792166963",
+                "link": "https://ravok.buzz/cdn/hls/8287d266b889df5870a4efac13014ac4/master.m3u8?md5=UFhsgAVVmnWaTNu093RLFg&expires=1792166963",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/NxrR8m3u36ulY5Qkg-6oIQHtDfzQ1Yc-RhayJcx37w9VJxpwOwXDn7OBHtZpldo4JzD31r2P7S7CwtG5_PFsbA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "K2X08JkxZ"
+        }
+      },
+      "fetched_at": "2026-10-16T14:09:33Z"
+    },
+    {
+      "id": "episode/metallic-rouge-1x7",
+      "episode_id": "episode/metallic-rouge-1x7",
+      "title": "Metallic Rouge 1x1",
+      "episode_name": "Metallic Rouge 1x1",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1230/1/7.webp",
+      "abyssid": "12447",
+      "abyssId": "12447",
+      "playxid": "07d2c6fd5472b9796184e152bd92a535",
+      "playXID": "07d2c6fd5472b9796184e152bd92a535",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12447",
+        "playXID": "07d2c6fd5472b9796184e152bd92a535",
+        "streamId": "12447",
+        "dubPlayerSrc": "/dub-player/t/12447/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=07d2c6fd5472b9796184e152bd92a535&abyssId=12447"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12447",
+        "playXID": "07d2c6fd5472b9796184e152bd92a535",
+        "streamId": "12447",
+        "dubPlayerSrc": "/dub-player/t/12447/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=07d2c6fd5472b9796184e152bd92a535&abyssId=12447"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/07d2c6fd5472b9796184e152bd92a535",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/07d2c6fd5472b9796184e152bd92a535"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12447",
+        "abyssId": "12447",
+        "playXID": "07d2c6fd5472b9796184e152bd92a535",
+        "title": "Metallic Rouge",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "Ip1Yia2jl"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "KYlMaY6pm"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "WY39sVpl3"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "p3m4MTy85"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "W7h3Vbm3_"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/8b4588eca8db70e9d22c1a29479fe4a4/master.m3u8?md5=2jzlIOZLLZZk2HYdoGUeDg&expires=1792166965",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/8b4588eca8db70e9d22c1a29479fe4a4/master.m3u8?md5=2jzlIOZLLZZk2HYdoGUeDg&expires=1792166965",
+            "videoSource": "https://ravok.buzz/cdn/hls/8b4588eca8db70e9d22c1a29479fe4a4/master.m3u8?md5=2jzlIOZLLZZk2HYdoGUeDg&expires=1792166965",
+            "videoImage": "https://as-cdn28.top/p/tneEhHP4bqofT7FLrA2dcY3PN1rWkGHD-h8LK2v6io5WKPD5huGZ3PY3zayVZbnlHjK2tpwWdiuJ-VxisD01rw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "07d2c6fd5472b9796184e152bd92a535",
+                "streamUrl": "https://ravok.buzz/cdn/hls/8b4588eca8db70e9d22c1a29479fe4a4/master.m3u8?md5=2jzlIOZLLZZk2HYdoGUeDg&expires=1792166965",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/8b4588eca8db70e9d22c1a29479fe4a4/master.m3u8?md5=2jzlIOZLLZZk2HYdoGUeDg&expires=1792166965",
+                "videoSource": "https://ravok.buzz/cdn/hls/8b4588eca8db70e9d22c1a29479fe4a4/master.m3u8?md5=2jzlIOZLLZZk2HYdoGUeDg&expires=1792166965",
+                "link": "https://ravok.buzz/cdn/hls/8b4588eca8db70e9d22c1a29479fe4a4/master.m3u8?md5=2jzlIOZLLZZk2HYdoGUeDg&expires=1792166965",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/tneEhHP4bqofT7FLrA2dcY3PN1rWkGHD-h8LK2v6io5WKPD5huGZ3PY3zayVZbnlHjK2tpwWdiuJ-VxisD01rw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "Ip1Yia2jl"
+        }
+      },
+      "fetched_at": "2026-10-16T14:09:35Z"
+    },
+    {
+      "id": "episode/metallic-rouge-1x9",
+      "episode_id": "episode/metallic-rouge-1x9",
+      "title": "Metallic Rouge 1x1",
+      "episode_name": "Metallic Rouge 1x1",
+      "episode_number": 9,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1230/1/9.webp",
+      "abyssid": "12449",
+      "abyssId": "12449",
+      "playxid": "36dcd524971019336af02550264b8a08",
+      "playXID": "36dcd524971019336af02550264b8a08",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12449",
+        "playXID": "36dcd524971019336af02550264b8a08",
+        "streamId": "12449",
+        "dubPlayerSrc": "/dub-player/t/12449/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=36dcd524971019336af02550264b8a08&abyssId=12449"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12449",
+        "playXID": "36dcd524971019336af02550264b8a08",
+        "streamId": "12449",
+        "dubPlayerSrc": "/dub-player/t/12449/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=36dcd524971019336af02550264b8a08&abyssId=12449"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/36dcd524971019336af02550264b8a08",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/36dcd524971019336af02550264b8a08"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12449",
+        "abyssId": "12449",
+        "playXID": "36dcd524971019336af02550264b8a08",
+        "title": "Metallic Rouge",
+        "season": 1,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "lr4Ipn8bk"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "zJDpr9qWj"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "kk7BJKa3g"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "qGJxw9KZu"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "cl4g4d4Je"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/df6276c5632a6db6f36e1b1546a639b9/master.m3u8?md5=AJ58OY_8ryFCQFITxE5Lpw&expires=1792166965",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/df6276c5632a6db6f36e1b1546a639b9/master.m3u8?md5=AJ58OY_8ryFCQFITxE5Lpw&expires=1792166965",
+            "videoSource": "https://ravok.buzz/cdn/hls/df6276c5632a6db6f36e1b1546a639b9/master.m3u8?md5=AJ58OY_8ryFCQFITxE5Lpw&expires=1792166965",
+            "videoImage": "https://as-cdn27.top/p/ioi19gtiKW0Wf_0j24gWF1BimcBLs8a7OYfVFpAwkkg3NvYbw5WYZGEL_Dj9cMVMc-K3kLfeaAkm5rCEQFLQ0g.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "36dcd524971019336af02550264b8a08",
+                "streamUrl": "https://ravok.buzz/cdn/hls/df6276c5632a6db6f36e1b1546a639b9/master.m3u8?md5=AJ58OY_8ryFCQFITxE5Lpw&expires=1792166965",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/df6276c5632a6db6f36e1b1546a639b9/master.m3u8?md5=AJ58OY_8ryFCQFITxE5Lpw&expires=1792166965",
+                "videoSource": "https://ravok.buzz/cdn/hls/df6276c5632a6db6f36e1b1546a639b9/master.m3u8?md5=AJ58OY_8ryFCQFITxE5Lpw&expires=1792166965",
+                "link": "https://ravok.buzz/cdn/hls/df6276c5632a6db6f36e1b1546a639b9/master.m3u8?md5=AJ58OY_8ryFCQFITxE5Lpw&expires=1792166965",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/ioi19gtiKW0Wf_0j24gWF1BimcBLs8a7OYfVFpAwkkg3NvYbw5WYZGEL_Dj9cMVMc-K3kLfeaAkm5rCEQFLQ0g.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "lr4Ipn8bk"
+        }
+      },
+      "fetched_at": "2026-10-16T14:09:35Z"
+    },
+    {
+      "id": "episode/metallic-rouge-1x8",
+      "episode_id": "episode/metallic-rouge-1x8",
+      "title": "Metallic Rouge 1x1",
+      "episode_name": "Metallic Rouge 1x1",
+      "episode_number": 8,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1230/1/8.webp",
+      "abyssid": "12448",
+      "abyssId": "12448",
+      "playxid": "2b52541089a553056a5558611365cc6a",
+      "playXID": "2b52541089a553056a5558611365cc6a",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12448",
+        "playXID": "2b52541089a553056a5558611365cc6a",
+        "streamId": "12448",
+        "dubPlayerSrc": "/dub-player/t/12448/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2b52541089a553056a5558611365cc6a&abyssId=12448"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12448",
+        "playXID": "2b52541089a553056a5558611365cc6a",
+        "streamId": "12448",
+        "dubPlayerSrc": "/dub-player/t/12448/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2b52541089a553056a5558611365cc6a&abyssId=12448"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/2b52541089a553056a5558611365cc6a",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/2b52541089a553056a5558611365cc6a"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12448",
+        "abyssId": "12448",
+        "playXID": "2b52541089a553056a5558611365cc6a",
+        "title": "Metallic Rouge",
+        "season": 1,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "Gnp8n7BDR"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "oVu3egPXF"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "auYIn3d7q"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "VSl9PKmoO"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "yRE66j_Di"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/720869a1b417f15a82f357a167f5e0eb/master.m3u8?md5=fG9kj5yWpp6Z5zZNVv-iJw&expires=1792166965",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/720869a1b417f15a82f357a167f5e0eb/master.m3u8?md5=fG9kj5yWpp6Z5zZNVv-iJw&expires=1792166965",
+            "videoSource": "https://ravok.buzz/cdn/hls/720869a1b417f15a82f357a167f5e0eb/master.m3u8?md5=fG9kj5yWpp6Z5zZNVv-iJw&expires=1792166965",
+            "videoImage": "https://as-cdn30.top/p/09BFYeEFwpKpNSDh2Zm3m2v7xTom_RaxGv78VyDK8_sSGQLLs1PXMDKwZ_rnSBZ8jr3Eji7Vzv8ECDQqcNds-w.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "2b52541089a553056a5558611365cc6a",
+                "streamUrl": "https://ravok.buzz/cdn/hls/720869a1b417f15a82f357a167f5e0eb/master.m3u8?md5=fG9kj5yWpp6Z5zZNVv-iJw&expires=1792166965",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/720869a1b417f15a82f357a167f5e0eb/master.m3u8?md5=fG9kj5yWpp6Z5zZNVv-iJw&expires=1792166965",
+                "videoSource": "https://ravok.buzz/cdn/hls/720869a1b417f15a82f357a167f5e0eb/master.m3u8?md5=fG9kj5yWpp6Z5zZNVv-iJw&expires=1792166965",
+                "link": "https://ravok.buzz/cdn/hls/720869a1b417f15a82f357a167f5e0eb/master.m3u8?md5=fG9kj5yWpp6Z5zZNVv-iJw&expires=1792166965",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/09BFYeEFwpKpNSDh2Zm3m2v7xTom_RaxGv78VyDK8_sSGQLLs1PXMDKwZ_rnSBZ8jr3Eji7Vzv8ECDQqcNds-w.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "Gnp8n7BDR"
+        }
+      },
+      "fetched_at": "2026-10-16T14:09:35Z"
+    },
+    {
+      "id": "episode/metallic-rouge-1x6",
+      "episode_id": "episode/metallic-rouge-1x6",
+      "title": "Metallic Rouge 1x1",
+      "episode_name": "Metallic Rouge 1x1",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1230/1/6.webp",
+      "abyssid": "12446",
+      "abyssId": "12446",
+      "playxid": "7a22c0c0a4515485e31f95fd372050c9",
+      "playXID": "7a22c0c0a4515485e31f95fd372050c9",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12446",
+        "playXID": "7a22c0c0a4515485e31f95fd372050c9",
+        "streamId": "12446",
+        "dubPlayerSrc": "/dub-player/t/12446/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=7a22c0c0a4515485e31f95fd372050c9&abyssId=12446"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12446",
+        "playXID": "7a22c0c0a4515485e31f95fd372050c9",
+        "streamId": "12446",
+        "dubPlayerSrc": "/dub-player/t/12446/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=7a22c0c0a4515485e31f95fd372050c9&abyssId=12446"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/7a22c0c0a4515485e31f95fd372050c9",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/7a22c0c0a4515485e31f95fd372050c9"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12446",
+        "abyssId": "12446",
+        "playXID": "7a22c0c0a4515485e31f95fd372050c9",
+        "title": "Metallic Rouge",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "flTOjFREr"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "-77rkSSd0"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "uiYjeiRr1"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "zfPGdJ1d0n"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "4Va2hsW3c"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/ef9a3d2ec788c28df357d40cc1c1b7c6/master.m3u8?md5=JajAf03hDwRmYFdKIcITVw&expires=1792166965",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/ef9a3d2ec788c28df357d40cc1c1b7c6/master.m3u8?md5=JajAf03hDwRmYFdKIcITVw&expires=1792166965",
+            "videoSource": "https://ravok.buzz/cdn/hls/ef9a3d2ec788c28df357d40cc1c1b7c6/master.m3u8?md5=JajAf03hDwRmYFdKIcITVw&expires=1792166965",
+            "videoImage": "https://as-cdn31.top/p/xALq5rN21kl3nLXkfT9m3Ht-WfAoyjTU7wDFHsWA0ZTXOdc1YsIEhKGT5t78ldp_D-TLJv0sRGzSXhVyxE6D0w.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "7a22c0c0a4515485e31f95fd372050c9",
+                "streamUrl": "https://ravok.buzz/cdn/hls/ef9a3d2ec788c28df357d40cc1c1b7c6/master.m3u8?md5=JajAf03hDwRmYFdKIcITVw&expires=1792166965",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/ef9a3d2ec788c28df357d40cc1c1b7c6/master.m3u8?md5=JajAf03hDwRmYFdKIcITVw&expires=1792166965",
+                "videoSource": "https://ravok.buzz/cdn/hls/ef9a3d2ec788c28df357d40cc1c1b7c6/master.m3u8?md5=JajAf03hDwRmYFdKIcITVw&expires=1792166965",
+                "link": "https://ravok.buzz/cdn/hls/ef9a3d2ec788c28df357d40cc1c1b7c6/master.m3u8?md5=JajAf03hDwRmYFdKIcITVw&expires=1792166965",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/xALq5rN21kl3nLXkfT9m3Ht-WfAoyjTU7wDFHsWA0ZTXOdc1YsIEhKGT5t78ldp_D-TLJv0sRGzSXhVyxE6D0w.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "flTOjFREr"
+        }
+      },
+      "fetched_at": "2026-10-16T14:09:35Z"
+    },
+    {
+      "id": "episode/metallic-rouge-1x10",
+      "episode_id": "episode/metallic-rouge-1x10",
+      "title": "Metallic Rouge 1x1",
+      "episode_name": "Metallic Rouge 1x1",
+      "episode_number": 10,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1230/1/10.webp",
+      "abyssid": "12450",
+      "abyssId": "12450",
+      "playxid": "7fc346397dc202259f27edc7d2adec88",
+      "playXID": "7fc346397dc202259f27edc7d2adec88",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12450",
+        "playXID": "7fc346397dc202259f27edc7d2adec88",
+        "streamId": "12450",
+        "dubPlayerSrc": "/dub-player/t/12450/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=7fc346397dc202259f27edc7d2adec88&abyssId=12450"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12450",
+        "playXID": "7fc346397dc202259f27edc7d2adec88",
+        "streamId": "12450",
+        "dubPlayerSrc": "/dub-player/t/12450/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=7fc346397dc202259f27edc7d2adec88&abyssId=12450"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/7fc346397dc202259f27edc7d2adec88",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/7fc346397dc202259f27edc7d2adec88"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12450",
+        "abyssId": "12450",
+        "playXID": "7fc346397dc202259f27edc7d2adec88",
+        "title": "Metallic Rouge",
+        "season": 1,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "A4wvbfrxj"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "Tmt5YaMIi"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "PlNwcZ3kg"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "5rOmgyvCg"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "u14gahYli"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/25179bbf5692a5d36101374c588b7bc5/master.m3u8?md5=sY0pOw4Oz20KLfdf9oJPCg&expires=1792166967",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/25179bbf5692a5d36101374c588b7bc5/master.m3u8?md5=sY0pOw4Oz20KLfdf9oJPCg&expires=1792166967",
+            "videoSource": "https://ravok.buzz/cdn/hls/25179bbf5692a5d36101374c588b7bc5/master.m3u8?md5=sY0pOw4Oz20KLfdf9oJPCg&expires=1792166967",
+            "videoImage": "https://as-cdn31.top/p/zsFggikUkrt3wsxv9zI2JNPT0xoYCBy1i_KPDmudAKr9RHNyH8joFnQ-QR1efB19REKRrEVfE1pPJ1elTGgppA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "7fc346397dc202259f27edc7d2adec88",
+                "streamUrl": "https://ravok.buzz/cdn/hls/25179bbf5692a5d36101374c588b7bc5/master.m3u8?md5=sY0pOw4Oz20KLfdf9oJPCg&expires=1792166967",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/25179bbf5692a5d36101374c588b7bc5/master.m3u8?md5=sY0pOw4Oz20KLfdf9oJPCg&expires=1792166967",
+                "videoSource": "https://ravok.buzz/cdn/hls/25179bbf5692a5d36101374c588b7bc5/master.m3u8?md5=sY0pOw4Oz20KLfdf9oJPCg&expires=1792166967",
+                "link": "https://ravok.buzz/cdn/hls/25179bbf5692a5d36101374c588b7bc5/master.m3u8?md5=sY0pOw4Oz20KLfdf9oJPCg&expires=1792166967",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/zsFggikUkrt3wsxv9zI2JNPT0xoYCBy1i_KPDmudAKr9RHNyH8joFnQ-QR1efB19REKRrEVfE1pPJ1elTGgppA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "A4wvbfrxj"
+        }
+      },
+      "fetched_at": "2026-10-16T14:09:37Z"
+    },
+    {
+      "id": "episode/metallic-rouge-1x11",
+      "episode_id": "episode/metallic-rouge-1x11",
+      "title": "Metallic Rouge 1x1",
+      "episode_name": "Metallic Rouge 1x1",
+      "episode_number": 11,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1230/1/11.webp",
+      "abyssid": "12451",
+      "abyssId": "12451",
+      "playxid": "18de4beb01f6a17b6e1dfb9813ba6045",
+      "playXID": "18de4beb01f6a17b6e1dfb9813ba6045",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12451",
+        "playXID": "18de4beb01f6a17b6e1dfb9813ba6045",
+        "streamId": "12451",
+        "dubPlayerSrc": "/dub-player/t/12451/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=18de4beb01f6a17b6e1dfb9813ba6045&abyssId=12451"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12451",
+        "playXID": "18de4beb01f6a17b6e1dfb9813ba6045",
+        "streamId": "12451",
+        "dubPlayerSrc": "/dub-player/t/12451/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=18de4beb01f6a17b6e1dfb9813ba6045&abyssId=12451"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/18de4beb01f6a17b6e1dfb9813ba6045",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/18de4beb01f6a17b6e1dfb9813ba6045"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12451",
+        "abyssId": "12451",
+        "playXID": "18de4beb01f6a17b6e1dfb9813ba6045",
+        "title": "Metallic Rouge",
+        "season": 1,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "y_57c2_Qr"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "z5Pa9B2QG"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "ObG7P34fC"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "YQCQOMJrr"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "C9lVJy2OW"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/2171ce6a94f579bd0c2895ff793a578c/master.m3u8?md5=OnU1g0wyaWrpXOn7ufVQQg&expires=1792166967",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/2171ce6a94f579bd0c2895ff793a578c/master.m3u8?md5=OnU1g0wyaWrpXOn7ufVQQg&expires=1792166967",
+            "videoSource": "https://ravok.buzz/cdn/hls/2171ce6a94f579bd0c2895ff793a578c/master.m3u8?md5=OnU1g0wyaWrpXOn7ufVQQg&expires=1792166967",
+            "videoImage": "https://as-cdn27.top/p/_EeOv2Rq2TC0sxz8dZCl3-AG24QsFnB6rZDgjsSW9wJazBL02D8TAdaTylfq_z8pqywIZcA5cW7AX19dhK5xrQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "18de4beb01f6a17b6e1dfb9813ba6045",
+                "streamUrl": "https://ravok.buzz/cdn/hls/2171ce6a94f579bd0c2895ff793a578c/master.m3u8?md5=OnU1g0wyaWrpXOn7ufVQQg&expires=1792166967",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/2171ce6a94f579bd0c2895ff793a578c/master.m3u8?md5=OnU1g0wyaWrpXOn7ufVQQg&expires=1792166967",
+                "videoSource": "https://ravok.buzz/cdn/hls/2171ce6a94f579bd0c2895ff793a578c/master.m3u8?md5=OnU1g0wyaWrpXOn7ufVQQg&expires=1792166967",
+                "link": "https://ravok.buzz/cdn/hls/2171ce6a94f579bd0c2895ff793a578c/master.m3u8?md5=OnU1g0wyaWrpXOn7ufVQQg&expires=1792166967",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/_EeOv2Rq2TC0sxz8dZCl3-AG24QsFnB6rZDgjsSW9wJazBL02D8TAdaTylfq_z8pqywIZcA5cW7AX19dhK5xrQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "y_57c2_Qr"
+        }
+      },
+      "fetched_at": "2026-10-16T14:09:37Z"
+    },
+    {
+      "id": "episode/metallic-rouge-1x12",
+      "episode_id": "episode/metallic-rouge-1x12",
+      "title": "Metallic Rouge 1x1",
+      "episode_name": "Metallic Rouge 1x1",
+      "episode_number": 12,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1230/1/12.webp",
+      "abyssid": "12452",
+      "abyssId": "12452",
+      "playxid": "6c90885b28e58d1f44856d787da2078f",
+      "playXID": "6c90885b28e58d1f44856d787da2078f",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12452",
+        "playXID": "6c90885b28e58d1f44856d787da2078f",
+        "streamId": "12452",
+        "dubPlayerSrc": "/dub-player/t/12452/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6c90885b28e58d1f44856d787da2078f&abyssId=12452"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12452",
+        "playXID": "6c90885b28e58d1f44856d787da2078f",
+        "streamId": "12452",
+        "dubPlayerSrc": "/dub-player/t/12452/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6c90885b28e58d1f44856d787da2078f&abyssId=12452"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/6c90885b28e58d1f44856d787da2078f",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/6c90885b28e58d1f44856d787da2078f"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12452",
+        "abyssId": "12452",
+        "playXID": "6c90885b28e58d1f44856d787da2078f",
+        "title": "Metallic Rouge",
+        "season": 1,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "Ko-xwIxPo"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "eCit8jGxc"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "d4xx6jBHE"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "V5iY394cK"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "l2lLCnm15"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/451724058a8b2debb323e3919615bdff/master.m3u8?md5=M0mU16zqTRpFPCU_hiHKnw&expires=1792166967",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/451724058a8b2debb323e3919615bdff/master.m3u8?md5=M0mU16zqTRpFPCU_hiHKnw&expires=1792166967",
+            "videoSource": "https://ravok.buzz/cdn/hls/451724058a8b2debb323e3919615bdff/master.m3u8?md5=M0mU16zqTRpFPCU_hiHKnw&expires=1792166967",
+            "videoImage": "https://as-cdn27.top/p/uqgn_RwexsMXrd8VYbCM0vwxfnxEAUoGJavUzeYusIjY0PB7XvSsjD2gi61EgSlt9RrlPhIbTJDys2LO4a21pg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "6c90885b28e58d1f44856d787da2078f",
+                "streamUrl": "https://ravok.buzz/cdn/hls/451724058a8b2debb323e3919615bdff/master.m3u8?md5=M0mU16zqTRpFPCU_hiHKnw&expires=1792166967",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/451724058a8b2debb323e3919615bdff/master.m3u8?md5=M0mU16zqTRpFPCU_hiHKnw&expires=1792166967",
+                "videoSource": "https://ravok.buzz/cdn/hls/451724058a8b2debb323e3919615bdff/master.m3u8?md5=M0mU16zqTRpFPCU_hiHKnw&expires=1792166967",
+                "link": "https://ravok.buzz/cdn/hls/451724058a8b2debb323e3919615bdff/master.m3u8?md5=M0mU16zqTRpFPCU_hiHKnw&expires=1792166967",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/uqgn_RwexsMXrd8VYbCM0vwxfnxEAUoGJavUzeYusIjY0PB7XvSsjD2gi61EgSlt9RrlPhIbTJDys2LO4a21pg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "Ko-xwIxPo"
+        }
+      },
+      "fetched_at": "2026-10-16T14:09:37Z"
+    },
+    {
+      "id": "episode/metallic-rouge-1x2",
+      "episode_id": "episode/metallic-rouge-1x2",
+      "title": "Metallic Rouge 1x1",
+      "episode_name": "Metallic Rouge 1x1",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1230/1/2.webp",
+      "abyssid": "12442",
+      "abyssId": "12442",
+      "playxid": "cbf4d310ea68b3933521ba359d33ed5e",
+      "playXID": "cbf4d310ea68b3933521ba359d33ed5e",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12442",
+        "playXID": "cbf4d310ea68b3933521ba359d33ed5e",
+        "streamId": "12442",
+        "dubPlayerSrc": "/dub-player/t/12442/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=cbf4d310ea68b3933521ba359d33ed5e&abyssId=12442"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12442",
+        "playXID": "cbf4d310ea68b3933521ba359d33ed5e",
+        "streamId": "12442",
+        "dubPlayerSrc": "/dub-player/t/12442/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=cbf4d310ea68b3933521ba359d33ed5e&abyssId=12442"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/cbf4d310ea68b3933521ba359d33ed5e",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/cbf4d310ea68b3933521ba359d33ed5e"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12442",
+        "abyssId": "12442",
+        "playXID": "cbf4d310ea68b3933521ba359d33ed5e",
+        "title": "Metallic Rouge",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "ZqPo2yFxr"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "rrUpTd2eg"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "aUOOfPJte"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "UggLFNP4U"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "AsJWA4gTn"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/f200094c2a93d9cf8097bcf6b2621a48/master.m3u8?md5=EkYuaY_w1hdbA8V7AW5bmg&expires=1792166967",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/f200094c2a93d9cf8097bcf6b2621a48/master.m3u8?md5=EkYuaY_w1hdbA8V7AW5bmg&expires=1792166967",
+            "videoSource": "https://ravok.buzz/cdn/hls/f200094c2a93d9cf8097bcf6b2621a48/master.m3u8?md5=EkYuaY_w1hdbA8V7AW5bmg&expires=1792166967",
+            "videoImage": "https://as-cdn30.top/p/sPY23Ni2-jSn-O4bp74AufyCNHOW1wYcxQyvBtnWPs6mGUyV59fnQm6xuulxBGxSeSEY2v8hmRFUs3F4Dnkn8A.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "cbf4d310ea68b3933521ba359d33ed5e",
+                "streamUrl": "https://ravok.buzz/cdn/hls/f200094c2a93d9cf8097bcf6b2621a48/master.m3u8?md5=EkYuaY_w1hdbA8V7AW5bmg&expires=1792166967",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/f200094c2a93d9cf8097bcf6b2621a48/master.m3u8?md5=EkYuaY_w1hdbA8V7AW5bmg&expires=1792166967",
+                "videoSource": "https://ravok.buzz/cdn/hls/f200094c2a93d9cf8097bcf6b2621a48/master.m3u8?md5=EkYuaY_w1hdbA8V7AW5bmg&expires=1792166967",
+                "link": "https://ravok.buzz/cdn/hls/f200094c2a93d9cf8097bcf6b2621a48/master.m3u8?md5=EkYuaY_w1hdbA8V7AW5bmg&expires=1792166967",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/sPY23Ni2-jSn-O4bp74AufyCNHOW1wYcxQyvBtnWPs6mGUyV59fnQm6xuulxBGxSeSEY2v8hmRFUs3F4Dnkn8A.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "ZqPo2yFxr"
+        }
+      },
+      "fetched_at": "2026-10-16T14:09:37Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T14:09:31Z",
+  "updated_at": "2026-10-16T14:09:37Z"
+}

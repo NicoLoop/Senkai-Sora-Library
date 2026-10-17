@@ -1,0 +1,1487 @@
+{
+  "id": "series/my-tiny-senpai",
+  "series_name": "My Tiny Senpai",
+  "title": "My Tiny Senpai",
+  "banner": "https://image.tmdb.org/t/p/w1280/b6EoiUpO8tx0Bzhkd8dxXEupDvj.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/7zSPXGCvXjkVCR7797UbRDPfV2B.jpg",
+  "genra": [
+    "Adult Cast",
+    "Comedy",
+    "Romance",
+    "Slice of Life"
+  ],
+  "genres": [
+    "Adult Cast",
+    "Comedy",
+    "Romance",
+    "Slice of Life"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Japanese",
+    "Tamil",
+    "Telugu"
+  ],
+  "synopsis": "When Shinozaki started his new job, he didn’t expect his superior to be so…cute!? He struggled to learn the ropes until Katase, his tiny and kind senpai, took him under her wing. But as they grow closer, he hopes her attention might mean something more.",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "My Tiny Senpai 1x1",
+          "id": "episode/my-tiny-senpai-1x1",
+          "image": "https://img.watchanimeworld.one/image/1234/1/1.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "My Tiny Senpai 1x2",
+          "id": "episode/my-tiny-senpai-1x2",
+          "image": "https://img.watchanimeworld.one/image/1234/1/2.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "My Tiny Senpai 1x3",
+          "id": "episode/my-tiny-senpai-1x3",
+          "image": "https://img.watchanimeworld.one/image/1234/1/3.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "My Tiny Senpai 1x4",
+          "id": "episode/my-tiny-senpai-1x4",
+          "image": "https://img.watchanimeworld.one/image/1234/1/4.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "My Tiny Senpai 1x5",
+          "id": "episode/my-tiny-senpai-1x5",
+          "image": "https://img.watchanimeworld.one/image/1234/1/5.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "My Tiny Senpai 1x6",
+          "id": "episode/my-tiny-senpai-1x6",
+          "image": "https://img.watchanimeworld.one/image/1234/1/6.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "My Tiny Senpai 1x7",
+          "id": "episode/my-tiny-senpai-1x7",
+          "image": "https://img.watchanimeworld.one/image/1234/1/7.webp",
+          "season": 1
+        },
+        {
+          "episode": 8,
+          "title": "My Tiny Senpai 1x8",
+          "id": "episode/my-tiny-senpai-1x8",
+          "image": "https://img.watchanimeworld.one/image/1234/1/8.webp",
+          "season": 1
+        },
+        {
+          "episode": 9,
+          "title": "My Tiny Senpai 1x9",
+          "id": "episode/my-tiny-senpai-1x9",
+          "image": "https://img.watchanimeworld.one/image/1234/1/9.webp",
+          "season": 1
+        },
+        {
+          "episode": 10,
+          "title": "My Tiny Senpai 1x10",
+          "id": "episode/my-tiny-senpai-1x10",
+          "image": "https://img.watchanimeworld.one/image/1234/1/10.webp",
+          "season": 1
+        },
+        {
+          "episode": 11,
+          "title": "My Tiny Senpai 1x11",
+          "id": "episode/my-tiny-senpai-1x11",
+          "image": "https://img.watchanimeworld.one/image/1234/1/11.webp",
+          "season": 1
+        },
+        {
+          "episode": 12,
+          "title": "My Tiny Senpai 1x12",
+          "id": "episode/my-tiny-senpai-1x12",
+          "image": "https://img.watchanimeworld.one/image/1234/1/12.webp",
+          "season": 1
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/my-tiny-senpai-1x3",
+      "episode_id": "episode/my-tiny-senpai-1x3",
+      "title": "My Tiny Senpai 1x1",
+      "episode_name": "My Tiny Senpai 1x1",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1234/1/3.webp",
+      "abyssid": "15204",
+      "abyssId": "15204",
+      "playxid": "6fbcc3ce3f65b647deed9b9e489b584e",
+      "playXID": "6fbcc3ce3f65b647deed9b9e489b584e",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15204",
+        "playXID": "6fbcc3ce3f65b647deed9b9e489b584e",
+        "streamId": "15204",
+        "dubPlayerSrc": "/dub-player/t/15204/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6fbcc3ce3f65b647deed9b9e489b584e&abyssId=15204"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15204",
+        "playXID": "6fbcc3ce3f65b647deed9b9e489b584e",
+        "streamId": "15204",
+        "dubPlayerSrc": "/dub-player/t/15204/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6fbcc3ce3f65b647deed9b9e489b584e&abyssId=15204"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/6fbcc3ce3f65b647deed9b9e489b584e",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/6fbcc3ce3f65b647deed9b9e489b584e"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15204",
+        "abyssId": "15204",
+        "playXID": "6fbcc3ce3f65b647deed9b9e489b584e",
+        "title": "My Tiny Senpai",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "EoldMA14O"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "4v3nD1xrb"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "ZB5HUB8ZuG"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "g7z_tzWLW"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "P010vOT6b"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/7c5a2c581c185c3b5e8650d44d0a09a3/master.m3u8?md5=0bkBuBTWPAOKRCt9YXY72A&expires=1792166957",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/7c5a2c581c185c3b5e8650d44d0a09a3/master.m3u8?md5=0bkBuBTWPAOKRCt9YXY72A&expires=1792166957",
+            "videoSource": "https://ravok.buzz/cdn/hls/7c5a2c581c185c3b5e8650d44d0a09a3/master.m3u8?md5=0bkBuBTWPAOKRCt9YXY72A&expires=1792166957",
+            "videoImage": "https://as-cdn27.top/p/I1lAwnVRaayV-mqNaIh05zQUceqQrh_2yeRSYKaqzhq_DWNBosdEscdaSuh8xC9VN_LOXPOBPf2h9NHmG1KczA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "6fbcc3ce3f65b647deed9b9e489b584e",
+                "streamUrl": "https://ravok.buzz/cdn/hls/7c5a2c581c185c3b5e8650d44d0a09a3/master.m3u8?md5=0bkBuBTWPAOKRCt9YXY72A&expires=1792166957",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/7c5a2c581c185c3b5e8650d44d0a09a3/master.m3u8?md5=0bkBuBTWPAOKRCt9YXY72A&expires=1792166957",
+                "videoSource": "https://ravok.buzz/cdn/hls/7c5a2c581c185c3b5e8650d44d0a09a3/master.m3u8?md5=0bkBuBTWPAOKRCt9YXY72A&expires=1792166957",
+                "link": "https://ravok.buzz/cdn/hls/7c5a2c581c185c3b5e8650d44d0a09a3/master.m3u8?md5=0bkBuBTWPAOKRCt9YXY72A&expires=1792166957",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/I1lAwnVRaayV-mqNaIh05zQUceqQrh_2yeRSYKaqzhq_DWNBosdEscdaSuh8xC9VN_LOXPOBPf2h9NHmG1KczA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "EoldMA14O"
+        }
+      },
+      "fetched_at": "2026-10-16T14:09:26Z"
+    },
+    {
+      "id": "episode/my-tiny-senpai-1x4",
+      "episode_id": "episode/my-tiny-senpai-1x4",
+      "title": "My Tiny Senpai 1x1",
+      "episode_name": "My Tiny Senpai 1x1",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1234/1/4.webp",
+      "abyssid": "15205",
+      "abyssId": "15205",
+      "playxid": "9b3faf8981cc8780667e9fa12c5c4b28",
+      "playXID": "9b3faf8981cc8780667e9fa12c5c4b28",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15205",
+        "playXID": "9b3faf8981cc8780667e9fa12c5c4b28",
+        "streamId": "15205",
+        "dubPlayerSrc": "/dub-player/t/15205/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9b3faf8981cc8780667e9fa12c5c4b28&abyssId=15205"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15205",
+        "playXID": "9b3faf8981cc8780667e9fa12c5c4b28",
+        "streamId": "15205",
+        "dubPlayerSrc": "/dub-player/t/15205/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9b3faf8981cc8780667e9fa12c5c4b28&abyssId=15205"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/9b3faf8981cc8780667e9fa12c5c4b28",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/9b3faf8981cc8780667e9fa12c5c4b28"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15205",
+        "abyssId": "15205",
+        "playXID": "9b3faf8981cc8780667e9fa12c5c4b28",
+        "title": "My Tiny Senpai",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "FRlTC3Dsm"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "281pJnzOs"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "FqvNriy2J"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "qvpd41ZIl"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "_L7mjFiTw"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/ecbc4b9207cb455cf40841de54915af5/master.m3u8?md5=KANAjLIIMMintTMaGKqrZQ&expires=1792166957",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/ecbc4b9207cb455cf40841de54915af5/master.m3u8?md5=KANAjLIIMMintTMaGKqrZQ&expires=1792166957",
+            "videoSource": "https://ravok.buzz/cdn/hls/ecbc4b9207cb455cf40841de54915af5/master.m3u8?md5=KANAjLIIMMintTMaGKqrZQ&expires=1792166957",
+            "videoImage": "https://as-cdn31.top/p/T4qhtY2PdqJWRcN5iZ0-1glAfLe6GLIqyjZT29hsS2tn9CkXZiTq9pQKC9_9ZEGTxwAtBjOA_skee0uOwyysNg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "9b3faf8981cc8780667e9fa12c5c4b28",
+                "streamUrl": "https://ravok.buzz/cdn/hls/ecbc4b9207cb455cf40841de54915af5/master.m3u8?md5=KANAjLIIMMintTMaGKqrZQ&expires=1792166957",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/ecbc4b9207cb455cf40841de54915af5/master.m3u8?md5=KANAjLIIMMintTMaGKqrZQ&expires=1792166957",
+                "videoSource": "https://ravok.buzz/cdn/hls/ecbc4b9207cb455cf40841de54915af5/master.m3u8?md5=KANAjLIIMMintTMaGKqrZQ&expires=1792166957",
+                "link": "https://ravok.buzz/cdn/hls/ecbc4b9207cb455cf40841de54915af5/master.m3u8?md5=KANAjLIIMMintTMaGKqrZQ&expires=1792166957",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/T4qhtY2PdqJWRcN5iZ0-1glAfLe6GLIqyjZT29hsS2tn9CkXZiTq9pQKC9_9ZEGTxwAtBjOA_skee0uOwyysNg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "FRlTC3Dsm"
+        }
+      },
+      "fetched_at": "2026-10-16T14:09:27Z"
+    },
+    {
+      "id": "episode/my-tiny-senpai-1x2",
+      "episode_id": "episode/my-tiny-senpai-1x2",
+      "title": "My Tiny Senpai 1x1",
+      "episode_name": "My Tiny Senpai 1x1",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1234/1/2.webp",
+      "abyssid": "15203",
+      "abyssId": "15203",
+      "playxid": "5fd2524092de9576f7341dc9aa5a53ae",
+      "playXID": "5fd2524092de9576f7341dc9aa5a53ae",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15203",
+        "playXID": "5fd2524092de9576f7341dc9aa5a53ae",
+        "streamId": "15203",
+        "dubPlayerSrc": "/dub-player/t/15203/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=5fd2524092de9576f7341dc9aa5a53ae&abyssId=15203"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15203",
+        "playXID": "5fd2524092de9576f7341dc9aa5a53ae",
+        "streamId": "15203",
+        "dubPlayerSrc": "/dub-player/t/15203/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=5fd2524092de9576f7341dc9aa5a53ae&abyssId=15203"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/5fd2524092de9576f7341dc9aa5a53ae",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/5fd2524092de9576f7341dc9aa5a53ae"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15203",
+        "abyssId": "15203",
+        "playXID": "5fd2524092de9576f7341dc9aa5a53ae",
+        "title": "My Tiny Senpai",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "uFzyMWgiv"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "3BLq9pZDb"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "wUqbwF1Mc"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "NPsTsTiah"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "dtoVdryxE"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/93e5d901549db53e1921dbfa148b6ed3/master.m3u8?md5=t3ACHm-55uklfk2SvnezuQ&expires=1792166957",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/93e5d901549db53e1921dbfa148b6ed3/master.m3u8?md5=t3ACHm-55uklfk2SvnezuQ&expires=1792166957",
+            "videoSource": "https://ravok.buzz/cdn/hls/93e5d901549db53e1921dbfa148b6ed3/master.m3u8?md5=t3ACHm-55uklfk2SvnezuQ&expires=1792166957",
+            "videoImage": "https://as-cdn29.top/p/aMFpRPhP5hyKxT70dokVgKnMmGbwKP3QEStRnG8wNagEoTE5bP2PIsvJSnyFkk-Ha-EhhwkSnmEsh54FRm450w.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "5fd2524092de9576f7341dc9aa5a53ae",
+                "streamUrl": "https://ravok.buzz/cdn/hls/93e5d901549db53e1921dbfa148b6ed3/master.m3u8?md5=t3ACHm-55uklfk2SvnezuQ&expires=1792166957",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/93e5d901549db53e1921dbfa148b6ed3/master.m3u8?md5=t3ACHm-55uklfk2SvnezuQ&expires=1792166957",
+                "videoSource": "https://ravok.buzz/cdn/hls/93e5d901549db53e1921dbfa148b6ed3/master.m3u8?md5=t3ACHm-55uklfk2SvnezuQ&expires=1792166957",
+                "link": "https://ravok.buzz/cdn/hls/93e5d901549db53e1921dbfa148b6ed3/master.m3u8?md5=t3ACHm-55uklfk2SvnezuQ&expires=1792166957",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/aMFpRPhP5hyKxT70dokVgKnMmGbwKP3QEStRnG8wNagEoTE5bP2PIsvJSnyFkk-Ha-EhhwkSnmEsh54FRm450w.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "uFzyMWgiv"
+        }
+      },
+      "fetched_at": "2026-10-16T14:09:27Z"
+    },
+    {
+      "id": "episode/my-tiny-senpai-1x1",
+      "episode_id": "episode/my-tiny-senpai-1x1",
+      "title": "My Tiny Senpai 1x1",
+      "episode_name": "My Tiny Senpai 1x1",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1234/1/1.webp",
+      "abyssid": "15202",
+      "abyssId": "15202",
+      "playxid": "ae385516bf05975c06778418ba30dc0a",
+      "playXID": "ae385516bf05975c06778418ba30dc0a",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15202",
+        "playXID": "ae385516bf05975c06778418ba30dc0a",
+        "streamId": "15202",
+        "dubPlayerSrc": "/dub-player/t/15202/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ae385516bf05975c06778418ba30dc0a&abyssId=15202"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15202",
+        "playXID": "ae385516bf05975c06778418ba30dc0a",
+        "streamId": "15202",
+        "dubPlayerSrc": "/dub-player/t/15202/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ae385516bf05975c06778418ba30dc0a&abyssId=15202"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/ae385516bf05975c06778418ba30dc0a",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/ae385516bf05975c06778418ba30dc0a"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15202",
+        "abyssId": "15202",
+        "playXID": "ae385516bf05975c06778418ba30dc0a",
+        "title": "My Tiny Senpai",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "tRaWGMG7N"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "d0coeLn-F"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "upJMcUz-0"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "c0paxy1vD"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "grx1gjFTk"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/cc710463f6badbc16077eee18c769a0c/master.m3u8?md5=ypAqSCme8w9xdMFvYRStpQ&expires=1792166957",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/cc710463f6badbc16077eee18c769a0c/master.m3u8?md5=ypAqSCme8w9xdMFvYRStpQ&expires=1792166957",
+            "videoSource": "https://ravok.buzz/cdn/hls/cc710463f6badbc16077eee18c769a0c/master.m3u8?md5=ypAqSCme8w9xdMFvYRStpQ&expires=1792166957",
+            "videoImage": "https://as-cdn29.top/p/mIqeIxz3zJC_WAGWD8dCbOQ5YKgyZAcWuJOaaRX5V4jLZ-RrxrMjy3nE9PS8u3RtDpKFomnKgwES3ZBJdgJqkw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "ae385516bf05975c06778418ba30dc0a",
+                "streamUrl": "https://ravok.buzz/cdn/hls/cc710463f6badbc16077eee18c769a0c/master.m3u8?md5=ypAqSCme8w9xdMFvYRStpQ&expires=1792166957",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/cc710463f6badbc16077eee18c769a0c/master.m3u8?md5=ypAqSCme8w9xdMFvYRStpQ&expires=1792166957",
+                "videoSource": "https://ravok.buzz/cdn/hls/cc710463f6badbc16077eee18c769a0c/master.m3u8?md5=ypAqSCme8w9xdMFvYRStpQ&expires=1792166957",
+                "link": "https://ravok.buzz/cdn/hls/cc710463f6badbc16077eee18c769a0c/master.m3u8?md5=ypAqSCme8w9xdMFvYRStpQ&expires=1792166957",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/mIqeIxz3zJC_WAGWD8dCbOQ5YKgyZAcWuJOaaRX5V4jLZ-RrxrMjy3nE9PS8u3RtDpKFomnKgwES3ZBJdgJqkw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "tRaWGMG7N"
+        }
+      },
+      "fetched_at": "2026-10-16T14:09:27Z"
+    },
+    {
+      "id": "episode/my-tiny-senpai-1x5",
+      "episode_id": "episode/my-tiny-senpai-1x5",
+      "title": "My Tiny Senpai 1x1",
+      "episode_name": "My Tiny Senpai 1x1",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1234/1/5.webp",
+      "abyssid": "15206",
+      "abyssId": "15206",
+      "playxid": "0c95e4a579307c6cf93f139e12d62022",
+      "playXID": "0c95e4a579307c6cf93f139e12d62022",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15206",
+        "playXID": "0c95e4a579307c6cf93f139e12d62022",
+        "streamId": "15206",
+        "dubPlayerSrc": "/dub-player/t/15206/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=0c95e4a579307c6cf93f139e12d62022&abyssId=15206"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15206",
+        "playXID": "0c95e4a579307c6cf93f139e12d62022",
+        "streamId": "15206",
+        "dubPlayerSrc": "/dub-player/t/15206/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=0c95e4a579307c6cf93f139e12d62022&abyssId=15206"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/0c95e4a579307c6cf93f139e12d62022",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/0c95e4a579307c6cf93f139e12d62022"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15206",
+        "abyssId": "15206",
+        "playXID": "0c95e4a579307c6cf93f139e12d62022",
+        "title": "My Tiny Senpai",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "2TsfaP7Nz"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "UL475zdtD"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "K02tWrgQcu"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "G3XngLiy1"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "mFAQ4hPJJ"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/4953116134998d2dcf6b7390767fe796/master.m3u8?md5=bH6hfGh4tSLYou2l4KG2SA&expires=1792166957",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/4953116134998d2dcf6b7390767fe796/master.m3u8?md5=bH6hfGh4tSLYou2l4KG2SA&expires=1792166957",
+            "videoSource": "https://ravok.buzz/cdn/hls/4953116134998d2dcf6b7390767fe796/master.m3u8?md5=bH6hfGh4tSLYou2l4KG2SA&expires=1792166957",
+            "videoImage": "https://as-cdn31.top/p/D0DzHvwU_B5302-XfHGGc8-Asu4WjiJtAJlmOur86eB31xs762j9KppA5fsQuUZCCjE1aN8DO4XRFLqI66WK9w.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "0c95e4a579307c6cf93f139e12d62022",
+                "streamUrl": "https://ravok.buzz/cdn/hls/4953116134998d2dcf6b7390767fe796/master.m3u8?md5=bH6hfGh4tSLYou2l4KG2SA&expires=1792166957",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/4953116134998d2dcf6b7390767fe796/master.m3u8?md5=bH6hfGh4tSLYou2l4KG2SA&expires=1792166957",
+                "videoSource": "https://ravok.buzz/cdn/hls/4953116134998d2dcf6b7390767fe796/master.m3u8?md5=bH6hfGh4tSLYou2l4KG2SA&expires=1792166957",
+                "link": "https://ravok.buzz/cdn/hls/4953116134998d2dcf6b7390767fe796/master.m3u8?md5=bH6hfGh4tSLYou2l4KG2SA&expires=1792166957",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/D0DzHvwU_B5302-XfHGGc8-Asu4WjiJtAJlmOur86eB31xs762j9KppA5fsQuUZCCjE1aN8DO4XRFLqI66WK9w.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "2TsfaP7Nz"
+        }
+      },
+      "fetched_at": "2026-10-16T14:09:27Z"
+    },
+    {
+      "id": "episode/my-tiny-senpai-1x6",
+      "episode_id": "episode/my-tiny-senpai-1x6",
+      "title": "My Tiny Senpai 1x1",
+      "episode_name": "My Tiny Senpai 1x1",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1234/1/6.webp",
+      "abyssid": "15207",
+      "abyssId": "15207",
+      "playxid": "cb13de2e50ac695aad8fbfe59e1ba869",
+      "playXID": "cb13de2e50ac695aad8fbfe59e1ba869",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15207",
+        "playXID": "cb13de2e50ac695aad8fbfe59e1ba869",
+        "streamId": "15207",
+        "dubPlayerSrc": "/dub-player/t/15207/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=cb13de2e50ac695aad8fbfe59e1ba869&abyssId=15207"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15207",
+        "playXID": "cb13de2e50ac695aad8fbfe59e1ba869",
+        "streamId": "15207",
+        "dubPlayerSrc": "/dub-player/t/15207/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=cb13de2e50ac695aad8fbfe59e1ba869&abyssId=15207"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/cb13de2e50ac695aad8fbfe59e1ba869",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/cb13de2e50ac695aad8fbfe59e1ba869"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15207",
+        "abyssId": "15207",
+        "playXID": "cb13de2e50ac695aad8fbfe59e1ba869",
+        "title": "My Tiny Senpai",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "i6SaAxbGl"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "Q7TLVTUDd"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "ZVcorL_WD"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "MkstY7vmq"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "q6r9bXxe4"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/ae10f8235b227b97acefd7f617bdb079/master.m3u8?md5=D68YGBK7TqZ2nFKUQjg61w&expires=1792166958",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/ae10f8235b227b97acefd7f617bdb079/master.m3u8?md5=D68YGBK7TqZ2nFKUQjg61w&expires=1792166958",
+            "videoSource": "https://ravok.buzz/cdn/hls/ae10f8235b227b97acefd7f617bdb079/master.m3u8?md5=D68YGBK7TqZ2nFKUQjg61w&expires=1792166958",
+            "videoImage": "https://as-cdn29.top/p/KMEf-7LyMPHN0rP93H2W909F7NyRsAyk788ABpicHICoJ2UUm6Jvx0EdqFGM1pMXX5ZjZoQk_eBoIty08sO_lQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "cb13de2e50ac695aad8fbfe59e1ba869",
+                "streamUrl": "https://ravok.buzz/cdn/hls/ae10f8235b227b97acefd7f617bdb079/master.m3u8?md5=D68YGBK7TqZ2nFKUQjg61w&expires=1792166958",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/ae10f8235b227b97acefd7f617bdb079/master.m3u8?md5=D68YGBK7TqZ2nFKUQjg61w&expires=1792166958",
+                "videoSource": "https://ravok.buzz/cdn/hls/ae10f8235b227b97acefd7f617bdb079/master.m3u8?md5=D68YGBK7TqZ2nFKUQjg61w&expires=1792166958",
+                "link": "https://ravok.buzz/cdn/hls/ae10f8235b227b97acefd7f617bdb079/master.m3u8?md5=D68YGBK7TqZ2nFKUQjg61w&expires=1792166958",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/KMEf-7LyMPHN0rP93H2W909F7NyRsAyk788ABpicHICoJ2UUm6Jvx0EdqFGM1pMXX5ZjZoQk_eBoIty08sO_lQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "i6SaAxbGl"
+        }
+      },
+      "fetched_at": "2026-10-16T14:09:28Z"
+    },
+    {
+      "id": "episode/my-tiny-senpai-1x7",
+      "episode_id": "episode/my-tiny-senpai-1x7",
+      "title": "My Tiny Senpai 1x1",
+      "episode_name": "My Tiny Senpai 1x1",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1234/1/7.webp",
+      "abyssid": "15208",
+      "abyssId": "15208",
+      "playxid": "e6d71413617dfba7a5ff5b9a7180c007",
+      "playXID": "e6d71413617dfba7a5ff5b9a7180c007",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15208",
+        "playXID": "e6d71413617dfba7a5ff5b9a7180c007",
+        "streamId": "15208",
+        "dubPlayerSrc": "/dub-player/t/15208/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e6d71413617dfba7a5ff5b9a7180c007&abyssId=15208"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15208",
+        "playXID": "e6d71413617dfba7a5ff5b9a7180c007",
+        "streamId": "15208",
+        "dubPlayerSrc": "/dub-player/t/15208/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e6d71413617dfba7a5ff5b9a7180c007&abyssId=15208"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/e6d71413617dfba7a5ff5b9a7180c007",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/e6d71413617dfba7a5ff5b9a7180c007"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15208",
+        "abyssId": "15208",
+        "playXID": "e6d71413617dfba7a5ff5b9a7180c007",
+        "title": "My Tiny Senpai",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "Ymgwu9k2A"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "OApCA9ti8"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "kvbsQO_Sb"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "xk9n3iWJy"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "KXKrfyaj7"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/0b67a2a2529907a099b7986b6c51f67b/master.m3u8?md5=9j2wbbGwr-jenTBuagSZKA&expires=1792166959",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/0b67a2a2529907a099b7986b6c51f67b/master.m3u8?md5=9j2wbbGwr-jenTBuagSZKA&expires=1792166959",
+            "videoSource": "https://ravok.buzz/cdn/hls/0b67a2a2529907a099b7986b6c51f67b/master.m3u8?md5=9j2wbbGwr-jenTBuagSZKA&expires=1792166959",
+            "videoImage": "https://as-cdn30.top/p/eTCr0dk4HY1ccXobf070rgWgsokQuYGA6aWzYReh1ZtAo5GYU24pvokDNKq5sxLeQk3Z1rrB-vJBg4QtSTYHaQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "e6d71413617dfba7a5ff5b9a7180c007",
+                "streamUrl": "https://ravok.buzz/cdn/hls/0b67a2a2529907a099b7986b6c51f67b/master.m3u8?md5=9j2wbbGwr-jenTBuagSZKA&expires=1792166959",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/0b67a2a2529907a099b7986b6c51f67b/master.m3u8?md5=9j2wbbGwr-jenTBuagSZKA&expires=1792166959",
+                "videoSource": "https://ravok.buzz/cdn/hls/0b67a2a2529907a099b7986b6c51f67b/master.m3u8?md5=9j2wbbGwr-jenTBuagSZKA&expires=1792166959",
+                "link": "https://ravok.buzz/cdn/hls/0b67a2a2529907a099b7986b6c51f67b/master.m3u8?md5=9j2wbbGwr-jenTBuagSZKA&expires=1792166959",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/eTCr0dk4HY1ccXobf070rgWgsokQuYGA6aWzYReh1ZtAo5GYU24pvokDNKq5sxLeQk3Z1rrB-vJBg4QtSTYHaQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "Ymgwu9k2A"
+        }
+      },
+      "fetched_at": "2026-10-16T14:09:29Z"
+    },
+    {
+      "id": "episode/my-tiny-senpai-1x9",
+      "episode_id": "episode/my-tiny-senpai-1x9",
+      "title": "My Tiny Senpai 1x1",
+      "episode_name": "My Tiny Senpai 1x1",
+      "episode_number": 9,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1234/1/9.webp",
+      "abyssid": "15210",
+      "abyssId": "15210",
+      "playxid": "1f539471127c904e22309f6fa599e98f",
+      "playXID": "1f539471127c904e22309f6fa599e98f",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15210",
+        "playXID": "1f539471127c904e22309f6fa599e98f",
+        "streamId": "15210",
+        "dubPlayerSrc": "/dub-player/t/15210/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=1f539471127c904e22309f6fa599e98f&abyssId=15210"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15210",
+        "playXID": "1f539471127c904e22309f6fa599e98f",
+        "streamId": "15210",
+        "dubPlayerSrc": "/dub-player/t/15210/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=1f539471127c904e22309f6fa599e98f&abyssId=15210"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/1f539471127c904e22309f6fa599e98f",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/1f539471127c904e22309f6fa599e98f"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15210",
+        "abyssId": "15210",
+        "playXID": "1f539471127c904e22309f6fa599e98f",
+        "title": "My Tiny Senpai",
+        "season": 1,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "k904p76h_"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "RuT5dvWCW"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "-fPRsNexH"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "KeOTngBxI"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "9mjT1JU5W"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/a1d27c94a08ec2ec314eab88973d648e/master.m3u8?md5=35h96OaDaXBU3OWCz0TjOA&expires=1792166959",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/a1d27c94a08ec2ec314eab88973d648e/master.m3u8?md5=35h96OaDaXBU3OWCz0TjOA&expires=1792166959",
+            "videoSource": "https://ravok.buzz/cdn/hls/a1d27c94a08ec2ec314eab88973d648e/master.m3u8?md5=35h96OaDaXBU3OWCz0TjOA&expires=1792166959",
+            "videoImage": "https://as-cdn27.top/p/vFosyym7Pz9FVmICn-UCDyKNwawi0mKuKC2yA82nV7GOWfX3ICMEh3WrnJhFq9Od_JnEl160rtOpM0QlqZHibw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "1f539471127c904e22309f6fa599e98f",
+                "streamUrl": "https://ravok.buzz/cdn/hls/a1d27c94a08ec2ec314eab88973d648e/master.m3u8?md5=35h96OaDaXBU3OWCz0TjOA&expires=1792166959",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/a1d27c94a08ec2ec314eab88973d648e/master.m3u8?md5=35h96OaDaXBU3OWCz0TjOA&expires=1792166959",
+                "videoSource": "https://ravok.buzz/cdn/hls/a1d27c94a08ec2ec314eab88973d648e/master.m3u8?md5=35h96OaDaXBU3OWCz0TjOA&expires=1792166959",
+                "link": "https://ravok.buzz/cdn/hls/a1d27c94a08ec2ec314eab88973d648e/master.m3u8?md5=35h96OaDaXBU3OWCz0TjOA&expires=1792166959",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/vFosyym7Pz9FVmICn-UCDyKNwawi0mKuKC2yA82nV7GOWfX3ICMEh3WrnJhFq9Od_JnEl160rtOpM0QlqZHibw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "k904p76h_"
+        }
+      },
+      "fetched_at": "2026-10-16T14:09:29Z"
+    },
+    {
+      "id": "episode/my-tiny-senpai-1x8",
+      "episode_id": "episode/my-tiny-senpai-1x8",
+      "title": "My Tiny Senpai 1x1",
+      "episode_name": "My Tiny Senpai 1x1",
+      "episode_number": 8,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1234/1/8.webp",
+      "abyssid": "15209",
+      "abyssId": "15209",
+      "playxid": "496cd8b01b0600a185e6156487bf96ed",
+      "playXID": "496cd8b01b0600a185e6156487bf96ed",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15209",
+        "playXID": "496cd8b01b0600a185e6156487bf96ed",
+        "streamId": "15209",
+        "dubPlayerSrc": "/dub-player/t/15209/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=496cd8b01b0600a185e6156487bf96ed&abyssId=15209"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15209",
+        "playXID": "496cd8b01b0600a185e6156487bf96ed",
+        "streamId": "15209",
+        "dubPlayerSrc": "/dub-player/t/15209/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=496cd8b01b0600a185e6156487bf96ed&abyssId=15209"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/496cd8b01b0600a185e6156487bf96ed",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/496cd8b01b0600a185e6156487bf96ed"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15209",
+        "abyssId": "15209",
+        "playXID": "496cd8b01b0600a185e6156487bf96ed",
+        "title": "My Tiny Senpai",
+        "season": 1,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "rYaAE0IFy"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "uCk6AJC3Z"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "aLTVletKr"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "2x52QzRGm"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "AsnvIyZ49"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/ff669c56ef6bf7918b2f1b5b005322bd/master.m3u8?md5=p737lh10ssoAwPKdSxom6w&expires=1792166959",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/ff669c56ef6bf7918b2f1b5b005322bd/master.m3u8?md5=p737lh10ssoAwPKdSxom6w&expires=1792166959",
+            "videoSource": "https://ravok.buzz/cdn/hls/ff669c56ef6bf7918b2f1b5b005322bd/master.m3u8?md5=p737lh10ssoAwPKdSxom6w&expires=1792166959",
+            "videoImage": "https://as-cdn27.top/p/Vop_7gGrNUjrlNNjkAT8ER_7oI7Ex0KccFinY_WPisBS0MZu-PkN8olfvNBLtWMyGTQqgVHd6fFgJjwnFu5tpg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "496cd8b01b0600a185e6156487bf96ed",
+                "streamUrl": "https://ravok.buzz/cdn/hls/ff669c56ef6bf7918b2f1b5b005322bd/master.m3u8?md5=p737lh10ssoAwPKdSxom6w&expires=1792166959",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/ff669c56ef6bf7918b2f1b5b005322bd/master.m3u8?md5=p737lh10ssoAwPKdSxom6w&expires=1792166959",
+                "videoSource": "https://ravok.buzz/cdn/hls/ff669c56ef6bf7918b2f1b5b005322bd/master.m3u8?md5=p737lh10ssoAwPKdSxom6w&expires=1792166959",
+                "link": "https://ravok.buzz/cdn/hls/ff669c56ef6bf7918b2f1b5b005322bd/master.m3u8?md5=p737lh10ssoAwPKdSxom6w&expires=1792166959",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/Vop_7gGrNUjrlNNjkAT8ER_7oI7Ex0KccFinY_WPisBS0MZu-PkN8olfvNBLtWMyGTQqgVHd6fFgJjwnFu5tpg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "rYaAE0IFy"
+        }
+      },
+      "fetched_at": "2026-10-16T14:09:29Z"
+    },
+    {
+      "id": "episode/my-tiny-senpai-1x10",
+      "episode_id": "episode/my-tiny-senpai-1x10",
+      "title": "My Tiny Senpai 1x1",
+      "episode_name": "My Tiny Senpai 1x1",
+      "episode_number": 10,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1234/1/10.webp",
+      "abyssid": "12476",
+      "abyssId": "12476",
+      "playxid": "7fd4db88d31ab524e0afe153c4f9465a",
+      "playXID": "7fd4db88d31ab524e0afe153c4f9465a",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12476",
+        "playXID": "7fd4db88d31ab524e0afe153c4f9465a",
+        "streamId": "12476",
+        "dubPlayerSrc": "/dub-player/t/12476/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=7fd4db88d31ab524e0afe153c4f9465a&abyssId=12476"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12476",
+        "playXID": "7fd4db88d31ab524e0afe153c4f9465a",
+        "streamId": "12476",
+        "dubPlayerSrc": "/dub-player/t/12476/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=7fd4db88d31ab524e0afe153c4f9465a&abyssId=12476"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/7fd4db88d31ab524e0afe153c4f9465a",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/7fd4db88d31ab524e0afe153c4f9465a"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12476",
+        "abyssId": "12476",
+        "playXID": "7fd4db88d31ab524e0afe153c4f9465a",
+        "title": "My Tiny Senpai",
+        "season": 1,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "PGX-2AnG4"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "craeqdtax"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "k_ADLfD8LT"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/e154722ee0541ac9d2a4f8c2ab864998/master.m3u8?md5=ZJ9uBTjOwDoQrNm2sKVA_g&expires=1792166959",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/e154722ee0541ac9d2a4f8c2ab864998/master.m3u8?md5=ZJ9uBTjOwDoQrNm2sKVA_g&expires=1792166959",
+            "videoSource": "https://ravok.buzz/cdn/hls/e154722ee0541ac9d2a4f8c2ab864998/master.m3u8?md5=ZJ9uBTjOwDoQrNm2sKVA_g&expires=1792166959",
+            "videoImage": "https://as-cdn31.top/p/WB_aDwZd38_BFtxI3BlHxAM-4DUy5Ahiqe2cJLYM3AJQAYBgscB8oHHnMRQqEqePaaAO1U3N1xfz59HFjIH8VA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "7fd4db88d31ab524e0afe153c4f9465a",
+                "streamUrl": "https://ravok.buzz/cdn/hls/e154722ee0541ac9d2a4f8c2ab864998/master.m3u8?md5=ZJ9uBTjOwDoQrNm2sKVA_g&expires=1792166959",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/e154722ee0541ac9d2a4f8c2ab864998/master.m3u8?md5=ZJ9uBTjOwDoQrNm2sKVA_g&expires=1792166959",
+                "videoSource": "https://ravok.buzz/cdn/hls/e154722ee0541ac9d2a4f8c2ab864998/master.m3u8?md5=ZJ9uBTjOwDoQrNm2sKVA_g&expires=1792166959",
+                "link": "https://ravok.buzz/cdn/hls/e154722ee0541ac9d2a4f8c2ab864998/master.m3u8?md5=ZJ9uBTjOwDoQrNm2sKVA_g&expires=1792166959",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/WB_aDwZd38_BFtxI3BlHxAM-4DUy5Ahiqe2cJLYM3AJQAYBgscB8oHHnMRQqEqePaaAO1U3N1xfz59HFjIH8VA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "PGX-2AnG4"
+        }
+      },
+      "fetched_at": "2026-10-16T14:09:29Z"
+    },
+    {
+      "id": "episode/my-tiny-senpai-1x11",
+      "episode_id": "episode/my-tiny-senpai-1x11",
+      "title": "My Tiny Senpai 1x1",
+      "episode_name": "My Tiny Senpai 1x1",
+      "episode_number": 11,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1234/1/11.webp",
+      "abyssid": "15211",
+      "abyssId": "15211",
+      "playxid": "7104a226fe65be03fecf10f5bceff8a6",
+      "playXID": "7104a226fe65be03fecf10f5bceff8a6",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15211",
+        "playXID": "7104a226fe65be03fecf10f5bceff8a6",
+        "streamId": "15211",
+        "dubPlayerSrc": "/dub-player/t/15211/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=7104a226fe65be03fecf10f5bceff8a6&abyssId=15211"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15211",
+        "playXID": "7104a226fe65be03fecf10f5bceff8a6",
+        "streamId": "15211",
+        "dubPlayerSrc": "/dub-player/t/15211/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=7104a226fe65be03fecf10f5bceff8a6&abyssId=15211"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/7104a226fe65be03fecf10f5bceff8a6",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/7104a226fe65be03fecf10f5bceff8a6"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15211",
+        "abyssId": "15211",
+        "playXID": "7104a226fe65be03fecf10f5bceff8a6",
+        "title": "My Tiny Senpai",
+        "season": 1,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "BxSAH9tzs"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "Piq-wGUGx"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "DPA8T8VI9"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "1SLyyPlpa"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "ZqZKnn-hh"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/0adc1806f048443e1946542ab43eef75/master.m3u8?md5=s23L7vhlhwj8FE0flBnu4g&expires=1792166960",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/0adc1806f048443e1946542ab43eef75/master.m3u8?md5=s23L7vhlhwj8FE0flBnu4g&expires=1792166960",
+            "videoSource": "https://ravok.buzz/cdn/hls/0adc1806f048443e1946542ab43eef75/master.m3u8?md5=s23L7vhlhwj8FE0flBnu4g&expires=1792166960",
+            "videoImage": "https://as-cdn31.top/p/3ISvlSIj8ljrxOU1M-MC3_iN6vveL2HPNTDp1PnDda_oxdII0Wh2p4_3uEKNeqZKpO9eTEn8NIfNdKB_VBvi3Q.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "7104a226fe65be03fecf10f5bceff8a6",
+                "streamUrl": "https://ravok.buzz/cdn/hls/0adc1806f048443e1946542ab43eef75/master.m3u8?md5=s23L7vhlhwj8FE0flBnu4g&expires=1792166960",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/0adc1806f048443e1946542ab43eef75/master.m3u8?md5=s23L7vhlhwj8FE0flBnu4g&expires=1792166960",
+                "videoSource": "https://ravok.buzz/cdn/hls/0adc1806f048443e1946542ab43eef75/master.m3u8?md5=s23L7vhlhwj8FE0flBnu4g&expires=1792166960",
+                "link": "https://ravok.buzz/cdn/hls/0adc1806f048443e1946542ab43eef75/master.m3u8?md5=s23L7vhlhwj8FE0flBnu4g&expires=1792166960",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/3ISvlSIj8ljrxOU1M-MC3_iN6vveL2HPNTDp1PnDda_oxdII0Wh2p4_3uEKNeqZKpO9eTEn8NIfNdKB_VBvi3Q.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "BxSAH9tzs"
+        }
+      },
+      "fetched_at": "2026-10-16T14:09:30Z"
+    },
+    {
+      "id": "episode/my-tiny-senpai-1x12",
+      "episode_id": "episode/my-tiny-senpai-1x12",
+      "title": "My Tiny Senpai 1x1",
+      "episode_name": "My Tiny Senpai 1x1",
+      "episode_number": 12,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1234/1/12.webp",
+      "abyssid": "15212",
+      "abyssId": "15212",
+      "playxid": "78f41579c50b633ec3c475380260fb61",
+      "playXID": "78f41579c50b633ec3c475380260fb61",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15212",
+        "playXID": "78f41579c50b633ec3c475380260fb61",
+        "streamId": "15212",
+        "dubPlayerSrc": "/dub-player/t/15212/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=78f41579c50b633ec3c475380260fb61&abyssId=15212"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15212",
+        "playXID": "78f41579c50b633ec3c475380260fb61",
+        "streamId": "15212",
+        "dubPlayerSrc": "/dub-player/t/15212/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=78f41579c50b633ec3c475380260fb61&abyssId=15212"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/78f41579c50b633ec3c475380260fb61",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/78f41579c50b633ec3c475380260fb61"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15212",
+        "abyssId": "15212",
+        "playXID": "78f41579c50b633ec3c475380260fb61",
+        "title": "My Tiny Senpai",
+        "season": 1,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "vvLzKsEr7"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "0qJhgAb4I"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "rv-hhU9Di"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "k2ZF_1pv1"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "OjkMxbkkx"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/91cd08941fbc94274172709d0bf9d690/master.m3u8?md5=5H-XZYRq6yJvwb4Zqj3bhQ&expires=1792166961",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/91cd08941fbc94274172709d0bf9d690/master.m3u8?md5=5H-XZYRq6yJvwb4Zqj3bhQ&expires=1792166961",
+            "videoSource": "https://ravok.buzz/cdn/hls/91cd08941fbc94274172709d0bf9d690/master.m3u8?md5=5H-XZYRq6yJvwb4Zqj3bhQ&expires=1792166961",
+            "videoImage": "https://as-cdn30.top/p/kjPW9HsZp47u-MYe1scdro_rB_IIARy8S_7pGLUtmS0B88kNBEFne1JZElIqDqOu80l290ui0uqGiUL6mFEjvw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "78f41579c50b633ec3c475380260fb61",
+                "streamUrl": "https://ravok.buzz/cdn/hls/91cd08941fbc94274172709d0bf9d690/master.m3u8?md5=5H-XZYRq6yJvwb4Zqj3bhQ&expires=1792166961",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/91cd08941fbc94274172709d0bf9d690/master.m3u8?md5=5H-XZYRq6yJvwb4Zqj3bhQ&expires=1792166961",
+                "videoSource": "https://ravok.buzz/cdn/hls/91cd08941fbc94274172709d0bf9d690/master.m3u8?md5=5H-XZYRq6yJvwb4Zqj3bhQ&expires=1792166961",
+                "link": "https://ravok.buzz/cdn/hls/91cd08941fbc94274172709d0bf9d690/master.m3u8?md5=5H-XZYRq6yJvwb4Zqj3bhQ&expires=1792166961",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/kjPW9HsZp47u-MYe1scdro_rB_IIARy8S_7pGLUtmS0B88kNBEFne1JZElIqDqOu80l290ui0uqGiUL6mFEjvw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "vvLzKsEr7"
+        }
+      },
+      "fetched_at": "2026-10-16T14:09:31Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T14:09:24Z",
+  "updated_at": "2026-10-16T14:09:31Z"
+}

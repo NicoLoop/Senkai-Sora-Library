@@ -1,0 +1,1370 @@
+{
+  "id": "series/lets-play",
+  "series_name": "Let's Play",
+  "title": "Let's Play",
+  "banner": "https://image.tmdb.org/t/p/w1280/kARAcjWmKnb9mnDPRTU9zxs5Ad2.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/aLzTaEle2w6W4rKKbIrF6WYWw9w.jpg",
+  "genra": [
+    "Comedy",
+    "Romance",
+    "Slice of Life"
+  ],
+  "genres": [
+    "Comedy",
+    "Romance",
+    "Slice of Life"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Japanese",
+    "Tamil",
+    "Telugu"
+  ],
+  "synopsis": "Samara “Sam” Young is a developer in Los Angeles who’s about to achieve her dreams with her first video game, Ruminate. That is, until a popular streamer gives the game a scathing review. Even worse, Sam finds out the troublesome critic is now her new neighbor! Get lost in a comedic, romantic, and all-too-real story about gaming, memes, and social anxiety. Come for the plot, stay for the doggo.",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 11,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 11,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Let's Play 1x1",
+          "id": "episode/lets-play-1x1",
+          "image": "https://img.watchanimeworld.one/img/thumb_2152_s1e1.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "Let's Play 1x2",
+          "id": "episode/lets-play-1x2",
+          "image": "https://img.watchanimeworld.one/img/thumb_2152_s1e2.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "Let's Play 1x3",
+          "id": "episode/lets-play-1x3",
+          "image": "https://img.watchanimeworld.one/img/thumb_2152_s1e3.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "Let's Play 1x4",
+          "id": "episode/lets-play-1x4",
+          "image": "https://img.watchanimeworld.one/img/thumb_2152_s1e4.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "Let's Play 1x5",
+          "id": "episode/lets-play-1x5",
+          "image": "https://img.watchanimeworld.one/img/thumb_2152_s1e5.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "Let's Play 1x6",
+          "id": "episode/lets-play-1x6",
+          "image": "https://img.watchanimeworld.one/img/thumb_2152_s1e6.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "Let's Play 1x7",
+          "id": "episode/lets-play-1x7",
+          "image": "https://img.watchanimeworld.one/img/thumb_2152_s1e7.webp",
+          "season": 1
+        },
+        {
+          "episode": 8,
+          "title": "Let's Play 1x8",
+          "id": "episode/lets-play-1x8",
+          "image": "https://img.watchanimeworld.one/img/thumb_2152_s1e8.webp",
+          "season": 1
+        },
+        {
+          "episode": 9,
+          "title": "Let's Play 1x9",
+          "id": "episode/lets-play-1x9",
+          "image": "https://img.watchanimeworld.one/img/thumb_2152_s1e9.webp",
+          "season": 1
+        },
+        {
+          "episode": 10,
+          "title": "Let's Play 1x10",
+          "id": "episode/lets-play-1x10",
+          "image": "https://img.watchanimeworld.one/img/thumb_2152_s1e10.webp",
+          "season": 1
+        },
+        {
+          "episode": 11,
+          "title": "Let's Play 1x11",
+          "id": "episode/lets-play-1x11",
+          "image": "https://img.watchanimeworld.one/img/thumb_2152_s1e11.webp",
+          "season": 1
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/lets-play-1x2",
+      "episode_id": "episode/lets-play-1x2",
+      "title": "Let's Play 1x1",
+      "episode_name": "Let's Play 1x1",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2152_s1e2.webp",
+      "abyssid": "17283",
+      "abyssId": "17283",
+      "playxid": "6076870474b1ea11f0fbdbaffe86d3fc",
+      "playXID": "6076870474b1ea11f0fbdbaffe86d3fc",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17283",
+        "playXID": "6076870474b1ea11f0fbdbaffe86d3fc",
+        "streamId": "17283",
+        "dubPlayerSrc": "/dub-player/t/17283/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6076870474b1ea11f0fbdbaffe86d3fc&abyssId=17283"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17283",
+        "playXID": "6076870474b1ea11f0fbdbaffe86d3fc",
+        "streamId": "17283",
+        "dubPlayerSrc": "/dub-player/t/17283/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6076870474b1ea11f0fbdbaffe86d3fc&abyssId=17283"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/6076870474b1ea11f0fbdbaffe86d3fc",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/6076870474b1ea11f0fbdbaffe86d3fc"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17283",
+        "abyssId": "17283",
+        "playXID": "6076870474b1ea11f0fbdbaffe86d3fc",
+        "title": "Let's Play",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "tNzyaN4EE"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "kpgcPQrtt"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "Iz1h8MUcu"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "0XuQldE1t"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "x0FACb8hA"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/d76562b078f9c0522e0ad72828237eef/master.m3u8?md5=7htfXfYGU290AnKnVkXOcA&expires=1792166123",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/d76562b078f9c0522e0ad72828237eef/master.m3u8?md5=7htfXfYGU290AnKnVkXOcA&expires=1792166123",
+            "videoSource": "https://ravok.buzz/cdn/hls/d76562b078f9c0522e0ad72828237eef/master.m3u8?md5=7htfXfYGU290AnKnVkXOcA&expires=1792166123",
+            "videoImage": "https://as-cdn30.top/p/0W6_2f6S0DB0Feu1ODGsrfddKPaXr9AabM0vJnqiuof0QOrZ8TYAlWNQh_5XtXgT-jJJPtVy4OwiP4THvMm6NA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "6076870474b1ea11f0fbdbaffe86d3fc",
+                "streamUrl": "https://ravok.buzz/cdn/hls/d76562b078f9c0522e0ad72828237eef/master.m3u8?md5=7htfXfYGU290AnKnVkXOcA&expires=1792166123",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/d76562b078f9c0522e0ad72828237eef/master.m3u8?md5=7htfXfYGU290AnKnVkXOcA&expires=1792166123",
+                "videoSource": "https://ravok.buzz/cdn/hls/d76562b078f9c0522e0ad72828237eef/master.m3u8?md5=7htfXfYGU290AnKnVkXOcA&expires=1792166123",
+                "link": "https://ravok.buzz/cdn/hls/d76562b078f9c0522e0ad72828237eef/master.m3u8?md5=7htfXfYGU290AnKnVkXOcA&expires=1792166123",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/0W6_2f6S0DB0Feu1ODGsrfddKPaXr9AabM0vJnqiuof0QOrZ8TYAlWNQh_5XtXgT-jJJPtVy4OwiP4THvMm6NA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "tNzyaN4EE"
+        }
+      },
+      "fetched_at": "2026-10-16T13:55:33Z"
+    },
+    {
+      "id": "episode/lets-play-1x1",
+      "episode_id": "episode/lets-play-1x1",
+      "title": "Let's Play 1x1",
+      "episode_name": "Let's Play 1x1",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2152_s1e1.webp",
+      "abyssid": "17165",
+      "abyssId": "17165",
+      "playxid": "7f8a689b0c8adf6213e67688ce750090",
+      "playXID": "7f8a689b0c8adf6213e67688ce750090",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17165",
+        "playXID": "7f8a689b0c8adf6213e67688ce750090",
+        "streamId": "17165",
+        "dubPlayerSrc": "/dub-player/t/17165/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=7f8a689b0c8adf6213e67688ce750090&abyssId=17165"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17165",
+        "playXID": "7f8a689b0c8adf6213e67688ce750090",
+        "streamId": "17165",
+        "dubPlayerSrc": "/dub-player/t/17165/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=7f8a689b0c8adf6213e67688ce750090&abyssId=17165"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/7f8a689b0c8adf6213e67688ce750090",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/7f8a689b0c8adf6213e67688ce750090"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17165",
+        "abyssId": "17165",
+        "playXID": "7f8a689b0c8adf6213e67688ce750090",
+        "title": "Let's Play",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "lYiYlEDp1"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "Ix0qkeGaD"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "zuNFYA_K1"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "qxUXYGW2j"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "w7wurqSq-"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/c6a40ac74975806774f630b354a596a4/master.m3u8?md5=SsRHEswtomL2gC1Acrg9qg&expires=1792166123",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/c6a40ac74975806774f630b354a596a4/master.m3u8?md5=SsRHEswtomL2gC1Acrg9qg&expires=1792166123",
+            "videoSource": "https://ravok.buzz/cdn/hls/c6a40ac74975806774f630b354a596a4/master.m3u8?md5=SsRHEswtomL2gC1Acrg9qg&expires=1792166123",
+            "videoImage": "https://as-cdn29.top/p/2ZhTMdGQe7WIWToNCfkLFYrcyTThDaf5MqLA8Mxr06kWbFZaZFDdiZQC3Fkdn3M6v02cOSNvVyo23qWwFkR1zA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "7f8a689b0c8adf6213e67688ce750090",
+                "streamUrl": "https://ravok.buzz/cdn/hls/c6a40ac74975806774f630b354a596a4/master.m3u8?md5=SsRHEswtomL2gC1Acrg9qg&expires=1792166123",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/c6a40ac74975806774f630b354a596a4/master.m3u8?md5=SsRHEswtomL2gC1Acrg9qg&expires=1792166123",
+                "videoSource": "https://ravok.buzz/cdn/hls/c6a40ac74975806774f630b354a596a4/master.m3u8?md5=SsRHEswtomL2gC1Acrg9qg&expires=1792166123",
+                "link": "https://ravok.buzz/cdn/hls/c6a40ac74975806774f630b354a596a4/master.m3u8?md5=SsRHEswtomL2gC1Acrg9qg&expires=1792166123",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/2ZhTMdGQe7WIWToNCfkLFYrcyTThDaf5MqLA8Mxr06kWbFZaZFDdiZQC3Fkdn3M6v02cOSNvVyo23qWwFkR1zA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "lYiYlEDp1"
+        }
+      },
+      "fetched_at": "2026-10-16T13:55:33Z"
+    },
+    {
+      "id": "episode/lets-play-1x3",
+      "episode_id": "episode/lets-play-1x3",
+      "title": "Let's Play 1x1",
+      "episode_name": "Let's Play 1x1",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2152_s1e3.webp",
+      "abyssid": "17443",
+      "abyssId": "17443",
+      "playxid": "50b6da85112e21710d78b44f2cc8a8a3",
+      "playXID": "50b6da85112e21710d78b44f2cc8a8a3",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17443",
+        "playXID": "50b6da85112e21710d78b44f2cc8a8a3",
+        "streamId": "17443",
+        "dubPlayerSrc": "/dub-player/t/17443/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=50b6da85112e21710d78b44f2cc8a8a3&abyssId=17443"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17443",
+        "playXID": "50b6da85112e21710d78b44f2cc8a8a3",
+        "streamId": "17443",
+        "dubPlayerSrc": "/dub-player/t/17443/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=50b6da85112e21710d78b44f2cc8a8a3&abyssId=17443"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/50b6da85112e21710d78b44f2cc8a8a3",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/50b6da85112e21710d78b44f2cc8a8a3"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17443",
+        "abyssId": "17443",
+        "playXID": "50b6da85112e21710d78b44f2cc8a8a3",
+        "title": "Let's Play",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "xmK3EvOx4"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "BCULMVkfu"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "J_0j42K06"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "7PfP6CbeX"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "52EAS0PId"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/7a0866ff4ebdc526698ce7b65a943b35/master.m3u8?md5=wf_WJw1Ou4vl5qoGaC4Cpw&expires=1792166123",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/7a0866ff4ebdc526698ce7b65a943b35/master.m3u8?md5=wf_WJw1Ou4vl5qoGaC4Cpw&expires=1792166123",
+            "videoSource": "https://ravok.buzz/cdn/hls/7a0866ff4ebdc526698ce7b65a943b35/master.m3u8?md5=wf_WJw1Ou4vl5qoGaC4Cpw&expires=1792166123",
+            "videoImage": "https://as-cdn27.top/p/ymMbU0zxzTxDboU_R2ZSCm7BlLsAluEzOkv39zi3UrWXPeFy-tZaS6kpBJidEt8hzD01xdJuRX5t3p8eQlvrPA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "50b6da85112e21710d78b44f2cc8a8a3",
+                "streamUrl": "https://ravok.buzz/cdn/hls/7a0866ff4ebdc526698ce7b65a943b35/master.m3u8?md5=wf_WJw1Ou4vl5qoGaC4Cpw&expires=1792166123",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/7a0866ff4ebdc526698ce7b65a943b35/master.m3u8?md5=wf_WJw1Ou4vl5qoGaC4Cpw&expires=1792166123",
+                "videoSource": "https://ravok.buzz/cdn/hls/7a0866ff4ebdc526698ce7b65a943b35/master.m3u8?md5=wf_WJw1Ou4vl5qoGaC4Cpw&expires=1792166123",
+                "link": "https://ravok.buzz/cdn/hls/7a0866ff4ebdc526698ce7b65a943b35/master.m3u8?md5=wf_WJw1Ou4vl5qoGaC4Cpw&expires=1792166123",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/ymMbU0zxzTxDboU_R2ZSCm7BlLsAluEzOkv39zi3UrWXPeFy-tZaS6kpBJidEt8hzD01xdJuRX5t3p8eQlvrPA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "xmK3EvOx4"
+        }
+      },
+      "fetched_at": "2026-10-16T13:55:33Z"
+    },
+    {
+      "id": "episode/lets-play-1x5",
+      "episode_id": "episode/lets-play-1x5",
+      "title": "Let's Play 1x1",
+      "episode_name": "Let's Play 1x1",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2152_s1e5.webp",
+      "abyssid": "17533",
+      "abyssId": "17533",
+      "playxid": "6ecee9c863a73e2c3ba55b5fc99b1fed",
+      "playXID": "6ecee9c863a73e2c3ba55b5fc99b1fed",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17533",
+        "playXID": "6ecee9c863a73e2c3ba55b5fc99b1fed",
+        "streamId": "17533",
+        "dubPlayerSrc": "/dub-player/t/17533/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6ecee9c863a73e2c3ba55b5fc99b1fed&abyssId=17533"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17533",
+        "playXID": "6ecee9c863a73e2c3ba55b5fc99b1fed",
+        "streamId": "17533",
+        "dubPlayerSrc": "/dub-player/t/17533/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6ecee9c863a73e2c3ba55b5fc99b1fed&abyssId=17533"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/6ecee9c863a73e2c3ba55b5fc99b1fed",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/6ecee9c863a73e2c3ba55b5fc99b1fed"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17533",
+        "abyssId": "17533",
+        "playXID": "6ecee9c863a73e2c3ba55b5fc99b1fed",
+        "title": "Let's Play",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "MRhNWpXW9"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "xWaJjkE4Q"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "S6kmifcB3"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "eacdQ6jsQ-"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "eC-F_mStg"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/d4861c3e534c3b36510601174a24dbe0/master.m3u8?md5=M4tngPPGLIe8wRiUeNEg6Q&expires=1792166123",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/d4861c3e534c3b36510601174a24dbe0/master.m3u8?md5=M4tngPPGLIe8wRiUeNEg6Q&expires=1792166123",
+            "videoSource": "https://ravok.buzz/cdn/hls/d4861c3e534c3b36510601174a24dbe0/master.m3u8?md5=M4tngPPGLIe8wRiUeNEg6Q&expires=1792166123",
+            "videoImage": "https://as-cdn31.top/p/cTt8HUfmBLoPLncefBTYg2gTdMPBO1ZYWFz6VNeqIn-3LaO1EFQvSmHlnArDlHD-L6OGLEax2lW_4aLGio5TAw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "6ecee9c863a73e2c3ba55b5fc99b1fed",
+                "streamUrl": "https://ravok.buzz/cdn/hls/d4861c3e534c3b36510601174a24dbe0/master.m3u8?md5=M4tngPPGLIe8wRiUeNEg6Q&expires=1792166123",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/d4861c3e534c3b36510601174a24dbe0/master.m3u8?md5=M4tngPPGLIe8wRiUeNEg6Q&expires=1792166123",
+                "videoSource": "https://ravok.buzz/cdn/hls/d4861c3e534c3b36510601174a24dbe0/master.m3u8?md5=M4tngPPGLIe8wRiUeNEg6Q&expires=1792166123",
+                "link": "https://ravok.buzz/cdn/hls/d4861c3e534c3b36510601174a24dbe0/master.m3u8?md5=M4tngPPGLIe8wRiUeNEg6Q&expires=1792166123",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/cTt8HUfmBLoPLncefBTYg2gTdMPBO1ZYWFz6VNeqIn-3LaO1EFQvSmHlnArDlHD-L6OGLEax2lW_4aLGio5TAw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "MRhNWpXW9"
+        }
+      },
+      "fetched_at": "2026-10-16T13:55:33Z"
+    },
+    {
+      "id": "episode/lets-play-1x6",
+      "episode_id": "episode/lets-play-1x6",
+      "title": "Let's Play 1x1",
+      "episode_name": "Let's Play 1x1",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2152_s1e6.webp",
+      "abyssid": "17544",
+      "abyssId": "17544",
+      "playxid": "b12131e87c87b7c13a36825bdc4abe77",
+      "playXID": "b12131e87c87b7c13a36825bdc4abe77",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17544",
+        "playXID": "b12131e87c87b7c13a36825bdc4abe77",
+        "streamId": "17544",
+        "dubPlayerSrc": "/dub-player/t/17544/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b12131e87c87b7c13a36825bdc4abe77&abyssId=17544"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17544",
+        "playXID": "b12131e87c87b7c13a36825bdc4abe77",
+        "streamId": "17544",
+        "dubPlayerSrc": "/dub-player/t/17544/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b12131e87c87b7c13a36825bdc4abe77&abyssId=17544"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/b12131e87c87b7c13a36825bdc4abe77",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/b12131e87c87b7c13a36825bdc4abe77"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17544",
+        "abyssId": "17544",
+        "playXID": "b12131e87c87b7c13a36825bdc4abe77",
+        "title": "Let's Play",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "62MThca1j"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "UwgV9lVY-"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "VpFCSpW4v"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "43gDbZcf9"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "6ncyU6OFT"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/fea10a7e3c332195227a4fbe0429b996/master.m3u8?md5=bYkGYZSQglmDbi5rFmbLAA&expires=1792166125",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/fea10a7e3c332195227a4fbe0429b996/master.m3u8?md5=bYkGYZSQglmDbi5rFmbLAA&expires=1792166125",
+            "videoSource": "https://ravok.buzz/cdn/hls/fea10a7e3c332195227a4fbe0429b996/master.m3u8?md5=bYkGYZSQglmDbi5rFmbLAA&expires=1792166125",
+            "videoImage": "https://as-cdn28.top/p/7iMo0CG6p9i5HCnWezN87rGTXrZLENx8zI2gU8A3td1nrIQW2S6iFAzK3m9Z3MKcgAfmoXQI1ZQE5M-6YQE5-w.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "b12131e87c87b7c13a36825bdc4abe77",
+                "streamUrl": "https://ravok.buzz/cdn/hls/fea10a7e3c332195227a4fbe0429b996/master.m3u8?md5=bYkGYZSQglmDbi5rFmbLAA&expires=1792166125",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/fea10a7e3c332195227a4fbe0429b996/master.m3u8?md5=bYkGYZSQglmDbi5rFmbLAA&expires=1792166125",
+                "videoSource": "https://ravok.buzz/cdn/hls/fea10a7e3c332195227a4fbe0429b996/master.m3u8?md5=bYkGYZSQglmDbi5rFmbLAA&expires=1792166125",
+                "link": "https://ravok.buzz/cdn/hls/fea10a7e3c332195227a4fbe0429b996/master.m3u8?md5=bYkGYZSQglmDbi5rFmbLAA&expires=1792166125",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/7iMo0CG6p9i5HCnWezN87rGTXrZLENx8zI2gU8A3td1nrIQW2S6iFAzK3m9Z3MKcgAfmoXQI1ZQE5M-6YQE5-w.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "62MThca1j"
+        }
+      },
+      "fetched_at": "2026-10-16T13:55:35Z"
+    },
+    {
+      "id": "episode/lets-play-1x7",
+      "episode_id": "episode/lets-play-1x7",
+      "title": "Let's Play 1x1",
+      "episode_name": "Let's Play 1x1",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2152_s1e7.webp",
+      "abyssid": "17587",
+      "abyssId": "17587",
+      "playxid": "2db57e442e48e8860facef49e0a8f2dc",
+      "playXID": "2db57e442e48e8860facef49e0a8f2dc",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17587",
+        "playXID": "2db57e442e48e8860facef49e0a8f2dc",
+        "streamId": "17587",
+        "dubPlayerSrc": "/dub-player/t/17587/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2db57e442e48e8860facef49e0a8f2dc&abyssId=17587"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17587",
+        "playXID": "2db57e442e48e8860facef49e0a8f2dc",
+        "streamId": "17587",
+        "dubPlayerSrc": "/dub-player/t/17587/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2db57e442e48e8860facef49e0a8f2dc&abyssId=17587"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/2db57e442e48e8860facef49e0a8f2dc",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/2db57e442e48e8860facef49e0a8f2dc"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17587",
+        "abyssId": "17587",
+        "playXID": "2db57e442e48e8860facef49e0a8f2dc",
+        "title": "Let's Play",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "sQ1eyHOHh"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "S24lH5ui4"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "BBfrNCVY6"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "MZbNCLeSF"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "uKhwahwIO"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/af9d631640bb529ee579e7c9805a9ea0/master.m3u8?md5=WvJQ6Cq0wTJ7Eqi3Nbgjyg&expires=1792166125",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/af9d631640bb529ee579e7c9805a9ea0/master.m3u8?md5=WvJQ6Cq0wTJ7Eqi3Nbgjyg&expires=1792166125",
+            "videoSource": "https://ravok.buzz/cdn/hls/af9d631640bb529ee579e7c9805a9ea0/master.m3u8?md5=WvJQ6Cq0wTJ7Eqi3Nbgjyg&expires=1792166125",
+            "videoImage": "https://as-cdn27.top/p/iT40Mt4V3ShFu7T_5v-QP1_kMQVeKrr1YXpUOX9Wpq8cVVJ-KPr10aHo0wqEGX2jkp3cHPiY80j03a56FQM-zA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "2db57e442e48e8860facef49e0a8f2dc",
+                "streamUrl": "https://ravok.buzz/cdn/hls/af9d631640bb529ee579e7c9805a9ea0/master.m3u8?md5=WvJQ6Cq0wTJ7Eqi3Nbgjyg&expires=1792166125",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/af9d631640bb529ee579e7c9805a9ea0/master.m3u8?md5=WvJQ6Cq0wTJ7Eqi3Nbgjyg&expires=1792166125",
+                "videoSource": "https://ravok.buzz/cdn/hls/af9d631640bb529ee579e7c9805a9ea0/master.m3u8?md5=WvJQ6Cq0wTJ7Eqi3Nbgjyg&expires=1792166125",
+                "link": "https://ravok.buzz/cdn/hls/af9d631640bb529ee579e7c9805a9ea0/master.m3u8?md5=WvJQ6Cq0wTJ7Eqi3Nbgjyg&expires=1792166125",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/iT40Mt4V3ShFu7T_5v-QP1_kMQVeKrr1YXpUOX9Wpq8cVVJ-KPr10aHo0wqEGX2jkp3cHPiY80j03a56FQM-zA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "sQ1eyHOHh"
+        }
+      },
+      "fetched_at": "2026-10-16T13:55:35Z"
+    },
+    {
+      "id": "episode/lets-play-1x9",
+      "episode_id": "episode/lets-play-1x9",
+      "title": "Let's Play 1x1",
+      "episode_name": "Let's Play 1x1",
+      "episode_number": 9,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2152_s1e9.webp",
+      "abyssid": "17723",
+      "abyssId": "17723",
+      "playxid": "4361c8e1e16420a12979e7acaeae4add",
+      "playXID": "4361c8e1e16420a12979e7acaeae4add",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17723",
+        "playXID": "4361c8e1e16420a12979e7acaeae4add",
+        "streamId": "17723",
+        "dubPlayerSrc": "/dub-player/t/17723/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=4361c8e1e16420a12979e7acaeae4add&abyssId=17723"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17723",
+        "playXID": "4361c8e1e16420a12979e7acaeae4add",
+        "streamId": "17723",
+        "dubPlayerSrc": "/dub-player/t/17723/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=4361c8e1e16420a12979e7acaeae4add&abyssId=17723"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/4361c8e1e16420a12979e7acaeae4add",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/4361c8e1e16420a12979e7acaeae4add"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17723",
+        "abyssId": "17723",
+        "playXID": "4361c8e1e16420a12979e7acaeae4add",
+        "title": "Let's Play",
+        "season": 1,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "TypaXs4yyp"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "D8nrgAg6Q"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "j0qVJ9DQX"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "F7Hc1AVOZ"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "AlvfCblVG"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/9d454eda6142f83a9fa6a75a2ea676a3/master.m3u8?md5=7OmXj5NKsRMaGCuCDZN5qQ&expires=1792166125",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/9d454eda6142f83a9fa6a75a2ea676a3/master.m3u8?md5=7OmXj5NKsRMaGCuCDZN5qQ&expires=1792166125",
+            "videoSource": "https://ravok.buzz/cdn/hls/9d454eda6142f83a9fa6a75a2ea676a3/master.m3u8?md5=7OmXj5NKsRMaGCuCDZN5qQ&expires=1792166125",
+            "videoImage": "https://as-cdn28.top/p/PAf0I_lZryNeLcK94SqraWwg1YrfLBHlnEsZwHCI72mkpKy9UachD2Ok_gxgIFmSkD6PlZbDKbMMc-NumNq_Uw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "4361c8e1e16420a12979e7acaeae4add",
+                "streamUrl": "https://ravok.buzz/cdn/hls/9d454eda6142f83a9fa6a75a2ea676a3/master.m3u8?md5=7OmXj5NKsRMaGCuCDZN5qQ&expires=1792166125",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/9d454eda6142f83a9fa6a75a2ea676a3/master.m3u8?md5=7OmXj5NKsRMaGCuCDZN5qQ&expires=1792166125",
+                "videoSource": "https://ravok.buzz/cdn/hls/9d454eda6142f83a9fa6a75a2ea676a3/master.m3u8?md5=7OmXj5NKsRMaGCuCDZN5qQ&expires=1792166125",
+                "link": "https://ravok.buzz/cdn/hls/9d454eda6142f83a9fa6a75a2ea676a3/master.m3u8?md5=7OmXj5NKsRMaGCuCDZN5qQ&expires=1792166125",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/PAf0I_lZryNeLcK94SqraWwg1YrfLBHlnEsZwHCI72mkpKy9UachD2Ok_gxgIFmSkD6PlZbDKbMMc-NumNq_Uw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "TypaXs4yyp"
+        }
+      },
+      "fetched_at": "2026-10-16T13:55:35Z"
+    },
+    {
+      "id": "episode/lets-play-1x8",
+      "episode_id": "episode/lets-play-1x8",
+      "title": "Let's Play 1x1",
+      "episode_name": "Let's Play 1x1",
+      "episode_number": 8,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2152_s1e8.webp",
+      "abyssid": "17654",
+      "abyssId": "17654",
+      "playxid": "9b567223cada8f26e92a5223b1c7d8a8",
+      "playXID": "9b567223cada8f26e92a5223b1c7d8a8",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17654",
+        "playXID": "9b567223cada8f26e92a5223b1c7d8a8",
+        "streamId": "17654",
+        "dubPlayerSrc": "/dub-player/t/17654/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9b567223cada8f26e92a5223b1c7d8a8&abyssId=17654"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17654",
+        "playXID": "9b567223cada8f26e92a5223b1c7d8a8",
+        "streamId": "17654",
+        "dubPlayerSrc": "/dub-player/t/17654/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9b567223cada8f26e92a5223b1c7d8a8&abyssId=17654"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/9b567223cada8f26e92a5223b1c7d8a8",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/9b567223cada8f26e92a5223b1c7d8a8"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17654",
+        "abyssId": "17654",
+        "playXID": "9b567223cada8f26e92a5223b1c7d8a8",
+        "title": "Let's Play",
+        "season": 1,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "9dnXub4M-"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "9E4-SSeBk"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "XrJxTTXZW"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "kk6b1VXFd"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "FAq7q2nOg"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/c41c0f43d2a9b471fa2a843d27621cd3/master.m3u8?md5=iYRgddQIdZVe3FfiiYFTnA&expires=1792166125",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/c41c0f43d2a9b471fa2a843d27621cd3/master.m3u8?md5=iYRgddQIdZVe3FfiiYFTnA&expires=1792166125",
+            "videoSource": "https://ravok.buzz/cdn/hls/c41c0f43d2a9b471fa2a843d27621cd3/master.m3u8?md5=iYRgddQIdZVe3FfiiYFTnA&expires=1792166125",
+            "videoImage": "https://as-cdn31.top/p/RkwAfzt4gHCzUa0fAL40xSgLKP7gsy4p_OyT2IRkMR6omEfi7i5USauGApsXJCRR47fjOSMYH_9uzrUcIdikiA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "9b567223cada8f26e92a5223b1c7d8a8",
+                "streamUrl": "https://ravok.buzz/cdn/hls/c41c0f43d2a9b471fa2a843d27621cd3/master.m3u8?md5=iYRgddQIdZVe3FfiiYFTnA&expires=1792166125",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/c41c0f43d2a9b471fa2a843d27621cd3/master.m3u8?md5=iYRgddQIdZVe3FfiiYFTnA&expires=1792166125",
+                "videoSource": "https://ravok.buzz/cdn/hls/c41c0f43d2a9b471fa2a843d27621cd3/master.m3u8?md5=iYRgddQIdZVe3FfiiYFTnA&expires=1792166125",
+                "link": "https://ravok.buzz/cdn/hls/c41c0f43d2a9b471fa2a843d27621cd3/master.m3u8?md5=iYRgddQIdZVe3FfiiYFTnA&expires=1792166125",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/RkwAfzt4gHCzUa0fAL40xSgLKP7gsy4p_OyT2IRkMR6omEfi7i5USauGApsXJCRR47fjOSMYH_9uzrUcIdikiA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "9dnXub4M-"
+        }
+      },
+      "fetched_at": "2026-10-16T13:55:35Z"
+    },
+    {
+      "id": "episode/lets-play-1x10",
+      "episode_id": "episode/lets-play-1x10",
+      "title": "Let's Play 1x1",
+      "episode_name": "Let's Play 1x1",
+      "episode_number": 10,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2152_s1e10.webp",
+      "abyssid": "17774",
+      "abyssId": "17774",
+      "playxid": "650170b55ee391260d8f1ce10d493661",
+      "playXID": "650170b55ee391260d8f1ce10d493661",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17774",
+        "playXID": "650170b55ee391260d8f1ce10d493661",
+        "streamId": "17774",
+        "dubPlayerSrc": "/dub-player/t/17774/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=650170b55ee391260d8f1ce10d493661&abyssId=17774"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17774",
+        "playXID": "650170b55ee391260d8f1ce10d493661",
+        "streamId": "17774",
+        "dubPlayerSrc": "/dub-player/t/17774/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=650170b55ee391260d8f1ce10d493661&abyssId=17774"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/650170b55ee391260d8f1ce10d493661",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/650170b55ee391260d8f1ce10d493661"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17774",
+        "abyssId": "17774",
+        "playXID": "650170b55ee391260d8f1ce10d493661",
+        "title": "Let's Play",
+        "season": 1,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "gNgzTbZ68"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "fIEHJPrgK"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "IfmjKn9Dj"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "vSPcinxWT"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "7mglObBWM"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/4423025f8876d6305ff79006d6e3f17d/master.m3u8?md5=tAdjRFCBfkgHfGkAhLxPQw&expires=1792166126",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/4423025f8876d6305ff79006d6e3f17d/master.m3u8?md5=tAdjRFCBfkgHfGkAhLxPQw&expires=1792166126",
+            "videoSource": "https://ravok.buzz/cdn/hls/4423025f8876d6305ff79006d6e3f17d/master.m3u8?md5=tAdjRFCBfkgHfGkAhLxPQw&expires=1792166126",
+            "videoImage": "https://as-cdn31.top/p/qJzEPkLwaB-96qI3gQjiCu6sDetYmjhw3p94RV-Lpqf7OnwxFZ5R0oKgqrBdGy0xMEO9R3iLJvZykoVd_drq0A.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "650170b55ee391260d8f1ce10d493661",
+                "streamUrl": "https://ravok.buzz/cdn/hls/4423025f8876d6305ff79006d6e3f17d/master.m3u8?md5=tAdjRFCBfkgHfGkAhLxPQw&expires=1792166126",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/4423025f8876d6305ff79006d6e3f17d/master.m3u8?md5=tAdjRFCBfkgHfGkAhLxPQw&expires=1792166126",
+                "videoSource": "https://ravok.buzz/cdn/hls/4423025f8876d6305ff79006d6e3f17d/master.m3u8?md5=tAdjRFCBfkgHfGkAhLxPQw&expires=1792166126",
+                "link": "https://ravok.buzz/cdn/hls/4423025f8876d6305ff79006d6e3f17d/master.m3u8?md5=tAdjRFCBfkgHfGkAhLxPQw&expires=1792166126",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/qJzEPkLwaB-96qI3gQjiCu6sDetYmjhw3p94RV-Lpqf7OnwxFZ5R0oKgqrBdGy0xMEO9R3iLJvZykoVd_drq0A.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "gNgzTbZ68"
+        }
+      },
+      "fetched_at": "2026-10-16T13:55:36Z"
+    },
+    {
+      "id": "episode/lets-play-1x11",
+      "episode_id": "episode/lets-play-1x11",
+      "title": "Let's Play 1x1",
+      "episode_name": "Let's Play 1x1",
+      "episode_number": 11,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2152_s1e11.webp",
+      "abyssid": "17813",
+      "abyssId": "17813",
+      "playxid": "e455b820b9478a022f0ef44cf2f56db4",
+      "playXID": "e455b820b9478a022f0ef44cf2f56db4",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17813",
+        "playXID": "e455b820b9478a022f0ef44cf2f56db4",
+        "streamId": "17813",
+        "dubPlayerSrc": "/dub-player/t/17813/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e455b820b9478a022f0ef44cf2f56db4&abyssId=17813"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17813",
+        "playXID": "e455b820b9478a022f0ef44cf2f56db4",
+        "streamId": "17813",
+        "dubPlayerSrc": "/dub-player/t/17813/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e455b820b9478a022f0ef44cf2f56db4&abyssId=17813"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/7269551457062ac80044ae5e0fb1b882",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/7269551457062ac80044ae5e0fb1b882"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17813",
+        "abyssId": "17813",
+        "playXID": "e455b820b9478a022f0ef44cf2f56db4",
+        "title": "Let's Play",
+        "season": 1,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "EzUtJU8G0"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "Pjfu96PEh"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "-0LNguqVD"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "g4ZbX28LP"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/a9dc4c7265ef18e2ec999ff28cf52fbf/master.m3u8?md5=F8oQLCsM6tPEfemeRz7Gxg&expires=1792166127",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/a9dc4c7265ef18e2ec999ff28cf52fbf/master.m3u8?md5=F8oQLCsM6tPEfemeRz7Gxg&expires=1792166127",
+            "videoSource": "https://ravok.buzz/cdn/hls/a9dc4c7265ef18e2ec999ff28cf52fbf/master.m3u8?md5=F8oQLCsM6tPEfemeRz7Gxg&expires=1792166127",
+            "videoImage": "https://as-cdn28.top/p/dc4CK-y-HVKqSRavMbXYfKHTSmmFtVkgKv5PB1zvfYO7JB7ivDO9TVsgRiYvtC6TiFs6qnc5PQemcKlZ3B3QcA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "e455b820b9478a022f0ef44cf2f56db4",
+                "streamUrl": "https://ravok.buzz/cdn/hls/a9dc4c7265ef18e2ec999ff28cf52fbf/master.m3u8?md5=F8oQLCsM6tPEfemeRz7Gxg&expires=1792166127",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/a9dc4c7265ef18e2ec999ff28cf52fbf/master.m3u8?md5=F8oQLCsM6tPEfemeRz7Gxg&expires=1792166127",
+                "videoSource": "https://ravok.buzz/cdn/hls/a9dc4c7265ef18e2ec999ff28cf52fbf/master.m3u8?md5=F8oQLCsM6tPEfemeRz7Gxg&expires=1792166127",
+                "link": "https://ravok.buzz/cdn/hls/a9dc4c7265ef18e2ec999ff28cf52fbf/master.m3u8?md5=F8oQLCsM6tPEfemeRz7Gxg&expires=1792166127",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/dc4CK-y-HVKqSRavMbXYfKHTSmmFtVkgKv5PB1zvfYO7JB7ivDO9TVsgRiYvtC6TiFs6qnc5PQemcKlZ3B3QcA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "EzUtJU8G0"
+        }
+      },
+      "fetched_at": "2026-10-16T13:55:37Z"
+    },
+    {
+      "id": "episode/lets-play-1x4",
+      "episode_id": "episode/lets-play-1x4",
+      "title": "Let's Play 1x1",
+      "episode_name": "Let's Play 1x1",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2152_s1e4.webp",
+      "abyssid": "17444",
+      "abyssId": "17444",
+      "playxid": "842af58fcd81687f10b5c099e49ec699",
+      "playXID": "842af58fcd81687f10b5c099e49ec699",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17444",
+        "playXID": "842af58fcd81687f10b5c099e49ec699",
+        "streamId": "17444",
+        "dubPlayerSrc": "/dub-player/t/17444/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=842af58fcd81687f10b5c099e49ec699&abyssId=17444"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17444",
+        "playXID": "842af58fcd81687f10b5c099e49ec699",
+        "streamId": "17444",
+        "dubPlayerSrc": "/dub-player/t/17444/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=842af58fcd81687f10b5c099e49ec699&abyssId=17444"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/842af58fcd81687f10b5c099e49ec699",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/842af58fcd81687f10b5c099e49ec699"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17444",
+        "abyssId": "17444",
+        "playXID": "842af58fcd81687f10b5c099e49ec699",
+        "title": "Let's Play",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "gJG9ucMuw"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "j4-41QaVW"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "rBljPT2SP"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "ukRopJUMM"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "UoiP0CAdB"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/aef9b8829945431b8b006708238ef364/master.m3u8?md5=bmRfZCoAlBT-35BXEXn7Lg&expires=1792166127",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/aef9b8829945431b8b006708238ef364/master.m3u8?md5=bmRfZCoAlBT-35BXEXn7Lg&expires=1792166127",
+            "videoSource": "https://ravok.buzz/cdn/hls/aef9b8829945431b8b006708238ef364/master.m3u8?md5=bmRfZCoAlBT-35BXEXn7Lg&expires=1792166127",
+            "videoImage": "https://as-cdn31.top/p/XLrxzT5AxMt6H6qh6XmCBnDap35H5VUWYUwgTpFKbC45KSl9R_rBv06hC4b_vBFi7DZpM1nlt5cXoBWcHyRXjw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "842af58fcd81687f10b5c099e49ec699",
+                "streamUrl": "https://ravok.buzz/cdn/hls/aef9b8829945431b8b006708238ef364/master.m3u8?md5=bmRfZCoAlBT-35BXEXn7Lg&expires=1792166127",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/aef9b8829945431b8b006708238ef364/master.m3u8?md5=bmRfZCoAlBT-35BXEXn7Lg&expires=1792166127",
+                "videoSource": "https://ravok.buzz/cdn/hls/aef9b8829945431b8b006708238ef364/master.m3u8?md5=bmRfZCoAlBT-35BXEXn7Lg&expires=1792166127",
+                "link": "https://ravok.buzz/cdn/hls/aef9b8829945431b8b006708238ef364/master.m3u8?md5=bmRfZCoAlBT-35BXEXn7Lg&expires=1792166127",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/XLrxzT5AxMt6H6qh6XmCBnDap35H5VUWYUwgTpFKbC45KSl9R_rBv06hC4b_vBFi7DZpM1nlt5cXoBWcHyRXjw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "gJG9ucMuw"
+        }
+      },
+      "fetched_at": "2026-10-16T13:55:37Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T13:55:30Z",
+  "updated_at": "2026-10-16T13:55:37Z"
+}

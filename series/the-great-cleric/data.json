@@ -1,0 +1,1499 @@
+{
+  "id": "series/the-great-cleric",
+  "series_name": "The Great Cleric",
+  "title": "The Great Cleric",
+  "banner": "https://image.tmdb.org/t/p/w1280/mGpuHNcR7hTqHSDlMEhaiVrKzOP.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/zkzYTYdhaNqRaGyKsBunt3y5vs0.jpg",
+  "genra": [
+    "Adventure",
+    "Comedy",
+    "Fantasy",
+    "Isekai",
+    "Reincarnation"
+  ],
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Fantasy",
+    "Isekai",
+    "Reincarnation"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Japanese"
+  ],
+  "synopsis": "After his untimely death, this salaryman gets another shot at life! When Luciel is reborn into a magical new land, he becomes a healer in hopes of leading a peaceful life. However, he quickly learns that being a healer is much more challenging than he expected. With strict and strenuous training in store, this new life is turning out to be anything but peaceful.",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "The Great Cleric 1x1",
+          "id": "episode/the-great-cleric-1x1",
+          "image": "https://img.watchanimeworld.one/img/thumb_1270_s1e1.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "The Great Cleric 1x2",
+          "id": "episode/the-great-cleric-1x2",
+          "image": "https://img.watchanimeworld.one/img/thumb_1270_s1e2.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "The Great Cleric 1x3",
+          "id": "episode/the-great-cleric-1x3",
+          "image": "https://img.watchanimeworld.one/img/thumb_1270_s1e3.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "The Great Cleric 1x4",
+          "id": "episode/the-great-cleric-1x4",
+          "image": "https://img.watchanimeworld.one/img/thumb_1270_s1e4.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "The Great Cleric 1x5",
+          "id": "episode/the-great-cleric-1x5",
+          "image": "https://img.watchanimeworld.one/img/thumb_1270_s1e5.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "The Great Cleric 1x6",
+          "id": "episode/the-great-cleric-1x6",
+          "image": "https://img.watchanimeworld.one/img/thumb_1270_s1e6.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "The Great Cleric 1x7",
+          "id": "episode/the-great-cleric-1x7",
+          "image": "https://img.watchanimeworld.one/img/thumb_1270_s1e7.webp",
+          "season": 1
+        },
+        {
+          "episode": 8,
+          "title": "The Great Cleric 1x8",
+          "id": "episode/the-great-cleric-1x8",
+          "image": "https://img.watchanimeworld.one/img/thumb_1270_s1e8.webp",
+          "season": 1
+        },
+        {
+          "episode": 9,
+          "title": "The Great Cleric 1x9",
+          "id": "episode/the-great-cleric-1x9",
+          "image": "https://img.watchanimeworld.one/img/thumb_1270_s1e9.webp",
+          "season": 1
+        },
+        {
+          "episode": 10,
+          "title": "The Great Cleric 1x10",
+          "id": "episode/the-great-cleric-1x10",
+          "image": "https://img.watchanimeworld.one/img/thumb_1270_s1e10.webp",
+          "season": 1
+        },
+        {
+          "episode": 11,
+          "title": "The Great Cleric 1x11",
+          "id": "episode/the-great-cleric-1x11",
+          "image": "https://img.watchanimeworld.one/img/thumb_1270_s1e11.webp",
+          "season": 1
+        },
+        {
+          "episode": 12,
+          "title": "The Great Cleric 1x12",
+          "id": "episode/the-great-cleric-1x12",
+          "image": "https://img.watchanimeworld.one/img/thumb_1270_s1e12.webp",
+          "season": 1
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/the-great-cleric-1x4",
+      "episode_id": "episode/the-great-cleric-1x4",
+      "title": "The Great Cleric 1x1",
+      "episode_name": "The Great Cleric 1x1",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1270_s1e4.webp",
+      "abyssid": "12807",
+      "abyssId": "12807",
+      "playxid": "1c39c39d1a341ba03ae48a942c6a43ef",
+      "playXID": "1c39c39d1a341ba03ae48a942c6a43ef",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12807",
+        "playXID": "1c39c39d1a341ba03ae48a942c6a43ef",
+        "streamId": "12807",
+        "dubPlayerSrc": "/dub-player/t/12807/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=1c39c39d1a341ba03ae48a942c6a43ef&abyssId=12807"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12807",
+        "playXID": "1c39c39d1a341ba03ae48a942c6a43ef",
+        "streamId": "12807",
+        "dubPlayerSrc": "/dub-player/t/12807/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=1c39c39d1a341ba03ae48a942c6a43ef&abyssId=12807"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/1c39c39d1a341ba03ae48a942c6a43ef",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/1c39c39d1a341ba03ae48a942c6a43ef"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12807",
+        "abyssId": "12807",
+        "playXID": "1c39c39d1a341ba03ae48a942c6a43ef",
+        "title": "The Great Cleric",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "rV8mzHV6i"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "vytM6ugUa"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "1KI6vqS4d"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "b9y3R7r5p"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "SqPctAYKr"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/6199985c54facb4254cb0cf17ba35332/master.m3u8?md5=lpWumam5GgjL70f23Z8DPA&expires=1792166914",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/6199985c54facb4254cb0cf17ba35332/master.m3u8?md5=lpWumam5GgjL70f23Z8DPA&expires=1792166914",
+            "videoSource": "https://ravok.buzz/cdn/hls/6199985c54facb4254cb0cf17ba35332/master.m3u8?md5=lpWumam5GgjL70f23Z8DPA&expires=1792166914",
+            "videoImage": "https://as-cdn30.top/p/q8wvFf-jt-yRDYxHdIvsci3LZXERglPKD_S5c-UvY0ngEDU4Bwt_N64cQJEVrB1IglllA7X5E1ulfNJ0RPOwsg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "1c39c39d1a341ba03ae48a942c6a43ef",
+                "streamUrl": "https://ravok.buzz/cdn/hls/6199985c54facb4254cb0cf17ba35332/master.m3u8?md5=lpWumam5GgjL70f23Z8DPA&expires=1792166914",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/6199985c54facb4254cb0cf17ba35332/master.m3u8?md5=lpWumam5GgjL70f23Z8DPA&expires=1792166914",
+                "videoSource": "https://ravok.buzz/cdn/hls/6199985c54facb4254cb0cf17ba35332/master.m3u8?md5=lpWumam5GgjL70f23Z8DPA&expires=1792166914",
+                "link": "https://ravok.buzz/cdn/hls/6199985c54facb4254cb0cf17ba35332/master.m3u8?md5=lpWumam5GgjL70f23Z8DPA&expires=1792166914",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/q8wvFf-jt-yRDYxHdIvsci3LZXERglPKD_S5c-UvY0ngEDU4Bwt_N64cQJEVrB1IglllA7X5E1ulfNJ0RPOwsg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "rV8mzHV6i"
+        }
+      },
+      "fetched_at": "2026-10-16T14:08:44Z"
+    },
+    {
+      "id": "episode/the-great-cleric-1x2",
+      "episode_id": "episode/the-great-cleric-1x2",
+      "title": "The Great Cleric 1x1",
+      "episode_name": "The Great Cleric 1x1",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1270_s1e2.webp",
+      "abyssid": "12805",
+      "abyssId": "12805",
+      "playxid": "527490f08486bf8af2b8d0bf6e73911b",
+      "playXID": "527490f08486bf8af2b8d0bf6e73911b",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12805",
+        "playXID": "527490f08486bf8af2b8d0bf6e73911b",
+        "streamId": "12805",
+        "dubPlayerSrc": "/dub-player/t/12805/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=527490f08486bf8af2b8d0bf6e73911b&abyssId=12805"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12805",
+        "playXID": "527490f08486bf8af2b8d0bf6e73911b",
+        "streamId": "12805",
+        "dubPlayerSrc": "/dub-player/t/12805/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=527490f08486bf8af2b8d0bf6e73911b&abyssId=12805"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/527490f08486bf8af2b8d0bf6e73911b",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/527490f08486bf8af2b8d0bf6e73911b"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12805",
+        "abyssId": "12805",
+        "playXID": "527490f08486bf8af2b8d0bf6e73911b",
+        "title": "The Great Cleric",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "1QnqV3Ml_"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "JwsHQZU7e"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "NMH2fd0_H"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "xfFlKr-Gy"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "bHp0KaFxG"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/b1e40dde41d6469794434c96fa3d5c0c/master.m3u8?md5=Ot7iC5rVwkrzjz9ysV-xaA&expires=1792166914",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/b1e40dde41d6469794434c96fa3d5c0c/master.m3u8?md5=Ot7iC5rVwkrzjz9ysV-xaA&expires=1792166914",
+            "videoSource": "https://ravok.buzz/cdn/hls/b1e40dde41d6469794434c96fa3d5c0c/master.m3u8?md5=Ot7iC5rVwkrzjz9ysV-xaA&expires=1792166914",
+            "videoImage": "https://as-cdn31.top/p/iI7-HoDNcToYc_vdl6HAJvCnoW8Mv66bNN-zyWL6Y4psIYJS_nwaCbnHC12F_YF3yuB8DDXN2okPwaBiPGfNTA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "527490f08486bf8af2b8d0bf6e73911b",
+                "streamUrl": "https://ravok.buzz/cdn/hls/b1e40dde41d6469794434c96fa3d5c0c/master.m3u8?md5=Ot7iC5rVwkrzjz9ysV-xaA&expires=1792166914",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/b1e40dde41d6469794434c96fa3d5c0c/master.m3u8?md5=Ot7iC5rVwkrzjz9ysV-xaA&expires=1792166914",
+                "videoSource": "https://ravok.buzz/cdn/hls/b1e40dde41d6469794434c96fa3d5c0c/master.m3u8?md5=Ot7iC5rVwkrzjz9ysV-xaA&expires=1792166914",
+                "link": "https://ravok.buzz/cdn/hls/b1e40dde41d6469794434c96fa3d5c0c/master.m3u8?md5=Ot7iC5rVwkrzjz9ysV-xaA&expires=1792166914",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/iI7-HoDNcToYc_vdl6HAJvCnoW8Mv66bNN-zyWL6Y4psIYJS_nwaCbnHC12F_YF3yuB8DDXN2okPwaBiPGfNTA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "1QnqV3Ml_"
+        }
+      },
+      "fetched_at": "2026-10-16T14:08:44Z"
+    },
+    {
+      "id": "episode/the-great-cleric-1x1",
+      "episode_id": "episode/the-great-cleric-1x1",
+      "title": "The Great Cleric 1x1",
+      "episode_name": "The Great Cleric 1x1",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1270_s1e1.webp",
+      "abyssid": "12804",
+      "abyssId": "12804",
+      "playxid": "015c11191cbf983956d7c19e3434c0cf",
+      "playXID": "015c11191cbf983956d7c19e3434c0cf",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12804",
+        "playXID": "015c11191cbf983956d7c19e3434c0cf",
+        "streamId": "12804",
+        "dubPlayerSrc": "/dub-player/t/12804/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=015c11191cbf983956d7c19e3434c0cf&abyssId=12804"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12804",
+        "playXID": "015c11191cbf983956d7c19e3434c0cf",
+        "streamId": "12804",
+        "dubPlayerSrc": "/dub-player/t/12804/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=015c11191cbf983956d7c19e3434c0cf&abyssId=12804"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/015c11191cbf983956d7c19e3434c0cf",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/015c11191cbf983956d7c19e3434c0cf"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12804",
+        "abyssId": "12804",
+        "playXID": "015c11191cbf983956d7c19e3434c0cf",
+        "title": "The Great Cleric",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "IgU_ZalVl"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "GDD7ZIWeY"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "ad5bygpk4"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "Pk2X27wcD"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "ySI_QJNHd"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/6fb74d299492ef0a4d14f0552ddd8101/master.m3u8?md5=wqvP48BzQiLPsJOwzSMQJg&expires=1792166914",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/6fb74d299492ef0a4d14f0552ddd8101/master.m3u8?md5=wqvP48BzQiLPsJOwzSMQJg&expires=1792166914",
+            "videoSource": "https://ravok.buzz/cdn/hls/6fb74d299492ef0a4d14f0552ddd8101/master.m3u8?md5=wqvP48BzQiLPsJOwzSMQJg&expires=1792166914",
+            "videoImage": "https://as-cdn28.top/p/dpZ2u5e6k6ARGAdNvzNUGeFGypRNFAoflISjgJkP2dGNn1EzV6qCDjhTjHUzEaltraVkEJvhaAXbvzzGlrursQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "015c11191cbf983956d7c19e3434c0cf",
+                "streamUrl": "https://ravok.buzz/cdn/hls/6fb74d299492ef0a4d14f0552ddd8101/master.m3u8?md5=wqvP48BzQiLPsJOwzSMQJg&expires=1792166914",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/6fb74d299492ef0a4d14f0552ddd8101/master.m3u8?md5=wqvP48BzQiLPsJOwzSMQJg&expires=1792166914",
+                "videoSource": "https://ravok.buzz/cdn/hls/6fb74d299492ef0a4d14f0552ddd8101/master.m3u8?md5=wqvP48BzQiLPsJOwzSMQJg&expires=1792166914",
+                "link": "https://ravok.buzz/cdn/hls/6fb74d299492ef0a4d14f0552ddd8101/master.m3u8?md5=wqvP48BzQiLPsJOwzSMQJg&expires=1792166914",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/dpZ2u5e6k6ARGAdNvzNUGeFGypRNFAoflISjgJkP2dGNn1EzV6qCDjhTjHUzEaltraVkEJvhaAXbvzzGlrursQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "IgU_ZalVl"
+        }
+      },
+      "fetched_at": "2026-10-16T14:08:44Z"
+    },
+    {
+      "id": "episode/the-great-cleric-1x3",
+      "episode_id": "episode/the-great-cleric-1x3",
+      "title": "The Great Cleric 1x1",
+      "episode_name": "The Great Cleric 1x1",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1270_s1e3.webp",
+      "abyssid": "12806",
+      "abyssId": "12806",
+      "playxid": "e0154ac829acb5cb5735e1d1e7f48c68",
+      "playXID": "e0154ac829acb5cb5735e1d1e7f48c68",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12806",
+        "playXID": "e0154ac829acb5cb5735e1d1e7f48c68",
+        "streamId": "12806",
+        "dubPlayerSrc": "/dub-player/t/12806/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e0154ac829acb5cb5735e1d1e7f48c68&abyssId=12806"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12806",
+        "playXID": "e0154ac829acb5cb5735e1d1e7f48c68",
+        "streamId": "12806",
+        "dubPlayerSrc": "/dub-player/t/12806/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e0154ac829acb5cb5735e1d1e7f48c68&abyssId=12806"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/e0154ac829acb5cb5735e1d1e7f48c68",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/e0154ac829acb5cb5735e1d1e7f48c68"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12806",
+        "abyssId": "12806",
+        "playXID": "e0154ac829acb5cb5735e1d1e7f48c68",
+        "title": "The Great Cleric",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "H6RBpdWc_"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "noU5oIOfF"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "8oEGG2uwL"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "QRh85u2jp"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "Rk7qVszlF"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/04508c32f6555b92d92e7fdfa6def301/master.m3u8?md5=8mYe3_N-5PpZqyxPQ5C90A&expires=1792166914",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/04508c32f6555b92d92e7fdfa6def301/master.m3u8?md5=8mYe3_N-5PpZqyxPQ5C90A&expires=1792166914",
+            "videoSource": "https://ravok.buzz/cdn/hls/04508c32f6555b92d92e7fdfa6def301/master.m3u8?md5=8mYe3_N-5PpZqyxPQ5C90A&expires=1792166914",
+            "videoImage": "https://as-cdn27.top/p/gfFwSQtfLE0D1jLQ3De4UT2VLmL57U7RBc26830lm83hW4xRVzvmh4j_069bIZRYWuBlV3X7qoix4HTNcKAP9w.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "e0154ac829acb5cb5735e1d1e7f48c68",
+                "streamUrl": "https://ravok.buzz/cdn/hls/04508c32f6555b92d92e7fdfa6def301/master.m3u8?md5=8mYe3_N-5PpZqyxPQ5C90A&expires=1792166914",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/04508c32f6555b92d92e7fdfa6def301/master.m3u8?md5=8mYe3_N-5PpZqyxPQ5C90A&expires=1792166914",
+                "videoSource": "https://ravok.buzz/cdn/hls/04508c32f6555b92d92e7fdfa6def301/master.m3u8?md5=8mYe3_N-5PpZqyxPQ5C90A&expires=1792166914",
+                "link": "https://ravok.buzz/cdn/hls/04508c32f6555b92d92e7fdfa6def301/master.m3u8?md5=8mYe3_N-5PpZqyxPQ5C90A&expires=1792166914",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/gfFwSQtfLE0D1jLQ3De4UT2VLmL57U7RBc26830lm83hW4xRVzvmh4j_069bIZRYWuBlV3X7qoix4HTNcKAP9w.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "H6RBpdWc_"
+        }
+      },
+      "fetched_at": "2026-10-16T14:08:44Z"
+    },
+    {
+      "id": "episode/the-great-cleric-1x5",
+      "episode_id": "episode/the-great-cleric-1x5",
+      "title": "The Great Cleric 1x1",
+      "episode_name": "The Great Cleric 1x1",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1270_s1e5.webp",
+      "abyssid": "12808",
+      "abyssId": "12808",
+      "playxid": "91cf0815868e49fd91babbc6444805a4",
+      "playXID": "91cf0815868e49fd91babbc6444805a4",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12808",
+        "playXID": "91cf0815868e49fd91babbc6444805a4",
+        "streamId": "12808",
+        "dubPlayerSrc": "/dub-player/t/12808/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=91cf0815868e49fd91babbc6444805a4&abyssId=12808"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12808",
+        "playXID": "91cf0815868e49fd91babbc6444805a4",
+        "streamId": "12808",
+        "dubPlayerSrc": "/dub-player/t/12808/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=91cf0815868e49fd91babbc6444805a4&abyssId=12808"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/91cf0815868e49fd91babbc6444805a4",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/91cf0815868e49fd91babbc6444805a4"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12808",
+        "abyssId": "12808",
+        "playXID": "91cf0815868e49fd91babbc6444805a4",
+        "title": "The Great Cleric",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "qLFMRrIUN"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "iRhGiX_s6"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "CgFnbg-a5"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "ao4NL2BGe"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "A9LUmdjS8"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/82f6e67eadbae0cc6c406d0fd4616678/master.m3u8?md5=BrK0gAfH-X3n-dZ8MzoU1Q&expires=1792166914",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/82f6e67eadbae0cc6c406d0fd4616678/master.m3u8?md5=BrK0gAfH-X3n-dZ8MzoU1Q&expires=1792166914",
+            "videoSource": "https://ravok.buzz/cdn/hls/82f6e67eadbae0cc6c406d0fd4616678/master.m3u8?md5=BrK0gAfH-X3n-dZ8MzoU1Q&expires=1792166914",
+            "videoImage": "https://as-cdn31.top/p/0vdOyv6I1wnZ-IB2Jmdl-an_zrMLaOWdPWeKhh0-YdfWzs73eUSycPaTOvM_cl4ScKnQJmhbQwIuJk3XR9DMCg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "91cf0815868e49fd91babbc6444805a4",
+                "streamUrl": "https://ravok.buzz/cdn/hls/82f6e67eadbae0cc6c406d0fd4616678/master.m3u8?md5=BrK0gAfH-X3n-dZ8MzoU1Q&expires=1792166914",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/82f6e67eadbae0cc6c406d0fd4616678/master.m3u8?md5=BrK0gAfH-X3n-dZ8MzoU1Q&expires=1792166914",
+                "videoSource": "https://ravok.buzz/cdn/hls/82f6e67eadbae0cc6c406d0fd4616678/master.m3u8?md5=BrK0gAfH-X3n-dZ8MzoU1Q&expires=1792166914",
+                "link": "https://ravok.buzz/cdn/hls/82f6e67eadbae0cc6c406d0fd4616678/master.m3u8?md5=BrK0gAfH-X3n-dZ8MzoU1Q&expires=1792166914",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/0vdOyv6I1wnZ-IB2Jmdl-an_zrMLaOWdPWeKhh0-YdfWzs73eUSycPaTOvM_cl4ScKnQJmhbQwIuJk3XR9DMCg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "qLFMRrIUN"
+        }
+      },
+      "fetched_at": "2026-10-16T14:08:44Z"
+    },
+    {
+      "id": "episode/the-great-cleric-1x10",
+      "episode_id": "episode/the-great-cleric-1x10",
+      "title": "The Great Cleric 1x1",
+      "episode_name": "The Great Cleric 1x1",
+      "episode_number": 10,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1270_s1e10.webp",
+      "abyssid": "12813",
+      "abyssId": "12813",
+      "playxid": "2ca1ce4a65bf5b60c60bd7c4a89a33f9",
+      "playXID": "2ca1ce4a65bf5b60c60bd7c4a89a33f9",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12813",
+        "playXID": "2ca1ce4a65bf5b60c60bd7c4a89a33f9",
+        "streamId": "12813",
+        "dubPlayerSrc": "/dub-player/t/12813/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2ca1ce4a65bf5b60c60bd7c4a89a33f9&abyssId=12813"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12813",
+        "playXID": "2ca1ce4a65bf5b60c60bd7c4a89a33f9",
+        "streamId": "12813",
+        "dubPlayerSrc": "/dub-player/t/12813/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2ca1ce4a65bf5b60c60bd7c4a89a33f9&abyssId=12813"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/2ca1ce4a65bf5b60c60bd7c4a89a33f9",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/2ca1ce4a65bf5b60c60bd7c4a89a33f9"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12813",
+        "abyssId": "12813",
+        "playXID": "2ca1ce4a65bf5b60c60bd7c4a89a33f9",
+        "title": "The Great Cleric",
+        "season": 1,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "zSCoYyfoP"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "nzKqCmpPl"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "Q0TTE1SLU"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "PDozXMAFE"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "lxzf0-Y5t"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/bceb85a1dcc78ddccf8938baf129a992/master.m3u8?md5=gHpEpJXqqTifn6vRMdsikQ&expires=1792166916",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/bceb85a1dcc78ddccf8938baf129a992/master.m3u8?md5=gHpEpJXqqTifn6vRMdsikQ&expires=1792166916",
+            "videoSource": "https://ravok.buzz/cdn/hls/bceb85a1dcc78ddccf8938baf129a992/master.m3u8?md5=gHpEpJXqqTifn6vRMdsikQ&expires=1792166916",
+            "videoImage": "https://as-cdn27.top/p/knz4ZnjxhSCvKfeEh99SmigjE9BxzU72vyw7RY2lS9ctZBJQzoDzlmGDBEqlmpX7e67x7aElySERXBQpYZlN-Q.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "2ca1ce4a65bf5b60c60bd7c4a89a33f9",
+                "streamUrl": "https://ravok.buzz/cdn/hls/bceb85a1dcc78ddccf8938baf129a992/master.m3u8?md5=gHpEpJXqqTifn6vRMdsikQ&expires=1792166916",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/bceb85a1dcc78ddccf8938baf129a992/master.m3u8?md5=gHpEpJXqqTifn6vRMdsikQ&expires=1792166916",
+                "videoSource": "https://ravok.buzz/cdn/hls/bceb85a1dcc78ddccf8938baf129a992/master.m3u8?md5=gHpEpJXqqTifn6vRMdsikQ&expires=1792166916",
+                "link": "https://ravok.buzz/cdn/hls/bceb85a1dcc78ddccf8938baf129a992/master.m3u8?md5=gHpEpJXqqTifn6vRMdsikQ&expires=1792166916",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/knz4ZnjxhSCvKfeEh99SmigjE9BxzU72vyw7RY2lS9ctZBJQzoDzlmGDBEqlmpX7e67x7aElySERXBQpYZlN-Q.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "zSCoYyfoP"
+        }
+      },
+      "fetched_at": "2026-10-16T14:08:46Z"
+    },
+    {
+      "id": "episode/the-great-cleric-1x8",
+      "episode_id": "episode/the-great-cleric-1x8",
+      "title": "The Great Cleric 1x1",
+      "episode_name": "The Great Cleric 1x1",
+      "episode_number": 8,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1270_s1e8.webp",
+      "abyssid": "12811",
+      "abyssId": "12811",
+      "playxid": "37a56d458b5e856d05bcfb3322db5f8a",
+      "playXID": "37a56d458b5e856d05bcfb3322db5f8a",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12811",
+        "playXID": "37a56d458b5e856d05bcfb3322db5f8a",
+        "streamId": "12811",
+        "dubPlayerSrc": "/dub-player/t/12811/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=37a56d458b5e856d05bcfb3322db5f8a&abyssId=12811"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12811",
+        "playXID": "37a56d458b5e856d05bcfb3322db5f8a",
+        "streamId": "12811",
+        "dubPlayerSrc": "/dub-player/t/12811/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=37a56d458b5e856d05bcfb3322db5f8a&abyssId=12811"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/37a56d458b5e856d05bcfb3322db5f8a",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/37a56d458b5e856d05bcfb3322db5f8a"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12811",
+        "abyssId": "12811",
+        "playXID": "37a56d458b5e856d05bcfb3322db5f8a",
+        "title": "The Great Cleric",
+        "season": 1,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "EYb-hqm8i"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "lLpfxtq5cr"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "GQs9paHkq"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "0MY3Ye-HY"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "gDOusDbKo"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/1f89ab5025777fbd213c1402acc20e82/master.m3u8?md5=Yp0iLvZ23ORZrhXEbInR3g&expires=1792166916",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/1f89ab5025777fbd213c1402acc20e82/master.m3u8?md5=Yp0iLvZ23ORZrhXEbInR3g&expires=1792166916",
+            "videoSource": "https://ravok.buzz/cdn/hls/1f89ab5025777fbd213c1402acc20e82/master.m3u8?md5=Yp0iLvZ23ORZrhXEbInR3g&expires=1792166916",
+            "videoImage": "https://as-cdn27.top/p/6VwvPbqqM38F3MHuR7qX8jtyoVp_o3gvDGfOv7cFY2koIL3pzWvhZULS2q0ZcQ4UR44Fx50GJQOHH31eNuaYqg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "37a56d458b5e856d05bcfb3322db5f8a",
+                "streamUrl": "https://ravok.buzz/cdn/hls/1f89ab5025777fbd213c1402acc20e82/master.m3u8?md5=Yp0iLvZ23ORZrhXEbInR3g&expires=1792166916",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/1f89ab5025777fbd213c1402acc20e82/master.m3u8?md5=Yp0iLvZ23ORZrhXEbInR3g&expires=1792166916",
+                "videoSource": "https://ravok.buzz/cdn/hls/1f89ab5025777fbd213c1402acc20e82/master.m3u8?md5=Yp0iLvZ23ORZrhXEbInR3g&expires=1792166916",
+                "link": "https://ravok.buzz/cdn/hls/1f89ab5025777fbd213c1402acc20e82/master.m3u8?md5=Yp0iLvZ23ORZrhXEbInR3g&expires=1792166916",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/6VwvPbqqM38F3MHuR7qX8jtyoVp_o3gvDGfOv7cFY2koIL3pzWvhZULS2q0ZcQ4UR44Fx50GJQOHH31eNuaYqg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "EYb-hqm8i"
+        }
+      },
+      "fetched_at": "2026-10-16T14:08:46Z"
+    },
+    {
+      "id": "episode/the-great-cleric-1x9",
+      "episode_id": "episode/the-great-cleric-1x9",
+      "title": "The Great Cleric 1x1",
+      "episode_name": "The Great Cleric 1x1",
+      "episode_number": 9,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1270_s1e9.webp",
+      "abyssid": "12812",
+      "abyssId": "12812",
+      "playxid": "9f2b49181d2539e79439f4c6a6716836",
+      "playXID": "9f2b49181d2539e79439f4c6a6716836",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12812",
+        "playXID": "9f2b49181d2539e79439f4c6a6716836",
+        "streamId": "12812",
+        "dubPlayerSrc": "/dub-player/t/12812/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9f2b49181d2539e79439f4c6a6716836&abyssId=12812"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12812",
+        "playXID": "9f2b49181d2539e79439f4c6a6716836",
+        "streamId": "12812",
+        "dubPlayerSrc": "/dub-player/t/12812/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9f2b49181d2539e79439f4c6a6716836&abyssId=12812"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/9f2b49181d2539e79439f4c6a6716836",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/9f2b49181d2539e79439f4c6a6716836"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12812",
+        "abyssId": "12812",
+        "playXID": "9f2b49181d2539e79439f4c6a6716836",
+        "title": "The Great Cleric",
+        "season": 1,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "X3SDqWcvy"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "OkBu6rxiG"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "2vH7ovbQ9"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "Nl1QqmYh2"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "1HFPeiFptB"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/c41aa6257219f56e119c13c9af6bbf17/master.m3u8?md5=9eAoROxIt3ZujxU39naE8Q&expires=1792166916",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/c41aa6257219f56e119c13c9af6bbf17/master.m3u8?md5=9eAoROxIt3ZujxU39naE8Q&expires=1792166916",
+            "videoSource": "https://ravok.buzz/cdn/hls/c41aa6257219f56e119c13c9af6bbf17/master.m3u8?md5=9eAoROxIt3ZujxU39naE8Q&expires=1792166916",
+            "videoImage": "https://as-cdn28.top/p/jDxjiR_ZUbgY6Q4Wcg6jefyoVZYemYP1hbv8GqmLsOcIIuAacVvENV8FqgoyK5O9orwmQ-vBZ-krc0bY8vvTkw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "9f2b49181d2539e79439f4c6a6716836",
+                "streamUrl": "https://ravok.buzz/cdn/hls/c41aa6257219f56e119c13c9af6bbf17/master.m3u8?md5=9eAoROxIt3ZujxU39naE8Q&expires=1792166916",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/c41aa6257219f56e119c13c9af6bbf17/master.m3u8?md5=9eAoROxIt3ZujxU39naE8Q&expires=1792166916",
+                "videoSource": "https://ravok.buzz/cdn/hls/c41aa6257219f56e119c13c9af6bbf17/master.m3u8?md5=9eAoROxIt3ZujxU39naE8Q&expires=1792166916",
+                "link": "https://ravok.buzz/cdn/hls/c41aa6257219f56e119c13c9af6bbf17/master.m3u8?md5=9eAoROxIt3ZujxU39naE8Q&expires=1792166916",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/jDxjiR_ZUbgY6Q4Wcg6jefyoVZYemYP1hbv8GqmLsOcIIuAacVvENV8FqgoyK5O9orwmQ-vBZ-krc0bY8vvTkw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "X3SDqWcvy"
+        }
+      },
+      "fetched_at": "2026-10-16T14:08:46Z"
+    },
+    {
+      "id": "episode/the-great-cleric-1x7",
+      "episode_id": "episode/the-great-cleric-1x7",
+      "title": "The Great Cleric 1x1",
+      "episode_name": "The Great Cleric 1x1",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1270_s1e7.webp",
+      "abyssid": "12810",
+      "abyssId": "12810",
+      "playxid": "23745dd9b252ba856cdd795b606a47ea",
+      "playXID": "23745dd9b252ba856cdd795b606a47ea",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12810",
+        "playXID": "23745dd9b252ba856cdd795b606a47ea",
+        "streamId": "12810",
+        "dubPlayerSrc": "/dub-player/t/12810/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=23745dd9b252ba856cdd795b606a47ea&abyssId=12810"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12810",
+        "playXID": "23745dd9b252ba856cdd795b606a47ea",
+        "streamId": "12810",
+        "dubPlayerSrc": "/dub-player/t/12810/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=23745dd9b252ba856cdd795b606a47ea&abyssId=12810"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/23745dd9b252ba856cdd795b606a47ea",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/23745dd9b252ba856cdd795b606a47ea"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12810",
+        "abyssId": "12810",
+        "playXID": "23745dd9b252ba856cdd795b606a47ea",
+        "title": "The Great Cleric",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "3Sx_yZeyG"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "nyiPnmKiQ7"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "L1FU3_p6N"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "qR4l0n2l0"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "RDACvDODV"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/32c9eef345f05849f1fb84444350d117/master.m3u8?md5=iRWPPt3KBCqteijPX9P17A&expires=1792166916",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/32c9eef345f05849f1fb84444350d117/master.m3u8?md5=iRWPPt3KBCqteijPX9P17A&expires=1792166916",
+            "videoSource": "https://ravok.buzz/cdn/hls/32c9eef345f05849f1fb84444350d117/master.m3u8?md5=iRWPPt3KBCqteijPX9P17A&expires=1792166916",
+            "videoImage": "https://as-cdn29.top/p/2stUVgTeULa6RBz82PnbMPvzzOWAYxzA9329QQ9eyFZ2W1LC-HcfvJeGBQMd8VW5rvAeuFiy_ohwVykwA1NSjQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "23745dd9b252ba856cdd795b606a47ea",
+                "streamUrl": "https://ravok.buzz/cdn/hls/32c9eef345f05849f1fb84444350d117/master.m3u8?md5=iRWPPt3KBCqteijPX9P17A&expires=1792166916",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/32c9eef345f05849f1fb84444350d117/master.m3u8?md5=iRWPPt3KBCqteijPX9P17A&expires=1792166916",
+                "videoSource": "https://ravok.buzz/cdn/hls/32c9eef345f05849f1fb84444350d117/master.m3u8?md5=iRWPPt3KBCqteijPX9P17A&expires=1792166916",
+                "link": "https://ravok.buzz/cdn/hls/32c9eef345f05849f1fb84444350d117/master.m3u8?md5=iRWPPt3KBCqteijPX9P17A&expires=1792166916",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/2stUVgTeULa6RBz82PnbMPvzzOWAYxzA9329QQ9eyFZ2W1LC-HcfvJeGBQMd8VW5rvAeuFiy_ohwVykwA1NSjQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "3Sx_yZeyG"
+        }
+      },
+      "fetched_at": "2026-10-16T14:08:46Z"
+    },
+    {
+      "id": "episode/the-great-cleric-1x11",
+      "episode_id": "episode/the-great-cleric-1x11",
+      "title": "The Great Cleric 1x1",
+      "episode_name": "The Great Cleric 1x1",
+      "episode_number": 11,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1270_s1e11.webp",
+      "abyssid": "12814",
+      "abyssId": "12814",
+      "playxid": "f511186b08b671a4ad5a1deaae96e310",
+      "playXID": "f511186b08b671a4ad5a1deaae96e310",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12814",
+        "playXID": "f511186b08b671a4ad5a1deaae96e310",
+        "streamId": "12814",
+        "dubPlayerSrc": "/dub-player/t/12814/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f511186b08b671a4ad5a1deaae96e310&abyssId=12814"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12814",
+        "playXID": "f511186b08b671a4ad5a1deaae96e310",
+        "streamId": "12814",
+        "dubPlayerSrc": "/dub-player/t/12814/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f511186b08b671a4ad5a1deaae96e310&abyssId=12814"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/f511186b08b671a4ad5a1deaae96e310",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/f511186b08b671a4ad5a1deaae96e310"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12814",
+        "abyssId": "12814",
+        "playXID": "f511186b08b671a4ad5a1deaae96e310",
+        "title": "The Great Cleric",
+        "season": 1,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "VDgm3d6wN"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "VKu3zWFXZ"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "DmE4ffLxz"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "7q4rL0SeP"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "pIcokU2yI"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/c8541b78cf00651a28780c8505c49a24/master.m3u8?md5=WdSnJqNGHVLAwIgm5GVVRQ&expires=1792166918",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/c8541b78cf00651a28780c8505c49a24/master.m3u8?md5=WdSnJqNGHVLAwIgm5GVVRQ&expires=1792166918",
+            "videoSource": "https://ravok.buzz/cdn/hls/c8541b78cf00651a28780c8505c49a24/master.m3u8?md5=WdSnJqNGHVLAwIgm5GVVRQ&expires=1792166918",
+            "videoImage": "https://as-cdn29.top/p/EuC7ueOlGdK4T2DNlTbRJtbDApjEqq2-8nt8w10l-UEBbgWCLMBixwJvf9O4oOfVeTuloTa6lgVzITcH3QP5JQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "f511186b08b671a4ad5a1deaae96e310",
+                "streamUrl": "https://ravok.buzz/cdn/hls/c8541b78cf00651a28780c8505c49a24/master.m3u8?md5=WdSnJqNGHVLAwIgm5GVVRQ&expires=1792166918",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/c8541b78cf00651a28780c8505c49a24/master.m3u8?md5=WdSnJqNGHVLAwIgm5GVVRQ&expires=1792166918",
+                "videoSource": "https://ravok.buzz/cdn/hls/c8541b78cf00651a28780c8505c49a24/master.m3u8?md5=WdSnJqNGHVLAwIgm5GVVRQ&expires=1792166918",
+                "link": "https://ravok.buzz/cdn/hls/c8541b78cf00651a28780c8505c49a24/master.m3u8?md5=WdSnJqNGHVLAwIgm5GVVRQ&expires=1792166918",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/EuC7ueOlGdK4T2DNlTbRJtbDApjEqq2-8nt8w10l-UEBbgWCLMBixwJvf9O4oOfVeTuloTa6lgVzITcH3QP5JQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "VDgm3d6wN"
+        }
+      },
+      "fetched_at": "2026-10-16T14:08:48Z"
+    },
+    {
+      "id": "episode/the-great-cleric-1x12",
+      "episode_id": "episode/the-great-cleric-1x12",
+      "title": "The Great Cleric 1x1",
+      "episode_name": "The Great Cleric 1x1",
+      "episode_number": 12,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1270_s1e12.webp",
+      "abyssid": "12815",
+      "abyssId": "12815",
+      "playxid": "e2fcc738438c4e7ca4b605ef8764db73",
+      "playXID": "e2fcc738438c4e7ca4b605ef8764db73",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12815",
+        "playXID": "e2fcc738438c4e7ca4b605ef8764db73",
+        "streamId": "12815",
+        "dubPlayerSrc": "/dub-player/t/12815/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e2fcc738438c4e7ca4b605ef8764db73&abyssId=12815"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12815",
+        "playXID": "e2fcc738438c4e7ca4b605ef8764db73",
+        "streamId": "12815",
+        "dubPlayerSrc": "/dub-player/t/12815/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e2fcc738438c4e7ca4b605ef8764db73&abyssId=12815"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/e2fcc738438c4e7ca4b605ef8764db73",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/e2fcc738438c4e7ca4b605ef8764db73"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12815",
+        "abyssId": "12815",
+        "playXID": "e2fcc738438c4e7ca4b605ef8764db73",
+        "title": "The Great Cleric",
+        "season": 1,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "4M4zom_QW"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "cWrU4Ebj8"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "9uZbx6uY6"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "gcI13ban7"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "XWBrh6RdF"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/8fc299a246ca0569d1ac96f3061560f7/master.m3u8?md5=gJzoqOVWlEdWTOlzfx1yfQ&expires=1792166918",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/8fc299a246ca0569d1ac96f3061560f7/master.m3u8?md5=gJzoqOVWlEdWTOlzfx1yfQ&expires=1792166918",
+            "videoSource": "https://ravok.buzz/cdn/hls/8fc299a246ca0569d1ac96f3061560f7/master.m3u8?md5=gJzoqOVWlEdWTOlzfx1yfQ&expires=1792166918",
+            "videoImage": "https://as-cdn27.top/p/IIkmCt9FHSupZVnCnDmX4Ytqu-vWoV5sgreGgvWnceIvc53yE2NqLF8iehz0F_a-aanNnpxfqZu1NEldp0Ctxg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "e2fcc738438c4e7ca4b605ef8764db73",
+                "streamUrl": "https://ravok.buzz/cdn/hls/8fc299a246ca0569d1ac96f3061560f7/master.m3u8?md5=gJzoqOVWlEdWTOlzfx1yfQ&expires=1792166918",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/8fc299a246ca0569d1ac96f3061560f7/master.m3u8?md5=gJzoqOVWlEdWTOlzfx1yfQ&expires=1792166918",
+                "videoSource": "https://ravok.buzz/cdn/hls/8fc299a246ca0569d1ac96f3061560f7/master.m3u8?md5=gJzoqOVWlEdWTOlzfx1yfQ&expires=1792166918",
+                "link": "https://ravok.buzz/cdn/hls/8fc299a246ca0569d1ac96f3061560f7/master.m3u8?md5=gJzoqOVWlEdWTOlzfx1yfQ&expires=1792166918",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/IIkmCt9FHSupZVnCnDmX4Ytqu-vWoV5sgreGgvWnceIvc53yE2NqLF8iehz0F_a-aanNnpxfqZu1NEldp0Ctxg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "4M4zom_QW"
+        }
+      },
+      "fetched_at": "2026-10-16T14:08:48Z"
+    },
+    {
+      "id": "episode/the-great-cleric-1x6",
+      "episode_id": "episode/the-great-cleric-1x6",
+      "title": "The Great Cleric 1x1",
+      "episode_name": "The Great Cleric 1x1",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1270_s1e6.webp",
+      "abyssid": "12809",
+      "abyssId": "12809",
+      "playxid": "05b0ea6e9b8e791347dfe157d54d679f",
+      "playXID": "05b0ea6e9b8e791347dfe157d54d679f",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12809",
+        "playXID": "05b0ea6e9b8e791347dfe157d54d679f",
+        "streamId": "12809",
+        "dubPlayerSrc": "/dub-player/t/12809/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=05b0ea6e9b8e791347dfe157d54d679f&abyssId=12809"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12809",
+        "playXID": "05b0ea6e9b8e791347dfe157d54d679f",
+        "streamId": "12809",
+        "dubPlayerSrc": "/dub-player/t/12809/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=05b0ea6e9b8e791347dfe157d54d679f&abyssId=12809"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/05b0ea6e9b8e791347dfe157d54d679f",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/05b0ea6e9b8e791347dfe157d54d679f"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12809",
+        "abyssId": "12809",
+        "playXID": "05b0ea6e9b8e791347dfe157d54d679f",
+        "title": "The Great Cleric",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "2FIKmf-Ab"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "OQmJondX-"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "6YkZcQDHI"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "PKuRY3oz4A"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "kc3kG7prt"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/bb7ce36ba2b18c8ca2ad1990d882a8b9/master.m3u8?md5=GbzA9fMAwGBW55X9l89NXg&expires=1792166920",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/bb7ce36ba2b18c8ca2ad1990d882a8b9/master.m3u8?md5=GbzA9fMAwGBW55X9l89NXg&expires=1792166920",
+            "videoSource": "https://ravok.buzz/cdn/hls/bb7ce36ba2b18c8ca2ad1990d882a8b9/master.m3u8?md5=GbzA9fMAwGBW55X9l89NXg&expires=1792166920",
+            "videoImage": "https://as-cdn27.top/p/6GT9w9jx7r77oMio2CPIHYnTX2N3e39uYHSN8PHRl9OlKPavCCP-uWVQXMI5KPkKnIcwZU5oEml3-WyuEkA7HA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "05b0ea6e9b8e791347dfe157d54d679f",
+                "streamUrl": "https://ravok.buzz/cdn/hls/bb7ce36ba2b18c8ca2ad1990d882a8b9/master.m3u8?md5=GbzA9fMAwGBW55X9l89NXg&expires=1792166920",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/bb7ce36ba2b18c8ca2ad1990d882a8b9/master.m3u8?md5=GbzA9fMAwGBW55X9l89NXg&expires=1792166920",
+                "videoSource": "https://ravok.buzz/cdn/hls/bb7ce36ba2b18c8ca2ad1990d882a8b9/master.m3u8?md5=GbzA9fMAwGBW55X9l89NXg&expires=1792166920",
+                "link": "https://ravok.buzz/cdn/hls/bb7ce36ba2b18c8ca2ad1990d882a8b9/master.m3u8?md5=GbzA9fMAwGBW55X9l89NXg&expires=1792166920",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/6GT9w9jx7r77oMio2CPIHYnTX2N3e39uYHSN8PHRl9OlKPavCCP-uWVQXMI5KPkKnIcwZU5oEml3-WyuEkA7HA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "2FIKmf-Ab"
+        }
+      },
+      "fetched_at": "2026-10-16T14:08:50Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T14:08:42Z",
+  "updated_at": "2026-10-16T14:08:50Z"
+}

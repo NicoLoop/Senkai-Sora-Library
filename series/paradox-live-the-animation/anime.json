@@ -1,0 +1,1499 @@
+{
+  "id": "series/paradox-live-the-animation",
+  "series_name": "Paradox Live THE ANIMATION",
+  "title": "Paradox Live THE ANIMATION",
+  "banner": "https://image.tmdb.org/t/p/w1280/7o116hjdaWQzEaRT4SfH4F6nohN.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/tlPG08mmtFPb6K0PpymddXvuzzt.jpg",
+  "genra": [
+    "Action",
+    "Drama",
+    "Musical",
+    "Sci-Fi"
+  ],
+  "genres": [
+    "Action",
+    "Drama",
+    "Musical",
+    "Sci-Fi"
+  ],
+  "languages": [
+    "Hindi",
+    "Japanese",
+    "Kannada",
+    "Tamil",
+    "Telugu"
+  ],
+  "synopsis": "Saturated in hip hop culture comes the birth of a new movement known as \"Phantom Live.\" Each of the artists have a metal accessory known as \"Phantom Metal\" which chemically reacts to the wearer's emotions to produce an image, setting a magnificent stage for enthusiastic youths. With legendary club \"CLUB paradox\" hosting the mysterious Paradox Live, four teams: BAE, The Cat's Whiskers, cozmez and Akanyatsura each receive an invitation to participate, each with their own genre of music in a race to the top.",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Paradox Live THE ANIMATION 1x1",
+          "id": "episode/paradox-live-the-animation-1x1",
+          "image": "https://img.watchanimeworld.one/image/1742/1/1.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "Paradox Live THE ANIMATION 1x2",
+          "id": "episode/paradox-live-the-animation-1x2",
+          "image": "https://img.watchanimeworld.one/image/1742/1/2.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "Paradox Live THE ANIMATION 1x3",
+          "id": "episode/paradox-live-the-animation-1x3",
+          "image": "https://img.watchanimeworld.one/image/1742/1/3.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "Paradox Live THE ANIMATION 1x4",
+          "id": "episode/paradox-live-the-animation-1x4",
+          "image": "https://img.watchanimeworld.one/image/1742/1/4.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "Paradox Live THE ANIMATION 1x5",
+          "id": "episode/paradox-live-the-animation-1x5",
+          "image": "https://img.watchanimeworld.one/image/1742/1/5.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "Paradox Live THE ANIMATION 1x6",
+          "id": "episode/paradox-live-the-animation-1x6",
+          "image": "https://img.watchanimeworld.one/image/1742/1/6.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "Paradox Live THE ANIMATION 1x7",
+          "id": "episode/paradox-live-the-animation-1x7",
+          "image": "https://img.watchanimeworld.one/image/1742/1/7.webp",
+          "season": 1
+        },
+        {
+          "episode": 8,
+          "title": "Paradox Live THE ANIMATION 1x8",
+          "id": "episode/paradox-live-the-animation-1x8",
+          "image": "https://img.watchanimeworld.one/image/1742/1/8.webp",
+          "season": 1
+        },
+        {
+          "episode": 9,
+          "title": "Paradox Live THE ANIMATION 1x9",
+          "id": "episode/paradox-live-the-animation-1x9",
+          "image": "https://img.watchanimeworld.one/image/1742/1/9.webp",
+          "season": 1
+        },
+        {
+          "episode": 10,
+          "title": "Paradox Live THE ANIMATION 1x10",
+          "id": "episode/paradox-live-the-animation-1x10",
+          "image": "https://img.watchanimeworld.one/image/1742/1/10.webp",
+          "season": 1
+        },
+        {
+          "episode": 11,
+          "title": "Paradox Live THE ANIMATION 1x11",
+          "id": "episode/paradox-live-the-animation-1x11",
+          "image": "https://img.watchanimeworld.one/image/1742/1/11.webp",
+          "season": 1
+        },
+        {
+          "episode": 12,
+          "title": "Paradox Live THE ANIMATION 1x12",
+          "id": "episode/paradox-live-the-animation-1x12",
+          "image": "https://img.watchanimeworld.one/image/1742/1/12.webp",
+          "season": 1
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/paradox-live-the-animation-1x4",
+      "episode_id": "episode/paradox-live-the-animation-1x4",
+      "title": "Paradox Live THE ANIMATION 1x1",
+      "episode_name": "Paradox Live THE ANIMATION 1x1",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1742/1/4.webp",
+      "abyssid": "15790",
+      "abyssId": "15790",
+      "playxid": "176d4cc26aefd148d136259a089d354a",
+      "playXID": "176d4cc26aefd148d136259a089d354a",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15790",
+        "playXID": "176d4cc26aefd148d136259a089d354a",
+        "streamId": "15790",
+        "dubPlayerSrc": "/dub-player/t/15790/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=176d4cc26aefd148d136259a089d354a&abyssId=15790"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15790",
+        "playXID": "176d4cc26aefd148d136259a089d354a",
+        "streamId": "15790",
+        "dubPlayerSrc": "/dub-player/t/15790/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=176d4cc26aefd148d136259a089d354a&abyssId=15790"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/176d4cc26aefd148d136259a089d354a",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/176d4cc26aefd148d136259a089d354a"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15790",
+        "abyssId": "15790",
+        "playXID": "176d4cc26aefd148d136259a089d354a",
+        "title": "Paradox Live THE ANIMATION",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "oZs5YILnc"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "rjrZXq4MJ"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "9I70pQ_GO"
+              },
+              {
+                "language": "Kannada",
+                "code": "kan",
+                "short": "KN",
+                "video_id": "9yZ7zkq14"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "OmBDMqrBtr"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/41572d579f1fa04d77933f000fd91685/master.m3u8?md5=9eSOfsu-bgZdGhKyJ8znaQ&expires=1792166573",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/41572d579f1fa04d77933f000fd91685/master.m3u8?md5=9eSOfsu-bgZdGhKyJ8znaQ&expires=1792166573",
+            "videoSource": "https://ravok.buzz/cdn/hls/41572d579f1fa04d77933f000fd91685/master.m3u8?md5=9eSOfsu-bgZdGhKyJ8znaQ&expires=1792166573",
+            "videoImage": "https://as-cdn28.top/p/A2MOPmc_WgcUiqbinUXD0IspzuPADbnO8nVZpEh8fM6uprfg3oDo75IKUl8-bHdtAnRv1xEIcRO6cI0sRhwEKw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "176d4cc26aefd148d136259a089d354a",
+                "streamUrl": "https://ravok.buzz/cdn/hls/41572d579f1fa04d77933f000fd91685/master.m3u8?md5=9eSOfsu-bgZdGhKyJ8znaQ&expires=1792166573",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/41572d579f1fa04d77933f000fd91685/master.m3u8?md5=9eSOfsu-bgZdGhKyJ8znaQ&expires=1792166573",
+                "videoSource": "https://ravok.buzz/cdn/hls/41572d579f1fa04d77933f000fd91685/master.m3u8?md5=9eSOfsu-bgZdGhKyJ8znaQ&expires=1792166573",
+                "link": "https://ravok.buzz/cdn/hls/41572d579f1fa04d77933f000fd91685/master.m3u8?md5=9eSOfsu-bgZdGhKyJ8znaQ&expires=1792166573",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/A2MOPmc_WgcUiqbinUXD0IspzuPADbnO8nVZpEh8fM6uprfg3oDo75IKUl8-bHdtAnRv1xEIcRO6cI0sRhwEKw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "oZs5YILnc"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:03Z"
+    },
+    {
+      "id": "episode/paradox-live-the-animation-1x5",
+      "episode_id": "episode/paradox-live-the-animation-1x5",
+      "title": "Paradox Live THE ANIMATION 1x1",
+      "episode_name": "Paradox Live THE ANIMATION 1x1",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1742/1/5.webp",
+      "abyssid": "15791",
+      "abyssId": "15791",
+      "playxid": "6def9cdc404151fd9c44071edea3d735",
+      "playXID": "6def9cdc404151fd9c44071edea3d735",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15791",
+        "playXID": "6def9cdc404151fd9c44071edea3d735",
+        "streamId": "15791",
+        "dubPlayerSrc": "/dub-player/t/15791/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6def9cdc404151fd9c44071edea3d735&abyssId=15791"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15791",
+        "playXID": "6def9cdc404151fd9c44071edea3d735",
+        "streamId": "15791",
+        "dubPlayerSrc": "/dub-player/t/15791/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6def9cdc404151fd9c44071edea3d735&abyssId=15791"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/6def9cdc404151fd9c44071edea3d735",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/6def9cdc404151fd9c44071edea3d735"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15791",
+        "abyssId": "15791",
+        "playXID": "6def9cdc404151fd9c44071edea3d735",
+        "title": "Paradox Live THE ANIMATION",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "m8cYiIkJn"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "wGZHJOKdk"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "LoRRsR_eqa"
+              },
+              {
+                "language": "Kannada",
+                "code": "kan",
+                "short": "KN",
+                "video_id": "ucNVfJws5"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "jWDXtMQoQ"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/7f8934f874ef141b8abcc8002ba8f83a/master.m3u8?md5=cASD4UytvxMl_fEkux9IYQ&expires=1792166573",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/7f8934f874ef141b8abcc8002ba8f83a/master.m3u8?md5=cASD4UytvxMl_fEkux9IYQ&expires=1792166573",
+            "videoSource": "https://ravok.buzz/cdn/hls/7f8934f874ef141b8abcc8002ba8f83a/master.m3u8?md5=cASD4UytvxMl_fEkux9IYQ&expires=1792166573",
+            "videoImage": "https://as-cdn29.top/p/JEu5QArODQg7KiUQTbHfe6k1rCCwmEtamJRSZ5xjavHoGrytAXPikNQS7xYD6v5RI8aED4yI-tD_NY-FwiZBdw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "6def9cdc404151fd9c44071edea3d735",
+                "streamUrl": "https://ravok.buzz/cdn/hls/7f8934f874ef141b8abcc8002ba8f83a/master.m3u8?md5=cASD4UytvxMl_fEkux9IYQ&expires=1792166573",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/7f8934f874ef141b8abcc8002ba8f83a/master.m3u8?md5=cASD4UytvxMl_fEkux9IYQ&expires=1792166573",
+                "videoSource": "https://ravok.buzz/cdn/hls/7f8934f874ef141b8abcc8002ba8f83a/master.m3u8?md5=cASD4UytvxMl_fEkux9IYQ&expires=1792166573",
+                "link": "https://ravok.buzz/cdn/hls/7f8934f874ef141b8abcc8002ba8f83a/master.m3u8?md5=cASD4UytvxMl_fEkux9IYQ&expires=1792166573",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/JEu5QArODQg7KiUQTbHfe6k1rCCwmEtamJRSZ5xjavHoGrytAXPikNQS7xYD6v5RI8aED4yI-tD_NY-FwiZBdw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "m8cYiIkJn"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:03Z"
+    },
+    {
+      "id": "episode/paradox-live-the-animation-1x2",
+      "episode_id": "episode/paradox-live-the-animation-1x2",
+      "title": "Paradox Live THE ANIMATION 1x1",
+      "episode_name": "Paradox Live THE ANIMATION 1x1",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1742/1/2.webp",
+      "abyssid": "15788",
+      "abyssId": "15788",
+      "playxid": "84adf1b967670705085ec0ca0cf48e31",
+      "playXID": "84adf1b967670705085ec0ca0cf48e31",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15788",
+        "playXID": "84adf1b967670705085ec0ca0cf48e31",
+        "streamId": "15788",
+        "dubPlayerSrc": "/dub-player/t/15788/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=84adf1b967670705085ec0ca0cf48e31&abyssId=15788"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15788",
+        "playXID": "84adf1b967670705085ec0ca0cf48e31",
+        "streamId": "15788",
+        "dubPlayerSrc": "/dub-player/t/15788/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=84adf1b967670705085ec0ca0cf48e31&abyssId=15788"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/84adf1b967670705085ec0ca0cf48e31",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/84adf1b967670705085ec0ca0cf48e31"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15788",
+        "abyssId": "15788",
+        "playXID": "84adf1b967670705085ec0ca0cf48e31",
+        "title": "Paradox Live THE ANIMATION",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "YBVLAGJiv"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "XAXtKqKe8"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "z4DThGAPh"
+              },
+              {
+                "language": "Kannada",
+                "code": "kan",
+                "short": "KN",
+                "video_id": "DxBuUe5-Z"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "wX7vJdlPq"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/2e7bc4f0c1bba896c6880750ad374eb7/master.m3u8?md5=a8xYyOkWXKbuBaUvNM56lw&expires=1792166573",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/2e7bc4f0c1bba896c6880750ad374eb7/master.m3u8?md5=a8xYyOkWXKbuBaUvNM56lw&expires=1792166573",
+            "videoSource": "https://ravok.buzz/cdn/hls/2e7bc4f0c1bba896c6880750ad374eb7/master.m3u8?md5=a8xYyOkWXKbuBaUvNM56lw&expires=1792166573",
+            "videoImage": "https://as-cdn28.top/p/POI2gqyxoM2dIx5ykCYyPA6hExnuJX3HHxgickdhdMOrP7SWxEzHWgtW7X-AQ7A2Ccqe26TE4d9qL2j3PkXvLw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "84adf1b967670705085ec0ca0cf48e31",
+                "streamUrl": "https://ravok.buzz/cdn/hls/2e7bc4f0c1bba896c6880750ad374eb7/master.m3u8?md5=a8xYyOkWXKbuBaUvNM56lw&expires=1792166573",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/2e7bc4f0c1bba896c6880750ad374eb7/master.m3u8?md5=a8xYyOkWXKbuBaUvNM56lw&expires=1792166573",
+                "videoSource": "https://ravok.buzz/cdn/hls/2e7bc4f0c1bba896c6880750ad374eb7/master.m3u8?md5=a8xYyOkWXKbuBaUvNM56lw&expires=1792166573",
+                "link": "https://ravok.buzz/cdn/hls/2e7bc4f0c1bba896c6880750ad374eb7/master.m3u8?md5=a8xYyOkWXKbuBaUvNM56lw&expires=1792166573",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/POI2gqyxoM2dIx5ykCYyPA6hExnuJX3HHxgickdhdMOrP7SWxEzHWgtW7X-AQ7A2Ccqe26TE4d9qL2j3PkXvLw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "YBVLAGJiv"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:03Z"
+    },
+    {
+      "id": "episode/paradox-live-the-animation-1x3",
+      "episode_id": "episode/paradox-live-the-animation-1x3",
+      "title": "Paradox Live THE ANIMATION 1x1",
+      "episode_name": "Paradox Live THE ANIMATION 1x1",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1742/1/3.webp",
+      "abyssid": "15789",
+      "abyssId": "15789",
+      "playxid": "0d9d154fb5b905d3f6d606f8b6cbb750",
+      "playXID": "0d9d154fb5b905d3f6d606f8b6cbb750",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15789",
+        "playXID": "0d9d154fb5b905d3f6d606f8b6cbb750",
+        "streamId": "15789",
+        "dubPlayerSrc": "/dub-player/t/15789/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=0d9d154fb5b905d3f6d606f8b6cbb750&abyssId=15789"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15789",
+        "playXID": "0d9d154fb5b905d3f6d606f8b6cbb750",
+        "streamId": "15789",
+        "dubPlayerSrc": "/dub-player/t/15789/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=0d9d154fb5b905d3f6d606f8b6cbb750&abyssId=15789"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/0d9d154fb5b905d3f6d606f8b6cbb750",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/0d9d154fb5b905d3f6d606f8b6cbb750"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15789",
+        "abyssId": "15789",
+        "playXID": "0d9d154fb5b905d3f6d606f8b6cbb750",
+        "title": "Paradox Live THE ANIMATION",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "4j73Fk9HB"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "hFJAmRXJZ"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "2S3MIO4wA"
+              },
+              {
+                "language": "Kannada",
+                "code": "kan",
+                "short": "KN",
+                "video_id": "xDQu8KtD8"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "r_4LCssf_"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/b391bd04057c86617cfcfbaece40d1e9/master.m3u8?md5=jaDlZztB-fnKqw-N7XnP-w&expires=1792166574",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/b391bd04057c86617cfcfbaece40d1e9/master.m3u8?md5=jaDlZztB-fnKqw-N7XnP-w&expires=1792166574",
+            "videoSource": "https://ravok.buzz/cdn/hls/b391bd04057c86617cfcfbaece40d1e9/master.m3u8?md5=jaDlZztB-fnKqw-N7XnP-w&expires=1792166574",
+            "videoImage": "https://as-cdn31.top/p/6_qEtuzGc_KTr6LWVTOx9wHdBwewOFxEM33a7M4yhI0DK3wDoSUz0woH30-v9Z1kFAj0gZ6H-lVUHP-c4vHx1g.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "0d9d154fb5b905d3f6d606f8b6cbb750",
+                "streamUrl": "https://ravok.buzz/cdn/hls/b391bd04057c86617cfcfbaece40d1e9/master.m3u8?md5=jaDlZztB-fnKqw-N7XnP-w&expires=1792166574",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/b391bd04057c86617cfcfbaece40d1e9/master.m3u8?md5=jaDlZztB-fnKqw-N7XnP-w&expires=1792166574",
+                "videoSource": "https://ravok.buzz/cdn/hls/b391bd04057c86617cfcfbaece40d1e9/master.m3u8?md5=jaDlZztB-fnKqw-N7XnP-w&expires=1792166574",
+                "link": "https://ravok.buzz/cdn/hls/b391bd04057c86617cfcfbaece40d1e9/master.m3u8?md5=jaDlZztB-fnKqw-N7XnP-w&expires=1792166574",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/6_qEtuzGc_KTr6LWVTOx9wHdBwewOFxEM33a7M4yhI0DK3wDoSUz0woH30-v9Z1kFAj0gZ6H-lVUHP-c4vHx1g.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "4j73Fk9HB"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:04Z"
+    },
+    {
+      "id": "episode/paradox-live-the-animation-1x6",
+      "episode_id": "episode/paradox-live-the-animation-1x6",
+      "title": "Paradox Live THE ANIMATION 1x1",
+      "episode_name": "Paradox Live THE ANIMATION 1x1",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1742/1/6.webp",
+      "abyssid": "15792",
+      "abyssId": "15792",
+      "playxid": "abe6c9167b9dbf35afc623218eaefe13",
+      "playXID": "abe6c9167b9dbf35afc623218eaefe13",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15792",
+        "playXID": "abe6c9167b9dbf35afc623218eaefe13",
+        "streamId": "15792",
+        "dubPlayerSrc": "/dub-player/t/15792/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=abe6c9167b9dbf35afc623218eaefe13&abyssId=15792"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15792",
+        "playXID": "abe6c9167b9dbf35afc623218eaefe13",
+        "streamId": "15792",
+        "dubPlayerSrc": "/dub-player/t/15792/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=abe6c9167b9dbf35afc623218eaefe13&abyssId=15792"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/abe6c9167b9dbf35afc623218eaefe13",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/abe6c9167b9dbf35afc623218eaefe13"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15792",
+        "abyssId": "15792",
+        "playXID": "abe6c9167b9dbf35afc623218eaefe13",
+        "title": "Paradox Live THE ANIMATION",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "exben_8Es"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "JK_uxBaxu"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "qvcfHXgmQ"
+              },
+              {
+                "language": "Kannada",
+                "code": "kan",
+                "short": "KN",
+                "video_id": "yhkNh9WZx"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "EGuIUb0_R"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/fee1666c36d9d52a649cf76eeedcc1f0/master.m3u8?md5=dSmYeDJdfzlomb6koqn-OQ&expires=1792166575",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/fee1666c36d9d52a649cf76eeedcc1f0/master.m3u8?md5=dSmYeDJdfzlomb6koqn-OQ&expires=1792166575",
+            "videoSource": "https://ravok.buzz/cdn/hls/fee1666c36d9d52a649cf76eeedcc1f0/master.m3u8?md5=dSmYeDJdfzlomb6koqn-OQ&expires=1792166575",
+            "videoImage": "https://as-cdn30.top/p/FfQbMF4tEuetW4NsotC0Y0ag3uKTkF0F5Afb_AVG9wUlP8gxuKl0ng1fd7KxFX9oW7aK8-jYVWuG7g4y_kFHtQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "abe6c9167b9dbf35afc623218eaefe13",
+                "streamUrl": "https://ravok.buzz/cdn/hls/fee1666c36d9d52a649cf76eeedcc1f0/master.m3u8?md5=dSmYeDJdfzlomb6koqn-OQ&expires=1792166575",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/fee1666c36d9d52a649cf76eeedcc1f0/master.m3u8?md5=dSmYeDJdfzlomb6koqn-OQ&expires=1792166575",
+                "videoSource": "https://ravok.buzz/cdn/hls/fee1666c36d9d52a649cf76eeedcc1f0/master.m3u8?md5=dSmYeDJdfzlomb6koqn-OQ&expires=1792166575",
+                "link": "https://ravok.buzz/cdn/hls/fee1666c36d9d52a649cf76eeedcc1f0/master.m3u8?md5=dSmYeDJdfzlomb6koqn-OQ&expires=1792166575",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/FfQbMF4tEuetW4NsotC0Y0ag3uKTkF0F5Afb_AVG9wUlP8gxuKl0ng1fd7KxFX9oW7aK8-jYVWuG7g4y_kFHtQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "exben_8Es"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:05Z"
+    },
+    {
+      "id": "episode/paradox-live-the-animation-1x8",
+      "episode_id": "episode/paradox-live-the-animation-1x8",
+      "title": "Paradox Live THE ANIMATION 1x1",
+      "episode_name": "Paradox Live THE ANIMATION 1x1",
+      "episode_number": 8,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1742/1/8.webp",
+      "abyssid": "15794",
+      "abyssId": "15794",
+      "playxid": "ca0226c1b273bb50a210ba4a8db4ce8c",
+      "playXID": "ca0226c1b273bb50a210ba4a8db4ce8c",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15794",
+        "playXID": "ca0226c1b273bb50a210ba4a8db4ce8c",
+        "streamId": "15794",
+        "dubPlayerSrc": "/dub-player/t/15794/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ca0226c1b273bb50a210ba4a8db4ce8c&abyssId=15794"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15794",
+        "playXID": "ca0226c1b273bb50a210ba4a8db4ce8c",
+        "streamId": "15794",
+        "dubPlayerSrc": "/dub-player/t/15794/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ca0226c1b273bb50a210ba4a8db4ce8c&abyssId=15794"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/ca0226c1b273bb50a210ba4a8db4ce8c",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/ca0226c1b273bb50a210ba4a8db4ce8c"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15794",
+        "abyssId": "15794",
+        "playXID": "ca0226c1b273bb50a210ba4a8db4ce8c",
+        "title": "Paradox Live THE ANIMATION",
+        "season": 1,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "r-fCp-gJ1"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "r-nXn4Jtq"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "rRdPYE5B6"
+              },
+              {
+                "language": "Kannada",
+                "code": "kan",
+                "short": "KN",
+                "video_id": "d3sCTKDaK"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "dfPsRdkHh"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/eac334558fbdcf17121f2896e655d90e/master.m3u8?md5=tf8kp7tqgyxvhRcAOCZM6w&expires=1792166575",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/eac334558fbdcf17121f2896e655d90e/master.m3u8?md5=tf8kp7tqgyxvhRcAOCZM6w&expires=1792166575",
+            "videoSource": "https://ravok.buzz/cdn/hls/eac334558fbdcf17121f2896e655d90e/master.m3u8?md5=tf8kp7tqgyxvhRcAOCZM6w&expires=1792166575",
+            "videoImage": "https://as-cdn27.top/p/z5qXQ1Qq3tX0r25wqFWAV_uRLgn2TASIo7W3sC3EfpxS6d6a2p-S9KNq_wjtuw2D3O7Aw_moha7wYcTGu9klOQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "ca0226c1b273bb50a210ba4a8db4ce8c",
+                "streamUrl": "https://ravok.buzz/cdn/hls/eac334558fbdcf17121f2896e655d90e/master.m3u8?md5=tf8kp7tqgyxvhRcAOCZM6w&expires=1792166575",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/eac334558fbdcf17121f2896e655d90e/master.m3u8?md5=tf8kp7tqgyxvhRcAOCZM6w&expires=1792166575",
+                "videoSource": "https://ravok.buzz/cdn/hls/eac334558fbdcf17121f2896e655d90e/master.m3u8?md5=tf8kp7tqgyxvhRcAOCZM6w&expires=1792166575",
+                "link": "https://ravok.buzz/cdn/hls/eac334558fbdcf17121f2896e655d90e/master.m3u8?md5=tf8kp7tqgyxvhRcAOCZM6w&expires=1792166575",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/z5qXQ1Qq3tX0r25wqFWAV_uRLgn2TASIo7W3sC3EfpxS6d6a2p-S9KNq_wjtuw2D3O7Aw_moha7wYcTGu9klOQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "r-fCp-gJ1"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:05Z"
+    },
+    {
+      "id": "episode/paradox-live-the-animation-1x7",
+      "episode_id": "episode/paradox-live-the-animation-1x7",
+      "title": "Paradox Live THE ANIMATION 1x1",
+      "episode_name": "Paradox Live THE ANIMATION 1x1",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1742/1/7.webp",
+      "abyssid": "15793",
+      "abyssId": "15793",
+      "playxid": "0365aaecae1f149351d36fb06a31828f",
+      "playXID": "0365aaecae1f149351d36fb06a31828f",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15793",
+        "playXID": "0365aaecae1f149351d36fb06a31828f",
+        "streamId": "15793",
+        "dubPlayerSrc": "/dub-player/t/15793/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=0365aaecae1f149351d36fb06a31828f&abyssId=15793"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15793",
+        "playXID": "0365aaecae1f149351d36fb06a31828f",
+        "streamId": "15793",
+        "dubPlayerSrc": "/dub-player/t/15793/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=0365aaecae1f149351d36fb06a31828f&abyssId=15793"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/0365aaecae1f149351d36fb06a31828f",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/0365aaecae1f149351d36fb06a31828f"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15793",
+        "abyssId": "15793",
+        "playXID": "0365aaecae1f149351d36fb06a31828f",
+        "title": "Paradox Live THE ANIMATION",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "FQB_0OOKJ"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "7SlNlXd_p"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "5p6h5RYq7"
+              },
+              {
+                "language": "Kannada",
+                "code": "kan",
+                "short": "KN",
+                "video_id": "fObHPEzeJ"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "tbmyTmTPm"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/eb4c9b43e67fad9b28fc4dcbc757e967/master.m3u8?md5=94505mPwfnyaP01paoYJWQ&expires=1792166575",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/eb4c9b43e67fad9b28fc4dcbc757e967/master.m3u8?md5=94505mPwfnyaP01paoYJWQ&expires=1792166575",
+            "videoSource": "https://ravok.buzz/cdn/hls/eb4c9b43e67fad9b28fc4dcbc757e967/master.m3u8?md5=94505mPwfnyaP01paoYJWQ&expires=1792166575",
+            "videoImage": "https://as-cdn27.top/p/rZvKlQFD7V4P01VBqxvhc0agaDbOBIYDrwFSTf-2IXdA91R2vCL_L0cT8JtX4oHSEKfU2mO3maLK4RAktjmeOw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "0365aaecae1f149351d36fb06a31828f",
+                "streamUrl": "https://ravok.buzz/cdn/hls/eb4c9b43e67fad9b28fc4dcbc757e967/master.m3u8?md5=94505mPwfnyaP01paoYJWQ&expires=1792166575",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/eb4c9b43e67fad9b28fc4dcbc757e967/master.m3u8?md5=94505mPwfnyaP01paoYJWQ&expires=1792166575",
+                "videoSource": "https://ravok.buzz/cdn/hls/eb4c9b43e67fad9b28fc4dcbc757e967/master.m3u8?md5=94505mPwfnyaP01paoYJWQ&expires=1792166575",
+                "link": "https://ravok.buzz/cdn/hls/eb4c9b43e67fad9b28fc4dcbc757e967/master.m3u8?md5=94505mPwfnyaP01paoYJWQ&expires=1792166575",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/rZvKlQFD7V4P01VBqxvhc0agaDbOBIYDrwFSTf-2IXdA91R2vCL_L0cT8JtX4oHSEKfU2mO3maLK4RAktjmeOw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "FQB_0OOKJ"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:05Z"
+    },
+    {
+      "id": "episode/paradox-live-the-animation-1x9",
+      "episode_id": "episode/paradox-live-the-animation-1x9",
+      "title": "Paradox Live THE ANIMATION 1x1",
+      "episode_name": "Paradox Live THE ANIMATION 1x1",
+      "episode_number": 9,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1742/1/9.webp",
+      "abyssid": "15795",
+      "abyssId": "15795",
+      "playxid": "195d221c982e47eb58347e5d06ce3180",
+      "playXID": "195d221c982e47eb58347e5d06ce3180",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15795",
+        "playXID": "195d221c982e47eb58347e5d06ce3180",
+        "streamId": "15795",
+        "dubPlayerSrc": "/dub-player/t/15795/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=195d221c982e47eb58347e5d06ce3180&abyssId=15795"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15795",
+        "playXID": "195d221c982e47eb58347e5d06ce3180",
+        "streamId": "15795",
+        "dubPlayerSrc": "/dub-player/t/15795/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=195d221c982e47eb58347e5d06ce3180&abyssId=15795"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/195d221c982e47eb58347e5d06ce3180",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/195d221c982e47eb58347e5d06ce3180"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15795",
+        "abyssId": "15795",
+        "playXID": "195d221c982e47eb58347e5d06ce3180",
+        "title": "Paradox Live THE ANIMATION",
+        "season": 1,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "3IyQsWeXW"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "rxc8mJMXD"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "0y7sa1pwi"
+              },
+              {
+                "language": "Kannada",
+                "code": "kan",
+                "short": "KN",
+                "video_id": "4yT7njHvN"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "eDjPhDmex"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/b4ac2c5c5b8ead6974f81fdcdd19ce1d/master.m3u8?md5=gWf7_AbtO4DvvhclRMpI5g&expires=1792166576",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/b4ac2c5c5b8ead6974f81fdcdd19ce1d/master.m3u8?md5=gWf7_AbtO4DvvhclRMpI5g&expires=1792166576",
+            "videoSource": "https://ravok.buzz/cdn/hls/b4ac2c5c5b8ead6974f81fdcdd19ce1d/master.m3u8?md5=gWf7_AbtO4DvvhclRMpI5g&expires=1792166576",
+            "videoImage": "https://as-cdn27.top/p/jWRD3MYWrkAiLbwG4OdPfitDfaZCjh4zmxnaXSFPSvTmY-lweP824nEuoFtCi5IVY4fUUDFOZH12HIHDbjFrFg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "195d221c982e47eb58347e5d06ce3180",
+                "streamUrl": "https://ravok.buzz/cdn/hls/b4ac2c5c5b8ead6974f81fdcdd19ce1d/master.m3u8?md5=gWf7_AbtO4DvvhclRMpI5g&expires=1792166576",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/b4ac2c5c5b8ead6974f81fdcdd19ce1d/master.m3u8?md5=gWf7_AbtO4DvvhclRMpI5g&expires=1792166576",
+                "videoSource": "https://ravok.buzz/cdn/hls/b4ac2c5c5b8ead6974f81fdcdd19ce1d/master.m3u8?md5=gWf7_AbtO4DvvhclRMpI5g&expires=1792166576",
+                "link": "https://ravok.buzz/cdn/hls/b4ac2c5c5b8ead6974f81fdcdd19ce1d/master.m3u8?md5=gWf7_AbtO4DvvhclRMpI5g&expires=1792166576",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/jWRD3MYWrkAiLbwG4OdPfitDfaZCjh4zmxnaXSFPSvTmY-lweP824nEuoFtCi5IVY4fUUDFOZH12HIHDbjFrFg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "3IyQsWeXW"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:06Z"
+    },
+    {
+      "id": "episode/paradox-live-the-animation-1x11",
+      "episode_id": "episode/paradox-live-the-animation-1x11",
+      "title": "Paradox Live THE ANIMATION 1x1",
+      "episode_name": "Paradox Live THE ANIMATION 1x1",
+      "episode_number": 11,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1742/1/11.webp",
+      "abyssid": "15797",
+      "abyssId": "15797",
+      "playxid": "b673ed011cfb3c810010abed6f3a034b",
+      "playXID": "b673ed011cfb3c810010abed6f3a034b",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15797",
+        "playXID": "b673ed011cfb3c810010abed6f3a034b",
+        "streamId": "15797",
+        "dubPlayerSrc": "/dub-player/t/15797/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b673ed011cfb3c810010abed6f3a034b&abyssId=15797"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15797",
+        "playXID": "b673ed011cfb3c810010abed6f3a034b",
+        "streamId": "15797",
+        "dubPlayerSrc": "/dub-player/t/15797/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b673ed011cfb3c810010abed6f3a034b&abyssId=15797"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/b673ed011cfb3c810010abed6f3a034b",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/b673ed011cfb3c810010abed6f3a034b"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15797",
+        "abyssId": "15797",
+        "playXID": "b673ed011cfb3c810010abed6f3a034b",
+        "title": "Paradox Live THE ANIMATION",
+        "season": 1,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "C5oU-VajQ"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "C0nQ9eNwO"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "KO1YHzjNs"
+              },
+              {
+                "language": "Kannada",
+                "code": "kan",
+                "short": "KN",
+                "video_id": "as8bBpVT5"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "P4bbv2-kq"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/afd404447e4d6e5b70f2ee4cd962a290/master.m3u8?md5=VzZuS72JFBDQuZqOZPaUPA&expires=1792166577",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/afd404447e4d6e5b70f2ee4cd962a290/master.m3u8?md5=VzZuS72JFBDQuZqOZPaUPA&expires=1792166577",
+            "videoSource": "https://ravok.buzz/cdn/hls/afd404447e4d6e5b70f2ee4cd962a290/master.m3u8?md5=VzZuS72JFBDQuZqOZPaUPA&expires=1792166577",
+            "videoImage": "https://as-cdn29.top/p/biSOYzeidMDAQkZ29ukN-CVruky4SnvgM8C95j0mT3iA4Y7IV-h42K0FN2HfnMtHkODi5QGs7a0O1BA8X9ke5A.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "b673ed011cfb3c810010abed6f3a034b",
+                "streamUrl": "https://ravok.buzz/cdn/hls/afd404447e4d6e5b70f2ee4cd962a290/master.m3u8?md5=VzZuS72JFBDQuZqOZPaUPA&expires=1792166577",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/afd404447e4d6e5b70f2ee4cd962a290/master.m3u8?md5=VzZuS72JFBDQuZqOZPaUPA&expires=1792166577",
+                "videoSource": "https://ravok.buzz/cdn/hls/afd404447e4d6e5b70f2ee4cd962a290/master.m3u8?md5=VzZuS72JFBDQuZqOZPaUPA&expires=1792166577",
+                "link": "https://ravok.buzz/cdn/hls/afd404447e4d6e5b70f2ee4cd962a290/master.m3u8?md5=VzZuS72JFBDQuZqOZPaUPA&expires=1792166577",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/biSOYzeidMDAQkZ29ukN-CVruky4SnvgM8C95j0mT3iA4Y7IV-h42K0FN2HfnMtHkODi5QGs7a0O1BA8X9ke5A.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "C5oU-VajQ"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:07Z"
+    },
+    {
+      "id": "episode/paradox-live-the-animation-1x10",
+      "episode_id": "episode/paradox-live-the-animation-1x10",
+      "title": "Paradox Live THE ANIMATION 1x1",
+      "episode_name": "Paradox Live THE ANIMATION 1x1",
+      "episode_number": 10,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1742/1/10.webp",
+      "abyssid": "15796",
+      "abyssId": "15796",
+      "playxid": "86e33d550dc162366a02003089ab9894",
+      "playXID": "86e33d550dc162366a02003089ab9894",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15796",
+        "playXID": "86e33d550dc162366a02003089ab9894",
+        "streamId": "15796",
+        "dubPlayerSrc": "/dub-player/t/15796/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=86e33d550dc162366a02003089ab9894&abyssId=15796"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15796",
+        "playXID": "86e33d550dc162366a02003089ab9894",
+        "streamId": "15796",
+        "dubPlayerSrc": "/dub-player/t/15796/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=86e33d550dc162366a02003089ab9894&abyssId=15796"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/86e33d550dc162366a02003089ab9894",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/86e33d550dc162366a02003089ab9894"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15796",
+        "abyssId": "15796",
+        "playXID": "86e33d550dc162366a02003089ab9894",
+        "title": "Paradox Live THE ANIMATION",
+        "season": 1,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "3CqZyztLW"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "sjW_G4c0q"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "IeKDCTitS"
+              },
+              {
+                "language": "Kannada",
+                "code": "kan",
+                "short": "KN",
+                "video_id": "4q2OCpzXS"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "xOTbf0BYH"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/2b4f0f2c00f0621663756c61fdb8008b/master.m3u8?md5=84o03-ela-qEk7CAK5iLxw&expires=1792166577",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/2b4f0f2c00f0621663756c61fdb8008b/master.m3u8?md5=84o03-ela-qEk7CAK5iLxw&expires=1792166577",
+            "videoSource": "https://ravok.buzz/cdn/hls/2b4f0f2c00f0621663756c61fdb8008b/master.m3u8?md5=84o03-ela-qEk7CAK5iLxw&expires=1792166577",
+            "videoImage": "https://as-cdn31.top/p/fg6r0gdZrQjyn4J_oZx9r4MVfo72p82b7jlBHTSDz-GBgwo0cfMnnMWZU4kjnokzW075TyFu-j5ZyFHZGUCoDA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "86e33d550dc162366a02003089ab9894",
+                "streamUrl": "https://ravok.buzz/cdn/hls/2b4f0f2c00f0621663756c61fdb8008b/master.m3u8?md5=84o03-ela-qEk7CAK5iLxw&expires=1792166577",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/2b4f0f2c00f0621663756c61fdb8008b/master.m3u8?md5=84o03-ela-qEk7CAK5iLxw&expires=1792166577",
+                "videoSource": "https://ravok.buzz/cdn/hls/2b4f0f2c00f0621663756c61fdb8008b/master.m3u8?md5=84o03-ela-qEk7CAK5iLxw&expires=1792166577",
+                "link": "https://ravok.buzz/cdn/hls/2b4f0f2c00f0621663756c61fdb8008b/master.m3u8?md5=84o03-ela-qEk7CAK5iLxw&expires=1792166577",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/fg6r0gdZrQjyn4J_oZx9r4MVfo72p82b7jlBHTSDz-GBgwo0cfMnnMWZU4kjnokzW075TyFu-j5ZyFHZGUCoDA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "3CqZyztLW"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:07Z"
+    },
+    {
+      "id": "episode/paradox-live-the-animation-1x1",
+      "episode_id": "episode/paradox-live-the-animation-1x1",
+      "title": "Paradox Live THE ANIMATION 1x1",
+      "episode_name": "Paradox Live THE ANIMATION 1x1",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1742/1/1.webp",
+      "abyssid": "15787",
+      "abyssId": "15787",
+      "playxid": "e4ba31fba036a999321d5460f7f2d1d1",
+      "playXID": "e4ba31fba036a999321d5460f7f2d1d1",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15787",
+        "playXID": "e4ba31fba036a999321d5460f7f2d1d1",
+        "streamId": "15787",
+        "dubPlayerSrc": "/dub-player/t/15787/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e4ba31fba036a999321d5460f7f2d1d1&abyssId=15787"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15787",
+        "playXID": "e4ba31fba036a999321d5460f7f2d1d1",
+        "streamId": "15787",
+        "dubPlayerSrc": "/dub-player/t/15787/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e4ba31fba036a999321d5460f7f2d1d1&abyssId=15787"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/e4ba31fba036a999321d5460f7f2d1d1",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/e4ba31fba036a999321d5460f7f2d1d1"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15787",
+        "abyssId": "15787",
+        "playXID": "e4ba31fba036a999321d5460f7f2d1d1",
+        "title": "Paradox Live THE ANIMATION",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "VeeVfc77e"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "gXb4HDobv"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "iJPNOA9Zy"
+              },
+              {
+                "language": "Kannada",
+                "code": "kan",
+                "short": "KN",
+                "video_id": "xxYzf_yov"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "n8NOHmfFn"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/e338dc21148487aaab61c6b1b023fbf1/master.m3u8?md5=5P6q2vHtRK9noFVqWZEjyg&expires=1792166577",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/e338dc21148487aaab61c6b1b023fbf1/master.m3u8?md5=5P6q2vHtRK9noFVqWZEjyg&expires=1792166577",
+            "videoSource": "https://ravok.buzz/cdn/hls/e338dc21148487aaab61c6b1b023fbf1/master.m3u8?md5=5P6q2vHtRK9noFVqWZEjyg&expires=1792166577",
+            "videoImage": "https://as-cdn30.top/p/X6D_MvavemttsS1aoqfkoX9UitT3eR7eMGq9uYreTnLO55YZ0M_nZYc2EVwbpmh0t2-Af6ZDcHTEKF6aei44lA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "e4ba31fba036a999321d5460f7f2d1d1",
+                "streamUrl": "https://ravok.buzz/cdn/hls/e338dc21148487aaab61c6b1b023fbf1/master.m3u8?md5=5P6q2vHtRK9noFVqWZEjyg&expires=1792166577",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/e338dc21148487aaab61c6b1b023fbf1/master.m3u8?md5=5P6q2vHtRK9noFVqWZEjyg&expires=1792166577",
+                "videoSource": "https://ravok.buzz/cdn/hls/e338dc21148487aaab61c6b1b023fbf1/master.m3u8?md5=5P6q2vHtRK9noFVqWZEjyg&expires=1792166577",
+                "link": "https://ravok.buzz/cdn/hls/e338dc21148487aaab61c6b1b023fbf1/master.m3u8?md5=5P6q2vHtRK9noFVqWZEjyg&expires=1792166577",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/X6D_MvavemttsS1aoqfkoX9UitT3eR7eMGq9uYreTnLO55YZ0M_nZYc2EVwbpmh0t2-Af6ZDcHTEKF6aei44lA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "VeeVfc77e"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:07Z"
+    },
+    {
+      "id": "episode/paradox-live-the-animation-1x12",
+      "episode_id": "episode/paradox-live-the-animation-1x12",
+      "title": "Paradox Live THE ANIMATION 1x1",
+      "episode_name": "Paradox Live THE ANIMATION 1x1",
+      "episode_number": 12,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1742/1/12.webp",
+      "abyssid": "15798",
+      "abyssId": "15798",
+      "playxid": "e2e46f7e10a42f41da2b9a6cb1f32a43",
+      "playXID": "e2e46f7e10a42f41da2b9a6cb1f32a43",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15798",
+        "playXID": "e2e46f7e10a42f41da2b9a6cb1f32a43",
+        "streamId": "15798",
+        "dubPlayerSrc": "/dub-player/t/15798/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e2e46f7e10a42f41da2b9a6cb1f32a43&abyssId=15798"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15798",
+        "playXID": "e2e46f7e10a42f41da2b9a6cb1f32a43",
+        "streamId": "15798",
+        "dubPlayerSrc": "/dub-player/t/15798/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e2e46f7e10a42f41da2b9a6cb1f32a43&abyssId=15798"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/e2e46f7e10a42f41da2b9a6cb1f32a43",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/e2e46f7e10a42f41da2b9a6cb1f32a43"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15798",
+        "abyssId": "15798",
+        "playXID": "e2e46f7e10a42f41da2b9a6cb1f32a43",
+        "title": "Paradox Live THE ANIMATION",
+        "season": 1,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "7esfTXOXJ"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "O8Cg5O7CF"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "7tbuYHH1j"
+              },
+              {
+                "language": "Kannada",
+                "code": "kan",
+                "short": "KN",
+                "video_id": "hxTxfPbk7"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "YGDL_4rIl"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/2b96a96ed300926ce941616d2f348964/master.m3u8?md5=2mn8D9eengL8HmwoaLn0fA&expires=1792166577",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/2b96a96ed300926ce941616d2f348964/master.m3u8?md5=2mn8D9eengL8HmwoaLn0fA&expires=1792166577",
+            "videoSource": "https://ravok.buzz/cdn/hls/2b96a96ed300926ce941616d2f348964/master.m3u8?md5=2mn8D9eengL8HmwoaLn0fA&expires=1792166577",
+            "videoImage": "https://as-cdn29.top/p/j3s_v6nlFafrbeeZxz735TBuSkRTCsFHaH_iDIpW1h4zSaaU4cJ5ymdp9Jp1wtQaeSTL1IkNckHlxjtQXSodqA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "e2e46f7e10a42f41da2b9a6cb1f32a43",
+                "streamUrl": "https://ravok.buzz/cdn/hls/2b96a96ed300926ce941616d2f348964/master.m3u8?md5=2mn8D9eengL8HmwoaLn0fA&expires=1792166577",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/2b96a96ed300926ce941616d2f348964/master.m3u8?md5=2mn8D9eengL8HmwoaLn0fA&expires=1792166577",
+                "videoSource": "https://ravok.buzz/cdn/hls/2b96a96ed300926ce941616d2f348964/master.m3u8?md5=2mn8D9eengL8HmwoaLn0fA&expires=1792166577",
+                "link": "https://ravok.buzz/cdn/hls/2b96a96ed300926ce941616d2f348964/master.m3u8?md5=2mn8D9eengL8HmwoaLn0fA&expires=1792166577",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/j3s_v6nlFafrbeeZxz735TBuSkRTCsFHaH_iDIpW1h4zSaaU4cJ5ymdp9Jp1wtQaeSTL1IkNckHlxjtQXSodqA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "7esfTXOXJ"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:07Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T14:03:00Z",
+  "updated_at": "2026-10-16T14:03:07Z"
+}

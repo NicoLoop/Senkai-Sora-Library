@@ -1,0 +1,950 @@
+{
+  "id": "series/star-wars-visions",
+  "series_name": "Star Wars: Visions",
+  "title": "Star Wars: Visions",
+  "banner": "https://image.tmdb.org/t/p/w1280/285SD5D2xE2x0W96dYHyRNF2YNK.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/6NgLGcOHscy6yLXpKCQi4Mz1yVa.jpg",
+  "genra": [
+    "Action",
+    "Adventure",
+    "Family",
+    "Military",
+    "Sci-Fi"
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Family",
+    "Military",
+    "Sci-Fi"
+  ],
+  "languages": [
+    "English",
+    "Japanese"
+  ],
+  "synopsis": "This anthology of animated shorts from around the world celebrates the mythos of Star Wars through unique cultural lenses.",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 9,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 9,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "The Duel",
+          "id": "episode/star-wars-visions-1x1",
+          "image": "https://img.watchanimeworld.one/images/2840/01.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "Tatooine Rhapsody",
+          "id": "episode/star-wars-visions-1x2",
+          "image": "https://img.watchanimeworld.one/images/2840/02.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "The Twins",
+          "id": "episode/star-wars-visions-1x3",
+          "image": "https://img.watchanimeworld.one/images/2840/03.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "The Village Bride",
+          "id": "episode/star-wars-visions-1x4",
+          "image": "https://img.watchanimeworld.one/images/2840/04.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "The Ninth Jedi",
+          "id": "episode/star-wars-visions-1x5",
+          "image": "https://img.watchanimeworld.one/images/2840/05.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "T0-B1",
+          "id": "episode/star-wars-visions-1x6",
+          "image": "https://img.watchanimeworld.one/images/2840/06.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "The Elder",
+          "id": "episode/star-wars-visions-1x7",
+          "image": "https://img.watchanimeworld.one/images/2840/07.webp",
+          "season": 1
+        },
+        {
+          "episode": 8,
+          "title": "Lop & Ocho",
+          "id": "episode/star-wars-visions-1x8",
+          "image": "https://img.watchanimeworld.one/images/2840/08.webp",
+          "season": 1
+        },
+        {
+          "episode": 9,
+          "title": "Akakiri",
+          "id": "episode/star-wars-visions-1x9",
+          "image": "https://img.watchanimeworld.one/images/2840/09.webp",
+          "season": 1
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/star-wars-visions-1x1",
+      "episode_id": "episode/star-wars-visions-1x1",
+      "title": "The Duel",
+      "episode_name": "The Duel",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/2840/01.webp",
+      "abyssid": "3327",
+      "abyssId": "3327",
+      "playxid": "9e406957d45fcb6c6f38c2ada7bace91",
+      "playXID": "9e406957d45fcb6c6f38c2ada7bace91",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "3327",
+        "playXID": "9e406957d45fcb6c6f38c2ada7bace91",
+        "streamId": "3327",
+        "dubPlayerSrc": "/dub-player/t/3327/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9e406957d45fcb6c6f38c2ada7bace91&abyssId=3327"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "3327",
+        "playXID": "9e406957d45fcb6c6f38c2ada7bace91",
+        "streamId": "3327",
+        "dubPlayerSrc": "/dub-player/t/3327/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9e406957d45fcb6c6f38c2ada7bace91&abyssId=3327"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/9e406957d45fcb6c6f38c2ada7bace91",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/9e406957d45fcb6c6f38c2ada7bace91"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "3327",
+        "abyssId": "3327",
+        "playXID": "9e406957d45fcb6c6f38c2ada7bace91",
+        "title": "Star Wars: Visions",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "INJFMc5Gy"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "feQku5At4"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/fb31d2fb32f1a7f045eee8c78df34366/master.m3u8?md5=zg_XYAScwSCO4d3VPAcRYg&expires=1792168418",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/fb31d2fb32f1a7f045eee8c78df34366/master.m3u8?md5=zg_XYAScwSCO4d3VPAcRYg&expires=1792168418",
+            "videoSource": "https://ravok.buzz/cdn/hls/fb31d2fb32f1a7f045eee8c78df34366/master.m3u8?md5=zg_XYAScwSCO4d3VPAcRYg&expires=1792168418",
+            "videoImage": "https://as-cdn29.top/p/z2ywVQdX_5nf0Iql3QqV5xS3ykmeZsVrn4FP-PcmKqRalDEO3GX0UaySVxjABI-BVcDuThTSvvf2N9McNxOp8A.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "9e406957d45fcb6c6f38c2ada7bace91",
+                "streamUrl": "https://ravok.buzz/cdn/hls/fb31d2fb32f1a7f045eee8c78df34366/master.m3u8?md5=zg_XYAScwSCO4d3VPAcRYg&expires=1792168418",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/fb31d2fb32f1a7f045eee8c78df34366/master.m3u8?md5=zg_XYAScwSCO4d3VPAcRYg&expires=1792168418",
+                "videoSource": "https://ravok.buzz/cdn/hls/fb31d2fb32f1a7f045eee8c78df34366/master.m3u8?md5=zg_XYAScwSCO4d3VPAcRYg&expires=1792168418",
+                "link": "https://ravok.buzz/cdn/hls/fb31d2fb32f1a7f045eee8c78df34366/master.m3u8?md5=zg_XYAScwSCO4d3VPAcRYg&expires=1792168418",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/z2ywVQdX_5nf0Iql3QqV5xS3ykmeZsVrn4FP-PcmKqRalDEO3GX0UaySVxjABI-BVcDuThTSvvf2N9McNxOp8A.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "English",
+          "video_id": "INJFMc5Gy"
+        }
+      },
+      "fetched_at": "2026-10-16T14:33:48Z"
+    },
+    {
+      "id": "episode/star-wars-visions-1x3",
+      "episode_id": "episode/star-wars-visions-1x3",
+      "title": "The Duel",
+      "episode_name": "The Duel",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/2840/03.webp",
+      "abyssid": "3329",
+      "abyssId": "3329",
+      "playxid": "afa299a4d1d8c52e75dd8a24c3ce534f",
+      "playXID": "afa299a4d1d8c52e75dd8a24c3ce534f",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "3329",
+        "playXID": "afa299a4d1d8c52e75dd8a24c3ce534f",
+        "streamId": "3329",
+        "dubPlayerSrc": "/dub-player/t/3329/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=afa299a4d1d8c52e75dd8a24c3ce534f&abyssId=3329"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "3329",
+        "playXID": "afa299a4d1d8c52e75dd8a24c3ce534f",
+        "streamId": "3329",
+        "dubPlayerSrc": "/dub-player/t/3329/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=afa299a4d1d8c52e75dd8a24c3ce534f&abyssId=3329"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/afa299a4d1d8c52e75dd8a24c3ce534f",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/afa299a4d1d8c52e75dd8a24c3ce534f"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "3329",
+        "abyssId": "3329",
+        "playXID": "afa299a4d1d8c52e75dd8a24c3ce534f",
+        "title": "Star Wars: Visions",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "xmdKQKS_G"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "7SrSp1GPO"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/a7cb92810e01cef93dd5e9e06ad7d156/master.m3u8?md5=8PBOgLqNOlOj0oYmVjjUbg&expires=1792168418",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/a7cb92810e01cef93dd5e9e06ad7d156/master.m3u8?md5=8PBOgLqNOlOj0oYmVjjUbg&expires=1792168418",
+            "videoSource": "https://ravok.buzz/cdn/hls/a7cb92810e01cef93dd5e9e06ad7d156/master.m3u8?md5=8PBOgLqNOlOj0oYmVjjUbg&expires=1792168418",
+            "videoImage": "https://as-cdn29.top/p/uBjErkbeSLipLrYp_GePKRPuTKVVoMc8AoIBgnNCpQzyqxpLstvdzdyamaFcifUMscAOd-jCEpTwj4ffk4hrKQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "afa299a4d1d8c52e75dd8a24c3ce534f",
+                "streamUrl": "https://ravok.buzz/cdn/hls/a7cb92810e01cef93dd5e9e06ad7d156/master.m3u8?md5=8PBOgLqNOlOj0oYmVjjUbg&expires=1792168418",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/a7cb92810e01cef93dd5e9e06ad7d156/master.m3u8?md5=8PBOgLqNOlOj0oYmVjjUbg&expires=1792168418",
+                "videoSource": "https://ravok.buzz/cdn/hls/a7cb92810e01cef93dd5e9e06ad7d156/master.m3u8?md5=8PBOgLqNOlOj0oYmVjjUbg&expires=1792168418",
+                "link": "https://ravok.buzz/cdn/hls/a7cb92810e01cef93dd5e9e06ad7d156/master.m3u8?md5=8PBOgLqNOlOj0oYmVjjUbg&expires=1792168418",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/uBjErkbeSLipLrYp_GePKRPuTKVVoMc8AoIBgnNCpQzyqxpLstvdzdyamaFcifUMscAOd-jCEpTwj4ffk4hrKQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "English",
+          "video_id": "xmdKQKS_G"
+        }
+      },
+      "fetched_at": "2026-10-16T14:33:48Z"
+    },
+    {
+      "id": "episode/star-wars-visions-1x5",
+      "episode_id": "episode/star-wars-visions-1x5",
+      "title": "The Duel",
+      "episode_name": "The Duel",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/2840/05.webp",
+      "abyssid": "3331",
+      "abyssId": "3331",
+      "playxid": "94ef7214c4a90790186e255304f8fd1f",
+      "playXID": "94ef7214c4a90790186e255304f8fd1f",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "3331",
+        "playXID": "94ef7214c4a90790186e255304f8fd1f",
+        "streamId": "3331",
+        "dubPlayerSrc": "/dub-player/t/3331/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=94ef7214c4a90790186e255304f8fd1f&abyssId=3331"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "3331",
+        "playXID": "94ef7214c4a90790186e255304f8fd1f",
+        "streamId": "3331",
+        "dubPlayerSrc": "/dub-player/t/3331/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=94ef7214c4a90790186e255304f8fd1f&abyssId=3331"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/94ef7214c4a90790186e255304f8fd1f",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/94ef7214c4a90790186e255304f8fd1f"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "3331",
+        "abyssId": "3331",
+        "playXID": "94ef7214c4a90790186e255304f8fd1f",
+        "title": "Star Wars: Visions",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "DSp9M4mrW"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "f4-SAfKQC"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "English",
+          "video_id": "DSp9M4mrW"
+        }
+      },
+      "fetched_at": "2026-10-16T14:33:48Z"
+    },
+    {
+      "id": "episode/star-wars-visions-1x2",
+      "episode_id": "episode/star-wars-visions-1x2",
+      "title": "The Duel",
+      "episode_name": "The Duel",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/2840/02.webp",
+      "abyssid": "3328",
+      "abyssId": "3328",
+      "playxid": "56e6a93212e4482d99c84a639d254b67",
+      "playXID": "56e6a93212e4482d99c84a639d254b67",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "3328",
+        "playXID": "56e6a93212e4482d99c84a639d254b67",
+        "streamId": "3328",
+        "dubPlayerSrc": "/dub-player/t/3328/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=56e6a93212e4482d99c84a639d254b67&abyssId=3328"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "3328",
+        "playXID": "56e6a93212e4482d99c84a639d254b67",
+        "streamId": "3328",
+        "dubPlayerSrc": "/dub-player/t/3328/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=56e6a93212e4482d99c84a639d254b67&abyssId=3328"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/56e6a93212e4482d99c84a639d254b67",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/56e6a93212e4482d99c84a639d254b67"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "3328",
+        "abyssId": "3328",
+        "playXID": "56e6a93212e4482d99c84a639d254b67",
+        "title": "Star Wars: Visions",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "rgUlJ2yeQ"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "zgHxejMvR"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/23b20c0ef03b4f8d98f81d111f414423/master.m3u8?md5=2SuqPeoHYrWwLHV6DOrDQA&expires=1792168418",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/23b20c0ef03b4f8d98f81d111f414423/master.m3u8?md5=2SuqPeoHYrWwLHV6DOrDQA&expires=1792168418",
+            "videoSource": "https://ravok.buzz/cdn/hls/23b20c0ef03b4f8d98f81d111f414423/master.m3u8?md5=2SuqPeoHYrWwLHV6DOrDQA&expires=1792168418",
+            "videoImage": "https://as-cdn27.top/p/PDA3tXOOo2dHVytUozj54TmoEj-chDwKDUAyBT-V3Okk_PJwYHBbbgjAsnsZqsB2HroLKQymSEgRnQQAfCz5Og.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "56e6a93212e4482d99c84a639d254b67",
+                "streamUrl": "https://ravok.buzz/cdn/hls/23b20c0ef03b4f8d98f81d111f414423/master.m3u8?md5=2SuqPeoHYrWwLHV6DOrDQA&expires=1792168418",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/23b20c0ef03b4f8d98f81d111f414423/master.m3u8?md5=2SuqPeoHYrWwLHV6DOrDQA&expires=1792168418",
+                "videoSource": "https://ravok.buzz/cdn/hls/23b20c0ef03b4f8d98f81d111f414423/master.m3u8?md5=2SuqPeoHYrWwLHV6DOrDQA&expires=1792168418",
+                "link": "https://ravok.buzz/cdn/hls/23b20c0ef03b4f8d98f81d111f414423/master.m3u8?md5=2SuqPeoHYrWwLHV6DOrDQA&expires=1792168418",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/PDA3tXOOo2dHVytUozj54TmoEj-chDwKDUAyBT-V3Okk_PJwYHBbbgjAsnsZqsB2HroLKQymSEgRnQQAfCz5Og.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "English",
+          "video_id": "rgUlJ2yeQ"
+        }
+      },
+      "fetched_at": "2026-10-16T14:33:48Z"
+    },
+    {
+      "id": "episode/star-wars-visions-1x4",
+      "episode_id": "episode/star-wars-visions-1x4",
+      "title": "The Duel",
+      "episode_name": "The Duel",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/2840/04.webp",
+      "abyssid": "3330",
+      "abyssId": "3330",
+      "playxid": "4172f3101212a2009c74b547b6ddf935",
+      "playXID": "4172f3101212a2009c74b547b6ddf935",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "3330",
+        "playXID": "4172f3101212a2009c74b547b6ddf935",
+        "streamId": "3330",
+        "dubPlayerSrc": "/dub-player/t/3330/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=4172f3101212a2009c74b547b6ddf935&abyssId=3330"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "3330",
+        "playXID": "4172f3101212a2009c74b547b6ddf935",
+        "streamId": "3330",
+        "dubPlayerSrc": "/dub-player/t/3330/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=4172f3101212a2009c74b547b6ddf935&abyssId=3330"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/4172f3101212a2009c74b547b6ddf935",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/4172f3101212a2009c74b547b6ddf935"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "3330",
+        "abyssId": "3330",
+        "playXID": "4172f3101212a2009c74b547b6ddf935",
+        "title": "Star Wars: Visions",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "nfaSDzVVB"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "hXvbyWWCZ"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/af12ea25984f53f0d5fd6b008a337636/master.m3u8?md5=D-TGmyThY03yNyPb7PAf8A&expires=1792168418",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/af12ea25984f53f0d5fd6b008a337636/master.m3u8?md5=D-TGmyThY03yNyPb7PAf8A&expires=1792168418",
+            "videoSource": "https://ravok.buzz/cdn/hls/af12ea25984f53f0d5fd6b008a337636/master.m3u8?md5=D-TGmyThY03yNyPb7PAf8A&expires=1792168418",
+            "videoImage": "https://as-cdn30.top/p/zpdfhVl5IYg_d2ASBunMo_j_-RrNQqUfa5CQ6BHxEcMDOIPmxLCIvr9Hfv8SJGHwPoB0UtBu2_2IDds06nbk8w.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "4172f3101212a2009c74b547b6ddf935",
+                "streamUrl": "https://ravok.buzz/cdn/hls/af12ea25984f53f0d5fd6b008a337636/master.m3u8?md5=D-TGmyThY03yNyPb7PAf8A&expires=1792168418",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/af12ea25984f53f0d5fd6b008a337636/master.m3u8?md5=D-TGmyThY03yNyPb7PAf8A&expires=1792168418",
+                "videoSource": "https://ravok.buzz/cdn/hls/af12ea25984f53f0d5fd6b008a337636/master.m3u8?md5=D-TGmyThY03yNyPb7PAf8A&expires=1792168418",
+                "link": "https://ravok.buzz/cdn/hls/af12ea25984f53f0d5fd6b008a337636/master.m3u8?md5=D-TGmyThY03yNyPb7PAf8A&expires=1792168418",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/zpdfhVl5IYg_d2ASBunMo_j_-RrNQqUfa5CQ6BHxEcMDOIPmxLCIvr9Hfv8SJGHwPoB0UtBu2_2IDds06nbk8w.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "English",
+          "video_id": "nfaSDzVVB"
+        }
+      },
+      "fetched_at": "2026-10-16T14:33:48Z"
+    },
+    {
+      "id": "episode/star-wars-visions-1x6",
+      "episode_id": "episode/star-wars-visions-1x6",
+      "title": "The Duel",
+      "episode_name": "The Duel",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/2840/06.webp",
+      "abyssid": "3332",
+      "abyssId": "3332",
+      "playxid": "9fe77ac7060e716f2d42631d156825c0",
+      "playXID": "9fe77ac7060e716f2d42631d156825c0",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "3332",
+        "playXID": "9fe77ac7060e716f2d42631d156825c0",
+        "streamId": "3332",
+        "dubPlayerSrc": "/dub-player/t/3332/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9fe77ac7060e716f2d42631d156825c0&abyssId=3332"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "3332",
+        "playXID": "9fe77ac7060e716f2d42631d156825c0",
+        "streamId": "3332",
+        "dubPlayerSrc": "/dub-player/t/3332/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9fe77ac7060e716f2d42631d156825c0&abyssId=3332"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/9fe77ac7060e716f2d42631d156825c0",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/9fe77ac7060e716f2d42631d156825c0"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "3332",
+        "abyssId": "3332",
+        "playXID": "9fe77ac7060e716f2d42631d156825c0",
+        "title": "Star Wars: Visions",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "sFQycPi8B"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "JWpTTAE1I"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/72668907e07c9affdb09f93741281f53/master.m3u8?md5=NkR-1xFOl-QQVNHg7A7w3Q&expires=1792168420",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/72668907e07c9affdb09f93741281f53/master.m3u8?md5=NkR-1xFOl-QQVNHg7A7w3Q&expires=1792168420",
+            "videoSource": "https://ravok.buzz/cdn/hls/72668907e07c9affdb09f93741281f53/master.m3u8?md5=NkR-1xFOl-QQVNHg7A7w3Q&expires=1792168420",
+            "videoImage": "https://as-cdn30.top/p/kyRNPPvNgCkBuVcQdTxzU4ZR_yhGAmSLx_mjHwKJ1WekfaglSWLullZn56R13wMn5zoCsTqhpILjuvTCKQyOFQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "9fe77ac7060e716f2d42631d156825c0",
+                "streamUrl": "https://ravok.buzz/cdn/hls/72668907e07c9affdb09f93741281f53/master.m3u8?md5=NkR-1xFOl-QQVNHg7A7w3Q&expires=1792168420",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/72668907e07c9affdb09f93741281f53/master.m3u8?md5=NkR-1xFOl-QQVNHg7A7w3Q&expires=1792168420",
+                "videoSource": "https://ravok.buzz/cdn/hls/72668907e07c9affdb09f93741281f53/master.m3u8?md5=NkR-1xFOl-QQVNHg7A7w3Q&expires=1792168420",
+                "link": "https://ravok.buzz/cdn/hls/72668907e07c9affdb09f93741281f53/master.m3u8?md5=NkR-1xFOl-QQVNHg7A7w3Q&expires=1792168420",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/kyRNPPvNgCkBuVcQdTxzU4ZR_yhGAmSLx_mjHwKJ1WekfaglSWLullZn56R13wMn5zoCsTqhpILjuvTCKQyOFQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "English",
+          "video_id": "sFQycPi8B"
+        }
+      },
+      "fetched_at": "2026-10-16T14:33:50Z"
+    },
+    {
+      "id": "episode/star-wars-visions-1x7",
+      "episode_id": "episode/star-wars-visions-1x7",
+      "title": "The Duel",
+      "episode_name": "The Duel",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/2840/07.webp",
+      "abyssid": "3333",
+      "abyssId": "3333",
+      "playxid": "d3802b1dc0d80d8a3c8ccc6ccc068e7c",
+      "playXID": "d3802b1dc0d80d8a3c8ccc6ccc068e7c",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "3333",
+        "playXID": "d3802b1dc0d80d8a3c8ccc6ccc068e7c",
+        "streamId": "3333",
+        "dubPlayerSrc": "/dub-player/t/3333/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d3802b1dc0d80d8a3c8ccc6ccc068e7c&abyssId=3333"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "3333",
+        "playXID": "d3802b1dc0d80d8a3c8ccc6ccc068e7c",
+        "streamId": "3333",
+        "dubPlayerSrc": "/dub-player/t/3333/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d3802b1dc0d80d8a3c8ccc6ccc068e7c&abyssId=3333"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/d3802b1dc0d80d8a3c8ccc6ccc068e7c",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/d3802b1dc0d80d8a3c8ccc6ccc068e7c"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "3333",
+        "abyssId": "3333",
+        "playXID": "d3802b1dc0d80d8a3c8ccc6ccc068e7c",
+        "title": "Star Wars: Visions",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "iD-JPy5BV"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "I901CWAuq"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/d2ddbedf46536e3e2c871483933719ad/master.m3u8?md5=zTcIYnJzRuovMfKaeLh2eg&expires=1792168420",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/d2ddbedf46536e3e2c871483933719ad/master.m3u8?md5=zTcIYnJzRuovMfKaeLh2eg&expires=1792168420",
+            "videoSource": "https://ravok.buzz/cdn/hls/d2ddbedf46536e3e2c871483933719ad/master.m3u8?md5=zTcIYnJzRuovMfKaeLh2eg&expires=1792168420",
+            "videoImage": "https://as-cdn29.top/p/kyRNPPvNgCkBuVcQdTxzU-kxWE9UsV50xv5jx1ifvUL3ern8RYCbV1Lo1QXqyYGf7snOEQ95-WVbHG_YnLz9KQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "d3802b1dc0d80d8a3c8ccc6ccc068e7c",
+                "streamUrl": "https://ravok.buzz/cdn/hls/d2ddbedf46536e3e2c871483933719ad/master.m3u8?md5=zTcIYnJzRuovMfKaeLh2eg&expires=1792168420",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/d2ddbedf46536e3e2c871483933719ad/master.m3u8?md5=zTcIYnJzRuovMfKaeLh2eg&expires=1792168420",
+                "videoSource": "https://ravok.buzz/cdn/hls/d2ddbedf46536e3e2c871483933719ad/master.m3u8?md5=zTcIYnJzRuovMfKaeLh2eg&expires=1792168420",
+                "link": "https://ravok.buzz/cdn/hls/d2ddbedf46536e3e2c871483933719ad/master.m3u8?md5=zTcIYnJzRuovMfKaeLh2eg&expires=1792168420",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/kyRNPPvNgCkBuVcQdTxzU-kxWE9UsV50xv5jx1ifvUL3ern8RYCbV1Lo1QXqyYGf7snOEQ95-WVbHG_YnLz9KQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "English",
+          "video_id": "iD-JPy5BV"
+        }
+      },
+      "fetched_at": "2026-10-16T14:33:50Z"
+    },
+    {
+      "id": "episode/star-wars-visions-1x8",
+      "episode_id": "episode/star-wars-visions-1x8",
+      "title": "The Duel",
+      "episode_name": "The Duel",
+      "episode_number": 8,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/2840/08.webp",
+      "abyssid": "3334",
+      "abyssId": "3334",
+      "playxid": "460b491b917d4185ed1f5be97229721a",
+      "playXID": "460b491b917d4185ed1f5be97229721a",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "3334",
+        "playXID": "460b491b917d4185ed1f5be97229721a",
+        "streamId": "3334",
+        "dubPlayerSrc": "/dub-player/t/3334/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=460b491b917d4185ed1f5be97229721a&abyssId=3334"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "3334",
+        "playXID": "460b491b917d4185ed1f5be97229721a",
+        "streamId": "3334",
+        "dubPlayerSrc": "/dub-player/t/3334/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=460b491b917d4185ed1f5be97229721a&abyssId=3334"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/460b491b917d4185ed1f5be97229721a",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/460b491b917d4185ed1f5be97229721a"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "3334",
+        "abyssId": "3334",
+        "playXID": "460b491b917d4185ed1f5be97229721a",
+        "title": "Star Wars: Visions",
+        "season": 1,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "QjbTDtcYuM"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "GXGOmSCGl"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/5cb712d08528ed16739848d1aff2b01a/master.m3u8?md5=5GTEhv-CeWWZmrMQ26g0Aw&expires=1792168420",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/5cb712d08528ed16739848d1aff2b01a/master.m3u8?md5=5GTEhv-CeWWZmrMQ26g0Aw&expires=1792168420",
+            "videoSource": "https://ravok.buzz/cdn/hls/5cb712d08528ed16739848d1aff2b01a/master.m3u8?md5=5GTEhv-CeWWZmrMQ26g0Aw&expires=1792168420",
+            "videoImage": "https://as-cdn30.top/p/jEdEZ-OoocUjRjT3ykJo0IW0oygoQiUgil9jwj8rde41DO43vvSFNeXrGMr9AMRRvjxob8RjRlTdZWZyE_2ydg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "460b491b917d4185ed1f5be97229721a",
+                "streamUrl": "https://ravok.buzz/cdn/hls/5cb712d08528ed16739848d1aff2b01a/master.m3u8?md5=5GTEhv-CeWWZmrMQ26g0Aw&expires=1792168420",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/5cb712d08528ed16739848d1aff2b01a/master.m3u8?md5=5GTEhv-CeWWZmrMQ26g0Aw&expires=1792168420",
+                "videoSource": "https://ravok.buzz/cdn/hls/5cb712d08528ed16739848d1aff2b01a/master.m3u8?md5=5GTEhv-CeWWZmrMQ26g0Aw&expires=1792168420",
+                "link": "https://ravok.buzz/cdn/hls/5cb712d08528ed16739848d1aff2b01a/master.m3u8?md5=5GTEhv-CeWWZmrMQ26g0Aw&expires=1792168420",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/jEdEZ-OoocUjRjT3ykJo0IW0oygoQiUgil9jwj8rde41DO43vvSFNeXrGMr9AMRRvjxob8RjRlTdZWZyE_2ydg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "English",
+          "video_id": "QjbTDtcYuM"
+        }
+      },
+      "fetched_at": "2026-10-16T14:33:50Z"
+    },
+    {
+      "id": "episode/star-wars-visions-1x9",
+      "episode_id": "episode/star-wars-visions-1x9",
+      "title": "The Duel",
+      "episode_name": "The Duel",
+      "episode_number": 9,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/2840/09.webp",
+      "abyssid": "3335",
+      "abyssId": "3335",
+      "playxid": "cb16b8498f74ba6b6a6873518624168c",
+      "playXID": "cb16b8498f74ba6b6a6873518624168c",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "3335",
+        "playXID": "cb16b8498f74ba6b6a6873518624168c",
+        "streamId": "3335",
+        "dubPlayerSrc": "/dub-player/t/3335/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=cb16b8498f74ba6b6a6873518624168c&abyssId=3335"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "3335",
+        "playXID": "cb16b8498f74ba6b6a6873518624168c",
+        "streamId": "3335",
+        "dubPlayerSrc": "/dub-player/t/3335/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=cb16b8498f74ba6b6a6873518624168c&abyssId=3335"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/cb16b8498f74ba6b6a6873518624168c",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/cb16b8498f74ba6b6a6873518624168c"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "3335",
+        "abyssId": "3335",
+        "playXID": "cb16b8498f74ba6b6a6873518624168c",
+        "title": "Star Wars: Visions",
+        "season": 1,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "rEFGFvg3i"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "6_GnQGtoO"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/244d697917487f5c46e2fb4ae1931253/master.m3u8?md5=kITCyCt-eTakxZ3KR4pQBw&expires=1792168420",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/244d697917487f5c46e2fb4ae1931253/master.m3u8?md5=kITCyCt-eTakxZ3KR4pQBw&expires=1792168420",
+            "videoSource": "https://ravok.buzz/cdn/hls/244d697917487f5c46e2fb4ae1931253/master.m3u8?md5=kITCyCt-eTakxZ3KR4pQBw&expires=1792168420",
+            "videoImage": "https://as-cdn27.top/p/FenRelKCKf2Z3U6LB_lIYeK24W9xPNDflmGJOM9lRDyr8suHt8KDwh9owq3-oQ6PEZa9U-qBWyXjcTyb4s2MfQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "cb16b8498f74ba6b6a6873518624168c",
+                "streamUrl": "https://ravok.buzz/cdn/hls/244d697917487f5c46e2fb4ae1931253/master.m3u8?md5=kITCyCt-eTakxZ3KR4pQBw&expires=1792168420",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/244d697917487f5c46e2fb4ae1931253/master.m3u8?md5=kITCyCt-eTakxZ3KR4pQBw&expires=1792168420",
+                "videoSource": "https://ravok.buzz/cdn/hls/244d697917487f5c46e2fb4ae1931253/master.m3u8?md5=kITCyCt-eTakxZ3KR4pQBw&expires=1792168420",
+                "link": "https://ravok.buzz/cdn/hls/244d697917487f5c46e2fb4ae1931253/master.m3u8?md5=kITCyCt-eTakxZ3KR4pQBw&expires=1792168420",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/FenRelKCKf2Z3U6LB_lIYeK24W9xPNDflmGJOM9lRDyr8suHt8KDwh9owq3-oQ6PEZa9U-qBWyXjcTyb4s2MfQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "English",
+          "video_id": "rEFGFvg3i"
+        }
+      },
+      "fetched_at": "2026-10-16T14:33:50Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T14:33:45Z",
+  "updated_at": "2026-10-16T14:33:50Z"
+}

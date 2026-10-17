@@ -1,0 +1,1343 @@
+{
+  "id": "series/the-shiunji-family-children",
+  "series_name": "The Shiunji Family Children",
+  "title": "The Shiunji Family Children",
+  "banner": "https://image.tmdb.org/t/p/w1280/tjQrXMEWxAkA5Uo7261NDZfoyn1.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/tvhXMejlXyOUo24we09pXSgKw5j.jpg",
+  "genra": [],
+  "genres": [],
+  "languages": [
+    "English",
+    "Hindi",
+    "Japanese"
+  ],
+  "synopsis": "The Shiunji family with their seven children reside in a mansion within Tokyo’s Setagaya ward. The eldest son, Arata, is tired of being pushed around by his five sisters and daydreams of a life without them. That is, until Arata’s father reveals a shocking truth—Arata isn’t biologically related to his sisters! The siblings’ relationships will be tested as they navigate life in this new light.",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Private: The Shiunji Family Children 1x1",
+          "id": "episode/the-shiunji-family-children-1x1",
+          "image": "https://img.watchanimeworld.one/image/1681/1/1.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "Private: The Shiunji Family Children 1x2",
+          "id": "episode/the-shiunji-family-children-1x2",
+          "image": "https://img.watchanimeworld.one/image/1681/1/2.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "Private: The Shiunji Family Children 1x3",
+          "id": "episode/the-shiunji-family-children-1x3",
+          "image": "https://img.watchanimeworld.one/image/1681/1/3.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "The Shiunji Family Children 1x4",
+          "id": "episode/the-shiunji-family-children-1x4",
+          "image": "https://img.watchanimeworld.one/image/1681/1/4.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "The Shiunji Family Children 1x5",
+          "id": "episode/the-shiunji-family-children-1x5",
+          "image": "https://img.watchanimeworld.one/image/1681/1/5.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "The Shiunji Family Children 1x6",
+          "id": "episode/the-shiunji-family-children-1x6",
+          "image": "https://img.watchanimeworld.one/image/1681/1/6.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "The Shiunji Family Children 1x7",
+          "id": "episode/the-shiunji-family-children-1x7",
+          "image": "https://img.watchanimeworld.one/image/1681/1/7.webp",
+          "season": 1
+        },
+        {
+          "episode": 8,
+          "title": "The Shiunji Family Children 1x8",
+          "id": "episode/the-shiunji-family-children-1x8",
+          "image": "https://img.watchanimeworld.one/image/1681/1/8.webp",
+          "season": 1
+        },
+        {
+          "episode": 9,
+          "title": "The Shiunji Family Children 1x9",
+          "id": "episode/the-shiunji-family-children-1x9",
+          "image": "https://img.watchanimeworld.one/images-unified/thumb_1681_s1e9.jpg",
+          "season": 1
+        },
+        {
+          "episode": 10,
+          "title": "The Shiunji Family Children 1x10",
+          "id": "episode/the-shiunji-family-children-1x10",
+          "image": "https://img.watchanimeworld.one/img/thumb_1681_s1e10.webp",
+          "season": 1
+        },
+        {
+          "episode": 11,
+          "title": "The Shiunji Family Children 1x11",
+          "id": "episode/the-shiunji-family-children-1x11",
+          "image": "https://img.watchanimeworld.one/img/thumb_1681_s1e11.webp",
+          "season": 1
+        },
+        {
+          "episode": 12,
+          "title": "The Shiunji Family Children 1x12",
+          "id": "episode/the-shiunji-family-children-1x12",
+          "image": "https://img.watchanimeworld.one/img/thumb_1681_s1e12.webp",
+          "season": 1
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/the-shiunji-family-children-1x1",
+      "episode_id": "episode/the-shiunji-family-children-1x1",
+      "title": "Private: The Shiunji Family Children 1x1",
+      "episode_name": "Private: The Shiunji Family Children 1x1",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1681/1/1.webp",
+      "abyssid": "15472",
+      "abyssId": "15472",
+      "playxid": "47e03d48d5f53f03563daa7f1373fb09",
+      "playXID": "47e03d48d5f53f03563daa7f1373fb09",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15472",
+        "playXID": "47e03d48d5f53f03563daa7f1373fb09",
+        "streamId": "15472",
+        "dubPlayerSrc": "/dub-player/t/15472/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=47e03d48d5f53f03563daa7f1373fb09&abyssId=15472"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15472",
+        "playXID": "47e03d48d5f53f03563daa7f1373fb09",
+        "streamId": "15472",
+        "dubPlayerSrc": "/dub-player/t/15472/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=47e03d48d5f53f03563daa7f1373fb09&abyssId=15472"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/47e03d48d5f53f03563daa7f1373fb09",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/47e03d48d5f53f03563daa7f1373fb09"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15472",
+        "abyssId": "15472",
+        "playXID": "47e03d48d5f53f03563daa7f1373fb09",
+        "title": "The Shiunji Family Children",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "Nwf58i-qL"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "TV9WI1Sn9"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "G55su-97m"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/69feaa3d1bc333137808a16eefc1c6fb/master.m3u8?md5=YwhGcb-eBni7Ce0xO3RvTQ&expires=1792166581",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/69feaa3d1bc333137808a16eefc1c6fb/master.m3u8?md5=YwhGcb-eBni7Ce0xO3RvTQ&expires=1792166581",
+            "videoSource": "https://ravok.buzz/cdn/hls/69feaa3d1bc333137808a16eefc1c6fb/master.m3u8?md5=YwhGcb-eBni7Ce0xO3RvTQ&expires=1792166581",
+            "videoImage": "https://as-cdn29.top/p/t1NkMgMZmKjNsg2T3rQx-cBEGUGq_MXoDQVUuk7BZ9j3km20bfQc5d-kYUJ3cl0CDP3zaYFP4O0ZBe-t9h8spA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "47e03d48d5f53f03563daa7f1373fb09",
+                "streamUrl": "https://ravok.buzz/cdn/hls/69feaa3d1bc333137808a16eefc1c6fb/master.m3u8?md5=YwhGcb-eBni7Ce0xO3RvTQ&expires=1792166581",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/69feaa3d1bc333137808a16eefc1c6fb/master.m3u8?md5=YwhGcb-eBni7Ce0xO3RvTQ&expires=1792166581",
+                "videoSource": "https://ravok.buzz/cdn/hls/69feaa3d1bc333137808a16eefc1c6fb/master.m3u8?md5=YwhGcb-eBni7Ce0xO3RvTQ&expires=1792166581",
+                "link": "https://ravok.buzz/cdn/hls/69feaa3d1bc333137808a16eefc1c6fb/master.m3u8?md5=YwhGcb-eBni7Ce0xO3RvTQ&expires=1792166581",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/t1NkMgMZmKjNsg2T3rQx-cBEGUGq_MXoDQVUuk7BZ9j3km20bfQc5d-kYUJ3cl0CDP3zaYFP4O0ZBe-t9h8spA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "Nwf58i-qL"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:10Z"
+    },
+    {
+      "id": "episode/the-shiunji-family-children-1x3",
+      "episode_id": "episode/the-shiunji-family-children-1x3",
+      "title": "Private: The Shiunji Family Children 1x1",
+      "episode_name": "Private: The Shiunji Family Children 1x1",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1681/1/3.webp",
+      "abyssid": "15535",
+      "abyssId": "15535",
+      "playxid": "20d534ef3fe79831c525d1a218cc2818",
+      "playXID": "20d534ef3fe79831c525d1a218cc2818",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15535",
+        "playXID": "20d534ef3fe79831c525d1a218cc2818",
+        "streamId": "15535",
+        "dubPlayerSrc": "/dub-player/t/15535/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=20d534ef3fe79831c525d1a218cc2818&abyssId=15535"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15535",
+        "playXID": "20d534ef3fe79831c525d1a218cc2818",
+        "streamId": "15535",
+        "dubPlayerSrc": "/dub-player/t/15535/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=20d534ef3fe79831c525d1a218cc2818&abyssId=15535"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/20d534ef3fe79831c525d1a218cc2818",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/20d534ef3fe79831c525d1a218cc2818"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15535",
+        "abyssId": "15535",
+        "playXID": "20d534ef3fe79831c525d1a218cc2818",
+        "title": "The Shiunji Family Children",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "vvuNvQfJ_"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "Uksh1L0Sm"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "lfdFFU8wq"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/46515e5a414f458597ba90fe192c349c/master.m3u8?md5=zG7_m2UJ2zaEs9ZXd-oSwA&expires=1792166581",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/46515e5a414f458597ba90fe192c349c/master.m3u8?md5=zG7_m2UJ2zaEs9ZXd-oSwA&expires=1792166581",
+            "videoSource": "https://ravok.buzz/cdn/hls/46515e5a414f458597ba90fe192c349c/master.m3u8?md5=zG7_m2UJ2zaEs9ZXd-oSwA&expires=1792166581",
+            "videoImage": "https://as-cdn30.top/p/OrKcp1mAzHUR4wcIrtd67SBCPZx2B2DQiKvBkFUV9R9Gxpvx02iy-Wpr1lVO87LLfebbzvP1zhDcWuxXbhRv0A.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "20d534ef3fe79831c525d1a218cc2818",
+                "streamUrl": "https://ravok.buzz/cdn/hls/46515e5a414f458597ba90fe192c349c/master.m3u8?md5=zG7_m2UJ2zaEs9ZXd-oSwA&expires=1792166581",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/46515e5a414f458597ba90fe192c349c/master.m3u8?md5=zG7_m2UJ2zaEs9ZXd-oSwA&expires=1792166581",
+                "videoSource": "https://ravok.buzz/cdn/hls/46515e5a414f458597ba90fe192c349c/master.m3u8?md5=zG7_m2UJ2zaEs9ZXd-oSwA&expires=1792166581",
+                "link": "https://ravok.buzz/cdn/hls/46515e5a414f458597ba90fe192c349c/master.m3u8?md5=zG7_m2UJ2zaEs9ZXd-oSwA&expires=1792166581",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/OrKcp1mAzHUR4wcIrtd67SBCPZx2B2DQiKvBkFUV9R9Gxpvx02iy-Wpr1lVO87LLfebbzvP1zhDcWuxXbhRv0A.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "vvuNvQfJ_"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:11Z"
+    },
+    {
+      "id": "episode/the-shiunji-family-children-1x4",
+      "episode_id": "episode/the-shiunji-family-children-1x4",
+      "title": "Private: The Shiunji Family Children 1x1",
+      "episode_name": "Private: The Shiunji Family Children 1x1",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1681/1/4.webp",
+      "abyssid": "15672",
+      "abyssId": "15672",
+      "playxid": "ff2ffdc47aef555a0d07796f282b8659",
+      "playXID": "ff2ffdc47aef555a0d07796f282b8659",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15672",
+        "playXID": "ff2ffdc47aef555a0d07796f282b8659",
+        "streamId": "15672",
+        "dubPlayerSrc": "/dub-player/t/15672/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ff2ffdc47aef555a0d07796f282b8659&abyssId=15672"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15672",
+        "playXID": "ff2ffdc47aef555a0d07796f282b8659",
+        "streamId": "15672",
+        "dubPlayerSrc": "/dub-player/t/15672/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ff2ffdc47aef555a0d07796f282b8659&abyssId=15672"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/ff2ffdc47aef555a0d07796f282b8659",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/ff2ffdc47aef555a0d07796f282b8659"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15672",
+        "abyssId": "15672",
+        "playXID": "ff2ffdc47aef555a0d07796f282b8659",
+        "title": "The Shiunji Family Children",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "rFSIQQwYv"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "iu_m7PAiD"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "14WdZZgM0"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/b8af080b9edcb8ede06ecb5442d04f92/master.m3u8?md5=jkVGWXlVaEwvAvRYkDgvYQ&expires=1792166581",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/b8af080b9edcb8ede06ecb5442d04f92/master.m3u8?md5=jkVGWXlVaEwvAvRYkDgvYQ&expires=1792166581",
+            "videoSource": "https://ravok.buzz/cdn/hls/b8af080b9edcb8ede06ecb5442d04f92/master.m3u8?md5=jkVGWXlVaEwvAvRYkDgvYQ&expires=1792166581",
+            "videoImage": "https://as-cdn31.top/p/gdkYXWK3K46eH80UTsToXEUN9v2HgRYPN-es03a9NuIXiQhTe5TGYQIial3stfBDJ09iQRHJ3QB1jf_0ZuOPMA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "ff2ffdc47aef555a0d07796f282b8659",
+                "streamUrl": "https://ravok.buzz/cdn/hls/b8af080b9edcb8ede06ecb5442d04f92/master.m3u8?md5=jkVGWXlVaEwvAvRYkDgvYQ&expires=1792166581",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/b8af080b9edcb8ede06ecb5442d04f92/master.m3u8?md5=jkVGWXlVaEwvAvRYkDgvYQ&expires=1792166581",
+                "videoSource": "https://ravok.buzz/cdn/hls/b8af080b9edcb8ede06ecb5442d04f92/master.m3u8?md5=jkVGWXlVaEwvAvRYkDgvYQ&expires=1792166581",
+                "link": "https://ravok.buzz/cdn/hls/b8af080b9edcb8ede06ecb5442d04f92/master.m3u8?md5=jkVGWXlVaEwvAvRYkDgvYQ&expires=1792166581",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/gdkYXWK3K46eH80UTsToXEUN9v2HgRYPN-es03a9NuIXiQhTe5TGYQIial3stfBDJ09iQRHJ3QB1jf_0ZuOPMA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "rFSIQQwYv"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:11Z"
+    },
+    {
+      "id": "episode/the-shiunji-family-children-1x5",
+      "episode_id": "episode/the-shiunji-family-children-1x5",
+      "title": "Private: The Shiunji Family Children 1x1",
+      "episode_name": "Private: The Shiunji Family Children 1x1",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1681/1/5.webp",
+      "abyssid": "15691",
+      "abyssId": "15691",
+      "playxid": "59bbfbe0d3922ccd1d167661a26d8353",
+      "playXID": "59bbfbe0d3922ccd1d167661a26d8353",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15691",
+        "playXID": "59bbfbe0d3922ccd1d167661a26d8353",
+        "streamId": "15691",
+        "dubPlayerSrc": "/dub-player/t/15691/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=59bbfbe0d3922ccd1d167661a26d8353&abyssId=15691"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15691",
+        "playXID": "59bbfbe0d3922ccd1d167661a26d8353",
+        "streamId": "15691",
+        "dubPlayerSrc": "/dub-player/t/15691/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=59bbfbe0d3922ccd1d167661a26d8353&abyssId=15691"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/59bbfbe0d3922ccd1d167661a26d8353",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/59bbfbe0d3922ccd1d167661a26d8353"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15691",
+        "abyssId": "15691",
+        "playXID": "59bbfbe0d3922ccd1d167661a26d8353",
+        "title": "The Shiunji Family Children",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "COyITbsMq"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "fKvOeWCWm7"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "lPBaGPjmu"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/6c20afab4b70cb25728d59ebbe71e904/master.m3u8?md5=5oVr39Hk59KvDoyFvyxMZA&expires=1792166581",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/6c20afab4b70cb25728d59ebbe71e904/master.m3u8?md5=5oVr39Hk59KvDoyFvyxMZA&expires=1792166581",
+            "videoSource": "https://ravok.buzz/cdn/hls/6c20afab4b70cb25728d59ebbe71e904/master.m3u8?md5=5oVr39Hk59KvDoyFvyxMZA&expires=1792166581",
+            "videoImage": "https://as-cdn31.top/p/X_dXUweThGcYem7ZAt08s4inTKZ2Fi3ug6jImm6ZS_7Di72Okw4qX50COrw1FBO1vxEDI93ZqbLxqbdl3_m8sg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "59bbfbe0d3922ccd1d167661a26d8353",
+                "streamUrl": "https://ravok.buzz/cdn/hls/6c20afab4b70cb25728d59ebbe71e904/master.m3u8?md5=5oVr39Hk59KvDoyFvyxMZA&expires=1792166581",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/6c20afab4b70cb25728d59ebbe71e904/master.m3u8?md5=5oVr39Hk59KvDoyFvyxMZA&expires=1792166581",
+                "videoSource": "https://ravok.buzz/cdn/hls/6c20afab4b70cb25728d59ebbe71e904/master.m3u8?md5=5oVr39Hk59KvDoyFvyxMZA&expires=1792166581",
+                "link": "https://ravok.buzz/cdn/hls/6c20afab4b70cb25728d59ebbe71e904/master.m3u8?md5=5oVr39Hk59KvDoyFvyxMZA&expires=1792166581",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/X_dXUweThGcYem7ZAt08s4inTKZ2Fi3ug6jImm6ZS_7Di72Okw4qX50COrw1FBO1vxEDI93ZqbLxqbdl3_m8sg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "COyITbsMq"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:11Z"
+    },
+    {
+      "id": "episode/the-shiunji-family-children-1x6",
+      "episode_id": "episode/the-shiunji-family-children-1x6",
+      "title": "Private: The Shiunji Family Children 1x1",
+      "episode_name": "Private: The Shiunji Family Children 1x1",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1681/1/6.webp",
+      "abyssid": "15748",
+      "abyssId": "15748",
+      "playxid": "f204aab71691a8e18c3f6f00872db63b",
+      "playXID": "f204aab71691a8e18c3f6f00872db63b",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15748",
+        "playXID": "f204aab71691a8e18c3f6f00872db63b",
+        "streamId": "15748",
+        "dubPlayerSrc": "/dub-player/t/15748/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f204aab71691a8e18c3f6f00872db63b&abyssId=15748"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15748",
+        "playXID": "f204aab71691a8e18c3f6f00872db63b",
+        "streamId": "15748",
+        "dubPlayerSrc": "/dub-player/t/15748/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f204aab71691a8e18c3f6f00872db63b&abyssId=15748"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/f204aab71691a8e18c3f6f00872db63b",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/f204aab71691a8e18c3f6f00872db63b"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15748",
+        "abyssId": "15748",
+        "playXID": "f204aab71691a8e18c3f6f00872db63b",
+        "title": "The Shiunji Family Children",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "GZMaj8hsY"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "qBnmSoz6s"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "yF3Q0W_Ng"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/b7810527ffdfa8ddd3fae913c4755395/master.m3u8?md5=CaO3icgFsA8miRJP1epS3g&expires=1792166582",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/b7810527ffdfa8ddd3fae913c4755395/master.m3u8?md5=CaO3icgFsA8miRJP1epS3g&expires=1792166582",
+            "videoSource": "https://ravok.buzz/cdn/hls/b7810527ffdfa8ddd3fae913c4755395/master.m3u8?md5=CaO3icgFsA8miRJP1epS3g&expires=1792166582",
+            "videoImage": "https://as-cdn31.top/p/1_2W523nd-qSNLfpe_M3G4profuU436DvfxhlZGt9SMS_oOucotUtKWNICFy0-kryD113J-VPtQEgaZG-jOl1A.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "f204aab71691a8e18c3f6f00872db63b",
+                "streamUrl": "https://ravok.buzz/cdn/hls/b7810527ffdfa8ddd3fae913c4755395/master.m3u8?md5=CaO3icgFsA8miRJP1epS3g&expires=1792166582",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/b7810527ffdfa8ddd3fae913c4755395/master.m3u8?md5=CaO3icgFsA8miRJP1epS3g&expires=1792166582",
+                "videoSource": "https://ravok.buzz/cdn/hls/b7810527ffdfa8ddd3fae913c4755395/master.m3u8?md5=CaO3icgFsA8miRJP1epS3g&expires=1792166582",
+                "link": "https://ravok.buzz/cdn/hls/b7810527ffdfa8ddd3fae913c4755395/master.m3u8?md5=CaO3icgFsA8miRJP1epS3g&expires=1792166582",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/1_2W523nd-qSNLfpe_M3G4profuU436DvfxhlZGt9SMS_oOucotUtKWNICFy0-kryD113J-VPtQEgaZG-jOl1A.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "GZMaj8hsY"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:12Z"
+    },
+    {
+      "id": "episode/the-shiunji-family-children-1x7",
+      "episode_id": "episode/the-shiunji-family-children-1x7",
+      "title": "Private: The Shiunji Family Children 1x1",
+      "episode_name": "Private: The Shiunji Family Children 1x1",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1681/1/7.webp",
+      "abyssid": "15766",
+      "abyssId": "15766",
+      "playxid": "47ba327b57be22b98eee0e5dc3e14711",
+      "playXID": "47ba327b57be22b98eee0e5dc3e14711",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15766",
+        "playXID": "47ba327b57be22b98eee0e5dc3e14711",
+        "streamId": "15766",
+        "dubPlayerSrc": "/dub-player/t/15766/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=47ba327b57be22b98eee0e5dc3e14711&abyssId=15766"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15766",
+        "playXID": "47ba327b57be22b98eee0e5dc3e14711",
+        "streamId": "15766",
+        "dubPlayerSrc": "/dub-player/t/15766/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=47ba327b57be22b98eee0e5dc3e14711&abyssId=15766"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/47ba327b57be22b98eee0e5dc3e14711",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/47ba327b57be22b98eee0e5dc3e14711"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15766",
+        "abyssId": "15766",
+        "playXID": "47ba327b57be22b98eee0e5dc3e14711",
+        "title": "The Shiunji Family Children",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "_e5vBBJGl"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "qejOvAQrT"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "sAoubv7QC"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/035ea6eb1ad2c5a09d84a44637d8dd77/master.m3u8?md5=mK2MmqlX0Dj5-UwvAV_Z8g&expires=1792166583",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/035ea6eb1ad2c5a09d84a44637d8dd77/master.m3u8?md5=mK2MmqlX0Dj5-UwvAV_Z8g&expires=1792166583",
+            "videoSource": "https://ravok.buzz/cdn/hls/035ea6eb1ad2c5a09d84a44637d8dd77/master.m3u8?md5=mK2MmqlX0Dj5-UwvAV_Z8g&expires=1792166583",
+            "videoImage": "https://as-cdn29.top/p/vciLJvOSk3rgEt9eGlBhmIICS39wUndcVFKttSTOgMkEigIeXvVI0U12WQK3K1diedDLZiYWQLAAN1GM9BVHnw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "47ba327b57be22b98eee0e5dc3e14711",
+                "streamUrl": "https://ravok.buzz/cdn/hls/035ea6eb1ad2c5a09d84a44637d8dd77/master.m3u8?md5=mK2MmqlX0Dj5-UwvAV_Z8g&expires=1792166583",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/035ea6eb1ad2c5a09d84a44637d8dd77/master.m3u8?md5=mK2MmqlX0Dj5-UwvAV_Z8g&expires=1792166583",
+                "videoSource": "https://ravok.buzz/cdn/hls/035ea6eb1ad2c5a09d84a44637d8dd77/master.m3u8?md5=mK2MmqlX0Dj5-UwvAV_Z8g&expires=1792166583",
+                "link": "https://ravok.buzz/cdn/hls/035ea6eb1ad2c5a09d84a44637d8dd77/master.m3u8?md5=mK2MmqlX0Dj5-UwvAV_Z8g&expires=1792166583",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/vciLJvOSk3rgEt9eGlBhmIICS39wUndcVFKttSTOgMkEigIeXvVI0U12WQK3K1diedDLZiYWQLAAN1GM9BVHnw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "_e5vBBJGl"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:13Z"
+    },
+    {
+      "id": "episode/the-shiunji-family-children-1x8",
+      "episode_id": "episode/the-shiunji-family-children-1x8",
+      "title": "Private: The Shiunji Family Children 1x1",
+      "episode_name": "Private: The Shiunji Family Children 1x1",
+      "episode_number": 8,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1681/1/8.webp",
+      "abyssid": "15817",
+      "abyssId": "15817",
+      "playxid": "829807aa78485041f87d209b458fcdf3",
+      "playXID": "829807aa78485041f87d209b458fcdf3",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15817",
+        "playXID": "829807aa78485041f87d209b458fcdf3",
+        "streamId": "15817",
+        "dubPlayerSrc": "/dub-player/t/15817/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=829807aa78485041f87d209b458fcdf3&abyssId=15817"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15817",
+        "playXID": "829807aa78485041f87d209b458fcdf3",
+        "streamId": "15817",
+        "dubPlayerSrc": "/dub-player/t/15817/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=829807aa78485041f87d209b458fcdf3&abyssId=15817"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/829807aa78485041f87d209b458fcdf3",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/829807aa78485041f87d209b458fcdf3"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15817",
+        "abyssId": "15817",
+        "playXID": "829807aa78485041f87d209b458fcdf3",
+        "title": "The Shiunji Family Children",
+        "season": 1,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "OUxj_5qux"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "gBQkkoVwB"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "C2A7oiUip"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/aa5135c9f1a6d708d18362d0ddc7cbff/master.m3u8?md5=Go3iWQQMJrZTeaJk7UOf4g&expires=1792166583",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/aa5135c9f1a6d708d18362d0ddc7cbff/master.m3u8?md5=Go3iWQQMJrZTeaJk7UOf4g&expires=1792166583",
+            "videoSource": "https://ravok.buzz/cdn/hls/aa5135c9f1a6d708d18362d0ddc7cbff/master.m3u8?md5=Go3iWQQMJrZTeaJk7UOf4g&expires=1792166583",
+            "videoImage": "https://as-cdn29.top/p/MBEtH0h8LkEFdgHrmhgbFjk5Rw5yei1gxBRG3WbPVBn0UgqckEDT05bAOGI8Li8DL6UrvuWvX2jqAcGJcalSFw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "829807aa78485041f87d209b458fcdf3",
+                "streamUrl": "https://ravok.buzz/cdn/hls/aa5135c9f1a6d708d18362d0ddc7cbff/master.m3u8?md5=Go3iWQQMJrZTeaJk7UOf4g&expires=1792166583",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/aa5135c9f1a6d708d18362d0ddc7cbff/master.m3u8?md5=Go3iWQQMJrZTeaJk7UOf4g&expires=1792166583",
+                "videoSource": "https://ravok.buzz/cdn/hls/aa5135c9f1a6d708d18362d0ddc7cbff/master.m3u8?md5=Go3iWQQMJrZTeaJk7UOf4g&expires=1792166583",
+                "link": "https://ravok.buzz/cdn/hls/aa5135c9f1a6d708d18362d0ddc7cbff/master.m3u8?md5=Go3iWQQMJrZTeaJk7UOf4g&expires=1792166583",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/MBEtH0h8LkEFdgHrmhgbFjk5Rw5yei1gxBRG3WbPVBn0UgqckEDT05bAOGI8Li8DL6UrvuWvX2jqAcGJcalSFw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "OUxj_5qux"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:13Z"
+    },
+    {
+      "id": "episode/the-shiunji-family-children-1x9",
+      "episode_id": "episode/the-shiunji-family-children-1x9",
+      "title": "Private: The Shiunji Family Children 1x1",
+      "episode_name": "Private: The Shiunji Family Children 1x1",
+      "episode_number": 9,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images-unified/thumb_1681_s1e9.jpg",
+      "abyssid": "15836",
+      "abyssId": "15836",
+      "playxid": "8cf40e328089249cf77075692aa0c09b",
+      "playXID": "8cf40e328089249cf77075692aa0c09b",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15836",
+        "playXID": "8cf40e328089249cf77075692aa0c09b",
+        "streamId": "15836",
+        "dubPlayerSrc": "/dub-player/t/15836/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8cf40e328089249cf77075692aa0c09b&abyssId=15836"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15836",
+        "playXID": "8cf40e328089249cf77075692aa0c09b",
+        "streamId": "15836",
+        "dubPlayerSrc": "/dub-player/t/15836/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8cf40e328089249cf77075692aa0c09b&abyssId=15836"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/8cf40e328089249cf77075692aa0c09b",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/8cf40e328089249cf77075692aa0c09b"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15836",
+        "abyssId": "15836",
+        "playXID": "8cf40e328089249cf77075692aa0c09b",
+        "title": "The Shiunji Family Children",
+        "season": 1,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "o_ENPGT8R"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "BiNCF2SnY"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "j8OXHFPVsL"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/60c8b0f2579445ed1c326347d1700713/master.m3u8?md5=4YIVwbClRCGG4Yvw8ygY_Q&expires=1792166583",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/60c8b0f2579445ed1c326347d1700713/master.m3u8?md5=4YIVwbClRCGG4Yvw8ygY_Q&expires=1792166583",
+            "videoSource": "https://ravok.buzz/cdn/hls/60c8b0f2579445ed1c326347d1700713/master.m3u8?md5=4YIVwbClRCGG4Yvw8ygY_Q&expires=1792166583",
+            "videoImage": "https://as-cdn31.top/p/waXu6cfwAzOZoVjQqi_3p9AC2O61jBBv4tozy-egI1jFIv-pIpb_vpYBkh82BG1yITC82WJ1NmhdVC3785jh0w.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "8cf40e328089249cf77075692aa0c09b",
+                "streamUrl": "https://ravok.buzz/cdn/hls/60c8b0f2579445ed1c326347d1700713/master.m3u8?md5=4YIVwbClRCGG4Yvw8ygY_Q&expires=1792166583",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/60c8b0f2579445ed1c326347d1700713/master.m3u8?md5=4YIVwbClRCGG4Yvw8ygY_Q&expires=1792166583",
+                "videoSource": "https://ravok.buzz/cdn/hls/60c8b0f2579445ed1c326347d1700713/master.m3u8?md5=4YIVwbClRCGG4Yvw8ygY_Q&expires=1792166583",
+                "link": "https://ravok.buzz/cdn/hls/60c8b0f2579445ed1c326347d1700713/master.m3u8?md5=4YIVwbClRCGG4Yvw8ygY_Q&expires=1792166583",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/waXu6cfwAzOZoVjQqi_3p9AC2O61jBBv4tozy-egI1jFIv-pIpb_vpYBkh82BG1yITC82WJ1NmhdVC3785jh0w.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "o_ENPGT8R"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:13Z"
+    },
+    {
+      "id": "episode/the-shiunji-family-children-1x10",
+      "episode_id": "episode/the-shiunji-family-children-1x10",
+      "title": "Private: The Shiunji Family Children 1x1",
+      "episode_name": "Private: The Shiunji Family Children 1x1",
+      "episode_number": 10,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1681_s1e10.webp",
+      "abyssid": "16107",
+      "abyssId": "16107",
+      "playxid": "20872559d95722c9d6a71d973c1a00b5",
+      "playXID": "20872559d95722c9d6a71d973c1a00b5",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16107",
+        "playXID": "20872559d95722c9d6a71d973c1a00b5",
+        "streamId": "16107",
+        "dubPlayerSrc": "/dub-player/t/16107/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=20872559d95722c9d6a71d973c1a00b5&abyssId=16107"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16107",
+        "playXID": "20872559d95722c9d6a71d973c1a00b5",
+        "streamId": "16107",
+        "dubPlayerSrc": "/dub-player/t/16107/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=20872559d95722c9d6a71d973c1a00b5&abyssId=16107"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/20872559d95722c9d6a71d973c1a00b5",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/20872559d95722c9d6a71d973c1a00b5"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16107",
+        "abyssId": "16107",
+        "playXID": "20872559d95722c9d6a71d973c1a00b5",
+        "title": "The Shiunji Family Children",
+        "season": 1,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "ZigG_0A9g"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "mErVZcxhH"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "rnSMabckv"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/f10eb28a7bc0a7364fa8c4fa25c9e8e5/master.m3u8?md5=Lcnb90YNjRFBpI1V5itvWA&expires=1792166584",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/f10eb28a7bc0a7364fa8c4fa25c9e8e5/master.m3u8?md5=Lcnb90YNjRFBpI1V5itvWA&expires=1792166584",
+            "videoSource": "https://ravok.buzz/cdn/hls/f10eb28a7bc0a7364fa8c4fa25c9e8e5/master.m3u8?md5=Lcnb90YNjRFBpI1V5itvWA&expires=1792166584",
+            "videoImage": "https://as-cdn28.top/p/xxIlzZUdFI_k6SXMmByb8Cx4_dFkSzpHcacSON9Zf91_HwRDzhexa9Y14L1PNkqlDSa4jWuRQVg3cK0dzGGPxQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "20872559d95722c9d6a71d973c1a00b5",
+                "streamUrl": "https://ravok.buzz/cdn/hls/f10eb28a7bc0a7364fa8c4fa25c9e8e5/master.m3u8?md5=Lcnb90YNjRFBpI1V5itvWA&expires=1792166584",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/f10eb28a7bc0a7364fa8c4fa25c9e8e5/master.m3u8?md5=Lcnb90YNjRFBpI1V5itvWA&expires=1792166584",
+                "videoSource": "https://ravok.buzz/cdn/hls/f10eb28a7bc0a7364fa8c4fa25c9e8e5/master.m3u8?md5=Lcnb90YNjRFBpI1V5itvWA&expires=1792166584",
+                "link": "https://ravok.buzz/cdn/hls/f10eb28a7bc0a7364fa8c4fa25c9e8e5/master.m3u8?md5=Lcnb90YNjRFBpI1V5itvWA&expires=1792166584",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/xxIlzZUdFI_k6SXMmByb8Cx4_dFkSzpHcacSON9Zf91_HwRDzhexa9Y14L1PNkqlDSa4jWuRQVg3cK0dzGGPxQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "ZigG_0A9g"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:14Z"
+    },
+    {
+      "id": "episode/the-shiunji-family-children-1x11",
+      "episode_id": "episode/the-shiunji-family-children-1x11",
+      "title": "Private: The Shiunji Family Children 1x1",
+      "episode_name": "Private: The Shiunji Family Children 1x1",
+      "episode_number": 11,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1681_s1e11.webp",
+      "abyssid": "16108",
+      "abyssId": "16108",
+      "playxid": "eb5053f7d2403c84a849b040014903ac",
+      "playXID": "eb5053f7d2403c84a849b040014903ac",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16108",
+        "playXID": "eb5053f7d2403c84a849b040014903ac",
+        "streamId": "16108",
+        "dubPlayerSrc": "/dub-player/t/16108/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=eb5053f7d2403c84a849b040014903ac&abyssId=16108"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16108",
+        "playXID": "eb5053f7d2403c84a849b040014903ac",
+        "streamId": "16108",
+        "dubPlayerSrc": "/dub-player/t/16108/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=eb5053f7d2403c84a849b040014903ac&abyssId=16108"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/eb5053f7d2403c84a849b040014903ac",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/eb5053f7d2403c84a849b040014903ac"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16108",
+        "abyssId": "16108",
+        "playXID": "eb5053f7d2403c84a849b040014903ac",
+        "title": "The Shiunji Family Children",
+        "season": 1,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "wL0e2Cvpi"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "8y-g5sAx7"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "pYN3L97Vh"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/b0f11bdf0fc6ec6dea5fb0272cd41ce0/master.m3u8?md5=UpOQLuV9xyhbKKATMueCKQ&expires=1792166585",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/b0f11bdf0fc6ec6dea5fb0272cd41ce0/master.m3u8?md5=UpOQLuV9xyhbKKATMueCKQ&expires=1792166585",
+            "videoSource": "https://ravok.buzz/cdn/hls/b0f11bdf0fc6ec6dea5fb0272cd41ce0/master.m3u8?md5=UpOQLuV9xyhbKKATMueCKQ&expires=1792166585",
+            "videoImage": "https://as-cdn28.top/p/wjULkROxAGLzck-qvC62kKQgb_zQaZU72vpnleMkp6R9Jj4mvx3iniQONvbVWw0eQNwj8G0stwaYv_SRjBks5g.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "eb5053f7d2403c84a849b040014903ac",
+                "streamUrl": "https://ravok.buzz/cdn/hls/b0f11bdf0fc6ec6dea5fb0272cd41ce0/master.m3u8?md5=UpOQLuV9xyhbKKATMueCKQ&expires=1792166585",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/b0f11bdf0fc6ec6dea5fb0272cd41ce0/master.m3u8?md5=UpOQLuV9xyhbKKATMueCKQ&expires=1792166585",
+                "videoSource": "https://ravok.buzz/cdn/hls/b0f11bdf0fc6ec6dea5fb0272cd41ce0/master.m3u8?md5=UpOQLuV9xyhbKKATMueCKQ&expires=1792166585",
+                "link": "https://ravok.buzz/cdn/hls/b0f11bdf0fc6ec6dea5fb0272cd41ce0/master.m3u8?md5=UpOQLuV9xyhbKKATMueCKQ&expires=1792166585",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/wjULkROxAGLzck-qvC62kKQgb_zQaZU72vpnleMkp6R9Jj4mvx3iniQONvbVWw0eQNwj8G0stwaYv_SRjBks5g.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "wL0e2Cvpi"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:15Z"
+    },
+    {
+      "id": "episode/the-shiunji-family-children-1x2",
+      "episode_id": "episode/the-shiunji-family-children-1x2",
+      "title": "Private: The Shiunji Family Children 1x1",
+      "episode_name": "Private: The Shiunji Family Children 1x1",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1681/1/2.webp",
+      "abyssid": "15526",
+      "abyssId": "15526",
+      "playxid": "0bd81786a8ec6ae9b22cbb3cb4d88179",
+      "playXID": "0bd81786a8ec6ae9b22cbb3cb4d88179",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15526",
+        "playXID": "0bd81786a8ec6ae9b22cbb3cb4d88179",
+        "streamId": "15526",
+        "dubPlayerSrc": "/dub-player/t/15526/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=0bd81786a8ec6ae9b22cbb3cb4d88179&abyssId=15526"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15526",
+        "playXID": "0bd81786a8ec6ae9b22cbb3cb4d88179",
+        "streamId": "15526",
+        "dubPlayerSrc": "/dub-player/t/15526/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=0bd81786a8ec6ae9b22cbb3cb4d88179&abyssId=15526"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/0bd81786a8ec6ae9b22cbb3cb4d88179",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/0bd81786a8ec6ae9b22cbb3cb4d88179"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15526",
+        "abyssId": "15526",
+        "playXID": "0bd81786a8ec6ae9b22cbb3cb4d88179",
+        "title": "The Shiunji Family Children",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "PLnlXQiTe"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "w7_iAnCBFk"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "2bZbKuSgZ"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/7f3223edac7cb96c50279a38b53b4620/master.m3u8?md5=frbNrK6CuB1pz2YghoMTeA&expires=1792166585",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/7f3223edac7cb96c50279a38b53b4620/master.m3u8?md5=frbNrK6CuB1pz2YghoMTeA&expires=1792166585",
+            "videoSource": "https://ravok.buzz/cdn/hls/7f3223edac7cb96c50279a38b53b4620/master.m3u8?md5=frbNrK6CuB1pz2YghoMTeA&expires=1792166585",
+            "videoImage": "https://as-cdn27.top/p/6Ivgzh0kuTCGhzo1z8apYME9Rcn0-O3Z15tiI9apCcboCUq0gucDOOglbq08v7R8Q6ImIyiAMOSDACtuQ_GytQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "0bd81786a8ec6ae9b22cbb3cb4d88179",
+                "streamUrl": "https://ravok.buzz/cdn/hls/7f3223edac7cb96c50279a38b53b4620/master.m3u8?md5=frbNrK6CuB1pz2YghoMTeA&expires=1792166585",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/7f3223edac7cb96c50279a38b53b4620/master.m3u8?md5=frbNrK6CuB1pz2YghoMTeA&expires=1792166585",
+                "videoSource": "https://ravok.buzz/cdn/hls/7f3223edac7cb96c50279a38b53b4620/master.m3u8?md5=frbNrK6CuB1pz2YghoMTeA&expires=1792166585",
+                "link": "https://ravok.buzz/cdn/hls/7f3223edac7cb96c50279a38b53b4620/master.m3u8?md5=frbNrK6CuB1pz2YghoMTeA&expires=1792166585",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/6Ivgzh0kuTCGhzo1z8apYME9Rcn0-O3Z15tiI9apCcboCUq0gucDOOglbq08v7R8Q6ImIyiAMOSDACtuQ_GytQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "PLnlXQiTe"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:15Z"
+    },
+    {
+      "id": "episode/the-shiunji-family-children-1x12",
+      "episode_id": "episode/the-shiunji-family-children-1x12",
+      "title": "Private: The Shiunji Family Children 1x1",
+      "episode_name": "Private: The Shiunji Family Children 1x1",
+      "episode_number": 12,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1681_s1e12.webp",
+      "abyssid": "16101",
+      "abyssId": "16101",
+      "playxid": "16dd8c942ad630be7e5a12b681b3f5c4",
+      "playXID": "16dd8c942ad630be7e5a12b681b3f5c4",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16101",
+        "playXID": "16dd8c942ad630be7e5a12b681b3f5c4",
+        "streamId": "16101",
+        "dubPlayerSrc": "/dub-player/t/16101/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=16dd8c942ad630be7e5a12b681b3f5c4&abyssId=16101"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16101",
+        "playXID": "16dd8c942ad630be7e5a12b681b3f5c4",
+        "streamId": "16101",
+        "dubPlayerSrc": "/dub-player/t/16101/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=16dd8c942ad630be7e5a12b681b3f5c4&abyssId=16101"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/16dd8c942ad630be7e5a12b681b3f5c4",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/16dd8c942ad630be7e5a12b681b3f5c4"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16101",
+        "abyssId": "16101",
+        "playXID": "16dd8c942ad630be7e5a12b681b3f5c4",
+        "title": "The Shiunji Family Children",
+        "season": 1,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "in3SVN5i-"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "z2j1wbqWp"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "Dj2xgjE8V"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/a8ccc8b3b5d45aff5ee72f93a822b3bb/master.m3u8?md5=3kKmQnLbbJrSMJfDMb_LKg&expires=1792166585",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/a8ccc8b3b5d45aff5ee72f93a822b3bb/master.m3u8?md5=3kKmQnLbbJrSMJfDMb_LKg&expires=1792166585",
+            "videoSource": "https://ravok.buzz/cdn/hls/a8ccc8b3b5d45aff5ee72f93a822b3bb/master.m3u8?md5=3kKmQnLbbJrSMJfDMb_LKg&expires=1792166585",
+            "videoImage": "https://as-cdn29.top/p/BtkSMBw4Lrnva3r2hwwuVmw-lL_BtnKYBx_Ti-N4g4oCd9taAfPlh0EhjfCkEU6Az5HqTuvYOwshqbeZTO_gnw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "16dd8c942ad630be7e5a12b681b3f5c4",
+                "streamUrl": "https://ravok.buzz/cdn/hls/a8ccc8b3b5d45aff5ee72f93a822b3bb/master.m3u8?md5=3kKmQnLbbJrSMJfDMb_LKg&expires=1792166585",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/a8ccc8b3b5d45aff5ee72f93a822b3bb/master.m3u8?md5=3kKmQnLbbJrSMJfDMb_LKg&expires=1792166585",
+                "videoSource": "https://ravok.buzz/cdn/hls/a8ccc8b3b5d45aff5ee72f93a822b3bb/master.m3u8?md5=3kKmQnLbbJrSMJfDMb_LKg&expires=1792166585",
+                "link": "https://ravok.buzz/cdn/hls/a8ccc8b3b5d45aff5ee72f93a822b3bb/master.m3u8?md5=3kKmQnLbbJrSMJfDMb_LKg&expires=1792166585",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/BtkSMBw4Lrnva3r2hwwuVmw-lL_BtnKYBx_Ti-N4g4oCd9taAfPlh0EhjfCkEU6Az5HqTuvYOwshqbeZTO_gnw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "in3SVN5i-"
+        }
+      },
+      "fetched_at": "2026-10-16T14:03:15Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T14:03:09Z",
+  "updated_at": "2026-10-16T14:03:15Z"
+}

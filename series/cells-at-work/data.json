@@ -1,0 +1,1464 @@
+{
+  "id": "series/cells-at-work",
+  "series_name": "Cells at Work!",
+  "title": "Cells at Work!",
+  "banner": "https://image.tmdb.org/t/p/w1280/aOQL8UYduNxDePbynZROLZ1nfsf.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/sgwwEGvNy7vCJN8IVnl44tuVlMZ.jpg",
+  "genra": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Medical",
+    "Shounen"
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Medical",
+    "Shounen"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Japanese"
+  ],
+  "synopsis": "This is a story about you. A tale about the inside of your body... According to a new study, the human body consists of approximately 37 trillion cells. These cells are hard at work every day within a world that is your body. From the oxygen-carrying red blood cells to the bacteria-fighting white blood cells, get to know the unsung heroes and the drama that unfolds inside of you! It's the oddly relatable and interesting story that is the life of cells!",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 13,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 13,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Cells at Work! 1x1",
+          "id": "episode/cells-at-work-1x1",
+          "image": "https://img.watchanimeworld.one/img/thumb_2204_s1e1.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "Cells at Work! 1x2",
+          "id": "episode/cells-at-work-1x2",
+          "image": "https://img.watchanimeworld.one/img/thumb_2204_s1e2.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "Cells at Work! 1x3",
+          "id": "episode/cells-at-work-1x3",
+          "image": "https://img.watchanimeworld.one/img/thumb_2204_s1e3.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "Cells at Work! 1x4",
+          "id": "episode/cells-at-work-1x4",
+          "image": "https://img.watchanimeworld.one/img/thumb_2204_s1e4.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "Cells at Work! 1x5",
+          "id": "episode/cells-at-work-1x5",
+          "image": "https://img.watchanimeworld.one/img/thumb_2204_s1e5.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "Cells at Work! 1x6",
+          "id": "episode/cells-at-work-1x6",
+          "image": "https://img.watchanimeworld.one/img/thumb_2204_s1e6.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "Cells at Work! 1x7",
+          "id": "episode/cells-at-work-1x7",
+          "image": "https://img.watchanimeworld.one/img/thumb_2204_s1e7.webp",
+          "season": 1
+        },
+        {
+          "episode": 8,
+          "title": "Cells at Work! 1x8",
+          "id": "episode/cells-at-work-1x8",
+          "image": "https://img.watchanimeworld.one/img/thumb_2204_s1e8.webp",
+          "season": 1
+        },
+        {
+          "episode": 9,
+          "title": "Cells at Work! 1x9",
+          "id": "episode/cells-at-work-1x9",
+          "image": "https://img.watchanimeworld.one/img/thumb_2204_s1e9.webp",
+          "season": 1
+        },
+        {
+          "episode": 10,
+          "title": "Cells at Work! 1x10",
+          "id": "episode/cells-at-work-1x10",
+          "image": "https://img.watchanimeworld.one/img/thumb_2204_s1e10.webp",
+          "season": 1
+        },
+        {
+          "episode": 11,
+          "title": "Cells at Work! 1x11",
+          "id": "episode/cells-at-work-1x11",
+          "image": "https://img.watchanimeworld.one/img/thumb_2204_s1e11.webp",
+          "season": 1
+        },
+        {
+          "episode": 12,
+          "title": "Cells at Work! 1x12",
+          "id": "episode/cells-at-work-1x12",
+          "image": "https://img.watchanimeworld.one/img/thumb_2204_s1e12.webp",
+          "season": 1
+        },
+        {
+          "episode": 13,
+          "title": "Cells at Work! 1x13",
+          "id": "episode/cells-at-work-1x13",
+          "image": "https://img.watchanimeworld.one/img/thumb_2204_s1e13.webp",
+          "season": 1
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/cells-at-work-1x1",
+      "episode_id": "episode/cells-at-work-1x1",
+      "title": "Cells at Work! 1x1",
+      "episode_name": "Cells at Work! 1x1",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2204_s1e1.webp",
+      "abyssid": "17728",
+      "abyssId": "17728",
+      "playxid": "bd2ef2fc182ccd107c829cfa92fba995",
+      "playXID": "bd2ef2fc182ccd107c829cfa92fba995",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17728",
+        "playXID": "bd2ef2fc182ccd107c829cfa92fba995",
+        "streamId": "17728",
+        "dubPlayerSrc": "/dub-player/t/17728/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=bd2ef2fc182ccd107c829cfa92fba995&abyssId=17728"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17728",
+        "playXID": "bd2ef2fc182ccd107c829cfa92fba995",
+        "streamId": "17728",
+        "dubPlayerSrc": "/dub-player/t/17728/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=bd2ef2fc182ccd107c829cfa92fba995&abyssId=17728"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/bd2ef2fc182ccd107c829cfa92fba995",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/bd2ef2fc182ccd107c829cfa92fba995"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17728",
+        "abyssId": "17728",
+        "playXID": "bd2ef2fc182ccd107c829cfa92fba995",
+        "title": "Cells at Work!",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "LFcvH2YUj"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "o-u47BKGN"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "OCqiRxHcN"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/72940811aecbbde53ad6df842e308e51/master.m3u8?md5=9oihaOa-XYF3Xq_e62dJ_Q&expires=1792166052",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/72940811aecbbde53ad6df842e308e51/master.m3u8?md5=9oihaOa-XYF3Xq_e62dJ_Q&expires=1792166052",
+            "videoSource": "https://ravok.buzz/cdn/hls/72940811aecbbde53ad6df842e308e51/master.m3u8?md5=9oihaOa-XYF3Xq_e62dJ_Q&expires=1792166052",
+            "videoImage": "https://as-cdn28.top/p/oz6IPGjC06lbK86Hn7eG01EZ3rfnfkjwR-1FMNIfZ0I7xD3G4aETqTiIHvzbzMWy0LJE1pZoWIxsDfRKRevy0g.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "bd2ef2fc182ccd107c829cfa92fba995",
+                "streamUrl": "https://ravok.buzz/cdn/hls/72940811aecbbde53ad6df842e308e51/master.m3u8?md5=9oihaOa-XYF3Xq_e62dJ_Q&expires=1792166052",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/72940811aecbbde53ad6df842e308e51/master.m3u8?md5=9oihaOa-XYF3Xq_e62dJ_Q&expires=1792166052",
+                "videoSource": "https://ravok.buzz/cdn/hls/72940811aecbbde53ad6df842e308e51/master.m3u8?md5=9oihaOa-XYF3Xq_e62dJ_Q&expires=1792166052",
+                "link": "https://ravok.buzz/cdn/hls/72940811aecbbde53ad6df842e308e51/master.m3u8?md5=9oihaOa-XYF3Xq_e62dJ_Q&expires=1792166052",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/oz6IPGjC06lbK86Hn7eG01EZ3rfnfkjwR-1FMNIfZ0I7xD3G4aETqTiIHvzbzMWy0LJE1pZoWIxsDfRKRevy0g.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "LFcvH2YUj"
+        }
+      },
+      "fetched_at": "2026-10-16T13:54:22Z"
+    },
+    {
+      "id": "episode/cells-at-work-1x5",
+      "episode_id": "episode/cells-at-work-1x5",
+      "title": "Cells at Work! 1x1",
+      "episode_name": "Cells at Work! 1x1",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2204_s1e5.webp",
+      "abyssid": "17732",
+      "abyssId": "17732",
+      "playxid": "0a890abf09b6ef953734969c6aeee8d4",
+      "playXID": "0a890abf09b6ef953734969c6aeee8d4",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17732",
+        "playXID": "0a890abf09b6ef953734969c6aeee8d4",
+        "streamId": "17732",
+        "dubPlayerSrc": "/dub-player/t/17732/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=0a890abf09b6ef953734969c6aeee8d4&abyssId=17732"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17732",
+        "playXID": "0a890abf09b6ef953734969c6aeee8d4",
+        "streamId": "17732",
+        "dubPlayerSrc": "/dub-player/t/17732/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=0a890abf09b6ef953734969c6aeee8d4&abyssId=17732"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/0a890abf09b6ef953734969c6aeee8d4",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/0a890abf09b6ef953734969c6aeee8d4"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17732",
+        "abyssId": "17732",
+        "playXID": "0a890abf09b6ef953734969c6aeee8d4",
+        "title": "Cells at Work!",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "XlKu-T9Hn"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "xJ0t185T5"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "czYGbAXFx"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/892cf9580ae9099ccba55fad06c351ee/master.m3u8?md5=fbBUVaGx8yuC2TMEdV8P9A&expires=1792166052",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/892cf9580ae9099ccba55fad06c351ee/master.m3u8?md5=fbBUVaGx8yuC2TMEdV8P9A&expires=1792166052",
+            "videoSource": "https://ravok.buzz/cdn/hls/892cf9580ae9099ccba55fad06c351ee/master.m3u8?md5=fbBUVaGx8yuC2TMEdV8P9A&expires=1792166052",
+            "videoImage": "https://as-cdn31.top/p/aMuQ1t9AvzuvlgzC654L3cNlfDfFQa3UrCQQQWAfC6Pjy4ABJMvJL45r4jrHHCcDC2D5IDFOZTPR5KlVw9Aq-g.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "0a890abf09b6ef953734969c6aeee8d4",
+                "streamUrl": "https://ravok.buzz/cdn/hls/892cf9580ae9099ccba55fad06c351ee/master.m3u8?md5=fbBUVaGx8yuC2TMEdV8P9A&expires=1792166052",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/892cf9580ae9099ccba55fad06c351ee/master.m3u8?md5=fbBUVaGx8yuC2TMEdV8P9A&expires=1792166052",
+                "videoSource": "https://ravok.buzz/cdn/hls/892cf9580ae9099ccba55fad06c351ee/master.m3u8?md5=fbBUVaGx8yuC2TMEdV8P9A&expires=1792166052",
+                "link": "https://ravok.buzz/cdn/hls/892cf9580ae9099ccba55fad06c351ee/master.m3u8?md5=fbBUVaGx8yuC2TMEdV8P9A&expires=1792166052",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/aMuQ1t9AvzuvlgzC654L3cNlfDfFQa3UrCQQQWAfC6Pjy4ABJMvJL45r4jrHHCcDC2D5IDFOZTPR5KlVw9Aq-g.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "XlKu-T9Hn"
+        }
+      },
+      "fetched_at": "2026-10-16T13:54:22Z"
+    },
+    {
+      "id": "episode/cells-at-work-1x3",
+      "episode_id": "episode/cells-at-work-1x3",
+      "title": "Cells at Work! 1x1",
+      "episode_name": "Cells at Work! 1x1",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2204_s1e3.webp",
+      "abyssid": "17730",
+      "abyssId": "17730",
+      "playxid": "5843342c9fde8a11880aa20b2c3899f1",
+      "playXID": "5843342c9fde8a11880aa20b2c3899f1",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17730",
+        "playXID": "5843342c9fde8a11880aa20b2c3899f1",
+        "streamId": "17730",
+        "dubPlayerSrc": "/dub-player/t/17730/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=5843342c9fde8a11880aa20b2c3899f1&abyssId=17730"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17730",
+        "playXID": "5843342c9fde8a11880aa20b2c3899f1",
+        "streamId": "17730",
+        "dubPlayerSrc": "/dub-player/t/17730/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=5843342c9fde8a11880aa20b2c3899f1&abyssId=17730"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/5843342c9fde8a11880aa20b2c3899f1",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/5843342c9fde8a11880aa20b2c3899f1"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17730",
+        "abyssId": "17730",
+        "playXID": "5843342c9fde8a11880aa20b2c3899f1",
+        "title": "Cells at Work!",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "feZxuw3Cb"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "2kMkduTMC"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "7mp4wN4Yk"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/2cb59aa201943d1f8d0bdbcf3dd7526b/master.m3u8?md5=xbntKj5tpyGcwyBIDk3r2A&expires=1792166052",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/2cb59aa201943d1f8d0bdbcf3dd7526b/master.m3u8?md5=xbntKj5tpyGcwyBIDk3r2A&expires=1792166052",
+            "videoSource": "https://ravok.buzz/cdn/hls/2cb59aa201943d1f8d0bdbcf3dd7526b/master.m3u8?md5=xbntKj5tpyGcwyBIDk3r2A&expires=1792166052",
+            "videoImage": "https://as-cdn30.top/p/m54h7JDxUHgwbsXcXy508h62bBstyS8CAoh_9IHqY549KWBB0O9vsDz0ZcEbWqW365jOBPKSiyuAvbToj3ZOlA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "5843342c9fde8a11880aa20b2c3899f1",
+                "streamUrl": "https://ravok.buzz/cdn/hls/2cb59aa201943d1f8d0bdbcf3dd7526b/master.m3u8?md5=xbntKj5tpyGcwyBIDk3r2A&expires=1792166052",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/2cb59aa201943d1f8d0bdbcf3dd7526b/master.m3u8?md5=xbntKj5tpyGcwyBIDk3r2A&expires=1792166052",
+                "videoSource": "https://ravok.buzz/cdn/hls/2cb59aa201943d1f8d0bdbcf3dd7526b/master.m3u8?md5=xbntKj5tpyGcwyBIDk3r2A&expires=1792166052",
+                "link": "https://ravok.buzz/cdn/hls/2cb59aa201943d1f8d0bdbcf3dd7526b/master.m3u8?md5=xbntKj5tpyGcwyBIDk3r2A&expires=1792166052",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/m54h7JDxUHgwbsXcXy508h62bBstyS8CAoh_9IHqY549KWBB0O9vsDz0ZcEbWqW365jOBPKSiyuAvbToj3ZOlA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "feZxuw3Cb"
+        }
+      },
+      "fetched_at": "2026-10-16T13:54:22Z"
+    },
+    {
+      "id": "episode/cells-at-work-1x4",
+      "episode_id": "episode/cells-at-work-1x4",
+      "title": "Cells at Work! 1x1",
+      "episode_name": "Cells at Work! 1x1",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2204_s1e4.webp",
+      "abyssid": "17731",
+      "abyssId": "17731",
+      "playxid": "ba5c3f4a30be3d00671fa6b2a06e5154",
+      "playXID": "ba5c3f4a30be3d00671fa6b2a06e5154",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17731",
+        "playXID": "ba5c3f4a30be3d00671fa6b2a06e5154",
+        "streamId": "17731",
+        "dubPlayerSrc": "/dub-player/t/17731/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ba5c3f4a30be3d00671fa6b2a06e5154&abyssId=17731"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17731",
+        "playXID": "ba5c3f4a30be3d00671fa6b2a06e5154",
+        "streamId": "17731",
+        "dubPlayerSrc": "/dub-player/t/17731/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ba5c3f4a30be3d00671fa6b2a06e5154&abyssId=17731"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/ba5c3f4a30be3d00671fa6b2a06e5154",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/ba5c3f4a30be3d00671fa6b2a06e5154"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17731",
+        "abyssId": "17731",
+        "playXID": "ba5c3f4a30be3d00671fa6b2a06e5154",
+        "title": "Cells at Work!",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "w6U2wZUvQ"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "t16uSnYKi"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "LKYGWZ9rN"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/700ad06cb07a2a2edc99e82e68efe356/master.m3u8?md5=XEbzYhcAVJoBgDyYucsSbw&expires=1792166052",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/700ad06cb07a2a2edc99e82e68efe356/master.m3u8?md5=XEbzYhcAVJoBgDyYucsSbw&expires=1792166052",
+            "videoSource": "https://ravok.buzz/cdn/hls/700ad06cb07a2a2edc99e82e68efe356/master.m3u8?md5=XEbzYhcAVJoBgDyYucsSbw&expires=1792166052",
+            "videoImage": "https://as-cdn29.top/p/nkvBlaSKTGz6QCTvhGFDUDwEJYRougUFSEq46BpvRap0dw27oyFeJU4Pg3Rry7u5hTvkhsiGtyW-qVCTaZWlxQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "ba5c3f4a30be3d00671fa6b2a06e5154",
+                "streamUrl": "https://ravok.buzz/cdn/hls/700ad06cb07a2a2edc99e82e68efe356/master.m3u8?md5=XEbzYhcAVJoBgDyYucsSbw&expires=1792166052",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/700ad06cb07a2a2edc99e82e68efe356/master.m3u8?md5=XEbzYhcAVJoBgDyYucsSbw&expires=1792166052",
+                "videoSource": "https://ravok.buzz/cdn/hls/700ad06cb07a2a2edc99e82e68efe356/master.m3u8?md5=XEbzYhcAVJoBgDyYucsSbw&expires=1792166052",
+                "link": "https://ravok.buzz/cdn/hls/700ad06cb07a2a2edc99e82e68efe356/master.m3u8?md5=XEbzYhcAVJoBgDyYucsSbw&expires=1792166052",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/nkvBlaSKTGz6QCTvhGFDUDwEJYRougUFSEq46BpvRap0dw27oyFeJU4Pg3Rry7u5hTvkhsiGtyW-qVCTaZWlxQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "w6U2wZUvQ"
+        }
+      },
+      "fetched_at": "2026-10-16T13:54:22Z"
+    },
+    {
+      "id": "episode/cells-at-work-1x2",
+      "episode_id": "episode/cells-at-work-1x2",
+      "title": "Cells at Work! 1x1",
+      "episode_name": "Cells at Work! 1x1",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2204_s1e2.webp",
+      "abyssid": "17729",
+      "abyssId": "17729",
+      "playxid": "4746675b2008b47fc1ef6fd6e2e754a7",
+      "playXID": "4746675b2008b47fc1ef6fd6e2e754a7",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17729",
+        "playXID": "4746675b2008b47fc1ef6fd6e2e754a7",
+        "streamId": "17729",
+        "dubPlayerSrc": "/dub-player/t/17729/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=4746675b2008b47fc1ef6fd6e2e754a7&abyssId=17729"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17729",
+        "playXID": "4746675b2008b47fc1ef6fd6e2e754a7",
+        "streamId": "17729",
+        "dubPlayerSrc": "/dub-player/t/17729/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=4746675b2008b47fc1ef6fd6e2e754a7&abyssId=17729"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/4746675b2008b47fc1ef6fd6e2e754a7",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/4746675b2008b47fc1ef6fd6e2e754a7"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17729",
+        "abyssId": "17729",
+        "playXID": "4746675b2008b47fc1ef6fd6e2e754a7",
+        "title": "Cells at Work!",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "OOC-e5teZ"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "5GEIuQgv8"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "JyF2s4-Ni"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/0d652e3e27318e9f869f84e4617c2d50/master.m3u8?md5=-f8KT2KWJcTTWsF9Ub03Ew&expires=1792166052",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/0d652e3e27318e9f869f84e4617c2d50/master.m3u8?md5=-f8KT2KWJcTTWsF9Ub03Ew&expires=1792166052",
+            "videoSource": "https://ravok.buzz/cdn/hls/0d652e3e27318e9f869f84e4617c2d50/master.m3u8?md5=-f8KT2KWJcTTWsF9Ub03Ew&expires=1792166052",
+            "videoImage": "https://as-cdn28.top/p/ksR8u7hSwVIt70HslZyrnmJD6DtPDUtOiiE8CVCL2jWN4AAyt3mWizpIbHcen64hMJA2Mt6i0qJHAzD_Fli4RA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "4746675b2008b47fc1ef6fd6e2e754a7",
+                "streamUrl": "https://ravok.buzz/cdn/hls/0d652e3e27318e9f869f84e4617c2d50/master.m3u8?md5=-f8KT2KWJcTTWsF9Ub03Ew&expires=1792166052",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/0d652e3e27318e9f869f84e4617c2d50/master.m3u8?md5=-f8KT2KWJcTTWsF9Ub03Ew&expires=1792166052",
+                "videoSource": "https://ravok.buzz/cdn/hls/0d652e3e27318e9f869f84e4617c2d50/master.m3u8?md5=-f8KT2KWJcTTWsF9Ub03Ew&expires=1792166052",
+                "link": "https://ravok.buzz/cdn/hls/0d652e3e27318e9f869f84e4617c2d50/master.m3u8?md5=-f8KT2KWJcTTWsF9Ub03Ew&expires=1792166052",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/ksR8u7hSwVIt70HslZyrnmJD6DtPDUtOiiE8CVCL2jWN4AAyt3mWizpIbHcen64hMJA2Mt6i0qJHAzD_Fli4RA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "OOC-e5teZ"
+        }
+      },
+      "fetched_at": "2026-10-16T13:54:23Z"
+    },
+    {
+      "id": "episode/cells-at-work-1x6",
+      "episode_id": "episode/cells-at-work-1x6",
+      "title": "Cells at Work! 1x1",
+      "episode_name": "Cells at Work! 1x1",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2204_s1e6.webp",
+      "abyssid": "17733",
+      "abyssId": "17733",
+      "playxid": "933526d917e9642b5d9a38f215a23b5a",
+      "playXID": "933526d917e9642b5d9a38f215a23b5a",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17733",
+        "playXID": "933526d917e9642b5d9a38f215a23b5a",
+        "streamId": "17733",
+        "dubPlayerSrc": "/dub-player/t/17733/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=933526d917e9642b5d9a38f215a23b5a&abyssId=17733"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17733",
+        "playXID": "933526d917e9642b5d9a38f215a23b5a",
+        "streamId": "17733",
+        "dubPlayerSrc": "/dub-player/t/17733/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=933526d917e9642b5d9a38f215a23b5a&abyssId=17733"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/933526d917e9642b5d9a38f215a23b5a",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/933526d917e9642b5d9a38f215a23b5a"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17733",
+        "abyssId": "17733",
+        "playXID": "933526d917e9642b5d9a38f215a23b5a",
+        "title": "Cells at Work!",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "H91GYZBet"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "pPEfDFV8T"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "_Mg5hTV3p2"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/d27749c9e19dab55b30d048618d56d73/master.m3u8?md5=hhwhUuWAKKSFN8XbTH50_A&expires=1792166054",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/d27749c9e19dab55b30d048618d56d73/master.m3u8?md5=hhwhUuWAKKSFN8XbTH50_A&expires=1792166054",
+            "videoSource": "https://ravok.buzz/cdn/hls/d27749c9e19dab55b30d048618d56d73/master.m3u8?md5=hhwhUuWAKKSFN8XbTH50_A&expires=1792166054",
+            "videoImage": "https://as-cdn30.top/p/xQQlg3s7z9Ivmk7HL4YFMj-8wcXJ6S9Lr1OSwMvwCysI6zGkdFb9Vsifapwa2uhvF6I2wO4zmXnE0RHXS4aR5A.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "933526d917e9642b5d9a38f215a23b5a",
+                "streamUrl": "https://ravok.buzz/cdn/hls/d27749c9e19dab55b30d048618d56d73/master.m3u8?md5=hhwhUuWAKKSFN8XbTH50_A&expires=1792166054",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/d27749c9e19dab55b30d048618d56d73/master.m3u8?md5=hhwhUuWAKKSFN8XbTH50_A&expires=1792166054",
+                "videoSource": "https://ravok.buzz/cdn/hls/d27749c9e19dab55b30d048618d56d73/master.m3u8?md5=hhwhUuWAKKSFN8XbTH50_A&expires=1792166054",
+                "link": "https://ravok.buzz/cdn/hls/d27749c9e19dab55b30d048618d56d73/master.m3u8?md5=hhwhUuWAKKSFN8XbTH50_A&expires=1792166054",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/xQQlg3s7z9Ivmk7HL4YFMj-8wcXJ6S9Lr1OSwMvwCysI6zGkdFb9Vsifapwa2uhvF6I2wO4zmXnE0RHXS4aR5A.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "H91GYZBet"
+        }
+      },
+      "fetched_at": "2026-10-16T13:54:24Z"
+    },
+    {
+      "id": "episode/cells-at-work-1x8",
+      "episode_id": "episode/cells-at-work-1x8",
+      "title": "Cells at Work! 1x1",
+      "episode_name": "Cells at Work! 1x1",
+      "episode_number": 8,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2204_s1e8.webp",
+      "abyssid": "17735",
+      "abyssId": "17735",
+      "playxid": "8f4c7958a3ef11baf6c6053f83fc3511",
+      "playXID": "8f4c7958a3ef11baf6c6053f83fc3511",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17735",
+        "playXID": "8f4c7958a3ef11baf6c6053f83fc3511",
+        "streamId": "17735",
+        "dubPlayerSrc": "/dub-player/t/17735/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8f4c7958a3ef11baf6c6053f83fc3511&abyssId=17735"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17735",
+        "playXID": "8f4c7958a3ef11baf6c6053f83fc3511",
+        "streamId": "17735",
+        "dubPlayerSrc": "/dub-player/t/17735/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8f4c7958a3ef11baf6c6053f83fc3511&abyssId=17735"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/8f4c7958a3ef11baf6c6053f83fc3511",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/8f4c7958a3ef11baf6c6053f83fc3511"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17735",
+        "abyssId": "17735",
+        "playXID": "8f4c7958a3ef11baf6c6053f83fc3511",
+        "title": "Cells at Work!",
+        "season": 1,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "vKEc64zry"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "SV6hxMBht"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "lH8JbQKHx"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/f85ba7958b659e97b267814a675c21fa/master.m3u8?md5=lI_3TD5FVbsrYbKy0iYB2w&expires=1792166054",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/f85ba7958b659e97b267814a675c21fa/master.m3u8?md5=lI_3TD5FVbsrYbKy0iYB2w&expires=1792166054",
+            "videoSource": "https://ravok.buzz/cdn/hls/f85ba7958b659e97b267814a675c21fa/master.m3u8?md5=lI_3TD5FVbsrYbKy0iYB2w&expires=1792166054",
+            "videoImage": "https://as-cdn31.top/p/LJhbtn6OZPF8w2KNnpuDodBG-E9ZE57y85OXOqRmhoI0xqyIGU_Ls47k6pCZxsQFX9OFmMCL8v7ujq7CvDwR6w.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "8f4c7958a3ef11baf6c6053f83fc3511",
+                "streamUrl": "https://ravok.buzz/cdn/hls/f85ba7958b659e97b267814a675c21fa/master.m3u8?md5=lI_3TD5FVbsrYbKy0iYB2w&expires=1792166054",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/f85ba7958b659e97b267814a675c21fa/master.m3u8?md5=lI_3TD5FVbsrYbKy0iYB2w&expires=1792166054",
+                "videoSource": "https://ravok.buzz/cdn/hls/f85ba7958b659e97b267814a675c21fa/master.m3u8?md5=lI_3TD5FVbsrYbKy0iYB2w&expires=1792166054",
+                "link": "https://ravok.buzz/cdn/hls/f85ba7958b659e97b267814a675c21fa/master.m3u8?md5=lI_3TD5FVbsrYbKy0iYB2w&expires=1792166054",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/LJhbtn6OZPF8w2KNnpuDodBG-E9ZE57y85OXOqRmhoI0xqyIGU_Ls47k6pCZxsQFX9OFmMCL8v7ujq7CvDwR6w.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "vKEc64zry"
+        }
+      },
+      "fetched_at": "2026-10-16T13:54:24Z"
+    },
+    {
+      "id": "episode/cells-at-work-1x7",
+      "episode_id": "episode/cells-at-work-1x7",
+      "title": "Cells at Work! 1x1",
+      "episode_name": "Cells at Work! 1x1",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2204_s1e7.webp",
+      "abyssid": "17734",
+      "abyssId": "17734",
+      "playxid": "b79be635901b01b11a2eadb9a587532b",
+      "playXID": "b79be635901b01b11a2eadb9a587532b",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17734",
+        "playXID": "b79be635901b01b11a2eadb9a587532b",
+        "streamId": "17734",
+        "dubPlayerSrc": "/dub-player/t/17734/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b79be635901b01b11a2eadb9a587532b&abyssId=17734"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17734",
+        "playXID": "b79be635901b01b11a2eadb9a587532b",
+        "streamId": "17734",
+        "dubPlayerSrc": "/dub-player/t/17734/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b79be635901b01b11a2eadb9a587532b&abyssId=17734"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/b79be635901b01b11a2eadb9a587532b",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/b79be635901b01b11a2eadb9a587532b"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17734",
+        "abyssId": "17734",
+        "playXID": "b79be635901b01b11a2eadb9a587532b",
+        "title": "Cells at Work!",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "GFn6jz-UH"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "Tk1xyLLRZ"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "Ix5e7PVML"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/098d07b9780801fc58109cf2d4d261a3/master.m3u8?md5=gYA0xnwxteujz0THax2W5Q&expires=1792166054",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/098d07b9780801fc58109cf2d4d261a3/master.m3u8?md5=gYA0xnwxteujz0THax2W5Q&expires=1792166054",
+            "videoSource": "https://ravok.buzz/cdn/hls/098d07b9780801fc58109cf2d4d261a3/master.m3u8?md5=gYA0xnwxteujz0THax2W5Q&expires=1792166054",
+            "videoImage": "https://as-cdn31.top/p/3QPXvk7xdP9kk0fgleE8UHlXy6Lxkv3Rhn4g7zof3jDJsPNZK0AJZN5onSRS27CEiJ4OYVG_GaU61RNH65zHUw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "b79be635901b01b11a2eadb9a587532b",
+                "streamUrl": "https://ravok.buzz/cdn/hls/098d07b9780801fc58109cf2d4d261a3/master.m3u8?md5=gYA0xnwxteujz0THax2W5Q&expires=1792166054",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/098d07b9780801fc58109cf2d4d261a3/master.m3u8?md5=gYA0xnwxteujz0THax2W5Q&expires=1792166054",
+                "videoSource": "https://ravok.buzz/cdn/hls/098d07b9780801fc58109cf2d4d261a3/master.m3u8?md5=gYA0xnwxteujz0THax2W5Q&expires=1792166054",
+                "link": "https://ravok.buzz/cdn/hls/098d07b9780801fc58109cf2d4d261a3/master.m3u8?md5=gYA0xnwxteujz0THax2W5Q&expires=1792166054",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/3QPXvk7xdP9kk0fgleE8UHlXy6Lxkv3Rhn4g7zof3jDJsPNZK0AJZN5onSRS27CEiJ4OYVG_GaU61RNH65zHUw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "GFn6jz-UH"
+        }
+      },
+      "fetched_at": "2026-10-16T13:54:24Z"
+    },
+    {
+      "id": "episode/cells-at-work-1x9",
+      "episode_id": "episode/cells-at-work-1x9",
+      "title": "Cells at Work! 1x1",
+      "episode_name": "Cells at Work! 1x1",
+      "episode_number": 9,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2204_s1e9.webp",
+      "abyssid": "17736",
+      "abyssId": "17736",
+      "playxid": "dbb6b4e727f400075c39bd45209c5b1c",
+      "playXID": "dbb6b4e727f400075c39bd45209c5b1c",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17736",
+        "playXID": "dbb6b4e727f400075c39bd45209c5b1c",
+        "streamId": "17736",
+        "dubPlayerSrc": "/dub-player/t/17736/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=dbb6b4e727f400075c39bd45209c5b1c&abyssId=17736"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17736",
+        "playXID": "dbb6b4e727f400075c39bd45209c5b1c",
+        "streamId": "17736",
+        "dubPlayerSrc": "/dub-player/t/17736/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=dbb6b4e727f400075c39bd45209c5b1c&abyssId=17736"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/dbb6b4e727f400075c39bd45209c5b1c",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/dbb6b4e727f400075c39bd45209c5b1c"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17736",
+        "abyssId": "17736",
+        "playXID": "dbb6b4e727f400075c39bd45209c5b1c",
+        "title": "Cells at Work!",
+        "season": 1,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "kzlAw5Qjv"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "ywI0At_XQ"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "qfAxs50xp"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/fee186d54d82515d1cebc4b4f70d311a/master.m3u8?md5=ZHe1WK3__VfuYoUQR9KgGA&expires=1792166054",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/fee186d54d82515d1cebc4b4f70d311a/master.m3u8?md5=ZHe1WK3__VfuYoUQR9KgGA&expires=1792166054",
+            "videoSource": "https://ravok.buzz/cdn/hls/fee186d54d82515d1cebc4b4f70d311a/master.m3u8?md5=ZHe1WK3__VfuYoUQR9KgGA&expires=1792166054",
+            "videoImage": "https://as-cdn31.top/p/XuVkoAEFtKtZ2kN5ZB3PiAj4Kj1QxQ7Zfy3nyZ_yeY0y_LjaRTFYVTjTx1YDH4u-5mxGxatv_BIJkydhSqkXeA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "dbb6b4e727f400075c39bd45209c5b1c",
+                "streamUrl": "https://ravok.buzz/cdn/hls/fee186d54d82515d1cebc4b4f70d311a/master.m3u8?md5=ZHe1WK3__VfuYoUQR9KgGA&expires=1792166054",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/fee186d54d82515d1cebc4b4f70d311a/master.m3u8?md5=ZHe1WK3__VfuYoUQR9KgGA&expires=1792166054",
+                "videoSource": "https://ravok.buzz/cdn/hls/fee186d54d82515d1cebc4b4f70d311a/master.m3u8?md5=ZHe1WK3__VfuYoUQR9KgGA&expires=1792166054",
+                "link": "https://ravok.buzz/cdn/hls/fee186d54d82515d1cebc4b4f70d311a/master.m3u8?md5=ZHe1WK3__VfuYoUQR9KgGA&expires=1792166054",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/XuVkoAEFtKtZ2kN5ZB3PiAj4Kj1QxQ7Zfy3nyZ_yeY0y_LjaRTFYVTjTx1YDH4u-5mxGxatv_BIJkydhSqkXeA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "kzlAw5Qjv"
+        }
+      },
+      "fetched_at": "2026-10-16T13:54:24Z"
+    },
+    {
+      "id": "episode/cells-at-work-1x10",
+      "episode_id": "episode/cells-at-work-1x10",
+      "title": "Cells at Work! 1x1",
+      "episode_name": "Cells at Work! 1x1",
+      "episode_number": 10,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2204_s1e10.webp",
+      "abyssid": "17737",
+      "abyssId": "17737",
+      "playxid": "ba9d98e8e54041173ea4f3640ed79cac",
+      "playXID": "ba9d98e8e54041173ea4f3640ed79cac",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17737",
+        "playXID": "ba9d98e8e54041173ea4f3640ed79cac",
+        "streamId": "17737",
+        "dubPlayerSrc": "/dub-player/t/17737/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ba9d98e8e54041173ea4f3640ed79cac&abyssId=17737"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17737",
+        "playXID": "ba9d98e8e54041173ea4f3640ed79cac",
+        "streamId": "17737",
+        "dubPlayerSrc": "/dub-player/t/17737/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ba9d98e8e54041173ea4f3640ed79cac&abyssId=17737"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/ba9d98e8e54041173ea4f3640ed79cac",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/ba9d98e8e54041173ea4f3640ed79cac"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17737",
+        "abyssId": "17737",
+        "playXID": "ba9d98e8e54041173ea4f3640ed79cac",
+        "title": "Cells at Work!",
+        "season": 1,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "dRNkr7MjH"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "WN9oz95rs"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "fznAQp1X6"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/5ef0650e96c8ccfbf77bc02a894e2915/master.m3u8?md5=NyyUY-ZRNuD-vMituZg0Qw&expires=1792166054",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/5ef0650e96c8ccfbf77bc02a894e2915/master.m3u8?md5=NyyUY-ZRNuD-vMituZg0Qw&expires=1792166054",
+            "videoSource": "https://ravok.buzz/cdn/hls/5ef0650e96c8ccfbf77bc02a894e2915/master.m3u8?md5=NyyUY-ZRNuD-vMituZg0Qw&expires=1792166054",
+            "videoImage": "https://as-cdn28.top/p/C--4rPB0UaygQe0EPsUKmCwVOBaN8my6cn1qCxo-TsjZon07HuSe7giFR9ZHwJCEwWVbySjbJCbjnpY4pLDitQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "ba9d98e8e54041173ea4f3640ed79cac",
+                "streamUrl": "https://ravok.buzz/cdn/hls/5ef0650e96c8ccfbf77bc02a894e2915/master.m3u8?md5=NyyUY-ZRNuD-vMituZg0Qw&expires=1792166054",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/5ef0650e96c8ccfbf77bc02a894e2915/master.m3u8?md5=NyyUY-ZRNuD-vMituZg0Qw&expires=1792166054",
+                "videoSource": "https://ravok.buzz/cdn/hls/5ef0650e96c8ccfbf77bc02a894e2915/master.m3u8?md5=NyyUY-ZRNuD-vMituZg0Qw&expires=1792166054",
+                "link": "https://ravok.buzz/cdn/hls/5ef0650e96c8ccfbf77bc02a894e2915/master.m3u8?md5=NyyUY-ZRNuD-vMituZg0Qw&expires=1792166054",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/C--4rPB0UaygQe0EPsUKmCwVOBaN8my6cn1qCxo-TsjZon07HuSe7giFR9ZHwJCEwWVbySjbJCbjnpY4pLDitQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "dRNkr7MjH"
+        }
+      },
+      "fetched_at": "2026-10-16T13:54:25Z"
+    },
+    {
+      "id": "episode/cells-at-work-1x13",
+      "episode_id": "episode/cells-at-work-1x13",
+      "title": "Cells at Work! 1x1",
+      "episode_name": "Cells at Work! 1x1",
+      "episode_number": 13,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2204_s1e13.webp",
+      "abyssid": "17740",
+      "abyssId": "17740",
+      "playxid": "caac131ff37a87d64d757ab5dc1956fb",
+      "playXID": "caac131ff37a87d64d757ab5dc1956fb",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17740",
+        "playXID": "caac131ff37a87d64d757ab5dc1956fb",
+        "streamId": "17740",
+        "dubPlayerSrc": "/dub-player/t/17740/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=caac131ff37a87d64d757ab5dc1956fb&abyssId=17740"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17740",
+        "playXID": "caac131ff37a87d64d757ab5dc1956fb",
+        "streamId": "17740",
+        "dubPlayerSrc": "/dub-player/t/17740/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=caac131ff37a87d64d757ab5dc1956fb&abyssId=17740"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/caac131ff37a87d64d757ab5dc1956fb",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/caac131ff37a87d64d757ab5dc1956fb"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17740",
+        "abyssId": "17740",
+        "playXID": "caac131ff37a87d64d757ab5dc1956fb",
+        "title": "Cells at Work!",
+        "season": 1,
+        "episode": 13,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "7Yw-gG0Ql"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "3yrhv8yA4"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "guBN6LYHG"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/822ccb257e9c7891145cd47d9d936fb0/master.m3u8?md5=TAYgwa6Il5vjaIF4rmWH1Q&expires=1792166056",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/822ccb257e9c7891145cd47d9d936fb0/master.m3u8?md5=TAYgwa6Il5vjaIF4rmWH1Q&expires=1792166056",
+            "videoSource": "https://ravok.buzz/cdn/hls/822ccb257e9c7891145cd47d9d936fb0/master.m3u8?md5=TAYgwa6Il5vjaIF4rmWH1Q&expires=1792166056",
+            "videoImage": "https://as-cdn30.top/p/GgTxFxyEMxDZna13IjaCpXqTTXIyiJtMdLnRqv2oTTeFOX570kb4cbDajNdlMxMze8o2aCqelG7fnwHjiBJB_Q.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "caac131ff37a87d64d757ab5dc1956fb",
+                "streamUrl": "https://ravok.buzz/cdn/hls/822ccb257e9c7891145cd47d9d936fb0/master.m3u8?md5=TAYgwa6Il5vjaIF4rmWH1Q&expires=1792166056",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/822ccb257e9c7891145cd47d9d936fb0/master.m3u8?md5=TAYgwa6Il5vjaIF4rmWH1Q&expires=1792166056",
+                "videoSource": "https://ravok.buzz/cdn/hls/822ccb257e9c7891145cd47d9d936fb0/master.m3u8?md5=TAYgwa6Il5vjaIF4rmWH1Q&expires=1792166056",
+                "link": "https://ravok.buzz/cdn/hls/822ccb257e9c7891145cd47d9d936fb0/master.m3u8?md5=TAYgwa6Il5vjaIF4rmWH1Q&expires=1792166056",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/GgTxFxyEMxDZna13IjaCpXqTTXIyiJtMdLnRqv2oTTeFOX570kb4cbDajNdlMxMze8o2aCqelG7fnwHjiBJB_Q.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "7Yw-gG0Ql"
+        }
+      },
+      "fetched_at": "2026-10-16T13:54:26Z"
+    },
+    {
+      "id": "episode/cells-at-work-1x11",
+      "episode_id": "episode/cells-at-work-1x11",
+      "title": "Cells at Work! 1x1",
+      "episode_name": "Cells at Work! 1x1",
+      "episode_number": 11,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2204_s1e11.webp",
+      "abyssid": "17738",
+      "abyssId": "17738",
+      "playxid": "26c7cc8d05a0dc19cfc07baa975877f1",
+      "playXID": "26c7cc8d05a0dc19cfc07baa975877f1",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17738",
+        "playXID": "26c7cc8d05a0dc19cfc07baa975877f1",
+        "streamId": "17738",
+        "dubPlayerSrc": "/dub-player/t/17738/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=26c7cc8d05a0dc19cfc07baa975877f1&abyssId=17738"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17738",
+        "playXID": "26c7cc8d05a0dc19cfc07baa975877f1",
+        "streamId": "17738",
+        "dubPlayerSrc": "/dub-player/t/17738/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=26c7cc8d05a0dc19cfc07baa975877f1&abyssId=17738"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/26c7cc8d05a0dc19cfc07baa975877f1",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/26c7cc8d05a0dc19cfc07baa975877f1"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17738",
+        "abyssId": "17738",
+        "playXID": "26c7cc8d05a0dc19cfc07baa975877f1",
+        "title": "Cells at Work!",
+        "season": 1,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "Ia0zg7h_V"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "7kIWFtje1"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "aDkhSqkPY"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/0561131cabd52a2147eebd2c0a25e475/master.m3u8?md5=7kX1s6pwXzo2Kmc0ct7c8A&expires=1792166056",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/0561131cabd52a2147eebd2c0a25e475/master.m3u8?md5=7kX1s6pwXzo2Kmc0ct7c8A&expires=1792166056",
+            "videoSource": "https://ravok.buzz/cdn/hls/0561131cabd52a2147eebd2c0a25e475/master.m3u8?md5=7kX1s6pwXzo2Kmc0ct7c8A&expires=1792166056",
+            "videoImage": "https://as-cdn29.top/p/unS7zs_bNdFb3V46w4KojrGlcqxJNgWPiM0Tbv6_9ksjvi1EH-GuzYcuQ_RehX6FSuLwVmGQqO--h_LPqPXbfw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "26c7cc8d05a0dc19cfc07baa975877f1",
+                "streamUrl": "https://ravok.buzz/cdn/hls/0561131cabd52a2147eebd2c0a25e475/master.m3u8?md5=7kX1s6pwXzo2Kmc0ct7c8A&expires=1792166056",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/0561131cabd52a2147eebd2c0a25e475/master.m3u8?md5=7kX1s6pwXzo2Kmc0ct7c8A&expires=1792166056",
+                "videoSource": "https://ravok.buzz/cdn/hls/0561131cabd52a2147eebd2c0a25e475/master.m3u8?md5=7kX1s6pwXzo2Kmc0ct7c8A&expires=1792166056",
+                "link": "https://ravok.buzz/cdn/hls/0561131cabd52a2147eebd2c0a25e475/master.m3u8?md5=7kX1s6pwXzo2Kmc0ct7c8A&expires=1792166056",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/unS7zs_bNdFb3V46w4KojrGlcqxJNgWPiM0Tbv6_9ksjvi1EH-GuzYcuQ_RehX6FSuLwVmGQqO--h_LPqPXbfw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "Ia0zg7h_V"
+        }
+      },
+      "fetched_at": "2026-10-16T13:54:26Z"
+    },
+    {
+      "id": "episode/cells-at-work-1x12",
+      "episode_id": "episode/cells-at-work-1x12",
+      "title": "Cells at Work! 1x1",
+      "episode_name": "Cells at Work! 1x1",
+      "episode_number": 12,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2204_s1e12.webp",
+      "abyssid": "17739",
+      "abyssId": "17739",
+      "playxid": "b8af787cd4a611c6360b4dc71928ebe2",
+      "playXID": "b8af787cd4a611c6360b4dc71928ebe2",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17739",
+        "playXID": "b8af787cd4a611c6360b4dc71928ebe2",
+        "streamId": "17739",
+        "dubPlayerSrc": "/dub-player/t/17739/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b8af787cd4a611c6360b4dc71928ebe2&abyssId=17739"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17739",
+        "playXID": "b8af787cd4a611c6360b4dc71928ebe2",
+        "streamId": "17739",
+        "dubPlayerSrc": "/dub-player/t/17739/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b8af787cd4a611c6360b4dc71928ebe2&abyssId=17739"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/b8af787cd4a611c6360b4dc71928ebe2",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/b8af787cd4a611c6360b4dc71928ebe2"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17739",
+        "abyssId": "17739",
+        "playXID": "b8af787cd4a611c6360b4dc71928ebe2",
+        "title": "Cells at Work!",
+        "season": 1,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "GjP2yfq8I"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "Wj8bz0YMN"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "i9HvxRrVx_"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/3b5aac0106391c03eb0cca3d00bbdca1/master.m3u8?md5=Fobgu22JwDL3-lAiD0wq6g&expires=1792166056",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/3b5aac0106391c03eb0cca3d00bbdca1/master.m3u8?md5=Fobgu22JwDL3-lAiD0wq6g&expires=1792166056",
+            "videoSource": "https://ravok.buzz/cdn/hls/3b5aac0106391c03eb0cca3d00bbdca1/master.m3u8?md5=Fobgu22JwDL3-lAiD0wq6g&expires=1792166056",
+            "videoImage": "https://as-cdn29.top/p/Q_pEzptJs3dsm4KM_RLBLoJgal5UalcKyGkTXQbMWzB2Zzwjz6R4XR9mb5sDw_K207ZGDeyyhTIJJt0AtV9dZg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "b8af787cd4a611c6360b4dc71928ebe2",
+                "streamUrl": "https://ravok.buzz/cdn/hls/3b5aac0106391c03eb0cca3d00bbdca1/master.m3u8?md5=Fobgu22JwDL3-lAiD0wq6g&expires=1792166056",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/3b5aac0106391c03eb0cca3d00bbdca1/master.m3u8?md5=Fobgu22JwDL3-lAiD0wq6g&expires=1792166056",
+                "videoSource": "https://ravok.buzz/cdn/hls/3b5aac0106391c03eb0cca3d00bbdca1/master.m3u8?md5=Fobgu22JwDL3-lAiD0wq6g&expires=1792166056",
+                "link": "https://ravok.buzz/cdn/hls/3b5aac0106391c03eb0cca3d00bbdca1/master.m3u8?md5=Fobgu22JwDL3-lAiD0wq6g&expires=1792166056",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/Q_pEzptJs3dsm4KM_RLBLoJgal5UalcKyGkTXQbMWzB2Zzwjz6R4XR9mb5sDw_K207ZGDeyyhTIJJt0AtV9dZg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "GjP2yfq8I"
+        }
+      },
+      "fetched_at": "2026-10-16T13:54:26Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T13:54:20Z",
+  "updated_at": "2026-10-16T13:54:26Z"
+}

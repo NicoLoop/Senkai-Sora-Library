@@ -1,0 +1,1464 @@
+{
+  "id": "series/snowball-earth",
+  "series_name": "SNOWBALL EARTH",
+  "title": "SNOWBALL EARTH",
+  "banner": "https://image.tmdb.org/t/p/w1280/5Jhaxj3sBDGB5oLj9snBz2bdqBG.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/rLin4VCC1QK7MDmeaSBZqw7SWRu.jpg",
+  "genra": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Mecha",
+    "Sci-Fi"
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Mecha",
+    "Sci-Fi"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Japanese"
+  ],
+  "synopsis": "Ten years after saving Earth with his robot friend Yukio, Tetsuo returns to a planet of endless ice and snow.",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 13,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 13,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "SNOWBALL EARTH 1x1",
+          "id": "episode/snowball-earth-1x1",
+          "image": "https://img.watchanimeworld.one/img/thumb_2036_s1e1.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "SNOWBALL EARTH 1x2",
+          "id": "episode/snowball-earth-1x2",
+          "image": "https://img.watchanimeworld.one/img/thumb_2036_s1e2.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "SNOWBALL EARTH 1x3",
+          "id": "episode/snowball-earth-1x3",
+          "image": "https://img.watchanimeworld.one/img/thumb_2036_s1e3.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "SNOWBALL EARTH 1x4",
+          "id": "episode/snowball-earth-1x4",
+          "image": "https://img.watchanimeworld.one/img/thumb_2036_s1e4.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "SNOWBALL EARTH 1x5",
+          "id": "episode/snowball-earth-1x5",
+          "image": "https://img.watchanimeworld.one/img/thumb_2036_s1e5.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "SNOWBALL EARTH 1x6",
+          "id": "episode/snowball-earth-1x6",
+          "image": "https://img.watchanimeworld.one/img/thumb_2036_s1e6.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "SNOWBALL EARTH 1x7",
+          "id": "episode/snowball-earth-1x7",
+          "image": "https://img.watchanimeworld.one/img/thumb_2036_s1e7.webp",
+          "season": 1
+        },
+        {
+          "episode": 8,
+          "title": "SNOWBALL EARTH 1x8",
+          "id": "episode/snowball-earth-1x8",
+          "image": "https://img.watchanimeworld.one/img/thumb_2036_s1e8.webp",
+          "season": 1
+        },
+        {
+          "episode": 9,
+          "title": "SNOWBALL EARTH 1x9",
+          "id": "episode/snowball-earth-1x9",
+          "image": "https://img.watchanimeworld.one/img/thumb_2036_s1e9.webp",
+          "season": 1
+        },
+        {
+          "episode": 10,
+          "title": "SNOWBALL EARTH 1x10",
+          "id": "episode/snowball-earth-1x10",
+          "image": "https://img.watchanimeworld.one/img/thumb_2036_s1e10.webp",
+          "season": 1
+        },
+        {
+          "episode": 11,
+          "title": "SNOWBALL EARTH 1x11",
+          "id": "episode/snowball-earth-1x11",
+          "image": "https://img.watchanimeworld.one/img/thumb_2036_s1e11.webp",
+          "season": 1
+        },
+        {
+          "episode": 12,
+          "title": "SNOWBALL EARTH 1x12",
+          "id": "episode/snowball-earth-1x12",
+          "image": "https://img.watchanimeworld.one/img/thumb_2036_s1e12.webp",
+          "season": 1
+        },
+        {
+          "episode": 13,
+          "title": "SNOWBALL EARTH 1x13",
+          "id": "episode/snowball-earth-1x13",
+          "image": "https://img.watchanimeworld.one/img/thumb_2036_s1e13.webp",
+          "season": 1
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/snowball-earth-1x1",
+      "episode_id": "episode/snowball-earth-1x1",
+      "title": "SNOWBALL EARTH 1x1",
+      "episode_name": "SNOWBALL EARTH 1x1",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2036_s1e1.webp",
+      "abyssid": "18249",
+      "abyssId": "18249",
+      "playxid": "db782d22265fd45c6af25f3bb5fc6a1a",
+      "playXID": "db782d22265fd45c6af25f3bb5fc6a1a",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18249",
+        "playXID": "db782d22265fd45c6af25f3bb5fc6a1a",
+        "streamId": "18249",
+        "dubPlayerSrc": "/dub-player/t/18249/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=db782d22265fd45c6af25f3bb5fc6a1a&abyssId=18249"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18249",
+        "playXID": "db782d22265fd45c6af25f3bb5fc6a1a",
+        "streamId": "18249",
+        "dubPlayerSrc": "/dub-player/t/18249/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=db782d22265fd45c6af25f3bb5fc6a1a&abyssId=18249"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/e6bfd869a81f98ce424bfff9642fbe39",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/e6bfd869a81f98ce424bfff9642fbe39"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18249",
+        "abyssId": "18249",
+        "playXID": "db782d22265fd45c6af25f3bb5fc6a1a",
+        "title": "SNOWBALL EARTH",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "YIHgu6prn"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "npdJBx5XR"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "WSjX1q7aB"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/5e5f1abe2914d38211a9c16f00c84a7b/master.m3u8?md5=-nkIHJp_KFCCnHQexbCmpw&expires=1792165961",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/5e5f1abe2914d38211a9c16f00c84a7b/master.m3u8?md5=-nkIHJp_KFCCnHQexbCmpw&expires=1792165961",
+            "videoSource": "https://ravok.buzz/cdn/hls/5e5f1abe2914d38211a9c16f00c84a7b/master.m3u8?md5=-nkIHJp_KFCCnHQexbCmpw&expires=1792165961",
+            "videoImage": "https://as-cdn31.top/p/P3tgsmZRgObnu5mhr9i2B71g2bSXnFUWWhE4IDI4EEwSzJiB-SMy_aHhGWuwSBVHLEfP865fB5R7xQkru8O1ag.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "db782d22265fd45c6af25f3bb5fc6a1a",
+                "streamUrl": "https://ravok.buzz/cdn/hls/5e5f1abe2914d38211a9c16f00c84a7b/master.m3u8?md5=-nkIHJp_KFCCnHQexbCmpw&expires=1792165961",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/5e5f1abe2914d38211a9c16f00c84a7b/master.m3u8?md5=-nkIHJp_KFCCnHQexbCmpw&expires=1792165961",
+                "videoSource": "https://ravok.buzz/cdn/hls/5e5f1abe2914d38211a9c16f00c84a7b/master.m3u8?md5=-nkIHJp_KFCCnHQexbCmpw&expires=1792165961",
+                "link": "https://ravok.buzz/cdn/hls/5e5f1abe2914d38211a9c16f00c84a7b/master.m3u8?md5=-nkIHJp_KFCCnHQexbCmpw&expires=1792165961",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/P3tgsmZRgObnu5mhr9i2B71g2bSXnFUWWhE4IDI4EEwSzJiB-SMy_aHhGWuwSBVHLEfP865fB5R7xQkru8O1ag.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "YIHgu6prn"
+        }
+      },
+      "fetched_at": "2026-10-16T13:52:51Z"
+    },
+    {
+      "id": "episode/snowball-earth-1x2",
+      "episode_id": "episode/snowball-earth-1x2",
+      "title": "SNOWBALL EARTH 1x1",
+      "episode_name": "SNOWBALL EARTH 1x1",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2036_s1e2.webp",
+      "abyssid": "18250",
+      "abyssId": "18250",
+      "playxid": "a249084ad4bce339b204ab436db2d902",
+      "playXID": "a249084ad4bce339b204ab436db2d902",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18250",
+        "playXID": "a249084ad4bce339b204ab436db2d902",
+        "streamId": "18250",
+        "dubPlayerSrc": "/dub-player/t/18250/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a249084ad4bce339b204ab436db2d902&abyssId=18250"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18250",
+        "playXID": "a249084ad4bce339b204ab436db2d902",
+        "streamId": "18250",
+        "dubPlayerSrc": "/dub-player/t/18250/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a249084ad4bce339b204ab436db2d902&abyssId=18250"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/bf6fa64a2e79b2800523f3a06745f5a3",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/bf6fa64a2e79b2800523f3a06745f5a3"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18250",
+        "abyssId": "18250",
+        "playXID": "a249084ad4bce339b204ab436db2d902",
+        "title": "SNOWBALL EARTH",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "d6WDOw7Xo"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "CZ5QbK18c"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "RK32szoPo"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/3afbee155d62d35a35dc52a0ba4c7e4b/master.m3u8?md5=3sH9TA3-G6nqfZqOQUsK3Q&expires=1792165961",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/3afbee155d62d35a35dc52a0ba4c7e4b/master.m3u8?md5=3sH9TA3-G6nqfZqOQUsK3Q&expires=1792165961",
+            "videoSource": "https://ravok.buzz/cdn/hls/3afbee155d62d35a35dc52a0ba4c7e4b/master.m3u8?md5=3sH9TA3-G6nqfZqOQUsK3Q&expires=1792165961",
+            "videoImage": "https://as-cdn29.top/p/l0WJaxUVUKVlM9d_vVErXIJHKN1Ku3-xHpjL9Xu_vPq047_JNfV9k0j1hYNVLCKoX2Jeaa2Q1uqJSU0n1tDtSw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "a249084ad4bce339b204ab436db2d902",
+                "streamUrl": "https://ravok.buzz/cdn/hls/3afbee155d62d35a35dc52a0ba4c7e4b/master.m3u8?md5=3sH9TA3-G6nqfZqOQUsK3Q&expires=1792165961",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/3afbee155d62d35a35dc52a0ba4c7e4b/master.m3u8?md5=3sH9TA3-G6nqfZqOQUsK3Q&expires=1792165961",
+                "videoSource": "https://ravok.buzz/cdn/hls/3afbee155d62d35a35dc52a0ba4c7e4b/master.m3u8?md5=3sH9TA3-G6nqfZqOQUsK3Q&expires=1792165961",
+                "link": "https://ravok.buzz/cdn/hls/3afbee155d62d35a35dc52a0ba4c7e4b/master.m3u8?md5=3sH9TA3-G6nqfZqOQUsK3Q&expires=1792165961",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/l0WJaxUVUKVlM9d_vVErXIJHKN1Ku3-xHpjL9Xu_vPq047_JNfV9k0j1hYNVLCKoX2Jeaa2Q1uqJSU0n1tDtSw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "d6WDOw7Xo"
+        }
+      },
+      "fetched_at": "2026-10-16T13:52:51Z"
+    },
+    {
+      "id": "episode/snowball-earth-1x3",
+      "episode_id": "episode/snowball-earth-1x3",
+      "title": "SNOWBALL EARTH 1x1",
+      "episode_name": "SNOWBALL EARTH 1x1",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2036_s1e3.webp",
+      "abyssid": "18284",
+      "abyssId": "18284",
+      "playxid": "61340e853c1b55df76945afcbe5fcadb",
+      "playXID": "61340e853c1b55df76945afcbe5fcadb",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18284",
+        "playXID": "61340e853c1b55df76945afcbe5fcadb",
+        "streamId": "18284",
+        "dubPlayerSrc": "/dub-player/t/18284/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=61340e853c1b55df76945afcbe5fcadb&abyssId=18284"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18284",
+        "playXID": "61340e853c1b55df76945afcbe5fcadb",
+        "streamId": "18284",
+        "dubPlayerSrc": "/dub-player/t/18284/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=61340e853c1b55df76945afcbe5fcadb&abyssId=18284"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/0c78cd98d2fc75ace15e352273e4fd8a",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/0c78cd98d2fc75ace15e352273e4fd8a"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18284",
+        "abyssId": "18284",
+        "playXID": "61340e853c1b55df76945afcbe5fcadb",
+        "title": "SNOWBALL EARTH",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "A_SVmopNj"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "LlbejY5Bq"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "08CRUMEKv"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/1b2784ba6d1a462f1920b723d5fc133d/master.m3u8?md5=TxSQi_-OW7HC45xA3EqcaQ&expires=1792165961",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/1b2784ba6d1a462f1920b723d5fc133d/master.m3u8?md5=TxSQi_-OW7HC45xA3EqcaQ&expires=1792165961",
+            "videoSource": "https://ravok.buzz/cdn/hls/1b2784ba6d1a462f1920b723d5fc133d/master.m3u8?md5=TxSQi_-OW7HC45xA3EqcaQ&expires=1792165961",
+            "videoImage": "https://as-cdn30.top/p/-9J5-1px6RXRNy3FsyqII7xF1Tmmb_zgQVRiIzB2S344NclM5i4cpkWALk3PgBEOFBSwUUWBSIg9zjtKRmNPeQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "61340e853c1b55df76945afcbe5fcadb",
+                "streamUrl": "https://ravok.buzz/cdn/hls/1b2784ba6d1a462f1920b723d5fc133d/master.m3u8?md5=TxSQi_-OW7HC45xA3EqcaQ&expires=1792165961",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/1b2784ba6d1a462f1920b723d5fc133d/master.m3u8?md5=TxSQi_-OW7HC45xA3EqcaQ&expires=1792165961",
+                "videoSource": "https://ravok.buzz/cdn/hls/1b2784ba6d1a462f1920b723d5fc133d/master.m3u8?md5=TxSQi_-OW7HC45xA3EqcaQ&expires=1792165961",
+                "link": "https://ravok.buzz/cdn/hls/1b2784ba6d1a462f1920b723d5fc133d/master.m3u8?md5=TxSQi_-OW7HC45xA3EqcaQ&expires=1792165961",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/-9J5-1px6RXRNy3FsyqII7xF1Tmmb_zgQVRiIzB2S344NclM5i4cpkWALk3PgBEOFBSwUUWBSIg9zjtKRmNPeQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "A_SVmopNj"
+        }
+      },
+      "fetched_at": "2026-10-16T13:52:51Z"
+    },
+    {
+      "id": "episode/snowball-earth-1x5",
+      "episode_id": "episode/snowball-earth-1x5",
+      "title": "SNOWBALL EARTH 1x1",
+      "episode_name": "SNOWBALL EARTH 1x1",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2036_s1e5.webp",
+      "abyssid": "18299",
+      "abyssId": "18299",
+      "playxid": "e9581708455f019cff55c757b2f36ccd",
+      "playXID": "e9581708455f019cff55c757b2f36ccd",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18299",
+        "playXID": "e9581708455f019cff55c757b2f36ccd",
+        "streamId": "18299",
+        "dubPlayerSrc": "/dub-player/t/18299/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e9581708455f019cff55c757b2f36ccd&abyssId=18299"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18299",
+        "playXID": "e9581708455f019cff55c757b2f36ccd",
+        "streamId": "18299",
+        "dubPlayerSrc": "/dub-player/t/18299/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e9581708455f019cff55c757b2f36ccd&abyssId=18299"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/1aebc7e51e61a787aa2d3419a3a96ae0",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/1aebc7e51e61a787aa2d3419a3a96ae0"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18299",
+        "abyssId": "18299",
+        "playXID": "e9581708455f019cff55c757b2f36ccd",
+        "title": "SNOWBALL EARTH",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "F2s--MUwY"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "QubhKndXL"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "wGaWWrgwj"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/a427d6a9c55e2230927b270bf81b4cf1/master.m3u8?md5=XWjH8DIwnMkjc_FT0gccTQ&expires=1792165961",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/a427d6a9c55e2230927b270bf81b4cf1/master.m3u8?md5=XWjH8DIwnMkjc_FT0gccTQ&expires=1792165961",
+            "videoSource": "https://ravok.buzz/cdn/hls/a427d6a9c55e2230927b270bf81b4cf1/master.m3u8?md5=XWjH8DIwnMkjc_FT0gccTQ&expires=1792165961",
+            "videoImage": "https://as-cdn31.top/p/nYdtJVuOmqaoh7_dGEfa1p3zFe2s_bs3rBflEGaIgHInYVgbwcpM0kl-RPpHGNIagj837nUkYXZXORuJGOVW7Q.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "e9581708455f019cff55c757b2f36ccd",
+                "streamUrl": "https://ravok.buzz/cdn/hls/a427d6a9c55e2230927b270bf81b4cf1/master.m3u8?md5=XWjH8DIwnMkjc_FT0gccTQ&expires=1792165961",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/a427d6a9c55e2230927b270bf81b4cf1/master.m3u8?md5=XWjH8DIwnMkjc_FT0gccTQ&expires=1792165961",
+                "videoSource": "https://ravok.buzz/cdn/hls/a427d6a9c55e2230927b270bf81b4cf1/master.m3u8?md5=XWjH8DIwnMkjc_FT0gccTQ&expires=1792165961",
+                "link": "https://ravok.buzz/cdn/hls/a427d6a9c55e2230927b270bf81b4cf1/master.m3u8?md5=XWjH8DIwnMkjc_FT0gccTQ&expires=1792165961",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/nYdtJVuOmqaoh7_dGEfa1p3zFe2s_bs3rBflEGaIgHInYVgbwcpM0kl-RPpHGNIagj837nUkYXZXORuJGOVW7Q.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "F2s--MUwY"
+        }
+      },
+      "fetched_at": "2026-10-16T13:52:51Z"
+    },
+    {
+      "id": "episode/snowball-earth-1x4",
+      "episode_id": "episode/snowball-earth-1x4",
+      "title": "SNOWBALL EARTH 1x1",
+      "episode_name": "SNOWBALL EARTH 1x1",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2036_s1e4.webp",
+      "abyssid": "18285",
+      "abyssId": "18285",
+      "playxid": "060d6e6b635a8b27ff90e4ef041c2ae9",
+      "playXID": "060d6e6b635a8b27ff90e4ef041c2ae9",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18285",
+        "playXID": "060d6e6b635a8b27ff90e4ef041c2ae9",
+        "streamId": "18285",
+        "dubPlayerSrc": "/dub-player/t/18285/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=060d6e6b635a8b27ff90e4ef041c2ae9&abyssId=18285"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18285",
+        "playXID": "060d6e6b635a8b27ff90e4ef041c2ae9",
+        "streamId": "18285",
+        "dubPlayerSrc": "/dub-player/t/18285/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=060d6e6b635a8b27ff90e4ef041c2ae9&abyssId=18285"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/34a36809555aad78b1f6655ad3f012ca",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/34a36809555aad78b1f6655ad3f012ca"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18285",
+        "abyssId": "18285",
+        "playXID": "060d6e6b635a8b27ff90e4ef041c2ae9",
+        "title": "SNOWBALL EARTH",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "RovTweDVq"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "zzu_veJ7T"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "-j3Dlbxgn"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/0e8709822cf554e51b8d3e17995531a8/master.m3u8?md5=lNNcnzt6jDRol69K15F5sg&expires=1792165961",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/0e8709822cf554e51b8d3e17995531a8/master.m3u8?md5=lNNcnzt6jDRol69K15F5sg&expires=1792165961",
+            "videoSource": "https://ravok.buzz/cdn/hls/0e8709822cf554e51b8d3e17995531a8/master.m3u8?md5=lNNcnzt6jDRol69K15F5sg&expires=1792165961",
+            "videoImage": "https://as-cdn31.top/p/IMlCv9ljpqk8G9tVvI_BDGCCUAtYuXAKZfl39FOQGh9Tkb7DifCzf3HEyvcyytKcJxZaTWu9nPl-S3CndKq5zw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "060d6e6b635a8b27ff90e4ef041c2ae9",
+                "streamUrl": "https://ravok.buzz/cdn/hls/0e8709822cf554e51b8d3e17995531a8/master.m3u8?md5=lNNcnzt6jDRol69K15F5sg&expires=1792165961",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/0e8709822cf554e51b8d3e17995531a8/master.m3u8?md5=lNNcnzt6jDRol69K15F5sg&expires=1792165961",
+                "videoSource": "https://ravok.buzz/cdn/hls/0e8709822cf554e51b8d3e17995531a8/master.m3u8?md5=lNNcnzt6jDRol69K15F5sg&expires=1792165961",
+                "link": "https://ravok.buzz/cdn/hls/0e8709822cf554e51b8d3e17995531a8/master.m3u8?md5=lNNcnzt6jDRol69K15F5sg&expires=1792165961",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/IMlCv9ljpqk8G9tVvI_BDGCCUAtYuXAKZfl39FOQGh9Tkb7DifCzf3HEyvcyytKcJxZaTWu9nPl-S3CndKq5zw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "RovTweDVq"
+        }
+      },
+      "fetched_at": "2026-10-16T13:52:51Z"
+    },
+    {
+      "id": "episode/snowball-earth-1x6",
+      "episode_id": "episode/snowball-earth-1x6",
+      "title": "SNOWBALL EARTH 1x1",
+      "episode_name": "SNOWBALL EARTH 1x1",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2036_s1e6.webp",
+      "abyssid": "18314",
+      "abyssId": "18314",
+      "playxid": "6c7a9f7314e184c928cd9fd0efd3b659",
+      "playXID": "6c7a9f7314e184c928cd9fd0efd3b659",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18314",
+        "playXID": "6c7a9f7314e184c928cd9fd0efd3b659",
+        "streamId": "18314",
+        "dubPlayerSrc": "/dub-player/t/18314/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6c7a9f7314e184c928cd9fd0efd3b659&abyssId=18314"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18314",
+        "playXID": "6c7a9f7314e184c928cd9fd0efd3b659",
+        "streamId": "18314",
+        "dubPlayerSrc": "/dub-player/t/18314/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6c7a9f7314e184c928cd9fd0efd3b659&abyssId=18314"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/a624873c42ee905ecc113ce243187740",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/a624873c42ee905ecc113ce243187740"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18314",
+        "abyssId": "18314",
+        "playXID": "6c7a9f7314e184c928cd9fd0efd3b659",
+        "title": "SNOWBALL EARTH",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "J_mwcpsu4"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "irVx5lkc6"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "2VOEe9BKR"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/623611172d1f2a8b50a9e6717d0a21a2/master.m3u8?md5=VvFjj4-I2Ca7FACVKtcXHA&expires=1792165963",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/623611172d1f2a8b50a9e6717d0a21a2/master.m3u8?md5=VvFjj4-I2Ca7FACVKtcXHA&expires=1792165963",
+            "videoSource": "https://ravok.buzz/cdn/hls/623611172d1f2a8b50a9e6717d0a21a2/master.m3u8?md5=VvFjj4-I2Ca7FACVKtcXHA&expires=1792165963",
+            "videoImage": "https://as-cdn28.top/p/as6bTj3ttXuracDcka6f8F8w5bwQ7ZnZfFn38NS07_4IB86uWAgGcGnuei_axaEDhTTr2VVbgmXQz1LgGVsVag.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "6c7a9f7314e184c928cd9fd0efd3b659",
+                "streamUrl": "https://ravok.buzz/cdn/hls/623611172d1f2a8b50a9e6717d0a21a2/master.m3u8?md5=VvFjj4-I2Ca7FACVKtcXHA&expires=1792165963",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/623611172d1f2a8b50a9e6717d0a21a2/master.m3u8?md5=VvFjj4-I2Ca7FACVKtcXHA&expires=1792165963",
+                "videoSource": "https://ravok.buzz/cdn/hls/623611172d1f2a8b50a9e6717d0a21a2/master.m3u8?md5=VvFjj4-I2Ca7FACVKtcXHA&expires=1792165963",
+                "link": "https://ravok.buzz/cdn/hls/623611172d1f2a8b50a9e6717d0a21a2/master.m3u8?md5=VvFjj4-I2Ca7FACVKtcXHA&expires=1792165963",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/as6bTj3ttXuracDcka6f8F8w5bwQ7ZnZfFn38NS07_4IB86uWAgGcGnuei_axaEDhTTr2VVbgmXQz1LgGVsVag.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "J_mwcpsu4"
+        }
+      },
+      "fetched_at": "2026-10-16T13:52:53Z"
+    },
+    {
+      "id": "episode/snowball-earth-1x7",
+      "episode_id": "episode/snowball-earth-1x7",
+      "title": "SNOWBALL EARTH 1x1",
+      "episode_name": "SNOWBALL EARTH 1x1",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2036_s1e7.webp",
+      "abyssid": "18373",
+      "abyssId": "18373",
+      "playxid": "7aa0c0a3e9f181bc2dd0e35ecae62dd9",
+      "playXID": "7aa0c0a3e9f181bc2dd0e35ecae62dd9",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18373",
+        "playXID": "7aa0c0a3e9f181bc2dd0e35ecae62dd9",
+        "streamId": "18373",
+        "dubPlayerSrc": "/dub-player/t/18373/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=7aa0c0a3e9f181bc2dd0e35ecae62dd9&abyssId=18373"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18373",
+        "playXID": "7aa0c0a3e9f181bc2dd0e35ecae62dd9",
+        "streamId": "18373",
+        "dubPlayerSrc": "/dub-player/t/18373/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=7aa0c0a3e9f181bc2dd0e35ecae62dd9&abyssId=18373"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/f543cf8c172c7e78a2420a2d7555c2f1",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/f543cf8c172c7e78a2420a2d7555c2f1"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18373",
+        "abyssId": "18373",
+        "playXID": "7aa0c0a3e9f181bc2dd0e35ecae62dd9",
+        "title": "SNOWBALL EARTH",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "MSIBxinXl"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "zJOVmju0M"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "UziC7QN-I"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/4265799f53a9e9a1b06457655a8bd673/master.m3u8?md5=QMk-AMcL-6hSB50EtuLe1Q&expires=1792165963",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/4265799f53a9e9a1b06457655a8bd673/master.m3u8?md5=QMk-AMcL-6hSB50EtuLe1Q&expires=1792165963",
+            "videoSource": "https://ravok.buzz/cdn/hls/4265799f53a9e9a1b06457655a8bd673/master.m3u8?md5=QMk-AMcL-6hSB50EtuLe1Q&expires=1792165963",
+            "videoImage": "https://as-cdn28.top/p/Piov7YG1gKpuR0E1ngW_kypKphXr7jv3AWIo7ZjjYp6AsKtSoOevh4XxQ-8jBwsh1eoRwcU_CzwYQOAs3RpFpw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "7aa0c0a3e9f181bc2dd0e35ecae62dd9",
+                "streamUrl": "https://ravok.buzz/cdn/hls/4265799f53a9e9a1b06457655a8bd673/master.m3u8?md5=QMk-AMcL-6hSB50EtuLe1Q&expires=1792165963",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/4265799f53a9e9a1b06457655a8bd673/master.m3u8?md5=QMk-AMcL-6hSB50EtuLe1Q&expires=1792165963",
+                "videoSource": "https://ravok.buzz/cdn/hls/4265799f53a9e9a1b06457655a8bd673/master.m3u8?md5=QMk-AMcL-6hSB50EtuLe1Q&expires=1792165963",
+                "link": "https://ravok.buzz/cdn/hls/4265799f53a9e9a1b06457655a8bd673/master.m3u8?md5=QMk-AMcL-6hSB50EtuLe1Q&expires=1792165963",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/Piov7YG1gKpuR0E1ngW_kypKphXr7jv3AWIo7ZjjYp6AsKtSoOevh4XxQ-8jBwsh1eoRwcU_CzwYQOAs3RpFpw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "MSIBxinXl"
+        }
+      },
+      "fetched_at": "2026-10-16T13:52:53Z"
+    },
+    {
+      "id": "episode/snowball-earth-1x8",
+      "episode_id": "episode/snowball-earth-1x8",
+      "title": "SNOWBALL EARTH 1x1",
+      "episode_name": "SNOWBALL EARTH 1x1",
+      "episode_number": 8,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2036_s1e8.webp",
+      "abyssid": "18386",
+      "abyssId": "18386",
+      "playxid": "bb8054b490d695da02c573c665824b88",
+      "playXID": "bb8054b490d695da02c573c665824b88",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18386",
+        "playXID": "bb8054b490d695da02c573c665824b88",
+        "streamId": "18386",
+        "dubPlayerSrc": "/dub-player/t/18386/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=bb8054b490d695da02c573c665824b88&abyssId=18386"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18386",
+        "playXID": "bb8054b490d695da02c573c665824b88",
+        "streamId": "18386",
+        "dubPlayerSrc": "/dub-player/t/18386/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=bb8054b490d695da02c573c665824b88&abyssId=18386"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/eb373961a9e663f29108e296d307bcb8",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/eb373961a9e663f29108e296d307bcb8"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18386",
+        "abyssId": "18386",
+        "playXID": "bb8054b490d695da02c573c665824b88",
+        "title": "SNOWBALL EARTH",
+        "season": 1,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "MawTJcm5q"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "rC7tPY9_f"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "-3cX640PX"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/e1092a37c47102b2d3905f1685a86a58/master.m3u8?md5=BXhabuTFcHYE2Bj1qPpAqA&expires=1792165963",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/e1092a37c47102b2d3905f1685a86a58/master.m3u8?md5=BXhabuTFcHYE2Bj1qPpAqA&expires=1792165963",
+            "videoSource": "https://ravok.buzz/cdn/hls/e1092a37c47102b2d3905f1685a86a58/master.m3u8?md5=BXhabuTFcHYE2Bj1qPpAqA&expires=1792165963",
+            "videoImage": "https://as-cdn27.top/p/ocFfHVaH9XlcTOmzSGHyveImb1VdNgxVOuyURbOdorhyTLT76YNC2XdD7qnUrNJ3hXtrPQeXI5n8ummBsoTHxg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "bb8054b490d695da02c573c665824b88",
+                "streamUrl": "https://ravok.buzz/cdn/hls/e1092a37c47102b2d3905f1685a86a58/master.m3u8?md5=BXhabuTFcHYE2Bj1qPpAqA&expires=1792165963",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/e1092a37c47102b2d3905f1685a86a58/master.m3u8?md5=BXhabuTFcHYE2Bj1qPpAqA&expires=1792165963",
+                "videoSource": "https://ravok.buzz/cdn/hls/e1092a37c47102b2d3905f1685a86a58/master.m3u8?md5=BXhabuTFcHYE2Bj1qPpAqA&expires=1792165963",
+                "link": "https://ravok.buzz/cdn/hls/e1092a37c47102b2d3905f1685a86a58/master.m3u8?md5=BXhabuTFcHYE2Bj1qPpAqA&expires=1792165963",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/ocFfHVaH9XlcTOmzSGHyveImb1VdNgxVOuyURbOdorhyTLT76YNC2XdD7qnUrNJ3hXtrPQeXI5n8ummBsoTHxg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "MawTJcm5q"
+        }
+      },
+      "fetched_at": "2026-10-16T13:52:53Z"
+    },
+    {
+      "id": "episode/snowball-earth-1x9",
+      "episode_id": "episode/snowball-earth-1x9",
+      "title": "SNOWBALL EARTH 1x1",
+      "episode_name": "SNOWBALL EARTH 1x1",
+      "episode_number": 9,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2036_s1e9.webp",
+      "abyssid": "18406",
+      "abyssId": "18406",
+      "playxid": "9d8cc04d36560d8bb56054f8f9354138",
+      "playXID": "9d8cc04d36560d8bb56054f8f9354138",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18406",
+        "playXID": "9d8cc04d36560d8bb56054f8f9354138",
+        "streamId": "18406",
+        "dubPlayerSrc": "/dub-player/t/18406/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9d8cc04d36560d8bb56054f8f9354138&abyssId=18406"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18406",
+        "playXID": "9d8cc04d36560d8bb56054f8f9354138",
+        "streamId": "18406",
+        "dubPlayerSrc": "/dub-player/t/18406/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9d8cc04d36560d8bb56054f8f9354138&abyssId=18406"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/9a8f0030ad1618cfb965b48634eecdad",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/9a8f0030ad1618cfb965b48634eecdad"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18406",
+        "abyssId": "18406",
+        "playXID": "9d8cc04d36560d8bb56054f8f9354138",
+        "title": "SNOWBALL EARTH",
+        "season": 1,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "H-hAYETiu"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "WvH23fWR6"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "vN_loWWKQ"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/6f9654eeb84f0b4a8a8f278bbca92350/master.m3u8?md5=b-o1z_DIcEIfsGRLKQ6umw&expires=1792165963",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/6f9654eeb84f0b4a8a8f278bbca92350/master.m3u8?md5=b-o1z_DIcEIfsGRLKQ6umw&expires=1792165963",
+            "videoSource": "https://ravok.buzz/cdn/hls/6f9654eeb84f0b4a8a8f278bbca92350/master.m3u8?md5=b-o1z_DIcEIfsGRLKQ6umw&expires=1792165963",
+            "videoImage": "https://as-cdn27.top/p/9BEemQipcC9ODSvHScIUHQud4y2gAeoIeGMvwbVwVVlt5oDJjBPFXkiGAWT25rKnwBjJiO9Lc9NA50Q-3gIo5w.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "9d8cc04d36560d8bb56054f8f9354138",
+                "streamUrl": "https://ravok.buzz/cdn/hls/6f9654eeb84f0b4a8a8f278bbca92350/master.m3u8?md5=b-o1z_DIcEIfsGRLKQ6umw&expires=1792165963",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/6f9654eeb84f0b4a8a8f278bbca92350/master.m3u8?md5=b-o1z_DIcEIfsGRLKQ6umw&expires=1792165963",
+                "videoSource": "https://ravok.buzz/cdn/hls/6f9654eeb84f0b4a8a8f278bbca92350/master.m3u8?md5=b-o1z_DIcEIfsGRLKQ6umw&expires=1792165963",
+                "link": "https://ravok.buzz/cdn/hls/6f9654eeb84f0b4a8a8f278bbca92350/master.m3u8?md5=b-o1z_DIcEIfsGRLKQ6umw&expires=1792165963",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/9BEemQipcC9ODSvHScIUHQud4y2gAeoIeGMvwbVwVVlt5oDJjBPFXkiGAWT25rKnwBjJiO9Lc9NA50Q-3gIo5w.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "H-hAYETiu"
+        }
+      },
+      "fetched_at": "2026-10-16T13:52:53Z"
+    },
+    {
+      "id": "episode/snowball-earth-1x10",
+      "episode_id": "episode/snowball-earth-1x10",
+      "title": "SNOWBALL EARTH 1x1",
+      "episode_name": "SNOWBALL EARTH 1x1",
+      "episode_number": 10,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2036_s1e10.webp",
+      "abyssid": "18421",
+      "abyssId": "18421",
+      "playxid": "fdeb711f948b72ef659f43ec66a36709",
+      "playXID": "fdeb711f948b72ef659f43ec66a36709",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18421",
+        "playXID": "fdeb711f948b72ef659f43ec66a36709",
+        "streamId": "18421",
+        "dubPlayerSrc": "/dub-player/t/18421/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=fdeb711f948b72ef659f43ec66a36709&abyssId=18421"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18421",
+        "playXID": "fdeb711f948b72ef659f43ec66a36709",
+        "streamId": "18421",
+        "dubPlayerSrc": "/dub-player/t/18421/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=fdeb711f948b72ef659f43ec66a36709&abyssId=18421"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/acec40d7cb2fc91f4fe388dd0fc29d03",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/acec40d7cb2fc91f4fe388dd0fc29d03"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18421",
+        "abyssId": "18421",
+        "playXID": "fdeb711f948b72ef659f43ec66a36709",
+        "title": "SNOWBALL EARTH",
+        "season": 1,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "8PKD3njem"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "XCHbwtNa4"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "7j2ESBAGa"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/30c3e2ca4fc4fc276f215fa95c847ad8/master.m3u8?md5=qNHQoO-lZQp4qHgxt2gj5Q&expires=1792165963",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/30c3e2ca4fc4fc276f215fa95c847ad8/master.m3u8?md5=qNHQoO-lZQp4qHgxt2gj5Q&expires=1792165963",
+            "videoSource": "https://ravok.buzz/cdn/hls/30c3e2ca4fc4fc276f215fa95c847ad8/master.m3u8?md5=qNHQoO-lZQp4qHgxt2gj5Q&expires=1792165963",
+            "videoImage": "https://as-cdn29.top/p/NmDWphD3eYydq-wIpkUKoQbQu0CPbqNG4laV2BIDgIk92bUot9M_jHOVVsWx0xnRfmWjZa-h8xzgipFtucIQdg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "fdeb711f948b72ef659f43ec66a36709",
+                "streamUrl": "https://ravok.buzz/cdn/hls/30c3e2ca4fc4fc276f215fa95c847ad8/master.m3u8?md5=qNHQoO-lZQp4qHgxt2gj5Q&expires=1792165963",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/30c3e2ca4fc4fc276f215fa95c847ad8/master.m3u8?md5=qNHQoO-lZQp4qHgxt2gj5Q&expires=1792165963",
+                "videoSource": "https://ravok.buzz/cdn/hls/30c3e2ca4fc4fc276f215fa95c847ad8/master.m3u8?md5=qNHQoO-lZQp4qHgxt2gj5Q&expires=1792165963",
+                "link": "https://ravok.buzz/cdn/hls/30c3e2ca4fc4fc276f215fa95c847ad8/master.m3u8?md5=qNHQoO-lZQp4qHgxt2gj5Q&expires=1792165963",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/NmDWphD3eYydq-wIpkUKoQbQu0CPbqNG4laV2BIDgIk92bUot9M_jHOVVsWx0xnRfmWjZa-h8xzgipFtucIQdg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "8PKD3njem"
+        }
+      },
+      "fetched_at": "2026-10-16T13:52:54Z"
+    },
+    {
+      "id": "episode/snowball-earth-1x12",
+      "episode_id": "episode/snowball-earth-1x12",
+      "title": "SNOWBALL EARTH 1x1",
+      "episode_name": "SNOWBALL EARTH 1x1",
+      "episode_number": 12,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2036_s1e12.webp",
+      "abyssid": "18567",
+      "abyssId": "18567",
+      "playxid": "783efccaaa732b206beec7bf11885866",
+      "playXID": "783efccaaa732b206beec7bf11885866",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18567",
+        "playXID": "783efccaaa732b206beec7bf11885866",
+        "streamId": "18567",
+        "dubPlayerSrc": "/dub-player/t/18567/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=783efccaaa732b206beec7bf11885866&abyssId=18567"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18567",
+        "playXID": "783efccaaa732b206beec7bf11885866",
+        "streamId": "18567",
+        "dubPlayerSrc": "/dub-player/t/18567/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=783efccaaa732b206beec7bf11885866&abyssId=18567"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/9da23ab27b8170050f4f24548c3c5ac4",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/9da23ab27b8170050f4f24548c3c5ac4"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18567",
+        "abyssId": "18567",
+        "playXID": "783efccaaa732b206beec7bf11885866",
+        "title": "SNOWBALL EARTH",
+        "season": 1,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "2a307YiQn"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "3eLytejSX"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "LxGEF8JDH"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/1a2de803755a203cd1df0606fae0b022/master.m3u8?md5=FEvCl2knxA7l_sEdFE-e6A&expires=1792165965",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/1a2de803755a203cd1df0606fae0b022/master.m3u8?md5=FEvCl2knxA7l_sEdFE-e6A&expires=1792165965",
+            "videoSource": "https://ravok.buzz/cdn/hls/1a2de803755a203cd1df0606fae0b022/master.m3u8?md5=FEvCl2knxA7l_sEdFE-e6A&expires=1792165965",
+            "videoImage": "https://as-cdn27.top/p/cm_vaRHER04_FbeO-k6MNJqEBg1N8gbgZVAz1bnpRGmJ8zcU0b4lCr4R3gbEYI0Denfmo3gINjufYrJhFRjgqg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "783efccaaa732b206beec7bf11885866",
+                "streamUrl": "https://ravok.buzz/cdn/hls/1a2de803755a203cd1df0606fae0b022/master.m3u8?md5=FEvCl2knxA7l_sEdFE-e6A&expires=1792165965",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/1a2de803755a203cd1df0606fae0b022/master.m3u8?md5=FEvCl2knxA7l_sEdFE-e6A&expires=1792165965",
+                "videoSource": "https://ravok.buzz/cdn/hls/1a2de803755a203cd1df0606fae0b022/master.m3u8?md5=FEvCl2knxA7l_sEdFE-e6A&expires=1792165965",
+                "link": "https://ravok.buzz/cdn/hls/1a2de803755a203cd1df0606fae0b022/master.m3u8?md5=FEvCl2knxA7l_sEdFE-e6A&expires=1792165965",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/cm_vaRHER04_FbeO-k6MNJqEBg1N8gbgZVAz1bnpRGmJ8zcU0b4lCr4R3gbEYI0Denfmo3gINjufYrJhFRjgqg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "2a307YiQn"
+        }
+      },
+      "fetched_at": "2026-10-16T13:52:55Z"
+    },
+    {
+      "id": "episode/snowball-earth-1x11",
+      "episode_id": "episode/snowball-earth-1x11",
+      "title": "SNOWBALL EARTH 1x1",
+      "episode_name": "SNOWBALL EARTH 1x1",
+      "episode_number": 11,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2036_s1e11.webp",
+      "abyssid": "18467",
+      "abyssId": "18467",
+      "playxid": "5bfed8c7b813d2469f60241010ffa87c",
+      "playXID": "5bfed8c7b813d2469f60241010ffa87c",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18467",
+        "playXID": "5bfed8c7b813d2469f60241010ffa87c",
+        "streamId": "18467",
+        "dubPlayerSrc": "/dub-player/t/18467/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=5bfed8c7b813d2469f60241010ffa87c&abyssId=18467"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18467",
+        "playXID": "5bfed8c7b813d2469f60241010ffa87c",
+        "streamId": "18467",
+        "dubPlayerSrc": "/dub-player/t/18467/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=5bfed8c7b813d2469f60241010ffa87c&abyssId=18467"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/683cc00f22b1a9f8785120b125cf84f7",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/683cc00f22b1a9f8785120b125cf84f7"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18467",
+        "abyssId": "18467",
+        "playXID": "5bfed8c7b813d2469f60241010ffa87c",
+        "title": "SNOWBALL EARTH",
+        "season": 1,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "d3eXNnbqT"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "oXg7KbEkk"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "nsw3VuRo3"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/6c25556b9d85ab907b455b79f272bbbd/master.m3u8?md5=OAyF47B4sBPly-u_AtygVA&expires=1792165965",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/6c25556b9d85ab907b455b79f272bbbd/master.m3u8?md5=OAyF47B4sBPly-u_AtygVA&expires=1792165965",
+            "videoSource": "https://ravok.buzz/cdn/hls/6c25556b9d85ab907b455b79f272bbbd/master.m3u8?md5=OAyF47B4sBPly-u_AtygVA&expires=1792165965",
+            "videoImage": "https://as-cdn28.top/p/9yW_UCDivQvoVOfghbow665lBfgj5hEIVMFuMbvd_hF9VuQjrCrTGKWRVDSo4QyqibsCUnhroI7rw6YEplGJuw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "5bfed8c7b813d2469f60241010ffa87c",
+                "streamUrl": "https://ravok.buzz/cdn/hls/6c25556b9d85ab907b455b79f272bbbd/master.m3u8?md5=OAyF47B4sBPly-u_AtygVA&expires=1792165965",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/6c25556b9d85ab907b455b79f272bbbd/master.m3u8?md5=OAyF47B4sBPly-u_AtygVA&expires=1792165965",
+                "videoSource": "https://ravok.buzz/cdn/hls/6c25556b9d85ab907b455b79f272bbbd/master.m3u8?md5=OAyF47B4sBPly-u_AtygVA&expires=1792165965",
+                "link": "https://ravok.buzz/cdn/hls/6c25556b9d85ab907b455b79f272bbbd/master.m3u8?md5=OAyF47B4sBPly-u_AtygVA&expires=1792165965",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/9yW_UCDivQvoVOfghbow665lBfgj5hEIVMFuMbvd_hF9VuQjrCrTGKWRVDSo4QyqibsCUnhroI7rw6YEplGJuw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "d3eXNnbqT"
+        }
+      },
+      "fetched_at": "2026-10-16T13:52:55Z"
+    },
+    {
+      "id": "episode/snowball-earth-1x13",
+      "episode_id": "episode/snowball-earth-1x13",
+      "title": "SNOWBALL EARTH 1x1",
+      "episode_name": "SNOWBALL EARTH 1x1",
+      "episode_number": 13,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2036_s1e13.webp",
+      "abyssid": "18680",
+      "abyssId": "18680",
+      "playxid": "3d8d2220463b293730e94b6d9cdd6fd0",
+      "playXID": "3d8d2220463b293730e94b6d9cdd6fd0",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18680",
+        "playXID": "3d8d2220463b293730e94b6d9cdd6fd0",
+        "streamId": "18680",
+        "dubPlayerSrc": "/dub-player/t/18680/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=3d8d2220463b293730e94b6d9cdd6fd0&abyssId=18680"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18680",
+        "playXID": "3d8d2220463b293730e94b6d9cdd6fd0",
+        "streamId": "18680",
+        "dubPlayerSrc": "/dub-player/t/18680/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=3d8d2220463b293730e94b6d9cdd6fd0&abyssId=18680"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/6fd6b19f1b2a8d3f9f402df3c5e05d30",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/6fd6b19f1b2a8d3f9f402df3c5e05d30"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18680",
+        "abyssId": "18680",
+        "playXID": "3d8d2220463b293730e94b6d9cdd6fd0",
+        "title": "SNOWBALL EARTH",
+        "season": 1,
+        "episode": 13,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "y790OpLQt"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "OCHBtcR_s"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "3qXtO4O5W"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/21fc8765093ff95213a30b8c2e87849c/master.m3u8?md5=bhjn7NxyEKKIuBQ7S3I-5g&expires=1792165965",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/21fc8765093ff95213a30b8c2e87849c/master.m3u8?md5=bhjn7NxyEKKIuBQ7S3I-5g&expires=1792165965",
+            "videoSource": "https://ravok.buzz/cdn/hls/21fc8765093ff95213a30b8c2e87849c/master.m3u8?md5=bhjn7NxyEKKIuBQ7S3I-5g&expires=1792165965",
+            "videoImage": "https://as-cdn31.top/p/SueYsrcalechOj4PTZpMrtGlNroSpSC8zebkO76IZo7UH9By_do85btlwMpo138Kfn7uvjLcfETkKsxFvTOT2A.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "3d8d2220463b293730e94b6d9cdd6fd0",
+                "streamUrl": "https://ravok.buzz/cdn/hls/21fc8765093ff95213a30b8c2e87849c/master.m3u8?md5=bhjn7NxyEKKIuBQ7S3I-5g&expires=1792165965",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/21fc8765093ff95213a30b8c2e87849c/master.m3u8?md5=bhjn7NxyEKKIuBQ7S3I-5g&expires=1792165965",
+                "videoSource": "https://ravok.buzz/cdn/hls/21fc8765093ff95213a30b8c2e87849c/master.m3u8?md5=bhjn7NxyEKKIuBQ7S3I-5g&expires=1792165965",
+                "link": "https://ravok.buzz/cdn/hls/21fc8765093ff95213a30b8c2e87849c/master.m3u8?md5=bhjn7NxyEKKIuBQ7S3I-5g&expires=1792165965",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/SueYsrcalechOj4PTZpMrtGlNroSpSC8zebkO76IZo7UH9By_do85btlwMpo138Kfn7uvjLcfETkKsxFvTOT2A.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "y790OpLQt"
+        }
+      },
+      "fetched_at": "2026-10-16T13:52:55Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T13:52:49Z",
+  "updated_at": "2026-10-16T13:52:56Z"
+}

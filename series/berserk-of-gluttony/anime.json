@@ -1,0 +1,1501 @@
+{
+  "id": "series/berserk-of-gluttony",
+  "series_name": "Berserk of Gluttony",
+  "title": "Berserk of Gluttony",
+  "banner": "https://image.tmdb.org/t/p/w1280/w6UrhLiXEMLwI4PFv2I2JEPhLRj.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/wQMcq5YUjMfoIEqLRzrNQVt4ROl.jpg",
+  "genra": [
+    "Action",
+    "Adventure",
+    "Drama",
+    "Fantasy",
+    "Romance"
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama",
+    "Fantasy",
+    "Romance"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Japanese",
+    "Tamil",
+    "Telugu"
+  ],
+  "synopsis": "Fate Graphite was born into a world where magical skills shape your destiny. His skill is Gluttony, a seemingly useless curse of unending hunger that has left him shunned and looked down upon. Until one day, after he takes the life of a thief, his true power awakens: he can devour the skill of anyone he kills to feed his appetite. Will he learn to control this gruesome ability for the better?",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Berserk of Gluttony 1x1",
+          "id": "episode/berserk-of-gluttony-1x1",
+          "image": "https://img.watchanimeworld.one/image/1367/1/1.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "Berserk of Gluttony 1x2",
+          "id": "episode/berserk-of-gluttony-1x2",
+          "image": "https://img.watchanimeworld.one/image/1367/1/2.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "Berserk of Gluttony 1x3",
+          "id": "episode/berserk-of-gluttony-1x3",
+          "image": "https://img.watchanimeworld.one/image/1367/1/3.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "Berserk of Gluttony 1x4",
+          "id": "episode/berserk-of-gluttony-1x4",
+          "image": "https://img.watchanimeworld.one/image/1367/1/4.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "Berserk of Gluttony 1x5",
+          "id": "episode/berserk-of-gluttony-1x5",
+          "image": "https://img.watchanimeworld.one/image/1367/1/5.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "Berserk of Gluttony 1x6",
+          "id": "episode/berserk-of-gluttony-1x6",
+          "image": "https://img.watchanimeworld.one/image/1367/1/6.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "Berserk of Gluttony 1x7",
+          "id": "episode/berserk-of-gluttony-1x7",
+          "image": "https://img.watchanimeworld.one/image/1367/1/7.webp",
+          "season": 1
+        },
+        {
+          "episode": 8,
+          "title": "Berserk of Gluttony 1x8",
+          "id": "episode/berserk-of-gluttony-1x8",
+          "image": "https://img.watchanimeworld.one/image/1367/1/8.webp",
+          "season": 1
+        },
+        {
+          "episode": 9,
+          "title": "Berserk of Gluttony 1x9",
+          "id": "episode/berserk-of-gluttony-1x9",
+          "image": "https://img.watchanimeworld.one/image/1367/1/9.webp",
+          "season": 1
+        },
+        {
+          "episode": 10,
+          "title": "Berserk of Gluttony 1x10",
+          "id": "episode/berserk-of-gluttony-1x10",
+          "image": "https://img.watchanimeworld.one/image/1367/1/10.webp",
+          "season": 1
+        },
+        {
+          "episode": 11,
+          "title": "Berserk of Gluttony 1x11",
+          "id": "episode/berserk-of-gluttony-1x11",
+          "image": "https://img.watchanimeworld.one/image/1367/1/11.webp",
+          "season": 1
+        },
+        {
+          "episode": 12,
+          "title": "Berserk of Gluttony 1x12",
+          "id": "episode/berserk-of-gluttony-1x12",
+          "image": "https://img.watchanimeworld.one/image/1367/1/12.webp",
+          "season": 1
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/berserk-of-gluttony-1x5",
+      "episode_id": "episode/berserk-of-gluttony-1x5",
+      "title": "Berserk of Gluttony 1x1",
+      "episode_name": "Berserk of Gluttony 1x1",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1367/1/5.webp",
+      "abyssid": "13417",
+      "abyssId": "13417",
+      "playxid": "03201ae30e1239054512737f608b91cf",
+      "playXID": "03201ae30e1239054512737f608b91cf",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13417",
+        "playXID": "03201ae30e1239054512737f608b91cf",
+        "streamId": "13417",
+        "dubPlayerSrc": "/dub-player/t/13417/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=03201ae30e1239054512737f608b91cf&abyssId=13417"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13417",
+        "playXID": "03201ae30e1239054512737f608b91cf",
+        "streamId": "13417",
+        "dubPlayerSrc": "/dub-player/t/13417/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=03201ae30e1239054512737f608b91cf&abyssId=13417"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/03201ae30e1239054512737f608b91cf",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/03201ae30e1239054512737f608b91cf"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13417",
+        "abyssId": "13417",
+        "playXID": "03201ae30e1239054512737f608b91cf",
+        "title": "Berserk of Gluttony",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "cIFLppzKP"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "UlqWpSB6I"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "fXeHFTr_w"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "h-Upq_-AL"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "C55pxMB0no"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/e35df98c722087affd16da4aec92b366/master.m3u8?md5=u-9kFBsJXufp6meRfDogVQ&expires=1792166775",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/e35df98c722087affd16da4aec92b366/master.m3u8?md5=u-9kFBsJXufp6meRfDogVQ&expires=1792166775",
+            "videoSource": "https://ravok.buzz/cdn/hls/e35df98c722087affd16da4aec92b366/master.m3u8?md5=u-9kFBsJXufp6meRfDogVQ&expires=1792166775",
+            "videoImage": "https://as-cdn29.top/p/IKse-ooL-lgGiHB3X9-BLQ5RYK9EkiW5PcRB9F62fzEG-YyPgBJoqAM3fH-r2rPRp4AIHNnwC4LqdxrmCsFUyw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "03201ae30e1239054512737f608b91cf",
+                "streamUrl": "https://ravok.buzz/cdn/hls/e35df98c722087affd16da4aec92b366/master.m3u8?md5=u-9kFBsJXufp6meRfDogVQ&expires=1792166775",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/e35df98c722087affd16da4aec92b366/master.m3u8?md5=u-9kFBsJXufp6meRfDogVQ&expires=1792166775",
+                "videoSource": "https://ravok.buzz/cdn/hls/e35df98c722087affd16da4aec92b366/master.m3u8?md5=u-9kFBsJXufp6meRfDogVQ&expires=1792166775",
+                "link": "https://ravok.buzz/cdn/hls/e35df98c722087affd16da4aec92b366/master.m3u8?md5=u-9kFBsJXufp6meRfDogVQ&expires=1792166775",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/IKse-ooL-lgGiHB3X9-BLQ5RYK9EkiW5PcRB9F62fzEG-YyPgBJoqAM3fH-r2rPRp4AIHNnwC4LqdxrmCsFUyw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "cIFLppzKP"
+        }
+      },
+      "fetched_at": "2026-10-16T14:06:25Z"
+    },
+    {
+      "id": "episode/berserk-of-gluttony-1x3",
+      "episode_id": "episode/berserk-of-gluttony-1x3",
+      "title": "Berserk of Gluttony 1x1",
+      "episode_name": "Berserk of Gluttony 1x1",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1367/1/3.webp",
+      "abyssid": "13415",
+      "abyssId": "13415",
+      "playxid": "eab1bceaa6c5823d7ed86cfc7a8bd824",
+      "playXID": "eab1bceaa6c5823d7ed86cfc7a8bd824",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13415",
+        "playXID": "eab1bceaa6c5823d7ed86cfc7a8bd824",
+        "streamId": "13415",
+        "dubPlayerSrc": "/dub-player/t/13415/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=eab1bceaa6c5823d7ed86cfc7a8bd824&abyssId=13415"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13415",
+        "playXID": "eab1bceaa6c5823d7ed86cfc7a8bd824",
+        "streamId": "13415",
+        "dubPlayerSrc": "/dub-player/t/13415/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=eab1bceaa6c5823d7ed86cfc7a8bd824&abyssId=13415"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/eab1bceaa6c5823d7ed86cfc7a8bd824",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/eab1bceaa6c5823d7ed86cfc7a8bd824"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13415",
+        "abyssId": "13415",
+        "playXID": "eab1bceaa6c5823d7ed86cfc7a8bd824",
+        "title": "Berserk of Gluttony",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "veNrYeJuM"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "yN-fH-HDi"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "OKJgetMUd"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "suwxBeaUu"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "YtHnlMKZZ"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/7ce144bc4c24afd7f672a6a9b00712bb/master.m3u8?md5=ns6ig9Y0tNASxJ6vpfKTjg&expires=1792166775",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/7ce144bc4c24afd7f672a6a9b00712bb/master.m3u8?md5=ns6ig9Y0tNASxJ6vpfKTjg&expires=1792166775",
+            "videoSource": "https://ravok.buzz/cdn/hls/7ce144bc4c24afd7f672a6a9b00712bb/master.m3u8?md5=ns6ig9Y0tNASxJ6vpfKTjg&expires=1792166775",
+            "videoImage": "https://as-cdn30.top/p/aHFEuOFqJkcVjvwyQ3H9bi8uuiZCj--Mvlqb0X-igXcEAXediN11G-ipUzh0CmoK1QNNq3ocpIQiTV1BiFNS1Q.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "eab1bceaa6c5823d7ed86cfc7a8bd824",
+                "streamUrl": "https://ravok.buzz/cdn/hls/7ce144bc4c24afd7f672a6a9b00712bb/master.m3u8?md5=ns6ig9Y0tNASxJ6vpfKTjg&expires=1792166775",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/7ce144bc4c24afd7f672a6a9b00712bb/master.m3u8?md5=ns6ig9Y0tNASxJ6vpfKTjg&expires=1792166775",
+                "videoSource": "https://ravok.buzz/cdn/hls/7ce144bc4c24afd7f672a6a9b00712bb/master.m3u8?md5=ns6ig9Y0tNASxJ6vpfKTjg&expires=1792166775",
+                "link": "https://ravok.buzz/cdn/hls/7ce144bc4c24afd7f672a6a9b00712bb/master.m3u8?md5=ns6ig9Y0tNASxJ6vpfKTjg&expires=1792166775",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/aHFEuOFqJkcVjvwyQ3H9bi8uuiZCj--Mvlqb0X-igXcEAXediN11G-ipUzh0CmoK1QNNq3ocpIQiTV1BiFNS1Q.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "veNrYeJuM"
+        }
+      },
+      "fetched_at": "2026-10-16T14:06:25Z"
+    },
+    {
+      "id": "episode/berserk-of-gluttony-1x4",
+      "episode_id": "episode/berserk-of-gluttony-1x4",
+      "title": "Berserk of Gluttony 1x1",
+      "episode_name": "Berserk of Gluttony 1x1",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1367/1/4.webp",
+      "abyssid": "13416",
+      "abyssId": "13416",
+      "playxid": "a48a1b922cbd6d5d08664325afd2b1a2",
+      "playXID": "a48a1b922cbd6d5d08664325afd2b1a2",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13416",
+        "playXID": "a48a1b922cbd6d5d08664325afd2b1a2",
+        "streamId": "13416",
+        "dubPlayerSrc": "/dub-player/t/13416/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a48a1b922cbd6d5d08664325afd2b1a2&abyssId=13416"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13416",
+        "playXID": "a48a1b922cbd6d5d08664325afd2b1a2",
+        "streamId": "13416",
+        "dubPlayerSrc": "/dub-player/t/13416/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a48a1b922cbd6d5d08664325afd2b1a2&abyssId=13416"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/a48a1b922cbd6d5d08664325afd2b1a2",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/a48a1b922cbd6d5d08664325afd2b1a2"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13416",
+        "abyssId": "13416",
+        "playXID": "a48a1b922cbd6d5d08664325afd2b1a2",
+        "title": "Berserk of Gluttony",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "4weP5b4Dl"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "sYlkf8Y0v"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "qRBYqDNRm"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "nja0aOZxg"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "P1Dw2gCW-"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/9fe0f77732f506f0dd5f4b06e545b471/master.m3u8?md5=02ktNvCwOF17Kx-W2INgFw&expires=1792166775",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/9fe0f77732f506f0dd5f4b06e545b471/master.m3u8?md5=02ktNvCwOF17Kx-W2INgFw&expires=1792166775",
+            "videoSource": "https://ravok.buzz/cdn/hls/9fe0f77732f506f0dd5f4b06e545b471/master.m3u8?md5=02ktNvCwOF17Kx-W2INgFw&expires=1792166775",
+            "videoImage": "https://as-cdn29.top/p/tXjp7_m4yVaP4ttXiPztWyQx0S25hdrPFFWFKQW_HdfzlbSZUmG1vpEpILzaKx8p4ijpVg6ahXsdC5b6FDZVfg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "a48a1b922cbd6d5d08664325afd2b1a2",
+                "streamUrl": "https://ravok.buzz/cdn/hls/9fe0f77732f506f0dd5f4b06e545b471/master.m3u8?md5=02ktNvCwOF17Kx-W2INgFw&expires=1792166775",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/9fe0f77732f506f0dd5f4b06e545b471/master.m3u8?md5=02ktNvCwOF17Kx-W2INgFw&expires=1792166775",
+                "videoSource": "https://ravok.buzz/cdn/hls/9fe0f77732f506f0dd5f4b06e545b471/master.m3u8?md5=02ktNvCwOF17Kx-W2INgFw&expires=1792166775",
+                "link": "https://ravok.buzz/cdn/hls/9fe0f77732f506f0dd5f4b06e545b471/master.m3u8?md5=02ktNvCwOF17Kx-W2INgFw&expires=1792166775",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/tXjp7_m4yVaP4ttXiPztWyQx0S25hdrPFFWFKQW_HdfzlbSZUmG1vpEpILzaKx8p4ijpVg6ahXsdC5b6FDZVfg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "4weP5b4Dl"
+        }
+      },
+      "fetched_at": "2026-10-16T14:06:25Z"
+    },
+    {
+      "id": "episode/berserk-of-gluttony-1x2",
+      "episode_id": "episode/berserk-of-gluttony-1x2",
+      "title": "Berserk of Gluttony 1x1",
+      "episode_name": "Berserk of Gluttony 1x1",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1367/1/2.webp",
+      "abyssid": "13414",
+      "abyssId": "13414",
+      "playxid": "aba49b6369ec3a9497c9c54696f6a3fd",
+      "playXID": "aba49b6369ec3a9497c9c54696f6a3fd",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13414",
+        "playXID": "aba49b6369ec3a9497c9c54696f6a3fd",
+        "streamId": "13414",
+        "dubPlayerSrc": "/dub-player/t/13414/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=aba49b6369ec3a9497c9c54696f6a3fd&abyssId=13414"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13414",
+        "playXID": "aba49b6369ec3a9497c9c54696f6a3fd",
+        "streamId": "13414",
+        "dubPlayerSrc": "/dub-player/t/13414/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=aba49b6369ec3a9497c9c54696f6a3fd&abyssId=13414"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/aba49b6369ec3a9497c9c54696f6a3fd",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/aba49b6369ec3a9497c9c54696f6a3fd"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13414",
+        "abyssId": "13414",
+        "playXID": "aba49b6369ec3a9497c9c54696f6a3fd",
+        "title": "Berserk of Gluttony",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "d60QqSLZu"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "FbM44RvX_"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "8aio6Q8nf"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "31JdUYsQc"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "nMdObznvV"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/7fc266aa6deac543ec7099f677d12b00/master.m3u8?md5=I3Trzyaz2luIeZBHde_r2w&expires=1792166775",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/7fc266aa6deac543ec7099f677d12b00/master.m3u8?md5=I3Trzyaz2luIeZBHde_r2w&expires=1792166775",
+            "videoSource": "https://ravok.buzz/cdn/hls/7fc266aa6deac543ec7099f677d12b00/master.m3u8?md5=I3Trzyaz2luIeZBHde_r2w&expires=1792166775",
+            "videoImage": "https://as-cdn27.top/p/eqI3g2vcxfSYFSGCotSGxA78lrYJ62fqptrMX38-vKIBciKO3CpiTcWL5wwTevQMMaBoA5AzIj7LevskeATx2g.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "aba49b6369ec3a9497c9c54696f6a3fd",
+                "streamUrl": "https://ravok.buzz/cdn/hls/7fc266aa6deac543ec7099f677d12b00/master.m3u8?md5=I3Trzyaz2luIeZBHde_r2w&expires=1792166775",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/7fc266aa6deac543ec7099f677d12b00/master.m3u8?md5=I3Trzyaz2luIeZBHde_r2w&expires=1792166775",
+                "videoSource": "https://ravok.buzz/cdn/hls/7fc266aa6deac543ec7099f677d12b00/master.m3u8?md5=I3Trzyaz2luIeZBHde_r2w&expires=1792166775",
+                "link": "https://ravok.buzz/cdn/hls/7fc266aa6deac543ec7099f677d12b00/master.m3u8?md5=I3Trzyaz2luIeZBHde_r2w&expires=1792166775",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/eqI3g2vcxfSYFSGCotSGxA78lrYJ62fqptrMX38-vKIBciKO3CpiTcWL5wwTevQMMaBoA5AzIj7LevskeATx2g.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "d60QqSLZu"
+        }
+      },
+      "fetched_at": "2026-10-16T14:06:25Z"
+    },
+    {
+      "id": "episode/berserk-of-gluttony-1x1",
+      "episode_id": "episode/berserk-of-gluttony-1x1",
+      "title": "Berserk of Gluttony 1x1",
+      "episode_name": "Berserk of Gluttony 1x1",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1367/1/1.webp",
+      "abyssid": "13413",
+      "abyssId": "13413",
+      "playxid": "c05c0c0aa89b97effea59096cad7bd60",
+      "playXID": "c05c0c0aa89b97effea59096cad7bd60",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13413",
+        "playXID": "c05c0c0aa89b97effea59096cad7bd60",
+        "streamId": "13413",
+        "dubPlayerSrc": "/dub-player/t/13413/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c05c0c0aa89b97effea59096cad7bd60&abyssId=13413"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13413",
+        "playXID": "c05c0c0aa89b97effea59096cad7bd60",
+        "streamId": "13413",
+        "dubPlayerSrc": "/dub-player/t/13413/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c05c0c0aa89b97effea59096cad7bd60&abyssId=13413"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/c05c0c0aa89b97effea59096cad7bd60",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/c05c0c0aa89b97effea59096cad7bd60"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13413",
+        "abyssId": "13413",
+        "playXID": "c05c0c0aa89b97effea59096cad7bd60",
+        "title": "Berserk of Gluttony",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "UIEoAWJxr"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "705b_grXb"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "1NC9-V188"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "OzH2ve-Uz"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "FEa6H6sOn"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/382574e90bf949a5e513073350b39aa2/master.m3u8?md5=UDpN-njsBYFAscR-haOHsg&expires=1792166775",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/382574e90bf949a5e513073350b39aa2/master.m3u8?md5=UDpN-njsBYFAscR-haOHsg&expires=1792166775",
+            "videoSource": "https://ravok.buzz/cdn/hls/382574e90bf949a5e513073350b39aa2/master.m3u8?md5=UDpN-njsBYFAscR-haOHsg&expires=1792166775",
+            "videoImage": "https://as-cdn31.top/p/1GMm-FXLE3C_KFQO53N5MwaRAGUPzo8eCBM3ji03LMQGBkn_-3Oeq8_DR1KrpP-p7pZgmR56hzUBSNnu8BLoSw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "c05c0c0aa89b97effea59096cad7bd60",
+                "streamUrl": "https://ravok.buzz/cdn/hls/382574e90bf949a5e513073350b39aa2/master.m3u8?md5=UDpN-njsBYFAscR-haOHsg&expires=1792166775",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/382574e90bf949a5e513073350b39aa2/master.m3u8?md5=UDpN-njsBYFAscR-haOHsg&expires=1792166775",
+                "videoSource": "https://ravok.buzz/cdn/hls/382574e90bf949a5e513073350b39aa2/master.m3u8?md5=UDpN-njsBYFAscR-haOHsg&expires=1792166775",
+                "link": "https://ravok.buzz/cdn/hls/382574e90bf949a5e513073350b39aa2/master.m3u8?md5=UDpN-njsBYFAscR-haOHsg&expires=1792166775",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/1GMm-FXLE3C_KFQO53N5MwaRAGUPzo8eCBM3ji03LMQGBkn_-3Oeq8_DR1KrpP-p7pZgmR56hzUBSNnu8BLoSw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "UIEoAWJxr"
+        }
+      },
+      "fetched_at": "2026-10-16T14:06:25Z"
+    },
+    {
+      "id": "episode/berserk-of-gluttony-1x7",
+      "episode_id": "episode/berserk-of-gluttony-1x7",
+      "title": "Berserk of Gluttony 1x1",
+      "episode_name": "Berserk of Gluttony 1x1",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1367/1/7.webp",
+      "abyssid": "13419",
+      "abyssId": "13419",
+      "playxid": "2a93f39020f6d31d33f81a191b048cb1",
+      "playXID": "2a93f39020f6d31d33f81a191b048cb1",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13419",
+        "playXID": "2a93f39020f6d31d33f81a191b048cb1",
+        "streamId": "13419",
+        "dubPlayerSrc": "/dub-player/t/13419/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2a93f39020f6d31d33f81a191b048cb1&abyssId=13419"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13419",
+        "playXID": "2a93f39020f6d31d33f81a191b048cb1",
+        "streamId": "13419",
+        "dubPlayerSrc": "/dub-player/t/13419/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2a93f39020f6d31d33f81a191b048cb1&abyssId=13419"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/2a93f39020f6d31d33f81a191b048cb1",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/2a93f39020f6d31d33f81a191b048cb1"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13419",
+        "abyssId": "13419",
+        "playXID": "2a93f39020f6d31d33f81a191b048cb1",
+        "title": "Berserk of Gluttony",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "LZsLOQqX0"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "_L9ksZutn"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "XV3vlI1xu"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "Fnx32kK3x"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "h7FaUexq-"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/11b3af83a9f192d427481536d1b8311b/master.m3u8?md5=3nuGNF_ot6nVSXAIe8TzPw&expires=1792166777",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/11b3af83a9f192d427481536d1b8311b/master.m3u8?md5=3nuGNF_ot6nVSXAIe8TzPw&expires=1792166777",
+            "videoSource": "https://ravok.buzz/cdn/hls/11b3af83a9f192d427481536d1b8311b/master.m3u8?md5=3nuGNF_ot6nVSXAIe8TzPw&expires=1792166777",
+            "videoImage": "https://as-cdn31.top/p/gn5zZ9QK2qQSfG1TfIf9oP3b3A4izW94imlmmjsbe0S8GCuKcLj1kbdiXOUgDtlpQG8k678fGrXnSI9Gzt2kgg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "2a93f39020f6d31d33f81a191b048cb1",
+                "streamUrl": "https://ravok.buzz/cdn/hls/11b3af83a9f192d427481536d1b8311b/master.m3u8?md5=3nuGNF_ot6nVSXAIe8TzPw&expires=1792166777",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/11b3af83a9f192d427481536d1b8311b/master.m3u8?md5=3nuGNF_ot6nVSXAIe8TzPw&expires=1792166777",
+                "videoSource": "https://ravok.buzz/cdn/hls/11b3af83a9f192d427481536d1b8311b/master.m3u8?md5=3nuGNF_ot6nVSXAIe8TzPw&expires=1792166777",
+                "link": "https://ravok.buzz/cdn/hls/11b3af83a9f192d427481536d1b8311b/master.m3u8?md5=3nuGNF_ot6nVSXAIe8TzPw&expires=1792166777",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/gn5zZ9QK2qQSfG1TfIf9oP3b3A4izW94imlmmjsbe0S8GCuKcLj1kbdiXOUgDtlpQG8k678fGrXnSI9Gzt2kgg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "LZsLOQqX0"
+        }
+      },
+      "fetched_at": "2026-10-16T14:06:26Z"
+    },
+    {
+      "id": "episode/berserk-of-gluttony-1x8",
+      "episode_id": "episode/berserk-of-gluttony-1x8",
+      "title": "Berserk of Gluttony 1x1",
+      "episode_name": "Berserk of Gluttony 1x1",
+      "episode_number": 8,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1367/1/8.webp",
+      "abyssid": "13420",
+      "abyssId": "13420",
+      "playxid": "7792b558ca0c76d24d695582021ac501",
+      "playXID": "7792b558ca0c76d24d695582021ac501",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13420",
+        "playXID": "7792b558ca0c76d24d695582021ac501",
+        "streamId": "13420",
+        "dubPlayerSrc": "/dub-player/t/13420/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=7792b558ca0c76d24d695582021ac501&abyssId=13420"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13420",
+        "playXID": "7792b558ca0c76d24d695582021ac501",
+        "streamId": "13420",
+        "dubPlayerSrc": "/dub-player/t/13420/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=7792b558ca0c76d24d695582021ac501&abyssId=13420"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/7792b558ca0c76d24d695582021ac501",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/7792b558ca0c76d24d695582021ac501"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13420",
+        "abyssId": "13420",
+        "playXID": "7792b558ca0c76d24d695582021ac501",
+        "title": "Berserk of Gluttony",
+        "season": 1,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "FVZwzLV7N"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "KjNt4xBHv"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "IKs4Y4xV5a"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "M_p7rw83g"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "s6ia5mpHJ"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/7a1cec199056b3677a064eb349331612/master.m3u8?md5=s3NFjwDv1CHIwMIF0K0Y1w&expires=1792166777",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/7a1cec199056b3677a064eb349331612/master.m3u8?md5=s3NFjwDv1CHIwMIF0K0Y1w&expires=1792166777",
+            "videoSource": "https://ravok.buzz/cdn/hls/7a1cec199056b3677a064eb349331612/master.m3u8?md5=s3NFjwDv1CHIwMIF0K0Y1w&expires=1792166777",
+            "videoImage": "https://as-cdn27.top/p/B-jMW2KF5_TxStmetWuAQCgrCcgTFUyQass6HvLe5mekVNM6gXMi882zscYZTEdEllk4-U9zaVedK5s7iAM8fw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "7792b558ca0c76d24d695582021ac501",
+                "streamUrl": "https://ravok.buzz/cdn/hls/7a1cec199056b3677a064eb349331612/master.m3u8?md5=s3NFjwDv1CHIwMIF0K0Y1w&expires=1792166777",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/7a1cec199056b3677a064eb349331612/master.m3u8?md5=s3NFjwDv1CHIwMIF0K0Y1w&expires=1792166777",
+                "videoSource": "https://ravok.buzz/cdn/hls/7a1cec199056b3677a064eb349331612/master.m3u8?md5=s3NFjwDv1CHIwMIF0K0Y1w&expires=1792166777",
+                "link": "https://ravok.buzz/cdn/hls/7a1cec199056b3677a064eb349331612/master.m3u8?md5=s3NFjwDv1CHIwMIF0K0Y1w&expires=1792166777",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/B-jMW2KF5_TxStmetWuAQCgrCcgTFUyQass6HvLe5mekVNM6gXMi882zscYZTEdEllk4-U9zaVedK5s7iAM8fw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "FVZwzLV7N"
+        }
+      },
+      "fetched_at": "2026-10-16T14:06:27Z"
+    },
+    {
+      "id": "episode/berserk-of-gluttony-1x6",
+      "episode_id": "episode/berserk-of-gluttony-1x6",
+      "title": "Berserk of Gluttony 1x1",
+      "episode_name": "Berserk of Gluttony 1x1",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1367/1/6.webp",
+      "abyssid": "13418",
+      "abyssId": "13418",
+      "playxid": "9c36b930df0e0e8b05d4e1fcb4cdef27",
+      "playXID": "9c36b930df0e0e8b05d4e1fcb4cdef27",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13418",
+        "playXID": "9c36b930df0e0e8b05d4e1fcb4cdef27",
+        "streamId": "13418",
+        "dubPlayerSrc": "/dub-player/t/13418/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9c36b930df0e0e8b05d4e1fcb4cdef27&abyssId=13418"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13418",
+        "playXID": "9c36b930df0e0e8b05d4e1fcb4cdef27",
+        "streamId": "13418",
+        "dubPlayerSrc": "/dub-player/t/13418/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9c36b930df0e0e8b05d4e1fcb4cdef27&abyssId=13418"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/9c36b930df0e0e8b05d4e1fcb4cdef27",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/9c36b930df0e0e8b05d4e1fcb4cdef27"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13418",
+        "abyssId": "13418",
+        "playXID": "9c36b930df0e0e8b05d4e1fcb4cdef27",
+        "title": "Berserk of Gluttony",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "oYu20FZsq"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "iL3eOogmx"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "BxmKlgUku"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "ajhh2iGHs"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "8XWi401Iu"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/a43c3b561370446da91f93c1f00c57e3/master.m3u8?md5=k_xznyZey9IGTeu0EayxBQ&expires=1792166777",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/a43c3b561370446da91f93c1f00c57e3/master.m3u8?md5=k_xznyZey9IGTeu0EayxBQ&expires=1792166777",
+            "videoSource": "https://ravok.buzz/cdn/hls/a43c3b561370446da91f93c1f00c57e3/master.m3u8?md5=k_xznyZey9IGTeu0EayxBQ&expires=1792166777",
+            "videoImage": "https://as-cdn28.top/p/9c2Iqpu35f-QZnnS59wOC9cPhl6K8Hye4lg3ET6bFTyPPRqBKB0WbDb_Yu1CDzhjVq7L05FhjOsWb6E0ZILlnA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "9c36b930df0e0e8b05d4e1fcb4cdef27",
+                "streamUrl": "https://ravok.buzz/cdn/hls/a43c3b561370446da91f93c1f00c57e3/master.m3u8?md5=k_xznyZey9IGTeu0EayxBQ&expires=1792166777",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/a43c3b561370446da91f93c1f00c57e3/master.m3u8?md5=k_xznyZey9IGTeu0EayxBQ&expires=1792166777",
+                "videoSource": "https://ravok.buzz/cdn/hls/a43c3b561370446da91f93c1f00c57e3/master.m3u8?md5=k_xznyZey9IGTeu0EayxBQ&expires=1792166777",
+                "link": "https://ravok.buzz/cdn/hls/a43c3b561370446da91f93c1f00c57e3/master.m3u8?md5=k_xznyZey9IGTeu0EayxBQ&expires=1792166777",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/9c2Iqpu35f-QZnnS59wOC9cPhl6K8Hye4lg3ET6bFTyPPRqBKB0WbDb_Yu1CDzhjVq7L05FhjOsWb6E0ZILlnA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "oYu20FZsq"
+        }
+      },
+      "fetched_at": "2026-10-16T14:06:27Z"
+    },
+    {
+      "id": "episode/berserk-of-gluttony-1x9",
+      "episode_id": "episode/berserk-of-gluttony-1x9",
+      "title": "Berserk of Gluttony 1x1",
+      "episode_name": "Berserk of Gluttony 1x1",
+      "episode_number": 9,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1367/1/9.webp",
+      "abyssid": "13421",
+      "abyssId": "13421",
+      "playxid": "6534a8436e907efb0ced99edd8d02435",
+      "playXID": "6534a8436e907efb0ced99edd8d02435",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13421",
+        "playXID": "6534a8436e907efb0ced99edd8d02435",
+        "streamId": "13421",
+        "dubPlayerSrc": "/dub-player/t/13421/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6534a8436e907efb0ced99edd8d02435&abyssId=13421"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13421",
+        "playXID": "6534a8436e907efb0ced99edd8d02435",
+        "streamId": "13421",
+        "dubPlayerSrc": "/dub-player/t/13421/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6534a8436e907efb0ced99edd8d02435&abyssId=13421"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/6534a8436e907efb0ced99edd8d02435",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/6534a8436e907efb0ced99edd8d02435"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13421",
+        "abyssId": "13421",
+        "playXID": "6534a8436e907efb0ced99edd8d02435",
+        "title": "Berserk of Gluttony",
+        "season": 1,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "4yPNmNoRs"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "aT8F0UWwV"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "P7qcsiAPI"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "tbWT3aPQL"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "cDNcSEBmA"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/6ce2bbdf5c04e4fbeafe9ccc8354aa23/master.m3u8?md5=A_XpcrRTh5lKsjtty328Ig&expires=1792166777",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/6ce2bbdf5c04e4fbeafe9ccc8354aa23/master.m3u8?md5=A_XpcrRTh5lKsjtty328Ig&expires=1792166777",
+            "videoSource": "https://ravok.buzz/cdn/hls/6ce2bbdf5c04e4fbeafe9ccc8354aa23/master.m3u8?md5=A_XpcrRTh5lKsjtty328Ig&expires=1792166777",
+            "videoImage": "https://as-cdn31.top/p/1pZY_HlWxM40cQNTRNuPbK_jRN1O6F5ec78ggIgiwrlPGQZrQPskI4Mb7nu9URO4uuxoU-Y5g8siORNO1KvgPg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "6534a8436e907efb0ced99edd8d02435",
+                "streamUrl": "https://ravok.buzz/cdn/hls/6ce2bbdf5c04e4fbeafe9ccc8354aa23/master.m3u8?md5=A_XpcrRTh5lKsjtty328Ig&expires=1792166777",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/6ce2bbdf5c04e4fbeafe9ccc8354aa23/master.m3u8?md5=A_XpcrRTh5lKsjtty328Ig&expires=1792166777",
+                "videoSource": "https://ravok.buzz/cdn/hls/6ce2bbdf5c04e4fbeafe9ccc8354aa23/master.m3u8?md5=A_XpcrRTh5lKsjtty328Ig&expires=1792166777",
+                "link": "https://ravok.buzz/cdn/hls/6ce2bbdf5c04e4fbeafe9ccc8354aa23/master.m3u8?md5=A_XpcrRTh5lKsjtty328Ig&expires=1792166777",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/1pZY_HlWxM40cQNTRNuPbK_jRN1O6F5ec78ggIgiwrlPGQZrQPskI4Mb7nu9URO4uuxoU-Y5g8siORNO1KvgPg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "4yPNmNoRs"
+        }
+      },
+      "fetched_at": "2026-10-16T14:06:27Z"
+    },
+    {
+      "id": "episode/berserk-of-gluttony-1x10",
+      "episode_id": "episode/berserk-of-gluttony-1x10",
+      "title": "Berserk of Gluttony 1x1",
+      "episode_name": "Berserk of Gluttony 1x1",
+      "episode_number": 10,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1367/1/10.webp",
+      "abyssid": "13422",
+      "abyssId": "13422",
+      "playxid": "3c2e55b31641e3d4cfd7867dd501c5d9",
+      "playXID": "3c2e55b31641e3d4cfd7867dd501c5d9",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13422",
+        "playXID": "3c2e55b31641e3d4cfd7867dd501c5d9",
+        "streamId": "13422",
+        "dubPlayerSrc": "/dub-player/t/13422/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=3c2e55b31641e3d4cfd7867dd501c5d9&abyssId=13422"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13422",
+        "playXID": "3c2e55b31641e3d4cfd7867dd501c5d9",
+        "streamId": "13422",
+        "dubPlayerSrc": "/dub-player/t/13422/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=3c2e55b31641e3d4cfd7867dd501c5d9&abyssId=13422"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/3c2e55b31641e3d4cfd7867dd501c5d9",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/3c2e55b31641e3d4cfd7867dd501c5d9"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13422",
+        "abyssId": "13422",
+        "playXID": "3c2e55b31641e3d4cfd7867dd501c5d9",
+        "title": "Berserk of Gluttony",
+        "season": 1,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "5EiB8ibSe"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "hBoqC493A"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "urqJw_bXV"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "L3k-HHEtV"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "K6prbcBaS"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/7ecff6dd375b644f484de68bac2793da/master.m3u8?md5=7BzsXxtPD0Fp1z2EcbTV4Q&expires=1792166777",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/7ecff6dd375b644f484de68bac2793da/master.m3u8?md5=7BzsXxtPD0Fp1z2EcbTV4Q&expires=1792166777",
+            "videoSource": "https://ravok.buzz/cdn/hls/7ecff6dd375b644f484de68bac2793da/master.m3u8?md5=7BzsXxtPD0Fp1z2EcbTV4Q&expires=1792166777",
+            "videoImage": "https://as-cdn29.top/p/0FkYVwbuvVC8FcK86nQ4nQ_K0DofcUK23Q0tih0Bxi1hl52MTmnBb8Gz2ex_YjTrNUfYhy7aQS6WEWzLU6eYvw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "3c2e55b31641e3d4cfd7867dd501c5d9",
+                "streamUrl": "https://ravok.buzz/cdn/hls/7ecff6dd375b644f484de68bac2793da/master.m3u8?md5=7BzsXxtPD0Fp1z2EcbTV4Q&expires=1792166777",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/7ecff6dd375b644f484de68bac2793da/master.m3u8?md5=7BzsXxtPD0Fp1z2EcbTV4Q&expires=1792166777",
+                "videoSource": "https://ravok.buzz/cdn/hls/7ecff6dd375b644f484de68bac2793da/master.m3u8?md5=7BzsXxtPD0Fp1z2EcbTV4Q&expires=1792166777",
+                "link": "https://ravok.buzz/cdn/hls/7ecff6dd375b644f484de68bac2793da/master.m3u8?md5=7BzsXxtPD0Fp1z2EcbTV4Q&expires=1792166777",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/0FkYVwbuvVC8FcK86nQ4nQ_K0DofcUK23Q0tih0Bxi1hl52MTmnBb8Gz2ex_YjTrNUfYhy7aQS6WEWzLU6eYvw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "5EiB8ibSe"
+        }
+      },
+      "fetched_at": "2026-10-16T14:06:27Z"
+    },
+    {
+      "id": "episode/berserk-of-gluttony-1x11",
+      "episode_id": "episode/berserk-of-gluttony-1x11",
+      "title": "Berserk of Gluttony 1x1",
+      "episode_name": "Berserk of Gluttony 1x1",
+      "episode_number": 11,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1367/1/11.webp",
+      "abyssid": "13423",
+      "abyssId": "13423",
+      "playxid": "0e44b9cabecbb5af04558a5c49a5d51e",
+      "playXID": "0e44b9cabecbb5af04558a5c49a5d51e",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13423",
+        "playXID": "0e44b9cabecbb5af04558a5c49a5d51e",
+        "streamId": "13423",
+        "dubPlayerSrc": "/dub-player/t/13423/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=0e44b9cabecbb5af04558a5c49a5d51e&abyssId=13423"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13423",
+        "playXID": "0e44b9cabecbb5af04558a5c49a5d51e",
+        "streamId": "13423",
+        "dubPlayerSrc": "/dub-player/t/13423/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=0e44b9cabecbb5af04558a5c49a5d51e&abyssId=13423"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/0e44b9cabecbb5af04558a5c49a5d51e",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/0e44b9cabecbb5af04558a5c49a5d51e"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13423",
+        "abyssId": "13423",
+        "playXID": "0e44b9cabecbb5af04558a5c49a5d51e",
+        "title": "Berserk of Gluttony",
+        "season": 1,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "R-CgU3yuX"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "yC6mIwOWB"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "oI6GxdnQX"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "j1S_IfYz3"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "W6r2ZSfpQ"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/56294174de311a0c37ec3f2598a817b5/master.m3u8?md5=9v9MP_fdhI5n9odCi89C5A&expires=1792166778",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/56294174de311a0c37ec3f2598a817b5/master.m3u8?md5=9v9MP_fdhI5n9odCi89C5A&expires=1792166778",
+            "videoSource": "https://ravok.buzz/cdn/hls/56294174de311a0c37ec3f2598a817b5/master.m3u8?md5=9v9MP_fdhI5n9odCi89C5A&expires=1792166778",
+            "videoImage": "https://as-cdn29.top/p/j999NrhD-DIurvAR1AQG2LSyVVZkryefxMoSRK0NTMCmNpFql46fX_TlmYzW8MtU5MkArXGf4Tf9GSVrbBh25w.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "0e44b9cabecbb5af04558a5c49a5d51e",
+                "streamUrl": "https://ravok.buzz/cdn/hls/56294174de311a0c37ec3f2598a817b5/master.m3u8?md5=9v9MP_fdhI5n9odCi89C5A&expires=1792166778",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/56294174de311a0c37ec3f2598a817b5/master.m3u8?md5=9v9MP_fdhI5n9odCi89C5A&expires=1792166778",
+                "videoSource": "https://ravok.buzz/cdn/hls/56294174de311a0c37ec3f2598a817b5/master.m3u8?md5=9v9MP_fdhI5n9odCi89C5A&expires=1792166778",
+                "link": "https://ravok.buzz/cdn/hls/56294174de311a0c37ec3f2598a817b5/master.m3u8?md5=9v9MP_fdhI5n9odCi89C5A&expires=1792166778",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/j999NrhD-DIurvAR1AQG2LSyVVZkryefxMoSRK0NTMCmNpFql46fX_TlmYzW8MtU5MkArXGf4Tf9GSVrbBh25w.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "R-CgU3yuX"
+        }
+      },
+      "fetched_at": "2026-10-16T14:06:28Z"
+    },
+    {
+      "id": "episode/berserk-of-gluttony-1x12",
+      "episode_id": "episode/berserk-of-gluttony-1x12",
+      "title": "Berserk of Gluttony 1x1",
+      "episode_name": "Berserk of Gluttony 1x1",
+      "episode_number": 12,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1367/1/12.webp",
+      "abyssid": "13424",
+      "abyssId": "13424",
+      "playxid": "b460cf6b09878b00a3e1ad4c72344ccd",
+      "playXID": "b460cf6b09878b00a3e1ad4c72344ccd",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13424",
+        "playXID": "b460cf6b09878b00a3e1ad4c72344ccd",
+        "streamId": "13424",
+        "dubPlayerSrc": "/dub-player/t/13424/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b460cf6b09878b00a3e1ad4c72344ccd&abyssId=13424"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13424",
+        "playXID": "b460cf6b09878b00a3e1ad4c72344ccd",
+        "streamId": "13424",
+        "dubPlayerSrc": "/dub-player/t/13424/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b460cf6b09878b00a3e1ad4c72344ccd&abyssId=13424"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/b460cf6b09878b00a3e1ad4c72344ccd",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/b460cf6b09878b00a3e1ad4c72344ccd"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13424",
+        "abyssId": "13424",
+        "playXID": "b460cf6b09878b00a3e1ad4c72344ccd",
+        "title": "Berserk of Gluttony",
+        "season": 1,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "lRYRDbJt1"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "hB9NZiJVV"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "cpP0a7bCt"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "ixNI0yNfs"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "iiuvdi-SW"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/ed3f2be71daabcdbaec23778cfa50a81/master.m3u8?md5=-dTqUqLETTMIMpvrCUChUA&expires=1792166779",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/ed3f2be71daabcdbaec23778cfa50a81/master.m3u8?md5=-dTqUqLETTMIMpvrCUChUA&expires=1792166779",
+            "videoSource": "https://ravok.buzz/cdn/hls/ed3f2be71daabcdbaec23778cfa50a81/master.m3u8?md5=-dTqUqLETTMIMpvrCUChUA&expires=1792166779",
+            "videoImage": "https://as-cdn27.top/p/eocpBnpnTeYWFcytRSykZpq1G9O6pjFeheQRugpGgguJ6o2m8w0lAKVUWS8Jo8TWJmHwEuuL-nFwxwV-WYWSzQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "b460cf6b09878b00a3e1ad4c72344ccd",
+                "streamUrl": "https://ravok.buzz/cdn/hls/ed3f2be71daabcdbaec23778cfa50a81/master.m3u8?md5=-dTqUqLETTMIMpvrCUChUA&expires=1792166779",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/ed3f2be71daabcdbaec23778cfa50a81/master.m3u8?md5=-dTqUqLETTMIMpvrCUChUA&expires=1792166779",
+                "videoSource": "https://ravok.buzz/cdn/hls/ed3f2be71daabcdbaec23778cfa50a81/master.m3u8?md5=-dTqUqLETTMIMpvrCUChUA&expires=1792166779",
+                "link": "https://ravok.buzz/cdn/hls/ed3f2be71daabcdbaec23778cfa50a81/master.m3u8?md5=-dTqUqLETTMIMpvrCUChUA&expires=1792166779",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/eocpBnpnTeYWFcytRSykZpq1G9O6pjFeheQRugpGgguJ6o2m8w0lAKVUWS8Jo8TWJmHwEuuL-nFwxwV-WYWSzQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "lRYRDbJt1"
+        }
+      },
+      "fetched_at": "2026-10-16T14:06:28Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T14:06:22Z",
+  "updated_at": "2026-10-16T14:06:28Z"
+}

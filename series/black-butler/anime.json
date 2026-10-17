@@ -1,0 +1,2958 @@
+{
+  "id": "series/black-butler",
+  "series_name": "Black Butler",
+  "title": "Black Butler",
+  "banner": "https://image.tmdb.org/t/p/w1280/5U0dYTkHXPhoExNnEm5iKrpDqtr.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/iXGs130TRoUplHf0o86zp9MqAYc.jpg",
+  "genra": [
+    "Action",
+    "Comedy",
+    "Drama",
+    "Historical",
+    "Mystery",
+    "Shounen",
+    "Supernatural"
+  ],
+  "genres": [
+    "Action",
+    "Comedy",
+    "Drama",
+    "Historical",
+    "Mystery",
+    "Shounen",
+    "Supernatural"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Japanese",
+    "Tamil",
+    "Telugu"
+  ],
+  "synopsis": "In Victorian London, 12-year-old business magnate Ciel Phantomhive thwarts dangers to the queen as he's watched over by his demon butler, Sebastian.",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 2,
+  "totalEpisodes": 24,
+  "seasons": [
+    {
+      "season": 4,
+      "name": "Season 4",
+      "episodesCount": 11,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Black Butler 4x1",
+          "id": "episode/black-butler-4x1",
+          "image": "https://img.watchanimeworld.one/image/1439/4/1.webp",
+          "season": 4
+        },
+        {
+          "episode": 2,
+          "title": "Black Butler 4x2",
+          "id": "episode/black-butler-4x2",
+          "image": "https://img.watchanimeworld.one/image/1439/4/2.webp",
+          "season": 4
+        },
+        {
+          "episode": 3,
+          "title": "Black Butler 4x3",
+          "id": "episode/black-butler-4x3",
+          "image": "https://img.watchanimeworld.one/image/1439/4/3.webp",
+          "season": 4
+        },
+        {
+          "episode": 4,
+          "title": "Black Butler 4x4",
+          "id": "episode/black-butler-4x4",
+          "image": "https://img.watchanimeworld.one/image/1439/4/4.webp",
+          "season": 4
+        },
+        {
+          "episode": 5,
+          "title": "Black Butler 4x5",
+          "id": "episode/black-butler-4x5",
+          "image": "https://img.watchanimeworld.one/image/1439/4/5.webp",
+          "season": 4
+        },
+        {
+          "episode": 6,
+          "title": "Black Butler 4x6",
+          "id": "episode/black-butler-4x6",
+          "image": "https://img.watchanimeworld.one/image/1439/4/6.webp",
+          "season": 4
+        },
+        {
+          "episode": 7,
+          "title": "Black Butler 4x7",
+          "id": "episode/black-butler-4x7",
+          "image": "https://img.watchanimeworld.one/image/1439/4/7.webp",
+          "season": 4
+        },
+        {
+          "episode": 8,
+          "title": "Black Butler 4x8",
+          "id": "episode/black-butler-4x8",
+          "image": "https://img.watchanimeworld.one/image/1439/4/8.webp",
+          "season": 4
+        },
+        {
+          "episode": 9,
+          "title": "Black Butler 4x9",
+          "id": "episode/black-butler-4x9",
+          "image": "https://img.watchanimeworld.one/image/1439/4/9.webp",
+          "season": 4
+        },
+        {
+          "episode": 10,
+          "title": "Black Butler 4x10",
+          "id": "episode/black-butler-4x10",
+          "image": "https://img.watchanimeworld.one/image/1439/4/10.webp",
+          "season": 4
+        },
+        {
+          "episode": 11,
+          "title": "Black Butler 4x11",
+          "id": "episode/black-butler-4x11",
+          "image": "https://img.watchanimeworld.one/image/1439/4/11.webp",
+          "season": 4
+        }
+      ]
+    },
+    {
+      "season": 5,
+      "name": "Season 5",
+      "episodesCount": 13,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Black Butler 5x1",
+          "id": "episode/black-butler-5x1",
+          "image": "https://img.watchanimeworld.one/image/1439/5/1.webp",
+          "season": 5
+        },
+        {
+          "episode": 2,
+          "title": "Black Butler 5x2",
+          "id": "episode/black-butler-5x2",
+          "image": "https://img.watchanimeworld.one/image/1439/5/2.webp",
+          "season": 5
+        },
+        {
+          "episode": 3,
+          "title": "Black Butler 5x3",
+          "id": "episode/black-butler-5x3",
+          "image": "https://img.watchanimeworld.one/image/1439/5/3.webp",
+          "season": 5
+        },
+        {
+          "episode": 4,
+          "title": "Black Butler 5x4",
+          "id": "episode/black-butler-5x4",
+          "image": "https://img.watchanimeworld.one/image/1439/5/4.webp",
+          "season": 5
+        },
+        {
+          "episode": 5,
+          "title": "Black Butler 5x5",
+          "id": "episode/black-butler-5x5",
+          "image": "https://img.watchanimeworld.one/image/1439/5/5.webp",
+          "season": 5
+        },
+        {
+          "episode": 6,
+          "title": "Black Butler 5x6",
+          "id": "episode/black-butler-5x6",
+          "image": "https://img.watchanimeworld.one/image/1439/5/6.webp",
+          "season": 5
+        },
+        {
+          "episode": 7,
+          "title": "Black Butler 5x7",
+          "id": "episode/black-butler-5x7",
+          "image": "https://img.watchanimeworld.one/image/1439/5/7.webp",
+          "season": 5
+        },
+        {
+          "episode": 8,
+          "title": "Black Butler 5x8",
+          "id": "episode/black-butler-5x8",
+          "image": "https://img.watchanimeworld.one/image/1439/5/8.webp",
+          "season": 5
+        },
+        {
+          "episode": 9,
+          "title": "Black Butler 5x9",
+          "id": "episode/black-butler-5x9",
+          "image": "https://img.watchanimeworld.one/image/1439/5/9.webp",
+          "season": 5
+        },
+        {
+          "episode": 10,
+          "title": "Black Butler 5x10",
+          "id": "episode/black-butler-5x10",
+          "image": "https://img.watchanimeworld.one/img/thumb_1439_s5e10.webp",
+          "season": 5
+        },
+        {
+          "episode": 11,
+          "title": "Black Butler 5x11",
+          "id": "episode/black-butler-5x11",
+          "image": "https://img.watchanimeworld.one/img/thumb_1439_s5e11.webp",
+          "season": 5
+        },
+        {
+          "episode": 12,
+          "title": "Black Butler 5x12",
+          "id": "episode/black-butler-5x12",
+          "image": "https://img.watchanimeworld.one/img/thumb_1439_s5e12.webp",
+          "season": 5
+        },
+        {
+          "episode": 13,
+          "title": "Black Butler 5x13",
+          "id": "episode/black-butler-5x13",
+          "image": "https://img.watchanimeworld.one/img/thumb_1439_s5e13.webp",
+          "season": 5
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/black-butler-4x1",
+      "episode_id": "episode/black-butler-4x1",
+      "title": "Black Butler 4x1",
+      "episode_name": "Black Butler 4x1",
+      "episode_number": 1,
+      "season": 4,
+      "image": "https://img.watchanimeworld.one/image/1439/4/1.webp",
+      "abyssid": "13759",
+      "abyssId": "13759",
+      "playxid": "799fc232a527e7a7d6435c945083a329",
+      "playXID": "799fc232a527e7a7d6435c945083a329",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13759",
+        "playXID": "799fc232a527e7a7d6435c945083a329",
+        "streamId": "13759",
+        "dubPlayerSrc": "/dub-player/t/13759/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=799fc232a527e7a7d6435c945083a329&abyssId=13759"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13759",
+        "playXID": "799fc232a527e7a7d6435c945083a329",
+        "streamId": "13759",
+        "dubPlayerSrc": "/dub-player/t/13759/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=799fc232a527e7a7d6435c945083a329&abyssId=13759"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/799fc232a527e7a7d6435c945083a329",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/799fc232a527e7a7d6435c945083a329"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13759",
+        "abyssId": "13759",
+        "playXID": "799fc232a527e7a7d6435c945083a329",
+        "title": "Black Butler",
+        "season": 4,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "ii8hoy3f3"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "Ndz6R0r9J"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "mu_u5Z7kr"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "SNTcIZTcv"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "HypFTPTJb"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/7941f5608b1316d9c377a0738ab09ee2/master.m3u8?md5=SUK0mrsHw98qBS5xZmEZfA&expires=1792166718",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/7941f5608b1316d9c377a0738ab09ee2/master.m3u8?md5=SUK0mrsHw98qBS5xZmEZfA&expires=1792166718",
+            "videoSource": "https://ravok.buzz/cdn/hls/7941f5608b1316d9c377a0738ab09ee2/master.m3u8?md5=SUK0mrsHw98qBS5xZmEZfA&expires=1792166718",
+            "videoImage": "https://as-cdn31.top/p/lIV8qfAuN-D-IvQZ-yMrwyHWyZY96qe9RGRjAMcOn8MH0iyRoIrCFYz9lLrv0hFO5eNPWjH6ElhWWDCzhWBeCQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "799fc232a527e7a7d6435c945083a329",
+                "streamUrl": "https://ravok.buzz/cdn/hls/7941f5608b1316d9c377a0738ab09ee2/master.m3u8?md5=SUK0mrsHw98qBS5xZmEZfA&expires=1792166718",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/7941f5608b1316d9c377a0738ab09ee2/master.m3u8?md5=SUK0mrsHw98qBS5xZmEZfA&expires=1792166718",
+                "videoSource": "https://ravok.buzz/cdn/hls/7941f5608b1316d9c377a0738ab09ee2/master.m3u8?md5=SUK0mrsHw98qBS5xZmEZfA&expires=1792166718",
+                "link": "https://ravok.buzz/cdn/hls/7941f5608b1316d9c377a0738ab09ee2/master.m3u8?md5=SUK0mrsHw98qBS5xZmEZfA&expires=1792166718",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/lIV8qfAuN-D-IvQZ-yMrwyHWyZY96qe9RGRjAMcOn8MH0iyRoIrCFYz9lLrv0hFO5eNPWjH6ElhWWDCzhWBeCQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "ii8hoy3f3"
+        }
+      },
+      "fetched_at": "2026-10-16T14:05:28Z"
+    },
+    {
+      "id": "episode/black-butler-4x2",
+      "episode_id": "episode/black-butler-4x2",
+      "title": "Black Butler 4x1",
+      "episode_name": "Black Butler 4x1",
+      "episode_number": 2,
+      "season": 4,
+      "image": "https://img.watchanimeworld.one/image/1439/4/2.webp",
+      "abyssid": "13760",
+      "abyssId": "13760",
+      "playxid": "3ceca2fc13c2fa01d4aed1e552d3a6fb",
+      "playXID": "3ceca2fc13c2fa01d4aed1e552d3a6fb",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13760",
+        "playXID": "3ceca2fc13c2fa01d4aed1e552d3a6fb",
+        "streamId": "13760",
+        "dubPlayerSrc": "/dub-player/t/13760/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=3ceca2fc13c2fa01d4aed1e552d3a6fb&abyssId=13760"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13760",
+        "playXID": "3ceca2fc13c2fa01d4aed1e552d3a6fb",
+        "streamId": "13760",
+        "dubPlayerSrc": "/dub-player/t/13760/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=3ceca2fc13c2fa01d4aed1e552d3a6fb&abyssId=13760"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/3ceca2fc13c2fa01d4aed1e552d3a6fb",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/3ceca2fc13c2fa01d4aed1e552d3a6fb"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13760",
+        "abyssId": "13760",
+        "playXID": "3ceca2fc13c2fa01d4aed1e552d3a6fb",
+        "title": "Black Butler",
+        "season": 4,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "CLxoNkDeo"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "ht-tKqsG9"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "g22oVtgO-"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "HuxUUJfWe"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "OmJQAGojd"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/b861468ab52ac1e7f47fc8398d513e97/master.m3u8?md5=j5t5e20cwhqEHc-hz6mgbw&expires=1792166719",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/b861468ab52ac1e7f47fc8398d513e97/master.m3u8?md5=j5t5e20cwhqEHc-hz6mgbw&expires=1792166719",
+            "videoSource": "https://ravok.buzz/cdn/hls/b861468ab52ac1e7f47fc8398d513e97/master.m3u8?md5=j5t5e20cwhqEHc-hz6mgbw&expires=1792166719",
+            "videoImage": "https://as-cdn30.top/p/qOe2TLdaoElg8RhayTsycupQhZl2DrIfXrN58F1V_WY0sr6HpBkxeGJer-pBWl-VtfTtnEO3Em5X8oPqmXMxlw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "3ceca2fc13c2fa01d4aed1e552d3a6fb",
+                "streamUrl": "https://ravok.buzz/cdn/hls/b861468ab52ac1e7f47fc8398d513e97/master.m3u8?md5=j5t5e20cwhqEHc-hz6mgbw&expires=1792166719",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/b861468ab52ac1e7f47fc8398d513e97/master.m3u8?md5=j5t5e20cwhqEHc-hz6mgbw&expires=1792166719",
+                "videoSource": "https://ravok.buzz/cdn/hls/b861468ab52ac1e7f47fc8398d513e97/master.m3u8?md5=j5t5e20cwhqEHc-hz6mgbw&expires=1792166719",
+                "link": "https://ravok.buzz/cdn/hls/b861468ab52ac1e7f47fc8398d513e97/master.m3u8?md5=j5t5e20cwhqEHc-hz6mgbw&expires=1792166719",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/qOe2TLdaoElg8RhayTsycupQhZl2DrIfXrN58F1V_WY0sr6HpBkxeGJer-pBWl-VtfTtnEO3Em5X8oPqmXMxlw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "CLxoNkDeo"
+        }
+      },
+      "fetched_at": "2026-10-16T14:05:28Z"
+    },
+    {
+      "id": "episode/black-butler-4x4",
+      "episode_id": "episode/black-butler-4x4",
+      "title": "Black Butler 4x1",
+      "episode_name": "Black Butler 4x1",
+      "episode_number": 4,
+      "season": 4,
+      "image": "https://img.watchanimeworld.one/image/1439/4/4.webp",
+      "abyssid": "13762",
+      "abyssId": "13762",
+      "playxid": "1e14bfe2714193e7af5abc64ecbd6b46",
+      "playXID": "1e14bfe2714193e7af5abc64ecbd6b46",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13762",
+        "playXID": "1e14bfe2714193e7af5abc64ecbd6b46",
+        "streamId": "13762",
+        "dubPlayerSrc": "/dub-player/t/13762/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=1e14bfe2714193e7af5abc64ecbd6b46&abyssId=13762"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13762",
+        "playXID": "1e14bfe2714193e7af5abc64ecbd6b46",
+        "streamId": "13762",
+        "dubPlayerSrc": "/dub-player/t/13762/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=1e14bfe2714193e7af5abc64ecbd6b46&abyssId=13762"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/1e14bfe2714193e7af5abc64ecbd6b46",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/1e14bfe2714193e7af5abc64ecbd6b46"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13762",
+        "abyssId": "13762",
+        "playXID": "1e14bfe2714193e7af5abc64ecbd6b46",
+        "title": "Black Butler",
+        "season": 4,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "kD5__TeHE"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "uQvjDCcrE"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "bJ2bOlhIF"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "Lpf6TzUnt"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "Or6I9FXok"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/20e201ebcf5947207c2ee1aacac1bd77/master.m3u8?md5=B_5M8d4UTGJ5Zx1cP1PQog&expires=1792166719",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/20e201ebcf5947207c2ee1aacac1bd77/master.m3u8?md5=B_5M8d4UTGJ5Zx1cP1PQog&expires=1792166719",
+            "videoSource": "https://ravok.buzz/cdn/hls/20e201ebcf5947207c2ee1aacac1bd77/master.m3u8?md5=B_5M8d4UTGJ5Zx1cP1PQog&expires=1792166719",
+            "videoImage": "https://as-cdn31.top/p/cmjFR0lreQWNakBf3oQbjvcQSXs8JZLv5MSYwfQD64URx4LhW_AuF57XprAiGU4hvV_D5FcjoxhaPCpMXQnaLg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "1e14bfe2714193e7af5abc64ecbd6b46",
+                "streamUrl": "https://ravok.buzz/cdn/hls/20e201ebcf5947207c2ee1aacac1bd77/master.m3u8?md5=B_5M8d4UTGJ5Zx1cP1PQog&expires=1792166719",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/20e201ebcf5947207c2ee1aacac1bd77/master.m3u8?md5=B_5M8d4UTGJ5Zx1cP1PQog&expires=1792166719",
+                "videoSource": "https://ravok.buzz/cdn/hls/20e201ebcf5947207c2ee1aacac1bd77/master.m3u8?md5=B_5M8d4UTGJ5Zx1cP1PQog&expires=1792166719",
+                "link": "https://ravok.buzz/cdn/hls/20e201ebcf5947207c2ee1aacac1bd77/master.m3u8?md5=B_5M8d4UTGJ5Zx1cP1PQog&expires=1792166719",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/cmjFR0lreQWNakBf3oQbjvcQSXs8JZLv5MSYwfQD64URx4LhW_AuF57XprAiGU4hvV_D5FcjoxhaPCpMXQnaLg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "kD5__TeHE"
+        }
+      },
+      "fetched_at": "2026-10-16T14:05:29Z"
+    },
+    {
+      "id": "episode/black-butler-4x5",
+      "episode_id": "episode/black-butler-4x5",
+      "title": "Black Butler 4x1",
+      "episode_name": "Black Butler 4x1",
+      "episode_number": 5,
+      "season": 4,
+      "image": "https://img.watchanimeworld.one/image/1439/4/5.webp",
+      "abyssid": "13763",
+      "abyssId": "13763",
+      "playxid": "d91fb359652b5c9d9842b11d1c6fada5",
+      "playXID": "d91fb359652b5c9d9842b11d1c6fada5",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13763",
+        "playXID": "d91fb359652b5c9d9842b11d1c6fada5",
+        "streamId": "13763",
+        "dubPlayerSrc": "/dub-player/t/13763/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d91fb359652b5c9d9842b11d1c6fada5&abyssId=13763"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13763",
+        "playXID": "d91fb359652b5c9d9842b11d1c6fada5",
+        "streamId": "13763",
+        "dubPlayerSrc": "/dub-player/t/13763/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d91fb359652b5c9d9842b11d1c6fada5&abyssId=13763"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/d91fb359652b5c9d9842b11d1c6fada5",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/d91fb359652b5c9d9842b11d1c6fada5"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13763",
+        "abyssId": "13763",
+        "playXID": "d91fb359652b5c9d9842b11d1c6fada5",
+        "title": "Black Butler",
+        "season": 4,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "VnOiUqfAQ"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "On3Sq1ZZ_"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "mkXqayvFY"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "3PJhk-FFx"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "Ai2-3-l-w"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/e165c5ba048d2f8ac52f7f5ac37f2cb0/master.m3u8?md5=yzjiCtqITsY4tr89hLZSWw&expires=1792166719",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/e165c5ba048d2f8ac52f7f5ac37f2cb0/master.m3u8?md5=yzjiCtqITsY4tr89hLZSWw&expires=1792166719",
+            "videoSource": "https://ravok.buzz/cdn/hls/e165c5ba048d2f8ac52f7f5ac37f2cb0/master.m3u8?md5=yzjiCtqITsY4tr89hLZSWw&expires=1792166719",
+            "videoImage": "https://as-cdn28.top/p/W5xn8fPkg4LFRLqNDS1Dwd_8mBiXLwGisjHKGLtTKzcu8YBfAAYQG9fCweksK7d-VcQSBIPuR1XzpnAa5deWgA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "d91fb359652b5c9d9842b11d1c6fada5",
+                "streamUrl": "https://ravok.buzz/cdn/hls/e165c5ba048d2f8ac52f7f5ac37f2cb0/master.m3u8?md5=yzjiCtqITsY4tr89hLZSWw&expires=1792166719",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/e165c5ba048d2f8ac52f7f5ac37f2cb0/master.m3u8?md5=yzjiCtqITsY4tr89hLZSWw&expires=1792166719",
+                "videoSource": "https://ravok.buzz/cdn/hls/e165c5ba048d2f8ac52f7f5ac37f2cb0/master.m3u8?md5=yzjiCtqITsY4tr89hLZSWw&expires=1792166719",
+                "link": "https://ravok.buzz/cdn/hls/e165c5ba048d2f8ac52f7f5ac37f2cb0/master.m3u8?md5=yzjiCtqITsY4tr89hLZSWw&expires=1792166719",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/W5xn8fPkg4LFRLqNDS1Dwd_8mBiXLwGisjHKGLtTKzcu8YBfAAYQG9fCweksK7d-VcQSBIPuR1XzpnAa5deWgA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "VnOiUqfAQ"
+        }
+      },
+      "fetched_at": "2026-10-16T14:05:29Z"
+    },
+    {
+      "id": "episode/black-butler-4x3",
+      "episode_id": "episode/black-butler-4x3",
+      "title": "Black Butler 4x1",
+      "episode_name": "Black Butler 4x1",
+      "episode_number": 3,
+      "season": 4,
+      "image": "https://img.watchanimeworld.one/image/1439/4/3.webp",
+      "abyssid": "13761",
+      "abyssId": "13761",
+      "playxid": "209a38b64aac6816dd61ee8f4286939c",
+      "playXID": "209a38b64aac6816dd61ee8f4286939c",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13761",
+        "playXID": "209a38b64aac6816dd61ee8f4286939c",
+        "streamId": "13761",
+        "dubPlayerSrc": "/dub-player/t/13761/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=209a38b64aac6816dd61ee8f4286939c&abyssId=13761"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13761",
+        "playXID": "209a38b64aac6816dd61ee8f4286939c",
+        "streamId": "13761",
+        "dubPlayerSrc": "/dub-player/t/13761/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=209a38b64aac6816dd61ee8f4286939c&abyssId=13761"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/209a38b64aac6816dd61ee8f4286939c",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/209a38b64aac6816dd61ee8f4286939c"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13761",
+        "abyssId": "13761",
+        "playXID": "209a38b64aac6816dd61ee8f4286939c",
+        "title": "Black Butler",
+        "season": 4,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "t14uvbV9N"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "fp68fiOZz"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "eoTt56kqR"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "foR2XPujK"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "o1sla_cDP"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/bb0d5de47ccc34e7b46ff8b45a97c8e1/master.m3u8?md5=A7_K3ckZUbhvgyt8iBvZFQ&expires=1792166719",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/bb0d5de47ccc34e7b46ff8b45a97c8e1/master.m3u8?md5=A7_K3ckZUbhvgyt8iBvZFQ&expires=1792166719",
+            "videoSource": "https://ravok.buzz/cdn/hls/bb0d5de47ccc34e7b46ff8b45a97c8e1/master.m3u8?md5=A7_K3ckZUbhvgyt8iBvZFQ&expires=1792166719",
+            "videoImage": "https://as-cdn29.top/p/Kqhf736EUDkP9JYLIecuBzYNVAWIAP8B4Yofda7nb1Uo8PVpaXqJFEzbDo4el7Vqbe2Wxuz22_6_4O4VnQeFUA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "209a38b64aac6816dd61ee8f4286939c",
+                "streamUrl": "https://ravok.buzz/cdn/hls/bb0d5de47ccc34e7b46ff8b45a97c8e1/master.m3u8?md5=A7_K3ckZUbhvgyt8iBvZFQ&expires=1792166719",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/bb0d5de47ccc34e7b46ff8b45a97c8e1/master.m3u8?md5=A7_K3ckZUbhvgyt8iBvZFQ&expires=1792166719",
+                "videoSource": "https://ravok.buzz/cdn/hls/bb0d5de47ccc34e7b46ff8b45a97c8e1/master.m3u8?md5=A7_K3ckZUbhvgyt8iBvZFQ&expires=1792166719",
+                "link": "https://ravok.buzz/cdn/hls/bb0d5de47ccc34e7b46ff8b45a97c8e1/master.m3u8?md5=A7_K3ckZUbhvgyt8iBvZFQ&expires=1792166719",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/Kqhf736EUDkP9JYLIecuBzYNVAWIAP8B4Yofda7nb1Uo8PVpaXqJFEzbDo4el7Vqbe2Wxuz22_6_4O4VnQeFUA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "t14uvbV9N"
+        }
+      },
+      "fetched_at": "2026-10-16T14:05:29Z"
+    },
+    {
+      "id": "episode/black-butler-4x6",
+      "episode_id": "episode/black-butler-4x6",
+      "title": "Black Butler 4x1",
+      "episode_name": "Black Butler 4x1",
+      "episode_number": 6,
+      "season": 4,
+      "image": "https://img.watchanimeworld.one/image/1439/4/6.webp",
+      "abyssid": "13764",
+      "abyssId": "13764",
+      "playxid": "3ba07b63865ffdcc83f484c6749df719",
+      "playXID": "3ba07b63865ffdcc83f484c6749df719",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13764",
+        "playXID": "3ba07b63865ffdcc83f484c6749df719",
+        "streamId": "13764",
+        "dubPlayerSrc": "/dub-player/t/13764/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=3ba07b63865ffdcc83f484c6749df719&abyssId=13764"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13764",
+        "playXID": "3ba07b63865ffdcc83f484c6749df719",
+        "streamId": "13764",
+        "dubPlayerSrc": "/dub-player/t/13764/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=3ba07b63865ffdcc83f484c6749df719&abyssId=13764"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/3ba07b63865ffdcc83f484c6749df719",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/3ba07b63865ffdcc83f484c6749df719"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13764",
+        "abyssId": "13764",
+        "playXID": "3ba07b63865ffdcc83f484c6749df719",
+        "title": "Black Butler",
+        "season": 4,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "cseh6oBUV"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "9MrM-Xp-U"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "-e0zuudax"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "3JI3cabKS"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "womI9Pi0_"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/aa6fcead2a31a89d6efa8aa59dfe28bd/master.m3u8?md5=Hcbv6YdLPV0va6SxnaBAYA&expires=1792166720",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/aa6fcead2a31a89d6efa8aa59dfe28bd/master.m3u8?md5=Hcbv6YdLPV0va6SxnaBAYA&expires=1792166720",
+            "videoSource": "https://ravok.buzz/cdn/hls/aa6fcead2a31a89d6efa8aa59dfe28bd/master.m3u8?md5=Hcbv6YdLPV0va6SxnaBAYA&expires=1792166720",
+            "videoImage": "https://as-cdn30.top/p/qqdOpNkP8qlwKu_5v2DtQx4Y7r93BLCxCJ85B2SmLouH0vFZImnN0RewZ3ejMA-2vlieOgkVB3AqjPYKe9Wy_w.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "3ba07b63865ffdcc83f484c6749df719",
+                "streamUrl": "https://ravok.buzz/cdn/hls/aa6fcead2a31a89d6efa8aa59dfe28bd/master.m3u8?md5=Hcbv6YdLPV0va6SxnaBAYA&expires=1792166720",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/aa6fcead2a31a89d6efa8aa59dfe28bd/master.m3u8?md5=Hcbv6YdLPV0va6SxnaBAYA&expires=1792166720",
+                "videoSource": "https://ravok.buzz/cdn/hls/aa6fcead2a31a89d6efa8aa59dfe28bd/master.m3u8?md5=Hcbv6YdLPV0va6SxnaBAYA&expires=1792166720",
+                "link": "https://ravok.buzz/cdn/hls/aa6fcead2a31a89d6efa8aa59dfe28bd/master.m3u8?md5=Hcbv6YdLPV0va6SxnaBAYA&expires=1792166720",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/qqdOpNkP8qlwKu_5v2DtQx4Y7r93BLCxCJ85B2SmLouH0vFZImnN0RewZ3ejMA-2vlieOgkVB3AqjPYKe9Wy_w.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "cseh6oBUV"
+        }
+      },
+      "fetched_at": "2026-10-16T14:05:30Z"
+    },
+    {
+      "id": "episode/black-butler-4x7",
+      "episode_id": "episode/black-butler-4x7",
+      "title": "Black Butler 4x1",
+      "episode_name": "Black Butler 4x1",
+      "episode_number": 7,
+      "season": 4,
+      "image": "https://img.watchanimeworld.one/image/1439/4/7.webp",
+      "abyssid": "13765",
+      "abyssId": "13765",
+      "playxid": "3613ef1ee5b75945c042bfb124275a0b",
+      "playXID": "3613ef1ee5b75945c042bfb124275a0b",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13765",
+        "playXID": "3613ef1ee5b75945c042bfb124275a0b",
+        "streamId": "13765",
+        "dubPlayerSrc": "/dub-player/t/13765/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=3613ef1ee5b75945c042bfb124275a0b&abyssId=13765"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13765",
+        "playXID": "3613ef1ee5b75945c042bfb124275a0b",
+        "streamId": "13765",
+        "dubPlayerSrc": "/dub-player/t/13765/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=3613ef1ee5b75945c042bfb124275a0b&abyssId=13765"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/3613ef1ee5b75945c042bfb124275a0b",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/3613ef1ee5b75945c042bfb124275a0b"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13765",
+        "abyssId": "13765",
+        "playXID": "3613ef1ee5b75945c042bfb124275a0b",
+        "title": "Black Butler",
+        "season": 4,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "omnqD5HuJ"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "yAZmizBWw"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "xFtB0CvQT"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "dam-8X0Ia"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "GU80XXQYn"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/6ae3f06ee278093c676085d0745d0e44/master.m3u8?md5=urXMYFoVYnlWV0MWadUNSA&expires=1792166721",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/6ae3f06ee278093c676085d0745d0e44/master.m3u8?md5=urXMYFoVYnlWV0MWadUNSA&expires=1792166721",
+            "videoSource": "https://ravok.buzz/cdn/hls/6ae3f06ee278093c676085d0745d0e44/master.m3u8?md5=urXMYFoVYnlWV0MWadUNSA&expires=1792166721",
+            "videoImage": "https://as-cdn29.top/p/JoujIQiUymzH57cL9vPrKB4zFd_j5GuYslhoNo7dR9zpmyR1H80s0s1JPil4ijwVbIxXDsmGHt0Lgt6XaNfQOA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "3613ef1ee5b75945c042bfb124275a0b",
+                "streamUrl": "https://ravok.buzz/cdn/hls/6ae3f06ee278093c676085d0745d0e44/master.m3u8?md5=urXMYFoVYnlWV0MWadUNSA&expires=1792166721",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/6ae3f06ee278093c676085d0745d0e44/master.m3u8?md5=urXMYFoVYnlWV0MWadUNSA&expires=1792166721",
+                "videoSource": "https://ravok.buzz/cdn/hls/6ae3f06ee278093c676085d0745d0e44/master.m3u8?md5=urXMYFoVYnlWV0MWadUNSA&expires=1792166721",
+                "link": "https://ravok.buzz/cdn/hls/6ae3f06ee278093c676085d0745d0e44/master.m3u8?md5=urXMYFoVYnlWV0MWadUNSA&expires=1792166721",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/JoujIQiUymzH57cL9vPrKB4zFd_j5GuYslhoNo7dR9zpmyR1H80s0s1JPil4ijwVbIxXDsmGHt0Lgt6XaNfQOA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "omnqD5HuJ"
+        }
+      },
+      "fetched_at": "2026-10-16T14:05:30Z"
+    },
+    {
+      "id": "episode/black-butler-4x9",
+      "episode_id": "episode/black-butler-4x9",
+      "title": "Black Butler 4x1",
+      "episode_name": "Black Butler 4x1",
+      "episode_number": 9,
+      "season": 4,
+      "image": "https://img.watchanimeworld.one/image/1439/4/9.webp",
+      "abyssid": "13767",
+      "abyssId": "13767",
+      "playxid": "e2e14235335d2c0aa5f6855e339233d9",
+      "playXID": "e2e14235335d2c0aa5f6855e339233d9",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13767",
+        "playXID": "e2e14235335d2c0aa5f6855e339233d9",
+        "streamId": "13767",
+        "dubPlayerSrc": "/dub-player/t/13767/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e2e14235335d2c0aa5f6855e339233d9&abyssId=13767"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13767",
+        "playXID": "e2e14235335d2c0aa5f6855e339233d9",
+        "streamId": "13767",
+        "dubPlayerSrc": "/dub-player/t/13767/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e2e14235335d2c0aa5f6855e339233d9&abyssId=13767"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/e2e14235335d2c0aa5f6855e339233d9",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/e2e14235335d2c0aa5f6855e339233d9"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13767",
+        "abyssId": "13767",
+        "playXID": "e2e14235335d2c0aa5f6855e339233d9",
+        "title": "Black Butler",
+        "season": 4,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "A7Aw_fvpy"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "a8sH29BPw"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "mV09TEIj5"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "to5fpR3Pd"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "BiXA7VUrO"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/c56a96b6436145f5a74680d9704dda6a/master.m3u8?md5=KSTTF1tBXLK8ImqscpAvAQ&expires=1792166721",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/c56a96b6436145f5a74680d9704dda6a/master.m3u8?md5=KSTTF1tBXLK8ImqscpAvAQ&expires=1792166721",
+            "videoSource": "https://ravok.buzz/cdn/hls/c56a96b6436145f5a74680d9704dda6a/master.m3u8?md5=KSTTF1tBXLK8ImqscpAvAQ&expires=1792166721",
+            "videoImage": "https://as-cdn29.top/p/4nahQ3rP33ue3X_JCNzdTrKx5NltaH4FGaHi3Fm3icDd_NtTVezLyzPKEjPdg-BowT0r1Fooz2Q24zLm6s9h3Q.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "e2e14235335d2c0aa5f6855e339233d9",
+                "streamUrl": "https://ravok.buzz/cdn/hls/c56a96b6436145f5a74680d9704dda6a/master.m3u8?md5=KSTTF1tBXLK8ImqscpAvAQ&expires=1792166721",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/c56a96b6436145f5a74680d9704dda6a/master.m3u8?md5=KSTTF1tBXLK8ImqscpAvAQ&expires=1792166721",
+                "videoSource": "https://ravok.buzz/cdn/hls/c56a96b6436145f5a74680d9704dda6a/master.m3u8?md5=KSTTF1tBXLK8ImqscpAvAQ&expires=1792166721",
+                "link": "https://ravok.buzz/cdn/hls/c56a96b6436145f5a74680d9704dda6a/master.m3u8?md5=KSTTF1tBXLK8ImqscpAvAQ&expires=1792166721",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/4nahQ3rP33ue3X_JCNzdTrKx5NltaH4FGaHi3Fm3icDd_NtTVezLyzPKEjPdg-BowT0r1Fooz2Q24zLm6s9h3Q.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "A7Aw_fvpy"
+        }
+      },
+      "fetched_at": "2026-10-16T14:05:31Z"
+    },
+    {
+      "id": "episode/black-butler-4x8",
+      "episode_id": "episode/black-butler-4x8",
+      "title": "Black Butler 4x1",
+      "episode_name": "Black Butler 4x1",
+      "episode_number": 8,
+      "season": 4,
+      "image": "https://img.watchanimeworld.one/image/1439/4/8.webp",
+      "abyssid": "13766",
+      "abyssId": "13766",
+      "playxid": "869b61d6a909d51d982bae4dfd341f0a",
+      "playXID": "869b61d6a909d51d982bae4dfd341f0a",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13766",
+        "playXID": "869b61d6a909d51d982bae4dfd341f0a",
+        "streamId": "13766",
+        "dubPlayerSrc": "/dub-player/t/13766/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=869b61d6a909d51d982bae4dfd341f0a&abyssId=13766"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13766",
+        "playXID": "869b61d6a909d51d982bae4dfd341f0a",
+        "streamId": "13766",
+        "dubPlayerSrc": "/dub-player/t/13766/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=869b61d6a909d51d982bae4dfd341f0a&abyssId=13766"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/869b61d6a909d51d982bae4dfd341f0a",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/869b61d6a909d51d982bae4dfd341f0a"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13766",
+        "abyssId": "13766",
+        "playXID": "869b61d6a909d51d982bae4dfd341f0a",
+        "title": "Black Butler",
+        "season": 4,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "Wt_TS5T3Z"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "xnTmEGeu8"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "WIqtuQSUP"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "jGB-wwpwB"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "q4qjvGYtTC"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/6bec404ec7a642e7aa23b54956193095/master.m3u8?md5=yURLnSXcBMzK0zRnHlMKuw&expires=1792166721",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/6bec404ec7a642e7aa23b54956193095/master.m3u8?md5=yURLnSXcBMzK0zRnHlMKuw&expires=1792166721",
+            "videoSource": "https://ravok.buzz/cdn/hls/6bec404ec7a642e7aa23b54956193095/master.m3u8?md5=yURLnSXcBMzK0zRnHlMKuw&expires=1792166721",
+            "videoImage": "https://as-cdn30.top/p/g5cRgXut4a4SKxEY5yIdRN47jFUBJoFFWbww5gTA_dyoxxtsO2hwrxZeKmjgiBAwp6ZzrsrGYYZ0PjVsY63qKA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "869b61d6a909d51d982bae4dfd341f0a",
+                "streamUrl": "https://ravok.buzz/cdn/hls/6bec404ec7a642e7aa23b54956193095/master.m3u8?md5=yURLnSXcBMzK0zRnHlMKuw&expires=1792166721",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/6bec404ec7a642e7aa23b54956193095/master.m3u8?md5=yURLnSXcBMzK0zRnHlMKuw&expires=1792166721",
+                "videoSource": "https://ravok.buzz/cdn/hls/6bec404ec7a642e7aa23b54956193095/master.m3u8?md5=yURLnSXcBMzK0zRnHlMKuw&expires=1792166721",
+                "link": "https://ravok.buzz/cdn/hls/6bec404ec7a642e7aa23b54956193095/master.m3u8?md5=yURLnSXcBMzK0zRnHlMKuw&expires=1792166721",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/g5cRgXut4a4SKxEY5yIdRN47jFUBJoFFWbww5gTA_dyoxxtsO2hwrxZeKmjgiBAwp6ZzrsrGYYZ0PjVsY63qKA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "Wt_TS5T3Z"
+        }
+      },
+      "fetched_at": "2026-10-16T14:05:31Z"
+    },
+    {
+      "id": "episode/black-butler-4x10",
+      "episode_id": "episode/black-butler-4x10",
+      "title": "Black Butler 4x1",
+      "episode_name": "Black Butler 4x1",
+      "episode_number": 10,
+      "season": 4,
+      "image": "https://img.watchanimeworld.one/image/1439/4/10.webp",
+      "abyssid": "13768",
+      "abyssId": "13768",
+      "playxid": "3499738f724b2ae08a1871b6a0a7d175",
+      "playXID": "3499738f724b2ae08a1871b6a0a7d175",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13768",
+        "playXID": "3499738f724b2ae08a1871b6a0a7d175",
+        "streamId": "13768",
+        "dubPlayerSrc": "/dub-player/t/13768/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=3499738f724b2ae08a1871b6a0a7d175&abyssId=13768"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13768",
+        "playXID": "3499738f724b2ae08a1871b6a0a7d175",
+        "streamId": "13768",
+        "dubPlayerSrc": "/dub-player/t/13768/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=3499738f724b2ae08a1871b6a0a7d175&abyssId=13768"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/3499738f724b2ae08a1871b6a0a7d175",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/3499738f724b2ae08a1871b6a0a7d175"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13768",
+        "abyssId": "13768",
+        "playXID": "3499738f724b2ae08a1871b6a0a7d175",
+        "title": "Black Butler",
+        "season": 4,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "6L6IzuJaT"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "0hKL83phq"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "IgTgIGqLC"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "Typr9ZjU2"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "H42tib4X1"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/d720c21f807a7841d86b43cb064ac61d/master.m3u8?md5=OL6p7ipXjL3yGaXwBM6fXg&expires=1792166721",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/d720c21f807a7841d86b43cb064ac61d/master.m3u8?md5=OL6p7ipXjL3yGaXwBM6fXg&expires=1792166721",
+            "videoSource": "https://ravok.buzz/cdn/hls/d720c21f807a7841d86b43cb064ac61d/master.m3u8?md5=OL6p7ipXjL3yGaXwBM6fXg&expires=1792166721",
+            "videoImage": "https://as-cdn27.top/p/0jMdn9U3bJ2aDaKq7WKwKCvNOwiqOBGBGr-QKEDP6ltVJgSMOQSOcEunJKRa_FWL_YKVUBRH5lExYrGEpG66Vw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "3499738f724b2ae08a1871b6a0a7d175",
+                "streamUrl": "https://ravok.buzz/cdn/hls/d720c21f807a7841d86b43cb064ac61d/master.m3u8?md5=OL6p7ipXjL3yGaXwBM6fXg&expires=1792166721",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/d720c21f807a7841d86b43cb064ac61d/master.m3u8?md5=OL6p7ipXjL3yGaXwBM6fXg&expires=1792166721",
+                "videoSource": "https://ravok.buzz/cdn/hls/d720c21f807a7841d86b43cb064ac61d/master.m3u8?md5=OL6p7ipXjL3yGaXwBM6fXg&expires=1792166721",
+                "link": "https://ravok.buzz/cdn/hls/d720c21f807a7841d86b43cb064ac61d/master.m3u8?md5=OL6p7ipXjL3yGaXwBM6fXg&expires=1792166721",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/0jMdn9U3bJ2aDaKq7WKwKCvNOwiqOBGBGr-QKEDP6ltVJgSMOQSOcEunJKRa_FWL_YKVUBRH5lExYrGEpG66Vw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "6L6IzuJaT"
+        }
+      },
+      "fetched_at": "2026-10-16T14:05:31Z"
+    },
+    {
+      "id": "episode/black-butler-5x1",
+      "episode_id": "episode/black-butler-5x1",
+      "title": "Black Butler 5x1",
+      "episode_name": "Black Butler 5x1",
+      "episode_number": 1,
+      "season": 5,
+      "image": "https://img.watchanimeworld.one/image/1439/5/1.webp",
+      "abyssid": "15461",
+      "abyssId": "15461",
+      "playxid": "61b07251e835d37322b7460d2b88c05b",
+      "playXID": "61b07251e835d37322b7460d2b88c05b",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15461",
+        "playXID": "61b07251e835d37322b7460d2b88c05b",
+        "streamId": "15461",
+        "dubPlayerSrc": "/dub-player/t/15461/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=61b07251e835d37322b7460d2b88c05b&abyssId=15461"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15461",
+        "playXID": "61b07251e835d37322b7460d2b88c05b",
+        "streamId": "15461",
+        "dubPlayerSrc": "/dub-player/t/15461/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=61b07251e835d37322b7460d2b88c05b&abyssId=15461"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/61b07251e835d37322b7460d2b88c05b",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/61b07251e835d37322b7460d2b88c05b"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15461",
+        "abyssId": "15461",
+        "playXID": "61b07251e835d37322b7460d2b88c05b",
+        "title": "Black Butler",
+        "season": 5,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "Hy1rdCF59"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "BFyVPv65x"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "_r9qjnxAY"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "mWiL1jXYb"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "Navt_pAtS"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/fc260d9b66416efd97318f242e3eec23/master.m3u8?md5=i2TnFYG2xvJGVwALgdY91g&expires=1792166723",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/fc260d9b66416efd97318f242e3eec23/master.m3u8?md5=i2TnFYG2xvJGVwALgdY91g&expires=1792166723",
+            "videoSource": "https://ravok.buzz/cdn/hls/fc260d9b66416efd97318f242e3eec23/master.m3u8?md5=i2TnFYG2xvJGVwALgdY91g&expires=1792166723",
+            "videoImage": "https://as-cdn27.top/p/8tJuLVWTYF6WEaprfmTty7xQUGJrw6LBsnuv5I9-L9z3WC5cjY9MS7y0x4Z6AG9E8Y_ZZiXUKYy71TsI2bLtQQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "61b07251e835d37322b7460d2b88c05b",
+                "streamUrl": "https://ravok.buzz/cdn/hls/fc260d9b66416efd97318f242e3eec23/master.m3u8?md5=i2TnFYG2xvJGVwALgdY91g&expires=1792166723",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/fc260d9b66416efd97318f242e3eec23/master.m3u8?md5=i2TnFYG2xvJGVwALgdY91g&expires=1792166723",
+                "videoSource": "https://ravok.buzz/cdn/hls/fc260d9b66416efd97318f242e3eec23/master.m3u8?md5=i2TnFYG2xvJGVwALgdY91g&expires=1792166723",
+                "link": "https://ravok.buzz/cdn/hls/fc260d9b66416efd97318f242e3eec23/master.m3u8?md5=i2TnFYG2xvJGVwALgdY91g&expires=1792166723",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/8tJuLVWTYF6WEaprfmTty7xQUGJrw6LBsnuv5I9-L9z3WC5cjY9MS7y0x4Z6AG9E8Y_ZZiXUKYy71TsI2bLtQQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "Hy1rdCF59"
+        }
+      },
+      "fetched_at": "2026-10-16T14:05:32Z"
+    },
+    {
+      "id": "episode/black-butler-4x11",
+      "episode_id": "episode/black-butler-4x11",
+      "title": "Black Butler 4x1",
+      "episode_name": "Black Butler 4x1",
+      "episode_number": 11,
+      "season": 4,
+      "image": "https://img.watchanimeworld.one/image/1439/4/11.webp",
+      "abyssid": "13769",
+      "abyssId": "13769",
+      "playxid": "d14c2267d848abeb81fd590f371d39bd",
+      "playXID": "d14c2267d848abeb81fd590f371d39bd",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "13769",
+        "playXID": "d14c2267d848abeb81fd590f371d39bd",
+        "streamId": "13769",
+        "dubPlayerSrc": "/dub-player/t/13769/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d14c2267d848abeb81fd590f371d39bd&abyssId=13769"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "13769",
+        "playXID": "d14c2267d848abeb81fd590f371d39bd",
+        "streamId": "13769",
+        "dubPlayerSrc": "/dub-player/t/13769/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d14c2267d848abeb81fd590f371d39bd&abyssId=13769"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/d14c2267d848abeb81fd590f371d39bd",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/d14c2267d848abeb81fd590f371d39bd"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "13769",
+        "abyssId": "13769",
+        "playXID": "d14c2267d848abeb81fd590f371d39bd",
+        "title": "Black Butler",
+        "season": 4,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "jP_4bptgk"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "WXDsoQABF"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "fYgOLgyGL"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "oJMOlpkMZ"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "8qAuQj9Cw"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/4e3e40e8618df05925c0804397d6515c/master.m3u8?md5=g7UgAtpgbzDd62P3sK72Yg&expires=1792166723",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/4e3e40e8618df05925c0804397d6515c/master.m3u8?md5=g7UgAtpgbzDd62P3sK72Yg&expires=1792166723",
+            "videoSource": "https://ravok.buzz/cdn/hls/4e3e40e8618df05925c0804397d6515c/master.m3u8?md5=g7UgAtpgbzDd62P3sK72Yg&expires=1792166723",
+            "videoImage": "https://as-cdn27.top/p/sp775WIFl4CPL1a34ccdfRbZ1lTRRi_umDUwGIDgMiGuKZT-2db9iYUkgb99WythA-DdLYBKZjh9-lXQWj69kg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "d14c2267d848abeb81fd590f371d39bd",
+                "streamUrl": "https://ravok.buzz/cdn/hls/4e3e40e8618df05925c0804397d6515c/master.m3u8?md5=g7UgAtpgbzDd62P3sK72Yg&expires=1792166723",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/4e3e40e8618df05925c0804397d6515c/master.m3u8?md5=g7UgAtpgbzDd62P3sK72Yg&expires=1792166723",
+                "videoSource": "https://ravok.buzz/cdn/hls/4e3e40e8618df05925c0804397d6515c/master.m3u8?md5=g7UgAtpgbzDd62P3sK72Yg&expires=1792166723",
+                "link": "https://ravok.buzz/cdn/hls/4e3e40e8618df05925c0804397d6515c/master.m3u8?md5=g7UgAtpgbzDd62P3sK72Yg&expires=1792166723",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/sp775WIFl4CPL1a34ccdfRbZ1lTRRi_umDUwGIDgMiGuKZT-2db9iYUkgb99WythA-DdLYBKZjh9-lXQWj69kg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "jP_4bptgk"
+        }
+      },
+      "fetched_at": "2026-10-16T14:05:32Z"
+    },
+    {
+      "id": "episode/black-butler-5x3",
+      "episode_id": "episode/black-butler-5x3",
+      "title": "Black Butler 5x1",
+      "episode_name": "Black Butler 5x1",
+      "episode_number": 3,
+      "season": 5,
+      "image": "https://img.watchanimeworld.one/image/1439/5/3.webp",
+      "abyssid": "15532",
+      "abyssId": "15532",
+      "playxid": "03bc8e45ce4903b86f933ebb1fedbc44",
+      "playXID": "03bc8e45ce4903b86f933ebb1fedbc44",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15532",
+        "playXID": "03bc8e45ce4903b86f933ebb1fedbc44",
+        "streamId": "15532",
+        "dubPlayerSrc": "/dub-player/t/15532/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=03bc8e45ce4903b86f933ebb1fedbc44&abyssId=15532"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15532",
+        "playXID": "03bc8e45ce4903b86f933ebb1fedbc44",
+        "streamId": "15532",
+        "dubPlayerSrc": "/dub-player/t/15532/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=03bc8e45ce4903b86f933ebb1fedbc44&abyssId=15532"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/03bc8e45ce4903b86f933ebb1fedbc44",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/03bc8e45ce4903b86f933ebb1fedbc44"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15532",
+        "abyssId": "15532",
+        "playXID": "03bc8e45ce4903b86f933ebb1fedbc44",
+        "title": "Black Butler",
+        "season": 5,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "Q9vVHHQzF"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "Ims84r9Pk"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "re_wZbHcJ"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "twBbHkYBR"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "s27PXmRSj"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/84d5a26cc498f0266cc219d9b1773431/master.m3u8?md5=zuVtTHpCpVvz-RG_aqakDg&expires=1792166723",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/84d5a26cc498f0266cc219d9b1773431/master.m3u8?md5=zuVtTHpCpVvz-RG_aqakDg&expires=1792166723",
+            "videoSource": "https://ravok.buzz/cdn/hls/84d5a26cc498f0266cc219d9b1773431/master.m3u8?md5=zuVtTHpCpVvz-RG_aqakDg&expires=1792166723",
+            "videoImage": "https://as-cdn31.top/p/2Oc5xgst9LEvFCZuCt2QAGV9idKQHo8piDnYKH69mJD938D8gt69DgkHgg7kK0jCZFpPEORacvlinyasj-eKdg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "03bc8e45ce4903b86f933ebb1fedbc44",
+                "streamUrl": "https://ravok.buzz/cdn/hls/84d5a26cc498f0266cc219d9b1773431/master.m3u8?md5=zuVtTHpCpVvz-RG_aqakDg&expires=1792166723",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/84d5a26cc498f0266cc219d9b1773431/master.m3u8?md5=zuVtTHpCpVvz-RG_aqakDg&expires=1792166723",
+                "videoSource": "https://ravok.buzz/cdn/hls/84d5a26cc498f0266cc219d9b1773431/master.m3u8?md5=zuVtTHpCpVvz-RG_aqakDg&expires=1792166723",
+                "link": "https://ravok.buzz/cdn/hls/84d5a26cc498f0266cc219d9b1773431/master.m3u8?md5=zuVtTHpCpVvz-RG_aqakDg&expires=1792166723",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/2Oc5xgst9LEvFCZuCt2QAGV9idKQHo8piDnYKH69mJD938D8gt69DgkHgg7kK0jCZFpPEORacvlinyasj-eKdg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "Q9vVHHQzF"
+        }
+      },
+      "fetched_at": "2026-10-16T14:05:33Z"
+    },
+    {
+      "id": "episode/black-butler-5x4",
+      "episode_id": "episode/black-butler-5x4",
+      "title": "Black Butler 5x1",
+      "episode_name": "Black Butler 5x1",
+      "episode_number": 4,
+      "season": 5,
+      "image": "https://img.watchanimeworld.one/image/1439/5/4.webp",
+      "abyssid": "15549",
+      "abyssId": "15549",
+      "playxid": "4bae7ee1e49cd802e27b167a22be62d9",
+      "playXID": "4bae7ee1e49cd802e27b167a22be62d9",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15549",
+        "playXID": "4bae7ee1e49cd802e27b167a22be62d9",
+        "streamId": "15549",
+        "dubPlayerSrc": "/dub-player/t/15549/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=4bae7ee1e49cd802e27b167a22be62d9&abyssId=15549"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15549",
+        "playXID": "4bae7ee1e49cd802e27b167a22be62d9",
+        "streamId": "15549",
+        "dubPlayerSrc": "/dub-player/t/15549/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=4bae7ee1e49cd802e27b167a22be62d9&abyssId=15549"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/4bae7ee1e49cd802e27b167a22be62d9",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/4bae7ee1e49cd802e27b167a22be62d9"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15549",
+        "abyssId": "15549",
+        "playXID": "4bae7ee1e49cd802e27b167a22be62d9",
+        "title": "Black Butler",
+        "season": 5,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "d2sRAdgEg"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "cSPXx-O6P"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "5Kx0X9tL-D"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "FZXUvyHdT"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "jAX0a2Nvh"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/2c47bae3ceb534988de1db7dfdf529f1/master.m3u8?md5=YeunSn4fDUAvY8Mh2UM9cg&expires=1792166723",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/2c47bae3ceb534988de1db7dfdf529f1/master.m3u8?md5=YeunSn4fDUAvY8Mh2UM9cg&expires=1792166723",
+            "videoSource": "https://ravok.buzz/cdn/hls/2c47bae3ceb534988de1db7dfdf529f1/master.m3u8?md5=YeunSn4fDUAvY8Mh2UM9cg&expires=1792166723",
+            "videoImage": "https://as-cdn31.top/p/Eh2YUFp6dXB0eBRpTssZ8rVzESGgyyMrsQQ60MViSoazJ1CckmAbjz12HDZrkvmfLgRafwbQ1m-uaSP7N7pCrg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "4bae7ee1e49cd802e27b167a22be62d9",
+                "streamUrl": "https://ravok.buzz/cdn/hls/2c47bae3ceb534988de1db7dfdf529f1/master.m3u8?md5=YeunSn4fDUAvY8Mh2UM9cg&expires=1792166723",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/2c47bae3ceb534988de1db7dfdf529f1/master.m3u8?md5=YeunSn4fDUAvY8Mh2UM9cg&expires=1792166723",
+                "videoSource": "https://ravok.buzz/cdn/hls/2c47bae3ceb534988de1db7dfdf529f1/master.m3u8?md5=YeunSn4fDUAvY8Mh2UM9cg&expires=1792166723",
+                "link": "https://ravok.buzz/cdn/hls/2c47bae3ceb534988de1db7dfdf529f1/master.m3u8?md5=YeunSn4fDUAvY8Mh2UM9cg&expires=1792166723",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/Eh2YUFp6dXB0eBRpTssZ8rVzESGgyyMrsQQ60MViSoazJ1CckmAbjz12HDZrkvmfLgRafwbQ1m-uaSP7N7pCrg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "d2sRAdgEg"
+        }
+      },
+      "fetched_at": "2026-10-16T14:05:33Z"
+    },
+    {
+      "id": "episode/black-butler-5x6",
+      "episode_id": "episode/black-butler-5x6",
+      "title": "Black Butler 5x1",
+      "episode_name": "Black Butler 5x1",
+      "episode_number": 6,
+      "season": 5,
+      "image": "https://img.watchanimeworld.one/image/1439/5/6.webp",
+      "abyssid": "15732",
+      "abyssId": "15732",
+      "playxid": "51b7dae1031b20174cacc7e69d6e4bf0",
+      "playXID": "51b7dae1031b20174cacc7e69d6e4bf0",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15732",
+        "playXID": "51b7dae1031b20174cacc7e69d6e4bf0",
+        "streamId": "15732",
+        "dubPlayerSrc": "/dub-player/t/15732/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=51b7dae1031b20174cacc7e69d6e4bf0&abyssId=15732"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15732",
+        "playXID": "51b7dae1031b20174cacc7e69d6e4bf0",
+        "streamId": "15732",
+        "dubPlayerSrc": "/dub-player/t/15732/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=51b7dae1031b20174cacc7e69d6e4bf0&abyssId=15732"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/51b7dae1031b20174cacc7e69d6e4bf0",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/51b7dae1031b20174cacc7e69d6e4bf0"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15732",
+        "abyssId": "15732",
+        "playXID": "51b7dae1031b20174cacc7e69d6e4bf0",
+        "title": "Black Butler",
+        "season": 5,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "EUh016tPn"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "gDVnc-fq5"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "HPKR_7alT"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "MpI08JNsL"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "exQwBjjrI"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/ad4338b13a89ab14e59fe3525ccb29d4/master.m3u8?md5=PlLFUm9YqP2LTkxd9AwHCQ&expires=1792166725",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/ad4338b13a89ab14e59fe3525ccb29d4/master.m3u8?md5=PlLFUm9YqP2LTkxd9AwHCQ&expires=1792166725",
+            "videoSource": "https://ravok.buzz/cdn/hls/ad4338b13a89ab14e59fe3525ccb29d4/master.m3u8?md5=PlLFUm9YqP2LTkxd9AwHCQ&expires=1792166725",
+            "videoImage": "https://as-cdn28.top/p/7r1V5rGVpdk5kRESlJFcN4EmAVHGGUpcCZg75O3ml17t2LCA2famYjA6KiqnJhfi6-7I6u-e0cT34Hk6yhJkTQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "51b7dae1031b20174cacc7e69d6e4bf0",
+                "streamUrl": "https://ravok.buzz/cdn/hls/ad4338b13a89ab14e59fe3525ccb29d4/master.m3u8?md5=PlLFUm9YqP2LTkxd9AwHCQ&expires=1792166725",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/ad4338b13a89ab14e59fe3525ccb29d4/master.m3u8?md5=PlLFUm9YqP2LTkxd9AwHCQ&expires=1792166725",
+                "videoSource": "https://ravok.buzz/cdn/hls/ad4338b13a89ab14e59fe3525ccb29d4/master.m3u8?md5=PlLFUm9YqP2LTkxd9AwHCQ&expires=1792166725",
+                "link": "https://ravok.buzz/cdn/hls/ad4338b13a89ab14e59fe3525ccb29d4/master.m3u8?md5=PlLFUm9YqP2LTkxd9AwHCQ&expires=1792166725",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/7r1V5rGVpdk5kRESlJFcN4EmAVHGGUpcCZg75O3ml17t2LCA2famYjA6KiqnJhfi6-7I6u-e0cT34Hk6yhJkTQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "EUh016tPn"
+        }
+      },
+      "fetched_at": "2026-10-16T14:05:35Z"
+    },
+    {
+      "id": "episode/black-butler-5x8",
+      "episode_id": "episode/black-butler-5x8",
+      "title": "Black Butler 5x1",
+      "episode_name": "Black Butler 5x1",
+      "episode_number": 8,
+      "season": 5,
+      "image": "https://img.watchanimeworld.one/image/1439/5/8.webp",
+      "abyssid": "15807",
+      "abyssId": "15807",
+      "playxid": "872de53a900f3250ae5649ea19e5c381",
+      "playXID": "872de53a900f3250ae5649ea19e5c381",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15807",
+        "playXID": "872de53a900f3250ae5649ea19e5c381",
+        "streamId": "15807",
+        "dubPlayerSrc": "/dub-player/t/15807/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=872de53a900f3250ae5649ea19e5c381&abyssId=15807"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15807",
+        "playXID": "872de53a900f3250ae5649ea19e5c381",
+        "streamId": "15807",
+        "dubPlayerSrc": "/dub-player/t/15807/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=872de53a900f3250ae5649ea19e5c381&abyssId=15807"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/872de53a900f3250ae5649ea19e5c381",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/872de53a900f3250ae5649ea19e5c381"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15807",
+        "abyssId": "15807",
+        "playXID": "872de53a900f3250ae5649ea19e5c381",
+        "title": "Black Butler",
+        "season": 5,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "-NJNriIB2"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "Yqgnf79zm"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "LjR6Iu5Wl"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "eQbh8nSVG"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "K4EjNfdDi"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/c82aec4255e7a1f9e9d4f8ca557477c2/master.m3u8?md5=yxE1dgxV2xXwem5HmukcQQ&expires=1792166725",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/c82aec4255e7a1f9e9d4f8ca557477c2/master.m3u8?md5=yxE1dgxV2xXwem5HmukcQQ&expires=1792166725",
+            "videoSource": "https://ravok.buzz/cdn/hls/c82aec4255e7a1f9e9d4f8ca557477c2/master.m3u8?md5=yxE1dgxV2xXwem5HmukcQQ&expires=1792166725",
+            "videoImage": "https://as-cdn28.top/p/dysNHLyJ4Hj0Be9a3P3Fyv2xUtTLxWgASi4nw4jFQQ-scJylaETWZinsftgcRT7dlzZWw7OfBLFoJDZtIjqJjg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "872de53a900f3250ae5649ea19e5c381",
+                "streamUrl": "https://ravok.buzz/cdn/hls/c82aec4255e7a1f9e9d4f8ca557477c2/master.m3u8?md5=yxE1dgxV2xXwem5HmukcQQ&expires=1792166725",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/c82aec4255e7a1f9e9d4f8ca557477c2/master.m3u8?md5=yxE1dgxV2xXwem5HmukcQQ&expires=1792166725",
+                "videoSource": "https://ravok.buzz/cdn/hls/c82aec4255e7a1f9e9d4f8ca557477c2/master.m3u8?md5=yxE1dgxV2xXwem5HmukcQQ&expires=1792166725",
+                "link": "https://ravok.buzz/cdn/hls/c82aec4255e7a1f9e9d4f8ca557477c2/master.m3u8?md5=yxE1dgxV2xXwem5HmukcQQ&expires=1792166725",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/dysNHLyJ4Hj0Be9a3P3Fyv2xUtTLxWgASi4nw4jFQQ-scJylaETWZinsftgcRT7dlzZWw7OfBLFoJDZtIjqJjg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "-NJNriIB2"
+        }
+      },
+      "fetched_at": "2026-10-16T14:05:35Z"
+    },
+    {
+      "id": "episode/black-butler-5x7",
+      "episode_id": "episode/black-butler-5x7",
+      "title": "Black Butler 5x1",
+      "episode_name": "Black Butler 5x1",
+      "episode_number": 7,
+      "season": 5,
+      "image": "https://img.watchanimeworld.one/image/1439/5/7.webp",
+      "abyssid": "15761",
+      "abyssId": "15761",
+      "playxid": "b83b4b4fb7dee46fd2e688f76e3f3928",
+      "playXID": "b83b4b4fb7dee46fd2e688f76e3f3928",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15761",
+        "playXID": "b83b4b4fb7dee46fd2e688f76e3f3928",
+        "streamId": "15761",
+        "dubPlayerSrc": "/dub-player/t/15761/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b83b4b4fb7dee46fd2e688f76e3f3928&abyssId=15761"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15761",
+        "playXID": "b83b4b4fb7dee46fd2e688f76e3f3928",
+        "streamId": "15761",
+        "dubPlayerSrc": "/dub-player/t/15761/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b83b4b4fb7dee46fd2e688f76e3f3928&abyssId=15761"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/b83b4b4fb7dee46fd2e688f76e3f3928",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/b83b4b4fb7dee46fd2e688f76e3f3928"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15761",
+        "abyssId": "15761",
+        "playXID": "b83b4b4fb7dee46fd2e688f76e3f3928",
+        "title": "Black Butler",
+        "season": 5,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "AaF8Wmoo4"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "SY_w0VOoh"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "CRA8A63gH"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "iMiyEs4Jf"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "muB7N0bgK"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/cdccfbb36d05af0b3eb0d3c684016029/master.m3u8?md5=TTqdY9NUhBz_3mxKeZmzFA&expires=1792166725",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/cdccfbb36d05af0b3eb0d3c684016029/master.m3u8?md5=TTqdY9NUhBz_3mxKeZmzFA&expires=1792166725",
+            "videoSource": "https://ravok.buzz/cdn/hls/cdccfbb36d05af0b3eb0d3c684016029/master.m3u8?md5=TTqdY9NUhBz_3mxKeZmzFA&expires=1792166725",
+            "videoImage": "https://as-cdn28.top/p/eU3SH-WTUiK2XbXehUGVcBHtMrHCj9caklOU02NVT5REp9Wv9KPR9LhgLm_Bitq5hmibjvohwOUOj0-BjZnSkA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "b83b4b4fb7dee46fd2e688f76e3f3928",
+                "streamUrl": "https://ravok.buzz/cdn/hls/cdccfbb36d05af0b3eb0d3c684016029/master.m3u8?md5=TTqdY9NUhBz_3mxKeZmzFA&expires=1792166725",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/cdccfbb36d05af0b3eb0d3c684016029/master.m3u8?md5=TTqdY9NUhBz_3mxKeZmzFA&expires=1792166725",
+                "videoSource": "https://ravok.buzz/cdn/hls/cdccfbb36d05af0b3eb0d3c684016029/master.m3u8?md5=TTqdY9NUhBz_3mxKeZmzFA&expires=1792166725",
+                "link": "https://ravok.buzz/cdn/hls/cdccfbb36d05af0b3eb0d3c684016029/master.m3u8?md5=TTqdY9NUhBz_3mxKeZmzFA&expires=1792166725",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/eU3SH-WTUiK2XbXehUGVcBHtMrHCj9caklOU02NVT5REp9Wv9KPR9LhgLm_Bitq5hmibjvohwOUOj0-BjZnSkA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "AaF8Wmoo4"
+        }
+      },
+      "fetched_at": "2026-10-16T14:05:35Z"
+    },
+    {
+      "id": "episode/black-butler-5x2",
+      "episode_id": "episode/black-butler-5x2",
+      "title": "Black Butler 5x1",
+      "episode_name": "Black Butler 5x1",
+      "episode_number": 2,
+      "season": 5,
+      "image": "https://img.watchanimeworld.one/image/1439/5/2.webp",
+      "abyssid": "15502",
+      "abyssId": "15502",
+      "playxid": "945a1b4276b1524763d2acc19dc8c475",
+      "playXID": "945a1b4276b1524763d2acc19dc8c475",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15502",
+        "playXID": "945a1b4276b1524763d2acc19dc8c475",
+        "streamId": "15502",
+        "dubPlayerSrc": "/dub-player/t/15502/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=945a1b4276b1524763d2acc19dc8c475&abyssId=15502"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15502",
+        "playXID": "945a1b4276b1524763d2acc19dc8c475",
+        "streamId": "15502",
+        "dubPlayerSrc": "/dub-player/t/15502/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=945a1b4276b1524763d2acc19dc8c475&abyssId=15502"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/945a1b4276b1524763d2acc19dc8c475",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/945a1b4276b1524763d2acc19dc8c475"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15502",
+        "abyssId": "15502",
+        "playXID": "945a1b4276b1524763d2acc19dc8c475",
+        "title": "Black Butler",
+        "season": 5,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "vbN1HdJUk"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "UUs8htGQg"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "72zg7wAUf"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "HjcEyQumD"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "33OGw8EUar"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/95f4603c07cd0de01b81c18a4215d5f0/master.m3u8?md5=4dkPMu5zW0OAb27T6aHULQ&expires=1792166725",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/95f4603c07cd0de01b81c18a4215d5f0/master.m3u8?md5=4dkPMu5zW0OAb27T6aHULQ&expires=1792166725",
+            "videoSource": "https://ravok.buzz/cdn/hls/95f4603c07cd0de01b81c18a4215d5f0/master.m3u8?md5=4dkPMu5zW0OAb27T6aHULQ&expires=1792166725",
+            "videoImage": "https://as-cdn28.top/p/8O0LBnQq0uwLHUQUMvGhSZpexX4BTmkZLaXNLDtI5W_aeRZUmwGjnl46cszARCrdhKl5Im7Iu9QzW5rYlcFpog.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "945a1b4276b1524763d2acc19dc8c475",
+                "streamUrl": "https://ravok.buzz/cdn/hls/95f4603c07cd0de01b81c18a4215d5f0/master.m3u8?md5=4dkPMu5zW0OAb27T6aHULQ&expires=1792166725",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/95f4603c07cd0de01b81c18a4215d5f0/master.m3u8?md5=4dkPMu5zW0OAb27T6aHULQ&expires=1792166725",
+                "videoSource": "https://ravok.buzz/cdn/hls/95f4603c07cd0de01b81c18a4215d5f0/master.m3u8?md5=4dkPMu5zW0OAb27T6aHULQ&expires=1792166725",
+                "link": "https://ravok.buzz/cdn/hls/95f4603c07cd0de01b81c18a4215d5f0/master.m3u8?md5=4dkPMu5zW0OAb27T6aHULQ&expires=1792166725",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/8O0LBnQq0uwLHUQUMvGhSZpexX4BTmkZLaXNLDtI5W_aeRZUmwGjnl46cszARCrdhKl5Im7Iu9QzW5rYlcFpog.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "vbN1HdJUk"
+        }
+      },
+      "fetched_at": "2026-10-16T14:05:35Z"
+    },
+    {
+      "id": "episode/black-butler-5x9",
+      "episode_id": "episode/black-butler-5x9",
+      "title": "Black Butler 5x1",
+      "episode_name": "Black Butler 5x1",
+      "episode_number": 9,
+      "season": 5,
+      "image": "https://img.watchanimeworld.one/image/1439/5/9.webp",
+      "abyssid": "15828",
+      "abyssId": "15828",
+      "playxid": "b82b80956cfbe75101bd223fe6319dec",
+      "playXID": "b82b80956cfbe75101bd223fe6319dec",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15828",
+        "playXID": "b82b80956cfbe75101bd223fe6319dec",
+        "streamId": "15828",
+        "dubPlayerSrc": "/dub-player/t/15828/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b82b80956cfbe75101bd223fe6319dec&abyssId=15828"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15828",
+        "playXID": "b82b80956cfbe75101bd223fe6319dec",
+        "streamId": "15828",
+        "dubPlayerSrc": "/dub-player/t/15828/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b82b80956cfbe75101bd223fe6319dec&abyssId=15828"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/b82b80956cfbe75101bd223fe6319dec",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/b82b80956cfbe75101bd223fe6319dec"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15828",
+        "abyssId": "15828",
+        "playXID": "b82b80956cfbe75101bd223fe6319dec",
+        "title": "Black Butler",
+        "season": 5,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "TvGqC4jgO"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "vpPve71by"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "CCWUMvshy"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "EgAOGoPRj"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "5mG7K40jD"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/fa3078ab18cbd46f92f0886b9801e537/master.m3u8?md5=WmNkCJvBEgJGbHplgYHXCg&expires=1792166727",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/fa3078ab18cbd46f92f0886b9801e537/master.m3u8?md5=WmNkCJvBEgJGbHplgYHXCg&expires=1792166727",
+            "videoSource": "https://ravok.buzz/cdn/hls/fa3078ab18cbd46f92f0886b9801e537/master.m3u8?md5=WmNkCJvBEgJGbHplgYHXCg&expires=1792166727",
+            "videoImage": "https://as-cdn28.top/p/F0kfdZLgxHeE8euXBaaitqUSvyVXZw7RKDO3hJ4L4N5tUPHV6K1T4aVKJL1gc1H9-exavAKkni61gJkCK6zMZQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "b82b80956cfbe75101bd223fe6319dec",
+                "streamUrl": "https://ravok.buzz/cdn/hls/fa3078ab18cbd46f92f0886b9801e537/master.m3u8?md5=WmNkCJvBEgJGbHplgYHXCg&expires=1792166727",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/fa3078ab18cbd46f92f0886b9801e537/master.m3u8?md5=WmNkCJvBEgJGbHplgYHXCg&expires=1792166727",
+                "videoSource": "https://ravok.buzz/cdn/hls/fa3078ab18cbd46f92f0886b9801e537/master.m3u8?md5=WmNkCJvBEgJGbHplgYHXCg&expires=1792166727",
+                "link": "https://ravok.buzz/cdn/hls/fa3078ab18cbd46f92f0886b9801e537/master.m3u8?md5=WmNkCJvBEgJGbHplgYHXCg&expires=1792166727",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/F0kfdZLgxHeE8euXBaaitqUSvyVXZw7RKDO3hJ4L4N5tUPHV6K1T4aVKJL1gc1H9-exavAKkni61gJkCK6zMZQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "TvGqC4jgO"
+        }
+      },
+      "fetched_at": "2026-10-16T14:05:37Z"
+    },
+    {
+      "id": "episode/black-butler-5x10",
+      "episode_id": "episode/black-butler-5x10",
+      "title": "Black Butler 5x1",
+      "episode_name": "Black Butler 5x1",
+      "episode_number": 10,
+      "season": 5,
+      "image": "https://img.watchanimeworld.one/img/thumb_1439_s5e10.webp",
+      "abyssid": "15867",
+      "abyssId": "15867",
+      "playxid": "0164681a5e7cab55bfaa89e9c524c9f0",
+      "playXID": "0164681a5e7cab55bfaa89e9c524c9f0",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15867",
+        "playXID": "0164681a5e7cab55bfaa89e9c524c9f0",
+        "streamId": "15867",
+        "dubPlayerSrc": "/dub-player/t/15867/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=0164681a5e7cab55bfaa89e9c524c9f0&abyssId=15867"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15867",
+        "playXID": "0164681a5e7cab55bfaa89e9c524c9f0",
+        "streamId": "15867",
+        "dubPlayerSrc": "/dub-player/t/15867/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=0164681a5e7cab55bfaa89e9c524c9f0&abyssId=15867"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/0164681a5e7cab55bfaa89e9c524c9f0",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/0164681a5e7cab55bfaa89e9c524c9f0"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15867",
+        "abyssId": "15867",
+        "playXID": "0164681a5e7cab55bfaa89e9c524c9f0",
+        "title": "Black Butler",
+        "season": 5,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "ABKwaLhIw"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "lrrfnTqYHB"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "IefhQFsx5"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "1ZPGIdlnZ"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "veihJtHpd"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/d88a831f552693406f00e2a8e8cab469/master.m3u8?md5=uVUPJdTx-Nq7ZIoQzjppuA&expires=1792166727",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/d88a831f552693406f00e2a8e8cab469/master.m3u8?md5=uVUPJdTx-Nq7ZIoQzjppuA&expires=1792166727",
+            "videoSource": "https://ravok.buzz/cdn/hls/d88a831f552693406f00e2a8e8cab469/master.m3u8?md5=uVUPJdTx-Nq7ZIoQzjppuA&expires=1792166727",
+            "videoImage": "https://as-cdn30.top/p/taO7o73y47VryGzyYBIAXQBhXynnP9oabGQxRKsfDfcWlGeUdAYjo8d0nuv9wJdqgks_qyqHIlGtJX7ib3pCGg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "0164681a5e7cab55bfaa89e9c524c9f0",
+                "streamUrl": "https://ravok.buzz/cdn/hls/d88a831f552693406f00e2a8e8cab469/master.m3u8?md5=uVUPJdTx-Nq7ZIoQzjppuA&expires=1792166727",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/d88a831f552693406f00e2a8e8cab469/master.m3u8?md5=uVUPJdTx-Nq7ZIoQzjppuA&expires=1792166727",
+                "videoSource": "https://ravok.buzz/cdn/hls/d88a831f552693406f00e2a8e8cab469/master.m3u8?md5=uVUPJdTx-Nq7ZIoQzjppuA&expires=1792166727",
+                "link": "https://ravok.buzz/cdn/hls/d88a831f552693406f00e2a8e8cab469/master.m3u8?md5=uVUPJdTx-Nq7ZIoQzjppuA&expires=1792166727",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/taO7o73y47VryGzyYBIAXQBhXynnP9oabGQxRKsfDfcWlGeUdAYjo8d0nuv9wJdqgks_qyqHIlGtJX7ib3pCGg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "ABKwaLhIw"
+        }
+      },
+      "fetched_at": "2026-10-16T14:05:37Z"
+    },
+    {
+      "id": "episode/black-butler-5x11",
+      "episode_id": "episode/black-butler-5x11",
+      "title": "Black Butler 5x1",
+      "episode_name": "Black Butler 5x1",
+      "episode_number": 11,
+      "season": 5,
+      "image": "https://img.watchanimeworld.one/img/thumb_1439_s5e11.webp",
+      "abyssid": "15905",
+      "abyssId": "15905",
+      "playxid": "658900b7144ee7b4f419cb8054361045",
+      "playXID": "658900b7144ee7b4f419cb8054361045",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15905",
+        "playXID": "658900b7144ee7b4f419cb8054361045",
+        "streamId": "15905",
+        "dubPlayerSrc": "/dub-player/t/15905/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=658900b7144ee7b4f419cb8054361045&abyssId=15905"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15905",
+        "playXID": "658900b7144ee7b4f419cb8054361045",
+        "streamId": "15905",
+        "dubPlayerSrc": "/dub-player/t/15905/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=658900b7144ee7b4f419cb8054361045&abyssId=15905"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/658900b7144ee7b4f419cb8054361045",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/658900b7144ee7b4f419cb8054361045"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15905",
+        "abyssId": "15905",
+        "playXID": "658900b7144ee7b4f419cb8054361045",
+        "title": "Black Butler",
+        "season": 5,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "RLdn7gxvc"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "stkqi7hSH"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "LkzKjaIrG"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "Ov61YZsAy"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "N7gaApsUZ"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/78d25c0cfe609907b1890cd5f1ff8781/master.m3u8?md5=bXAXihh7Ss3ZSggROkI4gg&expires=1792166727",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/78d25c0cfe609907b1890cd5f1ff8781/master.m3u8?md5=bXAXihh7Ss3ZSggROkI4gg&expires=1792166727",
+            "videoSource": "https://ravok.buzz/cdn/hls/78d25c0cfe609907b1890cd5f1ff8781/master.m3u8?md5=bXAXihh7Ss3ZSggROkI4gg&expires=1792166727",
+            "videoImage": "https://as-cdn27.top/p/0FaVkA4MryGUxgsIEzmuCQYuS4GCt_ELdGCiRIl3n6nrmIPdYWXtWHptVnTaRm2tNoYxHFzfbuaS4DW0wWx2mg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "658900b7144ee7b4f419cb8054361045",
+                "streamUrl": "https://ravok.buzz/cdn/hls/78d25c0cfe609907b1890cd5f1ff8781/master.m3u8?md5=bXAXihh7Ss3ZSggROkI4gg&expires=1792166727",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/78d25c0cfe609907b1890cd5f1ff8781/master.m3u8?md5=bXAXihh7Ss3ZSggROkI4gg&expires=1792166727",
+                "videoSource": "https://ravok.buzz/cdn/hls/78d25c0cfe609907b1890cd5f1ff8781/master.m3u8?md5=bXAXihh7Ss3ZSggROkI4gg&expires=1792166727",
+                "link": "https://ravok.buzz/cdn/hls/78d25c0cfe609907b1890cd5f1ff8781/master.m3u8?md5=bXAXihh7Ss3ZSggROkI4gg&expires=1792166727",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/0FaVkA4MryGUxgsIEzmuCQYuS4GCt_ELdGCiRIl3n6nrmIPdYWXtWHptVnTaRm2tNoYxHFzfbuaS4DW0wWx2mg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "RLdn7gxvc"
+        }
+      },
+      "fetched_at": "2026-10-16T14:05:37Z"
+    },
+    {
+      "id": "episode/black-butler-5x12",
+      "episode_id": "episode/black-butler-5x12",
+      "title": "Black Butler 5x1",
+      "episode_name": "Black Butler 5x1",
+      "episode_number": 12,
+      "season": 5,
+      "image": "https://img.watchanimeworld.one/img/thumb_1439_s5e12.webp",
+      "abyssid": "15934",
+      "abyssId": "15934",
+      "playxid": "581c2ccb2333cbefb5909c5b06953f60",
+      "playXID": "581c2ccb2333cbefb5909c5b06953f60",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15934",
+        "playXID": "581c2ccb2333cbefb5909c5b06953f60",
+        "streamId": "15934",
+        "dubPlayerSrc": "/dub-player/t/15934/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=581c2ccb2333cbefb5909c5b06953f60&abyssId=15934"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15934",
+        "playXID": "581c2ccb2333cbefb5909c5b06953f60",
+        "streamId": "15934",
+        "dubPlayerSrc": "/dub-player/t/15934/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=581c2ccb2333cbefb5909c5b06953f60&abyssId=15934"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/581c2ccb2333cbefb5909c5b06953f60",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/581c2ccb2333cbefb5909c5b06953f60"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15934",
+        "abyssId": "15934",
+        "playXID": "581c2ccb2333cbefb5909c5b06953f60",
+        "title": "Black Butler",
+        "season": 5,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "uUeAd-4mQ"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "Ua0lO-34p"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "UfyHNSauq"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "fPB2-7hYi"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/56d49f3654716ab640eea4be822fca36/master.m3u8?md5=wfwItHm8qoyIKuImfXNU6w&expires=1792166727",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/56d49f3654716ab640eea4be822fca36/master.m3u8?md5=wfwItHm8qoyIKuImfXNU6w&expires=1792166727",
+            "videoSource": "https://ravok.buzz/cdn/hls/56d49f3654716ab640eea4be822fca36/master.m3u8?md5=wfwItHm8qoyIKuImfXNU6w&expires=1792166727",
+            "videoImage": "https://as-cdn27.top/p/8uWLiSar3MDT3kibjXcPrvTwkaZzR1cWakm5bfaWGzuA5IqijnqgMeRzSMDftTPCUUgJALOkL4rOGbljOzViZA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "581c2ccb2333cbefb5909c5b06953f60",
+                "streamUrl": "https://ravok.buzz/cdn/hls/56d49f3654716ab640eea4be822fca36/master.m3u8?md5=wfwItHm8qoyIKuImfXNU6w&expires=1792166727",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/56d49f3654716ab640eea4be822fca36/master.m3u8?md5=wfwItHm8qoyIKuImfXNU6w&expires=1792166727",
+                "videoSource": "https://ravok.buzz/cdn/hls/56d49f3654716ab640eea4be822fca36/master.m3u8?md5=wfwItHm8qoyIKuImfXNU6w&expires=1792166727",
+                "link": "https://ravok.buzz/cdn/hls/56d49f3654716ab640eea4be822fca36/master.m3u8?md5=wfwItHm8qoyIKuImfXNU6w&expires=1792166727",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/8uWLiSar3MDT3kibjXcPrvTwkaZzR1cWakm5bfaWGzuA5IqijnqgMeRzSMDftTPCUUgJALOkL4rOGbljOzViZA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "uUeAd-4mQ"
+        }
+      },
+      "fetched_at": "2026-10-16T14:05:38Z"
+    },
+    {
+      "id": "episode/black-butler-5x5",
+      "episode_id": "episode/black-butler-5x5",
+      "title": "Black Butler 5x1",
+      "episode_name": "Black Butler 5x1",
+      "episode_number": 5,
+      "season": 5,
+      "image": "https://img.watchanimeworld.one/image/1439/5/5.webp",
+      "abyssid": "15683",
+      "abyssId": "15683",
+      "playxid": "71af59614c8b42af334933e9261e53be",
+      "playXID": "71af59614c8b42af334933e9261e53be",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "15683",
+        "playXID": "71af59614c8b42af334933e9261e53be",
+        "streamId": "15683",
+        "dubPlayerSrc": "/dub-player/t/15683/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=71af59614c8b42af334933e9261e53be&abyssId=15683"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "15683",
+        "playXID": "71af59614c8b42af334933e9261e53be",
+        "streamId": "15683",
+        "dubPlayerSrc": "/dub-player/t/15683/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=71af59614c8b42af334933e9261e53be&abyssId=15683"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/71af59614c8b42af334933e9261e53be",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/71af59614c8b42af334933e9261e53be"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "15683",
+        "abyssId": "15683",
+        "playXID": "71af59614c8b42af334933e9261e53be",
+        "title": "Black Butler",
+        "season": 5,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "wye2lW5ey"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "q0wbmgIKqR"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "6i_OieLj8"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "qRlWixVHK"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "6PKTTri6y"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/f554a4fdbfd889c2f829ee64a131ac87/master.m3u8?md5=6TaM4imcxxI7glmG4f4cjg&expires=1792166729",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/f554a4fdbfd889c2f829ee64a131ac87/master.m3u8?md5=6TaM4imcxxI7glmG4f4cjg&expires=1792166729",
+            "videoSource": "https://ravok.buzz/cdn/hls/f554a4fdbfd889c2f829ee64a131ac87/master.m3u8?md5=6TaM4imcxxI7glmG4f4cjg&expires=1792166729",
+            "videoImage": "https://as-cdn28.top/p/aJvwqgIoiwaV6dCTNSi8gRSGntDi28eCoREyFUvFKpeRvYcrf2E9xTEVhsuw2JHa6xkx9hwzWrAVX-4gvi0tcA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "71af59614c8b42af334933e9261e53be",
+                "streamUrl": "https://ravok.buzz/cdn/hls/f554a4fdbfd889c2f829ee64a131ac87/master.m3u8?md5=6TaM4imcxxI7glmG4f4cjg&expires=1792166729",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/f554a4fdbfd889c2f829ee64a131ac87/master.m3u8?md5=6TaM4imcxxI7glmG4f4cjg&expires=1792166729",
+                "videoSource": "https://ravok.buzz/cdn/hls/f554a4fdbfd889c2f829ee64a131ac87/master.m3u8?md5=6TaM4imcxxI7glmG4f4cjg&expires=1792166729",
+                "link": "https://ravok.buzz/cdn/hls/f554a4fdbfd889c2f829ee64a131ac87/master.m3u8?md5=6TaM4imcxxI7glmG4f4cjg&expires=1792166729",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/aJvwqgIoiwaV6dCTNSi8gRSGntDi28eCoREyFUvFKpeRvYcrf2E9xTEVhsuw2JHa6xkx9hwzWrAVX-4gvi0tcA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "wye2lW5ey"
+        }
+      },
+      "fetched_at": "2026-10-16T14:05:39Z"
+    },
+    {
+      "id": "episode/black-butler-5x13",
+      "episode_id": "episode/black-butler-5x13",
+      "title": "Black Butler 5x1",
+      "episode_name": "Black Butler 5x1",
+      "episode_number": 13,
+      "season": 5,
+      "image": "https://img.watchanimeworld.one/img/thumb_1439_s5e13.webp",
+      "abyssid": "16393",
+      "abyssId": "16393",
+      "playxid": "ee0f827fe45c91c956bacfd78d91d47b",
+      "playXID": "ee0f827fe45c91c956bacfd78d91d47b",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16393",
+        "playXID": "ee0f827fe45c91c956bacfd78d91d47b",
+        "streamId": "16393",
+        "dubPlayerSrc": "/dub-player/t/16393/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ee0f827fe45c91c956bacfd78d91d47b&abyssId=16393"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16393",
+        "playXID": "ee0f827fe45c91c956bacfd78d91d47b",
+        "streamId": "16393",
+        "dubPlayerSrc": "/dub-player/t/16393/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ee0f827fe45c91c956bacfd78d91d47b&abyssId=16393"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/ee0f827fe45c91c956bacfd78d91d47b",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/ee0f827fe45c91c956bacfd78d91d47b"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16393",
+        "abyssId": "16393",
+        "playXID": "ee0f827fe45c91c956bacfd78d91d47b",
+        "title": "Black Butler",
+        "season": 5,
+        "episode": 13,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "jGh25_mgZ"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "cdHfBJ5xX"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "ZvY_8jITi"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "DIm8q-iif"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "avd-KGMGj"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/6054456dc23bfb93ac5d3aaf173a0fc7/master.m3u8?md5=OOvBSc6iX8oCJs-k428JIA&expires=1792166729",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/6054456dc23bfb93ac5d3aaf173a0fc7/master.m3u8?md5=OOvBSc6iX8oCJs-k428JIA&expires=1792166729",
+            "videoSource": "https://ravok.buzz/cdn/hls/6054456dc23bfb93ac5d3aaf173a0fc7/master.m3u8?md5=OOvBSc6iX8oCJs-k428JIA&expires=1792166729",
+            "videoImage": "https://as-cdn30.top/p/0Qo0wV5KtA5ITXPR6tZKL5SjdJzavZcCnuQ1zi_BNBXppbOUEr-j-eJnO2ucKNubTR2dVHNCazKtJRApGB7jmg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "ee0f827fe45c91c956bacfd78d91d47b",
+                "streamUrl": "https://ravok.buzz/cdn/hls/6054456dc23bfb93ac5d3aaf173a0fc7/master.m3u8?md5=OOvBSc6iX8oCJs-k428JIA&expires=1792166729",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/6054456dc23bfb93ac5d3aaf173a0fc7/master.m3u8?md5=OOvBSc6iX8oCJs-k428JIA&expires=1792166729",
+                "videoSource": "https://ravok.buzz/cdn/hls/6054456dc23bfb93ac5d3aaf173a0fc7/master.m3u8?md5=OOvBSc6iX8oCJs-k428JIA&expires=1792166729",
+                "link": "https://ravok.buzz/cdn/hls/6054456dc23bfb93ac5d3aaf173a0fc7/master.m3u8?md5=OOvBSc6iX8oCJs-k428JIA&expires=1792166729",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/0Qo0wV5KtA5ITXPR6tZKL5SjdJzavZcCnuQ1zi_BNBXppbOUEr-j-eJnO2ucKNubTR2dVHNCazKtJRApGB7jmg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "jGh25_mgZ"
+        }
+      },
+      "fetched_at": "2026-10-16T14:05:39Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T14:05:26Z",
+  "updated_at": "2026-10-16T14:05:39Z"
+}

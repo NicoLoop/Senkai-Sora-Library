@@ -1,0 +1,1499 @@
+{
+  "id": "series/bucchigiri",
+  "series_name": "BUCCHIGIRI?!",
+  "title": "BUCCHIGIRI?!",
+  "banner": "https://image.tmdb.org/t/p/w1280/oziPYy02zzGejwvzsVOPgCaPqRv.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/bhtkmLdMleHtGTq267VqhePgp5S.jpg",
+  "genra": [
+    "Action",
+    "Comedy",
+    "Delinquents",
+    "School",
+    "Supernatural"
+  ],
+  "genres": [
+    "Action",
+    "Comedy",
+    "Delinquents",
+    "School",
+    "Supernatural"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Japanese"
+  ],
+  "synopsis": "Arajin Tomoshibi’s reunion with his old pal Matakara Asamine takes an unexpected turn when they stumble into a brawl with the toughest guys in town. And just when you thought things couldn’t get weirder, a colossal genie decides to drop in. Brace yourself for the ultimate showdown. It’s the clash of the cool and the magical!",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Private: BUCCHIGIRI?! 1x1",
+          "id": "episode/private-bucchigiri-1x1",
+          "image": "https://img.watchanimeworld.one/img/thumb_1186_s1e1.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "Private: BUCCHIGIRI?! 1x2",
+          "id": "episode/private-bucchigiri-1x2",
+          "image": "https://img.watchanimeworld.one/img/thumb_1186_s1e2.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "Private: BUCCHIGIRI?! 1x3",
+          "id": "episode/private-bucchigiri-1x3",
+          "image": "https://img.watchanimeworld.one/img/thumb_1186_s1e3.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "Private: BUCCHIGIRI?! 1x4",
+          "id": "episode/private-bucchigiri-1x4",
+          "image": "https://img.watchanimeworld.one/img/thumb_1186_s1e4.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "Private: BUCCHIGIRI?! 1x5",
+          "id": "episode/private-bucchigiri-1x5",
+          "image": "https://img.watchanimeworld.one/img/thumb_1186_s1e5.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "Private: BUCCHIGIRI?! 1x6",
+          "id": "episode/private-bucchigiri-1x6",
+          "image": "https://img.watchanimeworld.one/img/thumb_1186_s1e6.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "Private: BUCCHIGIRI?! 1x7",
+          "id": "episode/private-bucchigiri-1x7",
+          "image": "https://img.watchanimeworld.one/img/thumb_1186_s1e7.webp",
+          "season": 1
+        },
+        {
+          "episode": 8,
+          "title": "Private: BUCCHIGIRI?! 1x8",
+          "id": "episode/private-bucchigiri-1x8",
+          "image": "https://img.watchanimeworld.one/img/thumb_1186_s1e8.webp",
+          "season": 1
+        },
+        {
+          "episode": 9,
+          "title": "Private: BUCCHIGIRI?! 1x9",
+          "id": "episode/private-bucchigiri-1x9",
+          "image": "https://img.watchanimeworld.one/img/thumb_1186_s1e9.webp",
+          "season": 1
+        },
+        {
+          "episode": 10,
+          "title": "Private: BUCCHIGIRI?! 1x10",
+          "id": "episode/private-bucchigiri-1x10",
+          "image": "https://img.watchanimeworld.one/img/thumb_1186_s1e10.webp",
+          "season": 1
+        },
+        {
+          "episode": 11,
+          "title": "Private: BUCCHIGIRI?! 1x11",
+          "id": "episode/private-bucchigiri-1x11",
+          "image": "https://img.watchanimeworld.one/img/thumb_1186_s1e11.webp",
+          "season": 1
+        },
+        {
+          "episode": 12,
+          "title": "Private: BUCCHIGIRI?! 1x12",
+          "id": "episode/private-bucchigiri-1x12",
+          "image": "https://img.watchanimeworld.one/img/thumb_1186_s1e12.webp",
+          "season": 1
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/private-bucchigiri-1x3",
+      "episode_id": "episode/private-bucchigiri-1x3",
+      "title": "Private: BUCCHIGIRI?! 1x1",
+      "episode_name": "Private: BUCCHIGIRI?! 1x1",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1186_s1e3.webp",
+      "abyssid": "12102",
+      "abyssId": "12102",
+      "playxid": "01471e17e05d411f3a4095c8f12c5e22",
+      "playXID": "01471e17e05d411f3a4095c8f12c5e22",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12102",
+        "playXID": "01471e17e05d411f3a4095c8f12c5e22",
+        "streamId": "12102",
+        "dubPlayerSrc": "/dub-player/t/12102/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=01471e17e05d411f3a4095c8f12c5e22&abyssId=12102"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12102",
+        "playXID": "01471e17e05d411f3a4095c8f12c5e22",
+        "streamId": "12102",
+        "dubPlayerSrc": "/dub-player/t/12102/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=01471e17e05d411f3a4095c8f12c5e22&abyssId=12102"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/01471e17e05d411f3a4095c8f12c5e22",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/01471e17e05d411f3a4095c8f12c5e22"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12102",
+        "abyssId": "12102",
+        "playXID": "01471e17e05d411f3a4095c8f12c5e22",
+        "title": "BUCCHIGIRI?!",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "3FXCGW08M"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "TwIgiDk82"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "FCidDPoCS"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "cS1sZ3vL_"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "JrXSFoz3w"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/3e0784b63b75d0114437979dafcdf2b8/master.m3u8?md5=6Fsd8x6ce3lI2ZVl9BwV2w&expires=1792167030",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/3e0784b63b75d0114437979dafcdf2b8/master.m3u8?md5=6Fsd8x6ce3lI2ZVl9BwV2w&expires=1792167030",
+            "videoSource": "https://ravok.buzz/cdn/hls/3e0784b63b75d0114437979dafcdf2b8/master.m3u8?md5=6Fsd8x6ce3lI2ZVl9BwV2w&expires=1792167030",
+            "videoImage": "https://as-cdn31.top/p/iBTcb5EvxAc2J3xjfwkBLYTW8pwGJ_tb-9fpYYLXEnUtj_ZZg4N5MOGTQq1gHiB-O89tNJQMLIsh1W_lj6M10g.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "01471e17e05d411f3a4095c8f12c5e22",
+                "streamUrl": "https://ravok.buzz/cdn/hls/3e0784b63b75d0114437979dafcdf2b8/master.m3u8?md5=6Fsd8x6ce3lI2ZVl9BwV2w&expires=1792167030",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/3e0784b63b75d0114437979dafcdf2b8/master.m3u8?md5=6Fsd8x6ce3lI2ZVl9BwV2w&expires=1792167030",
+                "videoSource": "https://ravok.buzz/cdn/hls/3e0784b63b75d0114437979dafcdf2b8/master.m3u8?md5=6Fsd8x6ce3lI2ZVl9BwV2w&expires=1792167030",
+                "link": "https://ravok.buzz/cdn/hls/3e0784b63b75d0114437979dafcdf2b8/master.m3u8?md5=6Fsd8x6ce3lI2ZVl9BwV2w&expires=1792167030",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/iBTcb5EvxAc2J3xjfwkBLYTW8pwGJ_tb-9fpYYLXEnUtj_ZZg4N5MOGTQq1gHiB-O89tNJQMLIsh1W_lj6M10g.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "3FXCGW08M"
+        }
+      },
+      "fetched_at": "2026-10-16T14:10:40Z"
+    },
+    {
+      "id": "episode/private-bucchigiri-1x1",
+      "episode_id": "episode/private-bucchigiri-1x1",
+      "title": "Private: BUCCHIGIRI?! 1x1",
+      "episode_name": "Private: BUCCHIGIRI?! 1x1",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1186_s1e1.webp",
+      "abyssid": "12100",
+      "abyssId": "12100",
+      "playxid": "bcb2f48943ad975a47cdab47193c3bd0",
+      "playXID": "bcb2f48943ad975a47cdab47193c3bd0",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12100",
+        "playXID": "bcb2f48943ad975a47cdab47193c3bd0",
+        "streamId": "12100",
+        "dubPlayerSrc": "/dub-player/t/12100/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=bcb2f48943ad975a47cdab47193c3bd0&abyssId=12100"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12100",
+        "playXID": "bcb2f48943ad975a47cdab47193c3bd0",
+        "streamId": "12100",
+        "dubPlayerSrc": "/dub-player/t/12100/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=bcb2f48943ad975a47cdab47193c3bd0&abyssId=12100"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/bcb2f48943ad975a47cdab47193c3bd0",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/bcb2f48943ad975a47cdab47193c3bd0"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12100",
+        "abyssId": "12100",
+        "playXID": "bcb2f48943ad975a47cdab47193c3bd0",
+        "title": "BUCCHIGIRI?!",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "U7jfnVXm4z"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "v_jVm1mc3"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "FwKkErg7e"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "G2sfIGxwW"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "2JD0cuueE"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/7a6e61582571ac5087ad5129878e8207/master.m3u8?md5=bjsfm4PS7lb0Vujjx2sPhw&expires=1792167030",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/7a6e61582571ac5087ad5129878e8207/master.m3u8?md5=bjsfm4PS7lb0Vujjx2sPhw&expires=1792167030",
+            "videoSource": "https://ravok.buzz/cdn/hls/7a6e61582571ac5087ad5129878e8207/master.m3u8?md5=bjsfm4PS7lb0Vujjx2sPhw&expires=1792167030",
+            "videoImage": "https://as-cdn27.top/p/UzBhJzzfI_4E1JRm5msBrXeA5zePJ5Tes75O5jYr_wjCvi7CoK8MlS12MSuS64w_ECxbDj2eedNCivDdgw--lQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "bcb2f48943ad975a47cdab47193c3bd0",
+                "streamUrl": "https://ravok.buzz/cdn/hls/7a6e61582571ac5087ad5129878e8207/master.m3u8?md5=bjsfm4PS7lb0Vujjx2sPhw&expires=1792167030",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/7a6e61582571ac5087ad5129878e8207/master.m3u8?md5=bjsfm4PS7lb0Vujjx2sPhw&expires=1792167030",
+                "videoSource": "https://ravok.buzz/cdn/hls/7a6e61582571ac5087ad5129878e8207/master.m3u8?md5=bjsfm4PS7lb0Vujjx2sPhw&expires=1792167030",
+                "link": "https://ravok.buzz/cdn/hls/7a6e61582571ac5087ad5129878e8207/master.m3u8?md5=bjsfm4PS7lb0Vujjx2sPhw&expires=1792167030",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/UzBhJzzfI_4E1JRm5msBrXeA5zePJ5Tes75O5jYr_wjCvi7CoK8MlS12MSuS64w_ECxbDj2eedNCivDdgw--lQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "U7jfnVXm4z"
+        }
+      },
+      "fetched_at": "2026-10-16T14:10:40Z"
+    },
+    {
+      "id": "episode/private-bucchigiri-1x5",
+      "episode_id": "episode/private-bucchigiri-1x5",
+      "title": "Private: BUCCHIGIRI?! 1x1",
+      "episode_name": "Private: BUCCHIGIRI?! 1x1",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1186_s1e5.webp",
+      "abyssid": "12104",
+      "abyssId": "12104",
+      "playxid": "5847c1b5bad36912f13024fbe20d606e",
+      "playXID": "5847c1b5bad36912f13024fbe20d606e",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12104",
+        "playXID": "5847c1b5bad36912f13024fbe20d606e",
+        "streamId": "12104",
+        "dubPlayerSrc": "/dub-player/t/12104/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=5847c1b5bad36912f13024fbe20d606e&abyssId=12104"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12104",
+        "playXID": "5847c1b5bad36912f13024fbe20d606e",
+        "streamId": "12104",
+        "dubPlayerSrc": "/dub-player/t/12104/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=5847c1b5bad36912f13024fbe20d606e&abyssId=12104"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/5847c1b5bad36912f13024fbe20d606e",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/5847c1b5bad36912f13024fbe20d606e"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12104",
+        "abyssId": "12104",
+        "playXID": "5847c1b5bad36912f13024fbe20d606e",
+        "title": "BUCCHIGIRI?!",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "brT0Ze4nw"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "KcfoyIv9N"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "vvoP4pZVl"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "Or4c4v5_WH"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "V9Buay70i"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/9d2227960c97b895b31a9b0617475027/master.m3u8?md5=kmif71VjOVpcqib3ZTGaIg&expires=1792167030",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/9d2227960c97b895b31a9b0617475027/master.m3u8?md5=kmif71VjOVpcqib3ZTGaIg&expires=1792167030",
+            "videoSource": "https://ravok.buzz/cdn/hls/9d2227960c97b895b31a9b0617475027/master.m3u8?md5=kmif71VjOVpcqib3ZTGaIg&expires=1792167030",
+            "videoImage": "https://as-cdn30.top/p/jGuYMJP7bgf4849nN3GQpv17LNcQOo6d6anYdRH1Rr5NPOSPKlzd9GLQKZpoLzSotVUg4MHm4VLqAgMaXPE5nQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "5847c1b5bad36912f13024fbe20d606e",
+                "streamUrl": "https://ravok.buzz/cdn/hls/9d2227960c97b895b31a9b0617475027/master.m3u8?md5=kmif71VjOVpcqib3ZTGaIg&expires=1792167030",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/9d2227960c97b895b31a9b0617475027/master.m3u8?md5=kmif71VjOVpcqib3ZTGaIg&expires=1792167030",
+                "videoSource": "https://ravok.buzz/cdn/hls/9d2227960c97b895b31a9b0617475027/master.m3u8?md5=kmif71VjOVpcqib3ZTGaIg&expires=1792167030",
+                "link": "https://ravok.buzz/cdn/hls/9d2227960c97b895b31a9b0617475027/master.m3u8?md5=kmif71VjOVpcqib3ZTGaIg&expires=1792167030",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/jGuYMJP7bgf4849nN3GQpv17LNcQOo6d6anYdRH1Rr5NPOSPKlzd9GLQKZpoLzSotVUg4MHm4VLqAgMaXPE5nQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "brT0Ze4nw"
+        }
+      },
+      "fetched_at": "2026-10-16T14:10:40Z"
+    },
+    {
+      "id": "episode/private-bucchigiri-1x2",
+      "episode_id": "episode/private-bucchigiri-1x2",
+      "title": "Private: BUCCHIGIRI?! 1x1",
+      "episode_name": "Private: BUCCHIGIRI?! 1x1",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1186_s1e2.webp",
+      "abyssid": "12101",
+      "abyssId": "12101",
+      "playxid": "8b2af218c67338fe19c095227bd73969",
+      "playXID": "8b2af218c67338fe19c095227bd73969",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12101",
+        "playXID": "8b2af218c67338fe19c095227bd73969",
+        "streamId": "12101",
+        "dubPlayerSrc": "/dub-player/t/12101/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8b2af218c67338fe19c095227bd73969&abyssId=12101"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12101",
+        "playXID": "8b2af218c67338fe19c095227bd73969",
+        "streamId": "12101",
+        "dubPlayerSrc": "/dub-player/t/12101/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8b2af218c67338fe19c095227bd73969&abyssId=12101"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/8b2af218c67338fe19c095227bd73969",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/8b2af218c67338fe19c095227bd73969"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12101",
+        "abyssId": "12101",
+        "playXID": "8b2af218c67338fe19c095227bd73969",
+        "title": "BUCCHIGIRI?!",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "WANPsh9dr"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "SDPnW1uX7"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "TXcFCsK75"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "Nw1OqQkZj"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "3r83kng9o"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/979e6f0387e6edf0668adb39818708c3/master.m3u8?md5=lQlkjXWuH5l7XOhwyWqHMA&expires=1792167030",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/979e6f0387e6edf0668adb39818708c3/master.m3u8?md5=lQlkjXWuH5l7XOhwyWqHMA&expires=1792167030",
+            "videoSource": "https://ravok.buzz/cdn/hls/979e6f0387e6edf0668adb39818708c3/master.m3u8?md5=lQlkjXWuH5l7XOhwyWqHMA&expires=1792167030",
+            "videoImage": "https://as-cdn28.top/p/4kk5Ut-YCfpbJMR4DpkWz6JlcsBpu9yhRY63cGxiEjcJYTiAJwes141EUkGcTnf1bj43HxVG7lerR7UnK1yoew.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "8b2af218c67338fe19c095227bd73969",
+                "streamUrl": "https://ravok.buzz/cdn/hls/979e6f0387e6edf0668adb39818708c3/master.m3u8?md5=lQlkjXWuH5l7XOhwyWqHMA&expires=1792167030",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/979e6f0387e6edf0668adb39818708c3/master.m3u8?md5=lQlkjXWuH5l7XOhwyWqHMA&expires=1792167030",
+                "videoSource": "https://ravok.buzz/cdn/hls/979e6f0387e6edf0668adb39818708c3/master.m3u8?md5=lQlkjXWuH5l7XOhwyWqHMA&expires=1792167030",
+                "link": "https://ravok.buzz/cdn/hls/979e6f0387e6edf0668adb39818708c3/master.m3u8?md5=lQlkjXWuH5l7XOhwyWqHMA&expires=1792167030",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/4kk5Ut-YCfpbJMR4DpkWz6JlcsBpu9yhRY63cGxiEjcJYTiAJwes141EUkGcTnf1bj43HxVG7lerR7UnK1yoew.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "WANPsh9dr"
+        }
+      },
+      "fetched_at": "2026-10-16T14:10:40Z"
+    },
+    {
+      "id": "episode/private-bucchigiri-1x4",
+      "episode_id": "episode/private-bucchigiri-1x4",
+      "title": "Private: BUCCHIGIRI?! 1x1",
+      "episode_name": "Private: BUCCHIGIRI?! 1x1",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1186_s1e4.webp",
+      "abyssid": "12103",
+      "abyssId": "12103",
+      "playxid": "e3efff5eac2e06e30b5d2073b765876b",
+      "playXID": "e3efff5eac2e06e30b5d2073b765876b",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12103",
+        "playXID": "e3efff5eac2e06e30b5d2073b765876b",
+        "streamId": "12103",
+        "dubPlayerSrc": "/dub-player/t/12103/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e3efff5eac2e06e30b5d2073b765876b&abyssId=12103"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12103",
+        "playXID": "e3efff5eac2e06e30b5d2073b765876b",
+        "streamId": "12103",
+        "dubPlayerSrc": "/dub-player/t/12103/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e3efff5eac2e06e30b5d2073b765876b&abyssId=12103"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/e3efff5eac2e06e30b5d2073b765876b",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/e3efff5eac2e06e30b5d2073b765876b"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12103",
+        "abyssId": "12103",
+        "playXID": "e3efff5eac2e06e30b5d2073b765876b",
+        "title": "BUCCHIGIRI?!",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "AA9Kxzwov"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "XE9XQKpbg"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "IDKNIdF8la"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "T_PPAdc2J"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "Eb2Aj1iHq"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/10d729a2b0e2e4ac034bc5d801aa4171/master.m3u8?md5=j1ZJjZ-x6D2o48KWQ7BCKA&expires=1792167030",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/10d729a2b0e2e4ac034bc5d801aa4171/master.m3u8?md5=j1ZJjZ-x6D2o48KWQ7BCKA&expires=1792167030",
+            "videoSource": "https://ravok.buzz/cdn/hls/10d729a2b0e2e4ac034bc5d801aa4171/master.m3u8?md5=j1ZJjZ-x6D2o48KWQ7BCKA&expires=1792167030",
+            "videoImage": "https://as-cdn29.top/p/h3EiWVa6-33NRG7DRciOBX9dDmrVNptGYw-8RgPhX_Nt1243p0RjmsqZ9rLT1sMT_w40YEurW78F5n0swJzDtg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "e3efff5eac2e06e30b5d2073b765876b",
+                "streamUrl": "https://ravok.buzz/cdn/hls/10d729a2b0e2e4ac034bc5d801aa4171/master.m3u8?md5=j1ZJjZ-x6D2o48KWQ7BCKA&expires=1792167030",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/10d729a2b0e2e4ac034bc5d801aa4171/master.m3u8?md5=j1ZJjZ-x6D2o48KWQ7BCKA&expires=1792167030",
+                "videoSource": "https://ravok.buzz/cdn/hls/10d729a2b0e2e4ac034bc5d801aa4171/master.m3u8?md5=j1ZJjZ-x6D2o48KWQ7BCKA&expires=1792167030",
+                "link": "https://ravok.buzz/cdn/hls/10d729a2b0e2e4ac034bc5d801aa4171/master.m3u8?md5=j1ZJjZ-x6D2o48KWQ7BCKA&expires=1792167030",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/h3EiWVa6-33NRG7DRciOBX9dDmrVNptGYw-8RgPhX_Nt1243p0RjmsqZ9rLT1sMT_w40YEurW78F5n0swJzDtg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "AA9Kxzwov"
+        }
+      },
+      "fetched_at": "2026-10-16T14:10:40Z"
+    },
+    {
+      "id": "episode/private-bucchigiri-1x6",
+      "episode_id": "episode/private-bucchigiri-1x6",
+      "title": "Private: BUCCHIGIRI?! 1x1",
+      "episode_name": "Private: BUCCHIGIRI?! 1x1",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1186_s1e6.webp",
+      "abyssid": "12105",
+      "abyssId": "12105",
+      "playxid": "4427350b39dcbd8e8da4f053283e3984",
+      "playXID": "4427350b39dcbd8e8da4f053283e3984",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12105",
+        "playXID": "4427350b39dcbd8e8da4f053283e3984",
+        "streamId": "12105",
+        "dubPlayerSrc": "/dub-player/t/12105/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=4427350b39dcbd8e8da4f053283e3984&abyssId=12105"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12105",
+        "playXID": "4427350b39dcbd8e8da4f053283e3984",
+        "streamId": "12105",
+        "dubPlayerSrc": "/dub-player/t/12105/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=4427350b39dcbd8e8da4f053283e3984&abyssId=12105"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/4427350b39dcbd8e8da4f053283e3984",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/4427350b39dcbd8e8da4f053283e3984"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12105",
+        "abyssId": "12105",
+        "playXID": "4427350b39dcbd8e8da4f053283e3984",
+        "title": "BUCCHIGIRI?!",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "arVeXyazC"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "buct42OTO"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "bAGuHOunX"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "Jymd1RDGh"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "RUAbeDp23"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/7f54e5b4302510a34f9265c48214b474/master.m3u8?md5=vQy1rtPM6kg-5Y-RyPTRtw&expires=1792167032",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/7f54e5b4302510a34f9265c48214b474/master.m3u8?md5=vQy1rtPM6kg-5Y-RyPTRtw&expires=1792167032",
+            "videoSource": "https://ravok.buzz/cdn/hls/7f54e5b4302510a34f9265c48214b474/master.m3u8?md5=vQy1rtPM6kg-5Y-RyPTRtw&expires=1792167032",
+            "videoImage": "https://as-cdn28.top/p/1azuaJdT-2dlxKgr417i1onc8jhyFOAQTAwPhZfAD-mA9eXuIFSWox9z_WoCKri60wr6MgbvojqFD1Ic4MNcFA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "4427350b39dcbd8e8da4f053283e3984",
+                "streamUrl": "https://ravok.buzz/cdn/hls/7f54e5b4302510a34f9265c48214b474/master.m3u8?md5=vQy1rtPM6kg-5Y-RyPTRtw&expires=1792167032",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/7f54e5b4302510a34f9265c48214b474/master.m3u8?md5=vQy1rtPM6kg-5Y-RyPTRtw&expires=1792167032",
+                "videoSource": "https://ravok.buzz/cdn/hls/7f54e5b4302510a34f9265c48214b474/master.m3u8?md5=vQy1rtPM6kg-5Y-RyPTRtw&expires=1792167032",
+                "link": "https://ravok.buzz/cdn/hls/7f54e5b4302510a34f9265c48214b474/master.m3u8?md5=vQy1rtPM6kg-5Y-RyPTRtw&expires=1792167032",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/1azuaJdT-2dlxKgr417i1onc8jhyFOAQTAwPhZfAD-mA9eXuIFSWox9z_WoCKri60wr6MgbvojqFD1Ic4MNcFA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "arVeXyazC"
+        }
+      },
+      "fetched_at": "2026-10-16T14:10:42Z"
+    },
+    {
+      "id": "episode/private-bucchigiri-1x7",
+      "episode_id": "episode/private-bucchigiri-1x7",
+      "title": "Private: BUCCHIGIRI?! 1x1",
+      "episode_name": "Private: BUCCHIGIRI?! 1x1",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1186_s1e7.webp",
+      "abyssid": "12106",
+      "abyssId": "12106",
+      "playxid": "b85437cfc53b6de51098f159b0fb909d",
+      "playXID": "b85437cfc53b6de51098f159b0fb909d",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12106",
+        "playXID": "b85437cfc53b6de51098f159b0fb909d",
+        "streamId": "12106",
+        "dubPlayerSrc": "/dub-player/t/12106/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b85437cfc53b6de51098f159b0fb909d&abyssId=12106"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12106",
+        "playXID": "b85437cfc53b6de51098f159b0fb909d",
+        "streamId": "12106",
+        "dubPlayerSrc": "/dub-player/t/12106/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b85437cfc53b6de51098f159b0fb909d&abyssId=12106"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/b85437cfc53b6de51098f159b0fb909d",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/b85437cfc53b6de51098f159b0fb909d"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12106",
+        "abyssId": "12106",
+        "playXID": "b85437cfc53b6de51098f159b0fb909d",
+        "title": "BUCCHIGIRI?!",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "VcUYPVnHB"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "6Va-iQibI"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "1ZPCe_qsU"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "Z0eddVI1B"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "yXsWJdobj"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/5cc168a40aa5bb007a1dbd1d6f7a133b/master.m3u8?md5=3A9Rupvw0jdxJEUT7FUcgQ&expires=1792167032",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/5cc168a40aa5bb007a1dbd1d6f7a133b/master.m3u8?md5=3A9Rupvw0jdxJEUT7FUcgQ&expires=1792167032",
+            "videoSource": "https://ravok.buzz/cdn/hls/5cc168a40aa5bb007a1dbd1d6f7a133b/master.m3u8?md5=3A9Rupvw0jdxJEUT7FUcgQ&expires=1792167032",
+            "videoImage": "https://as-cdn29.top/p/2Byg_abALdFjVc_-KxaVfm3ss8UHtFnid1HQliqEHPq4k6HQ7r9MgopuXjzqrX8HP5FvSLWJKONG7V5wa2YqDw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "b85437cfc53b6de51098f159b0fb909d",
+                "streamUrl": "https://ravok.buzz/cdn/hls/5cc168a40aa5bb007a1dbd1d6f7a133b/master.m3u8?md5=3A9Rupvw0jdxJEUT7FUcgQ&expires=1792167032",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/5cc168a40aa5bb007a1dbd1d6f7a133b/master.m3u8?md5=3A9Rupvw0jdxJEUT7FUcgQ&expires=1792167032",
+                "videoSource": "https://ravok.buzz/cdn/hls/5cc168a40aa5bb007a1dbd1d6f7a133b/master.m3u8?md5=3A9Rupvw0jdxJEUT7FUcgQ&expires=1792167032",
+                "link": "https://ravok.buzz/cdn/hls/5cc168a40aa5bb007a1dbd1d6f7a133b/master.m3u8?md5=3A9Rupvw0jdxJEUT7FUcgQ&expires=1792167032",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/2Byg_abALdFjVc_-KxaVfm3ss8UHtFnid1HQliqEHPq4k6HQ7r9MgopuXjzqrX8HP5FvSLWJKONG7V5wa2YqDw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "VcUYPVnHB"
+        }
+      },
+      "fetched_at": "2026-10-16T14:10:42Z"
+    },
+    {
+      "id": "episode/private-bucchigiri-1x8",
+      "episode_id": "episode/private-bucchigiri-1x8",
+      "title": "Private: BUCCHIGIRI?! 1x1",
+      "episode_name": "Private: BUCCHIGIRI?! 1x1",
+      "episode_number": 8,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1186_s1e8.webp",
+      "abyssid": "12107",
+      "abyssId": "12107",
+      "playxid": "107387d5d48032f826cb8b095753b055",
+      "playXID": "107387d5d48032f826cb8b095753b055",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12107",
+        "playXID": "107387d5d48032f826cb8b095753b055",
+        "streamId": "12107",
+        "dubPlayerSrc": "/dub-player/t/12107/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=107387d5d48032f826cb8b095753b055&abyssId=12107"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12107",
+        "playXID": "107387d5d48032f826cb8b095753b055",
+        "streamId": "12107",
+        "dubPlayerSrc": "/dub-player/t/12107/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=107387d5d48032f826cb8b095753b055&abyssId=12107"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/107387d5d48032f826cb8b095753b055",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/107387d5d48032f826cb8b095753b055"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12107",
+        "abyssId": "12107",
+        "playXID": "107387d5d48032f826cb8b095753b055",
+        "title": "BUCCHIGIRI?!",
+        "season": 1,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "aBJy455RE"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "qdVj3AOGg"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "O_7wuq6Hiw"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "YNKcjmG2H"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "kh1nAaICo"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/a62c21ca6875b39c5fbc82b326772803/master.m3u8?md5=huAFLJOQnsiBcoaTHaG0vA&expires=1792167032",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/a62c21ca6875b39c5fbc82b326772803/master.m3u8?md5=huAFLJOQnsiBcoaTHaG0vA&expires=1792167032",
+            "videoSource": "https://ravok.buzz/cdn/hls/a62c21ca6875b39c5fbc82b326772803/master.m3u8?md5=huAFLJOQnsiBcoaTHaG0vA&expires=1792167032",
+            "videoImage": "https://as-cdn31.top/p/7M-FsXinEvp0N5R0Lt7dqMNY-JWjaVLtRM4IfFHP9VTIohmjGLrpxRfhtIf7G87uADDQzLHON-17tiyot-6hmA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "107387d5d48032f826cb8b095753b055",
+                "streamUrl": "https://ravok.buzz/cdn/hls/a62c21ca6875b39c5fbc82b326772803/master.m3u8?md5=huAFLJOQnsiBcoaTHaG0vA&expires=1792167032",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/a62c21ca6875b39c5fbc82b326772803/master.m3u8?md5=huAFLJOQnsiBcoaTHaG0vA&expires=1792167032",
+                "videoSource": "https://ravok.buzz/cdn/hls/a62c21ca6875b39c5fbc82b326772803/master.m3u8?md5=huAFLJOQnsiBcoaTHaG0vA&expires=1792167032",
+                "link": "https://ravok.buzz/cdn/hls/a62c21ca6875b39c5fbc82b326772803/master.m3u8?md5=huAFLJOQnsiBcoaTHaG0vA&expires=1792167032",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/7M-FsXinEvp0N5R0Lt7dqMNY-JWjaVLtRM4IfFHP9VTIohmjGLrpxRfhtIf7G87uADDQzLHON-17tiyot-6hmA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "aBJy455RE"
+        }
+      },
+      "fetched_at": "2026-10-16T14:10:42Z"
+    },
+    {
+      "id": "episode/private-bucchigiri-1x9",
+      "episode_id": "episode/private-bucchigiri-1x9",
+      "title": "Private: BUCCHIGIRI?! 1x1",
+      "episode_name": "Private: BUCCHIGIRI?! 1x1",
+      "episode_number": 9,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1186_s1e9.webp",
+      "abyssid": "12108",
+      "abyssId": "12108",
+      "playxid": "1aad6b93bca4217b9889a246c3cb7a30",
+      "playXID": "1aad6b93bca4217b9889a246c3cb7a30",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12108",
+        "playXID": "1aad6b93bca4217b9889a246c3cb7a30",
+        "streamId": "12108",
+        "dubPlayerSrc": "/dub-player/t/12108/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=1aad6b93bca4217b9889a246c3cb7a30&abyssId=12108"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12108",
+        "playXID": "1aad6b93bca4217b9889a246c3cb7a30",
+        "streamId": "12108",
+        "dubPlayerSrc": "/dub-player/t/12108/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=1aad6b93bca4217b9889a246c3cb7a30&abyssId=12108"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/1aad6b93bca4217b9889a246c3cb7a30",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/1aad6b93bca4217b9889a246c3cb7a30"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12108",
+        "abyssId": "12108",
+        "playXID": "1aad6b93bca4217b9889a246c3cb7a30",
+        "title": "BUCCHIGIRI?!",
+        "season": 1,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "_NSrexGaV"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "XGWh-qR0P"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "DPW1JV_u9"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "3nXlVZHKh"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "7TdKyfldSM"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/11594c7393d9be1f4c8a23c7532e357b/master.m3u8?md5=9_zW8M7dKrCjp06UvMcBUg&expires=1792167032",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/11594c7393d9be1f4c8a23c7532e357b/master.m3u8?md5=9_zW8M7dKrCjp06UvMcBUg&expires=1792167032",
+            "videoSource": "https://ravok.buzz/cdn/hls/11594c7393d9be1f4c8a23c7532e357b/master.m3u8?md5=9_zW8M7dKrCjp06UvMcBUg&expires=1792167032",
+            "videoImage": "https://as-cdn27.top/p/5GF5fHoqClP06Zii0BATwQlhqusrzTR1soQcxHZEZRaK3Jc_HBRtJvkJYkIQUd-xSPkVQoAWtKE8oXUqo9jFZw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "1aad6b93bca4217b9889a246c3cb7a30",
+                "streamUrl": "https://ravok.buzz/cdn/hls/11594c7393d9be1f4c8a23c7532e357b/master.m3u8?md5=9_zW8M7dKrCjp06UvMcBUg&expires=1792167032",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/11594c7393d9be1f4c8a23c7532e357b/master.m3u8?md5=9_zW8M7dKrCjp06UvMcBUg&expires=1792167032",
+                "videoSource": "https://ravok.buzz/cdn/hls/11594c7393d9be1f4c8a23c7532e357b/master.m3u8?md5=9_zW8M7dKrCjp06UvMcBUg&expires=1792167032",
+                "link": "https://ravok.buzz/cdn/hls/11594c7393d9be1f4c8a23c7532e357b/master.m3u8?md5=9_zW8M7dKrCjp06UvMcBUg&expires=1792167032",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/5GF5fHoqClP06Zii0BATwQlhqusrzTR1soQcxHZEZRaK3Jc_HBRtJvkJYkIQUd-xSPkVQoAWtKE8oXUqo9jFZw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "_NSrexGaV"
+        }
+      },
+      "fetched_at": "2026-10-16T14:10:42Z"
+    },
+    {
+      "id": "episode/private-bucchigiri-1x10",
+      "episode_id": "episode/private-bucchigiri-1x10",
+      "title": "Private: BUCCHIGIRI?! 1x1",
+      "episode_name": "Private: BUCCHIGIRI?! 1x1",
+      "episode_number": 10,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1186_s1e10.webp",
+      "abyssid": "12109",
+      "abyssId": "12109",
+      "playxid": "cbe68589759f566354b16b634b2ac6b8",
+      "playXID": "cbe68589759f566354b16b634b2ac6b8",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12109",
+        "playXID": "cbe68589759f566354b16b634b2ac6b8",
+        "streamId": "12109",
+        "dubPlayerSrc": "/dub-player/t/12109/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=cbe68589759f566354b16b634b2ac6b8&abyssId=12109"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12109",
+        "playXID": "cbe68589759f566354b16b634b2ac6b8",
+        "streamId": "12109",
+        "dubPlayerSrc": "/dub-player/t/12109/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=cbe68589759f566354b16b634b2ac6b8&abyssId=12109"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/cbe68589759f566354b16b634b2ac6b8",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/cbe68589759f566354b16b634b2ac6b8"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12109",
+        "abyssId": "12109",
+        "playXID": "cbe68589759f566354b16b634b2ac6b8",
+        "title": "BUCCHIGIRI?!",
+        "season": 1,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "P6QUxIMUB"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "uuSncA_4d"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "CVWGOGsYX"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "1mZ0VeIuN"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "IRBys5BRw"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/8dcf6eba3a3907d9c19792eda63e1aba/master.m3u8?md5=500XjiznNrXKZp5_7v5dMA&expires=1792167032",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/8dcf6eba3a3907d9c19792eda63e1aba/master.m3u8?md5=500XjiznNrXKZp5_7v5dMA&expires=1792167032",
+            "videoSource": "https://ravok.buzz/cdn/hls/8dcf6eba3a3907d9c19792eda63e1aba/master.m3u8?md5=500XjiznNrXKZp5_7v5dMA&expires=1792167032",
+            "videoImage": "https://as-cdn31.top/p/isOs5zvAZjuAm2RLrjWbpCk4tRenseqTFvAd1VM1ZR8dgTpUEfQrV4rXCrBQ1rVtmjO8W6SMR0nZpIxfZCf2Bw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "cbe68589759f566354b16b634b2ac6b8",
+                "streamUrl": "https://ravok.buzz/cdn/hls/8dcf6eba3a3907d9c19792eda63e1aba/master.m3u8?md5=500XjiznNrXKZp5_7v5dMA&expires=1792167032",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/8dcf6eba3a3907d9c19792eda63e1aba/master.m3u8?md5=500XjiznNrXKZp5_7v5dMA&expires=1792167032",
+                "videoSource": "https://ravok.buzz/cdn/hls/8dcf6eba3a3907d9c19792eda63e1aba/master.m3u8?md5=500XjiznNrXKZp5_7v5dMA&expires=1792167032",
+                "link": "https://ravok.buzz/cdn/hls/8dcf6eba3a3907d9c19792eda63e1aba/master.m3u8?md5=500XjiznNrXKZp5_7v5dMA&expires=1792167032",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/isOs5zvAZjuAm2RLrjWbpCk4tRenseqTFvAd1VM1ZR8dgTpUEfQrV4rXCrBQ1rVtmjO8W6SMR0nZpIxfZCf2Bw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "P6QUxIMUB"
+        }
+      },
+      "fetched_at": "2026-10-16T14:10:42Z"
+    },
+    {
+      "id": "episode/private-bucchigiri-1x12",
+      "episode_id": "episode/private-bucchigiri-1x12",
+      "title": "Private: BUCCHIGIRI?! 1x1",
+      "episode_name": "Private: BUCCHIGIRI?! 1x1",
+      "episode_number": 12,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1186_s1e12.webp",
+      "abyssid": "12111",
+      "abyssId": "12111",
+      "playxid": "680cdf3f4fbe1106a6b5a135d8a7c9fb",
+      "playXID": "680cdf3f4fbe1106a6b5a135d8a7c9fb",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12111",
+        "playXID": "680cdf3f4fbe1106a6b5a135d8a7c9fb",
+        "streamId": "12111",
+        "dubPlayerSrc": "/dub-player/t/12111/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=680cdf3f4fbe1106a6b5a135d8a7c9fb&abyssId=12111"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12111",
+        "playXID": "680cdf3f4fbe1106a6b5a135d8a7c9fb",
+        "streamId": "12111",
+        "dubPlayerSrc": "/dub-player/t/12111/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=680cdf3f4fbe1106a6b5a135d8a7c9fb&abyssId=12111"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/680cdf3f4fbe1106a6b5a135d8a7c9fb",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/680cdf3f4fbe1106a6b5a135d8a7c9fb"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12111",
+        "abyssId": "12111",
+        "playXID": "680cdf3f4fbe1106a6b5a135d8a7c9fb",
+        "title": "BUCCHIGIRI?!",
+        "season": 1,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "SlkfnvTWk"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "J7_B8GgUi"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "RrAcC_HPj"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "S6u0Xeb4U"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "0aPyEBvzu"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/1e79e36e25cbc3587dbd7981d284c4c5/master.m3u8?md5=yK4lmmKCMGwRIFJg8JPb1A&expires=1792167033",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/1e79e36e25cbc3587dbd7981d284c4c5/master.m3u8?md5=yK4lmmKCMGwRIFJg8JPb1A&expires=1792167033",
+            "videoSource": "https://ravok.buzz/cdn/hls/1e79e36e25cbc3587dbd7981d284c4c5/master.m3u8?md5=yK4lmmKCMGwRIFJg8JPb1A&expires=1792167033",
+            "videoImage": "https://as-cdn27.top/p/6xn7pAT_vcXNQ7HRhiCADcxuB6kZv_DvHOmxLiilGlP3mp2_42b56aHovmkyACbHIf2cP_W-A8qk9VUn-eLoHg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "680cdf3f4fbe1106a6b5a135d8a7c9fb",
+                "streamUrl": "https://ravok.buzz/cdn/hls/1e79e36e25cbc3587dbd7981d284c4c5/master.m3u8?md5=yK4lmmKCMGwRIFJg8JPb1A&expires=1792167033",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/1e79e36e25cbc3587dbd7981d284c4c5/master.m3u8?md5=yK4lmmKCMGwRIFJg8JPb1A&expires=1792167033",
+                "videoSource": "https://ravok.buzz/cdn/hls/1e79e36e25cbc3587dbd7981d284c4c5/master.m3u8?md5=yK4lmmKCMGwRIFJg8JPb1A&expires=1792167033",
+                "link": "https://ravok.buzz/cdn/hls/1e79e36e25cbc3587dbd7981d284c4c5/master.m3u8?md5=yK4lmmKCMGwRIFJg8JPb1A&expires=1792167033",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/6xn7pAT_vcXNQ7HRhiCADcxuB6kZv_DvHOmxLiilGlP3mp2_42b56aHovmkyACbHIf2cP_W-A8qk9VUn-eLoHg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "SlkfnvTWk"
+        }
+      },
+      "fetched_at": "2026-10-16T14:10:43Z"
+    },
+    {
+      "id": "episode/private-bucchigiri-1x11",
+      "episode_id": "episode/private-bucchigiri-1x11",
+      "title": "Private: BUCCHIGIRI?! 1x1",
+      "episode_name": "Private: BUCCHIGIRI?! 1x1",
+      "episode_number": 11,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1186_s1e11.webp",
+      "abyssid": "12110",
+      "abyssId": "12110",
+      "playxid": "ee364229b2791d1ef9355708eff0ba34",
+      "playXID": "ee364229b2791d1ef9355708eff0ba34",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12110",
+        "playXID": "ee364229b2791d1ef9355708eff0ba34",
+        "streamId": "12110",
+        "dubPlayerSrc": "/dub-player/t/12110/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ee364229b2791d1ef9355708eff0ba34&abyssId=12110"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12110",
+        "playXID": "ee364229b2791d1ef9355708eff0ba34",
+        "streamId": "12110",
+        "dubPlayerSrc": "/dub-player/t/12110/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ee364229b2791d1ef9355708eff0ba34&abyssId=12110"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/ee364229b2791d1ef9355708eff0ba34",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/ee364229b2791d1ef9355708eff0ba34"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12110",
+        "abyssId": "12110",
+        "playXID": "ee364229b2791d1ef9355708eff0ba34",
+        "title": "BUCCHIGIRI?!",
+        "season": 1,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "DFLrvcBLs"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "ALZpBKhdn"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "Kdu18GqRK"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "K7IrHBHyN"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "q8Pzn9HLlN"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/9840f96e8487bf4dfd5ea71053b73bf3/master.m3u8?md5=LXavegdCmLyLq-PHnvodPQ&expires=1792167033",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/9840f96e8487bf4dfd5ea71053b73bf3/master.m3u8?md5=LXavegdCmLyLq-PHnvodPQ&expires=1792167033",
+            "videoSource": "https://ravok.buzz/cdn/hls/9840f96e8487bf4dfd5ea71053b73bf3/master.m3u8?md5=LXavegdCmLyLq-PHnvodPQ&expires=1792167033",
+            "videoImage": "https://as-cdn28.top/p/YgE1Dxl0ob_GHCF_ufVHwH8yfcRpIHCVrX0h5sTf_w5LggzNMEKEIajeVmQqhzWmFubpTZdGgIytdu_m1hIQdQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "ee364229b2791d1ef9355708eff0ba34",
+                "streamUrl": "https://ravok.buzz/cdn/hls/9840f96e8487bf4dfd5ea71053b73bf3/master.m3u8?md5=LXavegdCmLyLq-PHnvodPQ&expires=1792167033",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/9840f96e8487bf4dfd5ea71053b73bf3/master.m3u8?md5=LXavegdCmLyLq-PHnvodPQ&expires=1792167033",
+                "videoSource": "https://ravok.buzz/cdn/hls/9840f96e8487bf4dfd5ea71053b73bf3/master.m3u8?md5=LXavegdCmLyLq-PHnvodPQ&expires=1792167033",
+                "link": "https://ravok.buzz/cdn/hls/9840f96e8487bf4dfd5ea71053b73bf3/master.m3u8?md5=LXavegdCmLyLq-PHnvodPQ&expires=1792167033",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/YgE1Dxl0ob_GHCF_ufVHwH8yfcRpIHCVrX0h5sTf_w5LggzNMEKEIajeVmQqhzWmFubpTZdGgIytdu_m1hIQdQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "DFLrvcBLs"
+        }
+      },
+      "fetched_at": "2026-10-16T14:10:43Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T14:10:38Z",
+  "updated_at": "2026-10-16T14:10:43Z"
+}

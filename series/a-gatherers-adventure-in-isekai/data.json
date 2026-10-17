@@ -1,0 +1,848 @@
+{
+  "id": "series/a-gatherers-adventure-in-isekai",
+  "series_name": "A Gatherer's Adventure in Isekai",
+  "title": "A Gatherer's Adventure in Isekai",
+  "banner": "https://image.tmdb.org/t/p/w1280/nir97l3eUIHeHUQjWhV3NffjIK3.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/AtpIf9wnT6IaHoG31XsdqZEEf80.jpg",
+  "genra": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Fantasy",
+    "Sci-Fi",
+    "Slice of Life"
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Fantasy",
+    "Sci-Fi",
+    "Slice of Life"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Japanese"
+  ],
+  "synopsis": "Kamishiro Takeru is a completely ordinary salaryman who reincarnates in another world—a world of swords and magic called Madeus—and starts his new isekai life with lots of new skills! Takeru must make the most of his enhanced physical strength, unbelievable magic power, and the \"Search\" ability that allows him to find items of worth as his great isekai journey begins!",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 7,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 7,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "A Gatherer's Adventure in Isekai 1x1",
+          "id": "episode/a-gatherers-adventure-in-isekai-1x1",
+          "image": "https://img.watchanimeworld.one/img/thumb_2185_s1e1.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "A Gatherer's Adventure in Isekai 1x2",
+          "id": "episode/a-gatherers-adventure-in-isekai-1x2",
+          "image": "https://img.watchanimeworld.one/img/thumb_2185_s1e2.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "A Gatherer's Adventure in Isekai 1x3",
+          "id": "episode/a-gatherers-adventure-in-isekai-1x3",
+          "image": "https://img.watchanimeworld.one/img/thumb_2185_s1e3.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "A Gatherer's Adventure in Isekai 1x4",
+          "id": "episode/a-gatherers-adventure-in-isekai-1x4",
+          "image": "https://img.watchanimeworld.one/img/thumb_2185_s1e4.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "A Gatherer's Adventure in Isekai 1x5",
+          "id": "episode/a-gatherers-adventure-in-isekai-1x5",
+          "image": "https://img.watchanimeworld.one/img/thumb_2185_s1e5.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "A Gatherer's Adventure in Isekai 1x6",
+          "id": "episode/a-gatherers-adventure-in-isekai-1x6",
+          "image": "https://img.watchanimeworld.one/img/thumb_2185_s1e6.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "A Gatherer's Adventure in Isekai 1x7",
+          "id": "episode/a-gatherers-adventure-in-isekai-1x7",
+          "image": "https://img.watchanimeworld.one/img/thumb_2185_s1e7.webp",
+          "season": 1
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/a-gatherers-adventure-in-isekai-1x1",
+      "episode_id": "episode/a-gatherers-adventure-in-isekai-1x1",
+      "title": "A Gatherer's Adventure in Isekai 1x1",
+      "episode_name": "A Gatherer's Adventure in Isekai 1x1",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2185_s1e1.webp",
+      "abyssid": "17571",
+      "abyssId": "17571",
+      "playxid": "0d10f1d273a62c6d7af57c6093632919",
+      "playXID": "0d10f1d273a62c6d7af57c6093632919",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17571",
+        "playXID": "0d10f1d273a62c6d7af57c6093632919",
+        "streamId": "17571",
+        "dubPlayerSrc": "/dub-player/t/17571/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=0d10f1d273a62c6d7af57c6093632919&abyssId=17571"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17571",
+        "playXID": "0d10f1d273a62c6d7af57c6093632919",
+        "streamId": "17571",
+        "dubPlayerSrc": "/dub-player/t/17571/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=0d10f1d273a62c6d7af57c6093632919&abyssId=17571"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/0d10f1d273a62c6d7af57c6093632919",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/0d10f1d273a62c6d7af57c6093632919"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17571",
+        "abyssId": "17571",
+        "playXID": "0d10f1d273a62c6d7af57c6093632919",
+        "title": "A Gatherer's Adventure in Isekai",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "k6Y7HhJKe"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "Q7NUh7WVt"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "nwZLxrs5dM"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "Fom3z9DCY"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "lpX2JCC2h"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/3cc58a9b0239ab56513677cbd17942f2/master.m3u8?md5=yRBsPA8LnHj_NQCzlvDXdA&expires=1792166069",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/3cc58a9b0239ab56513677cbd17942f2/master.m3u8?md5=yRBsPA8LnHj_NQCzlvDXdA&expires=1792166069",
+            "videoSource": "https://ravok.buzz/cdn/hls/3cc58a9b0239ab56513677cbd17942f2/master.m3u8?md5=yRBsPA8LnHj_NQCzlvDXdA&expires=1792166069",
+            "videoImage": "https://as-cdn28.top/p/ZCzwHcS3of_jJaiSqgEHW48qJ36tI6TFdW02aCprzqyA_QU2B_i5mIqljEhRcC53hb5Y1x06qQVmv2bVvIwmfg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "0d10f1d273a62c6d7af57c6093632919",
+                "streamUrl": "https://ravok.buzz/cdn/hls/3cc58a9b0239ab56513677cbd17942f2/master.m3u8?md5=yRBsPA8LnHj_NQCzlvDXdA&expires=1792166069",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/3cc58a9b0239ab56513677cbd17942f2/master.m3u8?md5=yRBsPA8LnHj_NQCzlvDXdA&expires=1792166069",
+                "videoSource": "https://ravok.buzz/cdn/hls/3cc58a9b0239ab56513677cbd17942f2/master.m3u8?md5=yRBsPA8LnHj_NQCzlvDXdA&expires=1792166069",
+                "link": "https://ravok.buzz/cdn/hls/3cc58a9b0239ab56513677cbd17942f2/master.m3u8?md5=yRBsPA8LnHj_NQCzlvDXdA&expires=1792166069",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/ZCzwHcS3of_jJaiSqgEHW48qJ36tI6TFdW02aCprzqyA_QU2B_i5mIqljEhRcC53hb5Y1x06qQVmv2bVvIwmfg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "k6Y7HhJKe"
+        }
+      },
+      "fetched_at": "2026-10-16T13:54:39Z"
+    },
+    {
+      "id": "episode/a-gatherers-adventure-in-isekai-1x2",
+      "episode_id": "episode/a-gatherers-adventure-in-isekai-1x2",
+      "title": "A Gatherer's Adventure in Isekai 1x1",
+      "episode_name": "A Gatherer's Adventure in Isekai 1x1",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2185_s1e2.webp",
+      "abyssid": "17649",
+      "abyssId": "17649",
+      "playxid": "c7e2ac420af977df8c6ccc95ac8dc911",
+      "playXID": "c7e2ac420af977df8c6ccc95ac8dc911",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17649",
+        "playXID": "c7e2ac420af977df8c6ccc95ac8dc911",
+        "streamId": "17649",
+        "dubPlayerSrc": "/dub-player/t/17649/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c7e2ac420af977df8c6ccc95ac8dc911&abyssId=17649"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17649",
+        "playXID": "c7e2ac420af977df8c6ccc95ac8dc911",
+        "streamId": "17649",
+        "dubPlayerSrc": "/dub-player/t/17649/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c7e2ac420af977df8c6ccc95ac8dc911&abyssId=17649"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/c7e2ac420af977df8c6ccc95ac8dc911",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/c7e2ac420af977df8c6ccc95ac8dc911"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17649",
+        "abyssId": "17649",
+        "playXID": "c7e2ac420af977df8c6ccc95ac8dc911",
+        "title": "A Gatherer's Adventure in Isekai",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "VvthbJnF2"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "N7uASutBL"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "_UdND5BvEs"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "2OfA0NVKD"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "e5n-5GP78"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/d36992c3f91e5f204abd9051fb62a43e/master.m3u8?md5=BbJOXj6PnmwhMNIGG-xdnA&expires=1792166069",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/d36992c3f91e5f204abd9051fb62a43e/master.m3u8?md5=BbJOXj6PnmwhMNIGG-xdnA&expires=1792166069",
+            "videoSource": "https://ravok.buzz/cdn/hls/d36992c3f91e5f204abd9051fb62a43e/master.m3u8?md5=BbJOXj6PnmwhMNIGG-xdnA&expires=1792166069",
+            "videoImage": "https://as-cdn28.top/p/LXWFykW82jOGRCfQWRW3CObjVipUarH-QPXJGqxY-IGhhNYSiGfjTG4sMdTCM78oX8EV0u3zr88qTfAApi89TA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "c7e2ac420af977df8c6ccc95ac8dc911",
+                "streamUrl": "https://ravok.buzz/cdn/hls/d36992c3f91e5f204abd9051fb62a43e/master.m3u8?md5=BbJOXj6PnmwhMNIGG-xdnA&expires=1792166069",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/d36992c3f91e5f204abd9051fb62a43e/master.m3u8?md5=BbJOXj6PnmwhMNIGG-xdnA&expires=1792166069",
+                "videoSource": "https://ravok.buzz/cdn/hls/d36992c3f91e5f204abd9051fb62a43e/master.m3u8?md5=BbJOXj6PnmwhMNIGG-xdnA&expires=1792166069",
+                "link": "https://ravok.buzz/cdn/hls/d36992c3f91e5f204abd9051fb62a43e/master.m3u8?md5=BbJOXj6PnmwhMNIGG-xdnA&expires=1792166069",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/LXWFykW82jOGRCfQWRW3CObjVipUarH-QPXJGqxY-IGhhNYSiGfjTG4sMdTCM78oX8EV0u3zr88qTfAApi89TA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "VvthbJnF2"
+        }
+      },
+      "fetched_at": "2026-10-16T13:54:39Z"
+    },
+    {
+      "id": "episode/a-gatherers-adventure-in-isekai-1x3",
+      "episode_id": "episode/a-gatherers-adventure-in-isekai-1x3",
+      "title": "A Gatherer's Adventure in Isekai 1x1",
+      "episode_name": "A Gatherer's Adventure in Isekai 1x1",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2185_s1e3.webp",
+      "abyssid": "17687",
+      "abyssId": "17687",
+      "playxid": "ac65fa3ab83a6deeaa332196ad0ebabb",
+      "playXID": "ac65fa3ab83a6deeaa332196ad0ebabb",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17687",
+        "playXID": "ac65fa3ab83a6deeaa332196ad0ebabb",
+        "streamId": "17687",
+        "dubPlayerSrc": "/dub-player/t/17687/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ac65fa3ab83a6deeaa332196ad0ebabb&abyssId=17687"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17687",
+        "playXID": "ac65fa3ab83a6deeaa332196ad0ebabb",
+        "streamId": "17687",
+        "dubPlayerSrc": "/dub-player/t/17687/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ac65fa3ab83a6deeaa332196ad0ebabb&abyssId=17687"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/ac65fa3ab83a6deeaa332196ad0ebabb",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/ac65fa3ab83a6deeaa332196ad0ebabb"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17687",
+        "abyssId": "17687",
+        "playXID": "ac65fa3ab83a6deeaa332196ad0ebabb",
+        "title": "A Gatherer's Adventure in Isekai",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "OoQqJSP9z"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "mbaX_L1-M"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "BRd-_NvGy"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "tStNmkBd9"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "qg3XUcClc"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/307a1084a8b9a64cfc72847f3586c624/master.m3u8?md5=rignSnQRaSLvY-wFzVCeKA&expires=1792166069",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/307a1084a8b9a64cfc72847f3586c624/master.m3u8?md5=rignSnQRaSLvY-wFzVCeKA&expires=1792166069",
+            "videoSource": "https://ravok.buzz/cdn/hls/307a1084a8b9a64cfc72847f3586c624/master.m3u8?md5=rignSnQRaSLvY-wFzVCeKA&expires=1792166069",
+            "videoImage": "https://as-cdn27.top/p/7Y36BUsADP_QpGdDroYLtodRJ43auNFY5NZ9fp8sz4owjHlpDFIrbwBYgYnVYa5lkeoEom-xRIZjguTpz9PKWA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "ac65fa3ab83a6deeaa332196ad0ebabb",
+                "streamUrl": "https://ravok.buzz/cdn/hls/307a1084a8b9a64cfc72847f3586c624/master.m3u8?md5=rignSnQRaSLvY-wFzVCeKA&expires=1792166069",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/307a1084a8b9a64cfc72847f3586c624/master.m3u8?md5=rignSnQRaSLvY-wFzVCeKA&expires=1792166069",
+                "videoSource": "https://ravok.buzz/cdn/hls/307a1084a8b9a64cfc72847f3586c624/master.m3u8?md5=rignSnQRaSLvY-wFzVCeKA&expires=1792166069",
+                "link": "https://ravok.buzz/cdn/hls/307a1084a8b9a64cfc72847f3586c624/master.m3u8?md5=rignSnQRaSLvY-wFzVCeKA&expires=1792166069",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/7Y36BUsADP_QpGdDroYLtodRJ43auNFY5NZ9fp8sz4owjHlpDFIrbwBYgYnVYa5lkeoEom-xRIZjguTpz9PKWA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "OoQqJSP9z"
+        }
+      },
+      "fetched_at": "2026-10-16T13:54:39Z"
+    },
+    {
+      "id": "episode/a-gatherers-adventure-in-isekai-1x4",
+      "episode_id": "episode/a-gatherers-adventure-in-isekai-1x4",
+      "title": "A Gatherer's Adventure in Isekai 1x1",
+      "episode_name": "A Gatherer's Adventure in Isekai 1x1",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2185_s1e4.webp",
+      "abyssid": "17766",
+      "abyssId": "17766",
+      "playxid": "2255538166d2e6f3c6097c2c4df4e0be",
+      "playXID": "2255538166d2e6f3c6097c2c4df4e0be",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17766",
+        "playXID": "2255538166d2e6f3c6097c2c4df4e0be",
+        "streamId": "17766",
+        "dubPlayerSrc": "/dub-player/t/17766/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2255538166d2e6f3c6097c2c4df4e0be&abyssId=17766"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17766",
+        "playXID": "2255538166d2e6f3c6097c2c4df4e0be",
+        "streamId": "17766",
+        "dubPlayerSrc": "/dub-player/t/17766/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2255538166d2e6f3c6097c2c4df4e0be&abyssId=17766"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/2255538166d2e6f3c6097c2c4df4e0be",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/2255538166d2e6f3c6097c2c4df4e0be"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17766",
+        "abyssId": "17766",
+        "playXID": "2255538166d2e6f3c6097c2c4df4e0be",
+        "title": "A Gatherer's Adventure in Isekai",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "Hl34Mdtpe"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "ukjkRIm-9M"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "vYhnrngdW"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/d44805c22ce249c6791a94be22108141/master.m3u8?md5=3Pm5gLIPryQdwv3puUyG0A&expires=1792166069",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/d44805c22ce249c6791a94be22108141/master.m3u8?md5=3Pm5gLIPryQdwv3puUyG0A&expires=1792166069",
+            "videoSource": "https://ravok.buzz/cdn/hls/d44805c22ce249c6791a94be22108141/master.m3u8?md5=3Pm5gLIPryQdwv3puUyG0A&expires=1792166069",
+            "videoImage": "https://as-cdn31.top/p/fuaBs4WgD6sKHA5BWsBZbFZvsPmDcr-sfAsr6yfwZiOfpxdFYjSIO06tF_ufyGzQMZwiqvhZIgC8zWH4LroMvg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "2255538166d2e6f3c6097c2c4df4e0be",
+                "streamUrl": "https://ravok.buzz/cdn/hls/d44805c22ce249c6791a94be22108141/master.m3u8?md5=3Pm5gLIPryQdwv3puUyG0A&expires=1792166069",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/d44805c22ce249c6791a94be22108141/master.m3u8?md5=3Pm5gLIPryQdwv3puUyG0A&expires=1792166069",
+                "videoSource": "https://ravok.buzz/cdn/hls/d44805c22ce249c6791a94be22108141/master.m3u8?md5=3Pm5gLIPryQdwv3puUyG0A&expires=1792166069",
+                "link": "https://ravok.buzz/cdn/hls/d44805c22ce249c6791a94be22108141/master.m3u8?md5=3Pm5gLIPryQdwv3puUyG0A&expires=1792166069",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/fuaBs4WgD6sKHA5BWsBZbFZvsPmDcr-sfAsr6yfwZiOfpxdFYjSIO06tF_ufyGzQMZwiqvhZIgC8zWH4LroMvg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "Hl34Mdtpe"
+        }
+      },
+      "fetched_at": "2026-10-16T13:54:39Z"
+    },
+    {
+      "id": "episode/a-gatherers-adventure-in-isekai-1x5",
+      "episode_id": "episode/a-gatherers-adventure-in-isekai-1x5",
+      "title": "A Gatherer's Adventure in Isekai 1x1",
+      "episode_name": "A Gatherer's Adventure in Isekai 1x1",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2185_s1e5.webp",
+      "abyssid": "17802",
+      "abyssId": "17802",
+      "playxid": "e31402e75dbca3776b0b8f20e6868d94",
+      "playXID": "e31402e75dbca3776b0b8f20e6868d94",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17802",
+        "playXID": "e31402e75dbca3776b0b8f20e6868d94",
+        "streamId": "17802",
+        "dubPlayerSrc": "/dub-player/t/17802/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e31402e75dbca3776b0b8f20e6868d94&abyssId=17802"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17802",
+        "playXID": "e31402e75dbca3776b0b8f20e6868d94",
+        "streamId": "17802",
+        "dubPlayerSrc": "/dub-player/t/17802/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e31402e75dbca3776b0b8f20e6868d94&abyssId=17802"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/e31402e75dbca3776b0b8f20e6868d94",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/e31402e75dbca3776b0b8f20e6868d94"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17802",
+        "abyssId": "17802",
+        "playXID": "e31402e75dbca3776b0b8f20e6868d94",
+        "title": "A Gatherer's Adventure in Isekai",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "abL_Ducf_"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "UC-WCFURf"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "-T-PnYrrc"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/a684af7f238d45465f60dd953715aeaa/master.m3u8?md5=zQ4UkyWskXLKu5LYQ9oecQ&expires=1792166070",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/a684af7f238d45465f60dd953715aeaa/master.m3u8?md5=zQ4UkyWskXLKu5LYQ9oecQ&expires=1792166070",
+            "videoSource": "https://ravok.buzz/cdn/hls/a684af7f238d45465f60dd953715aeaa/master.m3u8?md5=zQ4UkyWskXLKu5LYQ9oecQ&expires=1792166070",
+            "videoImage": "https://as-cdn30.top/p/nDmv3lKCFk9WeKjoDzKgI5O6kYT2NE-hwS_CzBqMMvDyQjoAaDjrGVJmz1otWyGygBiI5MZRGZWghZcm2ymb4A.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "e31402e75dbca3776b0b8f20e6868d94",
+                "streamUrl": "https://ravok.buzz/cdn/hls/a684af7f238d45465f60dd953715aeaa/master.m3u8?md5=zQ4UkyWskXLKu5LYQ9oecQ&expires=1792166070",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/a684af7f238d45465f60dd953715aeaa/master.m3u8?md5=zQ4UkyWskXLKu5LYQ9oecQ&expires=1792166070",
+                "videoSource": "https://ravok.buzz/cdn/hls/a684af7f238d45465f60dd953715aeaa/master.m3u8?md5=zQ4UkyWskXLKu5LYQ9oecQ&expires=1792166070",
+                "link": "https://ravok.buzz/cdn/hls/a684af7f238d45465f60dd953715aeaa/master.m3u8?md5=zQ4UkyWskXLKu5LYQ9oecQ&expires=1792166070",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/nDmv3lKCFk9WeKjoDzKgI5O6kYT2NE-hwS_CzBqMMvDyQjoAaDjrGVJmz1otWyGygBiI5MZRGZWghZcm2ymb4A.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "abL_Ducf_"
+        }
+      },
+      "fetched_at": "2026-10-16T13:54:40Z"
+    },
+    {
+      "id": "episode/a-gatherers-adventure-in-isekai-1x6",
+      "episode_id": "episode/a-gatherers-adventure-in-isekai-1x6",
+      "title": "A Gatherer's Adventure in Isekai 1x1",
+      "episode_name": "A Gatherer's Adventure in Isekai 1x1",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2185_s1e6.webp",
+      "abyssid": "17819",
+      "abyssId": "17819",
+      "playxid": "f3717533a90a8ecb1de730050beab052",
+      "playXID": "f3717533a90a8ecb1de730050beab052",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17819",
+        "playXID": "f3717533a90a8ecb1de730050beab052",
+        "streamId": "17819",
+        "dubPlayerSrc": "/dub-player/t/17819/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f3717533a90a8ecb1de730050beab052&abyssId=17819"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17819",
+        "playXID": "f3717533a90a8ecb1de730050beab052",
+        "streamId": "17819",
+        "dubPlayerSrc": "/dub-player/t/17819/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f3717533a90a8ecb1de730050beab052&abyssId=17819"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/33c14ab38a8923e563e17b79e41693ba",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/33c14ab38a8923e563e17b79e41693ba"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17819",
+        "abyssId": "17819",
+        "playXID": "f3717533a90a8ecb1de730050beab052",
+        "title": "A Gatherer's Adventure in Isekai",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "DC9Y1oQ_1"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "69lO-Sl6R"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "pmmgdRTUX"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/f4ded1f5e5be6fef4e6ead9da9f9d4d8/master.m3u8?md5=aeJsgkFF5EZLAzLsfJgp8Q&expires=1792166071",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/f4ded1f5e5be6fef4e6ead9da9f9d4d8/master.m3u8?md5=aeJsgkFF5EZLAzLsfJgp8Q&expires=1792166071",
+            "videoSource": "https://ravok.buzz/cdn/hls/f4ded1f5e5be6fef4e6ead9da9f9d4d8/master.m3u8?md5=aeJsgkFF5EZLAzLsfJgp8Q&expires=1792166071",
+            "videoImage": "https://as-cdn30.top/p/KNpuKZ9E1c65CHwO6DiXylsi7eMEpZrHNnOk8AfOyDyLJX2zwkVDaHJ78T80RoMLMx-fzg2yVQza_NN0WyvmlA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "f3717533a90a8ecb1de730050beab052",
+                "streamUrl": "https://ravok.buzz/cdn/hls/f4ded1f5e5be6fef4e6ead9da9f9d4d8/master.m3u8?md5=aeJsgkFF5EZLAzLsfJgp8Q&expires=1792166071",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/f4ded1f5e5be6fef4e6ead9da9f9d4d8/master.m3u8?md5=aeJsgkFF5EZLAzLsfJgp8Q&expires=1792166071",
+                "videoSource": "https://ravok.buzz/cdn/hls/f4ded1f5e5be6fef4e6ead9da9f9d4d8/master.m3u8?md5=aeJsgkFF5EZLAzLsfJgp8Q&expires=1792166071",
+                "link": "https://ravok.buzz/cdn/hls/f4ded1f5e5be6fef4e6ead9da9f9d4d8/master.m3u8?md5=aeJsgkFF5EZLAzLsfJgp8Q&expires=1792166071",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/KNpuKZ9E1c65CHwO6DiXylsi7eMEpZrHNnOk8AfOyDyLJX2zwkVDaHJ78T80RoMLMx-fzg2yVQza_NN0WyvmlA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "DC9Y1oQ_1"
+        }
+      },
+      "fetched_at": "2026-10-16T13:54:41Z"
+    },
+    {
+      "id": "episode/a-gatherers-adventure-in-isekai-1x7",
+      "episode_id": "episode/a-gatherers-adventure-in-isekai-1x7",
+      "title": "A Gatherer's Adventure in Isekai 1x1",
+      "episode_name": "A Gatherer's Adventure in Isekai 1x1",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_2185_s1e7.webp",
+      "abyssid": "17857",
+      "abyssId": "17857",
+      "playxid": "4a716f7ba05468f225127f29aa2040c5",
+      "playXID": "4a716f7ba05468f225127f29aa2040c5",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "17857",
+        "playXID": "4a716f7ba05468f225127f29aa2040c5",
+        "streamId": "17857",
+        "dubPlayerSrc": "/dub-player/t/17857/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=4a716f7ba05468f225127f29aa2040c5&abyssId=17857"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "17857",
+        "playXID": "4a716f7ba05468f225127f29aa2040c5",
+        "streamId": "17857",
+        "dubPlayerSrc": "/dub-player/t/17857/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=4a716f7ba05468f225127f29aa2040c5&abyssId=17857"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/d31ca42bef8caac3c5c1bf09c5eabd17",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/d31ca42bef8caac3c5c1bf09c5eabd17"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "17857",
+        "abyssId": "17857",
+        "playXID": "4a716f7ba05468f225127f29aa2040c5",
+        "title": "A Gatherer's Adventure in Isekai",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "wsIaVoawx"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "tltimQ5XE"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "SrrWzN8K1"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/517d03514b0110df0137e745d348018a/master.m3u8?md5=bHPlcikX-nRj7BgyYncfMA&expires=1792166072",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/517d03514b0110df0137e745d348018a/master.m3u8?md5=bHPlcikX-nRj7BgyYncfMA&expires=1792166072",
+            "videoSource": "https://ravok.buzz/cdn/hls/517d03514b0110df0137e745d348018a/master.m3u8?md5=bHPlcikX-nRj7BgyYncfMA&expires=1792166072",
+            "videoImage": "https://as-cdn29.top/p/Y-Aq-OmQgr0quDJjY-xJnMrU5CR6obgUmgrKyJbKOnsIyQTQKnDaT-VSjS6KaoODmE0gTbjDqxUItkGMVu3kIA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "4a716f7ba05468f225127f29aa2040c5",
+                "streamUrl": "https://ravok.buzz/cdn/hls/517d03514b0110df0137e745d348018a/master.m3u8?md5=bHPlcikX-nRj7BgyYncfMA&expires=1792166072",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/517d03514b0110df0137e745d348018a/master.m3u8?md5=bHPlcikX-nRj7BgyYncfMA&expires=1792166072",
+                "videoSource": "https://ravok.buzz/cdn/hls/517d03514b0110df0137e745d348018a/master.m3u8?md5=bHPlcikX-nRj7BgyYncfMA&expires=1792166072",
+                "link": "https://ravok.buzz/cdn/hls/517d03514b0110df0137e745d348018a/master.m3u8?md5=bHPlcikX-nRj7BgyYncfMA&expires=1792166072",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/Y-Aq-OmQgr0quDJjY-xJnMrU5CR6obgUmgrKyJbKOnsIyQTQKnDaT-VSjS6KaoODmE0gTbjDqxUItkGMVu3kIA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "wsIaVoawx"
+        }
+      },
+      "fetched_at": "2026-10-16T13:54:42Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T13:54:37Z",
+  "updated_at": "2026-10-16T13:54:42Z"
+}

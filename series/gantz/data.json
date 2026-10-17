@@ -1,0 +1,1468 @@
+{
+  "id": "series/gantz",
+  "series_name": "GANTZ",
+  "title": "GANTZ",
+  "banner": "https://image.tmdb.org/t/p/w1280/wlaBpzJPkBe5vKxyb51IlESAcKP.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/m6SPdr37LCtwWFcjHyn2iR5nHTZ.jpg",
+  "genra": [
+    "Action",
+    "Drama",
+    "Horror",
+    "Psychological",
+    "Sci-Fi",
+    "Supernatural",
+    "Survival"
+  ],
+  "genres": [
+    "Action",
+    "Drama",
+    "Horror",
+    "Psychological",
+    "Sci-Fi",
+    "Supernatural",
+    "Survival"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Japanese"
+  ],
+  "synopsis": "If you are chosen by the bizarre black sphere known as the Gantz, you are already dead—yet you might be able to reclaim your mortality. First, the Gantz demands that you undertake brutal missions of madness, killing aliens hidden among the population. It is your only chance and you have no choice. You must play this disturbing game. And if you die again—and you likely will—it’s permanent.",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 13,
+  "seasons": [
+    {
+      "season": 2,
+      "name": "Season 2",
+      "episodesCount": 13,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "GANTZ 2x1",
+          "id": "episode/gantz-2x1",
+          "image": "https://img.watchanimeworld.one/img/thumb_2080_s2e1.webp",
+          "season": 2
+        },
+        {
+          "episode": 2,
+          "title": "GANTZ 2x2",
+          "id": "episode/gantz-2x2",
+          "image": "https://img.watchanimeworld.one/img/thumb_2080_s2e2.webp",
+          "season": 2
+        },
+        {
+          "episode": 3,
+          "title": "GANTZ 2x3",
+          "id": "episode/gantz-2x3",
+          "image": "https://img.watchanimeworld.one/img/thumb_2080_s2e3.webp",
+          "season": 2
+        },
+        {
+          "episode": 4,
+          "title": "GANTZ 2x4",
+          "id": "episode/gantz-2x4",
+          "image": "https://img.watchanimeworld.one/img/thumb_2080_s2e4.webp",
+          "season": 2
+        },
+        {
+          "episode": 5,
+          "title": "GANTZ 2x5",
+          "id": "episode/gantz-2x5",
+          "image": "https://img.watchanimeworld.one/img/thumb_2080_s2e5.webp",
+          "season": 2
+        },
+        {
+          "episode": 6,
+          "title": "GANTZ 2x6",
+          "id": "episode/gantz-2x6",
+          "image": "https://img.watchanimeworld.one/img/thumb_2080_s2e6.webp",
+          "season": 2
+        },
+        {
+          "episode": 7,
+          "title": "GANTZ 2x7",
+          "id": "episode/gantz-2x7",
+          "image": "https://img.watchanimeworld.one/img/thumb_2080_s2e7.webp",
+          "season": 2
+        },
+        {
+          "episode": 8,
+          "title": "GANTZ 2x8",
+          "id": "episode/gantz-2x8",
+          "image": "https://img.watchanimeworld.one/img/thumb_2080_s2e8.webp",
+          "season": 2
+        },
+        {
+          "episode": 9,
+          "title": "GANTZ 2x9",
+          "id": "episode/gantz-2x9",
+          "image": "https://img.watchanimeworld.one/img/thumb_2080_s2e9.webp",
+          "season": 2
+        },
+        {
+          "episode": 10,
+          "title": "GANTZ 2x10",
+          "id": "episode/gantz-2x10",
+          "image": "https://img.watchanimeworld.one/img/thumb_2080_s2e10.webp",
+          "season": 2
+        },
+        {
+          "episode": 11,
+          "title": "GANTZ 2x11",
+          "id": "episode/gantz-2x11",
+          "image": "https://img.watchanimeworld.one/img/thumb_2080_s2e11.webp",
+          "season": 2
+        },
+        {
+          "episode": 12,
+          "title": "GANTZ 2x12",
+          "id": "episode/gantz-2x12",
+          "image": "https://img.watchanimeworld.one/img/thumb_2080_s2e12.webp",
+          "season": 2
+        },
+        {
+          "episode": 13,
+          "title": "GANTZ 2x13",
+          "id": "episode/gantz-2x13",
+          "image": "https://img.watchanimeworld.one/img/thumb_2080_s2e13.webp",
+          "season": 2
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/gantz-2x5",
+      "episode_id": "episode/gantz-2x5",
+      "title": "GANTZ 2x1",
+      "episode_name": "GANTZ 2x1",
+      "episode_number": 5,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_2080_s2e5.webp",
+      "abyssid": "18478",
+      "abyssId": "18478",
+      "playxid": "ca0912c01f24c6ef488db9a2a97b7768",
+      "playXID": "ca0912c01f24c6ef488db9a2a97b7768",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18478",
+        "playXID": "ca0912c01f24c6ef488db9a2a97b7768",
+        "streamId": "18478",
+        "dubPlayerSrc": "/dub-player/t/18478/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ca0912c01f24c6ef488db9a2a97b7768&abyssId=18478"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18478",
+        "playXID": "ca0912c01f24c6ef488db9a2a97b7768",
+        "streamId": "18478",
+        "dubPlayerSrc": "/dub-player/t/18478/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ca0912c01f24c6ef488db9a2a97b7768&abyssId=18478"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/bdbe7e66f577b4e312fcc1b94eacc673",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/bdbe7e66f577b4e312fcc1b94eacc673"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18478",
+        "abyssId": "18478",
+        "playXID": "ca0912c01f24c6ef488db9a2a97b7768",
+        "title": "GANTZ",
+        "season": 2,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "XMKuww8v8m"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "xy8ij2T8M"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "3Mi_Ywu6k"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/32cc6f4e8becbb7dabfb89bf3ccc7d79/master.m3u8?md5=FZrlsH87Bw2y42SsPim_Zg&expires=1792165918",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/32cc6f4e8becbb7dabfb89bf3ccc7d79/master.m3u8?md5=FZrlsH87Bw2y42SsPim_Zg&expires=1792165918",
+            "videoSource": "https://ravok.buzz/cdn/hls/32cc6f4e8becbb7dabfb89bf3ccc7d79/master.m3u8?md5=FZrlsH87Bw2y42SsPim_Zg&expires=1792165918",
+            "videoImage": "https://as-cdn28.top/p/zYSVD81DfSJJqCYCoi1Cc45jJo88B9X63Nvnm4HThY0-LBSslFeZerTYP1zbI0RTDX-WOgiBk1C5ZM_SOj5dKw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "ca0912c01f24c6ef488db9a2a97b7768",
+                "streamUrl": "https://ravok.buzz/cdn/hls/32cc6f4e8becbb7dabfb89bf3ccc7d79/master.m3u8?md5=FZrlsH87Bw2y42SsPim_Zg&expires=1792165918",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/32cc6f4e8becbb7dabfb89bf3ccc7d79/master.m3u8?md5=FZrlsH87Bw2y42SsPim_Zg&expires=1792165918",
+                "videoSource": "https://ravok.buzz/cdn/hls/32cc6f4e8becbb7dabfb89bf3ccc7d79/master.m3u8?md5=FZrlsH87Bw2y42SsPim_Zg&expires=1792165918",
+                "link": "https://ravok.buzz/cdn/hls/32cc6f4e8becbb7dabfb89bf3ccc7d79/master.m3u8?md5=FZrlsH87Bw2y42SsPim_Zg&expires=1792165918",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/zYSVD81DfSJJqCYCoi1Cc45jJo88B9X63Nvnm4HThY0-LBSslFeZerTYP1zbI0RTDX-WOgiBk1C5ZM_SOj5dKw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "XMKuww8v8m"
+        }
+      },
+      "fetched_at": "2026-10-16T13:52:08Z"
+    },
+    {
+      "id": "episode/gantz-2x4",
+      "episode_id": "episode/gantz-2x4",
+      "title": "GANTZ 2x1",
+      "episode_name": "GANTZ 2x1",
+      "episode_number": 4,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_2080_s2e4.webp",
+      "abyssid": "18477",
+      "abyssId": "18477",
+      "playxid": "70e3da32d14d879905434986d67aa833",
+      "playXID": "70e3da32d14d879905434986d67aa833",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18477",
+        "playXID": "70e3da32d14d879905434986d67aa833",
+        "streamId": "18477",
+        "dubPlayerSrc": "/dub-player/t/18477/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=70e3da32d14d879905434986d67aa833&abyssId=18477"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18477",
+        "playXID": "70e3da32d14d879905434986d67aa833",
+        "streamId": "18477",
+        "dubPlayerSrc": "/dub-player/t/18477/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=70e3da32d14d879905434986d67aa833&abyssId=18477"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/4b698ccb9137b9946f50b25962c7cd6a",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/4b698ccb9137b9946f50b25962c7cd6a"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18477",
+        "abyssId": "18477",
+        "playXID": "70e3da32d14d879905434986d67aa833",
+        "title": "GANTZ",
+        "season": 2,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "_GdolwSqk"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "Ad02DYp3o"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "gCCxaZiNw"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/258b2786f3a90c7dc26b7516f792234a/master.m3u8?md5=AOAIKf6pDUR0644jEytI6A&expires=1792165918",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/258b2786f3a90c7dc26b7516f792234a/master.m3u8?md5=AOAIKf6pDUR0644jEytI6A&expires=1792165918",
+            "videoSource": "https://ravok.buzz/cdn/hls/258b2786f3a90c7dc26b7516f792234a/master.m3u8?md5=AOAIKf6pDUR0644jEytI6A&expires=1792165918",
+            "videoImage": "https://as-cdn31.top/p/0Vd-Le8mWzaj1JrNQhn8tFhSQBgVeu1c_nHpyuOPKQRtZJSAOyW1nYFXS2NSTL71LfxBL766qAcZA6-dED-RwA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "70e3da32d14d879905434986d67aa833",
+                "streamUrl": "https://ravok.buzz/cdn/hls/258b2786f3a90c7dc26b7516f792234a/master.m3u8?md5=AOAIKf6pDUR0644jEytI6A&expires=1792165918",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/258b2786f3a90c7dc26b7516f792234a/master.m3u8?md5=AOAIKf6pDUR0644jEytI6A&expires=1792165918",
+                "videoSource": "https://ravok.buzz/cdn/hls/258b2786f3a90c7dc26b7516f792234a/master.m3u8?md5=AOAIKf6pDUR0644jEytI6A&expires=1792165918",
+                "link": "https://ravok.buzz/cdn/hls/258b2786f3a90c7dc26b7516f792234a/master.m3u8?md5=AOAIKf6pDUR0644jEytI6A&expires=1792165918",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/0Vd-Le8mWzaj1JrNQhn8tFhSQBgVeu1c_nHpyuOPKQRtZJSAOyW1nYFXS2NSTL71LfxBL766qAcZA6-dED-RwA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "_GdolwSqk"
+        }
+      },
+      "fetched_at": "2026-10-16T13:52:08Z"
+    },
+    {
+      "id": "episode/gantz-2x3",
+      "episode_id": "episode/gantz-2x3",
+      "title": "GANTZ 2x1",
+      "episode_name": "GANTZ 2x1",
+      "episode_number": 3,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_2080_s2e3.webp",
+      "abyssid": "18476",
+      "abyssId": "18476",
+      "playxid": "01fd22ffdf9a9b247cbd1227c897ef48",
+      "playXID": "01fd22ffdf9a9b247cbd1227c897ef48",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18476",
+        "playXID": "01fd22ffdf9a9b247cbd1227c897ef48",
+        "streamId": "18476",
+        "dubPlayerSrc": "/dub-player/t/18476/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=01fd22ffdf9a9b247cbd1227c897ef48&abyssId=18476"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18476",
+        "playXID": "01fd22ffdf9a9b247cbd1227c897ef48",
+        "streamId": "18476",
+        "dubPlayerSrc": "/dub-player/t/18476/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=01fd22ffdf9a9b247cbd1227c897ef48&abyssId=18476"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/23755d10e2fe7c7a11342f80352a8e9d",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/23755d10e2fe7c7a11342f80352a8e9d"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18476",
+        "abyssId": "18476",
+        "playXID": "01fd22ffdf9a9b247cbd1227c897ef48",
+        "title": "GANTZ",
+        "season": 2,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "H-jZ1l_mB-"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "LX_yryLtj"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "uo2SHz6jl"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/185ba6b4d41760210966883659abe9ae/master.m3u8?md5=HzA5QJI6V5nTrnZ1x-RJ2Q&expires=1792165918",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/185ba6b4d41760210966883659abe9ae/master.m3u8?md5=HzA5QJI6V5nTrnZ1x-RJ2Q&expires=1792165918",
+            "videoSource": "https://ravok.buzz/cdn/hls/185ba6b4d41760210966883659abe9ae/master.m3u8?md5=HzA5QJI6V5nTrnZ1x-RJ2Q&expires=1792165918",
+            "videoImage": "https://as-cdn27.top/p/PiDupaMIP79TJXdfKC79dT1u7lKF2T3fddS8sj_Y7nhMc2L6yidvgAAwRzjk2p9VcWWF_TyFq1oUvRg9VojYzQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "01fd22ffdf9a9b247cbd1227c897ef48",
+                "streamUrl": "https://ravok.buzz/cdn/hls/185ba6b4d41760210966883659abe9ae/master.m3u8?md5=HzA5QJI6V5nTrnZ1x-RJ2Q&expires=1792165918",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/185ba6b4d41760210966883659abe9ae/master.m3u8?md5=HzA5QJI6V5nTrnZ1x-RJ2Q&expires=1792165918",
+                "videoSource": "https://ravok.buzz/cdn/hls/185ba6b4d41760210966883659abe9ae/master.m3u8?md5=HzA5QJI6V5nTrnZ1x-RJ2Q&expires=1792165918",
+                "link": "https://ravok.buzz/cdn/hls/185ba6b4d41760210966883659abe9ae/master.m3u8?md5=HzA5QJI6V5nTrnZ1x-RJ2Q&expires=1792165918",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/PiDupaMIP79TJXdfKC79dT1u7lKF2T3fddS8sj_Y7nhMc2L6yidvgAAwRzjk2p9VcWWF_TyFq1oUvRg9VojYzQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "H-jZ1l_mB-"
+        }
+      },
+      "fetched_at": "2026-10-16T13:52:08Z"
+    },
+    {
+      "id": "episode/gantz-2x2",
+      "episode_id": "episode/gantz-2x2",
+      "title": "GANTZ 2x1",
+      "episode_name": "GANTZ 2x1",
+      "episode_number": 2,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_2080_s2e2.webp",
+      "abyssid": "18475",
+      "abyssId": "18475",
+      "playxid": "0c0f3efa3afddcae74bf01414219044b",
+      "playXID": "0c0f3efa3afddcae74bf01414219044b",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18475",
+        "playXID": "0c0f3efa3afddcae74bf01414219044b",
+        "streamId": "18475",
+        "dubPlayerSrc": "/dub-player/t/18475/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=0c0f3efa3afddcae74bf01414219044b&abyssId=18475"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18475",
+        "playXID": "0c0f3efa3afddcae74bf01414219044b",
+        "streamId": "18475",
+        "dubPlayerSrc": "/dub-player/t/18475/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=0c0f3efa3afddcae74bf01414219044b&abyssId=18475"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/9426cdfe04a0f5319467fc1c69a3c8c4",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/9426cdfe04a0f5319467fc1c69a3c8c4"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18475",
+        "abyssId": "18475",
+        "playXID": "0c0f3efa3afddcae74bf01414219044b",
+        "title": "GANTZ",
+        "season": 2,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "DiKSOpjTr"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "Zo3eYj63J"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "dF3eJaWty"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/1ef098daab66107367867272d2491513/master.m3u8?md5=jOLQuEODbr6YcTkg1BCpeQ&expires=1792165918",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/1ef098daab66107367867272d2491513/master.m3u8?md5=jOLQuEODbr6YcTkg1BCpeQ&expires=1792165918",
+            "videoSource": "https://ravok.buzz/cdn/hls/1ef098daab66107367867272d2491513/master.m3u8?md5=jOLQuEODbr6YcTkg1BCpeQ&expires=1792165918",
+            "videoImage": "https://as-cdn30.top/p/dZ47gihqOMprli6aTtlIg7PJZSW4ZgYDE-ROPsfg2QKCTZHroN_ZR9AYvnpCQA5tWhOLjtXqSvJCLO4zLXhqfg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "0c0f3efa3afddcae74bf01414219044b",
+                "streamUrl": "https://ravok.buzz/cdn/hls/1ef098daab66107367867272d2491513/master.m3u8?md5=jOLQuEODbr6YcTkg1BCpeQ&expires=1792165918",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/1ef098daab66107367867272d2491513/master.m3u8?md5=jOLQuEODbr6YcTkg1BCpeQ&expires=1792165918",
+                "videoSource": "https://ravok.buzz/cdn/hls/1ef098daab66107367867272d2491513/master.m3u8?md5=jOLQuEODbr6YcTkg1BCpeQ&expires=1792165918",
+                "link": "https://ravok.buzz/cdn/hls/1ef098daab66107367867272d2491513/master.m3u8?md5=jOLQuEODbr6YcTkg1BCpeQ&expires=1792165918",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/dZ47gihqOMprli6aTtlIg7PJZSW4ZgYDE-ROPsfg2QKCTZHroN_ZR9AYvnpCQA5tWhOLjtXqSvJCLO4zLXhqfg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "DiKSOpjTr"
+        }
+      },
+      "fetched_at": "2026-10-16T13:52:08Z"
+    },
+    {
+      "id": "episode/gantz-2x1",
+      "episode_id": "episode/gantz-2x1",
+      "title": "GANTZ 2x1",
+      "episode_name": "GANTZ 2x1",
+      "episode_number": 1,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_2080_s2e1.webp",
+      "abyssid": "18474",
+      "abyssId": "18474",
+      "playxid": "656176b089fee49ce4e725eafe97ac8a",
+      "playXID": "656176b089fee49ce4e725eafe97ac8a",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18474",
+        "playXID": "656176b089fee49ce4e725eafe97ac8a",
+        "streamId": "18474",
+        "dubPlayerSrc": "/dub-player/t/18474/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=656176b089fee49ce4e725eafe97ac8a&abyssId=18474"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18474",
+        "playXID": "656176b089fee49ce4e725eafe97ac8a",
+        "streamId": "18474",
+        "dubPlayerSrc": "/dub-player/t/18474/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=656176b089fee49ce4e725eafe97ac8a&abyssId=18474"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/0d05195da8cf260369654829ca79b8e7",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/0d05195da8cf260369654829ca79b8e7"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18474",
+        "abyssId": "18474",
+        "playXID": "656176b089fee49ce4e725eafe97ac8a",
+        "title": "GANTZ",
+        "season": 2,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "iPhnfBXIy"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "st7sMRU31"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "voyNfD75z"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/615ce99e3f210048842c513cb8e6ff56/master.m3u8?md5=8nB5xYRSyWhMrMKsn1aiXQ&expires=1792165919",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/615ce99e3f210048842c513cb8e6ff56/master.m3u8?md5=8nB5xYRSyWhMrMKsn1aiXQ&expires=1792165919",
+            "videoSource": "https://ravok.buzz/cdn/hls/615ce99e3f210048842c513cb8e6ff56/master.m3u8?md5=8nB5xYRSyWhMrMKsn1aiXQ&expires=1792165919",
+            "videoImage": "https://as-cdn30.top/p/LJAL3zufwmPb9UnB8J47HmpBuzUfQK9IR-5SPAovLsZjLRxkIsL4KtsQhP9L-wbT_JzpP06pUJvA0tq-00kCgA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "656176b089fee49ce4e725eafe97ac8a",
+                "streamUrl": "https://ravok.buzz/cdn/hls/615ce99e3f210048842c513cb8e6ff56/master.m3u8?md5=8nB5xYRSyWhMrMKsn1aiXQ&expires=1792165919",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/615ce99e3f210048842c513cb8e6ff56/master.m3u8?md5=8nB5xYRSyWhMrMKsn1aiXQ&expires=1792165919",
+                "videoSource": "https://ravok.buzz/cdn/hls/615ce99e3f210048842c513cb8e6ff56/master.m3u8?md5=8nB5xYRSyWhMrMKsn1aiXQ&expires=1792165919",
+                "link": "https://ravok.buzz/cdn/hls/615ce99e3f210048842c513cb8e6ff56/master.m3u8?md5=8nB5xYRSyWhMrMKsn1aiXQ&expires=1792165919",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/LJAL3zufwmPb9UnB8J47HmpBuzUfQK9IR-5SPAovLsZjLRxkIsL4KtsQhP9L-wbT_JzpP06pUJvA0tq-00kCgA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "iPhnfBXIy"
+        }
+      },
+      "fetched_at": "2026-10-16T13:52:09Z"
+    },
+    {
+      "id": "episode/gantz-2x9",
+      "episode_id": "episode/gantz-2x9",
+      "title": "GANTZ 2x1",
+      "episode_name": "GANTZ 2x1",
+      "episode_number": 9,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_2080_s2e9.webp",
+      "abyssid": "18482",
+      "abyssId": "18482",
+      "playxid": "62343fe688d3b70314b5c1730328a936",
+      "playXID": "62343fe688d3b70314b5c1730328a936",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18482",
+        "playXID": "62343fe688d3b70314b5c1730328a936",
+        "streamId": "18482",
+        "dubPlayerSrc": "/dub-player/t/18482/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=62343fe688d3b70314b5c1730328a936&abyssId=18482"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18482",
+        "playXID": "62343fe688d3b70314b5c1730328a936",
+        "streamId": "18482",
+        "dubPlayerSrc": "/dub-player/t/18482/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=62343fe688d3b70314b5c1730328a936&abyssId=18482"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/95ef1128340226d8325ba751bfac05eb",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/95ef1128340226d8325ba751bfac05eb"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18482",
+        "abyssId": "18482",
+        "playXID": "62343fe688d3b70314b5c1730328a936",
+        "title": "GANTZ",
+        "season": 2,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "9XlPuLOwA"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "DHHkPsh5ji"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "r2NxjSyr5"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/2a0241c52afd1046456ceb437aeba80f/master.m3u8?md5=aIgX1v-ewBJ6lCLn3n7nGQ&expires=1792165920",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/2a0241c52afd1046456ceb437aeba80f/master.m3u8?md5=aIgX1v-ewBJ6lCLn3n7nGQ&expires=1792165920",
+            "videoSource": "https://ravok.buzz/cdn/hls/2a0241c52afd1046456ceb437aeba80f/master.m3u8?md5=aIgX1v-ewBJ6lCLn3n7nGQ&expires=1792165920",
+            "videoImage": "https://as-cdn27.top/p/fWDJZMwnlNkoCElcAUNlRM7sjW-R4WNVlQlUEJp6kqd6tnGqfPHBZZ1CGEnMIwZr93AT_UfUCk8T9K335KCO5g.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "62343fe688d3b70314b5c1730328a936",
+                "streamUrl": "https://ravok.buzz/cdn/hls/2a0241c52afd1046456ceb437aeba80f/master.m3u8?md5=aIgX1v-ewBJ6lCLn3n7nGQ&expires=1792165920",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/2a0241c52afd1046456ceb437aeba80f/master.m3u8?md5=aIgX1v-ewBJ6lCLn3n7nGQ&expires=1792165920",
+                "videoSource": "https://ravok.buzz/cdn/hls/2a0241c52afd1046456ceb437aeba80f/master.m3u8?md5=aIgX1v-ewBJ6lCLn3n7nGQ&expires=1792165920",
+                "link": "https://ravok.buzz/cdn/hls/2a0241c52afd1046456ceb437aeba80f/master.m3u8?md5=aIgX1v-ewBJ6lCLn3n7nGQ&expires=1792165920",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/fWDJZMwnlNkoCElcAUNlRM7sjW-R4WNVlQlUEJp6kqd6tnGqfPHBZZ1CGEnMIwZr93AT_UfUCk8T9K335KCO5g.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "9XlPuLOwA"
+        }
+      },
+      "fetched_at": "2026-10-16T13:52:10Z"
+    },
+    {
+      "id": "episode/gantz-2x6",
+      "episode_id": "episode/gantz-2x6",
+      "title": "GANTZ 2x1",
+      "episode_name": "GANTZ 2x1",
+      "episode_number": 6,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_2080_s2e6.webp",
+      "abyssid": "18479",
+      "abyssId": "18479",
+      "playxid": "70a3e3e59bc61c8eb7acfbba1073980c",
+      "playXID": "70a3e3e59bc61c8eb7acfbba1073980c",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18479",
+        "playXID": "70a3e3e59bc61c8eb7acfbba1073980c",
+        "streamId": "18479",
+        "dubPlayerSrc": "/dub-player/t/18479/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=70a3e3e59bc61c8eb7acfbba1073980c&abyssId=18479"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18479",
+        "playXID": "70a3e3e59bc61c8eb7acfbba1073980c",
+        "streamId": "18479",
+        "dubPlayerSrc": "/dub-player/t/18479/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=70a3e3e59bc61c8eb7acfbba1073980c&abyssId=18479"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/cdf8cce6a4faee958d05df52054add74",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/cdf8cce6a4faee958d05df52054add74"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18479",
+        "abyssId": "18479",
+        "playXID": "70a3e3e59bc61c8eb7acfbba1073980c",
+        "title": "GANTZ",
+        "season": 2,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "_L1zRvMCI"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "8tolI9XAO"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "ba8_RuLIJ"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/e27cd8c4845dce3fa34ff9f3659f36df/master.m3u8?md5=Eg8t2hjo5B21HoJMdKZb3A&expires=1792165920",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/e27cd8c4845dce3fa34ff9f3659f36df/master.m3u8?md5=Eg8t2hjo5B21HoJMdKZb3A&expires=1792165920",
+            "videoSource": "https://ravok.buzz/cdn/hls/e27cd8c4845dce3fa34ff9f3659f36df/master.m3u8?md5=Eg8t2hjo5B21HoJMdKZb3A&expires=1792165920",
+            "videoImage": "https://as-cdn29.top/p/_oc_toxIzInndqS4wmY0kYX0SEUIypVCS54gogFN7NBFjdGHbblhNqn4tdRfjPtVxBWal_gWih3BNROES3_y9Q.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "70a3e3e59bc61c8eb7acfbba1073980c",
+                "streamUrl": "https://ravok.buzz/cdn/hls/e27cd8c4845dce3fa34ff9f3659f36df/master.m3u8?md5=Eg8t2hjo5B21HoJMdKZb3A&expires=1792165920",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/e27cd8c4845dce3fa34ff9f3659f36df/master.m3u8?md5=Eg8t2hjo5B21HoJMdKZb3A&expires=1792165920",
+                "videoSource": "https://ravok.buzz/cdn/hls/e27cd8c4845dce3fa34ff9f3659f36df/master.m3u8?md5=Eg8t2hjo5B21HoJMdKZb3A&expires=1792165920",
+                "link": "https://ravok.buzz/cdn/hls/e27cd8c4845dce3fa34ff9f3659f36df/master.m3u8?md5=Eg8t2hjo5B21HoJMdKZb3A&expires=1792165920",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/_oc_toxIzInndqS4wmY0kYX0SEUIypVCS54gogFN7NBFjdGHbblhNqn4tdRfjPtVxBWal_gWih3BNROES3_y9Q.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "_L1zRvMCI"
+        }
+      },
+      "fetched_at": "2026-10-16T13:52:10Z"
+    },
+    {
+      "id": "episode/gantz-2x10",
+      "episode_id": "episode/gantz-2x10",
+      "title": "GANTZ 2x1",
+      "episode_name": "GANTZ 2x1",
+      "episode_number": 10,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_2080_s2e10.webp",
+      "abyssid": "18483",
+      "abyssId": "18483",
+      "playxid": "b2f29338576d3ba925ba0f99088726b5",
+      "playXID": "b2f29338576d3ba925ba0f99088726b5",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18483",
+        "playXID": "b2f29338576d3ba925ba0f99088726b5",
+        "streamId": "18483",
+        "dubPlayerSrc": "/dub-player/t/18483/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b2f29338576d3ba925ba0f99088726b5&abyssId=18483"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18483",
+        "playXID": "b2f29338576d3ba925ba0f99088726b5",
+        "streamId": "18483",
+        "dubPlayerSrc": "/dub-player/t/18483/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b2f29338576d3ba925ba0f99088726b5&abyssId=18483"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/4cb4a0aadcf427341c1fe9ae93a5cf31",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/4cb4a0aadcf427341c1fe9ae93a5cf31"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18483",
+        "abyssId": "18483",
+        "playXID": "b2f29338576d3ba925ba0f99088726b5",
+        "title": "GANTZ",
+        "season": 2,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "DXXfxVKBs"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "ToDLGRJPs"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "g9ZczN8dw"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/ea0b5180e9fdb694cad4d6ebaf4e9043/master.m3u8?md5=VlHKbK538v5hIrIjqnmIXg&expires=1792165921",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/ea0b5180e9fdb694cad4d6ebaf4e9043/master.m3u8?md5=VlHKbK538v5hIrIjqnmIXg&expires=1792165921",
+            "videoSource": "https://ravok.buzz/cdn/hls/ea0b5180e9fdb694cad4d6ebaf4e9043/master.m3u8?md5=VlHKbK538v5hIrIjqnmIXg&expires=1792165921",
+            "videoImage": "https://as-cdn30.top/p/wRFG8u_Af6Ng-PY9cYsIkTeGssb0ChJmzLv_GaAuQxJLFCyoQyl3eh7a_pcyO11jhcZK-WNbFY8BJNe51h85pg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "b2f29338576d3ba925ba0f99088726b5",
+                "streamUrl": "https://ravok.buzz/cdn/hls/ea0b5180e9fdb694cad4d6ebaf4e9043/master.m3u8?md5=VlHKbK538v5hIrIjqnmIXg&expires=1792165921",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/ea0b5180e9fdb694cad4d6ebaf4e9043/master.m3u8?md5=VlHKbK538v5hIrIjqnmIXg&expires=1792165921",
+                "videoSource": "https://ravok.buzz/cdn/hls/ea0b5180e9fdb694cad4d6ebaf4e9043/master.m3u8?md5=VlHKbK538v5hIrIjqnmIXg&expires=1792165921",
+                "link": "https://ravok.buzz/cdn/hls/ea0b5180e9fdb694cad4d6ebaf4e9043/master.m3u8?md5=VlHKbK538v5hIrIjqnmIXg&expires=1792165921",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/wRFG8u_Af6Ng-PY9cYsIkTeGssb0ChJmzLv_GaAuQxJLFCyoQyl3eh7a_pcyO11jhcZK-WNbFY8BJNe51h85pg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "DXXfxVKBs"
+        }
+      },
+      "fetched_at": "2026-10-16T13:52:11Z"
+    },
+    {
+      "id": "episode/gantz-2x7",
+      "episode_id": "episode/gantz-2x7",
+      "title": "GANTZ 2x1",
+      "episode_name": "GANTZ 2x1",
+      "episode_number": 7,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_2080_s2e7.webp",
+      "abyssid": "18480",
+      "abyssId": "18480",
+      "playxid": "14318e2a43a225fc24ab55f3c0122cf0",
+      "playXID": "14318e2a43a225fc24ab55f3c0122cf0",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18480",
+        "playXID": "14318e2a43a225fc24ab55f3c0122cf0",
+        "streamId": "18480",
+        "dubPlayerSrc": "/dub-player/t/18480/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=14318e2a43a225fc24ab55f3c0122cf0&abyssId=18480"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18480",
+        "playXID": "14318e2a43a225fc24ab55f3c0122cf0",
+        "streamId": "18480",
+        "dubPlayerSrc": "/dub-player/t/18480/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=14318e2a43a225fc24ab55f3c0122cf0&abyssId=18480"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/0c5bcd68aebc9060a7f2e5047bb962de",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/0c5bcd68aebc9060a7f2e5047bb962de"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18480",
+        "abyssId": "18480",
+        "playXID": "14318e2a43a225fc24ab55f3c0122cf0",
+        "title": "GANTZ",
+        "season": 2,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "KAjVfzJvr"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "dOZPucMu1"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "yEGpTmCUf"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/f8b77ed1770b8f63b445bf72f3563cac/master.m3u8?md5=kPljcskiAj9AHSAa3ieEwQ&expires=1792165921",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/f8b77ed1770b8f63b445bf72f3563cac/master.m3u8?md5=kPljcskiAj9AHSAa3ieEwQ&expires=1792165921",
+            "videoSource": "https://ravok.buzz/cdn/hls/f8b77ed1770b8f63b445bf72f3563cac/master.m3u8?md5=kPljcskiAj9AHSAa3ieEwQ&expires=1792165921",
+            "videoImage": "https://as-cdn29.top/p/ls-_PZKdwKVGo-MMteIRmDChiZd1lBYEM1JwYyUzZAuH_SDV8f7eEfdQu_dXyEmysddsQPlrtEuzgmBU9TzJqg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "14318e2a43a225fc24ab55f3c0122cf0",
+                "streamUrl": "https://ravok.buzz/cdn/hls/f8b77ed1770b8f63b445bf72f3563cac/master.m3u8?md5=kPljcskiAj9AHSAa3ieEwQ&expires=1792165921",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/f8b77ed1770b8f63b445bf72f3563cac/master.m3u8?md5=kPljcskiAj9AHSAa3ieEwQ&expires=1792165921",
+                "videoSource": "https://ravok.buzz/cdn/hls/f8b77ed1770b8f63b445bf72f3563cac/master.m3u8?md5=kPljcskiAj9AHSAa3ieEwQ&expires=1792165921",
+                "link": "https://ravok.buzz/cdn/hls/f8b77ed1770b8f63b445bf72f3563cac/master.m3u8?md5=kPljcskiAj9AHSAa3ieEwQ&expires=1792165921",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/ls-_PZKdwKVGo-MMteIRmDChiZd1lBYEM1JwYyUzZAuH_SDV8f7eEfdQu_dXyEmysddsQPlrtEuzgmBU9TzJqg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "KAjVfzJvr"
+        }
+      },
+      "fetched_at": "2026-10-16T13:52:11Z"
+    },
+    {
+      "id": "episode/gantz-2x8",
+      "episode_id": "episode/gantz-2x8",
+      "title": "GANTZ 2x1",
+      "episode_name": "GANTZ 2x1",
+      "episode_number": 8,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_2080_s2e8.webp",
+      "abyssid": "18481",
+      "abyssId": "18481",
+      "playxid": "9154498493d8e734d9c7489c2b6b26d7",
+      "playXID": "9154498493d8e734d9c7489c2b6b26d7",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18481",
+        "playXID": "9154498493d8e734d9c7489c2b6b26d7",
+        "streamId": "18481",
+        "dubPlayerSrc": "/dub-player/t/18481/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9154498493d8e734d9c7489c2b6b26d7&abyssId=18481"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18481",
+        "playXID": "9154498493d8e734d9c7489c2b6b26d7",
+        "streamId": "18481",
+        "dubPlayerSrc": "/dub-player/t/18481/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9154498493d8e734d9c7489c2b6b26d7&abyssId=18481"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/78106a0fa774284d86ec3585a5112ca5",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/78106a0fa774284d86ec3585a5112ca5"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18481",
+        "abyssId": "18481",
+        "playXID": "9154498493d8e734d9c7489c2b6b26d7",
+        "title": "GANTZ",
+        "season": 2,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "L5PLvVhxw"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "G72ISl-7_"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "ghqXUpcO3"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/8fc1f516d414c042f6e653c7bf56d137/master.m3u8?md5=L-5sRsnK3U59qxlm77gmhw&expires=1792165921",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/8fc1f516d414c042f6e653c7bf56d137/master.m3u8?md5=L-5sRsnK3U59qxlm77gmhw&expires=1792165921",
+            "videoSource": "https://ravok.buzz/cdn/hls/8fc1f516d414c042f6e653c7bf56d137/master.m3u8?md5=L-5sRsnK3U59qxlm77gmhw&expires=1792165921",
+            "videoImage": "https://as-cdn29.top/p/SQBOwP9i25IqjgdjhnDLIY3TxQqmtQ3pumYmtEdBhyfjazcO0eL-oQvkKuYFazUtg6qRLmErGsqKsovC7vKMfg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "9154498493d8e734d9c7489c2b6b26d7",
+                "streamUrl": "https://ravok.buzz/cdn/hls/8fc1f516d414c042f6e653c7bf56d137/master.m3u8?md5=L-5sRsnK3U59qxlm77gmhw&expires=1792165921",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/8fc1f516d414c042f6e653c7bf56d137/master.m3u8?md5=L-5sRsnK3U59qxlm77gmhw&expires=1792165921",
+                "videoSource": "https://ravok.buzz/cdn/hls/8fc1f516d414c042f6e653c7bf56d137/master.m3u8?md5=L-5sRsnK3U59qxlm77gmhw&expires=1792165921",
+                "link": "https://ravok.buzz/cdn/hls/8fc1f516d414c042f6e653c7bf56d137/master.m3u8?md5=L-5sRsnK3U59qxlm77gmhw&expires=1792165921",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/SQBOwP9i25IqjgdjhnDLIY3TxQqmtQ3pumYmtEdBhyfjazcO0eL-oQvkKuYFazUtg6qRLmErGsqKsovC7vKMfg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "L5PLvVhxw"
+        }
+      },
+      "fetched_at": "2026-10-16T13:52:11Z"
+    },
+    {
+      "id": "episode/gantz-2x11",
+      "episode_id": "episode/gantz-2x11",
+      "title": "GANTZ 2x1",
+      "episode_name": "GANTZ 2x1",
+      "episode_number": 11,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_2080_s2e11.webp",
+      "abyssid": "18484",
+      "abyssId": "18484",
+      "playxid": "a774b1d228003465cbd98d456af7bf43",
+      "playXID": "a774b1d228003465cbd98d456af7bf43",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18484",
+        "playXID": "a774b1d228003465cbd98d456af7bf43",
+        "streamId": "18484",
+        "dubPlayerSrc": "/dub-player/t/18484/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a774b1d228003465cbd98d456af7bf43&abyssId=18484"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18484",
+        "playXID": "a774b1d228003465cbd98d456af7bf43",
+        "streamId": "18484",
+        "dubPlayerSrc": "/dub-player/t/18484/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a774b1d228003465cbd98d456af7bf43&abyssId=18484"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/b61be50f3f8a606a09d3614e09937e3a",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/b61be50f3f8a606a09d3614e09937e3a"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18484",
+        "abyssId": "18484",
+        "playXID": "a774b1d228003465cbd98d456af7bf43",
+        "title": "GANTZ",
+        "season": 2,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "rWSWLpeYAK"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "xr7kRduRl"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "EgX3XO2tI"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/adff6384716463ed95dcb2e5f9816473/master.m3u8?md5=uKlN0MlzChvwdzoAb0_gLg&expires=1792165922",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/adff6384716463ed95dcb2e5f9816473/master.m3u8?md5=uKlN0MlzChvwdzoAb0_gLg&expires=1792165922",
+            "videoSource": "https://ravok.buzz/cdn/hls/adff6384716463ed95dcb2e5f9816473/master.m3u8?md5=uKlN0MlzChvwdzoAb0_gLg&expires=1792165922",
+            "videoImage": "https://as-cdn29.top/p/FPeGAT5ENKr9nlUuZxW92K0sEbTyZfjVcxRDzIAZYvM_gbW04U7YfrVbZE3nGKsEZwnWu1lQM4aYHe372ejNAw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "a774b1d228003465cbd98d456af7bf43",
+                "streamUrl": "https://ravok.buzz/cdn/hls/adff6384716463ed95dcb2e5f9816473/master.m3u8?md5=uKlN0MlzChvwdzoAb0_gLg&expires=1792165922",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/adff6384716463ed95dcb2e5f9816473/master.m3u8?md5=uKlN0MlzChvwdzoAb0_gLg&expires=1792165922",
+                "videoSource": "https://ravok.buzz/cdn/hls/adff6384716463ed95dcb2e5f9816473/master.m3u8?md5=uKlN0MlzChvwdzoAb0_gLg&expires=1792165922",
+                "link": "https://ravok.buzz/cdn/hls/adff6384716463ed95dcb2e5f9816473/master.m3u8?md5=uKlN0MlzChvwdzoAb0_gLg&expires=1792165922",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/FPeGAT5ENKr9nlUuZxW92K0sEbTyZfjVcxRDzIAZYvM_gbW04U7YfrVbZE3nGKsEZwnWu1lQM4aYHe372ejNAw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "rWSWLpeYAK"
+        }
+      },
+      "fetched_at": "2026-10-16T13:52:12Z"
+    },
+    {
+      "id": "episode/gantz-2x12",
+      "episode_id": "episode/gantz-2x12",
+      "title": "GANTZ 2x1",
+      "episode_name": "GANTZ 2x1",
+      "episode_number": 12,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_2080_s2e12.webp",
+      "abyssid": "18485",
+      "abyssId": "18485",
+      "playxid": "b13c180ba3b4c0afdd38ed2cb91fc498",
+      "playXID": "b13c180ba3b4c0afdd38ed2cb91fc498",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18485",
+        "playXID": "b13c180ba3b4c0afdd38ed2cb91fc498",
+        "streamId": "18485",
+        "dubPlayerSrc": "/dub-player/t/18485/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b13c180ba3b4c0afdd38ed2cb91fc498&abyssId=18485"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18485",
+        "playXID": "b13c180ba3b4c0afdd38ed2cb91fc498",
+        "streamId": "18485",
+        "dubPlayerSrc": "/dub-player/t/18485/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b13c180ba3b4c0afdd38ed2cb91fc498&abyssId=18485"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/6b387ebbcb8020ce186644d4a4669c6a",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/6b387ebbcb8020ce186644d4a4669c6a"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18485",
+        "abyssId": "18485",
+        "playXID": "b13c180ba3b4c0afdd38ed2cb91fc498",
+        "title": "GANTZ",
+        "season": 2,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "6Ivk6krtr"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "8DK-zk2HW"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "PiC-u7je6"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/7f3cb7ae0a22cea04ebed5ef8d068749/master.m3u8?md5=42WmQL1PHRRVpgB7sVWD9A&expires=1792165922",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/7f3cb7ae0a22cea04ebed5ef8d068749/master.m3u8?md5=42WmQL1PHRRVpgB7sVWD9A&expires=1792165922",
+            "videoSource": "https://ravok.buzz/cdn/hls/7f3cb7ae0a22cea04ebed5ef8d068749/master.m3u8?md5=42WmQL1PHRRVpgB7sVWD9A&expires=1792165922",
+            "videoImage": "https://as-cdn28.top/p/bi1dSAuR9tCaTVZWOeLtG5TqFobMZajYez6jOWbiDvJYmn4sHoUMrsreEXYTz5ERgvYOV3s6pg4IRMfHu1XuTg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "b13c180ba3b4c0afdd38ed2cb91fc498",
+                "streamUrl": "https://ravok.buzz/cdn/hls/7f3cb7ae0a22cea04ebed5ef8d068749/master.m3u8?md5=42WmQL1PHRRVpgB7sVWD9A&expires=1792165922",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/7f3cb7ae0a22cea04ebed5ef8d068749/master.m3u8?md5=42WmQL1PHRRVpgB7sVWD9A&expires=1792165922",
+                "videoSource": "https://ravok.buzz/cdn/hls/7f3cb7ae0a22cea04ebed5ef8d068749/master.m3u8?md5=42WmQL1PHRRVpgB7sVWD9A&expires=1792165922",
+                "link": "https://ravok.buzz/cdn/hls/7f3cb7ae0a22cea04ebed5ef8d068749/master.m3u8?md5=42WmQL1PHRRVpgB7sVWD9A&expires=1792165922",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/bi1dSAuR9tCaTVZWOeLtG5TqFobMZajYez6jOWbiDvJYmn4sHoUMrsreEXYTz5ERgvYOV3s6pg4IRMfHu1XuTg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "6Ivk6krtr"
+        }
+      },
+      "fetched_at": "2026-10-16T13:52:12Z"
+    },
+    {
+      "id": "episode/gantz-2x13",
+      "episode_id": "episode/gantz-2x13",
+      "title": "GANTZ 2x1",
+      "episode_name": "GANTZ 2x1",
+      "episode_number": 13,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_2080_s2e13.webp",
+      "abyssid": "18486",
+      "abyssId": "18486",
+      "playxid": "a6a87ed8d5af6aeff8d859ffd50c5db0",
+      "playXID": "a6a87ed8d5af6aeff8d859ffd50c5db0",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18486",
+        "playXID": "a6a87ed8d5af6aeff8d859ffd50c5db0",
+        "streamId": "18486",
+        "dubPlayerSrc": "/dub-player/t/18486/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a6a87ed8d5af6aeff8d859ffd50c5db0&abyssId=18486"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18486",
+        "playXID": "a6a87ed8d5af6aeff8d859ffd50c5db0",
+        "streamId": "18486",
+        "dubPlayerSrc": "/dub-player/t/18486/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a6a87ed8d5af6aeff8d859ffd50c5db0&abyssId=18486"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/3b81467c62f5cdcc01fdebe09a88faa0",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/3b81467c62f5cdcc01fdebe09a88faa0"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18486",
+        "abyssId": "18486",
+        "playXID": "a6a87ed8d5af6aeff8d859ffd50c5db0",
+        "title": "GANTZ",
+        "season": 2,
+        "episode": 13,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "-eAXawt2S"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "s648yErdb"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "-rML_nSHw"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/61e22116303ecf2e39a19b68247dc9ee/master.m3u8?md5=1dCG6fG7H9iw8IhGnf4BlA&expires=1792165923",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/61e22116303ecf2e39a19b68247dc9ee/master.m3u8?md5=1dCG6fG7H9iw8IhGnf4BlA&expires=1792165923",
+            "videoSource": "https://ravok.buzz/cdn/hls/61e22116303ecf2e39a19b68247dc9ee/master.m3u8?md5=1dCG6fG7H9iw8IhGnf4BlA&expires=1792165923",
+            "videoImage": "https://as-cdn29.top/p/0qzntWR4Lm7crfM1sDUT6skBKEUqRfJ5dt7ryleP-NXBhZXDZyWPDUIp8rudF9ljGx31EBSA6qvlXCfa1oBXwg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "a6a87ed8d5af6aeff8d859ffd50c5db0",
+                "streamUrl": "https://ravok.buzz/cdn/hls/61e22116303ecf2e39a19b68247dc9ee/master.m3u8?md5=1dCG6fG7H9iw8IhGnf4BlA&expires=1792165923",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/61e22116303ecf2e39a19b68247dc9ee/master.m3u8?md5=1dCG6fG7H9iw8IhGnf4BlA&expires=1792165923",
+                "videoSource": "https://ravok.buzz/cdn/hls/61e22116303ecf2e39a19b68247dc9ee/master.m3u8?md5=1dCG6fG7H9iw8IhGnf4BlA&expires=1792165923",
+                "link": "https://ravok.buzz/cdn/hls/61e22116303ecf2e39a19b68247dc9ee/master.m3u8?md5=1dCG6fG7H9iw8IhGnf4BlA&expires=1792165923",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/0qzntWR4Lm7crfM1sDUT6skBKEUqRfJ5dt7ryleP-NXBhZXDZyWPDUIp8rudF9ljGx31EBSA6qvlXCfa1oBXwg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "-eAXawt2S"
+        }
+      },
+      "fetched_at": "2026-10-16T13:52:13Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T13:52:05Z",
+  "updated_at": "2026-10-16T13:52:13Z"
+}

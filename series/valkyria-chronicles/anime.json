@@ -1,0 +1,2379 @@
+{
+  "id": "series/valkyria-chronicles",
+  "series_name": "Valkyria Chronicles",
+  "title": "Valkyria Chronicles",
+  "banner": "https://image.tmdb.org/t/p/w1280/wLPYn9F4BxyOwlXGi7X9GXEZ3nm.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/arkbuM5HIZv7cRoftRpZEnGT24E.jpg",
+  "genra": [
+    "Action",
+    "Adventure",
+    "Military",
+    "Romance",
+    "War"
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Military",
+    "Romance",
+    "War"
+  ],
+  "languages": [
+    "Hindi",
+    "Japanese"
+  ],
+  "synopsis": "When Imperial forces attack the small border town of Bruhl, Welkin Gunther, son of late General Belgen Gunther, is forced to fight for his life alongside Town Watch captain Alicia Melchiott. Along with Welkin's adopted sister Isara, the three escape to Gallia's capitol and subsequently join the country's militia forces. As members of the newly-formed Squad 7, they must work to repel the invading Imperial forces and discover the true purpose of the invasion itself.",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 26,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 26,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Private: Valkyria Chronicles 1x1",
+          "id": "episode/private-valkyria-chronicles-1x1",
+          "image": "https://img.watchanimeworld.one/img/thumb_1869_s1e1.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "Private: Valkyria Chronicles 1x2",
+          "id": "episode/private-valkyria-chronicles-1x2",
+          "image": "https://img.watchanimeworld.one/img/thumb_1869_s1e2.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "Private: Valkyria Chronicles 1x3",
+          "id": "episode/private-valkyria-chronicles-1x3",
+          "image": "https://img.watchanimeworld.one/img/thumb_1869_s1e3.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "Private: Valkyria Chronicles 1x4",
+          "id": "episode/private-valkyria-chronicles-1x4",
+          "image": "https://img.watchanimeworld.one/img/thumb_1869_s1e4.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "Private: Valkyria Chronicles 1x5",
+          "id": "episode/private-valkyria-chronicles-1x5",
+          "image": "https://img.watchanimeworld.one/img/thumb_1869_s1e5.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "Private: Valkyria Chronicles 1x6",
+          "id": "episode/private-valkyria-chronicles-1x6",
+          "image": "https://img.watchanimeworld.one/img/thumb_1869_s1e6.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "Private: Valkyria Chronicles 1x7",
+          "id": "episode/private-valkyria-chronicles-1x7",
+          "image": "https://img.watchanimeworld.one/img/thumb_1869_s1e7.webp",
+          "season": 1
+        },
+        {
+          "episode": 8,
+          "title": "Private: Valkyria Chronicles 1x8",
+          "id": "episode/private-valkyria-chronicles-1x8",
+          "image": "https://img.watchanimeworld.one/img/thumb_1869_s1e8.webp",
+          "season": 1
+        },
+        {
+          "episode": 9,
+          "title": "Private: Valkyria Chronicles 1x9",
+          "id": "episode/private-valkyria-chronicles-1x9",
+          "image": "https://img.watchanimeworld.one/img/thumb_1869_s1e9.webp",
+          "season": 1
+        },
+        {
+          "episode": 10,
+          "title": "Private: Valkyria Chronicles 1x10",
+          "id": "episode/private-valkyria-chronicles-1x10",
+          "image": "https://img.watchanimeworld.one/img/thumb_1869_s1e10.webp",
+          "season": 1
+        },
+        {
+          "episode": 11,
+          "title": "Private: Valkyria Chronicles 1x11",
+          "id": "episode/private-valkyria-chronicles-1x11",
+          "image": "https://img.watchanimeworld.one/img/thumb_1869_s1e11.webp",
+          "season": 1
+        },
+        {
+          "episode": 12,
+          "title": "Private: Valkyria Chronicles 1x12",
+          "id": "episode/private-valkyria-chronicles-1x12",
+          "image": "https://img.watchanimeworld.one/img/thumb_1869_s1e12.webp",
+          "season": 1
+        },
+        {
+          "episode": 13,
+          "title": "Private: Valkyria Chronicles 1x13",
+          "id": "episode/private-valkyria-chronicles-1x13",
+          "image": "https://img.watchanimeworld.one/img/thumb_1869_s1e13.webp",
+          "season": 1
+        },
+        {
+          "episode": 14,
+          "title": "Private: Valkyria Chronicles 1x14",
+          "id": "episode/private-valkyria-chronicles-1x14",
+          "image": "https://img.watchanimeworld.one/img/thumb_1869_s1e14.webp",
+          "season": 1
+        },
+        {
+          "episode": 15,
+          "title": "Private: Valkyria Chronicles 1x15",
+          "id": "episode/private-valkyria-chronicles-1x15",
+          "image": "https://img.watchanimeworld.one/img/thumb_1869_s1e15.webp",
+          "season": 1
+        },
+        {
+          "episode": 16,
+          "title": "Private: Valkyria Chronicles 1x16",
+          "id": "episode/private-valkyria-chronicles-1x16",
+          "image": "https://img.watchanimeworld.one/img/thumb_1869_s1e16.webp",
+          "season": 1
+        },
+        {
+          "episode": 17,
+          "title": "Private: Valkyria Chronicles 1x17",
+          "id": "episode/private-valkyria-chronicles-1x17",
+          "image": "https://img.watchanimeworld.one/img/thumb_1869_s1e17.webp",
+          "season": 1
+        },
+        {
+          "episode": 18,
+          "title": "Private: Valkyria Chronicles 1x18",
+          "id": "episode/private-valkyria-chronicles-1x18",
+          "image": "https://img.watchanimeworld.one/img/thumb_1869_s1e18.webp",
+          "season": 1
+        },
+        {
+          "episode": 19,
+          "title": "Private: Valkyria Chronicles 1x19",
+          "id": "episode/private-valkyria-chronicles-1x19",
+          "image": "https://img.watchanimeworld.one/img/thumb_1869_s1e19.webp",
+          "season": 1
+        },
+        {
+          "episode": 20,
+          "title": "Private: Valkyria Chronicles 1x20",
+          "id": "episode/private-valkyria-chronicles-1x20",
+          "image": "https://img.watchanimeworld.one/img/thumb_1869_s1e20.webp",
+          "season": 1
+        },
+        {
+          "episode": 21,
+          "title": "Private: Valkyria Chronicles 1x21",
+          "id": "episode/private-valkyria-chronicles-1x21",
+          "image": "https://img.watchanimeworld.one/img/thumb_1869_s1e21.webp",
+          "season": 1
+        },
+        {
+          "episode": 22,
+          "title": "Private: Valkyria Chronicles 1x22",
+          "id": "episode/private-valkyria-chronicles-1x22",
+          "image": "https://img.watchanimeworld.one/img/thumb_1869_s1e22.webp",
+          "season": 1
+        },
+        {
+          "episode": 23,
+          "title": "Private: Valkyria Chronicles 1x23",
+          "id": "episode/private-valkyria-chronicles-1x23",
+          "image": "https://img.watchanimeworld.one/img/thumb_1869_s1e23.webp",
+          "season": 1
+        },
+        {
+          "episode": 24,
+          "title": "Private: Valkyria Chronicles 1x24",
+          "id": "episode/private-valkyria-chronicles-1x24",
+          "image": "https://img.watchanimeworld.one/img/thumb_1869_s1e24.webp",
+          "season": 1
+        },
+        {
+          "episode": 25,
+          "title": "Private: Valkyria Chronicles 1x25",
+          "id": "episode/private-valkyria-chronicles-1x25",
+          "image": "https://img.watchanimeworld.one/img/thumb_1869_s1e25.webp",
+          "season": 1
+        },
+        {
+          "episode": 26,
+          "title": "Private: Valkyria Chronicles 1x26",
+          "id": "episode/private-valkyria-chronicles-1x26",
+          "image": "https://img.watchanimeworld.one/img/thumb_1869_s1e26.webp",
+          "season": 1
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/private-valkyria-chronicles-1x2",
+      "episode_id": "episode/private-valkyria-chronicles-1x2",
+      "title": "Private: Valkyria Chronicles 1x1",
+      "episode_name": "Private: Valkyria Chronicles 1x1",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1869_s1e2.webp",
+      "abyssid": "16314",
+      "abyssId": "16314",
+      "playxid": "db570f6a73a4d7e10ede827746ae992c",
+      "playXID": "db570f6a73a4d7e10ede827746ae992c",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16314",
+        "playXID": "db570f6a73a4d7e10ede827746ae992c",
+        "streamId": "16314",
+        "dubPlayerSrc": "/dub-player/t/16314/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=db570f6a73a4d7e10ede827746ae992c&abyssId=16314"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16314",
+        "playXID": "db570f6a73a4d7e10ede827746ae992c",
+        "streamId": "16314",
+        "dubPlayerSrc": "/dub-player/t/16314/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=db570f6a73a4d7e10ede827746ae992c&abyssId=16314"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/db570f6a73a4d7e10ede827746ae992c",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/db570f6a73a4d7e10ede827746ae992c"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16314",
+        "abyssId": "16314",
+        "playXID": "db570f6a73a4d7e10ede827746ae992c",
+        "title": "Valkyria Chronicles",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "o6sKudOX0"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "6zCbiXvbf"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "o6sKudOX0"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:30Z"
+    },
+    {
+      "id": "episode/private-valkyria-chronicles-1x3",
+      "episode_id": "episode/private-valkyria-chronicles-1x3",
+      "title": "Private: Valkyria Chronicles 1x1",
+      "episode_name": "Private: Valkyria Chronicles 1x1",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1869_s1e3.webp",
+      "abyssid": "16315",
+      "abyssId": "16315",
+      "playxid": "c3b7cab19af6d5c3b00428af950eef80",
+      "playXID": "c3b7cab19af6d5c3b00428af950eef80",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16315",
+        "playXID": "c3b7cab19af6d5c3b00428af950eef80",
+        "streamId": "16315",
+        "dubPlayerSrc": "/dub-player/t/16315/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c3b7cab19af6d5c3b00428af950eef80&abyssId=16315"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16315",
+        "playXID": "c3b7cab19af6d5c3b00428af950eef80",
+        "streamId": "16315",
+        "dubPlayerSrc": "/dub-player/t/16315/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c3b7cab19af6d5c3b00428af950eef80&abyssId=16315"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/c3b7cab19af6d5c3b00428af950eef80",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/c3b7cab19af6d5c3b00428af950eef80"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16315",
+        "abyssId": "16315",
+        "playXID": "c3b7cab19af6d5c3b00428af950eef80",
+        "title": "Valkyria Chronicles",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "cyh_e7H4m"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "vb66XkxCO"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "cyh_e7H4m"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:30Z"
+    },
+    {
+      "id": "episode/private-valkyria-chronicles-1x1",
+      "episode_id": "episode/private-valkyria-chronicles-1x1",
+      "title": "Private: Valkyria Chronicles 1x1",
+      "episode_name": "Private: Valkyria Chronicles 1x1",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1869_s1e1.webp",
+      "abyssid": "16313",
+      "abyssId": "16313",
+      "playxid": "d5346723901d967ccc167929e2ee94ad",
+      "playXID": "d5346723901d967ccc167929e2ee94ad",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16313",
+        "playXID": "d5346723901d967ccc167929e2ee94ad",
+        "streamId": "16313",
+        "dubPlayerSrc": "/dub-player/t/16313/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d5346723901d967ccc167929e2ee94ad&abyssId=16313"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16313",
+        "playXID": "d5346723901d967ccc167929e2ee94ad",
+        "streamId": "16313",
+        "dubPlayerSrc": "/dub-player/t/16313/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d5346723901d967ccc167929e2ee94ad&abyssId=16313"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/d5346723901d967ccc167929e2ee94ad",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/d5346723901d967ccc167929e2ee94ad"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16313",
+        "abyssId": "16313",
+        "playXID": "d5346723901d967ccc167929e2ee94ad",
+        "title": "Valkyria Chronicles",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "lnRSJk4E9"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "DofoFGKXV"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/1fae2806b801f61b1d248efef31446d5/master.m3u8?md5=CkYz4QoxUL4VpUKY2fJuug&expires=1792166480",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/1fae2806b801f61b1d248efef31446d5/master.m3u8?md5=CkYz4QoxUL4VpUKY2fJuug&expires=1792166480",
+            "videoSource": "https://ravok.buzz/cdn/hls/1fae2806b801f61b1d248efef31446d5/master.m3u8?md5=CkYz4QoxUL4VpUKY2fJuug&expires=1792166480",
+            "videoImage": "https://as-cdn30.top/p/kyRNPPvNgCkBuVcQdTxzU3I0-VC4g_MPPmC5sPJ0hK8EAkqCQc2-JhoeXqCoD_XaCsaRulaP0_T2hKmy_ihRMA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "d5346723901d967ccc167929e2ee94ad",
+                "streamUrl": "https://ravok.buzz/cdn/hls/1fae2806b801f61b1d248efef31446d5/master.m3u8?md5=CkYz4QoxUL4VpUKY2fJuug&expires=1792166480",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/1fae2806b801f61b1d248efef31446d5/master.m3u8?md5=CkYz4QoxUL4VpUKY2fJuug&expires=1792166480",
+                "videoSource": "https://ravok.buzz/cdn/hls/1fae2806b801f61b1d248efef31446d5/master.m3u8?md5=CkYz4QoxUL4VpUKY2fJuug&expires=1792166480",
+                "link": "https://ravok.buzz/cdn/hls/1fae2806b801f61b1d248efef31446d5/master.m3u8?md5=CkYz4QoxUL4VpUKY2fJuug&expires=1792166480",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/kyRNPPvNgCkBuVcQdTxzU3I0-VC4g_MPPmC5sPJ0hK8EAkqCQc2-JhoeXqCoD_XaCsaRulaP0_T2hKmy_ihRMA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "lnRSJk4E9"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:30Z"
+    },
+    {
+      "id": "episode/private-valkyria-chronicles-1x5",
+      "episode_id": "episode/private-valkyria-chronicles-1x5",
+      "title": "Private: Valkyria Chronicles 1x1",
+      "episode_name": "Private: Valkyria Chronicles 1x1",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1869_s1e5.webp",
+      "abyssid": "16317",
+      "abyssId": "16317",
+      "playxid": "65c5532392c79b258bc34ee22c9cadcb",
+      "playXID": "65c5532392c79b258bc34ee22c9cadcb",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16317",
+        "playXID": "65c5532392c79b258bc34ee22c9cadcb",
+        "streamId": "16317",
+        "dubPlayerSrc": "/dub-player/t/16317/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=65c5532392c79b258bc34ee22c9cadcb&abyssId=16317"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16317",
+        "playXID": "65c5532392c79b258bc34ee22c9cadcb",
+        "streamId": "16317",
+        "dubPlayerSrc": "/dub-player/t/16317/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=65c5532392c79b258bc34ee22c9cadcb&abyssId=16317"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/65c5532392c79b258bc34ee22c9cadcb",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/65c5532392c79b258bc34ee22c9cadcb"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16317",
+        "abyssId": "16317",
+        "playXID": "65c5532392c79b258bc34ee22c9cadcb",
+        "title": "Valkyria Chronicles",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "li0G03l7n"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "5Fq7W6w4V"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/fbf6c589afa006900508d128deb5f8fa/master.m3u8?md5=L-R7h3b0bJKe4LHuGHgyjg&expires=1792166480",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/fbf6c589afa006900508d128deb5f8fa/master.m3u8?md5=L-R7h3b0bJKe4LHuGHgyjg&expires=1792166480",
+            "videoSource": "https://ravok.buzz/cdn/hls/fbf6c589afa006900508d128deb5f8fa/master.m3u8?md5=L-R7h3b0bJKe4LHuGHgyjg&expires=1792166480",
+            "videoImage": "https://as-cdn30.top/p/kyRNPPvNgCkBuVcQdTxzUyT42WvMG4L9_EyqxHJu6Eoc4AoYpKwDXwjpHiGADWGxrU094Kzhv-OLfPzwMquKDQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "65c5532392c79b258bc34ee22c9cadcb",
+                "streamUrl": "https://ravok.buzz/cdn/hls/fbf6c589afa006900508d128deb5f8fa/master.m3u8?md5=L-R7h3b0bJKe4LHuGHgyjg&expires=1792166480",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/fbf6c589afa006900508d128deb5f8fa/master.m3u8?md5=L-R7h3b0bJKe4LHuGHgyjg&expires=1792166480",
+                "videoSource": "https://ravok.buzz/cdn/hls/fbf6c589afa006900508d128deb5f8fa/master.m3u8?md5=L-R7h3b0bJKe4LHuGHgyjg&expires=1792166480",
+                "link": "https://ravok.buzz/cdn/hls/fbf6c589afa006900508d128deb5f8fa/master.m3u8?md5=L-R7h3b0bJKe4LHuGHgyjg&expires=1792166480",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/kyRNPPvNgCkBuVcQdTxzUyT42WvMG4L9_EyqxHJu6Eoc4AoYpKwDXwjpHiGADWGxrU094Kzhv-OLfPzwMquKDQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "li0G03l7n"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:31Z"
+    },
+    {
+      "id": "episode/private-valkyria-chronicles-1x4",
+      "episode_id": "episode/private-valkyria-chronicles-1x4",
+      "title": "Private: Valkyria Chronicles 1x1",
+      "episode_name": "Private: Valkyria Chronicles 1x1",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1869_s1e4.webp",
+      "abyssid": "16316",
+      "abyssId": "16316",
+      "playxid": "2853427cee00e06272cf17d4be94f7d0",
+      "playXID": "2853427cee00e06272cf17d4be94f7d0",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16316",
+        "playXID": "2853427cee00e06272cf17d4be94f7d0",
+        "streamId": "16316",
+        "dubPlayerSrc": "/dub-player/t/16316/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2853427cee00e06272cf17d4be94f7d0&abyssId=16316"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16316",
+        "playXID": "2853427cee00e06272cf17d4be94f7d0",
+        "streamId": "16316",
+        "dubPlayerSrc": "/dub-player/t/16316/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2853427cee00e06272cf17d4be94f7d0&abyssId=16316"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/2853427cee00e06272cf17d4be94f7d0",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/2853427cee00e06272cf17d4be94f7d0"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16316",
+        "abyssId": "16316",
+        "playXID": "2853427cee00e06272cf17d4be94f7d0",
+        "title": "Valkyria Chronicles",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "f4U4XPEds"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "scyM_sOkc"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "f4U4XPEds"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:31Z"
+    },
+    {
+      "id": "episode/private-valkyria-chronicles-1x6",
+      "episode_id": "episode/private-valkyria-chronicles-1x6",
+      "title": "Private: Valkyria Chronicles 1x1",
+      "episode_name": "Private: Valkyria Chronicles 1x1",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1869_s1e6.webp",
+      "abyssid": "16318",
+      "abyssId": "16318",
+      "playxid": "7d288f69a0110ea0add97ae01491e752",
+      "playXID": "7d288f69a0110ea0add97ae01491e752",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16318",
+        "playXID": "7d288f69a0110ea0add97ae01491e752",
+        "streamId": "16318",
+        "dubPlayerSrc": "/dub-player/t/16318/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=7d288f69a0110ea0add97ae01491e752&abyssId=16318"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16318",
+        "playXID": "7d288f69a0110ea0add97ae01491e752",
+        "streamId": "16318",
+        "dubPlayerSrc": "/dub-player/t/16318/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=7d288f69a0110ea0add97ae01491e752&abyssId=16318"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/7d288f69a0110ea0add97ae01491e752",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/7d288f69a0110ea0add97ae01491e752"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16318",
+        "abyssId": "16318",
+        "playXID": "7d288f69a0110ea0add97ae01491e752",
+        "title": "Valkyria Chronicles",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "UiUwWWTlk"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "We6KEVf-f"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "UiUwWWTlk"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:32Z"
+    },
+    {
+      "id": "episode/private-valkyria-chronicles-1x8",
+      "episode_id": "episode/private-valkyria-chronicles-1x8",
+      "title": "Private: Valkyria Chronicles 1x1",
+      "episode_name": "Private: Valkyria Chronicles 1x1",
+      "episode_number": 8,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1869_s1e8.webp",
+      "abyssid": "16320",
+      "abyssId": "16320",
+      "playxid": "fc7079c59bf3610c28028522c22f6ef8",
+      "playXID": "fc7079c59bf3610c28028522c22f6ef8",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16320",
+        "playXID": "fc7079c59bf3610c28028522c22f6ef8",
+        "streamId": "16320",
+        "dubPlayerSrc": "/dub-player/t/16320/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=fc7079c59bf3610c28028522c22f6ef8&abyssId=16320"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16320",
+        "playXID": "fc7079c59bf3610c28028522c22f6ef8",
+        "streamId": "16320",
+        "dubPlayerSrc": "/dub-player/t/16320/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=fc7079c59bf3610c28028522c22f6ef8&abyssId=16320"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/fc7079c59bf3610c28028522c22f6ef8",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/fc7079c59bf3610c28028522c22f6ef8"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16320",
+        "abyssId": "16320",
+        "playXID": "fc7079c59bf3610c28028522c22f6ef8",
+        "title": "Valkyria Chronicles",
+        "season": 1,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "hWWi7UiiE"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "OIR9moOkX"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/eeeea58a24914e9360820d27292fc65d/master.m3u8?md5=M61VQCCaxzZP1hK_RFlAwg&expires=1792166482",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/eeeea58a24914e9360820d27292fc65d/master.m3u8?md5=M61VQCCaxzZP1hK_RFlAwg&expires=1792166482",
+            "videoSource": "https://ravok.buzz/cdn/hls/eeeea58a24914e9360820d27292fc65d/master.m3u8?md5=M61VQCCaxzZP1hK_RFlAwg&expires=1792166482",
+            "videoImage": "https://as-cdn31.top/p/kyRNPPvNgCkBuVcQdTxzU5rKRt4JeTncz4EbE_DroCIcbST1ivT2nPFFISbGTB5oFSB9aeHeYomL0KoMHb9yyA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "fc7079c59bf3610c28028522c22f6ef8",
+                "streamUrl": "https://ravok.buzz/cdn/hls/eeeea58a24914e9360820d27292fc65d/master.m3u8?md5=M61VQCCaxzZP1hK_RFlAwg&expires=1792166482",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/eeeea58a24914e9360820d27292fc65d/master.m3u8?md5=M61VQCCaxzZP1hK_RFlAwg&expires=1792166482",
+                "videoSource": "https://ravok.buzz/cdn/hls/eeeea58a24914e9360820d27292fc65d/master.m3u8?md5=M61VQCCaxzZP1hK_RFlAwg&expires=1792166482",
+                "link": "https://ravok.buzz/cdn/hls/eeeea58a24914e9360820d27292fc65d/master.m3u8?md5=M61VQCCaxzZP1hK_RFlAwg&expires=1792166482",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/kyRNPPvNgCkBuVcQdTxzU5rKRt4JeTncz4EbE_DroCIcbST1ivT2nPFFISbGTB5oFSB9aeHeYomL0KoMHb9yyA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "hWWi7UiiE"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:32Z"
+    },
+    {
+      "id": "episode/private-valkyria-chronicles-1x7",
+      "episode_id": "episode/private-valkyria-chronicles-1x7",
+      "title": "Private: Valkyria Chronicles 1x1",
+      "episode_name": "Private: Valkyria Chronicles 1x1",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1869_s1e7.webp",
+      "abyssid": "16319",
+      "abyssId": "16319",
+      "playxid": "978362ce7b096266e2cefb878aa3250b",
+      "playXID": "978362ce7b096266e2cefb878aa3250b",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16319",
+        "playXID": "978362ce7b096266e2cefb878aa3250b",
+        "streamId": "16319",
+        "dubPlayerSrc": "/dub-player/t/16319/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=978362ce7b096266e2cefb878aa3250b&abyssId=16319"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16319",
+        "playXID": "978362ce7b096266e2cefb878aa3250b",
+        "streamId": "16319",
+        "dubPlayerSrc": "/dub-player/t/16319/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=978362ce7b096266e2cefb878aa3250b&abyssId=16319"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/978362ce7b096266e2cefb878aa3250b",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/978362ce7b096266e2cefb878aa3250b"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16319",
+        "abyssId": "16319",
+        "playXID": "978362ce7b096266e2cefb878aa3250b",
+        "title": "Valkyria Chronicles",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "IqJGtbpZy"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "QrmJ9Nl0I"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/840cbc8dff0282783f2fa033ebdd0079/master.m3u8?md5=3ZreC3udKJPPkzLObcMEuw&expires=1792166482",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/840cbc8dff0282783f2fa033ebdd0079/master.m3u8?md5=3ZreC3udKJPPkzLObcMEuw&expires=1792166482",
+            "videoSource": "https://ravok.buzz/cdn/hls/840cbc8dff0282783f2fa033ebdd0079/master.m3u8?md5=3ZreC3udKJPPkzLObcMEuw&expires=1792166482",
+            "videoImage": "https://as-cdn27.top/p/kyRNPPvNgCkBuVcQdTxzU-QtL54bi7xH4QgiNmqDOICNeSttESyorsoS3WEJJAXOBwoAre_hiuv56p7mq79uKw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "978362ce7b096266e2cefb878aa3250b",
+                "streamUrl": "https://ravok.buzz/cdn/hls/840cbc8dff0282783f2fa033ebdd0079/master.m3u8?md5=3ZreC3udKJPPkzLObcMEuw&expires=1792166482",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/840cbc8dff0282783f2fa033ebdd0079/master.m3u8?md5=3ZreC3udKJPPkzLObcMEuw&expires=1792166482",
+                "videoSource": "https://ravok.buzz/cdn/hls/840cbc8dff0282783f2fa033ebdd0079/master.m3u8?md5=3ZreC3udKJPPkzLObcMEuw&expires=1792166482",
+                "link": "https://ravok.buzz/cdn/hls/840cbc8dff0282783f2fa033ebdd0079/master.m3u8?md5=3ZreC3udKJPPkzLObcMEuw&expires=1792166482",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/kyRNPPvNgCkBuVcQdTxzU-QtL54bi7xH4QgiNmqDOICNeSttESyorsoS3WEJJAXOBwoAre_hiuv56p7mq79uKw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "IqJGtbpZy"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:32Z"
+    },
+    {
+      "id": "episode/private-valkyria-chronicles-1x9",
+      "episode_id": "episode/private-valkyria-chronicles-1x9",
+      "title": "Private: Valkyria Chronicles 1x1",
+      "episode_name": "Private: Valkyria Chronicles 1x1",
+      "episode_number": 9,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1869_s1e9.webp",
+      "abyssid": "16321",
+      "abyssId": "16321",
+      "playxid": "133fb38e53d861f95008113cca0fefbe",
+      "playXID": "133fb38e53d861f95008113cca0fefbe",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16321",
+        "playXID": "133fb38e53d861f95008113cca0fefbe",
+        "streamId": "16321",
+        "dubPlayerSrc": "/dub-player/t/16321/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=133fb38e53d861f95008113cca0fefbe&abyssId=16321"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16321",
+        "playXID": "133fb38e53d861f95008113cca0fefbe",
+        "streamId": "16321",
+        "dubPlayerSrc": "/dub-player/t/16321/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=133fb38e53d861f95008113cca0fefbe&abyssId=16321"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/133fb38e53d861f95008113cca0fefbe",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/133fb38e53d861f95008113cca0fefbe"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16321",
+        "abyssId": "16321",
+        "playXID": "133fb38e53d861f95008113cca0fefbe",
+        "title": "Valkyria Chronicles",
+        "season": 1,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "VHsyRFzSL"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "AfSq4YOHC"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "VHsyRFzSL"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:32Z"
+    },
+    {
+      "id": "episode/private-valkyria-chronicles-1x10",
+      "episode_id": "episode/private-valkyria-chronicles-1x10",
+      "title": "Private: Valkyria Chronicles 1x1",
+      "episode_name": "Private: Valkyria Chronicles 1x1",
+      "episode_number": 10,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1869_s1e10.webp",
+      "abyssid": "16322",
+      "abyssId": "16322",
+      "playxid": "2a51f806ae5d54633cd1a0ce91256a3c",
+      "playXID": "2a51f806ae5d54633cd1a0ce91256a3c",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16322",
+        "playXID": "2a51f806ae5d54633cd1a0ce91256a3c",
+        "streamId": "16322",
+        "dubPlayerSrc": "/dub-player/t/16322/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2a51f806ae5d54633cd1a0ce91256a3c&abyssId=16322"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16322",
+        "playXID": "2a51f806ae5d54633cd1a0ce91256a3c",
+        "streamId": "16322",
+        "dubPlayerSrc": "/dub-player/t/16322/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2a51f806ae5d54633cd1a0ce91256a3c&abyssId=16322"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/2a51f806ae5d54633cd1a0ce91256a3c",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/2a51f806ae5d54633cd1a0ce91256a3c"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16322",
+        "abyssId": "16322",
+        "playXID": "2a51f806ae5d54633cd1a0ce91256a3c",
+        "title": "Valkyria Chronicles",
+        "season": 1,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "uqclkFmmM"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "U0wBTRNZ1"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/1dfefe6d0fbea4d9ea33bfe5169c75b1/master.m3u8?md5=I37ahx8rSe7lldLMGkLbWQ&expires=1792166482",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/1dfefe6d0fbea4d9ea33bfe5169c75b1/master.m3u8?md5=I37ahx8rSe7lldLMGkLbWQ&expires=1792166482",
+            "videoSource": "https://ravok.buzz/cdn/hls/1dfefe6d0fbea4d9ea33bfe5169c75b1/master.m3u8?md5=I37ahx8rSe7lldLMGkLbWQ&expires=1792166482",
+            "videoImage": "https://as-cdn29.top/p/kyRNPPvNgCkBuVcQdTxzU9EJUPjGtJVzWlZMxPmg6FA7EYtR7iPM4MMgPAfd9pvBmKvpaxyh0AAXlgQs6tOTFw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "2a51f806ae5d54633cd1a0ce91256a3c",
+                "streamUrl": "https://ravok.buzz/cdn/hls/1dfefe6d0fbea4d9ea33bfe5169c75b1/master.m3u8?md5=I37ahx8rSe7lldLMGkLbWQ&expires=1792166482",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/1dfefe6d0fbea4d9ea33bfe5169c75b1/master.m3u8?md5=I37ahx8rSe7lldLMGkLbWQ&expires=1792166482",
+                "videoSource": "https://ravok.buzz/cdn/hls/1dfefe6d0fbea4d9ea33bfe5169c75b1/master.m3u8?md5=I37ahx8rSe7lldLMGkLbWQ&expires=1792166482",
+                "link": "https://ravok.buzz/cdn/hls/1dfefe6d0fbea4d9ea33bfe5169c75b1/master.m3u8?md5=I37ahx8rSe7lldLMGkLbWQ&expires=1792166482",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/kyRNPPvNgCkBuVcQdTxzU9EJUPjGtJVzWlZMxPmg6FA7EYtR7iPM4MMgPAfd9pvBmKvpaxyh0AAXlgQs6tOTFw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "uqclkFmmM"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:32Z"
+    },
+    {
+      "id": "episode/private-valkyria-chronicles-1x11",
+      "episode_id": "episode/private-valkyria-chronicles-1x11",
+      "title": "Private: Valkyria Chronicles 1x1",
+      "episode_name": "Private: Valkyria Chronicles 1x1",
+      "episode_number": 11,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1869_s1e11.webp",
+      "abyssid": "16323",
+      "abyssId": "16323",
+      "playxid": "b50aefa43e5793f3bf645fc35f4ba895",
+      "playXID": "b50aefa43e5793f3bf645fc35f4ba895",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16323",
+        "playXID": "b50aefa43e5793f3bf645fc35f4ba895",
+        "streamId": "16323",
+        "dubPlayerSrc": "/dub-player/t/16323/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b50aefa43e5793f3bf645fc35f4ba895&abyssId=16323"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16323",
+        "playXID": "b50aefa43e5793f3bf645fc35f4ba895",
+        "streamId": "16323",
+        "dubPlayerSrc": "/dub-player/t/16323/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b50aefa43e5793f3bf645fc35f4ba895&abyssId=16323"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/b50aefa43e5793f3bf645fc35f4ba895",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/b50aefa43e5793f3bf645fc35f4ba895"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16323",
+        "abyssId": "16323",
+        "playXID": "b50aefa43e5793f3bf645fc35f4ba895",
+        "title": "Valkyria Chronicles",
+        "season": 1,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "_kfX1UNTy"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "k1y7excC9"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "_kfX1UNTy"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:34Z"
+    },
+    {
+      "id": "episode/private-valkyria-chronicles-1x12",
+      "episode_id": "episode/private-valkyria-chronicles-1x12",
+      "title": "Private: Valkyria Chronicles 1x1",
+      "episode_name": "Private: Valkyria Chronicles 1x1",
+      "episode_number": 12,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1869_s1e12.webp",
+      "abyssid": "16324",
+      "abyssId": "16324",
+      "playxid": "91a448039265fc4a83f545a4945e37a3",
+      "playXID": "91a448039265fc4a83f545a4945e37a3",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16324",
+        "playXID": "91a448039265fc4a83f545a4945e37a3",
+        "streamId": "16324",
+        "dubPlayerSrc": "/dub-player/t/16324/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=91a448039265fc4a83f545a4945e37a3&abyssId=16324"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16324",
+        "playXID": "91a448039265fc4a83f545a4945e37a3",
+        "streamId": "16324",
+        "dubPlayerSrc": "/dub-player/t/16324/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=91a448039265fc4a83f545a4945e37a3&abyssId=16324"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/91a448039265fc4a83f545a4945e37a3",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/91a448039265fc4a83f545a4945e37a3"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16324",
+        "abyssId": "16324",
+        "playXID": "91a448039265fc4a83f545a4945e37a3",
+        "title": "Valkyria Chronicles",
+        "season": 1,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "VJhInG7cX"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "TplcjGQH0"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/6d8913b2d8ab82eb8bf5224370b274be/master.m3u8?md5=aLEXR5zn6lB5kipBZL_nrQ&expires=1792166484",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/6d8913b2d8ab82eb8bf5224370b274be/master.m3u8?md5=aLEXR5zn6lB5kipBZL_nrQ&expires=1792166484",
+            "videoSource": "https://ravok.buzz/cdn/hls/6d8913b2d8ab82eb8bf5224370b274be/master.m3u8?md5=aLEXR5zn6lB5kipBZL_nrQ&expires=1792166484",
+            "videoImage": "https://as-cdn29.top/p/kyRNPPvNgCkBuVcQdTxzUyUgjhsSfamaoBcU7R5jIAKqDVv5i1ucOophADW2Lrv53dz6QO06YwZ6wvulbYiUgA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "91a448039265fc4a83f545a4945e37a3",
+                "streamUrl": "https://ravok.buzz/cdn/hls/6d8913b2d8ab82eb8bf5224370b274be/master.m3u8?md5=aLEXR5zn6lB5kipBZL_nrQ&expires=1792166484",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/6d8913b2d8ab82eb8bf5224370b274be/master.m3u8?md5=aLEXR5zn6lB5kipBZL_nrQ&expires=1792166484",
+                "videoSource": "https://ravok.buzz/cdn/hls/6d8913b2d8ab82eb8bf5224370b274be/master.m3u8?md5=aLEXR5zn6lB5kipBZL_nrQ&expires=1792166484",
+                "link": "https://ravok.buzz/cdn/hls/6d8913b2d8ab82eb8bf5224370b274be/master.m3u8?md5=aLEXR5zn6lB5kipBZL_nrQ&expires=1792166484",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/kyRNPPvNgCkBuVcQdTxzUyUgjhsSfamaoBcU7R5jIAKqDVv5i1ucOophADW2Lrv53dz6QO06YwZ6wvulbYiUgA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "VJhInG7cX"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:34Z"
+    },
+    {
+      "id": "episode/private-valkyria-chronicles-1x13",
+      "episode_id": "episode/private-valkyria-chronicles-1x13",
+      "title": "Private: Valkyria Chronicles 1x1",
+      "episode_name": "Private: Valkyria Chronicles 1x1",
+      "episode_number": 13,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1869_s1e13.webp",
+      "abyssid": "16325",
+      "abyssId": "16325",
+      "playxid": "5f26cc984eaa1376b07fc0439d531dba",
+      "playXID": "5f26cc984eaa1376b07fc0439d531dba",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16325",
+        "playXID": "5f26cc984eaa1376b07fc0439d531dba",
+        "streamId": "16325",
+        "dubPlayerSrc": "/dub-player/t/16325/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=5f26cc984eaa1376b07fc0439d531dba&abyssId=16325"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16325",
+        "playXID": "5f26cc984eaa1376b07fc0439d531dba",
+        "streamId": "16325",
+        "dubPlayerSrc": "/dub-player/t/16325/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=5f26cc984eaa1376b07fc0439d531dba&abyssId=16325"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/5f26cc984eaa1376b07fc0439d531dba",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/5f26cc984eaa1376b07fc0439d531dba"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16325",
+        "abyssId": "16325",
+        "playXID": "5f26cc984eaa1376b07fc0439d531dba",
+        "title": "Valkyria Chronicles",
+        "season": 1,
+        "episode": 13,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "HOksUdGDc"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "pgSKTmrsX"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "HOksUdGDc"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:34Z"
+    },
+    {
+      "id": "episode/private-valkyria-chronicles-1x14",
+      "episode_id": "episode/private-valkyria-chronicles-1x14",
+      "title": "Private: Valkyria Chronicles 1x1",
+      "episode_name": "Private: Valkyria Chronicles 1x1",
+      "episode_number": 14,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1869_s1e14.webp",
+      "abyssid": "16326",
+      "abyssId": "16326",
+      "playxid": "1845faa2957cb42b7ddd92b26f114c57",
+      "playXID": "1845faa2957cb42b7ddd92b26f114c57",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16326",
+        "playXID": "1845faa2957cb42b7ddd92b26f114c57",
+        "streamId": "16326",
+        "dubPlayerSrc": "/dub-player/t/16326/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=1845faa2957cb42b7ddd92b26f114c57&abyssId=16326"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16326",
+        "playXID": "1845faa2957cb42b7ddd92b26f114c57",
+        "streamId": "16326",
+        "dubPlayerSrc": "/dub-player/t/16326/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=1845faa2957cb42b7ddd92b26f114c57&abyssId=16326"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/1845faa2957cb42b7ddd92b26f114c57",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/1845faa2957cb42b7ddd92b26f114c57"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16326",
+        "abyssId": "16326",
+        "playXID": "1845faa2957cb42b7ddd92b26f114c57",
+        "title": "Valkyria Chronicles",
+        "season": 1,
+        "episode": 14,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "PpcZyOIip"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "vgjA7PLnP"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/bfbc5fd687e3878609f3498161c707ce/master.m3u8?md5=Aq7cS2cq8-uFjJj1_iS6yw&expires=1792166484",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/bfbc5fd687e3878609f3498161c707ce/master.m3u8?md5=Aq7cS2cq8-uFjJj1_iS6yw&expires=1792166484",
+            "videoSource": "https://ravok.buzz/cdn/hls/bfbc5fd687e3878609f3498161c707ce/master.m3u8?md5=Aq7cS2cq8-uFjJj1_iS6yw&expires=1792166484",
+            "videoImage": "https://as-cdn29.top/p/kyRNPPvNgCkBuVcQdTxzUy1vFgDlPCgJ0FJ4pXW2MkxzVeQPfIydPodKnTMmbXEZLf0SJOtjBfGszXtVXpV8aA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "1845faa2957cb42b7ddd92b26f114c57",
+                "streamUrl": "https://ravok.buzz/cdn/hls/bfbc5fd687e3878609f3498161c707ce/master.m3u8?md5=Aq7cS2cq8-uFjJj1_iS6yw&expires=1792166484",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/bfbc5fd687e3878609f3498161c707ce/master.m3u8?md5=Aq7cS2cq8-uFjJj1_iS6yw&expires=1792166484",
+                "videoSource": "https://ravok.buzz/cdn/hls/bfbc5fd687e3878609f3498161c707ce/master.m3u8?md5=Aq7cS2cq8-uFjJj1_iS6yw&expires=1792166484",
+                "link": "https://ravok.buzz/cdn/hls/bfbc5fd687e3878609f3498161c707ce/master.m3u8?md5=Aq7cS2cq8-uFjJj1_iS6yw&expires=1792166484",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/kyRNPPvNgCkBuVcQdTxzUy1vFgDlPCgJ0FJ4pXW2MkxzVeQPfIydPodKnTMmbXEZLf0SJOtjBfGszXtVXpV8aA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "PpcZyOIip"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:34Z"
+    },
+    {
+      "id": "episode/private-valkyria-chronicles-1x15",
+      "episode_id": "episode/private-valkyria-chronicles-1x15",
+      "title": "Private: Valkyria Chronicles 1x1",
+      "episode_name": "Private: Valkyria Chronicles 1x1",
+      "episode_number": 15,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1869_s1e15.webp",
+      "abyssid": "16327",
+      "abyssId": "16327",
+      "playxid": "976b1a9632d56fe807128f14925de66b",
+      "playXID": "976b1a9632d56fe807128f14925de66b",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16327",
+        "playXID": "976b1a9632d56fe807128f14925de66b",
+        "streamId": "16327",
+        "dubPlayerSrc": "/dub-player/t/16327/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=976b1a9632d56fe807128f14925de66b&abyssId=16327"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16327",
+        "playXID": "976b1a9632d56fe807128f14925de66b",
+        "streamId": "16327",
+        "dubPlayerSrc": "/dub-player/t/16327/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=976b1a9632d56fe807128f14925de66b&abyssId=16327"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/976b1a9632d56fe807128f14925de66b",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/976b1a9632d56fe807128f14925de66b"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16327",
+        "abyssId": "16327",
+        "playXID": "976b1a9632d56fe807128f14925de66b",
+        "title": "Valkyria Chronicles",
+        "season": 1,
+        "episode": 15,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "-7jDzQuV0"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "AEQtT0G2a"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/1afd7577fe7d575bb100bd0ca2299bc5/master.m3u8?md5=03NHKBRz0fMUZW7NIzUA3Q&expires=1792166484",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/1afd7577fe7d575bb100bd0ca2299bc5/master.m3u8?md5=03NHKBRz0fMUZW7NIzUA3Q&expires=1792166484",
+            "videoSource": "https://ravok.buzz/cdn/hls/1afd7577fe7d575bb100bd0ca2299bc5/master.m3u8?md5=03NHKBRz0fMUZW7NIzUA3Q&expires=1792166484",
+            "videoImage": "https://as-cdn28.top/p/kyRNPPvNgCkBuVcQdTxzU7w_jsOL5je-QiF1XCLnwkUY7S6J3AQ956edJgx5lGA7a0UTgRZGRPqsNJmjXqoiBQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "976b1a9632d56fe807128f14925de66b",
+                "streamUrl": "https://ravok.buzz/cdn/hls/1afd7577fe7d575bb100bd0ca2299bc5/master.m3u8?md5=03NHKBRz0fMUZW7NIzUA3Q&expires=1792166484",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/1afd7577fe7d575bb100bd0ca2299bc5/master.m3u8?md5=03NHKBRz0fMUZW7NIzUA3Q&expires=1792166484",
+                "videoSource": "https://ravok.buzz/cdn/hls/1afd7577fe7d575bb100bd0ca2299bc5/master.m3u8?md5=03NHKBRz0fMUZW7NIzUA3Q&expires=1792166484",
+                "link": "https://ravok.buzz/cdn/hls/1afd7577fe7d575bb100bd0ca2299bc5/master.m3u8?md5=03NHKBRz0fMUZW7NIzUA3Q&expires=1792166484",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/kyRNPPvNgCkBuVcQdTxzU7w_jsOL5je-QiF1XCLnwkUY7S6J3AQ956edJgx5lGA7a0UTgRZGRPqsNJmjXqoiBQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "-7jDzQuV0"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:35Z"
+    },
+    {
+      "id": "episode/private-valkyria-chronicles-1x17",
+      "episode_id": "episode/private-valkyria-chronicles-1x17",
+      "title": "Private: Valkyria Chronicles 1x1",
+      "episode_name": "Private: Valkyria Chronicles 1x1",
+      "episode_number": 17,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1869_s1e17.webp",
+      "abyssid": "16329",
+      "abyssId": "16329",
+      "playxid": "b0a3f2a0d6f86051e6ab6c49d6d99e75",
+      "playXID": "b0a3f2a0d6f86051e6ab6c49d6d99e75",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16329",
+        "playXID": "b0a3f2a0d6f86051e6ab6c49d6d99e75",
+        "streamId": "16329",
+        "dubPlayerSrc": "/dub-player/t/16329/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b0a3f2a0d6f86051e6ab6c49d6d99e75&abyssId=16329"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16329",
+        "playXID": "b0a3f2a0d6f86051e6ab6c49d6d99e75",
+        "streamId": "16329",
+        "dubPlayerSrc": "/dub-player/t/16329/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b0a3f2a0d6f86051e6ab6c49d6d99e75&abyssId=16329"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/b0a3f2a0d6f86051e6ab6c49d6d99e75",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/b0a3f2a0d6f86051e6ab6c49d6d99e75"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16329",
+        "abyssId": "16329",
+        "playXID": "b0a3f2a0d6f86051e6ab6c49d6d99e75",
+        "title": "Valkyria Chronicles",
+        "season": 1,
+        "episode": 17,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "Asd2KIb9O"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "dIQz_gV5S"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/c7282498fa2ff0bc64666d499bee8380/master.m3u8?md5=Hy0JdnMzZWnZsHLw8irfYA&expires=1792166486",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/c7282498fa2ff0bc64666d499bee8380/master.m3u8?md5=Hy0JdnMzZWnZsHLw8irfYA&expires=1792166486",
+            "videoSource": "https://ravok.buzz/cdn/hls/c7282498fa2ff0bc64666d499bee8380/master.m3u8?md5=Hy0JdnMzZWnZsHLw8irfYA&expires=1792166486",
+            "videoImage": "https://as-cdn30.top/p/kyRNPPvNgCkBuVcQdTxzU5z2hQyqiw2Xm23Ci_JtqOMqWHgFsazV0JizHdazaDWCVvXayidgh0wBWoCPeOahYQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "b0a3f2a0d6f86051e6ab6c49d6d99e75",
+                "streamUrl": "https://ravok.buzz/cdn/hls/c7282498fa2ff0bc64666d499bee8380/master.m3u8?md5=Hy0JdnMzZWnZsHLw8irfYA&expires=1792166486",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/c7282498fa2ff0bc64666d499bee8380/master.m3u8?md5=Hy0JdnMzZWnZsHLw8irfYA&expires=1792166486",
+                "videoSource": "https://ravok.buzz/cdn/hls/c7282498fa2ff0bc64666d499bee8380/master.m3u8?md5=Hy0JdnMzZWnZsHLw8irfYA&expires=1792166486",
+                "link": "https://ravok.buzz/cdn/hls/c7282498fa2ff0bc64666d499bee8380/master.m3u8?md5=Hy0JdnMzZWnZsHLw8irfYA&expires=1792166486",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/kyRNPPvNgCkBuVcQdTxzU5z2hQyqiw2Xm23Ci_JtqOMqWHgFsazV0JizHdazaDWCVvXayidgh0wBWoCPeOahYQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "Asd2KIb9O"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:36Z"
+    },
+    {
+      "id": "episode/private-valkyria-chronicles-1x16",
+      "episode_id": "episode/private-valkyria-chronicles-1x16",
+      "title": "Private: Valkyria Chronicles 1x1",
+      "episode_name": "Private: Valkyria Chronicles 1x1",
+      "episode_number": 16,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1869_s1e16.webp",
+      "abyssid": "16328",
+      "abyssId": "16328",
+      "playxid": "864dc00769bd71798c589f363eb7d222",
+      "playXID": "864dc00769bd71798c589f363eb7d222",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16328",
+        "playXID": "864dc00769bd71798c589f363eb7d222",
+        "streamId": "16328",
+        "dubPlayerSrc": "/dub-player/t/16328/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=864dc00769bd71798c589f363eb7d222&abyssId=16328"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16328",
+        "playXID": "864dc00769bd71798c589f363eb7d222",
+        "streamId": "16328",
+        "dubPlayerSrc": "/dub-player/t/16328/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=864dc00769bd71798c589f363eb7d222&abyssId=16328"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/864dc00769bd71798c589f363eb7d222",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/864dc00769bd71798c589f363eb7d222"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16328",
+        "abyssId": "16328",
+        "playXID": "864dc00769bd71798c589f363eb7d222",
+        "title": "Valkyria Chronicles",
+        "season": 1,
+        "episode": 16,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "PSVgVhpZ_"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "ahZPLuQlL"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "PSVgVhpZ_"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:36Z"
+    },
+    {
+      "id": "episode/private-valkyria-chronicles-1x19",
+      "episode_id": "episode/private-valkyria-chronicles-1x19",
+      "title": "Private: Valkyria Chronicles 1x1",
+      "episode_name": "Private: Valkyria Chronicles 1x1",
+      "episode_number": 19,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1869_s1e19.webp",
+      "abyssid": "16331",
+      "abyssId": "16331",
+      "playxid": "f8218cc7aea3923da3fab72d435544c0",
+      "playXID": "f8218cc7aea3923da3fab72d435544c0",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16331",
+        "playXID": "f8218cc7aea3923da3fab72d435544c0",
+        "streamId": "16331",
+        "dubPlayerSrc": "/dub-player/t/16331/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f8218cc7aea3923da3fab72d435544c0&abyssId=16331"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16331",
+        "playXID": "f8218cc7aea3923da3fab72d435544c0",
+        "streamId": "16331",
+        "dubPlayerSrc": "/dub-player/t/16331/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=f8218cc7aea3923da3fab72d435544c0&abyssId=16331"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/f8218cc7aea3923da3fab72d435544c0",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/f8218cc7aea3923da3fab72d435544c0"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16331",
+        "abyssId": "16331",
+        "playXID": "f8218cc7aea3923da3fab72d435544c0",
+        "title": "Valkyria Chronicles",
+        "season": 1,
+        "episode": 19,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "0UmstUV0I"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "15VRT2pld"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "0UmstUV0I"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:36Z"
+    },
+    {
+      "id": "episode/private-valkyria-chronicles-1x20",
+      "episode_id": "episode/private-valkyria-chronicles-1x20",
+      "title": "Private: Valkyria Chronicles 1x1",
+      "episode_name": "Private: Valkyria Chronicles 1x1",
+      "episode_number": 20,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1869_s1e20.webp",
+      "abyssid": "16332",
+      "abyssId": "16332",
+      "playxid": "57e249d780392f6757229ae62dc68318",
+      "playXID": "57e249d780392f6757229ae62dc68318",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16332",
+        "playXID": "57e249d780392f6757229ae62dc68318",
+        "streamId": "16332",
+        "dubPlayerSrc": "/dub-player/t/16332/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=57e249d780392f6757229ae62dc68318&abyssId=16332"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16332",
+        "playXID": "57e249d780392f6757229ae62dc68318",
+        "streamId": "16332",
+        "dubPlayerSrc": "/dub-player/t/16332/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=57e249d780392f6757229ae62dc68318&abyssId=16332"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/57e249d780392f6757229ae62dc68318",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/57e249d780392f6757229ae62dc68318"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16332",
+        "abyssId": "16332",
+        "playXID": "57e249d780392f6757229ae62dc68318",
+        "title": "Valkyria Chronicles",
+        "season": 1,
+        "episode": 20,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "xiSGdinDA"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "Lf0EWiem0"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "xiSGdinDA"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:36Z"
+    },
+    {
+      "id": "episode/private-valkyria-chronicles-1x18",
+      "episode_id": "episode/private-valkyria-chronicles-1x18",
+      "title": "Private: Valkyria Chronicles 1x1",
+      "episode_name": "Private: Valkyria Chronicles 1x1",
+      "episode_number": 18,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1869_s1e18.webp",
+      "abyssid": "16330",
+      "abyssId": "16330",
+      "playxid": "a3b1c195e3033e5086eb7482c0942e4a",
+      "playXID": "a3b1c195e3033e5086eb7482c0942e4a",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16330",
+        "playXID": "a3b1c195e3033e5086eb7482c0942e4a",
+        "streamId": "16330",
+        "dubPlayerSrc": "/dub-player/t/16330/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a3b1c195e3033e5086eb7482c0942e4a&abyssId=16330"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16330",
+        "playXID": "a3b1c195e3033e5086eb7482c0942e4a",
+        "streamId": "16330",
+        "dubPlayerSrc": "/dub-player/t/16330/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a3b1c195e3033e5086eb7482c0942e4a&abyssId=16330"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/a3b1c195e3033e5086eb7482c0942e4a",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/a3b1c195e3033e5086eb7482c0942e4a"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16330",
+        "abyssId": "16330",
+        "playXID": "a3b1c195e3033e5086eb7482c0942e4a",
+        "title": "Valkyria Chronicles",
+        "season": 1,
+        "episode": 18,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "8qwQPL3Hd"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "tt6emsYJZ"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "8qwQPL3Hd"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:36Z"
+    },
+    {
+      "id": "episode/private-valkyria-chronicles-1x21",
+      "episode_id": "episode/private-valkyria-chronicles-1x21",
+      "title": "Private: Valkyria Chronicles 1x1",
+      "episode_name": "Private: Valkyria Chronicles 1x1",
+      "episode_number": 21,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1869_s1e21.webp",
+      "abyssid": "16333",
+      "abyssId": "16333",
+      "playxid": "3d7a8f67f51564c349478f7d52abee3b",
+      "playXID": "3d7a8f67f51564c349478f7d52abee3b",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16333",
+        "playXID": "3d7a8f67f51564c349478f7d52abee3b",
+        "streamId": "16333",
+        "dubPlayerSrc": "/dub-player/t/16333/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=3d7a8f67f51564c349478f7d52abee3b&abyssId=16333"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16333",
+        "playXID": "3d7a8f67f51564c349478f7d52abee3b",
+        "streamId": "16333",
+        "dubPlayerSrc": "/dub-player/t/16333/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=3d7a8f67f51564c349478f7d52abee3b&abyssId=16333"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/3d7a8f67f51564c349478f7d52abee3b",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/3d7a8f67f51564c349478f7d52abee3b"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16333",
+        "abyssId": "16333",
+        "playXID": "3d7a8f67f51564c349478f7d52abee3b",
+        "title": "Valkyria Chronicles",
+        "season": 1,
+        "episode": 21,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "59z02_Kux"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "3Od56LHmx"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "59z02_Kux"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:37Z"
+    },
+    {
+      "id": "episode/private-valkyria-chronicles-1x22",
+      "episode_id": "episode/private-valkyria-chronicles-1x22",
+      "title": "Private: Valkyria Chronicles 1x1",
+      "episode_name": "Private: Valkyria Chronicles 1x1",
+      "episode_number": 22,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1869_s1e22.webp",
+      "abyssid": "16334",
+      "abyssId": "16334",
+      "playxid": "6b406fba78d7b12a242a3bff04399604",
+      "playXID": "6b406fba78d7b12a242a3bff04399604",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16334",
+        "playXID": "6b406fba78d7b12a242a3bff04399604",
+        "streamId": "16334",
+        "dubPlayerSrc": "/dub-player/t/16334/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6b406fba78d7b12a242a3bff04399604&abyssId=16334"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16334",
+        "playXID": "6b406fba78d7b12a242a3bff04399604",
+        "streamId": "16334",
+        "dubPlayerSrc": "/dub-player/t/16334/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6b406fba78d7b12a242a3bff04399604&abyssId=16334"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/6b406fba78d7b12a242a3bff04399604",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/6b406fba78d7b12a242a3bff04399604"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16334",
+        "abyssId": "16334",
+        "playXID": "6b406fba78d7b12a242a3bff04399604",
+        "title": "Valkyria Chronicles",
+        "season": 1,
+        "episode": 22,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "fqA5oMzIG"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "U1llTpUaq"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/d15dce74f538f99613d95d94dab25c0c/master.m3u8?md5=ctJZ8-rSj6Ms1siOT4WcqA&expires=1792166488",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/d15dce74f538f99613d95d94dab25c0c/master.m3u8?md5=ctJZ8-rSj6Ms1siOT4WcqA&expires=1792166488",
+            "videoSource": "https://ravok.buzz/cdn/hls/d15dce74f538f99613d95d94dab25c0c/master.m3u8?md5=ctJZ8-rSj6Ms1siOT4WcqA&expires=1792166488",
+            "videoImage": "https://as-cdn27.top/p/kyRNPPvNgCkBuVcQdTxzU0xoAGamY6e_qk-e4FrypsWAQ_8UUahtxMLMLgYLpf1PTcmNnljaKUVLaYkS_m0SWQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "6b406fba78d7b12a242a3bff04399604",
+                "streamUrl": "https://ravok.buzz/cdn/hls/d15dce74f538f99613d95d94dab25c0c/master.m3u8?md5=ctJZ8-rSj6Ms1siOT4WcqA&expires=1792166488",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/d15dce74f538f99613d95d94dab25c0c/master.m3u8?md5=ctJZ8-rSj6Ms1siOT4WcqA&expires=1792166488",
+                "videoSource": "https://ravok.buzz/cdn/hls/d15dce74f538f99613d95d94dab25c0c/master.m3u8?md5=ctJZ8-rSj6Ms1siOT4WcqA&expires=1792166488",
+                "link": "https://ravok.buzz/cdn/hls/d15dce74f538f99613d95d94dab25c0c/master.m3u8?md5=ctJZ8-rSj6Ms1siOT4WcqA&expires=1792166488",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/kyRNPPvNgCkBuVcQdTxzU0xoAGamY6e_qk-e4FrypsWAQ_8UUahtxMLMLgYLpf1PTcmNnljaKUVLaYkS_m0SWQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "fqA5oMzIG"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:38Z"
+    },
+    {
+      "id": "episode/private-valkyria-chronicles-1x24",
+      "episode_id": "episode/private-valkyria-chronicles-1x24",
+      "title": "Private: Valkyria Chronicles 1x1",
+      "episode_name": "Private: Valkyria Chronicles 1x1",
+      "episode_number": 24,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1869_s1e24.webp",
+      "abyssid": "16336",
+      "abyssId": "16336",
+      "playxid": "5b312a4c28761c463feda5a54c011676",
+      "playXID": "5b312a4c28761c463feda5a54c011676",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16336",
+        "playXID": "5b312a4c28761c463feda5a54c011676",
+        "streamId": "16336",
+        "dubPlayerSrc": "/dub-player/t/16336/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=5b312a4c28761c463feda5a54c011676&abyssId=16336"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16336",
+        "playXID": "5b312a4c28761c463feda5a54c011676",
+        "streamId": "16336",
+        "dubPlayerSrc": "/dub-player/t/16336/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=5b312a4c28761c463feda5a54c011676&abyssId=16336"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/5b312a4c28761c463feda5a54c011676",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/5b312a4c28761c463feda5a54c011676"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16336",
+        "abyssId": "16336",
+        "playXID": "5b312a4c28761c463feda5a54c011676",
+        "title": "Valkyria Chronicles",
+        "season": 1,
+        "episode": 24,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "3_sHKPqAN"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "zNGZ530EN"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "3_sHKPqAN"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:38Z"
+    },
+    {
+      "id": "episode/private-valkyria-chronicles-1x23",
+      "episode_id": "episode/private-valkyria-chronicles-1x23",
+      "title": "Private: Valkyria Chronicles 1x1",
+      "episode_name": "Private: Valkyria Chronicles 1x1",
+      "episode_number": 23,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1869_s1e23.webp",
+      "abyssid": "16335",
+      "abyssId": "16335",
+      "playxid": "1a8207690ac54d845f7a57dd468970fa",
+      "playXID": "1a8207690ac54d845f7a57dd468970fa",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16335",
+        "playXID": "1a8207690ac54d845f7a57dd468970fa",
+        "streamId": "16335",
+        "dubPlayerSrc": "/dub-player/t/16335/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=1a8207690ac54d845f7a57dd468970fa&abyssId=16335"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16335",
+        "playXID": "1a8207690ac54d845f7a57dd468970fa",
+        "streamId": "16335",
+        "dubPlayerSrc": "/dub-player/t/16335/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=1a8207690ac54d845f7a57dd468970fa&abyssId=16335"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/1a8207690ac54d845f7a57dd468970fa",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/1a8207690ac54d845f7a57dd468970fa"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16335",
+        "abyssId": "16335",
+        "playXID": "1a8207690ac54d845f7a57dd468970fa",
+        "title": "Valkyria Chronicles",
+        "season": 1,
+        "episode": 23,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "jkW4REAoK"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "V_4YUbVMZ"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/b4802261f79a1e9685a1f0f418c1330f/master.m3u8?md5=Js7hX-AEJT8S0tDCTUbLBA&expires=1792166488",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/b4802261f79a1e9685a1f0f418c1330f/master.m3u8?md5=Js7hX-AEJT8S0tDCTUbLBA&expires=1792166488",
+            "videoSource": "https://ravok.buzz/cdn/hls/b4802261f79a1e9685a1f0f418c1330f/master.m3u8?md5=Js7hX-AEJT8S0tDCTUbLBA&expires=1792166488",
+            "videoImage": "https://as-cdn28.top/p/kyRNPPvNgCkBuVcQdTxzU26aSY51v8qi_jk-rGbVSVdvdVoJ4h8tgbOweNLBWh6_LAvS-uf5PYQ4JfekS7mIPA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "1a8207690ac54d845f7a57dd468970fa",
+                "streamUrl": "https://ravok.buzz/cdn/hls/b4802261f79a1e9685a1f0f418c1330f/master.m3u8?md5=Js7hX-AEJT8S0tDCTUbLBA&expires=1792166488",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/b4802261f79a1e9685a1f0f418c1330f/master.m3u8?md5=Js7hX-AEJT8S0tDCTUbLBA&expires=1792166488",
+                "videoSource": "https://ravok.buzz/cdn/hls/b4802261f79a1e9685a1f0f418c1330f/master.m3u8?md5=Js7hX-AEJT8S0tDCTUbLBA&expires=1792166488",
+                "link": "https://ravok.buzz/cdn/hls/b4802261f79a1e9685a1f0f418c1330f/master.m3u8?md5=Js7hX-AEJT8S0tDCTUbLBA&expires=1792166488",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/kyRNPPvNgCkBuVcQdTxzU26aSY51v8qi_jk-rGbVSVdvdVoJ4h8tgbOweNLBWh6_LAvS-uf5PYQ4JfekS7mIPA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "jkW4REAoK"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:38Z"
+    },
+    {
+      "id": "episode/private-valkyria-chronicles-1x26",
+      "episode_id": "episode/private-valkyria-chronicles-1x26",
+      "title": "Private: Valkyria Chronicles 1x1",
+      "episode_name": "Private: Valkyria Chronicles 1x1",
+      "episode_number": 26,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1869_s1e26.webp",
+      "abyssid": "16338",
+      "abyssId": "16338",
+      "playxid": "18b0ad2e92c278e9f6f4d23bfe8d9c77",
+      "playXID": "18b0ad2e92c278e9f6f4d23bfe8d9c77",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16338",
+        "playXID": "18b0ad2e92c278e9f6f4d23bfe8d9c77",
+        "streamId": "16338",
+        "dubPlayerSrc": "/dub-player/t/16338/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=18b0ad2e92c278e9f6f4d23bfe8d9c77&abyssId=16338"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16338",
+        "playXID": "18b0ad2e92c278e9f6f4d23bfe8d9c77",
+        "streamId": "16338",
+        "dubPlayerSrc": "/dub-player/t/16338/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=18b0ad2e92c278e9f6f4d23bfe8d9c77&abyssId=16338"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/18b0ad2e92c278e9f6f4d23bfe8d9c77",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/18b0ad2e92c278e9f6f4d23bfe8d9c77"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16338",
+        "abyssId": "16338",
+        "playXID": "18b0ad2e92c278e9f6f4d23bfe8d9c77",
+        "title": "Valkyria Chronicles",
+        "season": 1,
+        "episode": 26,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "S6Ueh9-5y"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "WrGimmw0f"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "S6Ueh9-5y"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:40Z"
+    },
+    {
+      "id": "episode/private-valkyria-chronicles-1x25",
+      "episode_id": "episode/private-valkyria-chronicles-1x25",
+      "title": "Private: Valkyria Chronicles 1x1",
+      "episode_name": "Private: Valkyria Chronicles 1x1",
+      "episode_number": 25,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1869_s1e25.webp",
+      "abyssid": "16337",
+      "abyssId": "16337",
+      "playxid": "26a95b3bf6c0fa4ba909250facfb5ae9",
+      "playXID": "26a95b3bf6c0fa4ba909250facfb5ae9",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16337",
+        "playXID": "26a95b3bf6c0fa4ba909250facfb5ae9",
+        "streamId": "16337",
+        "dubPlayerSrc": "/dub-player/t/16337/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=26a95b3bf6c0fa4ba909250facfb5ae9&abyssId=16337"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16337",
+        "playXID": "26a95b3bf6c0fa4ba909250facfb5ae9",
+        "streamId": "16337",
+        "dubPlayerSrc": "/dub-player/t/16337/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=26a95b3bf6c0fa4ba909250facfb5ae9&abyssId=16337"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/26a95b3bf6c0fa4ba909250facfb5ae9",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/26a95b3bf6c0fa4ba909250facfb5ae9"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16337",
+        "abyssId": "16337",
+        "playXID": "26a95b3bf6c0fa4ba909250facfb5ae9",
+        "title": "Valkyria Chronicles",
+        "season": 1,
+        "episode": 25,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "-Rjb-cH9L"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "aykvMqetZ"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "-Rjb-cH9L"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:43Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T14:01:28Z",
+  "updated_at": "2026-10-16T14:01:43Z"
+}

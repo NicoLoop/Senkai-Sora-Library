@@ -1,0 +1,1359 @@
+{
+  "id": "series/akuma-kun",
+  "series_name": "Akuma Kun",
+  "title": "Akuma Kun",
+  "banner": "https://image.tmdb.org/t/p/w1280/v9LyHEsDKVi27OAjYIrL46Qsgc.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/zPPYeLhEFbZjImIvGcfvZEIBFQl.jpg",
+  "genra": [
+    "Action",
+    "Adventure",
+    "Family",
+    "Horror",
+    "Mystery",
+    "Supernatural",
+    "Suspense"
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Family",
+    "Horror",
+    "Mystery",
+    "Supernatural",
+    "Suspense"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Japanese"
+  ],
+  "synopsis": "Akuma Kun, a boy raised by a demon, works with his half-human partner Mephisto III as paranormal investigators to solve various murder and mysteries.",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Private: Akuma Kun 1x1",
+          "id": "episode/private-akuma-kun-1x1",
+          "image": "https://img.watchanimeworld.one/img/thumb_1876_s1e1.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "Private: Akuma Kun 1x2",
+          "id": "episode/private-akuma-kun-1x2",
+          "image": "https://img.watchanimeworld.one/img/thumb_1876_s1e2.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "Private: Akuma Kun 1x3",
+          "id": "episode/private-akuma-kun-1x3",
+          "image": "https://img.watchanimeworld.one/img/thumb_1876_s1e3.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "Private: Akuma Kun 1x4",
+          "id": "episode/private-akuma-kun-1x4",
+          "image": "https://img.watchanimeworld.one/img/thumb_1876_s1e4.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "Private: Akuma Kun 1x5",
+          "id": "episode/private-akuma-kun-1x5",
+          "image": "https://img.watchanimeworld.one/img/thumb_1876_s1e5.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "Private: Akuma Kun 1x6",
+          "id": "episode/private-akuma-kun-1x6",
+          "image": "https://img.watchanimeworld.one/img/thumb_1876_s1e6.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "Private: Akuma Kun 1x7",
+          "id": "episode/private-akuma-kun-1x7",
+          "image": "https://img.watchanimeworld.one/img/thumb_1876_s1e7.webp",
+          "season": 1
+        },
+        {
+          "episode": 8,
+          "title": "Private: Akuma Kun 1x8",
+          "id": "episode/private-akuma-kun-1x8",
+          "image": "https://img.watchanimeworld.one/img/thumb_1876_s1e8.webp",
+          "season": 1
+        },
+        {
+          "episode": 9,
+          "title": "Private: Akuma Kun 1x9",
+          "id": "episode/private-akuma-kun-1x9",
+          "image": "https://img.watchanimeworld.one/img/thumb_1876_s1e9.webp",
+          "season": 1
+        },
+        {
+          "episode": 10,
+          "title": "Private: Akuma Kun 1x10",
+          "id": "episode/private-akuma-kun-1x10",
+          "image": "https://img.watchanimeworld.one/img/thumb_1876_s1e10.webp",
+          "season": 1
+        },
+        {
+          "episode": 11,
+          "title": "Private: Akuma Kun 1x11",
+          "id": "episode/private-akuma-kun-1x11",
+          "image": "https://img.watchanimeworld.one/img/thumb_1876_s1e11.webp",
+          "season": 1
+        },
+        {
+          "episode": 12,
+          "title": "Private: Akuma Kun 1x12",
+          "id": "episode/private-akuma-kun-1x12",
+          "image": "https://img.watchanimeworld.one/img/thumb_1876_s1e12.webp",
+          "season": 1
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/private-akuma-kun-1x4",
+      "episode_id": "episode/private-akuma-kun-1x4",
+      "title": "Private: Akuma Kun 1x1",
+      "episode_name": "Private: Akuma Kun 1x1",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1876_s1e4.webp",
+      "abyssid": "16356",
+      "abyssId": "16356",
+      "playxid": "037c4b89b115a70b50f13db0d6b4da9d",
+      "playXID": "037c4b89b115a70b50f13db0d6b4da9d",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16356",
+        "playXID": "037c4b89b115a70b50f13db0d6b4da9d",
+        "streamId": "16356",
+        "dubPlayerSrc": "/dub-player/t/16356/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=037c4b89b115a70b50f13db0d6b4da9d&abyssId=16356"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16356",
+        "playXID": "037c4b89b115a70b50f13db0d6b4da9d",
+        "streamId": "16356",
+        "dubPlayerSrc": "/dub-player/t/16356/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=037c4b89b115a70b50f13db0d6b4da9d&abyssId=16356"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/037c4b89b115a70b50f13db0d6b4da9d",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/037c4b89b115a70b50f13db0d6b4da9d"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16356",
+        "abyssId": "16356",
+        "playXID": "037c4b89b115a70b50f13db0d6b4da9d",
+        "title": "Akuma Kun",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "30sjKYEk7"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "UGI__QC2p"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "ymAh5JAFv"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/902a057e548edea727e6e9253ec28501/master.m3u8?md5=Z9pVKbpjnkaXqRnYqtPEMA&expires=1792166471",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/902a057e548edea727e6e9253ec28501/master.m3u8?md5=Z9pVKbpjnkaXqRnYqtPEMA&expires=1792166471",
+            "videoSource": "https://ravok.buzz/cdn/hls/902a057e548edea727e6e9253ec28501/master.m3u8?md5=Z9pVKbpjnkaXqRnYqtPEMA&expires=1792166471",
+            "videoImage": "https://as-cdn29.top/p/kyRNPPvNgCkBuVcQdTxzU7DZqSEh8KrSR_OcRtWdFUmWQQICsgQ__J6PrERrSABj4bZgu3SyxK7dZO7Ji1A8eA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "037c4b89b115a70b50f13db0d6b4da9d",
+                "streamUrl": "https://ravok.buzz/cdn/hls/902a057e548edea727e6e9253ec28501/master.m3u8?md5=Z9pVKbpjnkaXqRnYqtPEMA&expires=1792166471",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/902a057e548edea727e6e9253ec28501/master.m3u8?md5=Z9pVKbpjnkaXqRnYqtPEMA&expires=1792166471",
+                "videoSource": "https://ravok.buzz/cdn/hls/902a057e548edea727e6e9253ec28501/master.m3u8?md5=Z9pVKbpjnkaXqRnYqtPEMA&expires=1792166471",
+                "link": "https://ravok.buzz/cdn/hls/902a057e548edea727e6e9253ec28501/master.m3u8?md5=Z9pVKbpjnkaXqRnYqtPEMA&expires=1792166471",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/kyRNPPvNgCkBuVcQdTxzU7DZqSEh8KrSR_OcRtWdFUmWQQICsgQ__J6PrERrSABj4bZgu3SyxK7dZO7Ji1A8eA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "30sjKYEk7"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:21Z"
+    },
+    {
+      "id": "episode/private-akuma-kun-1x1",
+      "episode_id": "episode/private-akuma-kun-1x1",
+      "title": "Private: Akuma Kun 1x1",
+      "episode_name": "Private: Akuma Kun 1x1",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1876_s1e1.webp",
+      "abyssid": "16353",
+      "abyssId": "16353",
+      "playxid": "037ca1e2c1f5248ac197f1086bedfa68",
+      "playXID": "037ca1e2c1f5248ac197f1086bedfa68",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16353",
+        "playXID": "037ca1e2c1f5248ac197f1086bedfa68",
+        "streamId": "16353",
+        "dubPlayerSrc": "/dub-player/t/16353/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=037ca1e2c1f5248ac197f1086bedfa68&abyssId=16353"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16353",
+        "playXID": "037ca1e2c1f5248ac197f1086bedfa68",
+        "streamId": "16353",
+        "dubPlayerSrc": "/dub-player/t/16353/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=037ca1e2c1f5248ac197f1086bedfa68&abyssId=16353"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/037ca1e2c1f5248ac197f1086bedfa68",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/037ca1e2c1f5248ac197f1086bedfa68"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16353",
+        "abyssId": "16353",
+        "playXID": "037ca1e2c1f5248ac197f1086bedfa68",
+        "title": "Akuma Kun",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "DfziwiPIz"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "s5unFKAlH"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "Au5AWvh12"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/8a1a284a717d41e3d677e99c827f228a/master.m3u8?md5=els2U4XO45skv4BiLglfuQ&expires=1792166471",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/8a1a284a717d41e3d677e99c827f228a/master.m3u8?md5=els2U4XO45skv4BiLglfuQ&expires=1792166471",
+            "videoSource": "https://ravok.buzz/cdn/hls/8a1a284a717d41e3d677e99c827f228a/master.m3u8?md5=els2U4XO45skv4BiLglfuQ&expires=1792166471",
+            "videoImage": "https://as-cdn29.top/p/Uh1qyP7GZChFh5VRiKq5vFSAwVHoLUdnSVpHutm25-5toNtpUAPi2zorZYoT1-S4kQKUWx8jifWvN8ab1kR07w.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "037ca1e2c1f5248ac197f1086bedfa68",
+                "streamUrl": "https://ravok.buzz/cdn/hls/8a1a284a717d41e3d677e99c827f228a/master.m3u8?md5=els2U4XO45skv4BiLglfuQ&expires=1792166471",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/8a1a284a717d41e3d677e99c827f228a/master.m3u8?md5=els2U4XO45skv4BiLglfuQ&expires=1792166471",
+                "videoSource": "https://ravok.buzz/cdn/hls/8a1a284a717d41e3d677e99c827f228a/master.m3u8?md5=els2U4XO45skv4BiLglfuQ&expires=1792166471",
+                "link": "https://ravok.buzz/cdn/hls/8a1a284a717d41e3d677e99c827f228a/master.m3u8?md5=els2U4XO45skv4BiLglfuQ&expires=1792166471",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/Uh1qyP7GZChFh5VRiKq5vFSAwVHoLUdnSVpHutm25-5toNtpUAPi2zorZYoT1-S4kQKUWx8jifWvN8ab1kR07w.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "DfziwiPIz"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:21Z"
+    },
+    {
+      "id": "episode/private-akuma-kun-1x5",
+      "episode_id": "episode/private-akuma-kun-1x5",
+      "title": "Private: Akuma Kun 1x1",
+      "episode_name": "Private: Akuma Kun 1x1",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1876_s1e5.webp",
+      "abyssid": "16357",
+      "abyssId": "16357",
+      "playxid": "b9b37cdd198e940b73969ea6ba7aaf72",
+      "playXID": "b9b37cdd198e940b73969ea6ba7aaf72",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16357",
+        "playXID": "b9b37cdd198e940b73969ea6ba7aaf72",
+        "streamId": "16357",
+        "dubPlayerSrc": "/dub-player/t/16357/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b9b37cdd198e940b73969ea6ba7aaf72&abyssId=16357"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16357",
+        "playXID": "b9b37cdd198e940b73969ea6ba7aaf72",
+        "streamId": "16357",
+        "dubPlayerSrc": "/dub-player/t/16357/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b9b37cdd198e940b73969ea6ba7aaf72&abyssId=16357"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/b9b37cdd198e940b73969ea6ba7aaf72",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/b9b37cdd198e940b73969ea6ba7aaf72"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16357",
+        "abyssId": "16357",
+        "playXID": "b9b37cdd198e940b73969ea6ba7aaf72",
+        "title": "Akuma Kun",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "P3VcEKiIh"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "PeWWdZwt5"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "lK2CfQ8wy"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/f5abe2fc579b7fa014c36a00f9e5088a/master.m3u8?md5=_-qFT2pHzU-PfGUeSBakIA&expires=1792166472",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/f5abe2fc579b7fa014c36a00f9e5088a/master.m3u8?md5=_-qFT2pHzU-PfGUeSBakIA&expires=1792166472",
+            "videoSource": "https://ravok.buzz/cdn/hls/f5abe2fc579b7fa014c36a00f9e5088a/master.m3u8?md5=_-qFT2pHzU-PfGUeSBakIA&expires=1792166472",
+            "videoImage": "https://as-cdn31.top/p/kyRNPPvNgCkBuVcQdTxzUwVSQ7fL7qShZmTPgABe7-aYiFo1Dx5ERvEU5yvDf5Wixaon2bKNmYoyjXdlNpv3uA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "b9b37cdd198e940b73969ea6ba7aaf72",
+                "streamUrl": "https://ravok.buzz/cdn/hls/f5abe2fc579b7fa014c36a00f9e5088a/master.m3u8?md5=_-qFT2pHzU-PfGUeSBakIA&expires=1792166472",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/f5abe2fc579b7fa014c36a00f9e5088a/master.m3u8?md5=_-qFT2pHzU-PfGUeSBakIA&expires=1792166472",
+                "videoSource": "https://ravok.buzz/cdn/hls/f5abe2fc579b7fa014c36a00f9e5088a/master.m3u8?md5=_-qFT2pHzU-PfGUeSBakIA&expires=1792166472",
+                "link": "https://ravok.buzz/cdn/hls/f5abe2fc579b7fa014c36a00f9e5088a/master.m3u8?md5=_-qFT2pHzU-PfGUeSBakIA&expires=1792166472",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/kyRNPPvNgCkBuVcQdTxzUwVSQ7fL7qShZmTPgABe7-aYiFo1Dx5ERvEU5yvDf5Wixaon2bKNmYoyjXdlNpv3uA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "P3VcEKiIh"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:21Z"
+    },
+    {
+      "id": "episode/private-akuma-kun-1x6",
+      "episode_id": "episode/private-akuma-kun-1x6",
+      "title": "Private: Akuma Kun 1x1",
+      "episode_name": "Private: Akuma Kun 1x1",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1876_s1e6.webp",
+      "abyssid": "16358",
+      "abyssId": "16358",
+      "playxid": "e45c2dc8d9e5b215ea141f2f609100f9",
+      "playXID": "e45c2dc8d9e5b215ea141f2f609100f9",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16358",
+        "playXID": "e45c2dc8d9e5b215ea141f2f609100f9",
+        "streamId": "16358",
+        "dubPlayerSrc": "/dub-player/t/16358/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e45c2dc8d9e5b215ea141f2f609100f9&abyssId=16358"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16358",
+        "playXID": "e45c2dc8d9e5b215ea141f2f609100f9",
+        "streamId": "16358",
+        "dubPlayerSrc": "/dub-player/t/16358/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e45c2dc8d9e5b215ea141f2f609100f9&abyssId=16358"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/e45c2dc8d9e5b215ea141f2f609100f9",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/e45c2dc8d9e5b215ea141f2f609100f9"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16358",
+        "abyssId": "16358",
+        "playXID": "e45c2dc8d9e5b215ea141f2f609100f9",
+        "title": "Akuma Kun",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "Vga-EZ37Z"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "_gIPvU9Cy"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "Xyc_Z5xES"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/c3a6d9acd5f85a8f0e56cb6b8dffe2a6/master.m3u8?md5=q-IC99ozW7v8lgd1K8BjxQ&expires=1792166473",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/c3a6d9acd5f85a8f0e56cb6b8dffe2a6/master.m3u8?md5=q-IC99ozW7v8lgd1K8BjxQ&expires=1792166473",
+            "videoSource": "https://ravok.buzz/cdn/hls/c3a6d9acd5f85a8f0e56cb6b8dffe2a6/master.m3u8?md5=q-IC99ozW7v8lgd1K8BjxQ&expires=1792166473",
+            "videoImage": "https://as-cdn30.top/p/kyRNPPvNgCkBuVcQdTxzUy48wzEDpZ7bEeTAAcpDl7_8qxa6S_FPh0fJAgAXFaru4Vx8oiIRahN6v5CIfOu3dQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "e45c2dc8d9e5b215ea141f2f609100f9",
+                "streamUrl": "https://ravok.buzz/cdn/hls/c3a6d9acd5f85a8f0e56cb6b8dffe2a6/master.m3u8?md5=q-IC99ozW7v8lgd1K8BjxQ&expires=1792166473",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/c3a6d9acd5f85a8f0e56cb6b8dffe2a6/master.m3u8?md5=q-IC99ozW7v8lgd1K8BjxQ&expires=1792166473",
+                "videoSource": "https://ravok.buzz/cdn/hls/c3a6d9acd5f85a8f0e56cb6b8dffe2a6/master.m3u8?md5=q-IC99ozW7v8lgd1K8BjxQ&expires=1792166473",
+                "link": "https://ravok.buzz/cdn/hls/c3a6d9acd5f85a8f0e56cb6b8dffe2a6/master.m3u8?md5=q-IC99ozW7v8lgd1K8BjxQ&expires=1792166473",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/kyRNPPvNgCkBuVcQdTxzUy48wzEDpZ7bEeTAAcpDl7_8qxa6S_FPh0fJAgAXFaru4Vx8oiIRahN6v5CIfOu3dQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "Vga-EZ37Z"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:23Z"
+    },
+    {
+      "id": "episode/private-akuma-kun-1x8",
+      "episode_id": "episode/private-akuma-kun-1x8",
+      "title": "Private: Akuma Kun 1x1",
+      "episode_name": "Private: Akuma Kun 1x1",
+      "episode_number": 8,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1876_s1e8.webp",
+      "abyssid": "16360",
+      "abyssId": "16360",
+      "playxid": "aa25a165a029282652901f835f9f83b5",
+      "playXID": "aa25a165a029282652901f835f9f83b5",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16360",
+        "playXID": "aa25a165a029282652901f835f9f83b5",
+        "streamId": "16360",
+        "dubPlayerSrc": "/dub-player/t/16360/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=aa25a165a029282652901f835f9f83b5&abyssId=16360"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16360",
+        "playXID": "aa25a165a029282652901f835f9f83b5",
+        "streamId": "16360",
+        "dubPlayerSrc": "/dub-player/t/16360/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=aa25a165a029282652901f835f9f83b5&abyssId=16360"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/aa25a165a029282652901f835f9f83b5",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/aa25a165a029282652901f835f9f83b5"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16360",
+        "abyssId": "16360",
+        "playXID": "aa25a165a029282652901f835f9f83b5",
+        "title": "Akuma Kun",
+        "season": 1,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "ijS--diAd"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "jgY2H_KfU"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "LOBEV6Uxe"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/f6b6bf7678f8b78ee491364d42bf545c/master.m3u8?md5=UfX5PRD3bPWMgeLmGJ5spA&expires=1792166473",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/f6b6bf7678f8b78ee491364d42bf545c/master.m3u8?md5=UfX5PRD3bPWMgeLmGJ5spA&expires=1792166473",
+            "videoSource": "https://ravok.buzz/cdn/hls/f6b6bf7678f8b78ee491364d42bf545c/master.m3u8?md5=UfX5PRD3bPWMgeLmGJ5spA&expires=1792166473",
+            "videoImage": "https://as-cdn31.top/p/6cIA4TmHYSg52Wqq7teXhlGeLD7-GMds95C1Jxu7CjZmf8X4DQLX5hfNDpKq9b5Fzy89qxCK28AxAZ689vL4Qg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "aa25a165a029282652901f835f9f83b5",
+                "streamUrl": "https://ravok.buzz/cdn/hls/f6b6bf7678f8b78ee491364d42bf545c/master.m3u8?md5=UfX5PRD3bPWMgeLmGJ5spA&expires=1792166473",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/f6b6bf7678f8b78ee491364d42bf545c/master.m3u8?md5=UfX5PRD3bPWMgeLmGJ5spA&expires=1792166473",
+                "videoSource": "https://ravok.buzz/cdn/hls/f6b6bf7678f8b78ee491364d42bf545c/master.m3u8?md5=UfX5PRD3bPWMgeLmGJ5spA&expires=1792166473",
+                "link": "https://ravok.buzz/cdn/hls/f6b6bf7678f8b78ee491364d42bf545c/master.m3u8?md5=UfX5PRD3bPWMgeLmGJ5spA&expires=1792166473",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/6cIA4TmHYSg52Wqq7teXhlGeLD7-GMds95C1Jxu7CjZmf8X4DQLX5hfNDpKq9b5Fzy89qxCK28AxAZ689vL4Qg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "ijS--diAd"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:23Z"
+    },
+    {
+      "id": "episode/private-akuma-kun-1x3",
+      "episode_id": "episode/private-akuma-kun-1x3",
+      "title": "Private: Akuma Kun 1x1",
+      "episode_name": "Private: Akuma Kun 1x1",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1876_s1e3.webp",
+      "abyssid": "16355",
+      "abyssId": "16355",
+      "playxid": "646680a2406b2430bde8761a48e4a2ed",
+      "playXID": "646680a2406b2430bde8761a48e4a2ed",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16355",
+        "playXID": "646680a2406b2430bde8761a48e4a2ed",
+        "streamId": "16355",
+        "dubPlayerSrc": "/dub-player/t/16355/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=646680a2406b2430bde8761a48e4a2ed&abyssId=16355"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16355",
+        "playXID": "646680a2406b2430bde8761a48e4a2ed",
+        "streamId": "16355",
+        "dubPlayerSrc": "/dub-player/t/16355/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=646680a2406b2430bde8761a48e4a2ed&abyssId=16355"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/646680a2406b2430bde8761a48e4a2ed",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/646680a2406b2430bde8761a48e4a2ed"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16355",
+        "abyssId": "16355",
+        "playXID": "646680a2406b2430bde8761a48e4a2ed",
+        "title": "Akuma Kun",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "Q3e1mZhOh"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "eFoNd1jZv"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "takaelq3i"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/e156d50ed76ff6c78ac649354ee3b455/master.m3u8?md5=8Ekr18AmV7AmbJvNNxB6AA&expires=1792166474",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/e156d50ed76ff6c78ac649354ee3b455/master.m3u8?md5=8Ekr18AmV7AmbJvNNxB6AA&expires=1792166474",
+            "videoSource": "https://ravok.buzz/cdn/hls/e156d50ed76ff6c78ac649354ee3b455/master.m3u8?md5=8Ekr18AmV7AmbJvNNxB6AA&expires=1792166474",
+            "videoImage": "https://as-cdn30.top/p/kyRNPPvNgCkBuVcQdTxzUwy0b3-bjvIEittZ2JlLDHGxAUJyFWQcMLToBlJu0Lb3DlLfmTSjFwrG9eznCaL0NA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "646680a2406b2430bde8761a48e4a2ed",
+                "streamUrl": "https://ravok.buzz/cdn/hls/e156d50ed76ff6c78ac649354ee3b455/master.m3u8?md5=8Ekr18AmV7AmbJvNNxB6AA&expires=1792166474",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/e156d50ed76ff6c78ac649354ee3b455/master.m3u8?md5=8Ekr18AmV7AmbJvNNxB6AA&expires=1792166474",
+                "videoSource": "https://ravok.buzz/cdn/hls/e156d50ed76ff6c78ac649354ee3b455/master.m3u8?md5=8Ekr18AmV7AmbJvNNxB6AA&expires=1792166474",
+                "link": "https://ravok.buzz/cdn/hls/e156d50ed76ff6c78ac649354ee3b455/master.m3u8?md5=8Ekr18AmV7AmbJvNNxB6AA&expires=1792166474",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/kyRNPPvNgCkBuVcQdTxzUwy0b3-bjvIEittZ2JlLDHGxAUJyFWQcMLToBlJu0Lb3DlLfmTSjFwrG9eznCaL0NA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "Q3e1mZhOh"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:24Z"
+    },
+    {
+      "id": "episode/private-akuma-kun-1x10",
+      "episode_id": "episode/private-akuma-kun-1x10",
+      "title": "Private: Akuma Kun 1x1",
+      "episode_name": "Private: Akuma Kun 1x1",
+      "episode_number": 10,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1876_s1e10.webp",
+      "abyssid": "16362",
+      "abyssId": "16362",
+      "playxid": "3e55526969e8df9ffaefe69d1d590825",
+      "playXID": "3e55526969e8df9ffaefe69d1d590825",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16362",
+        "playXID": "3e55526969e8df9ffaefe69d1d590825",
+        "streamId": "16362",
+        "dubPlayerSrc": "/dub-player/t/16362/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=3e55526969e8df9ffaefe69d1d590825&abyssId=16362"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16362",
+        "playXID": "3e55526969e8df9ffaefe69d1d590825",
+        "streamId": "16362",
+        "dubPlayerSrc": "/dub-player/t/16362/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=3e55526969e8df9ffaefe69d1d590825&abyssId=16362"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/3e55526969e8df9ffaefe69d1d590825",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/3e55526969e8df9ffaefe69d1d590825"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16362",
+        "abyssId": "16362",
+        "playXID": "3e55526969e8df9ffaefe69d1d590825",
+        "title": "Akuma Kun",
+        "season": 1,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "PK4Z8lRi3"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "urjAbVCHJ"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "VMMoHVZik"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/294c0c6a06130dd193d8f43699ec0413/master.m3u8?md5=mgYN33-o3VZPapqajqkTAQ&expires=1792166475",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/294c0c6a06130dd193d8f43699ec0413/master.m3u8?md5=mgYN33-o3VZPapqajqkTAQ&expires=1792166475",
+            "videoSource": "https://ravok.buzz/cdn/hls/294c0c6a06130dd193d8f43699ec0413/master.m3u8?md5=mgYN33-o3VZPapqajqkTAQ&expires=1792166475",
+            "videoImage": "https://as-cdn27.top/p/kyRNPPvNgCkBuVcQdTxzU4u0P20tOipDfECwboSu-dcqzj2oZom0vVMos_jmZdPTeAK4n8TRK-1-lgLRp48p_g.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "3e55526969e8df9ffaefe69d1d590825",
+                "streamUrl": "https://ravok.buzz/cdn/hls/294c0c6a06130dd193d8f43699ec0413/master.m3u8?md5=mgYN33-o3VZPapqajqkTAQ&expires=1792166475",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/294c0c6a06130dd193d8f43699ec0413/master.m3u8?md5=mgYN33-o3VZPapqajqkTAQ&expires=1792166475",
+                "videoSource": "https://ravok.buzz/cdn/hls/294c0c6a06130dd193d8f43699ec0413/master.m3u8?md5=mgYN33-o3VZPapqajqkTAQ&expires=1792166475",
+                "link": "https://ravok.buzz/cdn/hls/294c0c6a06130dd193d8f43699ec0413/master.m3u8?md5=mgYN33-o3VZPapqajqkTAQ&expires=1792166475",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/kyRNPPvNgCkBuVcQdTxzU4u0P20tOipDfECwboSu-dcqzj2oZom0vVMos_jmZdPTeAK4n8TRK-1-lgLRp48p_g.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "PK4Z8lRi3"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:25Z"
+    },
+    {
+      "id": "episode/private-akuma-kun-1x11",
+      "episode_id": "episode/private-akuma-kun-1x11",
+      "title": "Private: Akuma Kun 1x1",
+      "episode_name": "Private: Akuma Kun 1x1",
+      "episode_number": 11,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1876_s1e11.webp",
+      "abyssid": "16363",
+      "abyssId": "16363",
+      "playxid": "2c3587935e1f0e6c91c964d95d746a16",
+      "playXID": "2c3587935e1f0e6c91c964d95d746a16",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16363",
+        "playXID": "2c3587935e1f0e6c91c964d95d746a16",
+        "streamId": "16363",
+        "dubPlayerSrc": "/dub-player/t/16363/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2c3587935e1f0e6c91c964d95d746a16&abyssId=16363"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16363",
+        "playXID": "2c3587935e1f0e6c91c964d95d746a16",
+        "streamId": "16363",
+        "dubPlayerSrc": "/dub-player/t/16363/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2c3587935e1f0e6c91c964d95d746a16&abyssId=16363"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/2c3587935e1f0e6c91c964d95d746a16",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/2c3587935e1f0e6c91c964d95d746a16"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16363",
+        "abyssId": "16363",
+        "playXID": "2c3587935e1f0e6c91c964d95d746a16",
+        "title": "Akuma Kun",
+        "season": 1,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "ldqPj-BzU"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "pqWky02ft"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "BVrYBOTgh"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/7b1386c546c68ccdc940cdde97c32380/master.m3u8?md5=gkQuHOg62qkL4Cnv4H-cdw&expires=1792166476",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/7b1386c546c68ccdc940cdde97c32380/master.m3u8?md5=gkQuHOg62qkL4Cnv4H-cdw&expires=1792166476",
+            "videoSource": "https://ravok.buzz/cdn/hls/7b1386c546c68ccdc940cdde97c32380/master.m3u8?md5=gkQuHOg62qkL4Cnv4H-cdw&expires=1792166476",
+            "videoImage": "https://as-cdn28.top/p/kyRNPPvNgCkBuVcQdTxzUwskQzyTRpQYJLNM3W1EYd2hLBcvLBnS3q3Xju3kRCwl2R6j96f2GUkqZfiTg-dfkw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "2c3587935e1f0e6c91c964d95d746a16",
+                "streamUrl": "https://ravok.buzz/cdn/hls/7b1386c546c68ccdc940cdde97c32380/master.m3u8?md5=gkQuHOg62qkL4Cnv4H-cdw&expires=1792166476",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/7b1386c546c68ccdc940cdde97c32380/master.m3u8?md5=gkQuHOg62qkL4Cnv4H-cdw&expires=1792166476",
+                "videoSource": "https://ravok.buzz/cdn/hls/7b1386c546c68ccdc940cdde97c32380/master.m3u8?md5=gkQuHOg62qkL4Cnv4H-cdw&expires=1792166476",
+                "link": "https://ravok.buzz/cdn/hls/7b1386c546c68ccdc940cdde97c32380/master.m3u8?md5=gkQuHOg62qkL4Cnv4H-cdw&expires=1792166476",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/kyRNPPvNgCkBuVcQdTxzUwskQzyTRpQYJLNM3W1EYd2hLBcvLBnS3q3Xju3kRCwl2R6j96f2GUkqZfiTg-dfkw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "ldqPj-BzU"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:26Z"
+    },
+    {
+      "id": "episode/private-akuma-kun-1x12",
+      "episode_id": "episode/private-akuma-kun-1x12",
+      "title": "Private: Akuma Kun 1x1",
+      "episode_name": "Private: Akuma Kun 1x1",
+      "episode_number": 12,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1876_s1e12.webp",
+      "abyssid": "16364",
+      "abyssId": "16364",
+      "playxid": "d6d46a8525c3ddc4c970734e4146e9be",
+      "playXID": "d6d46a8525c3ddc4c970734e4146e9be",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16364",
+        "playXID": "d6d46a8525c3ddc4c970734e4146e9be",
+        "streamId": "16364",
+        "dubPlayerSrc": "/dub-player/t/16364/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d6d46a8525c3ddc4c970734e4146e9be&abyssId=16364"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16364",
+        "playXID": "d6d46a8525c3ddc4c970734e4146e9be",
+        "streamId": "16364",
+        "dubPlayerSrc": "/dub-player/t/16364/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=d6d46a8525c3ddc4c970734e4146e9be&abyssId=16364"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/d6d46a8525c3ddc4c970734e4146e9be",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/d6d46a8525c3ddc4c970734e4146e9be"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16364",
+        "abyssId": "16364",
+        "playXID": "d6d46a8525c3ddc4c970734e4146e9be",
+        "title": "Akuma Kun",
+        "season": 1,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "JFxxVmf00"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "56wv-HTMV"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "zU9B5r0JV"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/895d90548482962c85b557a8ba637260/master.m3u8?md5=YMcH5WN_gPVlxEfpXAteXQ&expires=1792166477",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/895d90548482962c85b557a8ba637260/master.m3u8?md5=YMcH5WN_gPVlxEfpXAteXQ&expires=1792166477",
+            "videoSource": "https://ravok.buzz/cdn/hls/895d90548482962c85b557a8ba637260/master.m3u8?md5=YMcH5WN_gPVlxEfpXAteXQ&expires=1792166477",
+            "videoImage": "https://as-cdn30.top/p/kyRNPPvNgCkBuVcQdTxzU6rvYwNskVxpdzgR6edPe36ctvyhODJ4mKC_uxL5MIi-yggMjrJsXI8ASLZjOBp09A.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "d6d46a8525c3ddc4c970734e4146e9be",
+                "streamUrl": "https://ravok.buzz/cdn/hls/895d90548482962c85b557a8ba637260/master.m3u8?md5=YMcH5WN_gPVlxEfpXAteXQ&expires=1792166477",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/895d90548482962c85b557a8ba637260/master.m3u8?md5=YMcH5WN_gPVlxEfpXAteXQ&expires=1792166477",
+                "videoSource": "https://ravok.buzz/cdn/hls/895d90548482962c85b557a8ba637260/master.m3u8?md5=YMcH5WN_gPVlxEfpXAteXQ&expires=1792166477",
+                "link": "https://ravok.buzz/cdn/hls/895d90548482962c85b557a8ba637260/master.m3u8?md5=YMcH5WN_gPVlxEfpXAteXQ&expires=1792166477",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/kyRNPPvNgCkBuVcQdTxzU6rvYwNskVxpdzgR6edPe36ctvyhODJ4mKC_uxL5MIi-yggMjrJsXI8ASLZjOBp09A.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "JFxxVmf00"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:27Z"
+    },
+    {
+      "id": "episode/private-akuma-kun-1x7",
+      "episode_id": "episode/private-akuma-kun-1x7",
+      "title": "Private: Akuma Kun 1x1",
+      "episode_name": "Private: Akuma Kun 1x1",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1876_s1e7.webp",
+      "abyssid": "16359",
+      "abyssId": "16359",
+      "playxid": "4d85374a75c3ff7c040df577395ff7f9",
+      "playXID": "4d85374a75c3ff7c040df577395ff7f9",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16359",
+        "playXID": "4d85374a75c3ff7c040df577395ff7f9",
+        "streamId": "16359",
+        "dubPlayerSrc": "/dub-player/t/16359/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=4d85374a75c3ff7c040df577395ff7f9&abyssId=16359"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16359",
+        "playXID": "4d85374a75c3ff7c040df577395ff7f9",
+        "streamId": "16359",
+        "dubPlayerSrc": "/dub-player/t/16359/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=4d85374a75c3ff7c040df577395ff7f9&abyssId=16359"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/4d85374a75c3ff7c040df577395ff7f9",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/4d85374a75c3ff7c040df577395ff7f9"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16359",
+        "abyssId": "16359",
+        "playXID": "4d85374a75c3ff7c040df577395ff7f9",
+        "title": "Akuma Kun",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "ATIE8xfPb"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "BUpoHx1UG"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "188YLX32C"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/dcd4acb13e7512f6cac15f3827447136/master.m3u8?md5=bVAW46TJmDZZmUpUGJYWIg&expires=1792166478",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/dcd4acb13e7512f6cac15f3827447136/master.m3u8?md5=bVAW46TJmDZZmUpUGJYWIg&expires=1792166478",
+            "videoSource": "https://ravok.buzz/cdn/hls/dcd4acb13e7512f6cac15f3827447136/master.m3u8?md5=bVAW46TJmDZZmUpUGJYWIg&expires=1792166478",
+            "videoImage": "https://as-cdn27.top/p/kyRNPPvNgCkBuVcQdTxzUzA6c9gO9d1nzksEcbZxGh9DicTCs46wTkdyGWLZKcKcaepc7JmYrg-tkAdzWxIlqg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "4d85374a75c3ff7c040df577395ff7f9",
+                "streamUrl": "https://ravok.buzz/cdn/hls/dcd4acb13e7512f6cac15f3827447136/master.m3u8?md5=bVAW46TJmDZZmUpUGJYWIg&expires=1792166478",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/dcd4acb13e7512f6cac15f3827447136/master.m3u8?md5=bVAW46TJmDZZmUpUGJYWIg&expires=1792166478",
+                "videoSource": "https://ravok.buzz/cdn/hls/dcd4acb13e7512f6cac15f3827447136/master.m3u8?md5=bVAW46TJmDZZmUpUGJYWIg&expires=1792166478",
+                "link": "https://ravok.buzz/cdn/hls/dcd4acb13e7512f6cac15f3827447136/master.m3u8?md5=bVAW46TJmDZZmUpUGJYWIg&expires=1792166478",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/kyRNPPvNgCkBuVcQdTxzUzA6c9gO9d1nzksEcbZxGh9DicTCs46wTkdyGWLZKcKcaepc7JmYrg-tkAdzWxIlqg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "ATIE8xfPb"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:27Z"
+    },
+    {
+      "id": "episode/private-akuma-kun-1x9",
+      "episode_id": "episode/private-akuma-kun-1x9",
+      "title": "Private: Akuma Kun 1x1",
+      "episode_name": "Private: Akuma Kun 1x1",
+      "episode_number": 9,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1876_s1e9.webp",
+      "abyssid": "16361",
+      "abyssId": "16361",
+      "playxid": "afeae7504d214a43ca689bc1d0999930",
+      "playXID": "afeae7504d214a43ca689bc1d0999930",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16361",
+        "playXID": "afeae7504d214a43ca689bc1d0999930",
+        "streamId": "16361",
+        "dubPlayerSrc": "/dub-player/t/16361/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=afeae7504d214a43ca689bc1d0999930&abyssId=16361"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16361",
+        "playXID": "afeae7504d214a43ca689bc1d0999930",
+        "streamId": "16361",
+        "dubPlayerSrc": "/dub-player/t/16361/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=afeae7504d214a43ca689bc1d0999930&abyssId=16361"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/afeae7504d214a43ca689bc1d0999930",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/afeae7504d214a43ca689bc1d0999930"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16361",
+        "abyssId": "16361",
+        "playXID": "afeae7504d214a43ca689bc1d0999930",
+        "title": "Akuma Kun",
+        "season": 1,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "7PhZGXHDa"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "rqc9e-oPp"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "-73uGspZk"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/05fe6ba96826c659bb808d5b814e55a4/master.m3u8?md5=yVEpee_p3MHTBj0-bLRlOg&expires=1792166479",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/05fe6ba96826c659bb808d5b814e55a4/master.m3u8?md5=yVEpee_p3MHTBj0-bLRlOg&expires=1792166479",
+            "videoSource": "https://ravok.buzz/cdn/hls/05fe6ba96826c659bb808d5b814e55a4/master.m3u8?md5=yVEpee_p3MHTBj0-bLRlOg&expires=1792166479",
+            "videoImage": "https://as-cdn28.top/p/kyRNPPvNgCkBuVcQdTxzU7nRg1wx5PDtJLbYNSjY0hQjKyNiPIbhCOq-9CXWad5V4T1AVXPka5jvy6jujVWpgQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "afeae7504d214a43ca689bc1d0999930",
+                "streamUrl": "https://ravok.buzz/cdn/hls/05fe6ba96826c659bb808d5b814e55a4/master.m3u8?md5=yVEpee_p3MHTBj0-bLRlOg&expires=1792166479",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/05fe6ba96826c659bb808d5b814e55a4/master.m3u8?md5=yVEpee_p3MHTBj0-bLRlOg&expires=1792166479",
+                "videoSource": "https://ravok.buzz/cdn/hls/05fe6ba96826c659bb808d5b814e55a4/master.m3u8?md5=yVEpee_p3MHTBj0-bLRlOg&expires=1792166479",
+                "link": "https://ravok.buzz/cdn/hls/05fe6ba96826c659bb808d5b814e55a4/master.m3u8?md5=yVEpee_p3MHTBj0-bLRlOg&expires=1792166479",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/kyRNPPvNgCkBuVcQdTxzU7nRg1wx5PDtJLbYNSjY0hQjKyNiPIbhCOq-9CXWad5V4T1AVXPka5jvy6jujVWpgQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "7PhZGXHDa"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:29Z"
+    },
+    {
+      "id": "episode/private-akuma-kun-1x2",
+      "episode_id": "episode/private-akuma-kun-1x2",
+      "title": "Private: Akuma Kun 1x1",
+      "episode_name": "Private: Akuma Kun 1x1",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1876_s1e2.webp",
+      "abyssid": "16354",
+      "abyssId": "16354",
+      "playxid": "213b9c781a1cb3740d204492e6ce20c0",
+      "playXID": "213b9c781a1cb3740d204492e6ce20c0",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "16354",
+        "playXID": "213b9c781a1cb3740d204492e6ce20c0",
+        "streamId": "16354",
+        "dubPlayerSrc": "/dub-player/t/16354/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=213b9c781a1cb3740d204492e6ce20c0&abyssId=16354"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "16354",
+        "playXID": "213b9c781a1cb3740d204492e6ce20c0",
+        "streamId": "16354",
+        "dubPlayerSrc": "/dub-player/t/16354/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=213b9c781a1cb3740d204492e6ce20c0&abyssId=16354"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/213b9c781a1cb3740d204492e6ce20c0",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/213b9c781a1cb3740d204492e6ce20c0"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "16354",
+        "abyssId": "16354",
+        "playXID": "213b9c781a1cb3740d204492e6ce20c0",
+        "title": "Akuma Kun",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "NgWQ4DapE"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "j1CKz8VX1"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "3yrCZTuMD"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/1dbfe7ca366ef8bfcb0305224be70cc4/master.m3u8?md5=vOplhsfM3XgM8E-iQxIx-w&expires=1792166482",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/1dbfe7ca366ef8bfcb0305224be70cc4/master.m3u8?md5=vOplhsfM3XgM8E-iQxIx-w&expires=1792166482",
+            "videoSource": "https://ravok.buzz/cdn/hls/1dbfe7ca366ef8bfcb0305224be70cc4/master.m3u8?md5=vOplhsfM3XgM8E-iQxIx-w&expires=1792166482",
+            "videoImage": "https://as-cdn29.top/p/kyRNPPvNgCkBuVcQdTxzUyMjcGu4LjUaY--oEGbRvuZOQsVECDqIe7udLyoIhvkUca_8O7FR4j59vtXALnOPUA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "213b9c781a1cb3740d204492e6ce20c0",
+                "streamUrl": "https://ravok.buzz/cdn/hls/1dbfe7ca366ef8bfcb0305224be70cc4/master.m3u8?md5=vOplhsfM3XgM8E-iQxIx-w&expires=1792166482",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/1dbfe7ca366ef8bfcb0305224be70cc4/master.m3u8?md5=vOplhsfM3XgM8E-iQxIx-w&expires=1792166482",
+                "videoSource": "https://ravok.buzz/cdn/hls/1dbfe7ca366ef8bfcb0305224be70cc4/master.m3u8?md5=vOplhsfM3XgM8E-iQxIx-w&expires=1792166482",
+                "link": "https://ravok.buzz/cdn/hls/1dbfe7ca366ef8bfcb0305224be70cc4/master.m3u8?md5=vOplhsfM3XgM8E-iQxIx-w&expires=1792166482",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/kyRNPPvNgCkBuVcQdTxzUyMjcGu4LjUaY--oEGbRvuZOQsVECDqIe7udLyoIhvkUca_8O7FR4j59vtXALnOPUA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "NgWQ4DapE"
+        }
+      },
+      "fetched_at": "2026-10-16T14:01:32Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T14:01:19Z",
+  "updated_at": "2026-10-16T14:01:32Z"
+}

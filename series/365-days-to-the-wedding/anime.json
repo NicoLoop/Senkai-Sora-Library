@@ -1,0 +1,1422 @@
+{
+  "id": "series/365-days-to-the-wedding",
+  "series_name": "365 Days to the Wedding",
+  "title": "365 Days to the Wedding",
+  "banner": "https://image.tmdb.org/t/p/w1280/2drriQmhbkGgJbIX2Zmr8sEsbik.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/lMVkOrMaWEkHZLdPksKGcdi6hJg.jpg",
+  "genra": [
+    "Comedy",
+    "Romance"
+  ],
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "languages": [
+    "Hindi",
+    "Japanese",
+    "Tamil",
+    "Telugu"
+  ],
+  "synopsis": "Takuya and Rika work at the same travel agency in Tokyo and are both happily introverted and single. But their company is opening a new branch in Alaska next year, and employees without a spouse will be recruited to work there. Desperate to avoid the move, and though they’ve hardly spoken before, they decide to fake an engagement. Can these quiet coworkers become a convincing couple?",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Why Don't We Get Married?",
+          "id": "episode/365-days-to-the-wedding-1x1",
+          "image": "https://img.watchanimeworld.one/img/thumb_1034_s1e1.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "Why Does It Mean to Get Married?",
+          "id": "episode/365-days-to-the-wedding-1x2",
+          "image": "https://img.watchanimeworld.one/img/thumb_1034_s1e2.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "Can We Share Our Predicaments?",
+          "id": "episode/365-days-to-the-wedding-1x3",
+          "image": "https://img.watchanimeworld.one/img/thumb_1034_s1e3.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "Can We Share Our Lives?",
+          "id": "episode/365-days-to-the-wedding-1x4",
+          "image": "https://img.watchanimeworld.one/img/thumb_1034_s1e4.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "How about We Travel Together?",
+          "id": "episode/365-days-to-the-wedding-1x5",
+          "image": "https://img.watchanimeworld.one/img/thumb_1034_s1e5.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "365 Days to the Wedding 1x6",
+          "id": "episode/365-days-to-the-wedding-1x6",
+          "image": "https://img.watchanimeworld.one/img/thumb_1034_s1e6.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "365 Days to the Wedding 1x7",
+          "id": "episode/365-days-to-the-wedding-1x7",
+          "image": "https://img.watchanimeworld.one/img/thumb_1034_s1e7.webp",
+          "season": 1
+        },
+        {
+          "episode": 8,
+          "title": "365 Days to the Wedding 1x8",
+          "id": "episode/365-days-to-the-wedding-1x8",
+          "image": "https://img.watchanimeworld.one/img/thumb_1034_s1e8.webp",
+          "season": 1
+        },
+        {
+          "episode": 9,
+          "title": "365 Days to the Wedding 1x9",
+          "id": "episode/365-days-to-the-wedding-1x9",
+          "image": "https://img.watchanimeworld.one/img/thumb_1034_s1e9.webp",
+          "season": 1
+        },
+        {
+          "episode": 10,
+          "title": "365 Days to the Wedding 1x10",
+          "id": "episode/365-days-to-the-wedding-1x10",
+          "image": "https://img.watchanimeworld.one/img/thumb_1034_s1e10.webp",
+          "season": 1
+        },
+        {
+          "episode": 11,
+          "title": "365 Days to the Wedding 1x11",
+          "id": "episode/365-days-to-the-wedding-1x11",
+          "image": "https://img.watchanimeworld.one/img/thumb_1034_s1e11.webp",
+          "season": 1
+        },
+        {
+          "episode": 12,
+          "title": "365 Days to the Wedding 1x12",
+          "id": "episode/365-days-to-the-wedding-1x12",
+          "image": "https://img.watchanimeworld.one/img/thumb_1034_s1e12.webp",
+          "season": 1
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/365-days-to-the-wedding-1x3",
+      "episode_id": "episode/365-days-to-the-wedding-1x3",
+      "title": "Why Don't We Get Married?",
+      "episode_name": "Why Don't We Get Married?",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1034_s1e3.webp",
+      "abyssid": "10870",
+      "abyssId": "10870",
+      "playxid": "a1f69f6000f7a8b5883b7134fcf8d558",
+      "playXID": "a1f69f6000f7a8b5883b7134fcf8d558",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "10870",
+        "playXID": "a1f69f6000f7a8b5883b7134fcf8d558",
+        "streamId": "10870",
+        "dubPlayerSrc": "/dub-player/t/10870/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a1f69f6000f7a8b5883b7134fcf8d558&abyssId=10870"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "10870",
+        "playXID": "a1f69f6000f7a8b5883b7134fcf8d558",
+        "streamId": "10870",
+        "dubPlayerSrc": "/dub-player/t/10870/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=a1f69f6000f7a8b5883b7134fcf8d558&abyssId=10870"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/a1f69f6000f7a8b5883b7134fcf8d558",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/a1f69f6000f7a8b5883b7134fcf8d558"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "10870",
+        "abyssId": "10870",
+        "playXID": "a1f69f6000f7a8b5883b7134fcf8d558",
+        "title": "365 Days to the Wedding",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "1VfqQWtd5"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "dZYXmGyus"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "ZsBxl5RDF"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "PKmOj9oIL"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/c4c80c34aa8786a6becf33ac921a584e/master.m3u8?md5=LandVYGLifhIlSuRHmW2Xw&expires=1792167201",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/c4c80c34aa8786a6becf33ac921a584e/master.m3u8?md5=LandVYGLifhIlSuRHmW2Xw&expires=1792167201",
+            "videoSource": "https://ravok.buzz/cdn/hls/c4c80c34aa8786a6becf33ac921a584e/master.m3u8?md5=LandVYGLifhIlSuRHmW2Xw&expires=1792167201",
+            "videoImage": "https://as-cdn30.top/p/uOz-xcjs9aYhiZjMjWrtKJYkYJqY3arxhLR6rIoXZDBIQEIicG8WGRapQdwmn3fz2JBCdRZ2yYRrWzZz1DQAbA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "a1f69f6000f7a8b5883b7134fcf8d558",
+                "streamUrl": "https://ravok.buzz/cdn/hls/c4c80c34aa8786a6becf33ac921a584e/master.m3u8?md5=LandVYGLifhIlSuRHmW2Xw&expires=1792167201",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/c4c80c34aa8786a6becf33ac921a584e/master.m3u8?md5=LandVYGLifhIlSuRHmW2Xw&expires=1792167201",
+                "videoSource": "https://ravok.buzz/cdn/hls/c4c80c34aa8786a6becf33ac921a584e/master.m3u8?md5=LandVYGLifhIlSuRHmW2Xw&expires=1792167201",
+                "link": "https://ravok.buzz/cdn/hls/c4c80c34aa8786a6becf33ac921a584e/master.m3u8?md5=LandVYGLifhIlSuRHmW2Xw&expires=1792167201",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/uOz-xcjs9aYhiZjMjWrtKJYkYJqY3arxhLR6rIoXZDBIQEIicG8WGRapQdwmn3fz2JBCdRZ2yYRrWzZz1DQAbA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "1VfqQWtd5"
+        }
+      },
+      "fetched_at": "2026-10-16T14:13:31Z"
+    },
+    {
+      "id": "episode/365-days-to-the-wedding-1x2",
+      "episode_id": "episode/365-days-to-the-wedding-1x2",
+      "title": "Why Don't We Get Married?",
+      "episode_name": "Why Don't We Get Married?",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1034_s1e2.webp",
+      "abyssid": "10869",
+      "abyssId": "10869",
+      "playxid": "1dfd06d3b151a21b879f3710d6b49786",
+      "playXID": "1dfd06d3b151a21b879f3710d6b49786",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "10869",
+        "playXID": "1dfd06d3b151a21b879f3710d6b49786",
+        "streamId": "10869",
+        "dubPlayerSrc": "/dub-player/t/10869/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=1dfd06d3b151a21b879f3710d6b49786&abyssId=10869"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "10869",
+        "playXID": "1dfd06d3b151a21b879f3710d6b49786",
+        "streamId": "10869",
+        "dubPlayerSrc": "/dub-player/t/10869/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=1dfd06d3b151a21b879f3710d6b49786&abyssId=10869"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/1dfd06d3b151a21b879f3710d6b49786",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/1dfd06d3b151a21b879f3710d6b49786"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "10869",
+        "abyssId": "10869",
+        "playXID": "1dfd06d3b151a21b879f3710d6b49786",
+        "title": "365 Days to the Wedding",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "Uq6mBV_Kn"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "9gPLCdsVF"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "NhygcyyVr"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "l0GHoslR_Y"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/fabb92da0db3b56c89a77457a3f5a335/master.m3u8?md5=ezqRe88OnrSpMdngM2xDQw&expires=1792167201",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/fabb92da0db3b56c89a77457a3f5a335/master.m3u8?md5=ezqRe88OnrSpMdngM2xDQw&expires=1792167201",
+            "videoSource": "https://ravok.buzz/cdn/hls/fabb92da0db3b56c89a77457a3f5a335/master.m3u8?md5=ezqRe88OnrSpMdngM2xDQw&expires=1792167201",
+            "videoImage": "https://as-cdn28.top/p/WvcVumuQv9xmH8HhawNHq_8Oc3rQiJMJ35gBvvpzD5T7k2gilc8AOzMRdHI8y1wOa2JEUapu1zPLtCZfBtaqjg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "1dfd06d3b151a21b879f3710d6b49786",
+                "streamUrl": "https://ravok.buzz/cdn/hls/fabb92da0db3b56c89a77457a3f5a335/master.m3u8?md5=ezqRe88OnrSpMdngM2xDQw&expires=1792167201",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/fabb92da0db3b56c89a77457a3f5a335/master.m3u8?md5=ezqRe88OnrSpMdngM2xDQw&expires=1792167201",
+                "videoSource": "https://ravok.buzz/cdn/hls/fabb92da0db3b56c89a77457a3f5a335/master.m3u8?md5=ezqRe88OnrSpMdngM2xDQw&expires=1792167201",
+                "link": "https://ravok.buzz/cdn/hls/fabb92da0db3b56c89a77457a3f5a335/master.m3u8?md5=ezqRe88OnrSpMdngM2xDQw&expires=1792167201",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/WvcVumuQv9xmH8HhawNHq_8Oc3rQiJMJ35gBvvpzD5T7k2gilc8AOzMRdHI8y1wOa2JEUapu1zPLtCZfBtaqjg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "Uq6mBV_Kn"
+        }
+      },
+      "fetched_at": "2026-10-16T14:13:31Z"
+    },
+    {
+      "id": "episode/365-days-to-the-wedding-1x1",
+      "episode_id": "episode/365-days-to-the-wedding-1x1",
+      "title": "Why Don't We Get Married?",
+      "episode_name": "Why Don't We Get Married?",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1034_s1e1.webp",
+      "abyssid": "10868",
+      "abyssId": "10868",
+      "playxid": "c84f1f1c3914a66236542d1166b01780",
+      "playXID": "c84f1f1c3914a66236542d1166b01780",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "10868",
+        "playXID": "c84f1f1c3914a66236542d1166b01780",
+        "streamId": "10868",
+        "dubPlayerSrc": "/dub-player/t/10868/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c84f1f1c3914a66236542d1166b01780&abyssId=10868"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "10868",
+        "playXID": "c84f1f1c3914a66236542d1166b01780",
+        "streamId": "10868",
+        "dubPlayerSrc": "/dub-player/t/10868/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c84f1f1c3914a66236542d1166b01780&abyssId=10868"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/c84f1f1c3914a66236542d1166b01780",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/c84f1f1c3914a66236542d1166b01780"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "10868",
+        "abyssId": "10868",
+        "playXID": "c84f1f1c3914a66236542d1166b01780",
+        "title": "365 Days to the Wedding",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "soz1MvUNg"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "cKg5Sar7z"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "bciRHm6xu"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "HFzy5i9yf"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/35c5d45215a1c1140a0796c3c58cb715/master.m3u8?md5=KXIxigbm8UGkKDaQEj7GAQ&expires=1792167201",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/35c5d45215a1c1140a0796c3c58cb715/master.m3u8?md5=KXIxigbm8UGkKDaQEj7GAQ&expires=1792167201",
+            "videoSource": "https://ravok.buzz/cdn/hls/35c5d45215a1c1140a0796c3c58cb715/master.m3u8?md5=KXIxigbm8UGkKDaQEj7GAQ&expires=1792167201",
+            "videoImage": "https://as-cdn29.top/p/ANMlAdbZpaWxScueUGzwQ0vJwTFUSp55s2_m0a600spAywUNUhJoQE0vOWdzgHtDX7Bnt90FRRYVYobuFhZk_Q.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "c84f1f1c3914a66236542d1166b01780",
+                "streamUrl": "https://ravok.buzz/cdn/hls/35c5d45215a1c1140a0796c3c58cb715/master.m3u8?md5=KXIxigbm8UGkKDaQEj7GAQ&expires=1792167201",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/35c5d45215a1c1140a0796c3c58cb715/master.m3u8?md5=KXIxigbm8UGkKDaQEj7GAQ&expires=1792167201",
+                "videoSource": "https://ravok.buzz/cdn/hls/35c5d45215a1c1140a0796c3c58cb715/master.m3u8?md5=KXIxigbm8UGkKDaQEj7GAQ&expires=1792167201",
+                "link": "https://ravok.buzz/cdn/hls/35c5d45215a1c1140a0796c3c58cb715/master.m3u8?md5=KXIxigbm8UGkKDaQEj7GAQ&expires=1792167201",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/ANMlAdbZpaWxScueUGzwQ0vJwTFUSp55s2_m0a600spAywUNUhJoQE0vOWdzgHtDX7Bnt90FRRYVYobuFhZk_Q.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "soz1MvUNg"
+        }
+      },
+      "fetched_at": "2026-10-16T14:13:31Z"
+    },
+    {
+      "id": "episode/365-days-to-the-wedding-1x5",
+      "episode_id": "episode/365-days-to-the-wedding-1x5",
+      "title": "Why Don't We Get Married?",
+      "episode_name": "Why Don't We Get Married?",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1034_s1e5.webp",
+      "abyssid": "11579",
+      "abyssId": "11579",
+      "playxid": "ea3e4ebf79464bc783e063d7182bc3fd",
+      "playXID": "ea3e4ebf79464bc783e063d7182bc3fd",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "11579",
+        "playXID": "ea3e4ebf79464bc783e063d7182bc3fd",
+        "streamId": "11579",
+        "dubPlayerSrc": "/dub-player/t/11579/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ea3e4ebf79464bc783e063d7182bc3fd&abyssId=11579"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "11579",
+        "playXID": "ea3e4ebf79464bc783e063d7182bc3fd",
+        "streamId": "11579",
+        "dubPlayerSrc": "/dub-player/t/11579/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ea3e4ebf79464bc783e063d7182bc3fd&abyssId=11579"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/ea3e4ebf79464bc783e063d7182bc3fd",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/ea3e4ebf79464bc783e063d7182bc3fd"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "11579",
+        "abyssId": "11579",
+        "playXID": "ea3e4ebf79464bc783e063d7182bc3fd",
+        "title": "365 Days to the Wedding",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "5YIwiVdUk"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "bXy42cu_m"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "QfjOemppAv"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "rnrOqKYLS"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/c5ff42839c37c9959b100801b24df672/master.m3u8?md5=xjuh11kTq1CMu-xcm1_Lng&expires=1792167201",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/c5ff42839c37c9959b100801b24df672/master.m3u8?md5=xjuh11kTq1CMu-xcm1_Lng&expires=1792167201",
+            "videoSource": "https://ravok.buzz/cdn/hls/c5ff42839c37c9959b100801b24df672/master.m3u8?md5=xjuh11kTq1CMu-xcm1_Lng&expires=1792167201",
+            "videoImage": "https://as-cdn30.top/p/ldSsxputGExyca1aMJgtdHLCy_vTAvJj8u7EgK4dtznJwPRoLlrSos-YrDFNrd54qgTCy4_D7gtKeeBUaSDgQw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "ea3e4ebf79464bc783e063d7182bc3fd",
+                "streamUrl": "https://ravok.buzz/cdn/hls/c5ff42839c37c9959b100801b24df672/master.m3u8?md5=xjuh11kTq1CMu-xcm1_Lng&expires=1792167201",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/c5ff42839c37c9959b100801b24df672/master.m3u8?md5=xjuh11kTq1CMu-xcm1_Lng&expires=1792167201",
+                "videoSource": "https://ravok.buzz/cdn/hls/c5ff42839c37c9959b100801b24df672/master.m3u8?md5=xjuh11kTq1CMu-xcm1_Lng&expires=1792167201",
+                "link": "https://ravok.buzz/cdn/hls/c5ff42839c37c9959b100801b24df672/master.m3u8?md5=xjuh11kTq1CMu-xcm1_Lng&expires=1792167201",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/ldSsxputGExyca1aMJgtdHLCy_vTAvJj8u7EgK4dtznJwPRoLlrSos-YrDFNrd54qgTCy4_D7gtKeeBUaSDgQw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "5YIwiVdUk"
+        }
+      },
+      "fetched_at": "2026-10-16T14:13:31Z"
+    },
+    {
+      "id": "episode/365-days-to-the-wedding-1x4",
+      "episode_id": "episode/365-days-to-the-wedding-1x4",
+      "title": "Why Don't We Get Married?",
+      "episode_name": "Why Don't We Get Married?",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1034_s1e4.webp",
+      "abyssid": "11278",
+      "abyssId": "11278",
+      "playxid": "6346db6a68f632318af0c2a474b9eb34",
+      "playXID": "6346db6a68f632318af0c2a474b9eb34",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "11278",
+        "playXID": "6346db6a68f632318af0c2a474b9eb34",
+        "streamId": "11278",
+        "dubPlayerSrc": "/dub-player/t/11278/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6346db6a68f632318af0c2a474b9eb34&abyssId=11278"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "11278",
+        "playXID": "6346db6a68f632318af0c2a474b9eb34",
+        "streamId": "11278",
+        "dubPlayerSrc": "/dub-player/t/11278/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6346db6a68f632318af0c2a474b9eb34&abyssId=11278"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/6346db6a68f632318af0c2a474b9eb34",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/6346db6a68f632318af0c2a474b9eb34"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "11278",
+        "abyssId": "11278",
+        "playXID": "6346db6a68f632318af0c2a474b9eb34",
+        "title": "365 Days to the Wedding",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "pgqr2W_ws"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "5QaZcR8FQ"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "pytRRSPkB"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "JW5eeNaa7"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/4a4f87c9aed1a096abcc05549a376a9e/master.m3u8?md5=dvZEfMF_BRoIKTZMqtyxBg&expires=1792167201",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/4a4f87c9aed1a096abcc05549a376a9e/master.m3u8?md5=dvZEfMF_BRoIKTZMqtyxBg&expires=1792167201",
+            "videoSource": "https://ravok.buzz/cdn/hls/4a4f87c9aed1a096abcc05549a376a9e/master.m3u8?md5=dvZEfMF_BRoIKTZMqtyxBg&expires=1792167201",
+            "videoImage": "https://as-cdn31.top/p/1cc-2x4UBbtDaw3Cyw3eB5MhQWi__F-toxPa2DWm86U4-t292r73f0fOYSQmNpaZG-P5v6K7U7Hwz7JqL8ig9Q.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "6346db6a68f632318af0c2a474b9eb34",
+                "streamUrl": "https://ravok.buzz/cdn/hls/4a4f87c9aed1a096abcc05549a376a9e/master.m3u8?md5=dvZEfMF_BRoIKTZMqtyxBg&expires=1792167201",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/4a4f87c9aed1a096abcc05549a376a9e/master.m3u8?md5=dvZEfMF_BRoIKTZMqtyxBg&expires=1792167201",
+                "videoSource": "https://ravok.buzz/cdn/hls/4a4f87c9aed1a096abcc05549a376a9e/master.m3u8?md5=dvZEfMF_BRoIKTZMqtyxBg&expires=1792167201",
+                "link": "https://ravok.buzz/cdn/hls/4a4f87c9aed1a096abcc05549a376a9e/master.m3u8?md5=dvZEfMF_BRoIKTZMqtyxBg&expires=1792167201",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/1cc-2x4UBbtDaw3Cyw3eB5MhQWi__F-toxPa2DWm86U4-t292r73f0fOYSQmNpaZG-P5v6K7U7Hwz7JqL8ig9Q.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "pgqr2W_ws"
+        }
+      },
+      "fetched_at": "2026-10-16T14:13:31Z"
+    },
+    {
+      "id": "episode/365-days-to-the-wedding-1x8",
+      "episode_id": "episode/365-days-to-the-wedding-1x8",
+      "title": "Why Don't We Get Married?",
+      "episode_name": "Why Don't We Get Married?",
+      "episode_number": 8,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1034_s1e8.webp",
+      "abyssid": "11843",
+      "abyssId": "11843",
+      "playxid": "b29e1baea1aa0702319961bcae84d87b",
+      "playXID": "b29e1baea1aa0702319961bcae84d87b",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "11843",
+        "playXID": "b29e1baea1aa0702319961bcae84d87b",
+        "streamId": "11843",
+        "dubPlayerSrc": "/dub-player/t/11843/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b29e1baea1aa0702319961bcae84d87b&abyssId=11843"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "11843",
+        "playXID": "b29e1baea1aa0702319961bcae84d87b",
+        "streamId": "11843",
+        "dubPlayerSrc": "/dub-player/t/11843/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b29e1baea1aa0702319961bcae84d87b&abyssId=11843"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/b29e1baea1aa0702319961bcae84d87b",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/b29e1baea1aa0702319961bcae84d87b"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "11843",
+        "abyssId": "11843",
+        "playXID": "b29e1baea1aa0702319961bcae84d87b",
+        "title": "365 Days to the Wedding",
+        "season": 1,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "B4hcC87Ub"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "gat9w96al"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "UP7Glt2KE"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "Kt6WmXDn6"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/f01986d5e30ffd148a0c31a741781b2c/master.m3u8?md5=pPtetYLrg0pQkUiou8VN4A&expires=1792167203",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/f01986d5e30ffd148a0c31a741781b2c/master.m3u8?md5=pPtetYLrg0pQkUiou8VN4A&expires=1792167203",
+            "videoSource": "https://ravok.buzz/cdn/hls/f01986d5e30ffd148a0c31a741781b2c/master.m3u8?md5=pPtetYLrg0pQkUiou8VN4A&expires=1792167203",
+            "videoImage": "https://as-cdn29.top/p/Vbk2_I6Cwk068B4I3tjRodxDb_jhUUbFjSVstwTF26gLFUnj_Ygwp4dHLTRnDOwFDclGceEHaNrefhOyCdmAuA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "b29e1baea1aa0702319961bcae84d87b",
+                "streamUrl": "https://ravok.buzz/cdn/hls/f01986d5e30ffd148a0c31a741781b2c/master.m3u8?md5=pPtetYLrg0pQkUiou8VN4A&expires=1792167203",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/f01986d5e30ffd148a0c31a741781b2c/master.m3u8?md5=pPtetYLrg0pQkUiou8VN4A&expires=1792167203",
+                "videoSource": "https://ravok.buzz/cdn/hls/f01986d5e30ffd148a0c31a741781b2c/master.m3u8?md5=pPtetYLrg0pQkUiou8VN4A&expires=1792167203",
+                "link": "https://ravok.buzz/cdn/hls/f01986d5e30ffd148a0c31a741781b2c/master.m3u8?md5=pPtetYLrg0pQkUiou8VN4A&expires=1792167203",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/Vbk2_I6Cwk068B4I3tjRodxDb_jhUUbFjSVstwTF26gLFUnj_Ygwp4dHLTRnDOwFDclGceEHaNrefhOyCdmAuA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "B4hcC87Ub"
+        }
+      },
+      "fetched_at": "2026-10-16T14:13:33Z"
+    },
+    {
+      "id": "episode/365-days-to-the-wedding-1x7",
+      "episode_id": "episode/365-days-to-the-wedding-1x7",
+      "title": "Why Don't We Get Married?",
+      "episode_name": "Why Don't We Get Married?",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1034_s1e7.webp",
+      "abyssid": "11773",
+      "abyssId": "11773",
+      "playxid": "4c9d05e62e91554c5348f78f8f2cd45b",
+      "playXID": "4c9d05e62e91554c5348f78f8f2cd45b",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "11773",
+        "playXID": "4c9d05e62e91554c5348f78f8f2cd45b",
+        "streamId": "11773",
+        "dubPlayerSrc": "/dub-player/t/11773/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=4c9d05e62e91554c5348f78f8f2cd45b&abyssId=11773"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "11773",
+        "playXID": "4c9d05e62e91554c5348f78f8f2cd45b",
+        "streamId": "11773",
+        "dubPlayerSrc": "/dub-player/t/11773/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=4c9d05e62e91554c5348f78f8f2cd45b&abyssId=11773"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/4c9d05e62e91554c5348f78f8f2cd45b",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/4c9d05e62e91554c5348f78f8f2cd45b"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "11773",
+        "abyssId": "11773",
+        "playXID": "4c9d05e62e91554c5348f78f8f2cd45b",
+        "title": "365 Days to the Wedding",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "sS03_JnE8"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "3XhQSKh_5"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "4L3O2fNmF"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "dhYt9b5Vs"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/e0442e948ba8f9f9f993c7b6cc041165/master.m3u8?md5=0hOPPHRG0m4B53hhk11YzA&expires=1792167203",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/e0442e948ba8f9f9f993c7b6cc041165/master.m3u8?md5=0hOPPHRG0m4B53hhk11YzA&expires=1792167203",
+            "videoSource": "https://ravok.buzz/cdn/hls/e0442e948ba8f9f9f993c7b6cc041165/master.m3u8?md5=0hOPPHRG0m4B53hhk11YzA&expires=1792167203",
+            "videoImage": "https://as-cdn28.top/p/B-vuHD60V4e6xeiBYg-Llf1EF7iqqRSSp0yqpCiRXb_K8upxQ7nueFts-hydxhb0IUF4gbCDPNAaMlIVzabYwg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "4c9d05e62e91554c5348f78f8f2cd45b",
+                "streamUrl": "https://ravok.buzz/cdn/hls/e0442e948ba8f9f9f993c7b6cc041165/master.m3u8?md5=0hOPPHRG0m4B53hhk11YzA&expires=1792167203",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/e0442e948ba8f9f9f993c7b6cc041165/master.m3u8?md5=0hOPPHRG0m4B53hhk11YzA&expires=1792167203",
+                "videoSource": "https://ravok.buzz/cdn/hls/e0442e948ba8f9f9f993c7b6cc041165/master.m3u8?md5=0hOPPHRG0m4B53hhk11YzA&expires=1792167203",
+                "link": "https://ravok.buzz/cdn/hls/e0442e948ba8f9f9f993c7b6cc041165/master.m3u8?md5=0hOPPHRG0m4B53hhk11YzA&expires=1792167203",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/B-vuHD60V4e6xeiBYg-Llf1EF7iqqRSSp0yqpCiRXb_K8upxQ7nueFts-hydxhb0IUF4gbCDPNAaMlIVzabYwg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "sS03_JnE8"
+        }
+      },
+      "fetched_at": "2026-10-16T14:13:33Z"
+    },
+    {
+      "id": "episode/365-days-to-the-wedding-1x9",
+      "episode_id": "episode/365-days-to-the-wedding-1x9",
+      "title": "Why Don't We Get Married?",
+      "episode_name": "Why Don't We Get Married?",
+      "episode_number": 9,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1034_s1e9.webp",
+      "abyssid": "11893",
+      "abyssId": "11893",
+      "playxid": "bf0a8e1dc5c86ca9c4ebb1716579ba9a",
+      "playXID": "bf0a8e1dc5c86ca9c4ebb1716579ba9a",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "11893",
+        "playXID": "bf0a8e1dc5c86ca9c4ebb1716579ba9a",
+        "streamId": "11893",
+        "dubPlayerSrc": "/dub-player/t/11893/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=bf0a8e1dc5c86ca9c4ebb1716579ba9a&abyssId=11893"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "11893",
+        "playXID": "bf0a8e1dc5c86ca9c4ebb1716579ba9a",
+        "streamId": "11893",
+        "dubPlayerSrc": "/dub-player/t/11893/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=bf0a8e1dc5c86ca9c4ebb1716579ba9a&abyssId=11893"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/bf0a8e1dc5c86ca9c4ebb1716579ba9a",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/bf0a8e1dc5c86ca9c4ebb1716579ba9a"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "11893",
+        "abyssId": "11893",
+        "playXID": "bf0a8e1dc5c86ca9c4ebb1716579ba9a",
+        "title": "365 Days to the Wedding",
+        "season": 1,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "DYgGZwljz"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "Xl_YCxAx8"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "15Nc_fSYpl"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "iOiT3ma8K"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/a09eb0d2726749ecba1a8b95001d9972/master.m3u8?md5=O-kmGiJBE8mDhoEBNjUm-w&expires=1792167204",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/a09eb0d2726749ecba1a8b95001d9972/master.m3u8?md5=O-kmGiJBE8mDhoEBNjUm-w&expires=1792167204",
+            "videoSource": "https://ravok.buzz/cdn/hls/a09eb0d2726749ecba1a8b95001d9972/master.m3u8?md5=O-kmGiJBE8mDhoEBNjUm-w&expires=1792167204",
+            "videoImage": "https://as-cdn27.top/p/jReNmNPxhATQEjj9TEJU0lnrdnnjEBrW6ot3DKUaPgLBGXQlOC3a88oAfJVlKLsYJEuPBuEmiSnKcmo_AXtkaw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "bf0a8e1dc5c86ca9c4ebb1716579ba9a",
+                "streamUrl": "https://ravok.buzz/cdn/hls/a09eb0d2726749ecba1a8b95001d9972/master.m3u8?md5=O-kmGiJBE8mDhoEBNjUm-w&expires=1792167204",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/a09eb0d2726749ecba1a8b95001d9972/master.m3u8?md5=O-kmGiJBE8mDhoEBNjUm-w&expires=1792167204",
+                "videoSource": "https://ravok.buzz/cdn/hls/a09eb0d2726749ecba1a8b95001d9972/master.m3u8?md5=O-kmGiJBE8mDhoEBNjUm-w&expires=1792167204",
+                "link": "https://ravok.buzz/cdn/hls/a09eb0d2726749ecba1a8b95001d9972/master.m3u8?md5=O-kmGiJBE8mDhoEBNjUm-w&expires=1792167204",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/jReNmNPxhATQEjj9TEJU0lnrdnnjEBrW6ot3DKUaPgLBGXQlOC3a88oAfJVlKLsYJEuPBuEmiSnKcmo_AXtkaw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "DYgGZwljz"
+        }
+      },
+      "fetched_at": "2026-10-16T14:13:34Z"
+    },
+    {
+      "id": "episode/365-days-to-the-wedding-1x10",
+      "episode_id": "episode/365-days-to-the-wedding-1x10",
+      "title": "Why Don't We Get Married?",
+      "episode_name": "Why Don't We Get Married?",
+      "episode_number": 10,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1034_s1e10.webp",
+      "abyssid": "11912",
+      "abyssId": "11912",
+      "playxid": "67d4b0e0d116a953ae3c361e5de97048",
+      "playXID": "67d4b0e0d116a953ae3c361e5de97048",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "11912",
+        "playXID": "67d4b0e0d116a953ae3c361e5de97048",
+        "streamId": "11912",
+        "dubPlayerSrc": "/dub-player/t/11912/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=67d4b0e0d116a953ae3c361e5de97048&abyssId=11912"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "11912",
+        "playXID": "67d4b0e0d116a953ae3c361e5de97048",
+        "streamId": "11912",
+        "dubPlayerSrc": "/dub-player/t/11912/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=67d4b0e0d116a953ae3c361e5de97048&abyssId=11912"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/67d4b0e0d116a953ae3c361e5de97048",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/67d4b0e0d116a953ae3c361e5de97048"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "11912",
+        "abyssId": "11912",
+        "playXID": "67d4b0e0d116a953ae3c361e5de97048",
+        "title": "365 Days to the Wedding",
+        "season": 1,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "TRLrkhE9j"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "Dx-XMjoTlk"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "ZetJUVt1mc"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "stAW80lSQ"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/ba49b0a49a6a04ee777e71df3226579c/master.m3u8?md5=mOMuTM2MYlfS3toM-Bt7VQ&expires=1792167205",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/ba49b0a49a6a04ee777e71df3226579c/master.m3u8?md5=mOMuTM2MYlfS3toM-Bt7VQ&expires=1792167205",
+            "videoSource": "https://ravok.buzz/cdn/hls/ba49b0a49a6a04ee777e71df3226579c/master.m3u8?md5=mOMuTM2MYlfS3toM-Bt7VQ&expires=1792167205",
+            "videoImage": "https://as-cdn28.top/p/GLCpWbFe07CZLdya-xjtnVGaU5WyqvL3ZxphESfJLxxiscDNAhWzNLUCLAfCz_eL7OzR4YcCWPG7qyiARtyDnQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "67d4b0e0d116a953ae3c361e5de97048",
+                "streamUrl": "https://ravok.buzz/cdn/hls/ba49b0a49a6a04ee777e71df3226579c/master.m3u8?md5=mOMuTM2MYlfS3toM-Bt7VQ&expires=1792167205",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/ba49b0a49a6a04ee777e71df3226579c/master.m3u8?md5=mOMuTM2MYlfS3toM-Bt7VQ&expires=1792167205",
+                "videoSource": "https://ravok.buzz/cdn/hls/ba49b0a49a6a04ee777e71df3226579c/master.m3u8?md5=mOMuTM2MYlfS3toM-Bt7VQ&expires=1792167205",
+                "link": "https://ravok.buzz/cdn/hls/ba49b0a49a6a04ee777e71df3226579c/master.m3u8?md5=mOMuTM2MYlfS3toM-Bt7VQ&expires=1792167205",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/GLCpWbFe07CZLdya-xjtnVGaU5WyqvL3ZxphESfJLxxiscDNAhWzNLUCLAfCz_eL7OzR4YcCWPG7qyiARtyDnQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "TRLrkhE9j"
+        }
+      },
+      "fetched_at": "2026-10-16T14:13:36Z"
+    },
+    {
+      "id": "episode/365-days-to-the-wedding-1x12",
+      "episode_id": "episode/365-days-to-the-wedding-1x12",
+      "title": "Why Don't We Get Married?",
+      "episode_name": "Why Don't We Get Married?",
+      "episode_number": 12,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1034_s1e12.webp",
+      "abyssid": "12265",
+      "abyssId": "12265",
+      "playxid": "9167d3136c6495ed5e73160749d32625",
+      "playXID": "9167d3136c6495ed5e73160749d32625",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12265",
+        "playXID": "9167d3136c6495ed5e73160749d32625",
+        "streamId": "12265",
+        "dubPlayerSrc": "/dub-player/t/12265/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9167d3136c6495ed5e73160749d32625&abyssId=12265"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12265",
+        "playXID": "9167d3136c6495ed5e73160749d32625",
+        "streamId": "12265",
+        "dubPlayerSrc": "/dub-player/t/12265/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9167d3136c6495ed5e73160749d32625&abyssId=12265"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/9167d3136c6495ed5e73160749d32625",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/9167d3136c6495ed5e73160749d32625"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12265",
+        "abyssId": "12265",
+        "playXID": "9167d3136c6495ed5e73160749d32625",
+        "title": "365 Days to the Wedding",
+        "season": 1,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "fbkxrdwUi"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "Sht0WuOIc"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "EqxecTePd"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "MKTMsPiUe"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/dd8011a25e955adb75f96ebedee686d6/master.m3u8?md5=N4KOmyPfqMiJZnH9J1F0Cg&expires=1792167207",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/dd8011a25e955adb75f96ebedee686d6/master.m3u8?md5=N4KOmyPfqMiJZnH9J1F0Cg&expires=1792167207",
+            "videoSource": "https://ravok.buzz/cdn/hls/dd8011a25e955adb75f96ebedee686d6/master.m3u8?md5=N4KOmyPfqMiJZnH9J1F0Cg&expires=1792167207",
+            "videoImage": "https://as-cdn27.top/p/HrKMogGsnGEyOJXCo7Xq_4iNniFwQCIUW9tofxrRLpGmmij_KnbAZiFyhcrLzCItavTxC2DoyNN7r6QgsHK2VA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "9167d3136c6495ed5e73160749d32625",
+                "streamUrl": "https://ravok.buzz/cdn/hls/dd8011a25e955adb75f96ebedee686d6/master.m3u8?md5=N4KOmyPfqMiJZnH9J1F0Cg&expires=1792167207",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/dd8011a25e955adb75f96ebedee686d6/master.m3u8?md5=N4KOmyPfqMiJZnH9J1F0Cg&expires=1792167207",
+                "videoSource": "https://ravok.buzz/cdn/hls/dd8011a25e955adb75f96ebedee686d6/master.m3u8?md5=N4KOmyPfqMiJZnH9J1F0Cg&expires=1792167207",
+                "link": "https://ravok.buzz/cdn/hls/dd8011a25e955adb75f96ebedee686d6/master.m3u8?md5=N4KOmyPfqMiJZnH9J1F0Cg&expires=1792167207",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/HrKMogGsnGEyOJXCo7Xq_4iNniFwQCIUW9tofxrRLpGmmij_KnbAZiFyhcrLzCItavTxC2DoyNN7r6QgsHK2VA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "fbkxrdwUi"
+        }
+      },
+      "fetched_at": "2026-10-16T14:13:36Z"
+    },
+    {
+      "id": "episode/365-days-to-the-wedding-1x11",
+      "episode_id": "episode/365-days-to-the-wedding-1x11",
+      "title": "Why Don't We Get Married?",
+      "episode_name": "Why Don't We Get Married?",
+      "episode_number": 11,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1034_s1e11.webp",
+      "abyssid": "11991",
+      "abyssId": "11991",
+      "playxid": "bd69a680c233578a87e46f33dfdc78b1",
+      "playXID": "bd69a680c233578a87e46f33dfdc78b1",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "11991",
+        "playXID": "bd69a680c233578a87e46f33dfdc78b1",
+        "streamId": "11991",
+        "dubPlayerSrc": "/dub-player/t/11991/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=bd69a680c233578a87e46f33dfdc78b1&abyssId=11991"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "11991",
+        "playXID": "bd69a680c233578a87e46f33dfdc78b1",
+        "streamId": "11991",
+        "dubPlayerSrc": "/dub-player/t/11991/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=bd69a680c233578a87e46f33dfdc78b1&abyssId=11991"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/bd69a680c233578a87e46f33dfdc78b1",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/bd69a680c233578a87e46f33dfdc78b1"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "11991",
+        "abyssId": "11991",
+        "playXID": "bd69a680c233578a87e46f33dfdc78b1",
+        "title": "365 Days to the Wedding",
+        "season": 1,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "4q-65wmvz"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "i4bqR9OIH"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "uCo60cUrb"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "_RkphBTOY"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/2b9fecfc45815ed2696c223e3f95e3e8/master.m3u8?md5=trDNU3pasclzGuxtnUaayw&expires=1792167207",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/2b9fecfc45815ed2696c223e3f95e3e8/master.m3u8?md5=trDNU3pasclzGuxtnUaayw&expires=1792167207",
+            "videoSource": "https://ravok.buzz/cdn/hls/2b9fecfc45815ed2696c223e3f95e3e8/master.m3u8?md5=trDNU3pasclzGuxtnUaayw&expires=1792167207",
+            "videoImage": "https://as-cdn27.top/p/e2t54Qy8NxeLIu2U-A2VfoK8BbNRtZ_bt7nYvZspjgyWXyRRAa9AA7qar5ytNyjBKMakId4bSCG-vPWOoVyUbA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "bd69a680c233578a87e46f33dfdc78b1",
+                "streamUrl": "https://ravok.buzz/cdn/hls/2b9fecfc45815ed2696c223e3f95e3e8/master.m3u8?md5=trDNU3pasclzGuxtnUaayw&expires=1792167207",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/2b9fecfc45815ed2696c223e3f95e3e8/master.m3u8?md5=trDNU3pasclzGuxtnUaayw&expires=1792167207",
+                "videoSource": "https://ravok.buzz/cdn/hls/2b9fecfc45815ed2696c223e3f95e3e8/master.m3u8?md5=trDNU3pasclzGuxtnUaayw&expires=1792167207",
+                "link": "https://ravok.buzz/cdn/hls/2b9fecfc45815ed2696c223e3f95e3e8/master.m3u8?md5=trDNU3pasclzGuxtnUaayw&expires=1792167207",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/e2t54Qy8NxeLIu2U-A2VfoK8BbNRtZ_bt7nYvZspjgyWXyRRAa9AA7qar5ytNyjBKMakId4bSCG-vPWOoVyUbA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "4q-65wmvz"
+        }
+      },
+      "fetched_at": "2026-10-16T14:13:37Z"
+    },
+    {
+      "id": "episode/365-days-to-the-wedding-1x6",
+      "episode_id": "episode/365-days-to-the-wedding-1x6",
+      "title": "Why Don't We Get Married?",
+      "episode_name": "Why Don't We Get Married?",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/img/thumb_1034_s1e6.webp",
+      "abyssid": "11612",
+      "abyssId": "11612",
+      "playxid": "91d5e7caa88aeba26636f80e5f98daa3",
+      "playXID": "91d5e7caa88aeba26636f80e5f98daa3",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "11612",
+        "playXID": "91d5e7caa88aeba26636f80e5f98daa3",
+        "streamId": "11612",
+        "dubPlayerSrc": "/dub-player/t/11612/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=91d5e7caa88aeba26636f80e5f98daa3&abyssId=11612"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "11612",
+        "playXID": "91d5e7caa88aeba26636f80e5f98daa3",
+        "streamId": "11612",
+        "dubPlayerSrc": "/dub-player/t/11612/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=91d5e7caa88aeba26636f80e5f98daa3&abyssId=11612"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/91d5e7caa88aeba26636f80e5f98daa3",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/91d5e7caa88aeba26636f80e5f98daa3"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "11612",
+        "abyssId": "11612",
+        "playXID": "91d5e7caa88aeba26636f80e5f98daa3",
+        "title": "365 Days to the Wedding",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "2HdYZ6yX6"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "iq-CUeDmc"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "ZC9TdPsUe"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "95CwL8VZz"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/e6d5362e722335abcd5df962afc43a66/master.m3u8?md5=KBxMlgF0aiIrmWo6hIkiUw&expires=1792167207",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/e6d5362e722335abcd5df962afc43a66/master.m3u8?md5=KBxMlgF0aiIrmWo6hIkiUw&expires=1792167207",
+            "videoSource": "https://ravok.buzz/cdn/hls/e6d5362e722335abcd5df962afc43a66/master.m3u8?md5=KBxMlgF0aiIrmWo6hIkiUw&expires=1792167207",
+            "videoImage": "https://as-cdn30.top/p/aqAfOnG3BvG5x3OUrJdBi-J_MfPx7ebY_uPFppqL2r4YKbgiMR4FngIj28TmSo5HfUX_lQGe57G3sbzbflxAKw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "91d5e7caa88aeba26636f80e5f98daa3",
+                "streamUrl": "https://ravok.buzz/cdn/hls/e6d5362e722335abcd5df962afc43a66/master.m3u8?md5=KBxMlgF0aiIrmWo6hIkiUw&expires=1792167207",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/e6d5362e722335abcd5df962afc43a66/master.m3u8?md5=KBxMlgF0aiIrmWo6hIkiUw&expires=1792167207",
+                "videoSource": "https://ravok.buzz/cdn/hls/e6d5362e722335abcd5df962afc43a66/master.m3u8?md5=KBxMlgF0aiIrmWo6hIkiUw&expires=1792167207",
+                "link": "https://ravok.buzz/cdn/hls/e6d5362e722335abcd5df962afc43a66/master.m3u8?md5=KBxMlgF0aiIrmWo6hIkiUw&expires=1792167207",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/aqAfOnG3BvG5x3OUrJdBi-J_MfPx7ebY_uPFppqL2r4YKbgiMR4FngIj28TmSo5HfUX_lQGe57G3sbzbflxAKw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "2HdYZ6yX6"
+        }
+      },
+      "fetched_at": "2026-10-16T14:13:37Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T14:13:29Z",
+  "updated_at": "2026-10-16T14:13:37Z"
+}

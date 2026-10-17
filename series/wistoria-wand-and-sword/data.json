@@ -1,0 +1,2775 @@
+{
+  "id": "series/wistoria-wand-and-sword",
+  "series_name": "Wistoria: Wand and Sword",
+  "title": "Wistoria: Wand and Sword",
+  "banner": "https://image.tmdb.org/t/p/w1280/7sGeLiMVrD0QyKWjhEbLWmZIj2w.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/5n0IZQA9MiXn5JBKZibtNhhFSAZ.jpg",
+  "genra": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "School",
+    "Shounen"
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "School",
+    "Shounen"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Japanese",
+    "Tamil",
+    "Telugu"
+  ],
+  "synopsis": "In a world where magic reigns, Will Serfort can’t cast a spell. Though hardworking, Will’s classmates think less of him for it. However, he has a secret strength: his sword. Can Will defy expectations with muscle over magic and blade over wand? Find out in this epic sword-and-sorcery adventure!",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 2,
+  "totalEpisodes": 23,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Like a Lone Sword",
+          "id": "episode/wistoria-wand-and-sword-1x1",
+          "image": "https://img.watchanimeworld.one/images/13410/01.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "Undauntedly",
+          "id": "episode/wistoria-wand-and-sword-1x2",
+          "image": "https://img.watchanimeworld.one/images/13410/02.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "Order & Watcher",
+          "id": "episode/wistoria-wand-and-sword-1x3",
+          "image": "https://img.watchanimeworld.one/images/13410/03.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "The Eve of the Grand Festival",
+          "id": "episode/wistoria-wand-and-sword-1x4",
+          "image": "https://img.watchanimeworld.one/images/13410/04.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "Raise the Starting Pistol",
+          "id": "episode/wistoria-wand-and-sword-1x5",
+          "image": "https://img.watchanimeworld.one/images/13410/05.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "Between Pride and Passion",
+          "id": "episode/wistoria-wand-and-sword-1x6",
+          "image": "https://img.watchanimeworld.one/images/13410/06.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "Twelve Secret Ice Magics, El Glace Frosse",
+          "id": "episode/wistoria-wand-and-sword-1x7",
+          "image": "https://img.watchanimeworld.one/images/13410/07.webp",
+          "season": 1
+        },
+        {
+          "episode": 8,
+          "title": "Shall we date?",
+          "id": "episode/wistoria-wand-and-sword-1x8",
+          "image": "https://img.watchanimeworld.one/images/13410/08.webp",
+          "season": 1
+        },
+        {
+          "episode": 9,
+          "title": "Praxis Begins",
+          "id": "episode/wistoria-wand-and-sword-1x9",
+          "image": "https://img.watchanimeworld.one/images/13410/09.webp",
+          "season": 1
+        },
+        {
+          "episode": 10,
+          "title": "Our Dreams",
+          "id": "episode/wistoria-wand-and-sword-1x10",
+          "image": "https://img.watchanimeworld.one/images/13410/10.webp",
+          "season": 1
+        },
+        {
+          "episode": 11,
+          "title": "The True Name of Cowards",
+          "id": "episode/wistoria-wand-and-sword-1x11",
+          "image": "https://img.watchanimeworld.one/images/13410/11.webp",
+          "season": 1
+        },
+        {
+          "episode": 12,
+          "title": "Wand and Sword",
+          "id": "episode/wistoria-wand-and-sword-1x12",
+          "image": "https://img.watchanimeworld.one/images/13410/12.webp",
+          "season": 1
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "name": "Season 2",
+      "episodesCount": 11,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Wistoria: Wand and Sword 2x1",
+          "id": "episode/wistoria-wand-and-sword-2x1",
+          "image": "https://img.watchanimeworld.one/img/thumb_344_s2e1.webp",
+          "season": 2
+        },
+        {
+          "episode": 2,
+          "title": "Wistoria: Wand and Sword 2x2",
+          "id": "episode/wistoria-wand-and-sword-2x2",
+          "image": "https://img.watchanimeworld.one/img/thumb_344_s2e2.webp",
+          "season": 2
+        },
+        {
+          "episode": 3,
+          "title": "Wistoria: Wand and Sword 2x3",
+          "id": "episode/wistoria-wand-and-sword-2x3",
+          "image": "https://img.watchanimeworld.one/img/thumb_344_s2e3.webp",
+          "season": 2
+        },
+        {
+          "episode": 4,
+          "title": "Wistoria: Wand and Sword 2x4",
+          "id": "episode/wistoria-wand-and-sword-2x4",
+          "image": "https://img.watchanimeworld.one/img/thumb_344_s2e4.webp",
+          "season": 2
+        },
+        {
+          "episode": 5,
+          "title": "Wistoria: Wand and Sword 2x5",
+          "id": "episode/wistoria-wand-and-sword-2x5",
+          "image": "https://img.watchanimeworld.one/img/thumb_344_s2e5.webp",
+          "season": 2
+        },
+        {
+          "episode": 6,
+          "title": "Wistoria: Wand and Sword 2x6",
+          "id": "episode/wistoria-wand-and-sword-2x6",
+          "image": "https://img.watchanimeworld.one/img/thumb_344_s2e6.webp",
+          "season": 2
+        },
+        {
+          "episode": 7,
+          "title": "Wistoria: Wand and Sword 2x7",
+          "id": "episode/wistoria-wand-and-sword-2x7",
+          "image": "https://img.watchanimeworld.one/img/thumb_344_s2e7.webp",
+          "season": 2
+        },
+        {
+          "episode": 8,
+          "title": "Wistoria: Wand and Sword 2x8",
+          "id": "episode/wistoria-wand-and-sword-2x8",
+          "image": "https://img.watchanimeworld.one/img/thumb_344_s2e8.webp",
+          "season": 2
+        },
+        {
+          "episode": 9,
+          "title": "Wistoria: Wand and Sword 2x9",
+          "id": "episode/wistoria-wand-and-sword-2x9",
+          "image": "https://img.watchanimeworld.one/img/thumb_344_s2e9.webp",
+          "season": 2
+        },
+        {
+          "episode": 10,
+          "title": "Wistoria: Wand and Sword 2x10",
+          "id": "episode/wistoria-wand-and-sword-2x10",
+          "image": "https://img.watchanimeworld.one/img/thumb_344_s2e10.webp",
+          "season": 2
+        },
+        {
+          "episode": 11,
+          "title": "Wistoria: Wand and Sword 2x11",
+          "id": "episode/wistoria-wand-and-sword-2x11",
+          "image": "https://img.watchanimeworld.one/img/thumb_344_s2e11.webp",
+          "season": 2
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/wistoria-wand-and-sword-1x4",
+      "episode_id": "episode/wistoria-wand-and-sword-1x4",
+      "title": "Like a Lone Sword",
+      "episode_name": "Like a Lone Sword",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/13410/04.webp",
+      "abyssid": "8286",
+      "abyssId": "8286",
+      "playxid": "4d2e7bd33c475784381a64e43e50922f",
+      "playXID": "4d2e7bd33c475784381a64e43e50922f",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "8286",
+        "playXID": "4d2e7bd33c475784381a64e43e50922f",
+        "streamId": "8286",
+        "dubPlayerSrc": "/dub-player/t/8286/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=4d2e7bd33c475784381a64e43e50922f&abyssId=8286"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "8286",
+        "playXID": "4d2e7bd33c475784381a64e43e50922f",
+        "streamId": "8286",
+        "dubPlayerSrc": "/dub-player/t/8286/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=4d2e7bd33c475784381a64e43e50922f&abyssId=8286"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/4d2e7bd33c475784381a64e43e50922f",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/4d2e7bd33c475784381a64e43e50922f"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "8286",
+        "abyssId": "8286",
+        "playXID": "4d2e7bd33c475784381a64e43e50922f",
+        "title": "Wistoria: Wand and Sword",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "rbRSrgkJF"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "ougtMGkcX"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "punUaSpPY"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "hSKl8ou2j"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "p2eD0fN1A"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/5c01581b43dbd32f3a0f51bc83562ee3/master.m3u8?md5=iIQyB_CxJoq3sJ_I4W5B3g&expires=1792167316",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/5c01581b43dbd32f3a0f51bc83562ee3/master.m3u8?md5=iIQyB_CxJoq3sJ_I4W5B3g&expires=1792167316",
+            "videoSource": "https://ravok.buzz/cdn/hls/5c01581b43dbd32f3a0f51bc83562ee3/master.m3u8?md5=iIQyB_CxJoq3sJ_I4W5B3g&expires=1792167316",
+            "videoImage": "https://as-cdn29.top/p/ABe5Xi8mB8quwj3vrPCEvcjStTks3oCXelPvQYx5WK25zSjJlx-uKcWZsQFN0iVLYuvTqgzjezHdwmMiBWE_Yg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "4d2e7bd33c475784381a64e43e50922f",
+                "streamUrl": "https://ravok.buzz/cdn/hls/5c01581b43dbd32f3a0f51bc83562ee3/master.m3u8?md5=iIQyB_CxJoq3sJ_I4W5B3g&expires=1792167316",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/5c01581b43dbd32f3a0f51bc83562ee3/master.m3u8?md5=iIQyB_CxJoq3sJ_I4W5B3g&expires=1792167316",
+                "videoSource": "https://ravok.buzz/cdn/hls/5c01581b43dbd32f3a0f51bc83562ee3/master.m3u8?md5=iIQyB_CxJoq3sJ_I4W5B3g&expires=1792167316",
+                "link": "https://ravok.buzz/cdn/hls/5c01581b43dbd32f3a0f51bc83562ee3/master.m3u8?md5=iIQyB_CxJoq3sJ_I4W5B3g&expires=1792167316",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/ABe5Xi8mB8quwj3vrPCEvcjStTks3oCXelPvQYx5WK25zSjJlx-uKcWZsQFN0iVLYuvTqgzjezHdwmMiBWE_Yg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "rbRSrgkJF"
+        }
+      },
+      "fetched_at": "2026-10-16T14:15:26Z"
+    },
+    {
+      "id": "episode/wistoria-wand-and-sword-1x5",
+      "episode_id": "episode/wistoria-wand-and-sword-1x5",
+      "title": "Like a Lone Sword",
+      "episode_name": "Like a Lone Sword",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/13410/05.webp",
+      "abyssid": "8287",
+      "abyssId": "8287",
+      "playxid": "fe2d010308a6b3799a3d9c728ee74244",
+      "playXID": "fe2d010308a6b3799a3d9c728ee74244",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "8287",
+        "playXID": "fe2d010308a6b3799a3d9c728ee74244",
+        "streamId": "8287",
+        "dubPlayerSrc": "/dub-player/t/8287/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=fe2d010308a6b3799a3d9c728ee74244&abyssId=8287"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "8287",
+        "playXID": "fe2d010308a6b3799a3d9c728ee74244",
+        "streamId": "8287",
+        "dubPlayerSrc": "/dub-player/t/8287/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=fe2d010308a6b3799a3d9c728ee74244&abyssId=8287"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/fe2d010308a6b3799a3d9c728ee74244",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/fe2d010308a6b3799a3d9c728ee74244"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "8287",
+        "abyssId": "8287",
+        "playXID": "fe2d010308a6b3799a3d9c728ee74244",
+        "title": "Wistoria: Wand and Sword",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "0eNZXOyS1"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "JNq8AbUd6"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "HrUENCrsc"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "PRV3hX4Rf"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "PZNSESa8BK"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/fc2c9a6975e75731eb2cde66a93a16b5/master.m3u8?md5=P7u2YI5iJ-L8Zg0Llda2AQ&expires=1792167316",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/fc2c9a6975e75731eb2cde66a93a16b5/master.m3u8?md5=P7u2YI5iJ-L8Zg0Llda2AQ&expires=1792167316",
+            "videoSource": "https://ravok.buzz/cdn/hls/fc2c9a6975e75731eb2cde66a93a16b5/master.m3u8?md5=P7u2YI5iJ-L8Zg0Llda2AQ&expires=1792167316",
+            "videoImage": "https://as-cdn31.top/p/mBM8LX8QK1wkfdNwYh1c20-4jglECOmRaZZVlHJG_wyYrKfADSGFlP1-xZ5XvvS6oVPD92S-WfJz7aRVcvZFmQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "fe2d010308a6b3799a3d9c728ee74244",
+                "streamUrl": "https://ravok.buzz/cdn/hls/fc2c9a6975e75731eb2cde66a93a16b5/master.m3u8?md5=P7u2YI5iJ-L8Zg0Llda2AQ&expires=1792167316",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/fc2c9a6975e75731eb2cde66a93a16b5/master.m3u8?md5=P7u2YI5iJ-L8Zg0Llda2AQ&expires=1792167316",
+                "videoSource": "https://ravok.buzz/cdn/hls/fc2c9a6975e75731eb2cde66a93a16b5/master.m3u8?md5=P7u2YI5iJ-L8Zg0Llda2AQ&expires=1792167316",
+                "link": "https://ravok.buzz/cdn/hls/fc2c9a6975e75731eb2cde66a93a16b5/master.m3u8?md5=P7u2YI5iJ-L8Zg0Llda2AQ&expires=1792167316",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/mBM8LX8QK1wkfdNwYh1c20-4jglECOmRaZZVlHJG_wyYrKfADSGFlP1-xZ5XvvS6oVPD92S-WfJz7aRVcvZFmQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "0eNZXOyS1"
+        }
+      },
+      "fetched_at": "2026-10-16T14:15:26Z"
+    },
+    {
+      "id": "episode/wistoria-wand-and-sword-1x3",
+      "episode_id": "episode/wistoria-wand-and-sword-1x3",
+      "title": "Like a Lone Sword",
+      "episode_name": "Like a Lone Sword",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/13410/03.webp",
+      "abyssid": "8285",
+      "abyssId": "8285",
+      "playxid": "32e05616c8ed659463f9af00b142dd6f",
+      "playXID": "32e05616c8ed659463f9af00b142dd6f",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "8285",
+        "playXID": "32e05616c8ed659463f9af00b142dd6f",
+        "streamId": "8285",
+        "dubPlayerSrc": "/dub-player/t/8285/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=32e05616c8ed659463f9af00b142dd6f&abyssId=8285"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "8285",
+        "playXID": "32e05616c8ed659463f9af00b142dd6f",
+        "streamId": "8285",
+        "dubPlayerSrc": "/dub-player/t/8285/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=32e05616c8ed659463f9af00b142dd6f&abyssId=8285"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/32e05616c8ed659463f9af00b142dd6f",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/32e05616c8ed659463f9af00b142dd6f"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "8285",
+        "abyssId": "8285",
+        "playXID": "32e05616c8ed659463f9af00b142dd6f",
+        "title": "Wistoria: Wand and Sword",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "wIHRAw4yU"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "ZmwpUMq4n"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "InDzDBs18"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "t4eLscM7u"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "RSJ-D7Zl8z"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/039bfa2380cf3700a3cadb994df33d3f/master.m3u8?md5=E6_ma49Ecs477UGcTwuS-g&expires=1792167316",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/039bfa2380cf3700a3cadb994df33d3f/master.m3u8?md5=E6_ma49Ecs477UGcTwuS-g&expires=1792167316",
+            "videoSource": "https://ravok.buzz/cdn/hls/039bfa2380cf3700a3cadb994df33d3f/master.m3u8?md5=E6_ma49Ecs477UGcTwuS-g&expires=1792167316",
+            "videoImage": "https://as-cdn27.top/p/1V51Oe9O-bJ7d2rjkLGx3jBMs-fIcmri9XH7ahSEd3QF4HOcsAR5aJgNbLxvso0cbkSwEJg013wWEM64lSbLmA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "32e05616c8ed659463f9af00b142dd6f",
+                "streamUrl": "https://ravok.buzz/cdn/hls/039bfa2380cf3700a3cadb994df33d3f/master.m3u8?md5=E6_ma49Ecs477UGcTwuS-g&expires=1792167316",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/039bfa2380cf3700a3cadb994df33d3f/master.m3u8?md5=E6_ma49Ecs477UGcTwuS-g&expires=1792167316",
+                "videoSource": "https://ravok.buzz/cdn/hls/039bfa2380cf3700a3cadb994df33d3f/master.m3u8?md5=E6_ma49Ecs477UGcTwuS-g&expires=1792167316",
+                "link": "https://ravok.buzz/cdn/hls/039bfa2380cf3700a3cadb994df33d3f/master.m3u8?md5=E6_ma49Ecs477UGcTwuS-g&expires=1792167316",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/1V51Oe9O-bJ7d2rjkLGx3jBMs-fIcmri9XH7ahSEd3QF4HOcsAR5aJgNbLxvso0cbkSwEJg013wWEM64lSbLmA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "wIHRAw4yU"
+        }
+      },
+      "fetched_at": "2026-10-16T14:15:26Z"
+    },
+    {
+      "id": "episode/wistoria-wand-and-sword-1x2",
+      "episode_id": "episode/wistoria-wand-and-sword-1x2",
+      "title": "Like a Lone Sword",
+      "episode_name": "Like a Lone Sword",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/13410/02.webp",
+      "abyssid": "8284",
+      "abyssId": "8284",
+      "playxid": "8929c70f8d710e412d38da624b21c3c8",
+      "playXID": "8929c70f8d710e412d38da624b21c3c8",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "8284",
+        "playXID": "8929c70f8d710e412d38da624b21c3c8",
+        "streamId": "8284",
+        "dubPlayerSrc": "/dub-player/t/8284/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8929c70f8d710e412d38da624b21c3c8&abyssId=8284"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "8284",
+        "playXID": "8929c70f8d710e412d38da624b21c3c8",
+        "streamId": "8284",
+        "dubPlayerSrc": "/dub-player/t/8284/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8929c70f8d710e412d38da624b21c3c8&abyssId=8284"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/8929c70f8d710e412d38da624b21c3c8",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/8929c70f8d710e412d38da624b21c3c8"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "8284",
+        "abyssId": "8284",
+        "playXID": "8929c70f8d710e412d38da624b21c3c8",
+        "title": "Wistoria: Wand and Sword",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "6ktTlMZpP"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "JFD3QIplfS"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "Kt_2FODdt"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "w0sj70iSz"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "mgxSbjHCx"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/be17f51532ffbd2fbd04ef3c9b53ee41/master.m3u8?md5=fDhELeejmfK4kUULvPr6gg&expires=1792167316",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/be17f51532ffbd2fbd04ef3c9b53ee41/master.m3u8?md5=fDhELeejmfK4kUULvPr6gg&expires=1792167316",
+            "videoSource": "https://ravok.buzz/cdn/hls/be17f51532ffbd2fbd04ef3c9b53ee41/master.m3u8?md5=fDhELeejmfK4kUULvPr6gg&expires=1792167316",
+            "videoImage": "https://as-cdn29.top/p/CSctXsOS6xrnqgpPkGuveEm0Ck-awutytV5F91rvm_-4xcDh0unMhp-8uXGgqyMLftdoFWq97O_FPhBh6oGFxw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "8929c70f8d710e412d38da624b21c3c8",
+                "streamUrl": "https://ravok.buzz/cdn/hls/be17f51532ffbd2fbd04ef3c9b53ee41/master.m3u8?md5=fDhELeejmfK4kUULvPr6gg&expires=1792167316",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/be17f51532ffbd2fbd04ef3c9b53ee41/master.m3u8?md5=fDhELeejmfK4kUULvPr6gg&expires=1792167316",
+                "videoSource": "https://ravok.buzz/cdn/hls/be17f51532ffbd2fbd04ef3c9b53ee41/master.m3u8?md5=fDhELeejmfK4kUULvPr6gg&expires=1792167316",
+                "link": "https://ravok.buzz/cdn/hls/be17f51532ffbd2fbd04ef3c9b53ee41/master.m3u8?md5=fDhELeejmfK4kUULvPr6gg&expires=1792167316",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/CSctXsOS6xrnqgpPkGuveEm0Ck-awutytV5F91rvm_-4xcDh0unMhp-8uXGgqyMLftdoFWq97O_FPhBh6oGFxw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "6ktTlMZpP"
+        }
+      },
+      "fetched_at": "2026-10-16T14:15:26Z"
+    },
+    {
+      "id": "episode/wistoria-wand-and-sword-1x1",
+      "episode_id": "episode/wistoria-wand-and-sword-1x1",
+      "title": "Like a Lone Sword",
+      "episode_name": "Like a Lone Sword",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/13410/01.webp",
+      "abyssid": "8283",
+      "abyssId": "8283",
+      "playxid": "c3e4035af2a1cde9f21e1ae1951ac80b",
+      "playXID": "c3e4035af2a1cde9f21e1ae1951ac80b",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "8283",
+        "playXID": "c3e4035af2a1cde9f21e1ae1951ac80b",
+        "streamId": "8283",
+        "dubPlayerSrc": "/dub-player/t/8283/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c3e4035af2a1cde9f21e1ae1951ac80b&abyssId=8283"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "8283",
+        "playXID": "c3e4035af2a1cde9f21e1ae1951ac80b",
+        "streamId": "8283",
+        "dubPlayerSrc": "/dub-player/t/8283/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c3e4035af2a1cde9f21e1ae1951ac80b&abyssId=8283"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/c3e4035af2a1cde9f21e1ae1951ac80b",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/c3e4035af2a1cde9f21e1ae1951ac80b"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "8283",
+        "abyssId": "8283",
+        "playXID": "c3e4035af2a1cde9f21e1ae1951ac80b",
+        "title": "Wistoria: Wand and Sword",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "l0TSmiL3k"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "Fm08A6zcW"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "XW4fbNi8Y"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "QvuHEKzOr"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "u5Xtju045"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/c95aae65d4b655e37e45f935b3e46e61/master.m3u8?md5=jNyz8kOPAIBAeDtdhiYBng&expires=1792167316",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/c95aae65d4b655e37e45f935b3e46e61/master.m3u8?md5=jNyz8kOPAIBAeDtdhiYBng&expires=1792167316",
+            "videoSource": "https://ravok.buzz/cdn/hls/c95aae65d4b655e37e45f935b3e46e61/master.m3u8?md5=jNyz8kOPAIBAeDtdhiYBng&expires=1792167316",
+            "videoImage": "https://as-cdn28.top/p/Gdys4esAxofQqcTjcjcg1DO5c1QRPzEYzSV4BLtLNRwlWtoVN3K4kbrLh_IR7nB9jsAyxVWFbF6GfkqVxu78oA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "c3e4035af2a1cde9f21e1ae1951ac80b",
+                "streamUrl": "https://ravok.buzz/cdn/hls/c95aae65d4b655e37e45f935b3e46e61/master.m3u8?md5=jNyz8kOPAIBAeDtdhiYBng&expires=1792167316",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/c95aae65d4b655e37e45f935b3e46e61/master.m3u8?md5=jNyz8kOPAIBAeDtdhiYBng&expires=1792167316",
+                "videoSource": "https://ravok.buzz/cdn/hls/c95aae65d4b655e37e45f935b3e46e61/master.m3u8?md5=jNyz8kOPAIBAeDtdhiYBng&expires=1792167316",
+                "link": "https://ravok.buzz/cdn/hls/c95aae65d4b655e37e45f935b3e46e61/master.m3u8?md5=jNyz8kOPAIBAeDtdhiYBng&expires=1792167316",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/Gdys4esAxofQqcTjcjcg1DO5c1QRPzEYzSV4BLtLNRwlWtoVN3K4kbrLh_IR7nB9jsAyxVWFbF6GfkqVxu78oA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "l0TSmiL3k"
+        }
+      },
+      "fetched_at": "2026-10-16T14:15:26Z"
+    },
+    {
+      "id": "episode/wistoria-wand-and-sword-1x6",
+      "episode_id": "episode/wistoria-wand-and-sword-1x6",
+      "title": "Like a Lone Sword",
+      "episode_name": "Like a Lone Sword",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/13410/06.webp",
+      "abyssid": "8288",
+      "abyssId": "8288",
+      "playxid": "7501e5d4da87ac39d782741cd794002d",
+      "playXID": "7501e5d4da87ac39d782741cd794002d",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "8288",
+        "playXID": "7501e5d4da87ac39d782741cd794002d",
+        "streamId": "8288",
+        "dubPlayerSrc": "/dub-player/t/8288/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=7501e5d4da87ac39d782741cd794002d&abyssId=8288"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "8288",
+        "playXID": "7501e5d4da87ac39d782741cd794002d",
+        "streamId": "8288",
+        "dubPlayerSrc": "/dub-player/t/8288/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=7501e5d4da87ac39d782741cd794002d&abyssId=8288"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/7501e5d4da87ac39d782741cd794002d",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/7501e5d4da87ac39d782741cd794002d"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "8288",
+        "abyssId": "8288",
+        "playXID": "7501e5d4da87ac39d782741cd794002d",
+        "title": "Wistoria: Wand and Sword",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "hg45Wfq-b"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "HTEDNbaAe"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "DICjVRBNy"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "DU14FBxtZ"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "Z3_Z_abWR"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/6cf1fda8079486e46c16983d102f63af/master.m3u8?md5=eT159DSGpsJ2JtSWlo1YOg&expires=1792167318",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/6cf1fda8079486e46c16983d102f63af/master.m3u8?md5=eT159DSGpsJ2JtSWlo1YOg&expires=1792167318",
+            "videoSource": "https://ravok.buzz/cdn/hls/6cf1fda8079486e46c16983d102f63af/master.m3u8?md5=eT159DSGpsJ2JtSWlo1YOg&expires=1792167318",
+            "videoImage": "https://as-cdn30.top/p/qd8-6p2nNEojDzgnIVHR-GZc-8CzBqcTdhMP5nM0EBWb7-mIOX01L0lZ15q0MSz4-ZbeRjPcs7s0p544FKYjrQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "7501e5d4da87ac39d782741cd794002d",
+                "streamUrl": "https://ravok.buzz/cdn/hls/6cf1fda8079486e46c16983d102f63af/master.m3u8?md5=eT159DSGpsJ2JtSWlo1YOg&expires=1792167318",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/6cf1fda8079486e46c16983d102f63af/master.m3u8?md5=eT159DSGpsJ2JtSWlo1YOg&expires=1792167318",
+                "videoSource": "https://ravok.buzz/cdn/hls/6cf1fda8079486e46c16983d102f63af/master.m3u8?md5=eT159DSGpsJ2JtSWlo1YOg&expires=1792167318",
+                "link": "https://ravok.buzz/cdn/hls/6cf1fda8079486e46c16983d102f63af/master.m3u8?md5=eT159DSGpsJ2JtSWlo1YOg&expires=1792167318",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/qd8-6p2nNEojDzgnIVHR-GZc-8CzBqcTdhMP5nM0EBWb7-mIOX01L0lZ15q0MSz4-ZbeRjPcs7s0p544FKYjrQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "hg45Wfq-b"
+        }
+      },
+      "fetched_at": "2026-10-16T14:15:28Z"
+    },
+    {
+      "id": "episode/wistoria-wand-and-sword-1x10",
+      "episode_id": "episode/wistoria-wand-and-sword-1x10",
+      "title": "Like a Lone Sword",
+      "episode_name": "Like a Lone Sword",
+      "episode_number": 10,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/13410/10.webp",
+      "abyssid": "8292",
+      "abyssId": "8292",
+      "playxid": "bd0cc810b580b35884bd9df37c0e8b0f",
+      "playXID": "bd0cc810b580b35884bd9df37c0e8b0f",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "8292",
+        "playXID": "bd0cc810b580b35884bd9df37c0e8b0f",
+        "streamId": "8292",
+        "dubPlayerSrc": "/dub-player/t/8292/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=bd0cc810b580b35884bd9df37c0e8b0f&abyssId=8292"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "8292",
+        "playXID": "bd0cc810b580b35884bd9df37c0e8b0f",
+        "streamId": "8292",
+        "dubPlayerSrc": "/dub-player/t/8292/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=bd0cc810b580b35884bd9df37c0e8b0f&abyssId=8292"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/bd0cc810b580b35884bd9df37c0e8b0f",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/bd0cc810b580b35884bd9df37c0e8b0f"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "8292",
+        "abyssId": "8292",
+        "playXID": "bd0cc810b580b35884bd9df37c0e8b0f",
+        "title": "Wistoria: Wand and Sword",
+        "season": 1,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "mMatfkgki"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "34kzVg7Rk"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "KRtbwWqh0"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "Ns80WQNOI"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "T9SotsJPD"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/99c7184a30881219774748c4d9d95b96/master.m3u8?md5=lruc-MvxMYYvdtcmkG0J_Q&expires=1792167318",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/99c7184a30881219774748c4d9d95b96/master.m3u8?md5=lruc-MvxMYYvdtcmkG0J_Q&expires=1792167318",
+            "videoSource": "https://ravok.buzz/cdn/hls/99c7184a30881219774748c4d9d95b96/master.m3u8?md5=lruc-MvxMYYvdtcmkG0J_Q&expires=1792167318",
+            "videoImage": "https://as-cdn28.top/p/EjjKl7kmiV7ViQuhVC3VP2xC-TqUAKPOLaj0JiXLCzveOweuziyD7dKIsbPiqoHokGAdvzCElLRsvoGfATbOIA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "bd0cc810b580b35884bd9df37c0e8b0f",
+                "streamUrl": "https://ravok.buzz/cdn/hls/99c7184a30881219774748c4d9d95b96/master.m3u8?md5=lruc-MvxMYYvdtcmkG0J_Q&expires=1792167318",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/99c7184a30881219774748c4d9d95b96/master.m3u8?md5=lruc-MvxMYYvdtcmkG0J_Q&expires=1792167318",
+                "videoSource": "https://ravok.buzz/cdn/hls/99c7184a30881219774748c4d9d95b96/master.m3u8?md5=lruc-MvxMYYvdtcmkG0J_Q&expires=1792167318",
+                "link": "https://ravok.buzz/cdn/hls/99c7184a30881219774748c4d9d95b96/master.m3u8?md5=lruc-MvxMYYvdtcmkG0J_Q&expires=1792167318",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/EjjKl7kmiV7ViQuhVC3VP2xC-TqUAKPOLaj0JiXLCzveOweuziyD7dKIsbPiqoHokGAdvzCElLRsvoGfATbOIA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "mMatfkgki"
+        }
+      },
+      "fetched_at": "2026-10-16T14:15:28Z"
+    },
+    {
+      "id": "episode/wistoria-wand-and-sword-1x7",
+      "episode_id": "episode/wistoria-wand-and-sword-1x7",
+      "title": "Like a Lone Sword",
+      "episode_name": "Like a Lone Sword",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/13410/07.webp",
+      "abyssid": "8289",
+      "abyssId": "8289",
+      "playxid": "147702db07145348245dc5a2f2fe5683",
+      "playXID": "147702db07145348245dc5a2f2fe5683",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "8289",
+        "playXID": "147702db07145348245dc5a2f2fe5683",
+        "streamId": "8289",
+        "dubPlayerSrc": "/dub-player/t/8289/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=147702db07145348245dc5a2f2fe5683&abyssId=8289"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "8289",
+        "playXID": "147702db07145348245dc5a2f2fe5683",
+        "streamId": "8289",
+        "dubPlayerSrc": "/dub-player/t/8289/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=147702db07145348245dc5a2f2fe5683&abyssId=8289"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/147702db07145348245dc5a2f2fe5683",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/147702db07145348245dc5a2f2fe5683"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "8289",
+        "abyssId": "8289",
+        "playXID": "147702db07145348245dc5a2f2fe5683",
+        "title": "Wistoria: Wand and Sword",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "w_-dA2Yoo"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "ivRxG1RBf"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "egKDFQ_nK"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "prhxafCmY"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "fAjd1VEo0"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/3db70fb5e0b6f2bb0b9cf96134ef958b/master.m3u8?md5=lR1SBch0F0TpLnQ6qUfPJw&expires=1792167318",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/3db70fb5e0b6f2bb0b9cf96134ef958b/master.m3u8?md5=lR1SBch0F0TpLnQ6qUfPJw&expires=1792167318",
+            "videoSource": "https://ravok.buzz/cdn/hls/3db70fb5e0b6f2bb0b9cf96134ef958b/master.m3u8?md5=lR1SBch0F0TpLnQ6qUfPJw&expires=1792167318",
+            "videoImage": "https://as-cdn31.top/p/kr30ryQHEUaSp9__csw7iXdBDlq1KhFWrf6_lOIkSiwfHmsnS7CzKuN8ZcWRzOF3qPzNknYjd4M2DAzRYCTRJA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "147702db07145348245dc5a2f2fe5683",
+                "streamUrl": "https://ravok.buzz/cdn/hls/3db70fb5e0b6f2bb0b9cf96134ef958b/master.m3u8?md5=lR1SBch0F0TpLnQ6qUfPJw&expires=1792167318",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/3db70fb5e0b6f2bb0b9cf96134ef958b/master.m3u8?md5=lR1SBch0F0TpLnQ6qUfPJw&expires=1792167318",
+                "videoSource": "https://ravok.buzz/cdn/hls/3db70fb5e0b6f2bb0b9cf96134ef958b/master.m3u8?md5=lR1SBch0F0TpLnQ6qUfPJw&expires=1792167318",
+                "link": "https://ravok.buzz/cdn/hls/3db70fb5e0b6f2bb0b9cf96134ef958b/master.m3u8?md5=lR1SBch0F0TpLnQ6qUfPJw&expires=1792167318",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/kr30ryQHEUaSp9__csw7iXdBDlq1KhFWrf6_lOIkSiwfHmsnS7CzKuN8ZcWRzOF3qPzNknYjd4M2DAzRYCTRJA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "w_-dA2Yoo"
+        }
+      },
+      "fetched_at": "2026-10-16T14:15:28Z"
+    },
+    {
+      "id": "episode/wistoria-wand-and-sword-1x8",
+      "episode_id": "episode/wistoria-wand-and-sword-1x8",
+      "title": "Like a Lone Sword",
+      "episode_name": "Like a Lone Sword",
+      "episode_number": 8,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/13410/08.webp",
+      "abyssid": "8290",
+      "abyssId": "8290",
+      "playxid": "2596a54cdbb555cfd09cd5d991da0f55",
+      "playXID": "2596a54cdbb555cfd09cd5d991da0f55",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "8290",
+        "playXID": "2596a54cdbb555cfd09cd5d991da0f55",
+        "streamId": "8290",
+        "dubPlayerSrc": "/dub-player/t/8290/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2596a54cdbb555cfd09cd5d991da0f55&abyssId=8290"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "8290",
+        "playXID": "2596a54cdbb555cfd09cd5d991da0f55",
+        "streamId": "8290",
+        "dubPlayerSrc": "/dub-player/t/8290/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2596a54cdbb555cfd09cd5d991da0f55&abyssId=8290"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/2596a54cdbb555cfd09cd5d991da0f55",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/2596a54cdbb555cfd09cd5d991da0f55"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "8290",
+        "abyssId": "8290",
+        "playXID": "2596a54cdbb555cfd09cd5d991da0f55",
+        "title": "Wistoria: Wand and Sword",
+        "season": 1,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "aSkf516iQ"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "NrtOr18hb"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "XDHJJ6fLw"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "6-vW9wxCA"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "qmgf5nKuwC"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/06fe591e65ee3c45f13401ffa50960a7/master.m3u8?md5=L7GU5JaiYoarQQuJj2NEzA&expires=1792167318",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/06fe591e65ee3c45f13401ffa50960a7/master.m3u8?md5=L7GU5JaiYoarQQuJj2NEzA&expires=1792167318",
+            "videoSource": "https://ravok.buzz/cdn/hls/06fe591e65ee3c45f13401ffa50960a7/master.m3u8?md5=L7GU5JaiYoarQQuJj2NEzA&expires=1792167318",
+            "videoImage": "https://as-cdn28.top/p/do464FarGaUwinmarLMUZ4AmsDOhwu1ihB19S8CTljz74EaEsmlZN0_mL3Zhl3DsgV6B6WtI5Qc9hweNW5CwhQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "2596a54cdbb555cfd09cd5d991da0f55",
+                "streamUrl": "https://ravok.buzz/cdn/hls/06fe591e65ee3c45f13401ffa50960a7/master.m3u8?md5=L7GU5JaiYoarQQuJj2NEzA&expires=1792167318",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/06fe591e65ee3c45f13401ffa50960a7/master.m3u8?md5=L7GU5JaiYoarQQuJj2NEzA&expires=1792167318",
+                "videoSource": "https://ravok.buzz/cdn/hls/06fe591e65ee3c45f13401ffa50960a7/master.m3u8?md5=L7GU5JaiYoarQQuJj2NEzA&expires=1792167318",
+                "link": "https://ravok.buzz/cdn/hls/06fe591e65ee3c45f13401ffa50960a7/master.m3u8?md5=L7GU5JaiYoarQQuJj2NEzA&expires=1792167318",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/do464FarGaUwinmarLMUZ4AmsDOhwu1ihB19S8CTljz74EaEsmlZN0_mL3Zhl3DsgV6B6WtI5Qc9hweNW5CwhQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "aSkf516iQ"
+        }
+      },
+      "fetched_at": "2026-10-16T14:15:28Z"
+    },
+    {
+      "id": "episode/wistoria-wand-and-sword-1x9",
+      "episode_id": "episode/wistoria-wand-and-sword-1x9",
+      "title": "Like a Lone Sword",
+      "episode_name": "Like a Lone Sword",
+      "episode_number": 9,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/13410/09.webp",
+      "abyssid": "8291",
+      "abyssId": "8291",
+      "playxid": "41e7637e7b6a9f27a98b84d3a185c7c0",
+      "playXID": "41e7637e7b6a9f27a98b84d3a185c7c0",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "8291",
+        "playXID": "41e7637e7b6a9f27a98b84d3a185c7c0",
+        "streamId": "8291",
+        "dubPlayerSrc": "/dub-player/t/8291/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=41e7637e7b6a9f27a98b84d3a185c7c0&abyssId=8291"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "8291",
+        "playXID": "41e7637e7b6a9f27a98b84d3a185c7c0",
+        "streamId": "8291",
+        "dubPlayerSrc": "/dub-player/t/8291/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=41e7637e7b6a9f27a98b84d3a185c7c0&abyssId=8291"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/41e7637e7b6a9f27a98b84d3a185c7c0",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/41e7637e7b6a9f27a98b84d3a185c7c0"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "8291",
+        "abyssId": "8291",
+        "playXID": "41e7637e7b6a9f27a98b84d3a185c7c0",
+        "title": "Wistoria: Wand and Sword",
+        "season": 1,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "RrIazEcW2"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "QlEAdG47v"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "w2ltMk9lO"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "xm-XP7m2Jv"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "ckWwzTa78"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/8b128468f78decf5c966eb6c1a0a2642/master.m3u8?md5=2h6Tqy7WJ8DFbm5Pjv5JEA&expires=1792167318",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/8b128468f78decf5c966eb6c1a0a2642/master.m3u8?md5=2h6Tqy7WJ8DFbm5Pjv5JEA&expires=1792167318",
+            "videoSource": "https://ravok.buzz/cdn/hls/8b128468f78decf5c966eb6c1a0a2642/master.m3u8?md5=2h6Tqy7WJ8DFbm5Pjv5JEA&expires=1792167318",
+            "videoImage": "https://as-cdn28.top/p/sXGhloO4tlIQmf8yIoju1jP5lgi6AgTb7AZSLDBXuz7nI95NtlqCY91N6dsg79N_WEyqlNvWf_6SCctYw3oIyQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "41e7637e7b6a9f27a98b84d3a185c7c0",
+                "streamUrl": "https://ravok.buzz/cdn/hls/8b128468f78decf5c966eb6c1a0a2642/master.m3u8?md5=2h6Tqy7WJ8DFbm5Pjv5JEA&expires=1792167318",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/8b128468f78decf5c966eb6c1a0a2642/master.m3u8?md5=2h6Tqy7WJ8DFbm5Pjv5JEA&expires=1792167318",
+                "videoSource": "https://ravok.buzz/cdn/hls/8b128468f78decf5c966eb6c1a0a2642/master.m3u8?md5=2h6Tqy7WJ8DFbm5Pjv5JEA&expires=1792167318",
+                "link": "https://ravok.buzz/cdn/hls/8b128468f78decf5c966eb6c1a0a2642/master.m3u8?md5=2h6Tqy7WJ8DFbm5Pjv5JEA&expires=1792167318",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/sXGhloO4tlIQmf8yIoju1jP5lgi6AgTb7AZSLDBXuz7nI95NtlqCY91N6dsg79N_WEyqlNvWf_6SCctYw3oIyQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "RrIazEcW2"
+        }
+      },
+      "fetched_at": "2026-10-16T14:15:28Z"
+    },
+    {
+      "id": "episode/wistoria-wand-and-sword-1x11",
+      "episode_id": "episode/wistoria-wand-and-sword-1x11",
+      "title": "Like a Lone Sword",
+      "episode_name": "Like a Lone Sword",
+      "episode_number": 11,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/13410/11.webp",
+      "abyssid": "10148",
+      "abyssId": "10148",
+      "playxid": "0731460a8a5ce1626210cbf4385ae0ef",
+      "playXID": "0731460a8a5ce1626210cbf4385ae0ef",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "10148",
+        "playXID": "0731460a8a5ce1626210cbf4385ae0ef",
+        "streamId": "10148",
+        "dubPlayerSrc": "/dub-player/t/10148/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=0731460a8a5ce1626210cbf4385ae0ef&abyssId=10148"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "10148",
+        "playXID": "0731460a8a5ce1626210cbf4385ae0ef",
+        "streamId": "10148",
+        "dubPlayerSrc": "/dub-player/t/10148/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=0731460a8a5ce1626210cbf4385ae0ef&abyssId=10148"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/0731460a8a5ce1626210cbf4385ae0ef",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/0731460a8a5ce1626210cbf4385ae0ef"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "10148",
+        "abyssId": "10148",
+        "playXID": "0731460a8a5ce1626210cbf4385ae0ef",
+        "title": "Wistoria: Wand and Sword",
+        "season": 1,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "8ECdP7fYi"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "KuGNUJ1Ko"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "zHcAM6z-O"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "0wBbMc_me"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "_TALg9U_9"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/fd28b6bbce411655682a3622ffb09857/master.m3u8?md5=C1yL0HZDgJRh8nhqG6RdzQ&expires=1792167320",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/fd28b6bbce411655682a3622ffb09857/master.m3u8?md5=C1yL0HZDgJRh8nhqG6RdzQ&expires=1792167320",
+            "videoSource": "https://ravok.buzz/cdn/hls/fd28b6bbce411655682a3622ffb09857/master.m3u8?md5=C1yL0HZDgJRh8nhqG6RdzQ&expires=1792167320",
+            "videoImage": "https://as-cdn27.top/p/ZbhPQE_HukXXlY3Ub6VajpIZPx06A0i2tKIi8N1--nL6lKBPUj6ywfdE-HXkIpQHOblIrgXjphFYzYquzyJL0A.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "0731460a8a5ce1626210cbf4385ae0ef",
+                "streamUrl": "https://ravok.buzz/cdn/hls/fd28b6bbce411655682a3622ffb09857/master.m3u8?md5=C1yL0HZDgJRh8nhqG6RdzQ&expires=1792167320",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/fd28b6bbce411655682a3622ffb09857/master.m3u8?md5=C1yL0HZDgJRh8nhqG6RdzQ&expires=1792167320",
+                "videoSource": "https://ravok.buzz/cdn/hls/fd28b6bbce411655682a3622ffb09857/master.m3u8?md5=C1yL0HZDgJRh8nhqG6RdzQ&expires=1792167320",
+                "link": "https://ravok.buzz/cdn/hls/fd28b6bbce411655682a3622ffb09857/master.m3u8?md5=C1yL0HZDgJRh8nhqG6RdzQ&expires=1792167320",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/ZbhPQE_HukXXlY3Ub6VajpIZPx06A0i2tKIi8N1--nL6lKBPUj6ywfdE-HXkIpQHOblIrgXjphFYzYquzyJL0A.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "8ECdP7fYi"
+        }
+      },
+      "fetched_at": "2026-10-16T14:15:30Z"
+    },
+    {
+      "id": "episode/wistoria-wand-and-sword-2x2",
+      "episode_id": "episode/wistoria-wand-and-sword-2x2",
+      "title": "Wistoria: Wand and Sword 2x1",
+      "episode_name": "Wistoria: Wand and Sword 2x1",
+      "episode_number": 2,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_344_s2e2.webp",
+      "abyssid": "18267",
+      "abyssId": "18267",
+      "playxid": "654425b5a1258aad138981579e10dc3f",
+      "playXID": "654425b5a1258aad138981579e10dc3f",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18267",
+        "playXID": "654425b5a1258aad138981579e10dc3f",
+        "streamId": "18267",
+        "dubPlayerSrc": "/dub-player/t/18267/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=654425b5a1258aad138981579e10dc3f&abyssId=18267"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18267",
+        "playXID": "654425b5a1258aad138981579e10dc3f",
+        "streamId": "18267",
+        "dubPlayerSrc": "/dub-player/t/18267/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=654425b5a1258aad138981579e10dc3f&abyssId=18267"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/ae224a2b6d1b233a204dad19a6aa017d",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/ae224a2b6d1b233a204dad19a6aa017d"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18267",
+        "abyssId": "18267",
+        "playXID": "654425b5a1258aad138981579e10dc3f",
+        "title": "Wistoria: Wand and Sword",
+        "season": 2,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "VDzzSBbH5"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "VmL2VMylp"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "QEjIVB_qsL"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "3VC2gps2T"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "dmlxcNJPn"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/8d32d42a5a69d6d75b1824f06005b472/master.m3u8?md5=Yfs6RHUzKyhxjsxGF08iQA&expires=1792167320",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/8d32d42a5a69d6d75b1824f06005b472/master.m3u8?md5=Yfs6RHUzKyhxjsxGF08iQA&expires=1792167320",
+            "videoSource": "https://ravok.buzz/cdn/hls/8d32d42a5a69d6d75b1824f06005b472/master.m3u8?md5=Yfs6RHUzKyhxjsxGF08iQA&expires=1792167320",
+            "videoImage": "https://as-cdn27.top/p/CsntZ9R6vU-lPq_30TpHoQIdYPzQm-PUlRKBQQAHPov0EIOe0x65-1fgBoSG5L8X_2yGa4pFjGfH7YISkhpLTg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "654425b5a1258aad138981579e10dc3f",
+                "streamUrl": "https://ravok.buzz/cdn/hls/8d32d42a5a69d6d75b1824f06005b472/master.m3u8?md5=Yfs6RHUzKyhxjsxGF08iQA&expires=1792167320",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/8d32d42a5a69d6d75b1824f06005b472/master.m3u8?md5=Yfs6RHUzKyhxjsxGF08iQA&expires=1792167320",
+                "videoSource": "https://ravok.buzz/cdn/hls/8d32d42a5a69d6d75b1824f06005b472/master.m3u8?md5=Yfs6RHUzKyhxjsxGF08iQA&expires=1792167320",
+                "link": "https://ravok.buzz/cdn/hls/8d32d42a5a69d6d75b1824f06005b472/master.m3u8?md5=Yfs6RHUzKyhxjsxGF08iQA&expires=1792167320",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/CsntZ9R6vU-lPq_30TpHoQIdYPzQm-PUlRKBQQAHPov0EIOe0x65-1fgBoSG5L8X_2yGa4pFjGfH7YISkhpLTg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "VDzzSBbH5"
+        }
+      },
+      "fetched_at": "2026-10-16T14:15:30Z"
+    },
+    {
+      "id": "episode/wistoria-wand-and-sword-1x12",
+      "episode_id": "episode/wistoria-wand-and-sword-1x12",
+      "title": "Like a Lone Sword",
+      "episode_name": "Like a Lone Sword",
+      "episode_number": 12,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/images/13410/12.webp",
+      "abyssid": "10155",
+      "abyssId": "10155",
+      "playxid": "90599c8fdd2f6e7a03ad173e2f535751",
+      "playXID": "90599c8fdd2f6e7a03ad173e2f535751",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "10155",
+        "playXID": "90599c8fdd2f6e7a03ad173e2f535751",
+        "streamId": "10155",
+        "dubPlayerSrc": "/dub-player/t/10155/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=90599c8fdd2f6e7a03ad173e2f535751&abyssId=10155"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "10155",
+        "playXID": "90599c8fdd2f6e7a03ad173e2f535751",
+        "streamId": "10155",
+        "dubPlayerSrc": "/dub-player/t/10155/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=90599c8fdd2f6e7a03ad173e2f535751&abyssId=10155"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/90599c8fdd2f6e7a03ad173e2f535751",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/90599c8fdd2f6e7a03ad173e2f535751"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "10155",
+        "abyssId": "10155",
+        "playXID": "90599c8fdd2f6e7a03ad173e2f535751",
+        "title": "Wistoria: Wand and Sword",
+        "season": 1,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "Ecsz4MKky"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "to3GrTT85"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "rJDlp7Rrd"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "2J8p7TeL-"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "89hkxsTXT"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/3d4100db60dd0c8738dc61c5f1660c0f/master.m3u8?md5=P_pLBGN--kB-2ocT46uN8w&expires=1792167320",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/3d4100db60dd0c8738dc61c5f1660c0f/master.m3u8?md5=P_pLBGN--kB-2ocT46uN8w&expires=1792167320",
+            "videoSource": "https://ravok.buzz/cdn/hls/3d4100db60dd0c8738dc61c5f1660c0f/master.m3u8?md5=P_pLBGN--kB-2ocT46uN8w&expires=1792167320",
+            "videoImage": "https://as-cdn27.top/p/-Ljy-TxTwcugiP3HPEM3-TWnuWX-QcvyyeUJ9eB49tStkV4O5F9Lm3io9LS9RkHofCVRPEH2N3UuhWS6ChNL-A.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "90599c8fdd2f6e7a03ad173e2f535751",
+                "streamUrl": "https://ravok.buzz/cdn/hls/3d4100db60dd0c8738dc61c5f1660c0f/master.m3u8?md5=P_pLBGN--kB-2ocT46uN8w&expires=1792167320",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/3d4100db60dd0c8738dc61c5f1660c0f/master.m3u8?md5=P_pLBGN--kB-2ocT46uN8w&expires=1792167320",
+                "videoSource": "https://ravok.buzz/cdn/hls/3d4100db60dd0c8738dc61c5f1660c0f/master.m3u8?md5=P_pLBGN--kB-2ocT46uN8w&expires=1792167320",
+                "link": "https://ravok.buzz/cdn/hls/3d4100db60dd0c8738dc61c5f1660c0f/master.m3u8?md5=P_pLBGN--kB-2ocT46uN8w&expires=1792167320",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/-Ljy-TxTwcugiP3HPEM3-TWnuWX-QcvyyeUJ9eB49tStkV4O5F9Lm3io9LS9RkHofCVRPEH2N3UuhWS6ChNL-A.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "Ecsz4MKky"
+        }
+      },
+      "fetched_at": "2026-10-16T14:15:30Z"
+    },
+    {
+      "id": "episode/wistoria-wand-and-sword-2x1",
+      "episode_id": "episode/wistoria-wand-and-sword-2x1",
+      "title": "Wistoria: Wand and Sword 2x1",
+      "episode_name": "Wistoria: Wand and Sword 2x1",
+      "episode_number": 1,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_344_s2e1.webp",
+      "abyssid": "18266",
+      "abyssId": "18266",
+      "playxid": "2a280dacaf20368422ae235bd3bb4a9c",
+      "playXID": "2a280dacaf20368422ae235bd3bb4a9c",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18266",
+        "playXID": "2a280dacaf20368422ae235bd3bb4a9c",
+        "streamId": "18266",
+        "dubPlayerSrc": "/dub-player/t/18266/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2a280dacaf20368422ae235bd3bb4a9c&abyssId=18266"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18266",
+        "playXID": "2a280dacaf20368422ae235bd3bb4a9c",
+        "streamId": "18266",
+        "dubPlayerSrc": "/dub-player/t/18266/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2a280dacaf20368422ae235bd3bb4a9c&abyssId=18266"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/d53c7d8544b4f47cdcf3ebd51fbb44ee",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/d53c7d8544b4f47cdcf3ebd51fbb44ee"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18266",
+        "abyssId": "18266",
+        "playXID": "2a280dacaf20368422ae235bd3bb4a9c",
+        "title": "Wistoria: Wand and Sword",
+        "season": 2,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "ybt8ltUNS"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "G4yeiuU5f"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "zEucHlvJYR"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "-WzHOlC1_"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "FH_Y4aHjj"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/f41d678a654756f7c9cea74f4d0ec1f9/master.m3u8?md5=MdE8cGlBOypsEs15I6zs2A&expires=1792167320",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/f41d678a654756f7c9cea74f4d0ec1f9/master.m3u8?md5=MdE8cGlBOypsEs15I6zs2A&expires=1792167320",
+            "videoSource": "https://ravok.buzz/cdn/hls/f41d678a654756f7c9cea74f4d0ec1f9/master.m3u8?md5=MdE8cGlBOypsEs15I6zs2A&expires=1792167320",
+            "videoImage": "https://as-cdn29.top/p/Gw-D8SooY2dEOtr6dLCu6gQwKd0fqAxB7nSVeEr2i52ncus9u32fG80rHGd5RA8PndaDlUFGxj-78Lvoh--xaw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "2a280dacaf20368422ae235bd3bb4a9c",
+                "streamUrl": "https://ravok.buzz/cdn/hls/f41d678a654756f7c9cea74f4d0ec1f9/master.m3u8?md5=MdE8cGlBOypsEs15I6zs2A&expires=1792167320",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/f41d678a654756f7c9cea74f4d0ec1f9/master.m3u8?md5=MdE8cGlBOypsEs15I6zs2A&expires=1792167320",
+                "videoSource": "https://ravok.buzz/cdn/hls/f41d678a654756f7c9cea74f4d0ec1f9/master.m3u8?md5=MdE8cGlBOypsEs15I6zs2A&expires=1792167320",
+                "link": "https://ravok.buzz/cdn/hls/f41d678a654756f7c9cea74f4d0ec1f9/master.m3u8?md5=MdE8cGlBOypsEs15I6zs2A&expires=1792167320",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/Gw-D8SooY2dEOtr6dLCu6gQwKd0fqAxB7nSVeEr2i52ncus9u32fG80rHGd5RA8PndaDlUFGxj-78Lvoh--xaw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "ybt8ltUNS"
+        }
+      },
+      "fetched_at": "2026-10-16T14:15:30Z"
+    },
+    {
+      "id": "episode/wistoria-wand-and-sword-2x3",
+      "episode_id": "episode/wistoria-wand-and-sword-2x3",
+      "title": "Wistoria: Wand and Sword 2x1",
+      "episode_name": "Wistoria: Wand and Sword 2x1",
+      "episode_number": 3,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_344_s2e3.webp",
+      "abyssid": "18292",
+      "abyssId": "18292",
+      "playxid": "c70a586e24e85c37424a19296bad06f7",
+      "playXID": "c70a586e24e85c37424a19296bad06f7",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18292",
+        "playXID": "c70a586e24e85c37424a19296bad06f7",
+        "streamId": "18292",
+        "dubPlayerSrc": "/dub-player/t/18292/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c70a586e24e85c37424a19296bad06f7&abyssId=18292"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18292",
+        "playXID": "c70a586e24e85c37424a19296bad06f7",
+        "streamId": "18292",
+        "dubPlayerSrc": "/dub-player/t/18292/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c70a586e24e85c37424a19296bad06f7&abyssId=18292"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/d3771dbda05117c970b350da0021662c",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/d3771dbda05117c970b350da0021662c"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18292",
+        "abyssId": "18292",
+        "playXID": "c70a586e24e85c37424a19296bad06f7",
+        "title": "Wistoria: Wand and Sword",
+        "season": 2,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "ezpggLatF"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "_-QITdux1Z"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "dqivXEVRX"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "bgAH_YC-U"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "hNaH1lxba"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/6eabba7df4623ed474b0755b90e8c67b/master.m3u8?md5=mEQu7pOHBNmnEXlQ7-6AzQ&expires=1792167320",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/6eabba7df4623ed474b0755b90e8c67b/master.m3u8?md5=mEQu7pOHBNmnEXlQ7-6AzQ&expires=1792167320",
+            "videoSource": "https://ravok.buzz/cdn/hls/6eabba7df4623ed474b0755b90e8c67b/master.m3u8?md5=mEQu7pOHBNmnEXlQ7-6AzQ&expires=1792167320",
+            "videoImage": "https://as-cdn27.top/p/vYB9FtjNZMvnNQ2uffHVnMzOyU6N_GXIi9SBzVxjyboDLII0vIRHANfjxgWTunOZ2PI0CY6GnhZFtSd_XoZ-Lw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "c70a586e24e85c37424a19296bad06f7",
+                "streamUrl": "https://ravok.buzz/cdn/hls/6eabba7df4623ed474b0755b90e8c67b/master.m3u8?md5=mEQu7pOHBNmnEXlQ7-6AzQ&expires=1792167320",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/6eabba7df4623ed474b0755b90e8c67b/master.m3u8?md5=mEQu7pOHBNmnEXlQ7-6AzQ&expires=1792167320",
+                "videoSource": "https://ravok.buzz/cdn/hls/6eabba7df4623ed474b0755b90e8c67b/master.m3u8?md5=mEQu7pOHBNmnEXlQ7-6AzQ&expires=1792167320",
+                "link": "https://ravok.buzz/cdn/hls/6eabba7df4623ed474b0755b90e8c67b/master.m3u8?md5=mEQu7pOHBNmnEXlQ7-6AzQ&expires=1792167320",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/vYB9FtjNZMvnNQ2uffHVnMzOyU6N_GXIi9SBzVxjyboDLII0vIRHANfjxgWTunOZ2PI0CY6GnhZFtSd_XoZ-Lw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "ezpggLatF"
+        }
+      },
+      "fetched_at": "2026-10-16T14:15:30Z"
+    },
+    {
+      "id": "episode/wistoria-wand-and-sword-2x4",
+      "episode_id": "episode/wistoria-wand-and-sword-2x4",
+      "title": "Wistoria: Wand and Sword 2x1",
+      "episode_name": "Wistoria: Wand and Sword 2x1",
+      "episode_number": 4,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_344_s2e4.webp",
+      "abyssid": "18303",
+      "abyssId": "18303",
+      "playxid": "2a95da8aab3b748d2f96e4503653181e",
+      "playXID": "2a95da8aab3b748d2f96e4503653181e",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18303",
+        "playXID": "2a95da8aab3b748d2f96e4503653181e",
+        "streamId": "18303",
+        "dubPlayerSrc": "/dub-player/t/18303/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2a95da8aab3b748d2f96e4503653181e&abyssId=18303"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18303",
+        "playXID": "2a95da8aab3b748d2f96e4503653181e",
+        "streamId": "18303",
+        "dubPlayerSrc": "/dub-player/t/18303/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2a95da8aab3b748d2f96e4503653181e&abyssId=18303"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/3ca7176898afc20f480adfa00ab194bd",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/3ca7176898afc20f480adfa00ab194bd"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18303",
+        "abyssId": "18303",
+        "playXID": "2a95da8aab3b748d2f96e4503653181e",
+        "title": "Wistoria: Wand and Sword",
+        "season": 2,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "wFN-rYILB"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "RYO0pf_-4"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "uAOzol7oL"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "25GrKwQdQ"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "VHH5ZDIUH"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/f96e19c1f08045733509757491fe1c58/master.m3u8?md5=3jAiMZbPwiBja0LnQK70Xg&expires=1792167322",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/f96e19c1f08045733509757491fe1c58/master.m3u8?md5=3jAiMZbPwiBja0LnQK70Xg&expires=1792167322",
+            "videoSource": "https://ravok.buzz/cdn/hls/f96e19c1f08045733509757491fe1c58/master.m3u8?md5=3jAiMZbPwiBja0LnQK70Xg&expires=1792167322",
+            "videoImage": "https://as-cdn29.top/p/Gsw_HMxk08ZPq1nLhRGYy6jF0tr4ewn2gThI2xA03RfgK5YdQ5T_S_QaqjJ-eAbqz3UNcB2yPvFcxE3nNowaNw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "2a95da8aab3b748d2f96e4503653181e",
+                "streamUrl": "https://ravok.buzz/cdn/hls/f96e19c1f08045733509757491fe1c58/master.m3u8?md5=3jAiMZbPwiBja0LnQK70Xg&expires=1792167322",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/f96e19c1f08045733509757491fe1c58/master.m3u8?md5=3jAiMZbPwiBja0LnQK70Xg&expires=1792167322",
+                "videoSource": "https://ravok.buzz/cdn/hls/f96e19c1f08045733509757491fe1c58/master.m3u8?md5=3jAiMZbPwiBja0LnQK70Xg&expires=1792167322",
+                "link": "https://ravok.buzz/cdn/hls/f96e19c1f08045733509757491fe1c58/master.m3u8?md5=3jAiMZbPwiBja0LnQK70Xg&expires=1792167322",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/Gsw_HMxk08ZPq1nLhRGYy6jF0tr4ewn2gThI2xA03RfgK5YdQ5T_S_QaqjJ-eAbqz3UNcB2yPvFcxE3nNowaNw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "wFN-rYILB"
+        }
+      },
+      "fetched_at": "2026-10-16T14:15:32Z"
+    },
+    {
+      "id": "episode/wistoria-wand-and-sword-2x5",
+      "episode_id": "episode/wistoria-wand-and-sword-2x5",
+      "title": "Wistoria: Wand and Sword 2x1",
+      "episode_name": "Wistoria: Wand and Sword 2x1",
+      "episode_number": 5,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_344_s2e5.webp",
+      "abyssid": "18320",
+      "abyssId": "18320",
+      "playxid": "c8a52336a75c71009c0809142766eb24",
+      "playXID": "c8a52336a75c71009c0809142766eb24",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18320",
+        "playXID": "c8a52336a75c71009c0809142766eb24",
+        "streamId": "18320",
+        "dubPlayerSrc": "/dub-player/t/18320/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c8a52336a75c71009c0809142766eb24&abyssId=18320"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18320",
+        "playXID": "c8a52336a75c71009c0809142766eb24",
+        "streamId": "18320",
+        "dubPlayerSrc": "/dub-player/t/18320/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=c8a52336a75c71009c0809142766eb24&abyssId=18320"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/ef80af910fa07870e25b1a4c86d10402",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/ef80af910fa07870e25b1a4c86d10402"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18320",
+        "abyssId": "18320",
+        "playXID": "c8a52336a75c71009c0809142766eb24",
+        "title": "Wistoria: Wand and Sword",
+        "season": 2,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "98A6K35VH"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "819F9gz_El"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "CWnSFKl3o"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "HCkeP9u6s"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "A9Fu0-qSN"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/1f73296b6af7afc5efa5446c01b68513/master.m3u8?md5=Ew7aN_R1gvrxz5GArpxFRQ&expires=1792167322",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/1f73296b6af7afc5efa5446c01b68513/master.m3u8?md5=Ew7aN_R1gvrxz5GArpxFRQ&expires=1792167322",
+            "videoSource": "https://ravok.buzz/cdn/hls/1f73296b6af7afc5efa5446c01b68513/master.m3u8?md5=Ew7aN_R1gvrxz5GArpxFRQ&expires=1792167322",
+            "videoImage": "https://as-cdn28.top/p/Salt-q5Z-e5jrDPn_-v55yHlcTxV44RNipn5kMekozGPsaxciKSkDreEbjpzwblcaFOuMd1ZNf2UK1M-JmZnUQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "c8a52336a75c71009c0809142766eb24",
+                "streamUrl": "https://ravok.buzz/cdn/hls/1f73296b6af7afc5efa5446c01b68513/master.m3u8?md5=Ew7aN_R1gvrxz5GArpxFRQ&expires=1792167322",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/1f73296b6af7afc5efa5446c01b68513/master.m3u8?md5=Ew7aN_R1gvrxz5GArpxFRQ&expires=1792167322",
+                "videoSource": "https://ravok.buzz/cdn/hls/1f73296b6af7afc5efa5446c01b68513/master.m3u8?md5=Ew7aN_R1gvrxz5GArpxFRQ&expires=1792167322",
+                "link": "https://ravok.buzz/cdn/hls/1f73296b6af7afc5efa5446c01b68513/master.m3u8?md5=Ew7aN_R1gvrxz5GArpxFRQ&expires=1792167322",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/Salt-q5Z-e5jrDPn_-v55yHlcTxV44RNipn5kMekozGPsaxciKSkDreEbjpzwblcaFOuMd1ZNf2UK1M-JmZnUQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "98A6K35VH"
+        }
+      },
+      "fetched_at": "2026-10-16T14:15:32Z"
+    },
+    {
+      "id": "episode/wistoria-wand-and-sword-2x6",
+      "episode_id": "episode/wistoria-wand-and-sword-2x6",
+      "title": "Wistoria: Wand and Sword 2x1",
+      "episode_name": "Wistoria: Wand and Sword 2x1",
+      "episode_number": 6,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_344_s2e6.webp",
+      "abyssid": "18411",
+      "abyssId": "18411",
+      "playxid": "e04f727550ad26170337577bb955a20b",
+      "playXID": "e04f727550ad26170337577bb955a20b",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18411",
+        "playXID": "e04f727550ad26170337577bb955a20b",
+        "streamId": "18411",
+        "dubPlayerSrc": "/dub-player/t/18411/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e04f727550ad26170337577bb955a20b&abyssId=18411"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18411",
+        "playXID": "e04f727550ad26170337577bb955a20b",
+        "streamId": "18411",
+        "dubPlayerSrc": "/dub-player/t/18411/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=e04f727550ad26170337577bb955a20b&abyssId=18411"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/88275708422d0942423446f76b49e8fb",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/88275708422d0942423446f76b49e8fb"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18411",
+        "abyssId": "18411",
+        "playXID": "e04f727550ad26170337577bb955a20b",
+        "title": "Wistoria: Wand and Sword",
+        "season": 2,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "ybdOEX-cY"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "vvHAWHpdX_"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "5qKZe5qg1"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "oHb2AYOC3"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "y94y0UsdA"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/ccd6917997968b03ae70b4937b98ab76/master.m3u8?md5=RYb2ibHiO9F1TuYcygZJcQ&expires=1792167322",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/ccd6917997968b03ae70b4937b98ab76/master.m3u8?md5=RYb2ibHiO9F1TuYcygZJcQ&expires=1792167322",
+            "videoSource": "https://ravok.buzz/cdn/hls/ccd6917997968b03ae70b4937b98ab76/master.m3u8?md5=RYb2ibHiO9F1TuYcygZJcQ&expires=1792167322",
+            "videoImage": "https://as-cdn27.top/p/Zr-CAIgcjpLwDoZrHQ1Aeyc5f4YbdrLAhiXn3gVWe5-BFuXJEQdakM8wR_SZO0fz8KaWQa2HYQmhtvNzwdxHBg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "e04f727550ad26170337577bb955a20b",
+                "streamUrl": "https://ravok.buzz/cdn/hls/ccd6917997968b03ae70b4937b98ab76/master.m3u8?md5=RYb2ibHiO9F1TuYcygZJcQ&expires=1792167322",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/ccd6917997968b03ae70b4937b98ab76/master.m3u8?md5=RYb2ibHiO9F1TuYcygZJcQ&expires=1792167322",
+                "videoSource": "https://ravok.buzz/cdn/hls/ccd6917997968b03ae70b4937b98ab76/master.m3u8?md5=RYb2ibHiO9F1TuYcygZJcQ&expires=1792167322",
+                "link": "https://ravok.buzz/cdn/hls/ccd6917997968b03ae70b4937b98ab76/master.m3u8?md5=RYb2ibHiO9F1TuYcygZJcQ&expires=1792167322",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/Zr-CAIgcjpLwDoZrHQ1Aeyc5f4YbdrLAhiXn3gVWe5-BFuXJEQdakM8wR_SZO0fz8KaWQa2HYQmhtvNzwdxHBg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "ybdOEX-cY"
+        }
+      },
+      "fetched_at": "2026-10-16T14:15:32Z"
+    },
+    {
+      "id": "episode/wistoria-wand-and-sword-2x7",
+      "episode_id": "episode/wistoria-wand-and-sword-2x7",
+      "title": "Wistoria: Wand and Sword 2x1",
+      "episode_name": "Wistoria: Wand and Sword 2x1",
+      "episode_number": 7,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_344_s2e7.webp",
+      "abyssid": "18393",
+      "abyssId": "18393",
+      "playxid": "4a1fee2e159e5ba76e1a8b3f54634d19",
+      "playXID": "4a1fee2e159e5ba76e1a8b3f54634d19",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18393",
+        "playXID": "4a1fee2e159e5ba76e1a8b3f54634d19",
+        "streamId": "18393",
+        "dubPlayerSrc": "/dub-player/t/18393/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=4a1fee2e159e5ba76e1a8b3f54634d19&abyssId=18393"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18393",
+        "playXID": "4a1fee2e159e5ba76e1a8b3f54634d19",
+        "streamId": "18393",
+        "dubPlayerSrc": "/dub-player/t/18393/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=4a1fee2e159e5ba76e1a8b3f54634d19&abyssId=18393"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/6f737abf3f6bb5f84a1ad1dc0be05ab8",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/6f737abf3f6bb5f84a1ad1dc0be05ab8"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18393",
+        "abyssId": "18393",
+        "playXID": "4a1fee2e159e5ba76e1a8b3f54634d19",
+        "title": "Wistoria: Wand and Sword",
+        "season": 2,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "FZqn-Ge6u"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "h1jDW8xLQ"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "lcJQQKRKZ"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "wZPTV09ZF"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "HGwsNpekN"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/2a421295fd9d00e3b97e798fc31d37e2/master.m3u8?md5=VBOk34MVwolKS-SBeFiYPA&expires=1792167322",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/2a421295fd9d00e3b97e798fc31d37e2/master.m3u8?md5=VBOk34MVwolKS-SBeFiYPA&expires=1792167322",
+            "videoSource": "https://ravok.buzz/cdn/hls/2a421295fd9d00e3b97e798fc31d37e2/master.m3u8?md5=VBOk34MVwolKS-SBeFiYPA&expires=1792167322",
+            "videoImage": "https://as-cdn27.top/p/UH-5Uk9lz50NrXrOeviHVrjbrAyGg-ymsVM33HylRtq3x4NEg6sDofNvytpabi9c6dsEJS4tLJi34HjfGmYZrg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "4a1fee2e159e5ba76e1a8b3f54634d19",
+                "streamUrl": "https://ravok.buzz/cdn/hls/2a421295fd9d00e3b97e798fc31d37e2/master.m3u8?md5=VBOk34MVwolKS-SBeFiYPA&expires=1792167322",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/2a421295fd9d00e3b97e798fc31d37e2/master.m3u8?md5=VBOk34MVwolKS-SBeFiYPA&expires=1792167322",
+                "videoSource": "https://ravok.buzz/cdn/hls/2a421295fd9d00e3b97e798fc31d37e2/master.m3u8?md5=VBOk34MVwolKS-SBeFiYPA&expires=1792167322",
+                "link": "https://ravok.buzz/cdn/hls/2a421295fd9d00e3b97e798fc31d37e2/master.m3u8?md5=VBOk34MVwolKS-SBeFiYPA&expires=1792167322",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/UH-5Uk9lz50NrXrOeviHVrjbrAyGg-ymsVM33HylRtq3x4NEg6sDofNvytpabi9c6dsEJS4tLJi34HjfGmYZrg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "FZqn-Ge6u"
+        }
+      },
+      "fetched_at": "2026-10-16T14:15:32Z"
+    },
+    {
+      "id": "episode/wistoria-wand-and-sword-2x8",
+      "episode_id": "episode/wistoria-wand-and-sword-2x8",
+      "title": "Wistoria: Wand and Sword 2x1",
+      "episode_name": "Wistoria: Wand and Sword 2x1",
+      "episode_number": 8,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_344_s2e8.webp",
+      "abyssid": "18409",
+      "abyssId": "18409",
+      "playxid": "b8e69aa0fed278e996b3cfd79ae2aa4c",
+      "playXID": "b8e69aa0fed278e996b3cfd79ae2aa4c",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18409",
+        "playXID": "b8e69aa0fed278e996b3cfd79ae2aa4c",
+        "streamId": "18409",
+        "dubPlayerSrc": "/dub-player/t/18409/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b8e69aa0fed278e996b3cfd79ae2aa4c&abyssId=18409"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18409",
+        "playXID": "b8e69aa0fed278e996b3cfd79ae2aa4c",
+        "streamId": "18409",
+        "dubPlayerSrc": "/dub-player/t/18409/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b8e69aa0fed278e996b3cfd79ae2aa4c&abyssId=18409"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/eeb74a8ddfbb606f20020fd92e80aa0f",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/eeb74a8ddfbb606f20020fd92e80aa0f"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18409",
+        "abyssId": "18409",
+        "playXID": "b8e69aa0fed278e996b3cfd79ae2aa4c",
+        "title": "Wistoria: Wand and Sword",
+        "season": 2,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "yzmtxyp87"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "MqWZJSoDI"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "9ZXniv4gL"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "YMfCRbPPF"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "yzmtxyp87"
+        }
+      },
+      "fetched_at": "2026-10-16T14:15:32Z"
+    },
+    {
+      "id": "episode/wistoria-wand-and-sword-2x9",
+      "episode_id": "episode/wistoria-wand-and-sword-2x9",
+      "title": "Wistoria: Wand and Sword 2x1",
+      "episode_name": "Wistoria: Wand and Sword 2x1",
+      "episode_number": 9,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_344_s2e9.webp",
+      "abyssid": "18434",
+      "abyssId": "18434",
+      "playxid": "75f8f7a9ced8da0635e455405200f2e8",
+      "playXID": "75f8f7a9ced8da0635e455405200f2e8",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18434",
+        "playXID": "75f8f7a9ced8da0635e455405200f2e8",
+        "streamId": "18434",
+        "dubPlayerSrc": "/dub-player/t/18434/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=75f8f7a9ced8da0635e455405200f2e8&abyssId=18434"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18434",
+        "playXID": "75f8f7a9ced8da0635e455405200f2e8",
+        "streamId": "18434",
+        "dubPlayerSrc": "/dub-player/t/18434/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=75f8f7a9ced8da0635e455405200f2e8&abyssId=18434"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/e51c1eef0ce4c35af9069dabda7086ac",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/e51c1eef0ce4c35af9069dabda7086ac"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18434",
+        "abyssId": "18434",
+        "playXID": "75f8f7a9ced8da0635e455405200f2e8",
+        "title": "Wistoria: Wand and Sword",
+        "season": 2,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "nW2GbkQrf"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "XPCYwheq4"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "Qg4erSDA1"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "8Phd7Tukz"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "9N6NymIoH"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/9428a179634783be084d5053b4a81b69/master.m3u8?md5=ZZDhpWaJzIiADsEIVxNkiw&expires=1792167324",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/9428a179634783be084d5053b4a81b69/master.m3u8?md5=ZZDhpWaJzIiADsEIVxNkiw&expires=1792167324",
+            "videoSource": "https://ravok.buzz/cdn/hls/9428a179634783be084d5053b4a81b69/master.m3u8?md5=ZZDhpWaJzIiADsEIVxNkiw&expires=1792167324",
+            "videoImage": "https://as-cdn27.top/p/kMQa_4eOptWs2sUAd4naBwlfcNJTyPwAIX7Mn_LtxP8XHbsJomu6jSL0EX69hCvoZebSQDz2YcewdYw_n9usVg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "75f8f7a9ced8da0635e455405200f2e8",
+                "streamUrl": "https://ravok.buzz/cdn/hls/9428a179634783be084d5053b4a81b69/master.m3u8?md5=ZZDhpWaJzIiADsEIVxNkiw&expires=1792167324",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/9428a179634783be084d5053b4a81b69/master.m3u8?md5=ZZDhpWaJzIiADsEIVxNkiw&expires=1792167324",
+                "videoSource": "https://ravok.buzz/cdn/hls/9428a179634783be084d5053b4a81b69/master.m3u8?md5=ZZDhpWaJzIiADsEIVxNkiw&expires=1792167324",
+                "link": "https://ravok.buzz/cdn/hls/9428a179634783be084d5053b4a81b69/master.m3u8?md5=ZZDhpWaJzIiADsEIVxNkiw&expires=1792167324",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/kMQa_4eOptWs2sUAd4naBwlfcNJTyPwAIX7Mn_LtxP8XHbsJomu6jSL0EX69hCvoZebSQDz2YcewdYw_n9usVg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "nW2GbkQrf"
+        }
+      },
+      "fetched_at": "2026-10-16T14:15:34Z"
+    },
+    {
+      "id": "episode/wistoria-wand-and-sword-2x10",
+      "episode_id": "episode/wistoria-wand-and-sword-2x10",
+      "title": "Wistoria: Wand and Sword 2x1",
+      "episode_name": "Wistoria: Wand and Sword 2x1",
+      "episode_number": 10,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_344_s2e10.webp",
+      "abyssid": "18459",
+      "abyssId": "18459",
+      "playxid": "561abb177528d5bf95d40838809a7cf6",
+      "playXID": "561abb177528d5bf95d40838809a7cf6",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "18459",
+        "playXID": "561abb177528d5bf95d40838809a7cf6",
+        "streamId": "18459",
+        "dubPlayerSrc": "/dub-player/t/18459/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=561abb177528d5bf95d40838809a7cf6&abyssId=18459"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "18459",
+        "playXID": "561abb177528d5bf95d40838809a7cf6",
+        "streamId": "18459",
+        "dubPlayerSrc": "/dub-player/t/18459/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=561abb177528d5bf95d40838809a7cf6&abyssId=18459"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/eecd2755d73701aa057cd2a32bd7b1e2",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/eecd2755d73701aa057cd2a32bd7b1e2"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "18459",
+        "abyssId": "18459",
+        "playXID": "561abb177528d5bf95d40838809a7cf6",
+        "title": "Wistoria: Wand and Sword",
+        "season": 2,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "htCTrJm2B"
+              },
+              {
+                "language": "Tamil",
+                "code": "tam",
+                "short": "TA",
+                "video_id": "GcOGiHHZA"
+              },
+              {
+                "language": "Telugu",
+                "code": "tel",
+                "short": "TE",
+                "video_id": "Nl0UxPXdE"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "QTFlz22sq"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "OScdr6erTY"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/3c4aca6cb4133e6a21f0e85a173d6094/master.m3u8?md5=jkmlIBKcvQNaIQCzsJLT3g&expires=1792167324",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/3c4aca6cb4133e6a21f0e85a173d6094/master.m3u8?md5=jkmlIBKcvQNaIQCzsJLT3g&expires=1792167324",
+            "videoSource": "https://ravok.buzz/cdn/hls/3c4aca6cb4133e6a21f0e85a173d6094/master.m3u8?md5=jkmlIBKcvQNaIQCzsJLT3g&expires=1792167324",
+            "videoImage": "https://as-cdn28.top/p/cTw6R0XpjJz0ePVq1orYKml92B6ptyhaQjwYOT9BnW7C9hQA75J27IBSwmG1VqRfPAb6QaJSooTMPQ3kNA-iEg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "561abb177528d5bf95d40838809a7cf6",
+                "streamUrl": "https://ravok.buzz/cdn/hls/3c4aca6cb4133e6a21f0e85a173d6094/master.m3u8?md5=jkmlIBKcvQNaIQCzsJLT3g&expires=1792167324",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/3c4aca6cb4133e6a21f0e85a173d6094/master.m3u8?md5=jkmlIBKcvQNaIQCzsJLT3g&expires=1792167324",
+                "videoSource": "https://ravok.buzz/cdn/hls/3c4aca6cb4133e6a21f0e85a173d6094/master.m3u8?md5=jkmlIBKcvQNaIQCzsJLT3g&expires=1792167324",
+                "link": "https://ravok.buzz/cdn/hls/3c4aca6cb4133e6a21f0e85a173d6094/master.m3u8?md5=jkmlIBKcvQNaIQCzsJLT3g&expires=1792167324",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/cTw6R0XpjJz0ePVq1orYKml92B6ptyhaQjwYOT9BnW7C9hQA75J27IBSwmG1VqRfPAb6QaJSooTMPQ3kNA-iEg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "htCTrJm2B"
+        }
+      },
+      "fetched_at": "2026-10-16T14:15:34Z"
+    },
+    {
+      "id": "episode/wistoria-wand-and-sword-2x11",
+      "episode_id": "episode/wistoria-wand-and-sword-2x11",
+      "title": "Wistoria: Wand and Sword 2x1",
+      "episode_name": "Wistoria: Wand and Sword 2x1",
+      "episode_number": 11,
+      "season": 2,
+      "image": "https://img.watchanimeworld.one/img/thumb_344_s2e11.webp",
+      "abyssid": null,
+      "abyssId": null,
+      "playxid": "a11bda17f8522e39a9bcf3cad3794341",
+      "playXID": "a11bda17f8522e39a9bcf3cad3794341",
+      "stream_info": {
+        "hasDubPlayer": false,
+        "abyssId": null,
+        "playXID": "a11bda17f8522e39a9bcf3cad3794341",
+        "streamId": null,
+        "dubPlayerSrc": null,
+        "message": "No episode sources found",
+        "serversEndpoint": "/stream/servers/?playXID=a11bda17f8522e39a9bcf3cad3794341"
+      },
+      "streamInfo": {
+        "hasDubPlayer": false,
+        "abyssId": null,
+        "playXID": "a11bda17f8522e39a9bcf3cad3794341",
+        "streamId": null,
+        "dubPlayerSrc": null,
+        "message": "No episode sources found",
+        "serversEndpoint": "/stream/servers/?playXID=a11bda17f8522e39a9bcf3cad3794341"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/aeb0053e412d68446bd0a64e46c02cfd",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/aeb0053e412d68446bd0a64e46c02cfd"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "a11bda17f8522e39a9bcf3cad3794341",
+        "abyssId": null,
+        "playXID": "a11bda17f8522e39a9bcf3cad3794341",
+        "title": "Episode Stream",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/4913d73364ea197944c01e67cfc8b6fe/master.m3u8?md5=hoUkCFzegQ5VW5Q6DAK-cQ&expires=1792167325",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/4913d73364ea197944c01e67cfc8b6fe/master.m3u8?md5=hoUkCFzegQ5VW5Q6DAK-cQ&expires=1792167325",
+            "videoSource": "https://ravok.buzz/cdn/hls/4913d73364ea197944c01e67cfc8b6fe/master.m3u8?md5=hoUkCFzegQ5VW5Q6DAK-cQ&expires=1792167325",
+            "videoImage": "https://as-cdn31.top/p/aOOBO4xWEA_GH8DZOSTcWWdNUuVnLUilUsaGJn1jMFDH53x9-RDFzpI8vQu2tlor0V4Z0k7S9RQNPon5UXDmAQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "a11bda17f8522e39a9bcf3cad3794341",
+                "streamUrl": "https://ravok.buzz/cdn/hls/4913d73364ea197944c01e67cfc8b6fe/master.m3u8?md5=hoUkCFzegQ5VW5Q6DAK-cQ&expires=1792167325",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/4913d73364ea197944c01e67cfc8b6fe/master.m3u8?md5=hoUkCFzegQ5VW5Q6DAK-cQ&expires=1792167325",
+                "videoSource": "https://ravok.buzz/cdn/hls/4913d73364ea197944c01e67cfc8b6fe/master.m3u8?md5=hoUkCFzegQ5VW5Q6DAK-cQ&expires=1792167325",
+                "link": "https://ravok.buzz/cdn/hls/4913d73364ea197944c01e67cfc8b6fe/master.m3u8?md5=hoUkCFzegQ5VW5Q6DAK-cQ&expires=1792167325",
+                "hls": true,
+                "videoImage": "https://as-cdn31.top/p/aOOBO4xWEA_GH8DZOSTcWWdNUuVnLUilUsaGJn1jMFDH53x9-RDFzpI8vQu2tlor0V4Z0k7S9RQNPon5UXDmAQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "playx",
+          "language": "multi",
+          "video_id": "a11bda17f8522e39a9bcf3cad3794341",
+          "streamUrl": "https://ravok.buzz/cdn/hls/4913d73364ea197944c01e67cfc8b6fe/master.m3u8?md5=hoUkCFzegQ5VW5Q6DAK-cQ&expires=1792167325"
+        }
+      },
+      "fetched_at": "2026-10-16T14:15:35Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T14:15:23Z",
+  "updated_at": "2026-10-16T14:15:35Z"
+}

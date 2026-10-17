@@ -1,0 +1,1351 @@
+{
+  "id": "series/tokyo-24th-ward",
+  "series_name": "Tokyo 24th Ward",
+  "title": "Tokyo 24th Ward",
+  "banner": "https://image.tmdb.org/t/p/w1280/zehW179C3TdFBdIE0bOhQ5TZnVn.jpg",
+  "image": "https://image.tmdb.org/t/p/w185/3NYB8HfKALKQ4cHGx8Rx4Dhd0YE.jpg",
+  "genra": [
+    "Mystery",
+    "Sci-Fi",
+    "Super Power"
+  ],
+  "genres": [
+    "Mystery",
+    "Sci-Fi",
+    "Super Power"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Japanese"
+  ],
+  "synopsis": "The Far Eastern Special Administrative Region, also known as the 24th Ward, is a man-made island. Shuta, Ran, and Koki were born and raised on the island. Their family backgrounds, preferences, and personalities are completely different, but they always stuck together. However, one incident changed their relationship forever. A year afterward, the three friends are reunited by chance at a memorial service held for the incident. All three of their phones suddenly ring simultaneously. Their friend, who is supposed to be dead, is calling and demands that they make a decision about the future.",
+  "rating": "",
+  "status": "",
+  "releaseYear": "",
+  "type": "TV Series",
+  "totalSeasons": 1,
+  "totalEpisodes": 12,
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "episodesCount": 12,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Private: Tokyo 24th Ward 1x1",
+          "id": "episode/private-tokyo-24th-ward-1x1",
+          "image": "https://img.watchanimeworld.one/image/1199/1/1.webp",
+          "season": 1
+        },
+        {
+          "episode": 2,
+          "title": "Private: Tokyo 24th Ward 1x2",
+          "id": "episode/private-tokyo-24th-ward-1x2",
+          "image": "https://img.watchanimeworld.one/image/1199/1/2.webp",
+          "season": 1
+        },
+        {
+          "episode": 3,
+          "title": "Private: Tokyo 24th Ward 1x3",
+          "id": "episode/private-tokyo-24th-ward-1x3",
+          "image": "https://img.watchanimeworld.one/image/1199/1/3.webp",
+          "season": 1
+        },
+        {
+          "episode": 4,
+          "title": "Private: Tokyo 24th Ward 1x4",
+          "id": "episode/private-tokyo-24th-ward-1x4",
+          "image": "https://img.watchanimeworld.one/image/1199/1/4.webp",
+          "season": 1
+        },
+        {
+          "episode": 5,
+          "title": "Private: Tokyo 24th Ward 1x5",
+          "id": "episode/private-tokyo-24th-ward-1x5",
+          "image": "https://img.watchanimeworld.one/image/1199/1/5.webp",
+          "season": 1
+        },
+        {
+          "episode": 6,
+          "title": "Private: Tokyo 24th Ward 1x6",
+          "id": "episode/private-tokyo-24th-ward-1x6",
+          "image": "https://img.watchanimeworld.one/image/1199/1/6.webp",
+          "season": 1
+        },
+        {
+          "episode": 7,
+          "title": "Private: Tokyo 24th Ward 1x7",
+          "id": "episode/private-tokyo-24th-ward-1x7",
+          "image": "https://img.watchanimeworld.one/image/1199/1/7.webp",
+          "season": 1
+        },
+        {
+          "episode": 8,
+          "title": "Private: Tokyo 24th Ward 1x8",
+          "id": "episode/private-tokyo-24th-ward-1x8",
+          "image": "https://img.watchanimeworld.one/image/1199/1/8.webp",
+          "season": 1
+        },
+        {
+          "episode": 9,
+          "title": "Private: Tokyo 24th Ward 1x9",
+          "id": "episode/private-tokyo-24th-ward-1x9",
+          "image": "https://img.watchanimeworld.one/image/1199/1/9.webp",
+          "season": 1
+        },
+        {
+          "episode": 10,
+          "title": "Private: Tokyo 24th Ward 1x10",
+          "id": "episode/private-tokyo-24th-ward-1x10",
+          "image": "https://img.watchanimeworld.one/image/1199/1/10.webp",
+          "season": 1
+        },
+        {
+          "episode": 11,
+          "title": "Private: Tokyo 24th Ward 1x11",
+          "id": "episode/private-tokyo-24th-ward-1x11",
+          "image": "https://img.watchanimeworld.one/image/1199/1/11.webp",
+          "season": 1
+        },
+        {
+          "episode": 12,
+          "title": "Private: Tokyo 24th Ward 1x12",
+          "id": "episode/private-tokyo-24th-ward-1x12",
+          "image": "https://img.watchanimeworld.one/image/1199/1/12.webp",
+          "season": 1
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode/private-tokyo-24th-ward-1x4",
+      "episode_id": "episode/private-tokyo-24th-ward-1x4",
+      "title": "Private: Tokyo 24th Ward 1x1",
+      "episode_name": "Private: Tokyo 24th Ward 1x1",
+      "episode_number": 4,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1199/1/4.webp",
+      "abyssid": "12025",
+      "abyssId": "12025",
+      "playxid": "8a7cf65139a9fbb34f03b046d8dc597c",
+      "playXID": "8a7cf65139a9fbb34f03b046d8dc597c",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12025",
+        "playXID": "8a7cf65139a9fbb34f03b046d8dc597c",
+        "streamId": "12025",
+        "dubPlayerSrc": "/dub-player/t/12025/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8a7cf65139a9fbb34f03b046d8dc597c&abyssId=12025"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12025",
+        "playXID": "8a7cf65139a9fbb34f03b046d8dc597c",
+        "streamId": "12025",
+        "dubPlayerSrc": "/dub-player/t/12025/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=8a7cf65139a9fbb34f03b046d8dc597c&abyssId=12025"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/8a7cf65139a9fbb34f03b046d8dc597c",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/8a7cf65139a9fbb34f03b046d8dc597c"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12025",
+        "abyssId": "12025",
+        "playXID": "8a7cf65139a9fbb34f03b046d8dc597c",
+        "title": "Tokyo 24th Ward",
+        "season": 1,
+        "episode": 4,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "rJv3QgHVf"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "AyPK7OfoG"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "_Y6krIqAP"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/ac86efe47456da128385ccecb1f875b1/master.m3u8?md5=MyO-3y3uRN7Afm86yM_q1g&expires=1792167015",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/ac86efe47456da128385ccecb1f875b1/master.m3u8?md5=MyO-3y3uRN7Afm86yM_q1g&expires=1792167015",
+            "videoSource": "https://ravok.buzz/cdn/hls/ac86efe47456da128385ccecb1f875b1/master.m3u8?md5=MyO-3y3uRN7Afm86yM_q1g&expires=1792167015",
+            "videoImage": "https://as-cdn29.top/p/oxQ9Ycp_f1YwgAVyNwMySP3-H0QLrOnG9sPosHSf7vlSAzIKcH8GITc_GNtjO5dGrdyRBA5FDWH-DIUOSxrysQ.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "8a7cf65139a9fbb34f03b046d8dc597c",
+                "streamUrl": "https://ravok.buzz/cdn/hls/ac86efe47456da128385ccecb1f875b1/master.m3u8?md5=MyO-3y3uRN7Afm86yM_q1g&expires=1792167015",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/ac86efe47456da128385ccecb1f875b1/master.m3u8?md5=MyO-3y3uRN7Afm86yM_q1g&expires=1792167015",
+                "videoSource": "https://ravok.buzz/cdn/hls/ac86efe47456da128385ccecb1f875b1/master.m3u8?md5=MyO-3y3uRN7Afm86yM_q1g&expires=1792167015",
+                "link": "https://ravok.buzz/cdn/hls/ac86efe47456da128385ccecb1f875b1/master.m3u8?md5=MyO-3y3uRN7Afm86yM_q1g&expires=1792167015",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/oxQ9Ycp_f1YwgAVyNwMySP3-H0QLrOnG9sPosHSf7vlSAzIKcH8GITc_GNtjO5dGrdyRBA5FDWH-DIUOSxrysQ.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "rJv3QgHVf"
+        }
+      },
+      "fetched_at": "2026-10-16T14:10:25Z"
+    },
+    {
+      "id": "episode/private-tokyo-24th-ward-1x2",
+      "episode_id": "episode/private-tokyo-24th-ward-1x2",
+      "title": "Private: Tokyo 24th Ward 1x1",
+      "episode_name": "Private: Tokyo 24th Ward 1x1",
+      "episode_number": 2,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1199/1/2.webp",
+      "abyssid": "12023",
+      "abyssId": "12023",
+      "playxid": "5a0c828364dbf6dd406139dab7b25398",
+      "playXID": "5a0c828364dbf6dd406139dab7b25398",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12023",
+        "playXID": "5a0c828364dbf6dd406139dab7b25398",
+        "streamId": "12023",
+        "dubPlayerSrc": "/dub-player/t/12023/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=5a0c828364dbf6dd406139dab7b25398&abyssId=12023"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12023",
+        "playXID": "5a0c828364dbf6dd406139dab7b25398",
+        "streamId": "12023",
+        "dubPlayerSrc": "/dub-player/t/12023/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=5a0c828364dbf6dd406139dab7b25398&abyssId=12023"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/5a0c828364dbf6dd406139dab7b25398",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/5a0c828364dbf6dd406139dab7b25398"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12023",
+        "abyssId": "12023",
+        "playXID": "5a0c828364dbf6dd406139dab7b25398",
+        "title": "Tokyo 24th Ward",
+        "season": 1,
+        "episode": 2,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "WvAMoVa8W"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "qZJIoulXQ"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "ucqmuFkZx"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/37fb995f6dc069a40c40425baf70659c/master.m3u8?md5=DjkXG5XyL2lh1xoOg97LWw&expires=1792167015",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/37fb995f6dc069a40c40425baf70659c/master.m3u8?md5=DjkXG5XyL2lh1xoOg97LWw&expires=1792167015",
+            "videoSource": "https://ravok.buzz/cdn/hls/37fb995f6dc069a40c40425baf70659c/master.m3u8?md5=DjkXG5XyL2lh1xoOg97LWw&expires=1792167015",
+            "videoImage": "https://as-cdn28.top/p/Fc0LfXKowKo2a0JF98qMU9DFfA_Kt33kXTpHEazc9runxPjEKe7Thazo09SdZTrQfhne-iVQHDlu9dwLgZOL1g.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "5a0c828364dbf6dd406139dab7b25398",
+                "streamUrl": "https://ravok.buzz/cdn/hls/37fb995f6dc069a40c40425baf70659c/master.m3u8?md5=DjkXG5XyL2lh1xoOg97LWw&expires=1792167015",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/37fb995f6dc069a40c40425baf70659c/master.m3u8?md5=DjkXG5XyL2lh1xoOg97LWw&expires=1792167015",
+                "videoSource": "https://ravok.buzz/cdn/hls/37fb995f6dc069a40c40425baf70659c/master.m3u8?md5=DjkXG5XyL2lh1xoOg97LWw&expires=1792167015",
+                "link": "https://ravok.buzz/cdn/hls/37fb995f6dc069a40c40425baf70659c/master.m3u8?md5=DjkXG5XyL2lh1xoOg97LWw&expires=1792167015",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/Fc0LfXKowKo2a0JF98qMU9DFfA_Kt33kXTpHEazc9runxPjEKe7Thazo09SdZTrQfhne-iVQHDlu9dwLgZOL1g.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "WvAMoVa8W"
+        }
+      },
+      "fetched_at": "2026-10-16T14:10:25Z"
+    },
+    {
+      "id": "episode/private-tokyo-24th-ward-1x1",
+      "episode_id": "episode/private-tokyo-24th-ward-1x1",
+      "title": "Private: Tokyo 24th Ward 1x1",
+      "episode_name": "Private: Tokyo 24th Ward 1x1",
+      "episode_number": 1,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1199/1/1.webp",
+      "abyssid": "12022",
+      "abyssId": "12022",
+      "playxid": "b8b6674d4052e35e4553ac6788eb30b5",
+      "playXID": "b8b6674d4052e35e4553ac6788eb30b5",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12022",
+        "playXID": "b8b6674d4052e35e4553ac6788eb30b5",
+        "streamId": "12022",
+        "dubPlayerSrc": "/dub-player/t/12022/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b8b6674d4052e35e4553ac6788eb30b5&abyssId=12022"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12022",
+        "playXID": "b8b6674d4052e35e4553ac6788eb30b5",
+        "streamId": "12022",
+        "dubPlayerSrc": "/dub-player/t/12022/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=b8b6674d4052e35e4553ac6788eb30b5&abyssId=12022"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/b8b6674d4052e35e4553ac6788eb30b5",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/b8b6674d4052e35e4553ac6788eb30b5"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12022",
+        "abyssId": "12022",
+        "playXID": "b8b6674d4052e35e4553ac6788eb30b5",
+        "title": "Tokyo 24th Ward",
+        "season": 1,
+        "episode": 1,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "PrioCftKh"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "dcplq9hOp"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "b0xXWfRhD6"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/a92cecb2e02c4bcab58e30f50fe55c26/master.m3u8?md5=3Rre_mWxI365wmLblZMSRg&expires=1792167015",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/a92cecb2e02c4bcab58e30f50fe55c26/master.m3u8?md5=3Rre_mWxI365wmLblZMSRg&expires=1792167015",
+            "videoSource": "https://ravok.buzz/cdn/hls/a92cecb2e02c4bcab58e30f50fe55c26/master.m3u8?md5=3Rre_mWxI365wmLblZMSRg&expires=1792167015",
+            "videoImage": "https://as-cdn28.top/p/lfImMUNwwvlL_qT7Ro1IZiU9PHcPAuzoh3_W94sE06o6HjQP59YsbJojOuw-Hfz_LwvRFr2G5Ep0LIRZ1WmUJw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "b8b6674d4052e35e4553ac6788eb30b5",
+                "streamUrl": "https://ravok.buzz/cdn/hls/a92cecb2e02c4bcab58e30f50fe55c26/master.m3u8?md5=3Rre_mWxI365wmLblZMSRg&expires=1792167015",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/a92cecb2e02c4bcab58e30f50fe55c26/master.m3u8?md5=3Rre_mWxI365wmLblZMSRg&expires=1792167015",
+                "videoSource": "https://ravok.buzz/cdn/hls/a92cecb2e02c4bcab58e30f50fe55c26/master.m3u8?md5=3Rre_mWxI365wmLblZMSRg&expires=1792167015",
+                "link": "https://ravok.buzz/cdn/hls/a92cecb2e02c4bcab58e30f50fe55c26/master.m3u8?md5=3Rre_mWxI365wmLblZMSRg&expires=1792167015",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/lfImMUNwwvlL_qT7Ro1IZiU9PHcPAuzoh3_W94sE06o6HjQP59YsbJojOuw-Hfz_LwvRFr2G5Ep0LIRZ1WmUJw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "PrioCftKh"
+        }
+      },
+      "fetched_at": "2026-10-16T14:10:25Z"
+    },
+    {
+      "id": "episode/private-tokyo-24th-ward-1x5",
+      "episode_id": "episode/private-tokyo-24th-ward-1x5",
+      "title": "Private: Tokyo 24th Ward 1x1",
+      "episode_name": "Private: Tokyo 24th Ward 1x1",
+      "episode_number": 5,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1199/1/5.webp",
+      "abyssid": "12026",
+      "abyssId": "12026",
+      "playxid": "ad9d4d2bc5365e856dcb6d78fb0c7cb5",
+      "playXID": "ad9d4d2bc5365e856dcb6d78fb0c7cb5",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12026",
+        "playXID": "ad9d4d2bc5365e856dcb6d78fb0c7cb5",
+        "streamId": "12026",
+        "dubPlayerSrc": "/dub-player/t/12026/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ad9d4d2bc5365e856dcb6d78fb0c7cb5&abyssId=12026"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12026",
+        "playXID": "ad9d4d2bc5365e856dcb6d78fb0c7cb5",
+        "streamId": "12026",
+        "dubPlayerSrc": "/dub-player/t/12026/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=ad9d4d2bc5365e856dcb6d78fb0c7cb5&abyssId=12026"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/ad9d4d2bc5365e856dcb6d78fb0c7cb5",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/ad9d4d2bc5365e856dcb6d78fb0c7cb5"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12026",
+        "abyssId": "12026",
+        "playXID": "ad9d4d2bc5365e856dcb6d78fb0c7cb5",
+        "title": "Tokyo 24th Ward",
+        "season": 1,
+        "episode": 5,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "78TBEys82"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "edAzG4aU0"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "h_qlGAF2V"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/ead2daabc6a195c59e51ec66a438ddbe/master.m3u8?md5=8AC8hqQLwoLaP80gBd0nEg&expires=1792167015",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/ead2daabc6a195c59e51ec66a438ddbe/master.m3u8?md5=8AC8hqQLwoLaP80gBd0nEg&expires=1792167015",
+            "videoSource": "https://ravok.buzz/cdn/hls/ead2daabc6a195c59e51ec66a438ddbe/master.m3u8?md5=8AC8hqQLwoLaP80gBd0nEg&expires=1792167015",
+            "videoImage": "https://as-cdn29.top/p/5HZwPp7kpcoPi7AWWBZNBK5IONk6mZr2cQ9bog66s2Shd3Il_tqohwHErmZd3hlSAK8_VStDmjIpI8O4KVKBpg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "ad9d4d2bc5365e856dcb6d78fb0c7cb5",
+                "streamUrl": "https://ravok.buzz/cdn/hls/ead2daabc6a195c59e51ec66a438ddbe/master.m3u8?md5=8AC8hqQLwoLaP80gBd0nEg&expires=1792167015",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/ead2daabc6a195c59e51ec66a438ddbe/master.m3u8?md5=8AC8hqQLwoLaP80gBd0nEg&expires=1792167015",
+                "videoSource": "https://ravok.buzz/cdn/hls/ead2daabc6a195c59e51ec66a438ddbe/master.m3u8?md5=8AC8hqQLwoLaP80gBd0nEg&expires=1792167015",
+                "link": "https://ravok.buzz/cdn/hls/ead2daabc6a195c59e51ec66a438ddbe/master.m3u8?md5=8AC8hqQLwoLaP80gBd0nEg&expires=1792167015",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/5HZwPp7kpcoPi7AWWBZNBK5IONk6mZr2cQ9bog66s2Shd3Il_tqohwHErmZd3hlSAK8_VStDmjIpI8O4KVKBpg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "78TBEys82"
+        }
+      },
+      "fetched_at": "2026-10-16T14:10:25Z"
+    },
+    {
+      "id": "episode/private-tokyo-24th-ward-1x3",
+      "episode_id": "episode/private-tokyo-24th-ward-1x3",
+      "title": "Private: Tokyo 24th Ward 1x1",
+      "episode_name": "Private: Tokyo 24th Ward 1x1",
+      "episode_number": 3,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1199/1/3.webp",
+      "abyssid": "12024",
+      "abyssId": "12024",
+      "playxid": "479f499df3bbc0deda265b92316d362f",
+      "playXID": "479f499df3bbc0deda265b92316d362f",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12024",
+        "playXID": "479f499df3bbc0deda265b92316d362f",
+        "streamId": "12024",
+        "dubPlayerSrc": "/dub-player/t/12024/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=479f499df3bbc0deda265b92316d362f&abyssId=12024"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12024",
+        "playXID": "479f499df3bbc0deda265b92316d362f",
+        "streamId": "12024",
+        "dubPlayerSrc": "/dub-player/t/12024/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=479f499df3bbc0deda265b92316d362f&abyssId=12024"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/479f499df3bbc0deda265b92316d362f",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/479f499df3bbc0deda265b92316d362f"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12024",
+        "abyssId": "12024",
+        "playXID": "479f499df3bbc0deda265b92316d362f",
+        "title": "Tokyo 24th Ward",
+        "season": 1,
+        "episode": 3,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "b6BVPIbko"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "-IQgreBIm"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "F9meTr9sI"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/7dab790ad8002fa9ff0a4ebfc3a0f13a/master.m3u8?md5=1fh8kFGtAmNHyNsjZ5zS3g&expires=1792167016",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/7dab790ad8002fa9ff0a4ebfc3a0f13a/master.m3u8?md5=1fh8kFGtAmNHyNsjZ5zS3g&expires=1792167016",
+            "videoSource": "https://ravok.buzz/cdn/hls/7dab790ad8002fa9ff0a4ebfc3a0f13a/master.m3u8?md5=1fh8kFGtAmNHyNsjZ5zS3g&expires=1792167016",
+            "videoImage": "https://as-cdn28.top/p/f3q6xbff259z8yFfH3Drm2KqZ5-4pDdQxXeTyHEweai1f8e7X_KQ25EthEVxBXz3mqXuSc05uQ7V_RxY-wt2Jw.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "479f499df3bbc0deda265b92316d362f",
+                "streamUrl": "https://ravok.buzz/cdn/hls/7dab790ad8002fa9ff0a4ebfc3a0f13a/master.m3u8?md5=1fh8kFGtAmNHyNsjZ5zS3g&expires=1792167016",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/7dab790ad8002fa9ff0a4ebfc3a0f13a/master.m3u8?md5=1fh8kFGtAmNHyNsjZ5zS3g&expires=1792167016",
+                "videoSource": "https://ravok.buzz/cdn/hls/7dab790ad8002fa9ff0a4ebfc3a0f13a/master.m3u8?md5=1fh8kFGtAmNHyNsjZ5zS3g&expires=1792167016",
+                "link": "https://ravok.buzz/cdn/hls/7dab790ad8002fa9ff0a4ebfc3a0f13a/master.m3u8?md5=1fh8kFGtAmNHyNsjZ5zS3g&expires=1792167016",
+                "hls": true,
+                "videoImage": "https://as-cdn28.top/p/f3q6xbff259z8yFfH3Drm2KqZ5-4pDdQxXeTyHEweai1f8e7X_KQ25EthEVxBXz3mqXuSc05uQ7V_RxY-wt2Jw.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "b6BVPIbko"
+        }
+      },
+      "fetched_at": "2026-10-16T14:10:25Z"
+    },
+    {
+      "id": "episode/private-tokyo-24th-ward-1x6",
+      "episode_id": "episode/private-tokyo-24th-ward-1x6",
+      "title": "Private: Tokyo 24th Ward 1x1",
+      "episode_name": "Private: Tokyo 24th Ward 1x1",
+      "episode_number": 6,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1199/1/6.webp",
+      "abyssid": "12027",
+      "abyssId": "12027",
+      "playxid": "6869efe03b7fbef3b001dc15804bc826",
+      "playXID": "6869efe03b7fbef3b001dc15804bc826",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12027",
+        "playXID": "6869efe03b7fbef3b001dc15804bc826",
+        "streamId": "12027",
+        "dubPlayerSrc": "/dub-player/t/12027/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6869efe03b7fbef3b001dc15804bc826&abyssId=12027"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12027",
+        "playXID": "6869efe03b7fbef3b001dc15804bc826",
+        "streamId": "12027",
+        "dubPlayerSrc": "/dub-player/t/12027/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6869efe03b7fbef3b001dc15804bc826&abyssId=12027"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/6869efe03b7fbef3b001dc15804bc826",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/6869efe03b7fbef3b001dc15804bc826"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12027",
+        "abyssId": "12027",
+        "playXID": "6869efe03b7fbef3b001dc15804bc826",
+        "title": "Tokyo 24th Ward",
+        "season": 1,
+        "episode": 6,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "RXw6hIs6S"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "8F48V-IGJ"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "E1bo3YBOQ"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/8c1fc07a0c7c6cd6aea5e8152d0ffdfe/master.m3u8?md5=GfHONihk1Gx9NY4jrgi9sQ&expires=1792167017",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/8c1fc07a0c7c6cd6aea5e8152d0ffdfe/master.m3u8?md5=GfHONihk1Gx9NY4jrgi9sQ&expires=1792167017",
+            "videoSource": "https://ravok.buzz/cdn/hls/8c1fc07a0c7c6cd6aea5e8152d0ffdfe/master.m3u8?md5=GfHONihk1Gx9NY4jrgi9sQ&expires=1792167017",
+            "videoImage": "https://as-cdn27.top/p/7ZnvRgzqy4kZVlfoj4Qc4U8fcDWaQr0htyxPllJDlakQhHFLtDUYeoofINNb-Ajn1OhkAwdWDZgn1LOcMp3kpg.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "6869efe03b7fbef3b001dc15804bc826",
+                "streamUrl": "https://ravok.buzz/cdn/hls/8c1fc07a0c7c6cd6aea5e8152d0ffdfe/master.m3u8?md5=GfHONihk1Gx9NY4jrgi9sQ&expires=1792167017",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/8c1fc07a0c7c6cd6aea5e8152d0ffdfe/master.m3u8?md5=GfHONihk1Gx9NY4jrgi9sQ&expires=1792167017",
+                "videoSource": "https://ravok.buzz/cdn/hls/8c1fc07a0c7c6cd6aea5e8152d0ffdfe/master.m3u8?md5=GfHONihk1Gx9NY4jrgi9sQ&expires=1792167017",
+                "link": "https://ravok.buzz/cdn/hls/8c1fc07a0c7c6cd6aea5e8152d0ffdfe/master.m3u8?md5=GfHONihk1Gx9NY4jrgi9sQ&expires=1792167017",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/7ZnvRgzqy4kZVlfoj4Qc4U8fcDWaQr0htyxPllJDlakQhHFLtDUYeoofINNb-Ajn1OhkAwdWDZgn1LOcMp3kpg.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "RXw6hIs6S"
+        }
+      },
+      "fetched_at": "2026-10-16T14:10:27Z"
+    },
+    {
+      "id": "episode/private-tokyo-24th-ward-1x7",
+      "episode_id": "episode/private-tokyo-24th-ward-1x7",
+      "title": "Private: Tokyo 24th Ward 1x1",
+      "episode_name": "Private: Tokyo 24th Ward 1x1",
+      "episode_number": 7,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1199/1/7.webp",
+      "abyssid": "12028",
+      "abyssId": "12028",
+      "playxid": "df27d2e23bf500eb010b2bc1a59b56d1",
+      "playXID": "df27d2e23bf500eb010b2bc1a59b56d1",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12028",
+        "playXID": "df27d2e23bf500eb010b2bc1a59b56d1",
+        "streamId": "12028",
+        "dubPlayerSrc": "/dub-player/t/12028/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=df27d2e23bf500eb010b2bc1a59b56d1&abyssId=12028"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12028",
+        "playXID": "df27d2e23bf500eb010b2bc1a59b56d1",
+        "streamId": "12028",
+        "dubPlayerSrc": "/dub-player/t/12028/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=df27d2e23bf500eb010b2bc1a59b56d1&abyssId=12028"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/df27d2e23bf500eb010b2bc1a59b56d1",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/df27d2e23bf500eb010b2bc1a59b56d1"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12028",
+        "abyssId": "12028",
+        "playXID": "df27d2e23bf500eb010b2bc1a59b56d1",
+        "title": "Tokyo 24th Ward",
+        "season": 1,
+        "episode": 7,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "iExupEXYs"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "si0ArkRNK"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "EYvFc1HPe"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/dcdbb4e9e273dc9ebe86864bac859b00/master.m3u8?md5=Lbssl2wHdT0-RN3X4RQz2A&expires=1792167017",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/dcdbb4e9e273dc9ebe86864bac859b00/master.m3u8?md5=Lbssl2wHdT0-RN3X4RQz2A&expires=1792167017",
+            "videoSource": "https://ravok.buzz/cdn/hls/dcdbb4e9e273dc9ebe86864bac859b00/master.m3u8?md5=Lbssl2wHdT0-RN3X4RQz2A&expires=1792167017",
+            "videoImage": "https://as-cdn29.top/p/nCr17EjBxqTcfWk1zjqifl8ZFtIX6usp17H3BsQLClHZVLYcABeXs2YjrNc52qLfYk6vEHWmuysHOUp1w3Wv5Q.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "df27d2e23bf500eb010b2bc1a59b56d1",
+                "streamUrl": "https://ravok.buzz/cdn/hls/dcdbb4e9e273dc9ebe86864bac859b00/master.m3u8?md5=Lbssl2wHdT0-RN3X4RQz2A&expires=1792167017",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/dcdbb4e9e273dc9ebe86864bac859b00/master.m3u8?md5=Lbssl2wHdT0-RN3X4RQz2A&expires=1792167017",
+                "videoSource": "https://ravok.buzz/cdn/hls/dcdbb4e9e273dc9ebe86864bac859b00/master.m3u8?md5=Lbssl2wHdT0-RN3X4RQz2A&expires=1792167017",
+                "link": "https://ravok.buzz/cdn/hls/dcdbb4e9e273dc9ebe86864bac859b00/master.m3u8?md5=Lbssl2wHdT0-RN3X4RQz2A&expires=1792167017",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/nCr17EjBxqTcfWk1zjqifl8ZFtIX6usp17H3BsQLClHZVLYcABeXs2YjrNc52qLfYk6vEHWmuysHOUp1w3Wv5Q.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "iExupEXYs"
+        }
+      },
+      "fetched_at": "2026-10-16T14:10:27Z"
+    },
+    {
+      "id": "episode/private-tokyo-24th-ward-1x9",
+      "episode_id": "episode/private-tokyo-24th-ward-1x9",
+      "title": "Private: Tokyo 24th Ward 1x1",
+      "episode_name": "Private: Tokyo 24th Ward 1x1",
+      "episode_number": 9,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1199/1/9.webp",
+      "abyssid": "12030",
+      "abyssId": "12030",
+      "playxid": "2175f8c5cd9604f6b1e576b252d4c86e",
+      "playXID": "2175f8c5cd9604f6b1e576b252d4c86e",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12030",
+        "playXID": "2175f8c5cd9604f6b1e576b252d4c86e",
+        "streamId": "12030",
+        "dubPlayerSrc": "/dub-player/t/12030/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2175f8c5cd9604f6b1e576b252d4c86e&abyssId=12030"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12030",
+        "playXID": "2175f8c5cd9604f6b1e576b252d4c86e",
+        "streamId": "12030",
+        "dubPlayerSrc": "/dub-player/t/12030/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=2175f8c5cd9604f6b1e576b252d4c86e&abyssId=12030"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/2175f8c5cd9604f6b1e576b252d4c86e",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/2175f8c5cd9604f6b1e576b252d4c86e"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12030",
+        "abyssId": "12030",
+        "playXID": "2175f8c5cd9604f6b1e576b252d4c86e",
+        "title": "Tokyo 24th Ward",
+        "season": 1,
+        "episode": 9,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "juGXnSsY0"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "Z1_qxAl2M"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "X8VzuGmQJ"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/ceafd93952e2ec70eed7b27402f95cd6/master.m3u8?md5=l9WmkXAS2rnRGj1MbO50AA&expires=1792167017",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/ceafd93952e2ec70eed7b27402f95cd6/master.m3u8?md5=l9WmkXAS2rnRGj1MbO50AA&expires=1792167017",
+            "videoSource": "https://ravok.buzz/cdn/hls/ceafd93952e2ec70eed7b27402f95cd6/master.m3u8?md5=l9WmkXAS2rnRGj1MbO50AA&expires=1792167017",
+            "videoImage": "https://as-cdn29.top/p/6exxZZEzEAWrErRqjNw6i5HrWMB7WcoIhEVs0rhXL8csXf8CxGICl9g-XqSbdP7ahQRJ4JPFGIjMgYFF2IBkNA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "2175f8c5cd9604f6b1e576b252d4c86e",
+                "streamUrl": "https://ravok.buzz/cdn/hls/ceafd93952e2ec70eed7b27402f95cd6/master.m3u8?md5=l9WmkXAS2rnRGj1MbO50AA&expires=1792167017",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/ceafd93952e2ec70eed7b27402f95cd6/master.m3u8?md5=l9WmkXAS2rnRGj1MbO50AA&expires=1792167017",
+                "videoSource": "https://ravok.buzz/cdn/hls/ceafd93952e2ec70eed7b27402f95cd6/master.m3u8?md5=l9WmkXAS2rnRGj1MbO50AA&expires=1792167017",
+                "link": "https://ravok.buzz/cdn/hls/ceafd93952e2ec70eed7b27402f95cd6/master.m3u8?md5=l9WmkXAS2rnRGj1MbO50AA&expires=1792167017",
+                "hls": true,
+                "videoImage": "https://as-cdn29.top/p/6exxZZEzEAWrErRqjNw6i5HrWMB7WcoIhEVs0rhXL8csXf8CxGICl9g-XqSbdP7ahQRJ4JPFGIjMgYFF2IBkNA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "juGXnSsY0"
+        }
+      },
+      "fetched_at": "2026-10-16T14:10:27Z"
+    },
+    {
+      "id": "episode/private-tokyo-24th-ward-1x8",
+      "episode_id": "episode/private-tokyo-24th-ward-1x8",
+      "title": "Private: Tokyo 24th Ward 1x1",
+      "episode_name": "Private: Tokyo 24th Ward 1x1",
+      "episode_number": 8,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1199/1/8.webp",
+      "abyssid": "12029",
+      "abyssId": "12029",
+      "playxid": "9f4e3847f075d1e7e21141658ade4837",
+      "playXID": "9f4e3847f075d1e7e21141658ade4837",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12029",
+        "playXID": "9f4e3847f075d1e7e21141658ade4837",
+        "streamId": "12029",
+        "dubPlayerSrc": "/dub-player/t/12029/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9f4e3847f075d1e7e21141658ade4837&abyssId=12029"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12029",
+        "playXID": "9f4e3847f075d1e7e21141658ade4837",
+        "streamId": "12029",
+        "dubPlayerSrc": "/dub-player/t/12029/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=9f4e3847f075d1e7e21141658ade4837&abyssId=12029"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/9f4e3847f075d1e7e21141658ade4837",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/9f4e3847f075d1e7e21141658ade4837"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12029",
+        "abyssId": "12029",
+        "playXID": "9f4e3847f075d1e7e21141658ade4837",
+        "title": "Tokyo 24th Ward",
+        "season": 1,
+        "episode": 8,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "8EVy-_sTs"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "lbZJuGpy0"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "UbWvRiVNQ"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/63746dcfb660febd69967645b2568056/master.m3u8?md5=rZQGj0BY5Y_WOzl0ZWGDFQ&expires=1792167017",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/63746dcfb660febd69967645b2568056/master.m3u8?md5=rZQGj0BY5Y_WOzl0ZWGDFQ&expires=1792167017",
+            "videoSource": "https://ravok.buzz/cdn/hls/63746dcfb660febd69967645b2568056/master.m3u8?md5=rZQGj0BY5Y_WOzl0ZWGDFQ&expires=1792167017",
+            "videoImage": "https://as-cdn30.top/p/RyxpOuAiMgQ3Z-1mi-R3Zmo7vC92zvw3WkQ6mXmgeREZKwKTDr0CDPizz7kzxf67aQXOLAYe8DAP-8o10tZ_KA.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "9f4e3847f075d1e7e21141658ade4837",
+                "streamUrl": "https://ravok.buzz/cdn/hls/63746dcfb660febd69967645b2568056/master.m3u8?md5=rZQGj0BY5Y_WOzl0ZWGDFQ&expires=1792167017",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/63746dcfb660febd69967645b2568056/master.m3u8?md5=rZQGj0BY5Y_WOzl0ZWGDFQ&expires=1792167017",
+                "videoSource": "https://ravok.buzz/cdn/hls/63746dcfb660febd69967645b2568056/master.m3u8?md5=rZQGj0BY5Y_WOzl0ZWGDFQ&expires=1792167017",
+                "link": "https://ravok.buzz/cdn/hls/63746dcfb660febd69967645b2568056/master.m3u8?md5=rZQGj0BY5Y_WOzl0ZWGDFQ&expires=1792167017",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/RyxpOuAiMgQ3Z-1mi-R3Zmo7vC92zvw3WkQ6mXmgeREZKwKTDr0CDPizz7kzxf67aQXOLAYe8DAP-8o10tZ_KA.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "8EVy-_sTs"
+        }
+      },
+      "fetched_at": "2026-10-16T14:10:27Z"
+    },
+    {
+      "id": "episode/private-tokyo-24th-ward-1x10",
+      "episode_id": "episode/private-tokyo-24th-ward-1x10",
+      "title": "Private: Tokyo 24th Ward 1x1",
+      "episode_name": "Private: Tokyo 24th Ward 1x1",
+      "episode_number": 10,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1199/1/10.webp",
+      "abyssid": "12031",
+      "abyssId": "12031",
+      "playxid": "477bdb55b231264bb53a7942fd84254d",
+      "playXID": "477bdb55b231264bb53a7942fd84254d",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12031",
+        "playXID": "477bdb55b231264bb53a7942fd84254d",
+        "streamId": "12031",
+        "dubPlayerSrc": "/dub-player/t/12031/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=477bdb55b231264bb53a7942fd84254d&abyssId=12031"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12031",
+        "playXID": "477bdb55b231264bb53a7942fd84254d",
+        "streamId": "12031",
+        "dubPlayerSrc": "/dub-player/t/12031/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=477bdb55b231264bb53a7942fd84254d&abyssId=12031"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/477bdb55b231264bb53a7942fd84254d",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/477bdb55b231264bb53a7942fd84254d"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12031",
+        "abyssId": "12031",
+        "playXID": "477bdb55b231264bb53a7942fd84254d",
+        "title": "Tokyo 24th Ward",
+        "season": 1,
+        "episode": 10,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "iPRDsYTm2"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "KZt-atYUZ"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "T55TLZr9w"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/c8af14f32e341c214e41cd6b1a772dce/master.m3u8?md5=uKaSE84XCODS1NQQ5lYauA&expires=1792167017",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/c8af14f32e341c214e41cd6b1a772dce/master.m3u8?md5=uKaSE84XCODS1NQQ5lYauA&expires=1792167017",
+            "videoSource": "https://ravok.buzz/cdn/hls/c8af14f32e341c214e41cd6b1a772dce/master.m3u8?md5=uKaSE84XCODS1NQQ5lYauA&expires=1792167017",
+            "videoImage": "https://as-cdn27.top/p/-0Ho0DKiNxWRKj16lB78Q6rjDYs8gblzd17fnxXxBfUZsaUrPq5ek9_bKAwvv9O0iAbUcUjjccAFFqX6YA1J2g.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "477bdb55b231264bb53a7942fd84254d",
+                "streamUrl": "https://ravok.buzz/cdn/hls/c8af14f32e341c214e41cd6b1a772dce/master.m3u8?md5=uKaSE84XCODS1NQQ5lYauA&expires=1792167017",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/c8af14f32e341c214e41cd6b1a772dce/master.m3u8?md5=uKaSE84XCODS1NQQ5lYauA&expires=1792167017",
+                "videoSource": "https://ravok.buzz/cdn/hls/c8af14f32e341c214e41cd6b1a772dce/master.m3u8?md5=uKaSE84XCODS1NQQ5lYauA&expires=1792167017",
+                "link": "https://ravok.buzz/cdn/hls/c8af14f32e341c214e41cd6b1a772dce/master.m3u8?md5=uKaSE84XCODS1NQQ5lYauA&expires=1792167017",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/-0Ho0DKiNxWRKj16lB78Q6rjDYs8gblzd17fnxXxBfUZsaUrPq5ek9_bKAwvv9O0iAbUcUjjccAFFqX6YA1J2g.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "iPRDsYTm2"
+        }
+      },
+      "fetched_at": "2026-10-16T14:10:27Z"
+    },
+    {
+      "id": "episode/private-tokyo-24th-ward-1x11",
+      "episode_id": "episode/private-tokyo-24th-ward-1x11",
+      "title": "Private: Tokyo 24th Ward 1x1",
+      "episode_name": "Private: Tokyo 24th Ward 1x1",
+      "episode_number": 11,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1199/1/11.webp",
+      "abyssid": "12032",
+      "abyssId": "12032",
+      "playxid": "4ab50afd6dcc95fcba76d0fe04295632",
+      "playXID": "4ab50afd6dcc95fcba76d0fe04295632",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12032",
+        "playXID": "4ab50afd6dcc95fcba76d0fe04295632",
+        "streamId": "12032",
+        "dubPlayerSrc": "/dub-player/t/12032/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=4ab50afd6dcc95fcba76d0fe04295632&abyssId=12032"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12032",
+        "playXID": "4ab50afd6dcc95fcba76d0fe04295632",
+        "streamId": "12032",
+        "dubPlayerSrc": "/dub-player/t/12032/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=4ab50afd6dcc95fcba76d0fe04295632&abyssId=12032"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/4ab50afd6dcc95fcba76d0fe04295632",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/4ab50afd6dcc95fcba76d0fe04295632"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12032",
+        "abyssId": "12032",
+        "playXID": "4ab50afd6dcc95fcba76d0fe04295632",
+        "title": "Tokyo 24th Ward",
+        "season": 1,
+        "episode": 11,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "7LopPjB6C"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "r0FV_Fkp4"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "FFQ-5WAY_"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/93f7cb12249b890de3555d6453ce71fd/master.m3u8?md5=AsnMMJj2QrOgq7dpkalftA&expires=1792167019",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/93f7cb12249b890de3555d6453ce71fd/master.m3u8?md5=AsnMMJj2QrOgq7dpkalftA&expires=1792167019",
+            "videoSource": "https://ravok.buzz/cdn/hls/93f7cb12249b890de3555d6453ce71fd/master.m3u8?md5=AsnMMJj2QrOgq7dpkalftA&expires=1792167019",
+            "videoImage": "https://as-cdn27.top/p/zKu0Q0R2mZ6kPv3SlchSromYx5T3jlrKpBYbZNGukFxeln6Si8s7_Etix8hSP4MSqZSJATU0c8xhU3aAuOSG3w.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "4ab50afd6dcc95fcba76d0fe04295632",
+                "streamUrl": "https://ravok.buzz/cdn/hls/93f7cb12249b890de3555d6453ce71fd/master.m3u8?md5=AsnMMJj2QrOgq7dpkalftA&expires=1792167019",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/93f7cb12249b890de3555d6453ce71fd/master.m3u8?md5=AsnMMJj2QrOgq7dpkalftA&expires=1792167019",
+                "videoSource": "https://ravok.buzz/cdn/hls/93f7cb12249b890de3555d6453ce71fd/master.m3u8?md5=AsnMMJj2QrOgq7dpkalftA&expires=1792167019",
+                "link": "https://ravok.buzz/cdn/hls/93f7cb12249b890de3555d6453ce71fd/master.m3u8?md5=AsnMMJj2QrOgq7dpkalftA&expires=1792167019",
+                "hls": true,
+                "videoImage": "https://as-cdn27.top/p/zKu0Q0R2mZ6kPv3SlchSromYx5T3jlrKpBYbZNGukFxeln6Si8s7_Etix8hSP4MSqZSJATU0c8xhU3aAuOSG3w.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "7LopPjB6C"
+        }
+      },
+      "fetched_at": "2026-10-16T14:10:29Z"
+    },
+    {
+      "id": "episode/private-tokyo-24th-ward-1x12",
+      "episode_id": "episode/private-tokyo-24th-ward-1x12",
+      "title": "Private: Tokyo 24th Ward 1x1",
+      "episode_name": "Private: Tokyo 24th Ward 1x1",
+      "episode_number": 12,
+      "season": 1,
+      "image": "https://img.watchanimeworld.one/image/1199/1/12.webp",
+      "abyssid": "12033",
+      "abyssId": "12033",
+      "playxid": "6cb5da3513bd26085ee3fad631ebb37a",
+      "playXID": "6cb5da3513bd26085ee3fad631ebb37a",
+      "stream_info": {
+        "hasDubPlayer": true,
+        "abyssId": "12033",
+        "playXID": "6cb5da3513bd26085ee3fad631ebb37a",
+        "streamId": "12033",
+        "dubPlayerSrc": "/dub-player/t/12033/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6cb5da3513bd26085ee3fad631ebb37a&abyssId=12033"
+      },
+      "streamInfo": {
+        "hasDubPlayer": true,
+        "abyssId": "12033",
+        "playXID": "6cb5da3513bd26085ee3fad631ebb37a",
+        "streamId": "12033",
+        "dubPlayerSrc": "/dub-player/t/12033/",
+        "message": null,
+        "serversEndpoint": "/stream/servers/?playXID=6cb5da3513bd26085ee3fad631ebb37a&abyssId=12033"
+      },
+      "players": [
+        {
+          "name": "Zephyrix HD (Recommended)",
+          "embedUrl": "https://play.zephyrix.org/video/6cb5da3513bd26085ee3fad631ebb37a",
+          "proxyUrl": "/api/v1/animeworldin/player/proxy/url=https://play.zephyrix.org/video/6cb5da3513bd26085ee3fad631ebb37a"
+        }
+      ],
+      "stream_servers": {
+        "streamId": "12033",
+        "abyssId": "12033",
+        "playXID": "6cb5da3513bd26085ee3fad631ebb37a",
+        "title": "Tokyo 24th Ward",
+        "season": 1,
+        "episode": 12,
+        "targetOrigin": "https://watchanimeworld.one",
+        "servers": [
+          {
+            "serverName": "abyss",
+            "server": "ABYSS",
+            "languages": [
+              {
+                "language": "Hindi",
+                "code": "hin",
+                "short": "HI",
+                "video_id": "_IVfAOP4D"
+              },
+              {
+                "language": "English",
+                "code": "eng",
+                "short": "EN",
+                "video_id": "coBDL-Spx"
+              },
+              {
+                "language": "Japanese",
+                "code": "jpn",
+                "short": "JA",
+                "video_id": "cgOzf945O"
+              }
+            ]
+          },
+          {
+            "serverName": "playx",
+            "server": "PlayX",
+            "streamUrl": "https://ravok.buzz/cdn/hls/104c97c093dd62fd440d52706bee0ef7/master.m3u8?md5=tdatJcL3XYaYeiYcIKy3ZQ&expires=1792167019",
+            "sourceUrl": "https://ravok.buzz/cdn/hls/104c97c093dd62fd440d52706bee0ef7/master.m3u8?md5=tdatJcL3XYaYeiYcIKy3ZQ&expires=1792167019",
+            "videoSource": "https://ravok.buzz/cdn/hls/104c97c093dd62fd440d52706bee0ef7/master.m3u8?md5=tdatJcL3XYaYeiYcIKy3ZQ&expires=1792167019",
+            "videoImage": "https://as-cdn30.top/p/kYA1ziyvZuZFxSRkOOkWRvSwl2fIiDm6wgAHN_1RkMyvSvbDPWV3DwfBtkbnHaGco9r6e6S-s7tqZMPYWIO4_w.jpg",
+            "hls": true,
+            "languages": [
+              {
+                "language": "multi",
+                "code": "multi",
+                "short": "MULTI",
+                "video_id": "6cb5da3513bd26085ee3fad631ebb37a",
+                "streamUrl": "https://ravok.buzz/cdn/hls/104c97c093dd62fd440d52706bee0ef7/master.m3u8?md5=tdatJcL3XYaYeiYcIKy3ZQ&expires=1792167019",
+                "sourceUrl": "https://ravok.buzz/cdn/hls/104c97c093dd62fd440d52706bee0ef7/master.m3u8?md5=tdatJcL3XYaYeiYcIKy3ZQ&expires=1792167019",
+                "videoSource": "https://ravok.buzz/cdn/hls/104c97c093dd62fd440d52706bee0ef7/master.m3u8?md5=tdatJcL3XYaYeiYcIKy3ZQ&expires=1792167019",
+                "link": "https://ravok.buzz/cdn/hls/104c97c093dd62fd440d52706bee0ef7/master.m3u8?md5=tdatJcL3XYaYeiYcIKy3ZQ&expires=1792167019",
+                "hls": true,
+                "videoImage": "https://as-cdn30.top/p/kYA1ziyvZuZFxSRkOOkWRvSwl2fIiDm6wgAHN_1RkMyvSvbDPWV3DwfBtkbnHaGco9r6e6S-s7tqZMPYWIO4_w.jpg"
+              }
+            ]
+          }
+        ],
+        "defaultSource": {
+          "serverName": "abyss",
+          "language": "Hindi",
+          "video_id": "_IVfAOP4D"
+        }
+      },
+      "fetched_at": "2026-10-16T14:10:29Z"
+    }
+  ],
+  "is_complete": true,
+  "created_at": "2026-10-16T14:10:23Z",
+  "updated_at": "2026-10-16T14:10:29Z"
+}
